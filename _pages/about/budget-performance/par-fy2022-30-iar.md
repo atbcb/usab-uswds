@@ -9,9 +9,13 @@ In our audits of the fiscal years 2022 and 2021 financial statements of the U.S.
 
 * no material weaknesses in internal control over financial reporting based on the limited procedures we performed; and
 
-* no reportable noncompliance for fiscal year 2021 with provisions of applicable laws, regulations, contracts, and grant agreements we tested.
+* no reportable noncompliance for fiscal year 2021 with provisions of applicable laws, regulations, contracts, and grant agreements for fiscal year 2022.
 
-The following sections discuss in more detail (1) our report on the financial statements, which includes required supplementary information (RSI) and other information included with the financial statements; (2) our report on internal control over financial reporting; and (3) our report on compliance with laws, regulations, contracts, and grant agreements.
+The following sections discuss in more detail (1) our report on the financial statements, which includes required supplementary information (RSI)[^1] and other information included with the financial statements[^2]; (2) our report on internal control over financial reporting; and (3) our report on compliance with laws, regulations, contracts, and grant agreements.
+
+[^1]: The RSI consists of Management’s Discussion and Analysis and the Statement of Budgetary Resources, which are included with the financial statements.
+
+[^2]: Other information consists of information included with the financial statements, other than the RSI, Financial section, and the auditor’s report.
 
 #### Report on the Financial Statements
 
