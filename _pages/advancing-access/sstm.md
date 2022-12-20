@@ -26,12 +26,12 @@ Individuals may submit comments via any of the following methods:
 >> Office of Technical and Information Services \
 >> U.S. Access Board \
 >> 1331 F Street NW, Suite 1000 \
->> Washington, DC 20004-1111  
+>> Washington, DC&nbsp; 20004-1111  
 
 {% endcomment %}
 
-For background and more information, access the [Regulations.gov docket](https://www.regulations.gov/docket/ATBCB-2022-0004) or [browse the comments](https://www.regulations.gov/document/ATBCB-2022-0004-0001/comment).
+For background and more information, access the [Regulations.gov docket](https://www.regulations.gov/docket/ATBCB-2022-0004) or [browse the comments](https://www.regulations.gov/document/ATBCB-2022-0004-0001/comment).  The next steps in this rulemaking include analysing comments and developing a preliminary regulatory impact analysis (RIA).
 
 For further information, contact Bruce Bailey at 1-202-272-0024 or <bailey@access-board.gov>, or Wendy Marshall at 1-202-272-0043 or <marshall@access-board.gov>.
 
-To learn more about the Board's rulemaking process, visit the Board's [rulemaking process page]({{ site.baseurl }}/rulemaking-process/).
+To learn more about the Board's rulemaking process, visit the Board's [rulemaking process page]({{ site.baseurl }}/rulemaking-process/) and the [Administrative Procedure Act](https://www.archives.gov/federal-register/laws/administrative-procedure) (APA).
