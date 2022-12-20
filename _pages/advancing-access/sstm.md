@@ -15,7 +15,7 @@ The notice is based on technical requirements for ATMs and fare machines in the 
 
 Public comments for the ANPRM were due by November 21, 2022.
 
-{% commement %}
+{% comment %}
 
 Individuals may submit comments via any of the following methods: 
 
@@ -28,7 +28,7 @@ Individuals may submit comments via any of the following methods:
 >> 1331 F Street NW, Suite 1000 \
 >> Washington, DC 20004-1111  
 
-{% endcommement %}
+{% endcomment %}
 
 For background and more information, access the [Regulations.gov docket](https://www.regulations.gov/docket/ATBCB-2022-0004) or [browse the comments](https://www.regulations.gov/document/ATBCB-2022-0004-0001/comment).
 
