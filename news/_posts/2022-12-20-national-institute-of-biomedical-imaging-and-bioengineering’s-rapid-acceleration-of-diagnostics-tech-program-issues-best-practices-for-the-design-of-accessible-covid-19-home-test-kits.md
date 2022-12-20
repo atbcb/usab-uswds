@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "National Institute of Biomedical Imaging and Bioengineering’s Rapid
+title: "NIBIB’s Rapid
   Acceleration of Diagnostics Tech Program Issues Best Practices for the Design
   of Accessible COVID-19 Home Test Kits "
 date: 2022-12-20
