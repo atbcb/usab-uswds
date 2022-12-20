@@ -8,7 +8,7 @@ excerpt: The U.S. Access Board commemorates the International Day of Persons
   IDPD was proclaimed in 1992 by the United Nations General Assembly resolution
   47/3. IDPD aims to . . .
 image: /images/uploads/IDPD-logo.png
-featured: true
+featured: false
 ---
 The U.S. Access Board commemorates the International Day of Persons with Disabilities (IDPD), as observed on December 3. The annual observance of IDPD was proclaimed in 1992 by the United Nations General Assembly resolution 47/3. IDPD aims to promote an understanding of disability issues and mobilize support for the dignity, rights, and well-being of people with disabilities.  
 
