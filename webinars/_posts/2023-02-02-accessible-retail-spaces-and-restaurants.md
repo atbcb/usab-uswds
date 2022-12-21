@@ -28,6 +28,7 @@ tags:
 closed: false
 webinar-start: February 2, 2023 2:30 PM
 webinar-end: February 2, 2023 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111038
 webinar: true
 ---
 ### Description
@@ -40,7 +41,7 @@ The holidays may have passed, but shopping and eating out in the new year contin
 | --------------------------- | ---------------- |
 | ACTCP                       | 1.5              |
 | AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
+| Certificate of Attendance   | 1.5              |
 | ICC                         | 1.5              |
 | LA CES                      | 1.5              |
 
