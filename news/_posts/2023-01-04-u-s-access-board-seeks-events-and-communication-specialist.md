@@ -6,7 +6,7 @@ excerpt: The U.S. Access Board seeks an Events and Communication Specialist to
   serve in its Office of Executive Director. This Events and Communication
   Specialist position will be responsible for . . .
 image: /images/uploads/ab-seal.png
-featured: true
+featured: false
 ---
 The U.S. Access Board seeks an Events and Communication Specialist to serve in its Office of Executive Director. This Events and Communication Specialist position will be responsible for planning, coordination, communication, and administrative and logistical support for virtual and in-person public events hosted by the Access Board. Additionally, they will manage the agency’s social media platforms, including content development and audience engagement. More information about the duties is in the vacancy announcement. 
 
