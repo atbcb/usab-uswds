@@ -6,7 +6,7 @@ excerpt: All are welcome to attend the next meeting of the U.S. Access Board,
   which will be open to the public and take place virtually on January 11 from
   1:00 – 2:00 p.m. (ET). The agenda for the meeting includes . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
-featured: true
+featured: false
 ---
 All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on **January 11** from **1:00 – 2:00 p.m. (ET)**. The agenda for the meeting includes federal agency updates and brief reports from standing and ad hoc Board committees and the Executive Director.
 
