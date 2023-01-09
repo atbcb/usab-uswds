@@ -17,8 +17,8 @@ The Section 504 at 50 Interview Series is hosted by Dr. Peter Blanck, Jonathan M
 * Andrew Imparato, Disability Rights California
 * Charlotte McClain-Nhalpo, The World Bank 
 * Emily Ladau, author and disability rights activist 
-*﻿ John Wodatch, former Chief of Disability Rights, U.S. Department of Justice 
-*﻿ Judy Heumann, author and disability activist 
+* John Wodatch, former Chief of Disability Rights, U.S. Department of Justice 
+* Judy Heumann, author and disability activist 
 * Kathy Martinez, disability and accessibility strategy consultant 
 * Lex Frieden, educator, disability rights activist
 * Lois Curtis, artist and plaintiff in Olmstead v. L.C.
