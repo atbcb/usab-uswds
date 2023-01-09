@@ -10,7 +10,7 @@ image: /images/uploads/se-ada-center-podcast-logo.png
 image_alt_text: Graphic of microphone between two human silhouettes speaking to each other
 featured: false
 ---
-In recognition of the 50th anniversary of the signing of the Rehabilitation Act of 1973, the [Southeast ADA Center](https://adasoutheast.org/) has launched a special virtual interview series where the Center speaks with leaders of the disability rights movement. The interview series, including the [fourteen episodes](https://section504at50.org/episodes/), and resources are available on the Center’s [Section 504 at 50](https://section504at50.org/) webpage.
+In recognition of the 50th anniversary of the signing of the Rehabilitation Act of 1973, the [Southeast ADA Center](https://adasoutheast.org/) has launched a special virtual interview series where the Center speaks with leaders of the disability rights movement. The interview series, including the [fourteen episodes](https://section504at50.org/episodes/), and resources are available on the Center’s [Section 504 at 50](https://section504at50.org/) webpage. 
 
 The Section 504 at 50 Interview Series is hosted by Dr. Peter Blanck, Jonathan Martinis, and Barry Whaley of the Southeast ADA Center and Burton Blatt Institute at Syracuse University. Guests for the series include:
 
