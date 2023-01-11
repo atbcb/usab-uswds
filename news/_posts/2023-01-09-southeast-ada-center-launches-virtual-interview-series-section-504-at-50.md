@@ -6,7 +6,7 @@ excerpt: In recognition of the 50th anniversary of the signing of the
   Rehabilitation Act of 1973, the Southeast ADA Center has launched a special
   virtual interview series where the Center speaks with leaders of the
   disability rights movement. The interview series, including . . .
-image: /images/uploads/se-ada-center-podcast-logo.png
+image: /images/uploads/se-ada-podcast-logo.jpg
 image_alt_text: Graphic of microphone between two human silhouettes speaking to each other
 featured: false
 ---
