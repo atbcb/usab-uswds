@@ -12,33 +12,17 @@ Members of the U.S. Access Board meet quarterly over the course of three days. A
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board is scheduled for **Wednesday, January 11, 2023** beginning at 1:00 p.m. (ET).  At this meeting, the Board will hear committee reports and federal member agency updates. The Honorable Taryn Williams will chair this meeting.
-
-> **Public Meeting of the U.S. Access Board** \
-> January 11, 2023, 1:00 – 2:00 p.m. (ET) \
-> Meeting link: [www.zoomgov.com/j/1617695856](https://www.zoomgov.com/j/1617695856) \
-> Meeting ID:  161 769 5856\
-> Dial in:  (646) 828-7666\
-> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
-
->_Agenda_
->- Introductory Remarks; Roll Call; Approval of November 9, 2022 draft meeting minutes (vote)
->- Executive Director's Report
->- Standing Committee Reports
->- Ad Hoc and Special Committee Reports
->- Federal Agency Updates
->- New Business
->- Adjourn
+The next virtual meeting of the Board is scheduled for **Wednesday, March 15, 2023** beginning at 1:00 p.m. (ET).  At this meeting, the Board will hear committee reports and federal member agency updates. The Honorable Taryn Williams will chair this meeting.
 
 ## Future Board Meetings
 
-- January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
 - July 24 - 26, 2023, In-person, Washington, DC
 - October 23 - 25, 2023, Virtual
 
 ## Board Meeting Archives
 
+- [January 11, 2023] (https://www.youtube.com/watch?v=SjPeYA4Lfi8)
 - [November 9, 2022](https://www.youtube.com/watch?v=kL4IKkiOLHA)
 - [July 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
