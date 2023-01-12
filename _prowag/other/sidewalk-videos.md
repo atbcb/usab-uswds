@@ -25,7 +25,7 @@ Further guidance on accessible public rights-of-way is available from the Access
 #### Related Board Resources
 
 - [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2013)
-- [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
+- [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research) 
 
 #### Other Resources
 
