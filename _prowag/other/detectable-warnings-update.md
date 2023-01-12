@@ -62,7 +62,7 @@ The Federal Highway Administration (FHWA) also encourages the provision of detec
 
 ### Further Information
 
-Further guidance on accessible public rights-of-way and detectable warnings is available from the Access Board at (800) 872-2253 (v), (800) 993-2822 (TTY), or <row@access-board.gov>.
+Further guidance on accessible public rights-of-way and detectable warnings is available from the Access Board at 1-202-272-0080 (voice/TTY) or <row@access-board.gov>.
 
 #### Related Board Resources
 
