@@ -15,3 +15,19 @@ The Access Board developed a four-part video to illustrate access issues and con
 [Program 2: Pedestrians Who Have Ambulatory Impairments](https://usa-accessboard.box.com/s/9wcdcn1ael6o491by28ze1mcr2v3785q) \
 [Program 3: Pedestrians Who Have Low Vision](https://usa-accessboard.box.com/shared/static/5jpnbk0nv1u9ntxl08i3fy0wgq4rgdc1.mp4) \
 [Program 4: Pedestrians Who Are Blind](https://usa-accessboard.box.com/s/52fnit2dgbybo6tyaih1ehaas4f1yc68)
+
+### Further Information
+
+Further guidance on accessible public rights-of-way and detectable warnings is available from the Access Board at 1-202-272-0080 (voice/TTY) or <row@access-board.gov>.
+
+#### Related Board Resources
+
+- [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2013)
+- [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
+
+#### Other Resources
+
+- Department of Transportation [www.fta.dot.gov](http://www.fta.dot.gov/) 888-446-4511 (voice/relay)
+- FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm) on compliance with detectable warning requirements (May 2002)
+- Department of Justice [www.ada.gov](http://www.ada.gov/) 800-514-0301 (voice), 800-514-0383 (TTY)
+- Accessible Design for the Blind [www.accessforblind.org](http://www.accessforblind.org/) 978-838-2307
