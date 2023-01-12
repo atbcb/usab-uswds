@@ -18,7 +18,7 @@ The Access Board developed a four-part video to illustrate access issues and con
 
 ### Further Information
 
-Further guidance on accessible public rights-of-way and detectable warnings is available from the Access Board at 1-202-272-0080 (voice/TTY) or <row@access-board.gov>.
+Further guidance on accessible public rights-of-way is available from the Access Board at 1-202-272-0080 (voice/TTY) or <row@access-board.gov>.
 
 #### Related Board Resources
 
