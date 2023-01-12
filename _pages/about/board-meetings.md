@@ -22,7 +22,7 @@ The next virtual meeting of the Board is scheduled for **Wednesday, March 15, 20
 
 ## Board Meeting Archives
 
-- [January 11, 2023] (https://www.youtube.com/watch?v=SjPeYA4Lfi8)
+- [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
 - [November 9, 2022](https://www.youtube.com/watch?v=kL4IKkiOLHA)
 - [July 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
