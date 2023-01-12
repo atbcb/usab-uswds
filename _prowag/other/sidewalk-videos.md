@@ -16,6 +16,8 @@ The Access Board developed a four-part video to illustrate access issues and con
 [Program 3: Pedestrians Who Have Low Vision](https://usa-accessboard.box.com/shared/static/5jpnbk0nv1u9ntxl08i3fy0wgq4rgdc1.mp4) \
 [Program 4: Pedestrians Who Are Blind](https://usa-accessboard.box.com/s/52fnit2dgbybo6tyaih1ehaas4f1yc68)
 
+---
+
 ### Further Information
 
 Further guidance on accessible public rights-of-way is available from the Access Board at 1-202-272-0080 (voice/TTY) or <row@access-board.gov>.
