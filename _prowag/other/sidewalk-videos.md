@@ -27,7 +27,7 @@ Further guidance on accessible public rights-of-way and detectable warnings is a
 
 #### Other Resources
 
-- Department of Transportation [www.fta.dot.gov](http://www.fta.dot.gov/) 888-446-4511 (voice/relay)
+- Department of Transportation [www.fta.dot.gov](http://www.fta.dot.gov/) 1-888-446-4511 (voice/relay)
 - FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm) on compliance with detectable warning requirements (May 2002)
-- Department of Justice [www.ada.gov](http://www.ada.gov/) 800-514-0301 (voice), 800-514-0383 (TTY)
-- Accessible Design for the Blind [www.accessforblind.org](http://www.accessforblind.org/) 978-838-2307
+- Department of Justice [www.ada.gov](http://www.ada.gov/) 800-514-0301 (voice), 1-800-514-0383 (TTY)
+- Accessible Design for the Blind [www.accessforblind.org](http://www.accessforblind.org/) 1-978-838-2307
