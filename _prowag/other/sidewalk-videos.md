@@ -4,7 +4,7 @@ toc: toc/auto.html
 toc-group: other
 order-number: 3
 banner-subtitle: Additional Resources
-permalink: /prowag/other/accessible-sidewalks-video-series
+permalink: /prowag/other/accessible-sidewalks-video-series/
 ---
 
 ## {{ page.title }}
