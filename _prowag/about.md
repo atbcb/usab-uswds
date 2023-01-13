@@ -44,10 +44,14 @@ The Access Board issued proposed guidelines for public comment.  The Board is in
 
 
 ### Additional Resources
+- [Accessible Sidewalks Video Series]({{ site.baseurl }}/prowag/other/accessible-sidewalks-video-series/)
+
 - Public Rights-of-Way Access Advisory Committee (PROWAAC) releases a Special Report on [Planning and Design for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/)
 
 - [Detectable Warnings Update]({{ site.baseurl }}/prowag/other/dw-update.html) (March 2014)
 
-- [Accessible Sidewalks Video Series]({{ site.baseurl }}/prowag/other/accessible-sidewalks-video-series/)
-
 - Department of Justice/Department of Transportation Joint Technical Assistance on the Title II of the Americans with Disabilities Act Requirements to Provide Curb Ramps when Streets, Roads, or Highways are Altered through Resurfacing [Statement](https://www.fhwa.dot.gov/civilrights/programs/ada/doj_fhwa_ta.cfm) and [Supplemental Q&A](https://www.ada.gov/doj-fhwa-ta-supplement-2015.html)
+
+- [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2013)
+
+- [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
