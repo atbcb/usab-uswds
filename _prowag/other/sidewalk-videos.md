@@ -15,7 +15,7 @@ The Access Board developed a four-part video to illustrate access issues and con
 
 [Program 1: Pedestrians Who Use Wheelchairs](https://usa-accessboard.box.com/s/muxcrgqooh16q44aqbiq27da76okuway) \
 [Program 2: Pedestrians Who Have Ambulatory Impairments](https://usa-accessboard.box.com/s/9wcdcn1ael6o491by28ze1mcr2v3785q) \
-[Program 3: Pedestrians Who Have Low Vision](https://usa-accessboard.box.com/shared/static/5jpnbk0nv1u9ntxl08i3fy0wgq4rgdc1.mp4) \
+[Program 3: Pedestrians Who Have Low Vision](https://usa-accessboard.box.com/s/5jpnbk0nv1u9ntxl08i3fy0wgq4rgdc1) \
 [Program 4: Pedestrians Who Are Blind](https://usa-accessboard.box.com/s/52fnit2dgbybo6tyaih1ehaas4f1yc68)
 
 ---
