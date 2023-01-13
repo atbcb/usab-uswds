@@ -5,6 +5,8 @@ toc-group: other
 order-number: 3
 banner-subtitle: Additional Resources
 permalink: /prowag/other/accessible-sidewalks-video-series/
+redirect_from:
+ - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series/ 
 ---
 
 ## {{ page.title }}
@@ -31,5 +33,5 @@ Further guidance on accessible public rights-of-way is available from the Access
 
 - Department of Transportation [www.fta.dot.gov](http://www.fta.dot.gov/) 1-888-446-4511 (voice/relay)
 - FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm) on compliance with detectable warning requirements (May 2002)
-- Department of Justice [www.ada.gov](http://www.ada.gov/) 800-514-0301 (voice), 1-800-514-0383 (TTY)
+- Department of Justice [www.ada.gov](http://www.ada.gov/) 1-800-514-0301 (voice), 1-800-514-0383 (TTY)
 - Accessible Design for the Blind [www.accessforblind.org](http://www.accessforblind.org/) 1-978-838-2307
