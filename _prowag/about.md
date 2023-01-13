@@ -44,6 +44,8 @@ The Access Board issued proposed guidelines for public comment.  The Board is in
 
 
 ### Additional Resources
+- [Accessible Sidewalks Video Series]({{ site.baseurl }}/prowag/other/accessible-sidewalks-video-series/)
+
 - Public Rights-of-Way Access Advisory Committee (PROWAAC) releases a Special Report on [Planning and Design for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/)
 
 - [Detectable Warnings Update]({{ site.baseurl }}/prowag/other/dw-update.html) (March 2014)
