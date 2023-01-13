@@ -303,11 +303,8 @@ This document provides guidance and best practices on accessibility in planning 
 (May 2014)  
 This document summarizes requirements and recommendations for detectable warnings under the ADA.
 
-{% comment %}
-* [Accessible Sidewalks]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series) (video) (2003)  
-Accessible Sidewalks  is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
-
-{% endcomment %}
+* [Accessible Sidewalks]({{ site.baseurl }}/prowag/other/accessible-sidewalks-video-series/) (video) (2003)  
+Accessible Sidewalks is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
 
 ##  Guidance on Prescription Drug Labels
 
