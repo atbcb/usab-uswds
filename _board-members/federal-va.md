@@ -1,10 +1,13 @@
 ---
-last-name: [Currently Vacant]
+last-name: "[Currently Vacant]"
 agency: Department of Veterans Affairs
 name: federal-va
-full_name: [Currently Vacant]
+full_name: "[Currently Vacant]"
 chair: false
 vice-chair: false
 member: federal
 status: current
+image: /images/uploads/vacant.svg
+job-title: ""
+department: null
 ---
