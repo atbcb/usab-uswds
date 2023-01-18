@@ -4,6 +4,7 @@ first_name: Bill
 last_name: Botten
 full_name: Bill Botten
 pronouns: he/his/him
+status: former
 image: /images/uploads/bill-botten.png
 job-title: Training Coordinator
 office: Office of Technical and Information Services
