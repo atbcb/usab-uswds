@@ -17,7 +17,7 @@ During the U.S. Access Board’s meeting in Philadelphia last week, Board staff 
 **Tuesday, September 13** \
 Temple University 
 * [Architectural Design and Social Justice, PPT (18.6 MB)](https://usa-accessboard.box.com/shared/static/1gppxixdxdxdbwfudfxt8ge30mf6uyrf.pptx) 
-* [Digital Inclusion: Accessibility in Higher Education, PPT (11.6 MB)](https://usa-accessboard.box.com/shared/static/1po2q5thmqau2340s497fxncjesyytc1.pptx)
+* [Digital Inclusion: Accessibility in Higher Education, PPT (11.6 MB)](https://usa-accessboard.box.com/s/jugy7fy16mcxmibthae938pkj42j25xb)
 * [Making Documents Accessible, PPT (13.8 MB)](https://usa-accessboard.box.com/s/wxw9oyc1qe0b37hzf736kvgcvm1ieey1)
 * [Overview of the ADA and ABA Accessibility Standards, PPT (8.5 MB)](https://usa-accessboard.box.com/shared/static/svxonp3x9v54u7tuyzyb88hwzfjq0n4x.pptx) 
 
