@@ -32,7 +32,7 @@ If you have questions on these accessibility guidelines and standards call or em
 | <generalcounsel@access-board.gov> | legal questions about Access Board statutory authorities, programs, operations, or ethics iling a complaint about facility access under the Architectural Barriers Act |
 | <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
 | <mde@access-board.gov> | questions about medical diagnostic equipment |
-| <news@access-board.gov> | media inquiries, Board news, public affairs, or subscriptions to its newsletter |
+| <news@access-board.gov> | media inquiries, public affairs, outreach, or subscriptions to the Board's e-news |
 | <outdoor@access-board.gov> | questions about outdoor areas, including trails, beaches, and picnic and camping areas |
 | <pvag@access-board.gov> | questions about passenger vessels |
 | <row@access-board.gov> | questions about public rights-of-way, including streets and sidewalks |
