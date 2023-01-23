@@ -11,7 +11,7 @@ The Access Board’s research program is focused on the study of accessibility r
 
 The Access Board welcomes information on research initiatives related to accessibility and accessible design.  The Access Board maintains a strong interest in coordinating research with other entities and in exploring potential partnerships.  
 
-For more information about the Access Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
+For more information about the Access Board’s research program, email <ta@access-board.gov>.
 
 ## Completed Research
 
