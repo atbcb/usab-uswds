@@ -12,7 +12,7 @@ Members of the U.S. Access Board meet quarterly over the course of three days. A
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, March 15, 2023** beginning at 1:00 p.m. (ET). At this meeting, the Board will hear committee reports and federal member agency updates. The Honorable Taryn Williams will chair this meeting. Members of the public may listen to the meeting virtually on Zoom or in person at the Board's office at 1331 F Street NW, Suite 800, Washington, DC 20004.
+The next meeting of the Board is scheduled for **Wednesday, March 15, 2023** beginning at 1:00 p.m. (ET). At this meeting, the Board will hear committee reports and federal member agency updates. The Honorable Taryn Williams will chair this meeting. Members of the public may listen to the meeting virtually via Zoom, phone, or in person at the Board's office at 1331 F Street NW, Suite 800, Washington, DC 20004.
 
 ## Future Board Meetings
 
