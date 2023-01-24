@@ -144,7 +144,7 @@ permalink: /about/members-past.html
 * Shelley Siegel, FASID (2016-2022)
 * Gregory S. Fehribach (2016-present)
 
-<img src="{{ site.baseurl }}/images/biden.jpg" alt="President Joseph Biden">
+<img src="{{ site.baseurl }}/images/biden.png" alt="President Joseph Biden">
 
 ### Appointed by President Joseph Biden
 
