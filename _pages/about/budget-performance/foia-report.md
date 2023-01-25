@@ -162,7 +162,7 @@ Email:&nbsp; <foia@access-board.gov>
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS -- "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
 | Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
-| --- | :-: | :-: | :-: | :-: |
+| ---- | :---: | :---: | :---: |
 | USAB | N/A | 0 | 0 |
 | Agency Overall |  |  | 0 |
 {: .usa-table }
@@ -171,8 +171,8 @@ Email:&nbsp; <foia@access-board.gov>
 
 | Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
 | ------------------ | :---: | :---: | :---: | :---: | :---: | :---: | :------: | :------: | :------: | :------: | :------: | :------: | :---: | :---: |
-| USAB               | 0     | 0     | 0     | 0     | 2     | 2     | 0        | 0        | 0        | 0        | 0        | 0        | 0     |  0 |
-| Agency Overall     | 0     | 0     | 0     | 0     | 2     | 2     | 0        | 0        | 0        | 0        | 0        | 0        | 0     |  0 |
+| USAB               | 0     | 0     | 0     | 0     | 2     | 2     | 0        | 0        | 0        | 0        | 0        | 0        | 0     |  0  |
+| Agency Overall     | 0     | 0     | 0     | 0     | 2     | 2     | 0        | 0        | 0        | 0        | 0        | 0        | 0     |  0  |
 {: .usa-table }
 
 ## Section VI

@@ -4,13 +4,13 @@ title: 'Public Forum on Inclusive Design of AVs: Summary Report'
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 file: /files/usab-av-forum-summary-report.pdf
-file-description: PDF version of AV Forum Summary Report
+file-description: AV Forum Summary Report in PDF format
 permalink: /av/report.html
 ---
 
 ## {{page.title}}
 
-<button class="usa-button" title="AV Forum Summary Report in PDF format" style="float:right"><a href="{{ site.baseurl }}/files/usab-av-forum-summary-report.pdf">PDF</a></button>
+<button class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
 
 **July 2021** 
 

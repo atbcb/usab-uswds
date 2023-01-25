@@ -6,18 +6,17 @@ permalink: /guidance.html
 redirect_from:
  - /guidance/
 ---
-Provided here is a complete list of Access Board guidance documents (including animations and videos) currently in effect as required by [Executive Order 13891](https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract. The Board may cite, use, or rely on only the guidance documents listed below. It cannot use other guidance documents except to establish historical facts. See the Board’s [Guidance Procedures](https://federalregister.gov/d/2020-18411) (36 CFR part 1155).
+Provided here is list of Access Board current guidance documents (including animations and videos).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract.  The Board may cite, use, or rely on only the guidance documents listed below, but cannot use other guidance documents except to establish historical facts. See the Board’s [Guidance Procedures](https://federalregister.gov/d/2020-18411) (36 CFR part 1155).
 
 * [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
 * [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
 * [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
 * [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
 * [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
-* [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology) 
 * [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
 
-* * * * *
+--- 
 
 ## Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards
 
@@ -282,17 +281,6 @@ This 12-minute animation explains requirements in the ADA and ABA Standards for 
 * [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/guides/) (HTML) (October 1992)  
 This document explains requirements in the ADA Accessibility Guidelines for Transportation Vehicles, including buses, vans, and rail vehicles.
 
-{% comment %}
-
-## Guidance on Requirements for Information and Communication Technology
-
-* [Guide to the Section 508 Standards]({{ site.baseurl }}/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards) (HTML) (June 2001)  
-This document explains requirements in the original Section 508 Standards (2000) for electronic and information technology in the federal sector.
-
-* [Guidance on the Telecommunications Act Section 255 Guidelines]({{ site.baseurl }}/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines) (HTML) (April 1999)  
-This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
-
-{% endcomment %}
 ## Guidance on Public Rights-of-Way
 
 * [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/) (HTML)
@@ -303,11 +291,8 @@ This document provides guidance and best practices on accessibility in planning 
 (May 2014)  
 This document summarizes requirements and recommendations for detectable warnings under the ADA.
 
-{% comment %}
-* [Accessible Sidewalks]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series) (video) (2003)  
-Accessible Sidewalks  is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
-
-{% endcomment %}
+* [Accessible Sidewalks]({{ site.baseurl }}/prowag/other/accessible-sidewalks-video-series/) (video) (2003)  
+Accessible Sidewalks is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
 
 ##  Guidance on Prescription Drug Labels
 

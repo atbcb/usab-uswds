@@ -11,7 +11,7 @@ The Access Board’s research program is focused on the study of accessibility r
 
 The Access Board welcomes information on research initiatives related to accessibility and accessible design.  The Access Board maintains a strong interest in coordinating research with other entities and in exploring potential partnerships.  
 
-For more information about the Access Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
+For more information about the Access Board’s research program, email <ta@access-board.gov>.
 
 ## Completed Research
 
@@ -33,8 +33,8 @@ For more information about the Access Board’s research program, contact Dave Y
 -   [Engineered Wood Fiber - Play Surfaces]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/playground-surfaces-2003/) (2003)
     -   [Play Surfaces: Installation and Serviceability Results]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/playground-surfaces-2004/) (2004)
     -   [Accessible Trails: Installation and Serviceability Results]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/trails/) (2006)
--   [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility](http://nca.eppley.org/a-longitudinal-study-of-playground-surfaces-to-evaluate-accessibility/) (2013) National Center on Accessibility
--   [National Trail Surfaces Study: Final Report](http://nca.eppley.org/national-trail-surfaces-study/) (2014) National Center on Accessibility
+-   [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility](https://hdl.handle.net/2022/16892) (2013) National Center on Accessibility
+-   [National Trail Surfaces Study: Final Report](https://hdl.handle.net/2022/17381) (2014) National Center on Accessibility
 
 ### Human Measures/ Mobility Aids
 

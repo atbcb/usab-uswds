@@ -12,13 +12,12 @@ permalink: /events/
 
 ## Public Events
 
-### Upcoming Access Board Events
-> ***Meeting of the U.S. Access Board*** \
-> November 9, 2022, 1:00 – 2:30 p.m. (ET) \
-> Meeting link:  [www.zoomgov.com/j/1608576554](https://www.zoomgov.com/j/1608576554?pwd=ZXI0U2lTQ2hna2M4UUorekNhdjZ5dz09) \
-> Meeting ID:  160 857 6554 \
-> Dial in:  (646) 828-7666 \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+> **Public Meeting of the U.S. Access Board** \
+> March 15, 2023, 1:00 – 2:00 p.m. (ET) \
+> Meeting link: (Forthcoming) \
+> Meeting ID: (Forthcoming) \
+> Dial in: (Forthcoming) \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov)     
 
 ### Public Events Archives
 
@@ -31,20 +30,18 @@ permalink: /events/
 - [Accessible Virtual Meetings (January 13, 2021)](https://youtu.be/rR9RfhvM2sU)
 
 ## Access Board Meetings
-Members of the Access Board meet regularly every two months. At the Board meetings, a public session is slated and open for members of the public to attend. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
+Members of the Access Board meet quarterly. At the Board meetings, a public session is slated and open for members of the public to attend. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
 
 ### Future Board Meetings
 
-- November 7 - 9, 2022, Virtual 
-- January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
-- May 8 - 10, 2023, Virtual
 - July 24 - 26, 2023, In-person, Washington, DC
-- September 11 - 13, 2023, In-person, Washington, DC
-- November 13 - 15, 2023, Virtual
+- October 23 - 25, 2023, Virtual
 
 ### Board Meeting Archives
 
+- [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
+- [November 9, 2022](https://www.youtube.com/watch?v=kL4IKkiOLHA)
 - [July 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
