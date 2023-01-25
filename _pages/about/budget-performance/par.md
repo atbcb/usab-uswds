@@ -303,27 +303,14 @@ In Millions
 | **Budget of the U.S. Government** | **$ 9** | **$ 9** | **$ -** | **$ 7** |
 {: .par-money }
 
-#### NOTE 12. RECONCILIATION OF NET COST TO NET OUTLAYS
+#### NOTE 11. RECONCILIATION OF NET COST TO NET OUTLAYS
 
 The reconciliation of net outlays, presented on a budgetary basis, and the net cost, presented on an accrual basis, provides an explanation of the relationship between budgetary and financial accounting information.
 
-Reconciliation of Net Costs to Net Outlays as September 30, 2021:
-
-**Reconciliation of Net Cost to Net Outlays**
-
-###### Budget and Accrual Reconciliation <br /> For the Years Ended September 30, 2021
-
-**(In Dollars)**
+##### Reconciliation of Net Costs to Net Outlays as September 30, 2022:
 
 {% include_relative par-fy2022-100-note12.html %}
 
-Reconciliation of Net Cost to Net Outlays, as September 30, 2020:
-
-**Reconciliation of Net Cost to Net Outlays**
-
-###### Budget and Accrual Reconciliation <br /> For the Years Ended September 30, 2020
-
-**(In Dollars)**
+##### Reconciliation of Net Cost to Net Outlays, as September 30, 2021:
 
 {% include_relative par-fy2022-200-note12.html %}
-
