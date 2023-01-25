@@ -7,38 +7,36 @@ permalink: /contact/
 ---
 # United States Access Board
 
-1331 F Street NW, Suite 1000  
-Washington, DC  20004-1111  
+1331 F Street NW, Suite 1000 \
+Washington, DC  20004-1111 \
 Phone (voice):  202-272-0080 \
-Fax:  202-272-0081  
+Fax:  202-272-0081 \
 Email:  <info@access-board.gov>
 
 ## Technical Assistance
 
 If you have questions on these accessibility guidelines and standards call or email:
 
--   202-272-0080, extension 3 (voice)
--   <ta@access-board.gov>
+- 202-272-0080, extension 3 (voice)
+- <ta@access-board.gov>
 
 *Technical assistance is available 10:00 -- 5:00 ET weekdays.*
 
 ## E-mail Directory
 
-| contact us at... | for... |
-| --- | --- |
-| <508@access-board.gov> | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
+| contact us at...           | for... |
+| :---                       | :--- |
+| <508@access-board.gov>     | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
 | <enforce@access-board.gov> | filing a complaint about facility access under the Architectural Barriers Act |
-| <foia@access-board.gov> | submitting a request under the Freedom Of Information Act |
+| <foia@access-board.gov>    | submitting a request under the Freedom Of Information Act |
 | <generalcounsel@access-board.gov> | legal questions about Access Board statutory authorities, programs, operations, or ethics iling a complaint about facility access under the Architectural Barriers Act |
 | <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
 | <mde@access-board.gov> | questions about medical diagnostic equipment |
 | <news@access-board.gov> | media inquiries, public affairs, outreach, or subscriptions to the Board's e-news |
-| <outdoor@access-board.gov> | questions about outdoor areas, including trails, beaches, and picnic and camping areas |
 | <pvag@access-board.gov> | questions about passenger vessels |
 | <row@access-board.gov> | questions about public rights-of-way, including streets and sidewalks |
 | <ta@access-board.gov> | technical assistance on Board guidelines and accessible design |
 | <training@access-board.gov> | information on the Board's training program or to request training on its guidelines or standards |
-| <webmaster@access-board.gov> | questions or comments about the Board's website |
 {: .usa-table .usa-table--borderless .usa-table--striped }
 
 {% comment %}
