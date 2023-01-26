@@ -278,7 +278,7 @@ As of September 30, 2022, budgetary resources obligated for undelivered orders w
 | :---                         | ---:            | ---:            | ---:            |
 | Paid Undelivered Orders      | $ 309,000       | $ -             | $ 309,000       |
 | Unpaid Undelivered Orders    | 1,017,662       | 2,257,408       | 3,275,070       |
-| **Total Undelivered Orders** | **$ 1,326,662** | **$ 2,257,408** | **$ 2,296,838** |
+| **Total Undelivered Orders** | **$ 1,326,662** | **$ 2,257,408** | **$ 3,584,070** |
 {: .par-money }
 
 As of September 30, 2020, budgetary resources obligated for undelivered orders were as follows:
