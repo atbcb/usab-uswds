@@ -191,20 +191,14 @@ Schedule of General Property, Plant and Equipment, Net as of September 30, 2020.
 TABLE 42
 {: par-money :}
 
-#### NOTE 5. OTHER ASSETS
+#### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
-Other assets account balances as of September 30, 2021 and 2020, were as follows:
-
-TABLE 50
-{: par-money :}
-
-Access Board posts NBC Administrative Office procurement orders as prepayments.
-
-#### NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
-
-The liabilities for Access Board as of September 30, 2021 and 2020, include liabilities not covered by budgetary resources.&nbsp;
+The liabilities for Access Board as of September 30, 2022 and 2021, include liabilities not covered by budgetary resources.&nbsp;
 Congressional action is needed before budgetary resources can be provided.&nbsp;
 Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
+
+The deferrred lease liability amount rpresents the difference at year end between the sum of monthly cas disbursments paind to date for base rent and the sum of the average monthly rent calculated based on the term of the lease.&nbsp;
+This was due to a new lease agreement entered into that had rent abatement provisions.
 
 TABLE 60
 {: par-money :}
@@ -216,26 +210,26 @@ The balance in the accrued annual leave account is reviewed quarterly and adjust
 Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.&nbsp;
 Sick and other leave is expensed as taken.
 
-#### NOTE 7. OTHER LIABILITIES
+#### NOTE 6. OTHER LIABILITIES
 
-Other liabilities account balances as of September 30, 2021 were as follows:
+Other liabilities account balances as of September 30, 2022 were as follows:
 
 TABLE 71
 {: par-money :}
 
-Other liabilities account balances as of September 30, 2020 were as follows:
+Other liabilities account balances as of September 30, 2021 were as follows:
 
 TABLE 72
 {: par-money :}
 
-#### NOTE 8. LEASES
+#### NOTE 7. LEASES
 
 ##### Operating Leases
 
-Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.&nbsp;
-The lease term begins on July 1, 2018 and expires on January 1, 2022.&nbsp;
+Access Board occupies office space under a lease agreement that is accounted for as an operating lease.&nbsp;
+The lease term begins on January 1, 2022 and expires on December 31, 2036, which includes deferred rent.&nbsp;
 Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.&nbsp;
-The total operating lease expense for fiscal years 2021 and 2020 were $715,410 and $686,729, respectively.&nbsp;
+The total operating lease expense for fiscal years 2022 and 2021 were $658,488 and $715,410, respectively.&nbsp;
 Below is a schedule of future payments for the term of the lease.
 
 Access Board signed a new lease agreement that will be accounted for as an operating lease in Washington, DC.&nbsp;
@@ -243,14 +237,14 @@ The lease term will begin January 1, 2022 and run for a period of 180 months, ex
 Lease payments will be increased annually based on the adjustments for operating cost and real estate tax escalations.
 
 | Fiscal Year | Asset Category <br> Building |
-| --- | --- |
-| 2022 | $ 186,946 |
-| 2023 | 563,169 |
-| 2024 | 726,168 |
-| 2025 | 735,207 |
-| 2026 | 744,516 |
-| Thereafter | $ 8,443,087 |
-| **Total Future Payments** | **$ 11,399,094** |
+| :---        | ---:      |
+| 2023        | $ 563,169 |
+| 2024        |   726,168 |
+| 2025        |   735,207 |
+| 2026        |   744,516 |
+| 2027        |   765,119 |
+| Thereafter  | 7,677,888 |
+| **Total Future Payments** | **$ 11,212,148** |
 {: .par-money }
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
@@ -281,7 +275,7 @@ As of September 30, 2022, budgetary resources obligated for undelivered orders w
 | **Total Undelivered Orders** | **$ 1,326,662** | **$ 2,257,408** | **$ 3,584,070** |
 {: .par-money }
 
-As of September 30, 2020, budgetary resources obligated for undelivered orders were as follows:
+As of September 30, 2021, budgetary resources obligated for undelivered orders were as follows:
 
 | &nbsp;                       | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
