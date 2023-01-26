@@ -292,15 +292,17 @@ As of September 30, 2020, budgetary resources obligated for undelivered orders w
 
 #### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
-The President's Budget that will include fiscal year 2022 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2022 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.  The 2022 Budget of the United States Government, with the "Actual" column completed for 2020, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+The President's Budget that will include fiscal year 2022 actual budgetary execution information has not yet been published.&nbsp;
+The President's Budget is scheduled for publication in February 2023 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.&nbsp;
+The 2023 Budget of the United States Government, with the "Actual" column completed for 2021, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
 In Millions
 
-| &nbsp; | Budgetary <br /> Resources | New Obligations<br />  &amp; Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
-| --- | --- | --- | --- | --- |
-| Combined Statement of Budgetary Resources | $ 10 | $ 9 | $ - | $ 7 |
+| &nbsp; | Budgetary <br /> Resources | New Obligations<br /> &amp; Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
+| :--- | ---: | ---: | ---: | ---: |
+| Combined Statement of Budgetary Resources | $ 10 | $ 9 | $ - | $ 9 |
 | Difference -- Due to Rounding | (1) | - | - | - |
-| **Budget of the U.S. Government** | **$ 9** | **$ 9** | **$ -** | **$ 7** |
+| **Budget of the U.S. Government** | **$ 9** | **$ 9** | **$ -** | **$ 9** |
 {: .par-money }
 
 #### NOTE 11. RECONCILIATION OF NET COST TO NET OUTLAYS
