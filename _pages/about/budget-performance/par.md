@@ -255,19 +255,19 @@ Lease payments will be increased annually based on the adjustments for operating
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
 
-#### NOTE 9. INTER-ENTITY COSTS
+#### NOTE 8. INTER-ENTITY COSTS
 
 The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.&nbsp;
 Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.&nbsp;
 Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.&nbsp;
 Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.&nbsp;
-The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
-For the periods ended September 30, 2021 and 2020, respectively, inter-entity costs were as follows:
+The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.&nbsp;
+For the periods ended September 30, 2022 and 2020, respectively, inter-entity costs were as follows:
 
-| &nbsp; | 2021 | 2020 |
-| --- | --- | --- |
-| Office of Personnel Management | $ 223,543 | $ 202,105 |
-| **Total Imputed Financing Sources** | **$ 223,543** | **$ 202,105** |
+| &nbsp;                              | 2022          | 2021          |
+| :---                                | ---:          | ---:          |
+| Office of Personnel Management      | $ 221,092     |  $ 223,543    |
+| **Total Imputed Financing Sources** | **$ 221,092** | **$ 223,543** |
 {: .par-money }
 
 #### NOTE 9. UNDELIVERED ORDERS AT THE END OF THE PERIOD
