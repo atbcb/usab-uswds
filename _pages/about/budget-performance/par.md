@@ -270,29 +270,29 @@ For the periods ended September 30, 2021 and 2020, respectively, inter-entity co
 | **Total Imputed Financing Sources** | **$ 223,543** | **$ 202,105** |
 {: .par-money }
 
-#### NOTE 10. UNDELIVERED ORDERS AT THE END OF THE PERIOD
+#### NOTE 9. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
-As of September 30, 2021, budgetary resources obligated for undelivered orders were as follows.
+As of September 30, 2022, budgetary resources obligated for undelivered orders were as follows.
 
-| &nbsp; | Federal | Non-Federal | Total |
-| --- | --- | --- | --- |
-| Paid Undelivered Orders | $ 200,000 | $ - | $ 200,000 |
-| Unpaid Undelivered Orders | 796,040 | 1,300,798 | 2,296,838 |
-| **Total Undelivered Orders** | **$ 996,040** | **$ 1,300,798** | **$ 2,296,838** |
+| &nbsp;                       | Federal         | Non-Federal     | Total           |
+| :---                         | ---:            | ---:            | ---:            |
+| Paid Undelivered Orders      | $ 309,000       | $ -             | $ 309,000       |
+| Unpaid Undelivered Orders    | 1,017,662       | 2,257,408       | 3,275,070       |
+| **Total Undelivered Orders** | **$ 1,326,662** | **$ 2,257,408** | **$ 2,296,838** |
 {: .par-money }
 
 As of September 30, 2020, budgetary resources obligated for undelivered orders were as follows:
 
-
-| &nbsp; | Federal | Non-Federal | Total |
-| --- | --- | --- | --- |
-| Unpaid Undelivered Orders | $ 1,229,172 | $ 1,133,859 | $ 2,363,031 |
-| **Total Undelivered Orders** | **$ 1,229,172** | **$ 1,133,859** | **$ 2,363,031** |
+| &nbsp;                       | Federal         | Non-Federal     | Total           |
+| :---                         | ---:            | ---:            | ---:            |
+| Paid Undelivered Orders      | $ 200,000       | $ -             | $ 200,000       |
+| Unpaid Undelivered Orders    | 796,040         | 1,300,798       | $ 2,096,838     |
+| **Total Undelivered Orders** | **$ 996,040**   | **$ 1,300,798** | **$ 2,296,838** |
 {: .par-money }
 
-#### NOTE 11. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
+#### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
-The President's Budget that will include fiscal year 2021 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2022 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.  The 2022 Budget of the United States Government, with the "Actual" column completed for 2020, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+The President's Budget that will include fiscal year 2022 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2022 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.  The 2022 Budget of the United States Government, with the "Actual" column completed for 2020, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
 In Millions
 
