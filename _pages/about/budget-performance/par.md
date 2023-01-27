@@ -157,14 +157,15 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 Fund Balance with Treasury account balances as of September 30, 2021 and 2020, respectively, are shown below.
 
-TABLE 20
-{: par-money :}
+{% include_relative par-fy2022-52-note2.html %}
 
 No discrepancies exist between the Fund Balance reflected on the Balance Sheet and the balances in the Treasury accounts.
 
-The available unobligated fund balances represent the current-period amount available for obligation or commitment.  At the start of the next fiscal year, this amount will become part of the unavailable balance as described in the following paragraph.
+The available unobligated fund balances represent the current-period amount available for obligation or commitment.&nbsp;
+At the start of the next fiscal year, this amount will become part of the unavailable balance as described in the following paragraph.
 
-The unavailable unobligated fund balances represent the amount of appropriations for which the period of availability for obligation has expired.  These balances are available for upward adjustments of obligations incurred only during the period for which the appropriation was available for obligation or for paying claims attributable to the appropriations.
+The unavailable unobligated fund balances represent the amount of appropriations for which the period of availability for obligation has expired.&nbsp;
+These balances are available for upward adjustments of obligations incurred only during the period for which the appropriation was available for obligation or for paying claims attributable to the appropriations.
 
 The obligated balance not yet disbursed includes accounts payable, accrued expenses, and undelivered orders that have reduced unexpended appropriations but have not yet decreased the fund balance on hand.
 
