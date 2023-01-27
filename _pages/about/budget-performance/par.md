@@ -151,7 +151,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ![photo of calculator, paper spreadsheet, and pen]({{ site.baseurl }}/images/notes-header.jpg)
 
-{% include_relative par-fy2022-41-note1.md %}
+{% include_relative par-fy2022-51-note1.md %}
 
 #### NOTE 2. FUND BALANCE WITH TREASURY
 
