@@ -173,7 +173,7 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 Accounts receivable balances as of September 30, 2022 and 2021, respectively, were as follows.
 
-{% include_relative par-fy2022-53-note2.html %}
+{% include_relative par-fy2022-53-note3.html %}
 
 The accounts receivable is primarily made up of other receivable with the public for reimbursable work.
 
@@ -212,13 +212,11 @@ Sick and other leave is expensed as taken.
 
 Other liabilities account balances as of September 30, 2022 were as follows:
 
-TABLE 71
-{: par-money :}
+{% include_relative par-fy2022-57-note6a.html %}
 
 Other liabilities account balances as of September 30, 2021 were as follows:
 
-TABLE 72
-{: par-money :}
+{% include_relative par-fy2022-58-note6b.html %}
 
 #### NOTE 7. LEASES
 
