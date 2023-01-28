@@ -199,8 +199,7 @@ Although future appropriations to fund these liabilities are likely and anticipa
 The deferrred lease liability amount rpresents the difference at year end between the sum of monthly cas disbursments paind to date for base rent and the sum of the average monthly rent calculated based on the term of the lease.&nbsp;
 This was due to a new lease agreement entered into that had rent abatement provisions.
 
-TABLE 60
-{: par-money :}
+{% include_relative par-fy2022-56-note5.html %}
 
 FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on Access Board's name behalf and payable to the DOL.
 
