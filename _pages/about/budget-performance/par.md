@@ -171,23 +171,23 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 #### NOTE 3. ACCOUNTS RECEIVABLE, NET
 
-Accounts receivable balances as of September 30, 2021 and 2020, respectively, were as follows.
+Accounts receivable balances as of September 30, 2022 and 2021, respectively, were as follows.
 
-TABLE 30
-{: par-money :}
+{% include_relative par-fy2022-52-note2.html %}
 
 The accounts receivable is primarily made up of other receivable with the public for reimbursable work.
 
-Historical experience has indicated that the majority of the receivables are collectible.  There are no material uncollectible accounts as of September 30, 2021 and 2020.
+Historical experience has indicated that the majority of the receivables are collectible.&nbsp;
+There are no material uncollectible accounts as of September 30, 2022 and 2021.
 
 #### NOTE 4. GENERAL PROPERTY, PLANT AND EQUIPMENT, NET
 
-Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
+Schedule of General Property, Plant and Equipment, Net as of September 30, 2022:
 
 TABLE 41
 {: par-money :}
 
-Schedule of General Property, Plant and Equipment, Net as of September 30, 2020.
+Schedule of General Property, Plant and Equipment, Net as of September 30, 2021.
 
 TABLE 42
 {: par-money :}
