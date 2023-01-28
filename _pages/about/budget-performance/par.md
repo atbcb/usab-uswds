@@ -173,7 +173,7 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 Accounts receivable balances as of September 30, 2022 and 2021, respectively, were as follows.
 
-{% include_relative par-fy2022-52-note2.html %}
+{% include_relative par-fy2022-53-note2.html %}
 
 The accounts receivable is primarily made up of other receivable with the public for reimbursable work.
 
@@ -184,13 +184,11 @@ There are no material uncollectible accounts as of September 30, 2022 and 2021.
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2022:
 
-TABLE 41
-{: par-money :}
+{% include_relative par-fy2022-54-note4a.html %}
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2021.
 
-TABLE 42
-{: par-money :}
+{% include_relative par-fy2022-55-note4b.html %}
 
 #### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
