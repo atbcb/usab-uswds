@@ -111,5 +111,6 @@ The purpose of this report is solely to describe the scope of our testing of com
 
 ![Brown and Company signature]({{ site.baseurl }}/images/bc-sig.jpg){: .img-left }
 
-Greenbelt, Maryland <br />November 10, 2022
+Greenbelt, Maryland \
+November 10, 2022
 {: .clear }
