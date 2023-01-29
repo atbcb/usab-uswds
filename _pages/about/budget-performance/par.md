@@ -193,21 +193,15 @@ Schedule of General Property, Plant and Equipment, Net as of September 30, 2021.
 
 #### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
-The liabilities for Access Board as of September 30, 2022 and 2021, include liabilities not covered by budgetary resources.&nbsp;
-Congressional action is needed before budgetary resources can be provided.&nbsp;
-Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
+The liabilities for Access Board as of September 30, 2022 and 2021, include liabilities not covered by budgetary resources.  Congressional action is needed before budgetary resources can be provided.  Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
 
-The deferrred lease liability amount rpresents the difference at year end between the sum of monthly cas disbursments paind to date for base rent and the sum of the average monthly rent calculated based on the term of the lease.&nbsp;
-This was due to a new lease agreement entered into that had rent abatement provisions.
+The deferrred lease liability amount represents the difference at year end between the sum of monthly cash disbursments paind to date for base rent and the sum of the average monthly rent calculated based on the term of the lease.  This was due to a new lease agreement entered into that had rent abatement provisions.
 
 {% include_relative par-fy2022-56-note5.html %}
 
 FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on Access Board's name behalf and payable to the DOL.
 
-Unfunded leave represents a liability for earned leave and is reduced when leave is taken.&nbsp;
-The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.&nbsp;
-Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.&nbsp;
-Sick and other leave is expensed as taken.
+Unfunded leave represents a liability for earned leave and is reduced when leave is taken.  The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.  Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.  Sick and other leave is expensed as taken.
 
 #### NOTE 6. OTHER LIABILITIES
 
