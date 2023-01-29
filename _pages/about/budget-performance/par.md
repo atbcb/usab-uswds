@@ -85,7 +85,7 @@ Executive Director
 ![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
 {: .img-grid }
 
-#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 12, 2021
+#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 10, 2022
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
