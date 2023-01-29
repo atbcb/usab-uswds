@@ -76,8 +76,6 @@ Executive Director
 
 --- 
 
-# United States Access Board
-
 ## Independent Auditor's Report <br /> and <br /> Financial Statements
 
 ### For the Fiscal Years Ended <br /> *September 30, 2022 and 2021*
