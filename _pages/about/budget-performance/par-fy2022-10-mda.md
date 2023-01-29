@@ -2,7 +2,7 @@
 
 ### Mission
 
-Established by the Rehabilitation Act of 1973, the United States Access Board -- which was then known as the "Architectural and Transportation Barriers Compliance Board" -- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities.&nbsp;
+Established by the Rehabilitation Act of 1973, the United States Access Board --- which was then known as the "Architectural and Transportation Barriers Compliance Board" --- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities.&nbsp;
 Originally, in the mid-1970s, the Access Board’s primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally financed facilities to be accessible to persons with disabilities.&nbsp;
 Congress has, however, expanded the agency’s mission and responsibilities over the years.&nbsp;
 Today, the Access Board’s mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
