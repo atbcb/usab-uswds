@@ -89,7 +89,7 @@ The preparation of the accompanying financial statements in accordance with gene
 
 ##### N. Reclassification
 
-Certain fiscal year 2019 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
+Certain fiscal year 2021 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
 
 ##### O. Classified Activities
 
