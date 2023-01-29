@@ -157,7 +157,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 #### NOTE 2. FUND BALANCE WITH TREASURY
 
-Fund Balance with Treasury account balances as of September 30, 2021 and 2020, respectively, are shown below.
+Fund Balance with Treasury account balances as of September 30, 2022 and 2021, respectively, are shown below.
 
 {% include_relative par-fy2022-52-note2.html %}
 
@@ -177,10 +177,9 @@ Accounts receivable balances as of September 30, 2022 and 2021, respectively, we
 
 {% include_relative par-fy2022-53-note3.html %}
 
-The accounts receivable is primarily made up of other receivable with the public for reimbursable work.
+The accounts receivable is primarily made up of employee receivables and debt.
 
-Historical experience has indicated that the majority of the receivables are collectible.&nbsp;
-There are no material uncollectible accounts as of September 30, 2022 and 2021.
+Historical experience has indicated that the majority of the receivables are collectible.  There are no material uncollectible accounts as of September 30, 2022 and 2021.
 
 #### NOTE 4. GENERAL PROPERTY, PLANT AND EQUIPMENT, NET
 
@@ -290,11 +289,11 @@ The 2023 Budget of the United States Government, with the "Actual" column comple
 
 In Millions
 
-| &nbsp; | Budgetary <br /> Resources | New Obligations<br /> &amp; Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
-| :--- | ---: | ---: | ---: | ---: |
-| Combined Statement of Budgetary Resources | $ 10 | $ 9 | $ - | $ 9 |
-| Difference -- Due to Rounding | (1) | - | - | - |
-| **Budget of the U.S. Government** | **$ 9** | **$ 9** | **$ -** | **$ 9** |
+| &nbsp; | Budgetary<br /> Resources | New Obligations<br /> &amp; Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
+| :---                                      | ---:    | ---:    | ---:    | ---: |
+| Combined Statement of Budgetary Resources | $ 10    | $ 9     | $ -     | $ 9     |
+| Difference --- Due to Rounding            | (1)     | -       | -       | -       |
+| **Budget of the U.S. Government**         | **$ 9** | **$ 9** | **$ -** | **$ 9** |
 {: .par-money }
 
 #### NOTE 11. RECONCILIATION OF NET COST TO NET OUTLAYS
