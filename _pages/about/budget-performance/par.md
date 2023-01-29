@@ -40,9 +40,13 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 November 10, 2022 
 
-I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2022.  This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities.  Our agency has a proud history of serving the public through its programs focused on accessibility for people with disabilities. 
+I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2022.&nbsp;
+This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities.&nbsp;
+Our agency has a proud history of serving the public through its programs focused on accessibility for people with disabilities. 
 
-Fiscal Year 2022 was a year of continued success.  The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government.  We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities. 
+Fiscal Year 2022 was a year of continued success.&nbsp;
+The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government.&nbsp;
+We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities. 
 
 Sincerely, 
 
