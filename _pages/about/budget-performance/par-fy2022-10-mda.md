@@ -2,7 +2,10 @@
 
 ### Mission
 
-Established by the Rehabilitation Act of 1973, the United States Access Board---which was then known as the "Architectural and Transportation Barriers Compliance Board"---is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities. Originally, in the mid-1970s, the Access Board’s primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally financed facilities to be accessible to persons with disabilities. Congress has, however, expanded the agency’s mission and responsibilities over the years. Today, the Access Board’s mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
+Established by the Rehabilitation Act of 1973, the United States Access Board -- which was then known as the "Architectural and Transportation Barriers Compliance Board" -- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities.&nbsp;
+Originally, in the mid-1970s, the Access Board’s primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally financed facilities to be accessible to persons with disabilities.&nbsp;
+Congress has, however, expanded the agency’s mission and responsibilities over the years.&nbsp;
+Today, the Access Board’s mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
 
 ### Organizational Structure
 
@@ -12,7 +15,7 @@ The Access Board is governed by a 25-member board, with the Board Chair serving 
   <figcaption>
     Figure 1:&nbsp; U.S. Access Board Organizational Structure
   </figcaption>
-  <a href="{{ site.baseurl }}/images/usab-org-chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA &amp; OGC."></a>
+  <a href="{{ site.baseurl }}/images/usab-org-chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational Chart which graphically outlines components.  Boxes in the top row Federal are lableed Federal Board Members, Access Board Chair, and Public Board Members.  A single box in the second row is labled Office of the Executive Directory, and it connects up to Access Board Chair.  The third row shows three Offices connecting up:  General Council (OGC), Administraton (OA), and echnology &amp; Information Services (OTIS).  There is one item in a fourth row to the side, labled ABA Compliance &amp; Enforcement Program, which connects to OGC box."></a>
 </figure>
 
 ### Board Members
@@ -25,7 +28,7 @@ Under the Access Board’s Bylaws, the Board generally meets bi-monthly, with on
 
 ### Staff Offices
 
-The Access Board's career staff is organized into four units/offices. At the close of FY 2021, the agency had 28 full-time employees—most of whom are professionals with subject-matter expertise in accessibility matters within the Access Board’s jurisdiction. The agency’s physical office is in Washington, D.C.
+The Access Board's career staff is organized into four units/offices. At the close of FY 2021, the agency had 25 full-time employees—most of whom are professionals with subject-matter expertise in accessibility matters within the Access Board’s jurisdiction. The agency’s physical office is in Washington, D.C.
 
 #### Office of the Executive Director
 
@@ -57,7 +60,9 @@ The objective of the Federal Managers’ Financial Integrity Act of 1982 (FMFIA)
 
 During FY 2022, the Access Board had several interagency agreements with other federal agencies for shared administrative services.  The Access Board contracted with BFS/ARC for financial management, human resources, procurement, and travel services. Other shared service providers included the General Services Administration (Internet, voice communication, Personal Identity Verification [PIV] card administration, and web hosting), the Department of Agriculture’s (USDA) National Financial Center (NFC) (payroll), the Department of the Interior’s (DOI) Interior Business Center (HR security and drug testing), the Office of Personnel Management (OPM) (employee relations consulting services), the Defense Counterintelligence and Security Agency (DCSA) (background investigations services), and the United States Postal Service (EEO complaint investigation).
 
-With respect to financial management and payroll systems, certain aspects of the Access Board’s financial management system are largely influenced by the controls, practices, and procedures employed by BFS/ARC and NFC. Each has established practices and procedures that assure appropriate internal controls.  BFS/ARC’s financial management system is audited annually for compliance with Statement on Standards for Attestation Engagements (SSAE) 18, and the Access Board receives quarterly SSAE 18 SOC 1 Type II Reports on the ongoing effectiveness of the system’s internal controls. Likewise, NFC annually provides its customers/stakeholders with a written statement of assurance concerning the effectiveness of its financial reporting controls.
+With respect to financial management and payroll systems, certain aspects of the Access Board’s financial management system are largely influenced by the controls, practices, and procedures employed by BFS/ARC and NFC. Each has established practices and procedures that assure appropriate internal controls.
+
+BFS/ARC’s financial management system is audited annually for compliance with Statement on Standards for Attestation Engagements (SSAE) 18, and the Access Board receives quarterly SSAE 18 SOC 1 Type II Reports on the ongoing effectiveness of the system’s internal controls. Likewise, NFC annually provides its customers/stakeholders with a written statement of assurance concerning the effectiveness of its financial reporting controls.
 
 Moreover, the Access Board has implemented its own internal controls and procedures to complement the measures employed by its shared service providers. For example, the Access Board’s CFO reviews and reconciles financial reports from BFS/ARC quarterly to ensure that the agency’s obligations and disbursements have been properly recorded; additionally, year-end financial statements are reviewed to make sure they are correctly stated. Agency procedure also requires the CFO to prospectively certify funds availability for all obligations. In addition, the CFO and Director of OA conduct periodic reviews of internal systems, including travel, payroll, and procurement. Lastly, the Access Board’s financial statements undergo annual audits by an independent accountant, which include review of the adequacy of its internal control systems.
 
@@ -69,7 +74,7 @@ Under the Accountability of Tax Dollars Act of 2002 (codified at 31 U.S.C. § 35
 
 #### Payment Integrity Information Act of 2019 (PIIA)
 
-In spring 2020, the Payment Integrity Information Act of 2019 (PIIA) became law. The PIIA repealed the prior statutory regime and established new requirements concerning federal agency obligations to prevent, identify, and annually report on improper payments (e.g., payment of incorrect amount, duplicate payment). There are, however, some differences. For example, unlike its predecessors, the PIIA establishes a monetary threshold for “significance” determinations, requires agencies to post improper payment reports on their respective websites, tasks OMB with developing PIIA guidance for agencies, and requires OMB to create a centralized website for agencies’ improper payment reports concerning OMB-designated “high-priority” programs.
+In 2020, the Payment Integrity Information Act of 2019 (PIIA) became law. The PIIA repealed the prior statutory regime and established new requirements concerning federal agency obligations to prevent, identify, and annually report on improper payments (e.g., payment of incorrect amount, duplicate payment). There are, however, some differences. For example, unlike its predecessors, the PIIA establishes a monetary threshold for “significance” determinations, requires agencies to post improper payment reports on their respective websites, tasks OMB with developing PIIA guidance for agencies, and requires OMB to create a centralized website for agencies’ improper payment reports concerning OMB-designated “high-priority” programs.
 
 Because OMB has not yet issued implementing guidance under the PIIA, the contours of agencies' reporting and/or assurance obligations remains unknown. Nonetheless, the Access Board can definitively state that, based on the PIIA's statutory definition of "significance," the agency had no programs/activities at significant risk of improper payments in FY 2022.
 
@@ -85,7 +90,7 @@ The Prompt Payment Act requires federal agencies to make timely payments to vend
 
 #### DATA Act
 
-The Digital Accountability and Transparency Act of 2014 (the DATA Act) requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website USAspending.gov, the official open data source of federal spending information.
+The Digital Accountability and Transparency Act of 2014 (the DATA Act) requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website (https://www.usaspending.gov/)[USAspending.gov], the official open data source of federal spending information.
 
 BFS/ARC has implemented software that enables the Access Board to comply with DATA Act requirements. In FY 2022, the agency was compliant with applicable DATA Act requirements and timely submitted all certifications.
 
