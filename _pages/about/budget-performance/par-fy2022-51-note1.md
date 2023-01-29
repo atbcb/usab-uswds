@@ -24,7 +24,7 @@ Transactions are recorded on both an accrual accounting basis and a budgetary ba
 
 ##### D. Fund Balance with Treasury
 
-FBWT is an asset of a reporting entity and a liability of the General Fund. It is the aggregate amount of the Access Board's funds with Treasury in expenditure, receipt fund accounts.  Appropriated funds recorded in expenditure accounts are available to pay current liabilities and finance authorized purchases.
+Fund Balance with Treasury is an asset of a reporting entity and a liability of the General Fund.  It is the aggregate amount of the Access Board's funds with Treasury in expenditure, receipt, revolving, and deposit fund accounts.  Appropriated funds recorded in expenditure accounts are available to pay current liabilities and finance authorized purchases.
 
 The Access Board does not maintain bank accounts of its own, has no disbursing authority, and does not maintain cash held outside of Treasury.  Funds are disbursed for the agency on demand.
 
@@ -36,13 +36,13 @@ Accounts receivable consists of amounts owed to the Access Board by other federa
 
 Property, equipment and software represent furniture, fixtures, equipment, and information technology hardware and software which are recorded at original acquisition cost and are depreciated or amortized using the straight-line method over their estimated useful lives.  Major alterations and renovations are capitalized, while maintenance and repair costs are expensed as incurred.  The Access Board's capitalization threshold is $50,000 for individual purchases and $500,000 for bulk purchases.  Property, equipment, and software acquisitions that do not meet the capitalization criteria are expensed upon receipt.  Applicable standard governmental guidelines regulate the disposal and convertibility of agency property, equipment, and software.  The useful life classifications for capitalized assets are as follows:
 
-| Description | Useful Life (years) |
-| --- | --- |
+| Description            | Useful Life (years) |
+| :---                   | :---: |
 | Leasehold Improvements | 9 |
-| Office Furniture | 5 |
-| Computer Equipment | 3 |
-| Office Equipment | 5 |
-| Software | 5 |
+| Office Furniture       | 5 |
+| Computer Equipment     | 3 |
+| Office Equipment       | 5 |
+| Software               | 5 |
 {: .par-prose }
 
 ##### G. Advances and Prepaid Charges
@@ -53,11 +53,11 @@ Advance payments are generally prohibited by law.  There are some exceptions, su
 
 Liabilities represent the amount of funds likely to be paid by the Access Board as a result of transactions or events that have already occurred.
 
-The Access Board reports its liabilities under two categories, Intragovernmental and With the Public.  Intragovernmental liabilities represent funds owed to another government agency.  Liabilities with the Public represent funds owed to any entity or person that is not a federal agency, including private sector firms and federal employees.  Each of these categories may include liabilities that are covered by budgetary resources and liabilities not covered by budgetary resources.
+The Access Board reports its liabilities under two categories, Intragovernmental and Other than Intragovernmental.  Intragovernmental liabilities represent funds owed to another government agency.  Liabilities other than intragovernmental represent funds owed to any entity or person that is not a federal agency, including private sector firms and federal employees.  Each of these categories may include liabilities that are covered by budgetary resources and liabilities not covered by budgetary resources.
 
 Liabilities covered by budgetary resources are liabilities funded by a current appropriation or other funding source.  These consist of accounts payable and accrued payroll and benefits.  Accounts payable represent amounts owed to another entity for goods ordered and received and for services rendered except for employees.  Accrued payroll and benefits represent payroll costs earned by employees during the fiscal year which are not paid until the next fiscal year.
 
-Liabilities not covered by budgetary resources are liabilities that are not funded by any current appropriation or other funding source.  These liabilities consist of accrued annual leave, actuarial FECA (Federal Employees Compensation Act).
+Liabilities not covered by budgetary resources are liabilities that are not funded by any current appropriation or other funding source.  These liabilities consist of accrued annual leave, deferred rent, and actuarial FECA.  Deferred rent is the difference at year-end bewtween the sum of monthyly cash disberusements paid to date for rent and the sum of the average monthly rent calculated based on the term of the lease.
 
 ##### I. Annual, Sick, and Other Leave
 
