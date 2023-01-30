@@ -4,7 +4,7 @@ layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 banner-subtitle: Performance and Accountability Report Fiscal Year 2022
-permalink: /about/par.html
+permalink: /about/par2022.html
 file: usab-par-fy2022.pdf
 file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2022
 ---
