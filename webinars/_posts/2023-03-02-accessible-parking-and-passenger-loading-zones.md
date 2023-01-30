@@ -27,6 +27,7 @@ tags:
 closed: false
 webinar-start: March 2, 2023 2:30 PM
 webinar-end: March 2, 2023 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111048
 webinar: true
 ---
 ### Description
@@ -46,6 +47,8 @@ Video remote interpreting and real-time captioning will be provided in this webi
 | California Architects Board | 1.5              |
 | Certificate of Attendance   | 1.5              |
 | ICC                         | 1.5              |
+| LA CES                      | 1.5              |
+
 
 ### Speakers
 
