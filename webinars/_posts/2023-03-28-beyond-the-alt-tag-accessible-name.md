@@ -21,6 +21,11 @@ presenters:
   - katherine-eng
   - sarah-presley
   - josh-schorr
+tags:
+  - "508"
+  - ADA
+  - Communication & IT
+  - Guides
 closed: false
 webinar-start: March 28, 2023 1:00 PM
 webinar-end: March 28, 2023 2:30 PM
@@ -44,11 +49,11 @@ Target Audience: Open to all, but of noted interest for experienced web develope
 
 ### Speakers:
 
-[Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), IT Specialist, **U.S. Access Board**\
+[Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), IT Specialist, Office of Technical and Information Services, **U.S. Access Board**\
 \
-[Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Senior ICT Accessibility Specialist, **U.S. Access Board**
+[Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Senior ICT Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
-[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Accessibility Specialist, **US Access Board**
+[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 [Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
