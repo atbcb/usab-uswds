@@ -7,7 +7,7 @@ excerpt: The U.S. Access Board has hired Cholé Gray to serve as an Accessibilit
   role, Gray will provide technical assistance to the public on . . .
 image: /images/uploads/gray-bordered.png
 image_alt_text: Portrait of Cholé Gray
-featured: true
+featured: false
 ---
 The U.S. Access Board has hired Cholé Gray to serve as an Accessibility Specialist in its Office of Technical and Information Services (OTIS). In this role, Gray will provide technical assistance to the public on accessible design and accessibility, including the Americans with Disabilities Act (ADA) Accessibility Guidelines and Architectural Barriers Act (ABA) Accessibility Standards.  
 

@@ -9,7 +9,7 @@ excerpt: Bill Botten, the U.S. Access Board’s Senior Accessibility Specialist
   agency, from . . .
 image: /images/uploads/bill-botten.png
 image_alt_text: Portrait of Bill Botten
-featured: true
+featured: false
 ---
 Bill Botten, the U.S. Access Board’s Senior Accessibility Specialist and Training Coordinator, retired from federal service today. A Board employee for 22 years, Botten contributed in many ways to the mission and vision of the agency, from co-developing the combined guidelines for the [Americans with Disabilities Act (ADA)](https://www.access-board.gov/ada/) and the [Architectural Barriers Act (ABA)](https://www.access-board.gov/aba/) Accessibility Guidelines to leading the publication of accessibility guidelines for federal outdoor developed areas to providing technical assistance on accessible design. In 2018, he was named Training Coordinator and Technical Assistance Coordinator. 
 
