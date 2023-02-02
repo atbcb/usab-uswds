@@ -9,7 +9,7 @@ excerpt: The U.S. Department of Housing and Urban Development’s Office of Fair
   and 2:00 – 3:30 p.m. (ET). This session will address . . .
 image: /images/uploads/fha-first-logo.png
 image_alt_text: Logo of Fair Housing Accessibility First
-featured: false
+featured: true
 ---
 The U.S. Department of Housing and Urban Development’s Office of Fair Housing/Equal Opportunity will provide a virtual training on the Fair Housing Act’s Accessibility Requirements on **February 14, 2023** from **10:00 – 11:30 a.m.** and **2:00 – 3:30 p.m. (ET)**. This session will address the coverage of the Fair Housing Act’s (FHA) disability rights protections, the technical requirements of the FHA, the safe harbors used for compliance, the consequences of non-compliance, suggestions for achieving compliance with the FHA, and available resources for compliance. Presenters will also review opportunities for continued and upcoming FHA First Accessibility Training in 2023. Architects, designers, civil engineers, builders and developers, housing program specialists, property managers and owners, and disability advocates are encouraged to attend. 
 
