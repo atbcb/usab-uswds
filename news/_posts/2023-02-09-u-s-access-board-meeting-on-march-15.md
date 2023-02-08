@@ -29,7 +29,7 @@ March 15, 2023 \
 > *Note*: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
 >
 > ***Virtual Attendance Information*** \
-> Meeting link: [www.zoomgov.com/j/1607805452](https://www.zoomgov.com/j/1607805452pwd=c0tkTmx6QXFBZnZ3MmhwYU53NjRUUT09)\
+> Meeting link: [www.zoomgov.com/j/1607805452](https://www.zoomgov.com/j/1607805452)\
 > Meeting ID: 160 780 5452  \
 > Dial in: 1-646-828-7666  \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov)    
