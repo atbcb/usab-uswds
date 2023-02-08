@@ -21,16 +21,6 @@ Members of the public may attend and listen to the meeting through the [Zoom.gov
 March 15, 2023 \
 1:00 – 2:30 p.m. (ET) 
 
-***Agenda***
-* Introductory Remarks 
-* Election of Officers 
-* Executive Director’s Report 
-* Standing Committee Reports 
-* Ad Hoc and Special Committee Reports 
-* Federal Agency Updates 
-* New Business 
-* Adjourn
-
 > ***In-Person Attendance Information*** \
 > U.S. Access Board Conference Space \
 > 1331 F Street NW \
@@ -43,4 +33,15 @@ March 15, 2023 \
 > Meeting ID: 160 780 5452  \
 > Dial in: 1-646-828-7666  \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov)    
+>
+> ***Agenda***
+> * Introductory Remarks 
+> * Election of Officers 
+> * Executive Director’s Report 
+> * Standing Committee Reports 
+> * Ad Hoc and Special Committee Reports 
+> * Federal Agency Updates 
+> * New Business 
+> * Adjourn
+
 
