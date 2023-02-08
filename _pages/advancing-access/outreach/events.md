@@ -12,12 +12,22 @@ permalink: /events/
 
 ## Public Events
 
-> **Public Meeting of the U.S. Access Board** \
-> March 15, 2023, 1:00 – 2:00 p.m. (ET) \
-> Meeting link: (Forthcoming) \
-> Meeting ID: (Forthcoming) \
-> Dial in: (Forthcoming) \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov)     
+**Public Meeting of the U.S. Access Board** \
+March 15, 2023 \
+1:00 – 2:30 p.m. (ET) \
+>
+> ***In-Person Attendance Information*** \
+> U.S. Access Board Conference Space \
+> 1331 F Street NW \
+> Suite 800 \
+> Washington, D.C. 20004\
+> *Note*: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
+>
+> ***Virtual Attendance Information*** \
+> Meeting link: [www.zoomgov.com/j/1607805452](https://www.zoomgov.com/j/1607805452)\
+> Meeting ID: 160 780 5452  \
+> Dial in: 1-646-828-7666  \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov)        
 
 ### Public Events Archives
 
