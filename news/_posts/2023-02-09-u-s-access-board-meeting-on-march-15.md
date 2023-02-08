@@ -13,11 +13,11 @@ image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: Photo of Board meeting on laptop screen
 featured: true
 ---
-All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place on **March 15** from **1:00 – 2:30 p.m. (ET)**. The agenda for the meeting includes election of officers, brief reports from standing and ad hoc Board committees and the Executive Director, and federal agency updates. 
+All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **March 15** from **1:00 – 2:30 p.m. (ET)**. The agenda for the session includes election of officers, brief reports from standing and ad hoc Board committees and the Executive Director, and federal agency updates. 
 
-Members of the public may attend and listen to the meeting through the [Zoom.gov platform,](https://www.zoomgov.com/j/1607805452) by phone, or in person at the Board’s Washington D.C. Conference Space. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
+Members of the public may attend and listen to the session through the [Zoom.gov platform,](https://www.zoomgov.com/j/1607805452) by phone, or in person at the Board’s Washington D.C. Conference Space. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
-**Meeting of the U.S. Access Board**  \
+**Public Meeting of the U.S. Access Board**  \
 March 15, 2023 \
 1:00 – 2:30 p.m. (ET) 
 
