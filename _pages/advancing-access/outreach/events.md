@@ -14,7 +14,7 @@ permalink: /events/
 
 **Public Meeting of the U.S. Access Board** \
 March 15, 2023 \
-1:00 – 2:30 p.m. (ET) \
+1:00 – 2:30 p.m. (ET)
 >
 > ***In-Person Attendance Information*** \
 > U.S. Access Board Conference Space \
