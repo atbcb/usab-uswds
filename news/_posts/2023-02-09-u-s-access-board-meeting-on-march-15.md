@@ -21,7 +21,8 @@ Members of the public may attend and listen to the meeting through the [Zoom.gov
 March 15, 2023 \
 1:00 – 2:30 p.m. (ET) 
 
-> ***In-Person Attendance Information* **U.S. Access Board Conference Space\
+> ***In-Person Attendance Information* \
+> **U.S. Access Board Conference Space \
 > 1331 F Street NW \
 > Suite 800 \
 > Washington, D.C. 20004\
