@@ -9,7 +9,7 @@ image: /images/uploads/gray-bordered.png
 image_alt_text: Portrait of Cholé Gray
 featured: false
 ---
-The U.S. Access Board has hired Cholé Gray to serve as an Accessibility Specialist in its Office of Technical and Information Services (OTIS). In this role, Gray will provide technical assistance to the public on accessible design and accessibility, including the Americans with Disabilities Act (ADA) Accessibility Guidelines and Architectural Barriers Act (ABA) Accessibility Standards.  
+The U.S. Access Board has hired **Cholé Gray** to serve as an Accessibility Specialist in its Office of Technical and Information Services (OTIS). In this role, Gray will provide technical assistance to the public on accessible design and accessibility, including the Americans with Disabilities Act (ADA) Accessibility Guidelines and Architectural Barriers Act (ABA) Accessibility Standards.  
 
 Prior to joining the Board, Gray worked with the Department of Buildings for New York City as a Code Reviewer for fire safety, zoning, and other types of interior proposals supported by the ADA. Additionally, she has served in various capacities at architectural and engineering firms where she was involved in all stages of design, permit, sign-off, and processing blueprints and design arrangements for schools and hospitals serving individuals with disabilities. She is an alumnus of New Jersey Institute of Technology with degrees in Architecture as well as Concrete Industry Management. 
 
