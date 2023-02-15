@@ -14,7 +14,7 @@ image_alt_text: Portrait of Earlene Sesker on the left and portrait of Jeff
   Sargent on the right
 featured: true
 ---
-At the end of March, two long-time U.S. Access Board staff members, **Earlene Sesker** and **Jeff Sargent**, will retire after their decades-long tenure at the agency. Sesker has spent 34 years in the federal government, including 30 years at the Board, and retires as Director of Administration. Sargent has been in government service for 38 years, including 34 years at the Board, and retires as Chief Financial Officer (CFO). Sesker and Sargent’s contributions were integral played crucial roles in the daily operations and management processes of the Board 
+At the end of March, two U.S. Access Board staff members, **Earlene Sesker** and **Jeff Sargent**, will retire after their decades-long tenure at the agency. Sesker has spent 34 years in the federal government, including 30 years at the Board, and retires as Director of Administration. Sargent has been in government service for 38 years, including 34 years at the Board, and retires as Chief Financial Officer (CFO). Sesker and Sargent’s contributions were integral played crucial roles in the daily operations and management processes of the Board 
 
 <figure class="img-right">
   <img src="{{ site.baseurl }}/images/uploads/sesker.png" alt="Portrait of Earlene Sesker" class="center">
