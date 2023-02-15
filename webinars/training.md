@@ -26,6 +26,3 @@ Many training sessions are held at the request of, or in partnership with, organ
 For more information or to request training from the Access Board, email <training@access-board.gov> or phone 1-202-272-0080 (voice/TTY).
 
 The Board also provides technical guidance on its accessibility guidelines and standards and accessible design through its helpline at 1-202-272-0080, extension 3 and by email at <ta@access-board.gov> from 10:00 a.m. to 5:00 p.m. (ET) weekdays. Accessibility specialists are available to answer questions on accessibility as it relates to the built environment, outdoor sites, streets and sidewalks, transportation vehicles and vessels, information and communication technology, and medical diagnostic equipment. For more information, visit the Board's [TA webpage]({{ site.baseurl }}/ta/).
-
-**If you will be presenting to or with the Access Board, your presentation materials must be accessible.  To learn the basics of creating accessible presentations, please read materials available available from [www.section508.gov/create/presentations](https://www.section508.gov/create/presentations/).  For questions about acceessible digital docuemnts, please be encouraged to contact the USAB 508 Team at <508@acceess-board.gov>.**
-
