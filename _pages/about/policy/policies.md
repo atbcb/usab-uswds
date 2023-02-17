@@ -3,16 +3,19 @@ title: USAB Policies
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /about/policies.html
+permalink: /about/policy/
 ---
 
 # {{ page.title }}
 
-* [Strategic Plan FY 2022 - 2026]({{ site.baseurl }}/about/strategic-plan-fy2022.html) 
-* [DEIA Strategic Plan 2022]({{ site.baseurl }}/deia-strategic-plan/)
-* [Performance and Accountability Report]({{ site.baseurl }}/about/par.html)
-* [Budget Justification]({{ site.baseurl }}/cj/) 
-* [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html) 
-* [No FEAR Act Data]({{ site.baseurl }}/about/no-fear-data.html) 
-* [No FEAR Act Reports]({{ site.baseurl }}/about/no-fear-report.html)  
-* [Employee Survey Results]({{ site.baseurl }}/about/fevs.html) 
+- [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html) 
+- [Fragrance-Free Environment]({{ site.baseurl }}/about/policy/ffe.html) 
+- [Freedom of Information Act (FOIA)]({{ site.baseurl }}/about/policy/foia.html) 
+- [Information Quality]({{ site.baseurl }}/about/policy/iq.html) 
+- [No FEAR Act Notice]({{ site.baseurl }}/about/policy/no-fear-notice.html) 
+- [Plain Language (PWA)]{{ site.baseurl }}/about/policy/plain.html) 
+- [Privacy Policy and Program]({ site.baseurl }}/about/policy/privacy.html) 
+- [Reasonable Accommodation Procedures]({ site.baseurl }}/about/policy/ra.html) 
+- [Requirements for Electronic Accessible Documents]({{ site.baseurl }}/about/read.html) 
+- [Shutdown Plan]({{ site.baseurl }}/about/policies/shutdown.html) 
+- [Vulnerability Disclosure Policy]({{ site.baseurl }}/about/policies/vulnerability-disclosure/) 
