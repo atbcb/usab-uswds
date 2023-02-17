@@ -3,7 +3,7 @@ title: Vulnerability Disclosure Policy
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /vulnerability-disclosure-policy/
+permalink: /about/policy/vd.html
 ---
 
 # {{ page.title }}
@@ -19,9 +19,7 @@ researchers to wait before publicly disclosing vulnerabilities. CISA encourages 
 
 ## Authorization
 
-**If you make a good faith effort to comply with this policy during your security research, we will consider your research to be authorized,
-and we will work with you to understand and resolve the issue quickly.
-In addition, we will not recommend or pursue legal action related to your research.**
+**If you make a good faith effort to comply with this policy during your security research, we will consider your research to be authorized, and we will work with you to understand and resolve the issue quickly.  In addition, we will not recommend or pursue legal action related to your research.**
 
 ## Guidelines
 
@@ -29,8 +27,7 @@ Under this policy, "research" means activities in which you:
 
 - Notify CISA soon as possible after you discover a real or potential security issue.
 - Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction or manipulation of data.
-- Only use exploits to the extent necessary to confirm a vulnerability's presence.
-Do not use an exploit to compromise or exfiltrate data, establish persistent command line access, or use the exploit to pivot to other systems.
+- Only use exploits to the extent necessary to confirm a vulnerability's presence.  Do not use an exploit to compromise or exfiltrate data, establish persistent command line access, or use the exploit to pivot to other systems.
 - Provide us a reasonable amount of time to resolve the issue before you disclose it publicly.
 - Do not submit a high volume of low-quality reports.
 
@@ -91,7 +88,8 @@ If you believe others should be informed of the vulnerability prior to our imple
 
 ## Document Change History
 
-| Version | Date | Description |
-|---|---|---|
-| 1.0 | February 18, 2021 | First issuance. |
+| Version | Date              | Description |
+| !--     | !--               | !--         |
+| 1.0     | February 18, 2021 | First issuance. |
+| 1.0.1   | February 17, 2023 | Update url.     |
 {: .usa-table}
