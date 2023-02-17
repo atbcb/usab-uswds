@@ -88,8 +88,8 @@ If you believe others should be informed of the vulnerability prior to our imple
 
 ## Document Change History
 
-| Version | Date              | Description |
-| !---    | !---              | !---        |
+| Version | Date | Description |
+|---|---|---|
 | 1.0     | February 18, 2021 | First issuance. |
 | 1.0.1   | February 17, 2023 | Update url.     |
 
