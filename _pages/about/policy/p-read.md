@@ -3,7 +3,7 @@ title: Requirements for Electronic Accessible Documents
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /about/policies/read.html
+permalink: /about/policy/read.html
 ---
 
 ## {{ page.title }}
