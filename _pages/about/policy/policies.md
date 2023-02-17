@@ -13,7 +13,7 @@ permalink: /policies/
 - [Freedom of Information Act (FOIA)]({{ site.baseurl }}/about/policy/foia.html) 
 - [Information Quality]({{ site.baseurl }}/about/policy/iq.html) 
 - [No FEAR Act Notice]({{ site.baseurl }}/about/policy/no-fear-notice.html) 
-- [Plain Language (PWA)]{{ site.baseurl }}/about/policy/plain.html) 
+- [Plain Language (PWA)]({{ site.baseurl }}/about/policy/plain.html) 
 - [Privacy Policy and Program]({ site.baseurl }}/about/policy/privacy.html) 
 - [Reasonable Accommodation Procedures]({ site.baseurl }}/about/policy/ra.html) 
 - [Requirements for Electronic Accessible Documents]({{ site.baseurl }}/about/read.html) 
