@@ -3,7 +3,7 @@ title: USAB Policies
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /about/policy/
+permalink: /policies/
 ---
 
 # {{ page.title }}
