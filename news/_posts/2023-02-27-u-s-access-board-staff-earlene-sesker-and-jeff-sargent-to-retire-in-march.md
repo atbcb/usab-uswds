@@ -36,8 +36,6 @@ In 2018, Sesker was promoted to the position of Director of Administration at th
   </figcaption>
 </figure>
 
-<!--StartFragment-->
-
 During his 34 years at the Board, Sargent undertook various positions, adeptly contributing to the functions of the Board. Sargent’s federal service began in 1984 when he worked at the General Services Administration in Kansas City, Missouri as a Payroll Technician in the Office of Finance. In this role, he handled the Board’s account, which led, at first, to a three-month Detail position with the Board in 1989 and then to the position of Management Analyst in the Board’s Office of the Executive Director. In 1992, Sargent became an ABA Compliance Specialist as part of the [Board’s ABA Enforcement Program,](https://www.access-board.gov/enforcement/) which ensures buildings or facilities that were constructed or altered by or on behalf of the U.S. or leased by the U.S., after August 12, 1968, be accessible to people with disabilities.  
 
 In 2008, Sargent became the first Director in the Board’s newly established Office of Administration. As Director, he supervised and led a team of staff to provide administrative support activities for the agency, including human resources, budget and finance, records management, and information technology (IT) operations and support. In this role, he was also staff liaison to the Board’s Budget Committee. In 2013, the Board created the CFO position, and Sargent became the first CFO, which he holds today. 
