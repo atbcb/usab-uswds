@@ -23,8 +23,6 @@ At the end of March, two U.S. Access Board staff members, **Earlene Sesker** and
   </figcaption>
 </figure>
 
-<!--StartFragment-->
-
 In 1989, Sesker began her government service at Department of Veterans Affairs (VA) as an Accounts Receivable Analyst, and she was promoted two years later to Lead Accounts Receivable Analyst. In 1993, Sesker first joined the Board as a Compliance Specialist, investigating Architectural Barriers Act (ABA) complaints. She would return to the VA in 1994 as Chief of Operations before rejoining the Board as an Accessibility Specialist in 1995. As an Accessibility Specialist, Sesker provided technical assistance on the Board’s [Americans with Disabilities Act (ADA)](https://www.access-board.gov/ada/) and [ABA Accessibility Standards](https://www.access-board.gov/aba/) and accessible design. In 2016, Sesker became the Training Coordinator, leading the [Board’s training program](https://www.access-board.gov/webinars/training.html). 
 
 In 2018, Sesker was promoted to the position of Director of Administration at the Board. In this role, she applied her extensive knowledge and exceptional skills to oversee and coordinate all administrative activities, including budget management, fiscal accounting, personnel, payroll services, contracts management, procurement, information technology, travel management, space and property management, records administration, policy development, and employee services. 
