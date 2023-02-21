@@ -11,7 +11,7 @@ excerpt: The National Institute of Biomedical Imaging and Bioengineering’s Rap
 image: /images/tad/radx-a11y-logo.png
 image_alt_text: "RADx logo is two interlocking arrows with four dots surrounding them on all
   sides to represent a group of people.   "
-featured: true
+featured: false
 ---
 The National Institute of Biomedical Imaging and Bioengineering’s Rapid Acceleration of Diagnostics (RADx®) Tech program has released [Best Practices for the Design of Accessible COVID-19 Home Tests,](https://www.access-board.gov/tad/radx/) a document with recommendations for developers and manufacturers of diagnostic tech to make at-home COVID-19 test kits accessible to people with disabilities. The document covers topics on accessible packaging and instructions of test kits, including general readability and layout, graphics and images, language, organization and identification of contents, and digital design, such as modality, assistive technology compatibility, and user interface features.  
 
