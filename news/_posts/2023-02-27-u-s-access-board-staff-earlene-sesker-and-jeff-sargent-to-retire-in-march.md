@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "U.S. Access Board Staff Earlene Sesker and Jeff Sargent to Retire in March "
-date: 2023-02-27
+date: 2023-02-22
 excerpt: At the end of March, two U.S. Access Board staff members, Earlene
   Sesker and Jeff Sargent, will retire after their decades-long tenure at the
   agency. Sesker has spent 34 years in the federal government, including 30
