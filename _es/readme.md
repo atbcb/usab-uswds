@@ -1,6 +1,8 @@
-This directory is a collection of our (nine) Spanish Lanuage (En Español) pages.
+This directory is a collection of our Spanish lanuage (En Español) pages.
 
-| Filename | Close Analog ? | Title | Translation | Legacy URL | 
+Spring 2023, added Spanish version of ADAAG.
+
+| Filename | Close Analog? | Title | Translation | Legacy URL | 
 | --- | --- | --- | --- | --- |
 | sobre.md | yes, \_pages/about.md | Sobre el Consejo de Acceso de los Estados Unidos | About the Council for Access of the United States | https://www.access-board.gov/en-espa%C3%B1ol/sobre-el-consejo-de-acceso |
 | directrices-estandares.md | no, \_pages/gs-index.md has similarities | Directrices y Estándares | Guidelines and Standards | https://www.access-board.gov/en-espa%C3%B1ol/directrices-y-est%C3%A1ndares |
