@@ -53,3 +53,8 @@ This session is the second in a two-part review of the revised Section 508 Stand
 ### Session Questions
 
 This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/18899/session/110879#questions)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
+
+### Privacy Statement
+
+In order to register for this webinar you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted two days after the live session. You can access previously recorded Section 508 webinars on the [Great Lakes ADA Center Section 508 Best Practices Archives webpage](https://www.accessibilityonline.org/cioc-508/archives/). Be advised that in order to obtain continuing education credits, you must register and create an account. See [Continuing Education Recognition Request Policy](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx).
+
