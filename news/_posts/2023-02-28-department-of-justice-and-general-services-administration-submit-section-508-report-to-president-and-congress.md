@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Department of Justice and General Services Administration Submit Section
-  508 Report to President and Congress "
+  508 Report to the President and Congress "
 date: 2023-02-28
 excerpt: "The Department of Justice (DOJ) and the General Services
   Administration (GSA) have submitted Section 508 Report to the President and
