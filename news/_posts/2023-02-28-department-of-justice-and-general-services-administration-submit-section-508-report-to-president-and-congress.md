@@ -10,7 +10,7 @@ excerpt: "The Department of Justice (DOJ) and the General Services
   2022, the report presents . . ."
 featured: false
 ---
-The Department of Justice (DOJ) and the General Services Administration (GSA) have submitted [Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology to Congress and the President](https://www.justice.gov/crt/page/file/1569331/download). Based on data from February 2021 through August 2022, the report presents the degree to which some federal agencies are making progress on compliance with Section 508 of the Rehabilitation Act.  
+The Department of Justice (DOJ) and the General Services Administration (GSA) have submitted [Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology](https://www.justice.gov/crt/page/file/1569331/download). Based on data from February 2021 through August 2022, the report presents the degree to which some federal agencies are making progress on compliance with Section 508 of the Rehabilitation Act.  
 
 Section 508 requires federal agencies to ensure that the information and communication technology (ICT) they develop, procure, maintain, or use is accessible and useable by people with disabilities, including both federal employees and members of the public. Examples of ICT include computers, websites, video, phone systems, electronic documents, and multifunction office machines, such as copiers, printers, and information and transaction kiosks. 
 
