@@ -3,7 +3,7 @@ layout: post
 title: "HUD’s Office of Fair Housing/Equal Opportunity to Provide Training on
   Fair Housing Act’s Accessibility Requirements for Reinforced Walls for Grab Bars "
 date: 2023-03-01
-excerpt: The U.S. Department of Housing and Urban Development’s Office of Fair
+excerpt: The U.S. Department of Housing and Urban Development’s (HUD) Office of Fair
   Housing/Equal Opportunity will provide a virtual training on the Fair Housing
   Act’s Accessibility Requirements on March 14, 2023 from 10:00 – 11:30 a.m. and
   2:00 – 3:30 p.m. (ET). This session will address . . .
