@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HUD's Office of Fair Housing/Equal Opportunity to Provide Training on
+title: "HUD’s Office of Fair Housing/Equal Opportunity to Provide Training on
   Fair Housing Act’s Accessibility Requirements for Reinforced Walls for Grab Bars "
 date: 2023-03-01
 excerpt: The U.S. Department of Housing and Urban Development’s Office of Fair
