@@ -12,7 +12,10 @@ excerpt: "This webinar will review and clarify common questions on the ADA and
   questions that will be addressed: Can clear floor/ground space or turning
   space overlap other space requirements? Can tactile characters and visual
   characters be provided separately on different signs?  Do the ADA and ABA
-  Standards permit ramps to be portable after construction as an adaptation? "
+  Standards permit ramps to be portable after construction as an adaptation?
+  Questions can be submitted in advance of the session or can be posed during
+  the live webinar. This webinar will include video remote interpreting (VRI)
+  and real-time captioning."
 presenters:
   - sarah-presley
   - scott-windley
