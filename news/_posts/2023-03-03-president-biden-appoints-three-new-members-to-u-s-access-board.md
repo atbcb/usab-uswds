@@ -8,15 +8,15 @@ excerpt: "Today, President Joe Biden appointed three new members to the U.S.
 image: /images/uploads/ab-seal.png
 featured: true
 ---
-Today, President Joe Biden appointed three new members to the U.S. Access Board: Stephanie L. Enyart, Carmen Daniel Jones, and Tina Guenette Pedersen. The newly appointed members bring a diverse range of knowledge and experiences—spanning education, employment, technology, healthcare, communication, and transportation. 
+Today, President Joe Biden appointed three new members to the U.S. Access Board: Stephanie L. Enyart, Carmen Daniels Jones, and Tina Guenette Pedersen. The newly appointed members bring a diverse range of knowledge and experiences—spanning education, employment, technology, healthcare, communication, and transportation. 
 
 **Stephanie L. Enyart** 
 
 Stephanie L. Enyart serves as American Foundation for the Blind’s (AFB) Chief Public Policy & Research Officer, having launched the AFB Public Policy and Research Institute that conducts mixed-methods research that informs AFB’s policy advocacy. With twenty years of experience advocating for people with disabilities, Enyart leads a cross-disability coalition advocating for regulatory clarity and legislative solutions to the inaccessibility of websites and applications. She founded the National Association of Law Students with Disabilities and served as its first President.   
 
-**Carmen Daniel Jones** 
+**Carmen Daniels Jones** 
 
-Carmen Daniel Jones is currently Vice President of Health Equity and Disability Inclusion at UnitedHealthCare Community & State. Living with a spinal cord injury since her junior year of college, Jones has vast experience in the public sector, small business, and large corporations with leading marketing strategies and community engagement efforts that transform organizations and include people with disabilities. She currently serves as Board Vice President of United Spinal Association and a Board Member of World Institute on Disability.  
+Carmen Daniels Jones is currently Vice President of Health Equity and Disability Inclusion at UnitedHealthCare Community & State. Living with a spinal cord injury since her junior year of college, Jones has vast experience in the public sector, small business, and large corporations with leading marketing strategies and community engagement efforts that transform organizations and include people with disabilities. She currently serves as Board Vice President of United Spinal Association and a Board Member of World Institute on Disability.  
 
 **Tina Guenette Pedersen** 
 
