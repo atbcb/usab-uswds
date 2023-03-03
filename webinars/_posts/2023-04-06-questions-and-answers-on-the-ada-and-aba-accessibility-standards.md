@@ -48,6 +48,7 @@ Session participants are encouraged to share their own questions in advance of a
 | ------------------------- | ---------------- |
 | ACTCP                     | 1.5              |
 | AIA HSW CES               | 1.5              |
+| California Architects Board | 1.5              |
 | Certificate of Attendance | 1.5              |
 | ICC                       | 1.5              |
 | LA CES                    | 1.5              |
