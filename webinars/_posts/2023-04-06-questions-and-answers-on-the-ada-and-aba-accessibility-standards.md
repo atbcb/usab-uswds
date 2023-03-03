@@ -27,11 +27,12 @@ tags:
 closed: false
 webinar-start: April 6, 2023 2:30 PM
 webinar-end: April 6, 2023 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111053
 webinar: true
 ---
 ### Description
 
-This webinar will review and clarify common questions on the ADA and ABA Accessibility Standards in new construction and alterations.  More specifically, Access Board staff will address misinterpretations and confusion on requirements for accessible showers, curb ramps, elevator exceptions, signs, and assembly seating.  
+This webinar will review and clarify common questions on the ADA and ABA Accessibility Standards in new construction and alterations. More specifically, Access Board staff will address misinterpretations and confusion on requirements for accessible showers, curb ramps, elevator exceptions, signs, and assembly seating.  
 
 Session participants are encouraged to share their own questions in advance of and during the session. There will be open dialogue during the webinar. The following is a sampling of anticipated questions that will be addressed.
 
@@ -40,8 +41,6 @@ Session participants are encouraged to share their own questions in advance of a
 * Do the ADA and ABA Standards permit ramps to be portable after construction as an adaptation?
 
 **Accessibility:**  Video remote interpreting and real-time captioning will be provided.
-
-**CEUs:**  Webinar attendees can earn continuing education credits.
 
 ### Continuing Education Recognition Available
 
