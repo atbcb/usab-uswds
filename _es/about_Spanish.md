@@ -14,10 +14,10 @@ El Departamento de Justicia (Department of Justice, DOJ) y el Departamento de Tr
 <div class="bg-primary-lighter border border-primary padding-2 margin-x-neg-2">
     <h2>Guía para los Estándares de la ADA </h2>
     <div class="float-right width-card">
-        {% asset stock/guide.svg class=&quot;&quot; alt=&quot;guides icon&quot; %}
+        {% asset stock/guide.svg class=&quot;&quot; alt=&quot;Ícono de guías ADA&quot; %}
     </div>
 	<p>También está disponible una guía para los Estándares de la ADA. Este recurso complementario explica y ejemplifica las disposiciones en los estándares e incluye una serie de animaciones sobre accesibilidad. El Consejo desarrolló esta información en colaboración con el DOJ y el DOT. </p>
-    {% include big-button.html link= &quot;/ada/guides/&quot; text= &quot;View ADA Guides&quot; %}
+    {% include big-button.html link= &quot;/ada/guides/&quot; text= &quot;Ver guías ADA&quot; %}
 </div>
 
 
