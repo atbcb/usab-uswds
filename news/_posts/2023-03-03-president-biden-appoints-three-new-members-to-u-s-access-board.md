@@ -3,7 +3,7 @@ layout: post
 title: "President Biden Appoints Three New Members to U.S. Access Board "
 date: 2023-03-03
 excerpt: "Today, President Joe Biden appointed three new members to the U.S.
-  Access Board: Stephanie L. Enyart, Carmen Daniel Jones, and Tina Guenette
+  Access Board: Stephanie L. Enyart, Carmen Daniels Jones, and Tina Guenette
   Pedersen. The newly appointed members bring a diverse range of . . ."
 image: /images/uploads/ab-seal.png
 featured: true
