@@ -12,11 +12,11 @@ Los Estándares de accesibilidad emitidos conforme a la Ley para los Estadounide
 El Departamento de Justicia (Department of Justice, DOJ) y el Departamento de Transporte (Department of Transportation, DOT) publican los Estándares de la ADA. Los Estándares de la ADA del DOJ se aplican a todas las instalaciones, excepto a las de transporte público, que estén sujetas a los Estándares de la ADA del DOT. Esta versión de los Estándares de la ADA combina ambos documentos y menciona disposiciones únicas en los Estándares del DOJ y en los del DOT. El Consejo de Accesibilidad es responsable de proporcionar asistencia técnica y capacitación sobre estos estándares.
 
 <div class="bg-primary-lighter border border-primary padding-2 margin-x-neg-2">
-    <h2>Guide to the ADA Standards</h2>
+    <h2>Guía para los Estándares de la ADA </h2>
     <div class="float-right width-card">
         {% asset stock/guide.svg class=&quot;&quot; alt=&quot;guides icon&quot; %}
     </div>
-    <p>A Guide to the ADA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.</p>
+	<p>También está disponible una guía para los Estándares de la ADA. Este recurso complementario explica y ejemplifica las disposiciones en los estándares e incluye una serie de animaciones sobre accesibilidad. El Consejo desarrolló esta información en colaboración con el DOJ y el DOT. </p>
     {% include big-button.html link= &quot;/ada/guides/&quot; text= &quot;View ADA Guides&quot; %}
 </div>
 
