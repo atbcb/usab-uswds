@@ -5,7 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/foia-report.html
 ---
-# {{ page.title }} (FY 2021)
+# {{ page.title }} (FY 2022)
 
 ## Section I: Basic Information Regarding Report
 
@@ -20,7 +20,7 @@ Email:&nbsp; <foia@access-board.gov>
 
 2. Provide an electronic link for access to the report on the agency Web site:
 > - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
+- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2022.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2022.xml) formats.
 
 3. Explain how to obtain a copy of the report in paper form.
 > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
