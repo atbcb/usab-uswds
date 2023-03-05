@@ -17,9 +17,8 @@ El Departamento de Justicia (Department of Justice, DOJ) y el Departamento de Tr
         {% asset stock/guide.svg class=&quot;&quot; alt=&quot;Ícono de guías ADA&quot; %}
     </div>
 	<p>También está disponible una guía para los Estándares de la ADA. Este recurso complementario explica y ejemplifica las disposiciones en los estándares e incluye una serie de animaciones sobre accesibilidad. El Consejo desarrolló esta información en colaboración con el DOJ y el DOT. </p>
-    {% include big-button.html link= &quot;/ada/guides/&quot; text= &quot;Ver guías ADA&quot; %}
+    {% include big-button.html link="/ada/guides/" text="Ver guías ADA (en inglés)" %}
 </div>
-
 
 ## Ilustraciones
 
@@ -37,7 +36,7 @@ Las ilustraciones incluidas en los Estándares de la ADA están disponibles para
 
 - 10 de julio de 1996: El Comité Asesor para la Revisión de los ADAAG presenta su informe final ante el Consejo.
 
-- 13 de enero de 1998: El Consejo publica anexos a los ADAAG, que abarcan [instalaciones gubernamentales [estatales y locales](https://www.federalregister.gov/documents/1998/01/13/98-616/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-building), así como [elementos de construcción diseñados para uso infantil](https://www.federalregister.gov/documents/1998/01/13/98-615/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-state-and).
+- 13 de enero de 1998: El Consejo publica anexos a los ADAAG, que abarcan [instalaciones gubernamentales (estatales y locales)](https://www.federalregister.gov/documents/1998/01/13/98-616/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-building), así como [elementos de construcción diseñados para uso infantil](https://www.federalregister.gov/documents/1998/01/13/98-615/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-state-and).
 
 - 16 de noviembre de 1999: El Consejo propone conjuntamente [actualizaciones](https://www.federalregister.gov/documents/1999/11/16/99-29250/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) a los ADAAG y a las Directrices de Accesibilidad de la Ley de Barreras Arquitectónicas (Architectural Barriers Act, ABA) para recibir comentarios del público.
 
