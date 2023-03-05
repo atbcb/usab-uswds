@@ -3,42 +3,52 @@ title: FOIA Annual Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
+file: /foia/usab-foia-report-fy2021.pdf
+file-description: USAB FOIA Annual Report in PDF format
 permalink: /about/foia-report.html
 ---
-# {{ page.title }} (FY 2022)
+## {{page.title}} (FY 2022)
+
+<button class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
 
 ## Section I: Basic Information Regarding Report
 
 1. Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
-> Christopher Kuczynski
-General Counsel / Chief FOIA Officer
-U.S. Access Board
-1331 F Street NW, Suite 1000
-Washington, DC  20004
-202-272-0080
-Email:&nbsp; <foia@access-board.gov>
+
+> Christopher Kuczynski \
+> General Counsel / Chief FOIA Officer \
+> U.S. Access Board \
+> 1331 F Street NW, Suite 1000 \
+> Washington, DC  20004 \
+> 202-272-0080 \
+> Email:&nbsp; <foia@access-board.gov>
 
 2. Provide an electronic link for access to the report on the agency Web site:
-> - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2022.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2022.xml) formats.
+
+> - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html) \
+> - The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2022.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2022.xml) formats.
 
 3. Explain how to obtain a copy of the report in paper form.
+
 > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
 ## Section II: Making a FOIA Request
 
 1. Provide names, addresses, and telephone numbers of all individual agency components that receive FOIA requests.
-    > U.S. Access Board  
-1331 F Street NW, Suite 1000  
-Washington, DC&nbsp; 20004  
-202-272-0080  
-Email:&nbsp; <foia@access-board.gov>
+
+> U.S. Access Board \
+> 1331 F Street NW, Suite 1000 \
+> Washington, DC&nbsp; 20004 \
+> 202-272-0080 \
+> Email:&nbsp; <foia@access-board.gov>
 
 2. Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
+
 > Some requests are not granted because they do not reasonably describe requested records, seek records that are not subject to release under FOIA, or the agency has no responsive records.
     
- 3. Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
- > U.S. Access Board's FOIA regulations, including the fee schedule, are codified at [36 C.F.R. part 1120](http://www.ecfr.gov/cgi-bin/text-idx?node=pt36.3.1120).
+3. Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
+
+> U.S. Access Board's FOIA regulations, including the fee schedule, are codified at [36 C.F.R. part 1120](http://www.ecfr.gov/cgi-bin/text-idx?node=pt36.3.1120).
 
 ## Section III:  Acronyms, Definitions, and Exemptions
 
