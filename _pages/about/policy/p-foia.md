@@ -22,6 +22,15 @@ Welcome to the Access Board's Freedom of Information Act (FOIA) page.  We hope t
 > 202-272-0081 (fax)  
 > <foia@access-board.gov>
 
+### Annual Reporting
+
+- FOIA Report for [Fiscal Year 2017]( {{ site.baseurl }}/foia/usab-foia-fy2017.pdf) (PDF)
+- FOIA Report for [Fiscal Year 2018]( {{ site.baseurl }}/foia/usab-foia-fy2018.pdf) (PDF)
+- FOIA Report for [Fiscal Year 2019]( {{ site.baseurl }}/foia/usab-foia-fy2019.pdf) (PDF)
+- FOIA Report for [Fiscal Year 2020]( {{ site.baseurl }}/foia/usab-foia-fy2020.pdf) (PDF)
+- FOIA Report for [Fiscal Year 2021]( {{ site.baseurl }}/foia/usab-foia-fy2021.pdf) (PDF)
+- FOIA Report for [Fiscal Year 2022]( {{ site.baseurl }}/foia/usab-foia-fy2022.pdf) (PDF)
+
 ## The Freedom of Information Act
 
 The Freedom of Information Act (5 U.S.C. § 552) provides a right of access to the public of government records.  The Act also allows the government to withhold certain information in responding to those requests in nine exemptions, including for national security, deliberative process and attorney client, and confidential business information, to name a few.
