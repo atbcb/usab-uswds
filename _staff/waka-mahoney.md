@@ -5,6 +5,5 @@ last_name: Mahoney
 full_name: Waka Mahoney
 job-title: Support Service Specialist
 office: Office of Administration
-agency: United States Access Board
 ---
 Waka Mahoney serves as Support Service Specialist for the Office of Administration. He also serves as a Contracting Officer Representative.  His duties include coordinating travel, timekeeping, records management, and procurement.
