@@ -7,7 +7,7 @@ excerpt: The U.S. Access Board seeks an Administrative Officer (GS 15) to serve
   overseeing and coordinating . . .
 image: /images/uploads/ab-seal.png
 image_alt_text: U.S. Access Board seal
-featured: true
+featured: false
 ---
 The U.S. Access Board seeks an Administrative Officer (GS 15) to serve in the Office of Administration. This position will be responsible for overseeing and coordinating all administrative activities of the Board, including budget management, fiscal accounting, personnel, payroll services, contracts management, procurement, information technology, travel management, space and property management, records administration, policy development, and employee services. More information about the duties is in the vacancy announcement.    
 
