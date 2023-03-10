@@ -14,7 +14,7 @@ The U.S. Access Board is committed to making its information and communication t
 
 The Section 508 standards are the technical requirements and criteria that are used to measure conformance with the law.  More information on Section 508 and the technical standards can be found at [www.section508.gov](http://www.section508.gov/) and on our website. The W3C Web Content Accessibility Guidelines (WCAG) 2.0 can be found at [www.w3.org/tr/wcag20](http://www.w3.org/TR/WCAG20/).
 
-In addition to features necessary for supporting the Revised Section 508 Standards and WCAG 2.0 Level AA, section headings are used to organize the content, and all videos incorporate audio descriptive in addition to captioning. In developing our site, templates are subjected to automated and end-user testing. New content is subjected to expert inspection.  Content updates are checked for accessibility before being deployed.
+In addition to features necessary for supporting the Revised Section 508 Standards and WCAG 2.0 Level AA, section headings are used to organize the content, and all videos incorporate descriptive narration in addition to captioning. In developing our site, templates are subjected to automated and end-user testing. New content is subjected to expert inspection.  Content updates are checked for accessibility before being deployed.
 
 Our website content is provided primarly in HTML format.  Accessible PDF (Portable Document Format) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](https://get.adobe.com/reader/).  No endorsement is implied.
 
@@ -36,4 +36,4 @@ The Architectural Barriers Act of 1968 (ABA) requires facilities that are design
 
 --- 
 
-Page reviewed and updated 3 Nov 2022.
+Page reviewed and updated 8 Mar 2022.
