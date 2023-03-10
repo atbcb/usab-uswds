@@ -7,7 +7,7 @@ excerpt: U.S. Access Board staff Kathy Eng and Tim Creagan will present at CSUN
   March 14 – 17, 2023. The CSUN Conference is . . .
 image: /images/uploads/eng-creagan.png
 image_alt_text: Portraits of Kathy Eng on the left and Tim Creagan on the right
-featured: false
+featured: true
 ---
 U.S. Access Board staff **Kathy Eng** and **Tim Creagan** will present at [CSUN Annual Assistive Technology Conference,](https://www.csun.edu/cod/conference/sessions/index.php/) which will be held in Anaheim, CA from **March 14 – 17, 2023**. The CSUN Conference is a forum on technology for people with disabilities where researchers, practitioners, and educators can share knowledge, innovations, and best practices to promote inclusion for all. 
 
