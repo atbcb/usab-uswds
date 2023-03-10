@@ -15,7 +15,7 @@ Eng will present on the “[ICT Testing Baseline Portfolio and Alignment Framewo
 
 <div>
   <figure class="img-left">
-      <img src="{{ site.baseurl }}/images/uploads/eng-bordered.jpg" alt="Portrait of Kathy Eng" class="center">
+      <img src="{{ site.baseurl }}/images/uploads/eng-bordered.png" alt="Portrait of Kathy Eng" class="center">
     <figcaption style="text-align:center">
       <em>Kathy Eng</em>
     </figcaption>
