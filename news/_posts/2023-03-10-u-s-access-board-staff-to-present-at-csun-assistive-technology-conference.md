@@ -9,6 +9,13 @@ featured: false
 ---
 U.S. Access Board staff Kathy Eng and Tim Creagan will present at [CSUN Annual Assistive Technology Conference,](https://www.csun.edu/cod/conference/sessions/index.php/) which will be held in Anaheim, CA from March 14 – 17, 2023. The CSUN Conference is a forum on technology for people with disabilities where researchers, practitioners, and educators can share knowledge, innovations, and best practices to promote inclusion for all. 
 
+<figure class="img-right">
+  <img src="{{ site.baseurl }}/images/uploads/eng-bordered.jpg" alt="Portrait of Kathy Eng" class="center">
+  <figcaption style="text-align:center">
+    <em>Kathy Eng</em>
+  </figcaption>
+</figure>
+
 Eng will present on the “[ICT Testing Baseline Portfolio and Alignment Framework](https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1384)” session on March 16 at 1:20 p.m. (PST). Eng and her co-presenters from General Administration Services, Andrew Nielson and Michael Horton, will review the development of the [ICT Testing Baseline for Web Accessibility](https://ictbaseline.access-board.gov/), its supporting framework to assess alignment of methodologies, and other activities to improve testing for Section 508 conformance of information and communication technology. 
 
 Eng and Creagan will also host [CSUN’s Birds of a Feather: Government and Policy networking event](https://www.csun.edu/cod/conference/sessions/index.php/public/website_pages/view/64) on March 16 from 12:00 – 1:00 p.m. (PST) in the Platinum 1 room. This event is open to all conference attendees. 
