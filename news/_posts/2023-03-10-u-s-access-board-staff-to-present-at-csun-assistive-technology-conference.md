@@ -13,21 +13,23 @@ U.S. Access Board staff **Kathy Eng** and **Tim Creagan** will present at [CSUN
 
 Eng will present on the “[ICT Testing Baseline Portfolio and Alignment Framework](https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1384)” session on **March 16** at **1:20 p.m. (PST)**. Eng and her co-presenters from General Administration Services, Andrew Nielson and Michael Horton, will review the development of the [ICT Testing Baseline for Web Accessibility](https://ictbaseline.access-board.gov/), its supporting framework to assess alignment of methodologies, and other activities to improve testing for Section 508 conformance of information and communication technology. 
 
-<figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/eng-bordered.jpg" alt="Portrait of Kathy Eng" class="center">
-  <figcaption style="text-align:center">
-    <em>Kathy Eng</em>
-  </figcaption>
-</figure>
+<div>
+  <figure class="img-left">
+      <img src="{{ site.baseurl }}/images/uploads/eng-bordered.jpg" alt="Portrait of Kathy Eng" class="center">
+    <figcaption style="text-align:center">
+      <em>Kathy Eng</em>
+    </figcaption>
+  </figure>
+  <figure class="img-right">
+  <img src="{{ site.baseurl }}/images/uploads/tim-creagan-small.png" alt="Portrait of Tim Creagan" class="center">
+    <figcaption style="text-align:center">
+      <em>Tim Creagan</em>
+    </figcaption>
+  </figure>
+  <br class="clear" />
+</div>
 
 Eng and Creagan will also host [CSUN’s Birds of a Feather: Government and Policy networking event](https://www.csun.edu/cod/conference/sessions/index.php/public/website_pages/view/64) on **March 16** from **12:00 – 1:00 p.m. (PST)** in the Platinum 1 room. This event is open to all conference attendees. 
-
-<figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/tim-creagan-small.png" alt="Portrait of Tim Creagan" class="center">
-  <figcaption style="text-align:center">
-    <em>Tim Creagan</em>
-  </figcaption>
-</figure>
 
 Eng, Creagan, Nielson, and Horton will present on the livestreamed public presentation “[FED Talk: Accessibility with the Access Board and GSA](https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1623)” on **March 17** at **8:00 a.m. (PST)**. This presentation will discuss guidance on the interpretation and implementation of the [Revised Section 508 Standards](https://www.access-board.gov/ict/) across a product’s lifecycle, including procurement, design and development, testing, and operations and maintenance, and address common questions about Section 508 provisions. For more information on the presentation and livestream link, visit [CSUN Conference’s Friday Sesssion webpage](https://www.csun.edu/cod/conference/sessions/index.php/public/conf_sessions/index_by_day/day:2023-03-17). 
 
