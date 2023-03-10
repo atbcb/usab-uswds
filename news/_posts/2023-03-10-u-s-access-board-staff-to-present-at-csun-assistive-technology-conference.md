@@ -20,6 +20,13 @@ Eng will present on the “[ICT Testing Baseline Portfolio and Alignment Framewo
 
 Eng and Creagan will also host [CSUN’s Birds of a Feather: Government and Policy networking event](https://www.csun.edu/cod/conference/sessions/index.php/public/website_pages/view/64) on March 16 from 12:00 – 1:00 p.m. (PST) in the Platinum 1 room. This event is open to all conference attendees. 
 
+<figure class="img-right">
+  <img src="{{ site.baseurl }}/images/uploads/tim-creagan-small.png" alt="Portrait of Tim Creagan" class="center">
+  <figcaption style="text-align:center">
+    <em>Tim Creagan</em>
+  </figcaption>
+</figure>
+
 Eng, Creagan, and Nielson will present on the livestreamed public presentation “[FED Talk: Accessibility with the Access Board and GSA](https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1623)” on March 17 at 8:00 a.m. (PST). This presentation will discuss guidance on the interpretation and implementation of the [Revised Section 508 Standards](https://www.access-board.gov/ict/) across a product’s lifecycle, including procurement, design and development, testing, and operations and maintenance, and common questions about Section 508 provisions. For more information on the presentation and livestream link, visit [CSUN Conference’s Friday Sesssion webpage](https://www.csun.edu/cod/conference/sessions/index.php/public/conf_sessions/index_by_day/day:2023-03-17). 
 
 The Board provides free technical assistance on accessible information and communication technology at [508@access-board.gov.](mailto:508@access-board.gov) The Board also provides [Section 508 resources](https://www.access-board.gov/ict/#additional-resources) and a [Section 508 Best Practices Webinar Series,](https://www.accessibilityonline.org/cioc-508/schedule/) including [archived Section 508 webinars](https://www.accessibilityonline.org/cioc-508/archives/). The webinar series is free and open to the public.
