@@ -7,7 +7,7 @@ excerpt: At its March meeting, the U.S. Access Board elected Gregory S.
   Fehribach as its new Chair and Katy Kale as its new Vice-Chair. Fehribach is
   counsel to the Indianapolis law firm Tuohy Bailey & Moore LLP. Kale is the
   Deputy Administrator of the U.S. General Services Administration (GSA) under
-  the Biden-Harris Administration.
+  the Biden-Harris Administration. The Board approved both choices unanimously.
 image: /images/uploads/fehribach-kale.png
 image_alt_text: Portraits of Greg Fehribach on the left and Katy Kale on the right
 featured: true
