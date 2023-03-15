@@ -11,7 +11,7 @@ excerpt: All are welcome to attend the next meeting of the U.S. Access Board,
   Washington D.C. Conference Space. For further information, . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: Photo of Board meeting on laptop screen
-featured: true
+featured: false
 ---
 All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **March 15** from **1:00 – 2:30 p.m. (ET)**. The agenda for the session includes election of officers, brief reports from standing and ad hoc Board committees and the Executive Director, and federal agency updates. 
 
