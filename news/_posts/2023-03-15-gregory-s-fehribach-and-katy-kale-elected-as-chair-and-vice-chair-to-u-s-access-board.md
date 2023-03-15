@@ -16,13 +16,27 @@ At its March meeting, the U.S. Access Board elected [Gregory S. Fehribach](https
 
 Every year, the Board elects officers, including a new Chair and Vice-Chair, which alternate between a public member and a federal member. As Chair, Fehribach succeeds Taryn Williams of the Department of Labor, and Kale succeeds Fehribach as Vice-Chair. 
 
+<figure class="img-right">
+  <img src="{{ site.baseurl }}/images/uploads/fehribach.png" alt="Portrait of Gregory S. Fehribach" class="center">
+  <figcaption style="text-align:center">
+    <em>Gregory S. Fehribach</em>
+  </figcaption>
+</figure>
+
 “It is an honor to have been elected as Chair of the United States Access Board by an outstanding board of colleagues.” Fehribach remarked. “In keeping with President Biden’s directive, we will provide guidance and requirements to accomplish the President’s goal of accessibility for all people with disabilities. We will serve and guide Americans so that they can create equitable and inclusive environments for people with disabilities in all facets of life.” 
 
 For over 35 years, Fehribach has counseled numerous clients at the national, state, and local level regarding the nuances of the Americans with Disabilities Act. Since 1988, he has served as an Interim Bankruptcy Trustee for the Southern District of Indiana. In 2009, he was designated a Distinguished Fellow at Ball State University where he established The Disability Project, which was renamed [the Gregory S. Fehribach Center](https://www.eskenazihealth.edu/programs/Fehribach-Center) on July 25, 2019. Fehribach has served on the Ball State University Board of Trustees, the Indiana Governor’s Planning Council for People with Disabilities, the Board of Directors of the Indianapolis Public Transportation Corporation, and the Marion County Health and Hospital Corporation Board of Trustees. He received his Bachelor of Science and Master of Arts degrees from Ball State University and a law degree from Ohio Northern University’s Pettit College of Law. 
 
 Fehribach’s position as Vice-Chair over the last year will be filled by Katy Kale from GSA. For many years, Board staff have collaborated with GSA staff on accessibility in the built environment and information and communication technology. Recently, staff from both agencies have worked together to showcase best practices and resources for accessibility that align with President Biden’s [executive order on diversity, equity, inclusion, and accessibility in the federal workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/). 
 
-“It’s a humbling honor to serve as Vice-Chair for the U.S. Access Board and to help lead the critical work it is doing to advance accessibility throughout the federal government,” said GSA Deputy Administrator Katy Kale. “Under the Biden-Harris Administration, the amazing teams at GSA and across government are working harder than ever to advance the principles of diversity, equity, inclusion, and accessibility, and I’m thrilled to take on this new role to help further strengthen and broaden that work alongside the other dynamic and distinguished Board members.” 
+<figure class="img-right">
+  <img src="{{ site.baseurl }}/images/uploads/katy-kale.png" alt="Portrait of Katy Kale" class="center">
+  <figcaption style="text-align:center">
+    <em>Katy Kale</em>
+  </figcaption>
+</figure>
+
+“It’s a humbling honor to serve as Vice-Chair for the U.S. Access Board and to help lead the critical work it is doing to advance accessibility throughout the federal government,” said GSA Deputy Administrator Kale. “Under the Biden-Harris Administration, the amazing teams at GSA and across government are working harder than ever to advance the principles of diversity, equity, inclusion, and accessibility, and I’m thrilled to take on this new role to help further strengthen and broaden that work alongside the other dynamic and distinguished Board members.” 
 
 In her capacity as Deputy Administrator at GSA, Kale leads a staff of more than 11,000 GSA employees nationwide. GSA manages a nationwide federal real estate portfolio of nearly 370 million rentable square feet, oversees approximately $75 billion in annual contracts, and delivers technology services that help millions of people. 
 
