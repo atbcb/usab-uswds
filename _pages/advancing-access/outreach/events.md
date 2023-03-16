@@ -13,10 +13,10 @@ permalink: /events/
 ## Public Events
 
 **Public Meeting of the U.S. Access Board** \
-> Town Hall Meeting: 50 Years Advancing Accessibility, Inclusion, and Equality 
-> July 25, 2023, 1:30 – 3:30 p.m. (ET) 
-> National Headquarters of the National Federation of the Blind 
-> 200 East Wells Street  
+> Town Hall Meeting: 50 Years Advancing Accessibility, Inclusion, and Equality \
+> July 25, 2023, 1:30 – 3:30 p.m. (ET) \
+> National Headquarters of the National Federation of the Blind \
+> 200 East Wells Street \
 > Baltimore, MD 21230        
 
 ### Public Events Archives
