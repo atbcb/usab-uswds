@@ -88,8 +88,7 @@ The Board's FY 2022-2026 Strategic Plan includes a vision statement (A nation th
 
 The Board established long- and short-range goals and annual objectives that describe the strategies it will implement to achieve the goals. In developing the objectives and strategies, the Board is implementing the Administration's priorities to ensure the equitable provision of government services as specified by Executive Order 13985, consultation with Tribal Nations to strengthen nation-to-nation relationships as specified by Executive Order 13175, and the advancement of diversity, equity, inclusion, and accessibility in the federal workplace as specified by Executive Order 14035.
 
-Establish Technical Specifications for Accessible Design
---------------------------------------------------------
+## Establish Technical Specifications for Accessible Design
 
 The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility. It has developed the following objectives for this program area:
 
@@ -190,8 +189,7 @@ The Board will continue to work with private sector codes and standards organiza
 
 The Board will continue to collaborate with the EAC and the European Joint Working Group on eAccessibility and will continue its efforts to harmonize its guidelines with model codes and standards, including the ICC A117.1 Standard for Accessible and Usable Buildings and Facilities.
 
-Provide Education and Information on the Importance and Implementation of Accessible Design
--------------------------------------------------------------------------------------------
+## Provide Education and Information on the Importance and Implementation of Accessible Design
 
 The Board provides training and technical assistance on accessibility guidelines and standards to a wide variety of people and entities, including architects, builders, designers, technology companies, manufacturers, people with disabilities, State and local governments, and federal agencies. The Board's long-range goal is to be known as a leading source of information on accessible design.
 
@@ -274,8 +272,7 @@ The following research and technical assistance projects are planned for FY 2024
 -   Regulatory assessment for updated ADA Accessibility Guidelines for Rail Vehicles
 -   Regulatory assessment for supplementary guidelines on self-service transaction machines
 
-Improve the Accessibility of the Federal Government
----------------------------------------------------
+## Improve the Accessibility of the Federal Government
 
 The Board is committed to improving the accessibility of the federal government and has the following objectives in this program area:
 
@@ -395,8 +392,7 @@ To further this goal for FY 2023, the Board is continuing its efforts to ensure 
 
 The Board plans to continue its efforts and practices for hiring people with disabilities in FY 2024. As part of this effort, it will recruit, hire, and develop a high-performing workforce that reflects the diversity of communities the Board serves by optimizing outreach.
 
-Promote Accessibility Throughout Society
-----------------------------------------
+## Promote Accessibility Throughout Society
 
 As noted above, the Board's technical assistance and ABA enforcement program contribute to promoting accessibility in various segments of society. The Board also promotes accessibility in the public sphere in other ways, apprising various audiences about accessible design, disability-related issues, and its programs and services. The Board has two primary objectives in this program area:
 
@@ -488,8 +484,7 @@ The Board aims to strengthen relationships with existing stakeholders and audien
 
 The Board also aims to acquire new stakeholders and audiences, specifically those in underserved communities, through outreach, promotional materials development, and more Spanish-translated agency documents. These activities will be included in the Board's *Communication and Outreach Strategy and Plan* and developed based on the recommendations in The Georgetown Firm's Marketing Plan.
 
-Improve Agency Systems and Modernize Operations
------------------------------------------------
+## Improve Agency Systems and Modernize Operations
 
 For FY 2022 through FY 2026, the Board has added a stewardship objective to its strategic plan to improve agency systems and modernize operations. The Board has set the following objectives:
 
@@ -498,4 +493,5 @@ For FY 2022 through FY 2026, the Board has added a stewardship objective to its 
 -   Update agency policies, procedures, and administrative regulations
 
 The Modernizing Government Technology Act delivers a clear mandate to federal agencies to look for ways to increase efficiency and effectiveness and improve service to the public. The Board has a requirement to employ centralized identity management systems for agency users that can be integrated into applications and common platforms. Information Technology (IT) resources are critical in support of the Board's strategic objective to improve agency systems and modernize operations. This objective includes using data and technology to enhance operations and services, using tools and internal systems to consolidate and retain agency knowledge, and updating agency policies, procedures, and administrative regulations. The overall goal of the Board, in accordance with recent and ongoing IT mandates, is to create a common environment for enterprise platform standards, processes, and governance, modernize legacy agency equipment, and secure and enhance the IT infrastructure. The IT appropriation provides resources for IT security enhancement modernization efforts, continued adoption of cloud-based computing solutions, consolidation of infrastructure and networks, and the modernization of legacy IT systems and applications. This funding level will also support the maintenance and enhancement of foundational capabilities that facilitate cloud migration and increase functionality.
+
 
