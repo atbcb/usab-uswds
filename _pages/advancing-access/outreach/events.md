@@ -33,7 +33,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- July 24 - 26, 2023, In-person, Washington, DC
+- July 24 - 25, 2023, In-person, Annapolis and Baltimore, MD
 - October 23 - 25, 2023, Virtual
 
 ### Board Meeting Archives
