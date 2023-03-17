@@ -493,4 +493,22 @@ For FY 2022 through FY 2026, the Board has added a stewardship objective to its 
 
 The Modernizing Government Technology Act delivers a clear mandate to federal agencies to look for ways to increase efficiency and effectiveness and improve service to the public. The Board has a requirement to employ centralized identity management systems for agency users that can be integrated into applications and common platforms. Information Technology (IT) resources are critical in support of the Board's strategic objective to improve agency systems and modernize operations. This objective includes using data and technology to enhance operations and services, using tools and internal systems to consolidate and retain agency knowledge, and updating agency policies, procedures, and administrative regulations. The overall goal of the Board, in accordance with recent and ongoing IT mandates, is to create a common environment for enterprise platform standards, processes, and governance, modernize legacy agency equipment, and secure and enhance the IT infrastructure. The IT appropriation provides resources for IT security enhancement modernization efforts, continued adoption of cloud-based computing solutions, consolidation of infrastructure and networks, and the modernization of legacy IT systems and applications. This funding level will also support the maintenance and enhancement of foundational capabilities that facilitate cloud migration and increase functionality.
 
+* * *
+
+# Appendices
+
+## Appendix A
+
+### Access Board Budget
+
+### Cost Discussion
+
+The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. L. 117-328, the FY 2023 Consolidated Appropriations Act, provided the Board with $9,850,000 in funding.
+
+#### Personnel
+
+* * *
+
+# Appendix B
+
 
