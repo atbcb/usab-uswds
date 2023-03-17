@@ -519,10 +519,12 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$5,724,600</td>
-      <td rowspan="2"><p>The Board anticipates it will use 32 FTE in FY 2024. The Board plans on five days of pay per Public Board member (Presidentially appointed) for one in-person Board meeting in D.C. and five days for one out-of-town meeting. Two of its regular board meetings will be held virtually, and members will receive three days of pay for each of those meetings.</p>
-        <p> In addition, the Board has included funds for salaries for a total of ten additional days for information meetings where some of its Public Board members participate in ad-hoc meetings or represent the agency in other meetings (such as meetings of the EAC).</p>
-        <p> The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for Public Board members include only the Social Security and Medicare allotment from the employer.</p>
-        <p>Salaries and benefits reflect the President&rsquo;s intent to include a 5.2% cost of living increase in 2024. Its personnel staff salary line includes an award amount equal to approximately 4 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted.</p></td>
+      <td rowspan="2">
+	      <p> The Board anticipates it will use 32 FTE in FY 2024. The Board plans on five days of pay per Public Board member (Presidentially appointed) for one in-person Board meeting in D.C. and five days for one out-of-town meeting. Two of its regular board meetings will be held virtually, and members will receive three days of pay for each of those meetings.</p>
+        <p> In addition, the Board has included funds for salaries for a total of ten additional days for information meetings where some of its Public Board members participate in ad-hoc meetings or represent the agency in other meetings (such as meetings of the EAC). </p>
+        <p> The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for Public Board members include only the Social Security and Medicare allotment from the employer. </p>
+        <p>Salaries and benefits reflect the President&rsquo;s intent to include a 5.2% cost of living increase in 2024. Its personnel staff salary line includes an award amount equal to approximately 4 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -545,8 +547,10 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$228,100</td>
-      <td rowspan="2"><p>This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART), and sign language interpreters for all board and other public meetings.</p>
-        <p>In FY&nbsp;2023, the Board revised its standard operating procedure (SOP), reducing the number of scheduled board meetings from six per year to four per year. The reduction in the number of meetings will result in a decreased funding requirement.</p></td>
+      <td rowspan="2">
+	      <p> This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART), and sign language interpreters for all board and other public meetings.</p>
+        <p>In FY&nbsp;2023, the Board revised its standard operating procedure (SOP), reducing the number of scheduled board meetings from six per year to four per year. The reduction in the number of meetings will result in a decreased funding requirement. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -569,8 +573,10 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$40,000</td>
-      <td rowspan="2"><p>The Board&rsquo;s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board staff conduct site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line; however, none is planned for FY 2024.</p>
-        <p> Other travel expenses are for the purpose of conducting accessibility training, which is a core part of the Board&rsquo;s mission. The Board also participates in international government consortiums to share information on accessibility policy.</p></td>
+      <td rowspan="2">
+	      <p> The Board&rsquo;s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board staff conduct site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line; however, none is planned for FY 2024.</p>
+        <p> Other travel expenses are for the purpose of conducting accessibility training, which is a core part of the Board&rsquo;s mission. The Board also participates in international government consortiums to share information on accessibility policy. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -593,7 +599,9 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$789,500</td>
-      <td rowspan="2"><p>he Board&rsquo;s rent is set by GSA. The Board entered into a new occupancy agreement, effective January 1, 2022. The amount included reflects the estimate provided by GSA. The amount on this line also includes other costs related to its space, such as maintenance and security.</p></td>
+      <td rowspan="2">
+	      <p> The Board&rsquo;s rent is set by GSA. The Board entered into a new occupancy agreement, effective January 1, 2022. The amount included reflects the estimate provided by GSA. The amount on this line also includes other costs related to its space, such as maintenance and security. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -616,7 +624,8 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$325,000</td>
-      <td rowspan="2"><p>Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board&rsquo;s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines.</p> </td>
+      <td rowspan="2"> <p> Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board&rsquo;s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -639,7 +648,9 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$1,039,700</td>
-      <td rowspan="2"><p>The Board contracts with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. Approximately $733,000 of its costs are for services the Board receives from BFS. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and has another contract for GovDelivery, which supports its public outreach initiative.</p></td>
+      <td rowspan="2">
+	      <p> The Board contracts with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. Approximately $733,000 of its costs are for services the Board receives from BFS. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and has another contract for GovDelivery, which supports its public outreach initiative. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -662,7 +673,8 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$1,540,700</td>
-      <td rowspan="2"><p>This is the yearly cost of the Board&rsquo;s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board&rsquo;s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, &ldquo;Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.&rdquo; This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board&rsquo;s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service&rsquo;s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program.</p>
+      <td rowspan="2">
+	      <p> This is the yearly cost of the Board&rsquo;s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board&rsquo;s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, &ldquo;Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.&rdquo; This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board&rsquo;s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service&rsquo;s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. </p>
 		</td>
     </tr>
     <tr>
@@ -686,7 +698,8 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$60,000</td>
-      <td rowspan="2"><p>Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements.</p></td>
+      <td rowspan="2"> <p> Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
@@ -709,7 +722,9 @@ The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. 
     <tr>
       <td>FY&nbsp;2023</td>
       <td>$91,700</td>
-      <td rowspan="2"><p>Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with book purchases for its library collection of accessible design materials, staff training, office supplies, and equipment purchases.</p></td>
+      <td rowspan="2">
+	      <p> Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with book purchases for its library collection of accessible design materials, staff training, office supplies, and equipment purchases. </p>
+	    </td>
     </tr>
     <tr>
       <td>FY&nbsp;2024</td>
