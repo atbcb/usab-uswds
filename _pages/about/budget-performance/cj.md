@@ -8,7 +8,7 @@ permalink: /cj/
 
 # Fiscal Year 2024 {{ page.title }}
 
-<button class="usa-button" title="Fiscal Year 2023 Budget Justification in PDF format" style="float:right"><a href="{{ site.baseurl }}/files/usab-fy-2024-cj.pdf">PDF</a></button>
+<button class="usa-button" title="Fiscal Year 2024 Budget Justification in PDF format" style="float:right"><a href="{{ site.baseurl }}/files/usab-fy-2024-cj.pdf">PDF</a></button>
 
 Submitted to: \
 United States House Appropriations Committee \
@@ -22,7 +22,6 @@ _March 2023_
 * [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design)
     -   [FY 2022 Results: Rulemaking](#fy-2022-results-rulemaking)
     -   [FY 2023 Planned Activities: Rulemaking](#fy-2023-planned-activities-rulemaking)
-    -   [FY 2023 Rulemaking Initiatives Under Consideration](#fy-2023-rulemaking-initiatives-under-consideration)
     -   [FY 2024 Objectives: Rulemaking](#fy-2024-objectives-rulemaking)
     -   [FY 2022 Results: Codes and Standards](#fy-2022-results-codes-and-standards)
     -   [FY 2023 Planned Activities: Codes and Standards](#fy-2023-planned-activities-codes-and-standards)
@@ -206,7 +205,7 @@ The Board's technical assistance program has four components:
 -   Responding to technical inquiries.  The Board responds to 4,000 -- 5,000 inquiries each year via the agency's technical assistance helpline and email accounts. Customers want accurate, reliable, and timely advice, and the Board's Accessibility Specialists dedicate extensive time in answering questions and engaging with stakeholders.
 -   Developing and disseminating guides, manuals, and other publications.  The Board maintains numerous publications on accessibility issues. These publications range from manuals on the Board's guidelines and standards, to animations and online guides, to the ADA and ABA Accessibility Standards.
 -   Providing training.  The Board conducts training on its guidelines and standards through  in-person trainings and via online webinars. Since the pandemic, the Board has transitioned to providing more training virtually through remote platforms instead of in-person. In addition, the Board conducts two free webinar series: AccessibilityOnline Series and Section 508 Best Practices Series. The AccessibilityOnline series provides sessions each month on different topics concerning accessible design and the Board's accessibility guidelines and standards on the built environment. The Section 508 Best Practices series includes bi-monthly webinars that discuss how agencies can implement accessible ICT in accordance with the Board's 508 Standards. Attendees of these sessions can earn continuing education credits.
--   Maintaining the Board's website.  The Board's website (www.access-board.gov) is a valuable resource for providing information to the public. Customers can view and/or download the Board's publications, the accessibility guidelines and standards, and animations from the website. The animations illustrate how accessible features are used by individuals with disabilities and add improved the rationale for the guidelines and standards.
+-   Maintaining the Board's website.  The Board's website ([www.access-board.gov]({{ site.baseurl}})) is a valuable resource for providing information to the public. Customers can view and/or download the Board's publications, the accessibility guidelines and standards, and animations from the website. The animations illustrate how accessible features are used by individuals with disabilities and add improved the rationale for the guidelines and standards.
 
 As the Board develops new guidelines for public rights-of-way and shared use paths, self-service transaction machines and kiosks, updated guidelines for rail vehicles, and EV charging stations,  there will be increased demands for technical assistance from existing and new customer groups. The Board maintains informal partnerships with organizations such as the National Association of ADA Coordinators and their network of ten regional ADA centers that post links and archive Board webinars for further marketing and distribution across the nation. The Board also provides refresher training to the Directors and organization staff.
 
@@ -326,7 +325,7 @@ In order to ensure greater public awareness of its work, the Board continues to 
 
 Likewise, pursuant to its obligations under Executive Order 14035 *Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce* (June 2021), the Board is developing a strategy of collaboration with the OMB, the Office of Personnel Management (OPM), and other agencies to ensure that all federal employees know about the ABA and the fact that they can file ABA complaints with the Board. In addition, the Board's strategy will help other agencies comply with their obligations pursuant to this Executive Order to ensure that their facilities not only comply with the ABA and related standards but also go beyond those legal requirements to maximize the accessibility of agency workplaces and reduce the need for reasonable accommodations. In FY 2022, the Board published a document to assist agencies in identifying and advancing facility accessibility.
 
-The Board will coordinate with HUD as necessary to assist in HUD's adoption of ABAAG as its accessibility standards under the ABA. HUD has announced that it will issue a Notice of Proposed Rulemaking toward that end in June 2023: https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04.
+The Board will coordinate with HUD as necessary to assist in HUD's adoption of ABAAG as its accessibility standards under the ABA. HUD has announced that it will issue a Notice of Proposed Rulemaking toward that end in June 2023: [www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04](https://reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04).
 
 Finally, the Board has procured licenses for a new software solution and contracted with an implementation provider for its Complaint Tracking System. The new system is less expensive and more efficient than the legacy system and will allow the Board to further expedite complaint handling.
 
@@ -354,7 +353,7 @@ The Board will continue to provide effective and responsible customer service an
 
 ### FY 2022 Results: Accessible Federal Information and Communication Technology
 
-The Access Board provides authoritative interpretations of its Section 508 standards and collaborates extensively with GSA in providing technical assistance to agencies. Together, they develop and post resources to the www.section508.gov website which serves as the federal government's central repository of accessible ICT information and resources.
+The Access Board provides authoritative interpretations of its Section 508 standards and collaborates extensively with GSA in providing technical assistance to agencies. Together, they develop and post resources to the [Section508.gov](https://section508.gov) website which serves as the federal government's central repository of accessible ICT information and resources.
 
 During FY 2022, the Board provided extensive training to other federal agencies to promote accessible ICT through the bi-monthly best practices webinars, individualized agency trainings, presentations at agency accessibility events, and via the annual Interagency Accessibility Forum (IAAF), a conference for federal agencies.
 
@@ -364,7 +363,7 @@ The Board also co-facilitates the World Wide Web Consortium's (w3C) Web Accessib
 
 ### FY 2023 Planned Activities: Accessible Federal Information and Communication Technology
 
-The Board is undertaking initiatives in partnership with other federal agencies to promote and advance ICT accessibility throughout the federal sector. During FY 2023, the Board will continue contributing content to the www.section508.gov website, the federal government's centralized resource on procuring, developing and maintaining accessible information and communication technology. Board staff will further leverage their roles in co-chairing two subcommittees of the Chief Information Officer Council (CIOC) Accessibility Community of Practice. Further development is underway to establish a framework and tools for which agencies can assess and monitor web site accessibility conformance with the Section 508 standards. In addition, the Board intends to refresh the bi-monthly Section 508 best practices webinars and will co-sponsor the annual IAAF that educates federal employees on the latest developments in accessible information and communication technology.
+The Board is undertaking initiatives in partnership with other federal agencies to promote and advance ICT accessibility throughout the federal sector. During FY 2023, the Board will continue contributing content to the [Section508.gov](https://section508.gov) website, the federal government's centralized resource on procuring, developing and maintaining accessible information and communication technology. Board staff will further leverage their roles in co-chairing two subcommittees of the Chief Information Officer Council (CIOC) Accessibility Community of Practice. Further development is underway to establish a framework and tools for which agencies can assess and monitor web site accessibility conformance with the Section 508 standards. In addition, the Board intends to refresh the bi-monthly Section 508 best practices webinars and will co-sponsor the annual IAAF that educates federal employees on the latest developments in accessible information and communication technology.
 
 As a leader serving on the ICT Testing Baseline (for federal government) and the ACT (international), the Board will work toward ensuring agreement with what the accessibility standards require and how to test for conformance.
 
