@@ -1112,4 +1112,4 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Training Sessions** | 22 | 48 | 0 | 85 | 12 | 73 | 15 | 80 |
 | **Training Participants** | 2,049 | 15,066 | 0 | 19,085 | 379 | 21,249 | 500 | 22,500 |
-{. usa-table }
+{:. usa-table }
