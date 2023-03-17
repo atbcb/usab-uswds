@@ -1060,8 +1060,6 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 
 ## Appendix C
 
-## Appendix C
-
 ### Architectural Barriers Act Cases
 
 | &nbsp; | FY&nbsp;2021 | FY&nbsp;2022 | FY&nbsp;2023 (est.) | FY&nbsp;2024 (est.) |
@@ -1086,10 +1084,17 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 
 ## Appendix D
 
+### Technical Assistance Data
 
-* * *
+| &nbsp; | FY&nbsp;2020 | FY&nbsp;2021 | FY&nbsp;2022 | FY&nbsp;2023 (est.) |
+| :---:  | :---:        | :---:        | :---:        | :---:               |
+| **Technical Assistance** (Calls and Faxes) | 5,300 | 4,401 | 4,582 | 5,000 |
+| **Website User Sessions** | 1,614,600 | 1,125,471 | 1,256,718 | 1,300,000 |
+{. usa-table }
 
-## Appendix E
 
-
-
+| &nbsp; | FY&nbsp;2020<br />In-Person | FY&nbsp;2020<br />IVirtual / Webinar | FY&nbsp;2021<br />IIn-Person | FYFY&nbsp;2021<br />Virtual / Webinar | FYFY&nbsp;2022<br />In-Person | FY&nbsp;2022<br />Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Training Sessions** | 22 | 48 | 0 | 85 | 12 | 73 | 15 | 80 |
+| **Training Participants** | 2,049 | 15,066 | 0 | 19,085 | 379 | 21,249 | 500 | 22,500 |
+{. usa-table }
