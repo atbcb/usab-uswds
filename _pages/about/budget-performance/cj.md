@@ -45,13 +45,16 @@ _March 2023_
     -   [FY 2023 Planned Activities](#fy-2023-planned-activities-1)
     -   [FY 2024 Objectives](#fy-2024-objectives-1)
 * [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
-* [Appendix A (Access Board Budget)](#appendix-a)
+* Appendix A
+    -   [Access Board Budget](#Access-Board-Budget)
     -   [Cost Discussion](#cost-discussion)
-* [Appendix B](#appendix-b)
+* Appendix B
     -   [Status of Current Access Board Rulemaking Efforts](#status-of-current-access-board-rulemaking-efforts)
     -   [Completed Access Board Rulemakings](#completed-access-board-rulemakings)
-* [Appendix C (Architectural Barriers Act Cases)](#appendix-c)
-* [Appendix D (Technical Assistance Data)](#appendix-d)
+* Appendix C
+    -   [Architectural Barriers Act Cases](#architectural-barriers-act-cases)
+* Appendix D
+    -   [Technical Assistance Data)](#technical-assistance-data)
 
 * * *
 
