@@ -202,10 +202,10 @@ The Board has the following objectives in this program area:
 
 The Board's technical assistance program has four components:
 
--   Responding to technical inquiries.  The Board responds to 4,000 -- 5,000 inquiries each year via the agency's technical assistance helpline and email accounts. Customers want accurate, reliable, and timely advice, and the Board's Accessibility Specialists dedicate extensive time in answering questions and engaging with stakeholders.
--   Developing and disseminating guides, manuals, and other publications.  The Board maintains numerous publications on accessibility issues. These publications range from manuals on the Board's guidelines and standards, to animations and online guides, to the ADA and ABA Accessibility Standards.
--   Providing training.  The Board conducts training on its guidelines and standards through  in-person trainings and via online webinars. Since the pandemic, the Board has transitioned to providing more training virtually through remote platforms instead of in-person. In addition, the Board conducts two free webinar series: AccessibilityOnline Series and Section 508 Best Practices Series. The AccessibilityOnline series provides sessions each month on different topics concerning accessible design and the Board's accessibility guidelines and standards on the built environment. The Section 508 Best Practices series includes bi-monthly webinars that discuss how agencies can implement accessible ICT in accordance with the Board's 508 Standards. Attendees of these sessions can earn continuing education credits.
--   Maintaining the Board's website.  The Board's website ([www.access-board.gov]({{ site.baseurl}})) is a valuable resource for providing information to the public. Customers can view and/or download the Board's publications, the accessibility guidelines and standards, and animations from the website. The animations illustrate how accessible features are used by individuals with disabilities and add improved the rationale for the guidelines and standards.
+1.  **Responding to technical inquiries.**  The Board responds to 4,000 -- 5,000 inquiries each year via the agency's technical assistance helpline and email accounts. Customers want accurate, reliable, and timely advice, and the Board's Accessibility Specialists dedicate extensive time in answering questions and engaging with stakeholders.<br><br>
+1.  **Developing and disseminating guides, manuals, and other publications.**  The Board maintains numerous publications on accessibility issues. These publications range from manuals on the Board's guidelines and standards, to animations and online guides, to the ADA and ABA Accessibility Standards.<br><br>
+1.  **Providing training.**  The Board conducts training on its guidelines and standards through  in-person trainings and via online webinars. Since the pandemic, the Board has transitioned to providing more training virtually through remote platforms instead of in-person. In addition, the Board conducts two free webinar series: AccessibilityOnline Series and Section 508 Best Practices Series. The AccessibilityOnline series provides sessions each month on different topics concerning accessible design and the Board's accessibility guidelines and standards on the built environment. The Section 508 Best Practices series includes bi-monthly webinars that discuss how agencies can implement accessible ICT in accordance with the Board's 508 Standards. Attendees of these sessions can earn continuing education credits.<br><br>
+1.  **Maintaining the Board's website.**  The Board's website ([www.access-board.gov]({{ site.baseurl}})) is a valuable resource for providing information to the public. Customers can view and/or download the Board's publications, the accessibility guidelines and standards, and animations from the website. The animations illustrate how accessible features are used by individuals with disabilities and add improved the rationale for the guidelines and standards.
 
 As the Board develops new guidelines for public rights-of-way and shared use paths, self-service transaction machines and kiosks, updated guidelines for rail vehicles, and EV charging stations,  there will be increased demands for technical assistance from existing and new customer groups. The Board maintains informal partnerships with organizations such as the National Association of ADA Coordinators and their network of ten regional ADA centers that post links and archive Board webinars for further marketing and distribution across the nation. The Board also provides refresher training to the Directors and organization staff.
 
@@ -297,9 +297,9 @@ Of the 197 ABA cases closed this year, 45 cases (about 23%) were closed after th
 
 In brief, the ABA closed cases this year that resulted in corrective action can be assorted into three broad categories by facility type:
 
--   Defense-related and Veterans Facilities: The Board successfully resolved seven ABA complaints against DOD and Veterans Affairs (VA), including cases relating to the Family Camp at Travis Air Force Base, California (mentioned above); the Roudebush VA Medical Center in Indianapolis, Indiana; and Naval Station Norfolk.
--   Post Offices: The Board successfully resolved 31 ABA complaints relating to USPS facilities, with major remedial work completed for post offices in Cave Junction, Oregon; Winnsboro, South Carolina; Seattle, Washington (two locations); Hickory, North Carolina; and Keller, Texas.
--   Other ABA-Covered Facilities: The Board also successfully resolved five other ABA complaints relating to facilities owned or leased by GSA (the Region 6 Headquarters Building in Kansas City, Missouri; the Peckham Federal Building in San Jose, California; the Denver Federal Center in Lakewood, Colorado; and Social Security Administration offices in Culpeper, Virginia, and Reading, Pennsylvania). In addition, the Board resolved complaints against the U.S. Forest Service (mentioned above) and the Thomas Day House in Milton, North Carolina---where the Board had jurisdiction since a prior renovation of the historic site used federal grant funds from the Department of the Interior (DOI), and where the governing board installed an entrance ramp in response to the ABA complaint.
+-   **Defense-related and Veterans Facilities:**  The Board successfully resolved seven ABA complaints against DOD and Veterans Affairs (VA), including cases relating to the Family Camp at Travis Air Force Base, California (mentioned above); the Roudebush VA Medical Center in Indianapolis, Indiana; and Naval Station Norfolk.<br><br>
+-   **Post Offices:**  The Board successfully resolved 31 ABA complaints relating to USPS facilities, with major remedial work completed for post offices in Cave Junction, Oregon; Winnsboro, South Carolina; Seattle, Washington (two locations); Hickory, North Carolina; and Keller, Texas.<br><br>
+-   **Other ABA-Covered Facilities:**  The Board also successfully resolved five other ABA complaints relating to facilities owned or leased by GSA (the Region 6 Headquarters Building in Kansas City, Missouri; the Peckham Federal Building in San Jose, California; the Denver Federal Center in Lakewood, Colorado; and Social Security Administration offices in Culpeper, Virginia, and Reading, Pennsylvania). In addition, the Board resolved complaints against the U.S. Forest Service (mentioned above) and the Thomas Day House in Milton, North Carolina---where the Board had jurisdiction since a prior renovation of the historic site used federal grant funds from the Department of the Interior (DOI), and where the governing board installed an entrance ramp in response to the ABA complaint.
 
 The balance of ABA cases closed this year---or 77%---were concluded for a range of technical or administrative reasons.
 
@@ -323,9 +323,9 @@ Regardless of method of submission, the Board contacts complainants to acknowled
 
 In order to ensure greater public awareness of its work, the Board continues to post annually a list on its website describing all the ABA corrective actions taken that year to remediate accessibility barriers in federal buildings and facilities. But in the Board's equity assessment required by Executive Order 13985, *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government* (January 2021), the Board acknowledged a previously unmet need to focus its ABA outreach and enforcement on underserved communities, where members of those communities have higher incidences of disability and for whom the accessibility of federal buildings and facilities is essential. Aside from expanding outreach to underserved communities, the Board is developing a strategy of collaboration with sister agencies with oversight of facilities in those communities, such as DOI (including the Bureaus of Indian Affairs, Indian Education, and Trust Fund Administration), the Department of Health and Human Services (including the Indian Health Service), USPS, and GSA, which both own or lease tens of thousands of facilities across the country, most of which are public facing.
 
-Likewise, pursuant to its obligations under Executive Order 14035 *Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce* (June 2021), the Board is developing a strategy of collaboration with the OMB, the Office of Personnel Management (OPM), and other agencies to ensure that all federal employees know about the ABA and the fact that they can file ABA complaints with the Board. In addition, the Board's strategy will help other agencies comply with their obligations pursuant to this Executive Order to ensure that their facilities not only comply with the ABA and related standards but also go beyond those legal requirements to maximize the accessibility of agency workplaces and reduce the need for reasonable accommodations. In FY 2022, the Board published a document to assist agencies in identifying and advancing facility accessibility.
+Likewise, pursuant to its obligations under Executive Order 14035 *Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce* (June 2021), the Board is developing a strategy of collaboration with the OMB, the Office of Personnel Management (OPM), and other agencies to ensure that all federal employees know about the ABA and the fact that they can file ABA complaints with the Board. In addition, the Board's strategy will help other agencies comply with their obligations pursuant to this Executive Order to ensure that their facilities not only comply with the ABA and related standards but also go beyond those legal requirements to maximize the accessibility of agency workplaces and reduce the need for reasonable accommodations. In FY 2022, the Board published a document to assist agencies in identifying and advancing facility accessibility({{ site.baseurl }}/deia-recommendations/ }}).
 
-The Board will coordinate with HUD as necessary to assist in HUD's adoption of ABAAG as its accessibility standards under the ABA. HUD has announced that it will issue a Notice of Proposed Rulemaking toward that end in June 2023: [www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04](https://reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04).
+The Board will coordinate with HUD as necessary to assist in HUD's adoption of ABAAG as its accessibility standards under the ABA. HUD has announced that it will issue a Notice of Proposed Rulemaking toward that end in June 2023: [reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=2529-AB04).
 
 Finally, the Board has procured licenses for a new software solution and contracted with an implementation provider for its Complaint Tracking System. The new system is less expensive and more efficient than the legacy system and will allow the Board to further expedite complaint handling.
 
@@ -400,10 +400,10 @@ As noted above, the Board's technical assistance and ABA enforcement program con
 
 The Board approaches these objectives with four strategies:
 
--   To sustain and increase public awareness of the Board and its activities
--   To hold events where the Board can hear from members of the public
--   To research and learn more about communities impacted by accessibility barriers and disability-related concerns
--   To strengthen relationships with Access Board stakeholders
+1.  To sustain and increase public awareness of the Board and its activities
+1.  To hold events where the Board can hear from members of the public
+1.  To research and learn more about communities impacted by accessibility barriers and disability-related concerns
+1.  To strengthen relationships with Access Board stakeholders
 
 ### FY 2022 Results
 
@@ -455,21 +455,21 @@ Board staff also frequently meet and interview with journalists at media outlets
 
 The Board has also dedicated more staff time and resources to fulfilling the Biden-Harris Administration's Executive Orders 13985 *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government*, 13175 *Tribal Consultation and Strengthening Nation-to-Nation Relationships*, and 14035 *Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce*. As an agency dedicated to accessible design for people with disabilities, all of the agency's activities in some way advance equity and remove barriers for underserved individuals; however, the agency has dedicated more staff time and resources to ensuring that people with disabilities in underserved communities and Tribal Nations are informed about and acquire its services. The following actions provide some highlights of accomplishments in FY 2022:
 
--   Advised OPM's Office of Diversity, Equity, Inclusion, and Accessibility in the planning of OPM's inaugural DEIA Summit 2022: A Whole-of-Government Approach to Disability Employment.
--   Created a set of DEIA recommendations and resources to aid federal agencies in drafting the portions of their strategic plans required under Executive Order 14035 dealing with accessibility.
--   Developed a DEIA Strategic Plan 2022 to advance and embed diversity, equity, inclusion, and accessibility throughout its workforce. The plan includes four goals to foster a culture that exemplifies teamwork, embraces innovation, and values diversity, equity, inclusion, and accessibility to achieve mission excellence.
--   Developed a project to translate ABA and ADA Standards and Guidelines and agency technical assistance materials into Spanish and contracted with an organization to translate other major Board documents.
--   Delivered presentations to other federal agencies and departments that focus on serving or working with American Indian and Alaska Natives populations;
--   Met with staff and representatives of other federal agencies to discuss opportunities and collaboration to reach out to Tribal Nations.
--   Met with non-profit organizations focused on accessibility and people with disabilities.
+1.  Advised OPM's Office of Diversity, Equity, Inclusion, and Accessibility in the planning of OPM's inaugural DEIA Summit 2022: A Whole-of-Government Approach to Disability Employment.
+1.  Created a set of DEIA recommendations and resources to aid federal agencies in drafting the portions of their strategic plans required under Executive Order 14035 dealing with accessibility.
+1.  Developed a DEIA Strategic Plan 2022 to advance and embed diversity, equity, inclusion, and accessibility throughout its workforce. The plan includes four goals to foster a culture that exemplifies teamwork, embraces innovation, and values diversity, equity, inclusion, and accessibility to achieve mission excellence.
+1.  Developed a project to translate ABA and ADA Standards and Guidelines and agency technical assistance materials into Spanish and contracted with an organization to translate other major Board documents.
+1.  Delivered presentations to other federal agencies and departments that focus on serving or working with American Indian and Alaska Natives populations;
+1.  Met with staff and representatives of other federal agencies to discuss opportunities and collaboration to reach out to Tribal Nations.
+1.  Met with non-profit organizations focused on accessibility and people with disabilities.
 
 ### FY 2023 Planned Activities
 
 Thus far in FY 2023, the Board continues to promote awareness of its work, programs, and service. The Board also plans to execute the following activities in FY 2023:
 
--   Press Conference on PROWAG (TBD). With anticipation of the publication of the PROWAG final rule, the Board will hold a press conference with media attendance to announce these accessibility guidelines.
--   50-year Agency Anniversary and 33-year ADA Anniversary Commemoration (July 2023). In commemoration of the agency's 50-year anniversary and the ADA's 33-year anniversary, the Board will host a town hall meeting to hear from members of the public about accessibility issues and barriers in their communities and lives.
--   Implement a Communication and Outreach Strategy and Plan (June 2023). The Board is currently working on a research project that will inform its efforts to augment communication and outreach to the public and communities.
+1.  Press Conference on PROWAG (TBD). With anticipation of the publication of the PROWAG final rule, the Board will hold a press conference with media attendance to announce these accessibility guidelines.
+1.  50-year Agency Anniversary and 33-year ADA Anniversary Commemoration (July 2023). In commemoration of the agency's 50-year anniversary and the ADA's 33-year anniversary, the Board will host a town hall meeting to hear from members of the public about accessibility issues and barriers in their communities and lives.
+1.  Implement a Communication and Outreach Strategy and Plan (June 2023). The Board is currently working on a research project that will inform its efforts to augment communication and outreach to the public and communities.
 
 #### Outreach
 
@@ -501,9 +501,246 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 
 ### Access Board Budget
 
+<table class="usa-table--striped">
+  <thead>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <th scope="col">FY&nbsp;2022<br>
+        Enacted</th>
+      <th scope="col">FY&nbsp;2023<br>
+        Enacted</th>
+      <th scope="col">FY&nbsp;2024<br>
+        Request</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="row">Budget Total</th>
+      <td>9,750,000</td>
+      <td>9,850,000</td>
+      <td>9,955,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Personnel</th>
+    </tr>
+    <tr>
+      <th colspan="2" scope="row">Personnel (total)</th>
+      <td>5,550,500</td>
+      <td>5,724,600</td>
+      <td>5,850,000</td>
+    </tr>
+    <tr>
+      <th colspan="2" scope="row">Salary (total)</th>
+      <td>4,199,500</td>
+      <td>4,325,300</td>
+      <td>4,404,700</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Staff (salary)</th>
+      <td>3,946,200</td>
+      <td>4,097,200</td>
+      <td>4,228,500</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Board (salary)</th>
+      <td>253,300</td>
+      <td>228,100</td>
+      <td>176,200</td>
+    </tr>
+    <tr>
+      <th colspan="2" scope="row">Benefits</th>
+      <td>1,351,000</td>
+      <td>1,399,300</td>
+      <td>1,445,300</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Board Meetings / Public Hearings</th>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <td>343,100</td>
+      <td>238,800</td>
+      <td>158,100</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Travel</th>
+    </tr>
+    <tr>
+      <th colspan="2" scope="row">Travel (total)</th>
+      <td>20,000</td>
+      <td>40,000</td>
+      <td>40,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Committee Meetings</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Training / Site Visits / Other</th>
+      <td>20,000</td>
+      <td>40,000</td>
+      <td>40,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Space Management</th>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <td>807,800</td>
+      <td>789,500</td>
+      <td>742,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Research</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Research (total)</th>
+      <td>400,000</td>
+      <td>325,000</td>
+      <td>400,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Technical Research</th>
+      <td>150,000</td>
+      <td>25,000</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Cost Assessments / RIA</th>
+      <td>250,000</td>
+      <td>300,000</td>
+      <td>400,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Admin Support Services</th>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <td>997,500</td>
+      <td>1,039,700</td>
+      <td>1,075,100</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">IT Support Services</th>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <td>1,486,200</td>
+      <td>1,540,700</td>
+      <td>1,533,500</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Printing</th>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <td>60,000</td>
+      <td>60,000</td>
+      <td>60,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="5" scope="rowgroup">Misc. Operating Expenses</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Misc. Operating Expenses (total)</th>
+      <td>84,900</td>
+      <td>91,700</td>
+      <td>96,300</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Postage / Courier / Mailing Services</th>
+      <td>5,000</td>
+      <td>5,000</td>
+      <td>5,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Staff Training</th>
+      <td>20,000</td>
+      <td>20,000</td>
+      <td>20,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Equipment</th>
+      <td>5,000</td>
+      <td>5,000</td>
+      <td>5,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Supplies</th>
+      <td>10,000</td>
+      <td>10,000</td>
+      <td>10,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Drug Testing</th>
+      <td>800</td>
+      <td>900</td>
+      <td>1,300</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Audits</th>
+      <td>34,100</td>
+      <td>35,800</td>
+      <td>40,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Books</th>
+      <td>5,000</td>
+      <td>5,000</td>
+      <td>5,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="row">Other</th>
+      <td>5,000</td>
+      <td>10,000</td>
+      <td>10,000</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Cost Discussion
 
-The Board is requesting a total budget authority in FY 2024 of $9,955,000. Pub. L. 117-328, the FY 2023 Consolidated Appropriations Act, provided the Board with $9,850,000 in funding.
+The Board is requesting a total budget authority in FY 2024 of $9,955,000.&nbsp; Pub. L. 117-328, the FY 2023 Consolidated Appropriations Act, provided the Board with $9,850,000 in funding.
 
 #### Personnel
 
@@ -1108,7 +1345,7 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 {: .usa-table }
 
 
-| &nbsp; | FY&nbsp;2020<br />In-Person | FY&nbsp;2020<br />IVirtual / Webinar | FY&nbsp;2021<br />IIn-Person | FYFY&nbsp;2021<br />Virtual / Webinar | FYFY&nbsp;2022<br />In-Person | FY&nbsp;2022<br />Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
+| &nbsp; | FY&nbsp;2020<br>In-Person | FY&nbsp;2020<br>Virtual / Webinar | FY&nbsp;2021<br>In-Person | FYFY&nbsp;2021<br>Virtual / Webinar | FYFY&nbsp;2022<br>In-Person | FY&nbsp;2022<br>Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Training Sessions** | 22 | 48 | 0 | 85 | 12 | 73 | 15 | 80 |
 | **Training Participants** | 2,049 | 15,066 | 0 | 19,085 | 379 | 21,249 | 500 | 22,500 |
