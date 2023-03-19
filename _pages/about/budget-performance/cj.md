@@ -504,7 +504,7 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 
 ### Access Board Budget
 
-<table class="usa-table--striped">
+<table class="usa-table usa-table--striped">
   <thead>
     <tr>
       <td colspan="2">&nbsp;</td>
@@ -1329,7 +1329,7 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 | &nbsp; &nbsp; After a referral absent an investigation | 56 | 72 | 63 | 70 |
 | &nbsp; &nbsp; For administrative reasons | 36 | 58 | 0‡ | 0‡ |
 | Complaints pending at end of the fiscal year | 83 | 127 | 137 | 147 |
-{: .usa-table--striped }
+{: .usa-table .usa-table--striped }
 
 † Beginning with FY 2023, the Board is no longer including complaints that were previously closed for administrative reasons (i.e., complaints we identified as "spam," unintelligible, or providing insufficient detail to allow us to make a referral or take any other action) in the totals for complaints received and closed. Therefore, the Board expects the numbers of total complaints received and closed in FY 2023 and FY 2024 to decrease from earlier years; the data for the first half of FY 2023 confirms that anticipated trend.
 
@@ -1348,7 +1348,7 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 {: .usa-table }
 
 
-|  | FY&nbsp;2020<br>In-Person | FY&nbsp;2020<br>Virtual / Webinar | FY&nbsp;2021<br>In-Person | FY&nbsp;2021<br>Virtual / Webinar | FY&nbsp;2022<br>In-Person | FY&nbsp;2022<br>Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
+| &nbsp; | FY&nbsp;2020<br>In-Person | FY&nbsp;2020<br>Virtual / Webinar | FY&nbsp;2021<br>In-Person | FY&nbsp;2021<br>Virtual / Webinar | FY&nbsp;2022<br>In-Person | FY&nbsp;2022<br>Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Training Sessions** | 22 | 48 | 0 | 85 | 12 | 73 | 15 | 80 |
 | **Training Participants** | 2,049 | 15,066 | 0 | 19,085 | 379 | 21,249 | 500 | 22,500 |
