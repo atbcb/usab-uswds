@@ -592,17 +592,16 @@ table.par-prose td:first-child {
 // } // zebra stripping by default
 
 // data table compatible with .usa-table
-// data table assumes 1st column th
-// data table assumes numbers are money, and so should be right aligned
-table.data tbody tr td {
+// data table assumes 1st column is TH and use of TBODY
+table.data tbody tr td { // align TD in TBODY right align, since assumption is they are money
 	text-align: right;
 }
-table.data tobdy tr th:first-child { // .usa-table has TH not in THEAD us normal font weight
+table.data tbody tr th:first-child { // .usa-table has TH not in THEAD us normal font weight
 	font-weight: bold;
 }
-table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li {
-	text-align: left;
-}
+table.data tfoot td, table.data td p, table.data td ul li, table.data td ol li {
+	text-align: left; // TD in TFOOT and P and LI left-align
+} // might need to add TBODY TR to contex of TD
 
 // layout table
 table.layout td {
