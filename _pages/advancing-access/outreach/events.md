@@ -12,22 +12,11 @@ permalink: /events/
 
 ## Public Events
 
-**Public Meeting of the U.S. Access Board** \
-March 15, 2023 \
-1:00 – 2:30 p.m. (ET)
->
-> ***In-Person Attendance Information*** \
-> U.S. Access Board Conference Space \
-> 1331 F Street NW \
-> Suite 800 \
-> Washington, D.C. 20004\
-> *Note*: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
->
-> ***Virtual Attendance Information*** \
-> Meeting link: [www.zoomgov.com/j/1607805452](https://www.zoomgov.com/j/1607805452)\
-> Meeting ID: 160 780 5452  \
-> Dial in: 1-646-828-7666  \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov)        
+> **U.S. Access Board Town Hall Meeting** \
+> July 25, 2023, 1:30 – 3:30 p.m. (ET) \
+> National Headquarters of the National Federation of the Blind \
+> 200 East Wells Street \
+> Baltimore, MD 21230        
 
 ### Public Events Archives
 
@@ -44,12 +33,12 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- March 13 - 15, 2023, In-person, Washington, DC
-- July 24 - 26, 2023, In-person, Washington, DC
+- July 24 - 25, 2023, In-person, Annapolis and Baltimore, MD
 - October 23 - 25, 2023, Virtual
 
 ### Board Meeting Archives
 
+- [March 15, 2023](https://youtu.be/Hd619gImSQY)
 - [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
 - [November 9, 2022](https://www.youtube.com/watch?v=kL4IKkiOLHA)
 - [July 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
