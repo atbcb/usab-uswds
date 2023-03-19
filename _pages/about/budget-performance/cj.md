@@ -1322,14 +1322,14 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 | Complaints pending at start of the fiscal year | 77 | 83 | 127 | 137 |
 | Complaints received during the fiscal year | 180 | 241 | 160† | 170† |
 | Total complaints closed during the fiscal year... | 174 | 197 | 150* | 160†  |
-| &nbsp; After our investigation resulted in completed corrective action | 38 | 45 | 50 | 60 |
-| &nbsp; After our investigation resulted in a determination that we did not have jurisdiction | 23 | 9 | 20 | 20 |
-| &nbsp; After our investigation resulted in a determination that there was no violation of the standards | 20 | 13 | 15 | 10 |
-| &nbsp; After the issuance of a waiver or modification by the standard-setting agency | 1 | 0 | 1 | 0 |
-| &nbsp; After a referral absent an investigation | 56 | 72 | 63 | 70 |
-| &nbsp; For administrative reasons | 36 | 58 | 0‡ | 0‡ |
+| &nbsp; &nbsp; After our investigation resulted in completed corrective action | 38 | 45 | 50 | 60 |
+| &nbsp; &nbsp; After our investigation resulted in a determination that we did not have jurisdiction | 23 | 9 | 20 | 20 |
+| &nbsp; &nbsp; After our investigation resulted in a determination that there was no violation of the standards | 20 | 13 | 15 | 10 |
+| &nbsp; &nbsp; After the issuance of a waiver or modification by the standard-setting agency | 1 | 0 | 1 | 0 |
+| &nbsp; &nbsp; After a referral absent an investigation | 56 | 72 | 63 | 70 |
+| &nbsp; &nbsp; For administrative reasons | 36 | 58 | 0‡ | 0‡ |
 | Complaints pending at end of the fiscal year | 83 | 127 | 137 | 147 |
-{: .usa-table }
+{: .usa-table--striped }
 
 † Beginning with FY 2023, the Board is no longer including complaints that were previously closed for administrative reasons (i.e., complaints we identified as "spam," unintelligible, or providing insufficient detail to allow us to make a referral or take any other action) in the totals for complaints received and closed. Therefore, the Board expects the numbers of total complaints received and closed in FY 2023 and FY 2024 to decrease from earlier years; the data for the first half of FY 2023 confirms that anticipated trend.
 
@@ -1348,7 +1348,7 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 {: .usa-table }
 
 
-|  | FY&nbsp;2020<br>In-Person | FY&nbsp;2020<br>Virtual / Webinar | FY&nbsp;2021<br>In-Person | FYFY&nbsp;2021<br>Virtual / Webinar | FYFY&nbsp;2022<br>In-Person | FY&nbsp;2022<br>Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
+|  | FY&nbsp;2020<br>In-Person | FY&nbsp;2020<br>Virtual / Webinar | FY&nbsp;2021<br>In-Person | FY&nbsp;2021<br>Virtual / Webinar | FY&nbsp;2022<br>In-Person | FY&nbsp;2022<br>Virtual / Webinar | FY&nbsp;2023 (est.) In-Person | FY&nbsp;2022 (est.) Virtual / Webinar |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Training Sessions** | 22 | 48 | 0 | 85 | 12 | 73 | 15 | 80 |
 | **Training Participants** | 2,049 | 15,066 | 0 | 19,085 | 379 | 21,249 | 500 | 22,500 |
