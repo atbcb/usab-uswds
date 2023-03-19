@@ -46,7 +46,7 @@ _March 2023_
     -   [FY 2024 Objectives](#fy-2024-objectives-1)
 * [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
 * Appendix A
-    -   [Access Board Budget](#Access-Board-Budget)
+    -   [Access Board Budget](#access-board-budget)
     -   [Cost Discussion](#cost-discussion)
 * Appendix B
     -   [Status of Current Access Board Rulemaking Efforts](#status-of-current-access-board-rulemaking-efforts)
@@ -1318,7 +1318,7 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 ### Architectural Barriers Act Cases
 
 | &nbsp; | FY&nbsp;2021 | FY&nbsp;2022 | FY&nbsp;2023 (est.) | FY&nbsp;2024 (est.) |
-| :---   | ---:         | --:          | ---:                | :---                |
+| :---   | :---:        | :---:        | :---:               | :---:                |
 | Complaints pending at start of the fiscal year | 77 | 83 | 127 | 137 |
 | Complaints received during the fiscal year | 180 | 241 | 160† | 170† |
 | Total complaints closed during the fiscal year... | 174 | 197 | 150* | 160†  |
@@ -1341,7 +1341,7 @@ On January 22, 2018, the Board issued a correction to its updated accessibility 
 
 ### Technical Assistance Data
 
-|  | FY&nbsp;2020 | FY&nbsp;2021 | FY&nbsp;2022 | FY&nbsp;2023 (est.) |
+| &nbsp; | FY&nbsp;2020 | FY&nbsp;2021 | FY&nbsp;2022 | FY&nbsp;2023 (est.) |
 | :---:  | :---:        | :---:        | :---:        | :---:               |
 | **Technical Assistance** <br> (Calls and Faxes) | 5,300 | 4,401 | 4,582 | 5,000 |
 | **Website User Sessions** | 1,614,600 | 1,125,471 | 1,256,718 | 1,300,000 |
