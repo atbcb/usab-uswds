@@ -31,7 +31,11 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 // Set fonts
-h1, h2 { // default was 2xl
+h1 {
+  @include u-font('heading', '2xl');
+  @include u-margin-y(1);
+}
+h2 { // default was 2xl
   @include u-font('heading', 'xl');
   @include u-margin-y(1);
 }
@@ -43,8 +47,12 @@ h4 { // default was sm
   @include u-font('heading', 'md');
   @include u-margin-y(1);
 }
-h5, h6 { // default was xs and 2xs
+h5 { // default was xs and 2xs
   @include u-font('heading', 'sm');
+  @include u-margin-y(1);
+}
+h6 { // default was xs and 2xs
+  @include u-font('heading', 'xs');
   @include u-margin-y(1);
 }
 
@@ -134,83 +142,6 @@ figure img {
 	margin-right: auto;
 }
 
-// table styles for Performance and Accountability Report
-h6.par {
-	margin-left: 2em;
-}
-figure.par {
-	display: block;
-	margin-left:0;
-}
-figure.par figcaption {
-	font-weight: bold;
-	text-align: left;
-}
-figure.par img {
-	float: left;
-	width: 100%;
-}
-table.par, table.par-money, table.par-prose {
-	border: none;
-	border-collapse: collapse;
-	margin-bottom: 1em;
-}
-table.par caption, table.par-money caption, table.par-prose caption {
-	font-weight: bold;
-	text-align: left;
-}
-table.par thead th, table.par-money thead th, table.par thead par-prose {
-	padding-left: 1em;
-	padding-right: 1em;
-}
-table.par thead th, table.par-money thead th {
-	color: white;
-	background-color: color(primary);
-}
-table.par th, table.par td, table.par-money th, table.par-money td {
-	border: thin solid color(primary);
-}
-table.par td {
-	text-align: center;
-}
-table.par-money td {
-	text-align: right;
-}
-table.par tbody th, table.par tfoot th, table.par td:first-child, table.par-money tbody th, table.par-money tfoot th, table.par-money td:first-child {
-	text-align: left;
-}
-table.par tr:nth-child(odd), table.par-money tr:nth-child(odd) {
- background-color: color(primary-lighter);
-}
-table.par-money tbody tr:first-child, table.par-money tfoot tr:first-child  {
-	border-top: medium solid color(primary);
-}
-table.par-money tfoot {
-	border-bottom: medium solid color(primary);
-}
-table.par tfoot td, table.par-money tfoot td {
-	font-weight: bold;
-}
-table.par-prose thead th {
-	color: black;
-	background-color: color(primary-lighter);
-	border-bottom: medium solid color(primary);
-}
-table.par-prose tbody th {
-	text-align: left;
-	border-top: thin solid color(primary);
-	border-bottom: thin solid color(primary);
-}
-table.par-prose tbody td {
-	text-align: center;
-	border-left: thin solid color(primary);
-	border-top: thin solid color(primary);
-	border-bottom: thin solid color(primary);
-}
-table.par-prose td:first-child {
-	text-align: left;
-	border-left: none;
-}
 ul.check {
 	list-style: none;
 }
@@ -577,20 +508,100 @@ a.style-inherit:focus>div.gray-to-color {
   background-size: 20px 20px;
 }
 
+// table styles for Performance and Accountability Report
+h6.par {
+	margin-left: 2em;
+}
+figure.par {
+	display: block;
+	margin-left:0;
+}
+figure.par figcaption {
+	font-weight: bold;
+	text-align: left;
+}
+figure.par img {
+	float: left;
+	width: 100%;
+}
+table.par, table.par-money, table.par-prose {
+	border: none;
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+table.par caption, table.par-money caption, table.par-prose caption {
+	font-weight: bold;
+	text-align: left;
+}
+table.par thead th, table.par-money thead th, table.par thead par-prose {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+table.par thead th, table.par-money thead th {
+	color: white;
+	background-color: color(primary);
+}
+table.par th, table.par td, table.par-money th, table.par-money td {
+	border: thin solid color(primary);
+}
+table.par td {
+	text-align: center;
+}
+table.par-money td {
+	text-align: right;
+}
+table.par tbody th, table.par tfoot th, table.par td:first-child, table.par-money tbody th, table.par-money tfoot th, table.par-money td:first-child {
+	text-align: left;
+}
+table.par tr:nth-child(odd), table.par-money tr:nth-child(odd) {
+ background-color: color(primary-lighter);
+}
+table.par-money tbody tr:first-child, table.par-money tfoot tr:first-child  {
+	border-top: medium solid color(primary);
+}
+table.par-money tfoot {
+	border-bottom: medium solid color(primary);
+}
+table.par tfoot td, table.par-money tfoot td {
+	font-weight: bold;
+}
+table.par-prose thead th {
+	color: black;
+	background-color: color(primary-lighter);
+	border-bottom: medium solid color(primary);
+}
+table.par-prose tbody th {
+	text-align: left;
+	border-top: thin solid color(primary);
+	border-bottom: thin solid color(primary);
+}
+table.par-prose tbody td {
+	text-align: center;
+	border-left: thin solid color(primary);
+	border-top: thin solid color(primary);
+	border-bottom: thin solid color(primary);
+}
+table.par-prose td:first-child {
+	text-align: left;
+	border-left: none;
+}
+
 // add shading to even rows in data tables -- does not seem to be working
 // table.data tbody tr:nth-child(even) {
 // background-color: #f2f2f2;
 // } // zebra stripping by default
 
-// data table, 1st col is th, center td
-table.data tbody tr td, table.data thead tr th {
-	text-align: center;
+// data table compatible with .usa-table
+// data table assumes 1st column th
+// data table assumes numbers are money, and so should be right aligned
+table.data tbody tr td {
+	text-align: right;
+}
+table.data tobdy tr th:first-child { // .usa-table has TH not in THEAD us normal font weight
+	font-weight: bold;
 }
 table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li {
 	text-align: left;
-}
-table.data th { // should not be necessary
-	font-weight: bold;
 }
 
 // layout table
