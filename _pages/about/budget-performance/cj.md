@@ -504,7 +504,7 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 
 ### Access Board Budget
 
-<table class="usa-table usa-table--striped">
+<table class="usa-table usa-table--striped data">
   <thead>
     <tr>
       <td colspan="2">&nbsp;</td>
