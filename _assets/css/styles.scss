@@ -591,6 +591,11 @@ table.par-prose td:first-child {
 // background-color: #f2f2f2;
 // } // zebra stripping by default
 
+// adjustment to .usa-table--striped, tighten line spacing inside TD
+table.usa-table--striped td {
+	line-height: 0.8;
+}
+
 // data table compatible with .usa-table
 // data table assumes 1st column is TH and use of TBODY
 table.data tbody tr td { // align TD in TBODY right align, since assumption is they are money
