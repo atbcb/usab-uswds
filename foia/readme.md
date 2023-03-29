@@ -1,6 +1,6 @@
 This directory used for the PDF, CSV, and NEIM-XL formats of the FOIA annual report.
 
-The quarterly subdirectory holds quarterly FOIA reporting files per [DOJ Guidance for Quarterly FOIA Reporting](https://www.justice.gov/oip/blog/guidance-quarterly-foia-reporting).  This reporting requirement ended in 2019.
+The quarterly subdirectory holds quarterly FOIA reporting files per [DOJ Guidance for Quarterly FOIA Reporting](https://www.justice.gov/oip/blog/guidance-quarterly-foia-reporting) from 2020 and 2021.  Since 2022, the reporting processs not longer requires USAB to post files.
 
 The most recent quarterly files might also be posted to this directory.
 The public facing URLs for those files are:
