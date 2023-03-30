@@ -1,6 +1,6 @@
 This directory is a collection of our Spanish lanuage (En Español) pages.
 
-Spring 2023, added Spanish version of ADAAG.
+April 2023, added Spanish version of ADAAG.
 
 | Filename | Close Analog? | Title | Translation | Legacy URL | 
 | --- | --- | --- | --- | --- |
