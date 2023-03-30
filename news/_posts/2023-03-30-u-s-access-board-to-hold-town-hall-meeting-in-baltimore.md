@@ -17,12 +17,12 @@ The town hall meeting and reception are open to all members of the public. Pleas
 
 The town hall meeting will be available via online streaming; however, individuals attending virtually will not be able to make comments. Information for listen-in only virtual attendance will be available soon. 
 
-American Sign Language (ASL) interpreters and Communication Access Real-time Transcription (CART) services will be provided. The Board has a fragrance-free environment policy and requests that all attendees refrain from wearing perfume, cologne, and other fragrances and use unscented personal care products. Requests for other reasonable accommodations must be submitted by **July 1, 2023** to Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
+American Sign Language (ASL) interpreters and Communication Access Real-time Transcription (CART) services will be provided. The Access Board has a fragrance-free environment policy and requests that all attendees refrain from wearing perfume, cologne, and other fragrances and use unscented personal care products. Requests for other reasonable accommodations must be submitted by **July 1, 2023** to Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
 
-> **U.S. Access Board Town Hall Meeting** \ 
+> **U.S. Access Board Town Hall Meeting** \
 > July 25, 2023, 1:30 – 3:30 p.m. (ET) \
 > National Headquarters of the National Federation of the Blind \
 > Members Hall \
 > 200 East Wells Street \
 > Baltimore, MD 21230 \
-> Registration: Provide full name and organization (if any) to [events@access-board.gov](mailto:events@access-board.gov) 
+> Registration: Provide full name and organization (if any) to [events@access-board.gov](mailto:events@access-board.gov)
