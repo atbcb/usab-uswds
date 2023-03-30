@@ -23,7 +23,7 @@ A wheelchair user, he had experienced firsthand barriers to access at many gover
 
 ## 1973 – The Access Board is Created
 
-Several years after the ABA became law, Congress observed that compliance was uneven, due in part to a lack oversight and of design standards for accessibility.&nbsp;
+Several years after the ABA became law, Congress observed that compliance was uneven, due in part to a lack of oversight and design standards for accessibility.&nbsp;
 It determined that a central agency was needed to take charge of enforcing the ABA and to develop accessibility standards.&nbsp;
 The concept of such an agency took shape as Congress considered the Rehabilitation Act of 1973, a measure that would require access to programs and activities funded by federal agencies and to federal employment.&nbsp;
 A provision in the law (section 502) created the Access Board, originally named the Architectural and Transportation Barriers Compliance Board.&nbsp;

@@ -25,7 +25,7 @@ During National Disability Employment Awareness Month (NDEAM), U.S. Access Board
 On October 4, **Sachin Pavithran**, Executive Director of the Board, delivered a keynote at the [M-Enabling Summit 2021](https://m-enabling.com/) on perspectives on digital inclusion as related to President’s Biden Executive Order on Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce. The Executive Order requires the Board to coordinate with other agencies to support the federal government’s effort to ensure that agencies comply with applicable laws related to disability, including Section 508, which requires access to information and communication technology developed, procured, maintained, or used by federal agencies, and the ABA, which requires access to facilities designed, built, altered, or leased with federal funds. Pavithran discussed the value of thinking about accessibility as a unique skill set and a different way of approaching workplaces, particularly within an organization. He noted that \"cultural shifts take time. The conversation of accessibility needs to be part of the organization's culture.\"
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/eng-bordered.jpg" alt="Portrait of Kathy Eng" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/eng-bordered.png" alt="Portrait of Kathy Eng" class="center">
   <figcaption style="text-align:center">
     <em>Kathy Eng</em>
   </figcaption>
