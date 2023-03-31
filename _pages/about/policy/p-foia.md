@@ -10,7 +10,7 @@ permalink: /about/policy/foia.html
 
 ## Introduction
 
-Welcome to the Access Board's Freedom of Information Act (FOIA) page.  We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).  Below is a description of that Act, as well as a list of frequently asked questions (FAQs).
+Welcome to the Access Board's Freedom of Information Act (FOIA) page.  We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).  Below is a description of that Act, a list of frequently asked questions (FAQs), and (at the [bottom of this page](#foia-reporting)) links to our annual FOIA reporting.
 
 ### FOIA Officer
 
@@ -87,11 +87,14 @@ ___
 
 ## FOIA Reporting
 
--   [Chief FOIA Officer Report]({{ site.baseurl }}/about/foia-cfor.html)
--   [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html)
 {% comment %}
--   [FOIA Annual Report FY 2018](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2018)
--   [FOIA Annual Report FY 2017](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2017)
--   [FOIA Annual Report FY 2016](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2016)
--   [FOIA Annual Report FY 2015](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2015)
+- [Chief FOIA Officer Report]({{ site.baseurl }}/about/foia-cfor.html)
 {% endcomment %}
+* Most recent [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html) (in HTML)
+* Previous years FOIA Annual Reports (in PDF)
+    - [2022 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2022.pdf)
+    - [2021 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2021.pdf)
+    - [2020 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2020.pdf)
+    - [2019 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2019.pdf)
+    - [2018 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2018.pdf)
+    - [2017 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2017.pdf)
