@@ -91,10 +91,10 @@ ___
 - [Chief FOIA Officer Report]({{ site.baseurl }}/about/foia-cfor.html)
 {% endcomment %}
 * Most recent [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html) (in HTML)
-* Previous years FOIA Annual Reports (in PDF)
-    - [2022 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2022.pdf)
-    - [2021 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2021.pdf)
-    - [2020 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2020.pdf)
-    - [2019 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2019.pdf)
-    - [2018 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2018.pdf)
-    - [2017 FOIA Annual Report]({{ site.baseurl }}foia/usab-foia-fy2017.pdf)
+* Previous years FOIA reporting, PDF only
+    - [2022 FOIA Annual Report]({{ site.baseurl }}/foia/usab-foia-fy2022.pdf)
+    - [2021 FOIA Annual Report]({{ site.baseurl }}/foia/usab-foia-fy2021.pdf)
+    - [2020 FOIA Annual Report]({{ site.baseurl }}/foia/usab-foia-fy2020.pdf)
+    - [2019 FOIA Annual Report]({{ site.baseurl }}/foia/usab-foia-fy2019.pdf)
+    - [2018 FOIA Annual Report]({{ site.baseurl }}/foia/usab-foia-fy2018.pdf)
+    - [2017 FOIA Annual Report]({{ site.baseurl }}/foia/usab-foia-fy2017.pdf)
