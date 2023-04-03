@@ -24,6 +24,7 @@ tags:
 closed: false
 webinar-start: May 4, 2023 2:30 PM
 webinar-end: May 4, 2023 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111057
 webinar: true
 ---
 ### Description
