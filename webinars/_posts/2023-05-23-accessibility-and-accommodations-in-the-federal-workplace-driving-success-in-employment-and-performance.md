@@ -44,6 +44,11 @@ Video Remote Interpreting (VRI) and real-time captioning will be provided.
 | ACTCP                     | 1.5              |
 | Certificate of Attendance | 1.5              |
 
+### Speakers
+
+[Carol Dobak](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10989&ret=Accessibility%20and%20Accommodations%20in%20the%20Federal%20Workplace:%20Driving%20Success%20in%20Employment%20and%20Performance%C2%A0), Deputy Commissioner, RSA, Office of Special Education and Rehabilitation Services, **U.S. Department of Education**
+
+[Rajiv Shah](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10990&ret=Accessibility%20and%20Accommodations%20in%20the%20Federal%20Workplace:%20Driving%20Success%20in%20Employment%20and%20Performance%C2%A0), IT/Assistive Technology Specialist, Accessibility Division (GTM/OAA/AD), **Office of Accessibility & Accommodations Global Talent Management, U.S. Department of State**
 
 ### Session Questions
 
