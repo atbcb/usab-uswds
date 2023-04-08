@@ -5,7 +5,7 @@ toc-group: tad
 order-number: 0
 ---
 
-These Technical Assistant (TA) Documents address design for specific subject areas and their sites, buildings, facilities, spaces, elements, and services to ensure accessibility for people with disabilities.
+These Technical Assistance (TA) Documents address design for specific subject areas and their sites, buildings, facilities, spaces, elements, and services to ensure accessibility for people with disabilities.
 
 It is important to use the TA Documents produced by the Access Board in conjunction with complete copies of the [Americans with Disabilities Act (ADA)]({{ site.baseurl }}/ada/) and [Architectural Barriers Act (ABA)]({{ site.baseurl }}/aba/) Accessibility Standards. 
 These TA Documents explain, but do not contain or reprint, the text of the ADA and ABA Standards. 
