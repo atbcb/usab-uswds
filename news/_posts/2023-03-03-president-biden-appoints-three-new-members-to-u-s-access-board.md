@@ -6,7 +6,7 @@ excerpt: "Today, President Joe Biden appointed three new members to the U.S.
   Access Board: Stephanie L. Enyart, Carmen Daniels Jones, and Tina Guenette
   Pedersen. The newly appointed members bring a diverse range of . . ."
 image: /images/uploads/ab-seal.png
-featured: true
+featured: false
 ---
 Today, President Joe Biden appointed three new members to the U.S. Access Board: Stephanie L. Enyart, Carmen Daniels Jones, and Tina Guenette Pedersen. The newly appointed members bring a diverse range of knowledge and experiences—spanning education, employment, technology, healthcare, communication, and transportation. 
 
