@@ -9,7 +9,7 @@ excerpt: The U.S. Access Board mourns the passing of Judy Heumann, an
   the Americans with Disabilities Act (ADA) of 1990, and . . .
 image: /images/uploads/j-heumann.png
 image_alt_text: Portrait of Judy Heumann
-featured: true
+featured: false
 ---
 The U.S. Access Board mourns the passing of Judy Heumann, an internationally recognized disability rights leader. Over the span of five decades, Judy was instrumental in the development and implementation of the [Rehabilitation Act of 1973](https://www.access-board.gov/law/ra.html), the [Individuals with Disabilities Education Act](https://sites.ed.gov/idea/statute-chapter-33), the [Americans with Disabilities Act (ADA) of 1990](https://www.access-board.gov/law/ada.html), and the [United Nations Convention on the Rights of Persons with Disabilities](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html). She also contributed to the founding of the Berkeley Center for Independent Living, the Independent Living Movement, and the World Institute on Disability. Judy passed away on March 4, 2023 in Washington, D.C. 
 
