@@ -16,7 +16,7 @@ file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr/>
-{%- comment -%}
+{% comment %}
 {% assign ada-chapters = site.ada | where: "title","Estándares de la ADA de 2010 del DOJ" %}
 {% for chapter in ada-chapters %}
 <h1>{{chapter.title}}</h1>
@@ -25,8 +25,8 @@ file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 {%- endcomment -%}
 
 <!-- STANDARDS -->
-<div>
 
+<div>
 <div id="adaCh1">
 <h1 id="a1">Capítulo 1: Aplicación y Administración</h1>
 <h2 id="ada-101">101  Objetivo</h2>
