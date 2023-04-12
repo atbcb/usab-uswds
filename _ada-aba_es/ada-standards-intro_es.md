@@ -8,6 +8,7 @@ version: original
 ---
 
 ### Introducción a los estándares de la ADA
+
 Los estándares de la Ley de Estadounidenses con Discapacidades (Americans with Disabilities Act, ADA) son emitidos por el Departamento de Justicia (Department of Justice, DOJ) y el Departamento de Transporte (Department of Transportation, DOT), y se aplican a instalaciones cubiertas por la ADA en nuevas construcciones y modificaciones.  Los estándares del DOJ se aplican a todas las instalaciones cubiertas por la ADA, excepto a las de transporte público, que estén sujetas a los estándares del DOT.
 
 Ambos conjuntos de estándares son muy similares y están estrechamente basados en las Directrices de Accesibilidad de la ADA (ADA Accessibility Guidelines, ADAAG) del Consejo.  Sin embargo, cada uno contiene algunas disposiciones únicas, que se incluyen en esta edición de los estándares.
