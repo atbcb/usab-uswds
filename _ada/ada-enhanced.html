@@ -25,17 +25,22 @@ redirect_from:
 {% endfor %}
 
 <hr>
-{%- comment -%}
+
+{% comment %}
 {% assign ada-chapters = site.ada | where: "title","DOJ’s 2010 ADA Standards" %}
 {% for chapter in ada-chapters %}
     <h1>{{chapter.title}}</h1>
     <div class="usa-prose">{{chapter.content}}</div>
 {% endfor %}
-{%- endcomment -%}
+{% endcomment %}
 
 <!-- STANDARDS -->
 
-<div>
+<button type="button" class="usa-button usa-button--outline usa-focus">
+    <a href="{{ site.baseurl }}/ada_es/">En Español</a>
+</button>
+
+<div> 
     <div id="adaCh1">
         <h1 id="a1">Chapter 1: Application and Administration</h1>
             <h2 id="ada-101">101 Purpose</h2>
