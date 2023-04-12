@@ -180,6 +180,8 @@ collections:
     permalink: /research/:path/
   es:
     output: true
+  ada-aba_es:
+    output: true
   staff:
     output: true
     permalink: /about/staff/:name/
@@ -400,6 +402,14 @@ defaults:
     values:
       collection-title: "En Español"
       collection-folder: es
+      layout: standards
+      image-directory: /images/
+  - scope:
+      path: ""
+      type: "ada-aba_es"
+    values:
+      collection-title: "ADA En Español"
+      collection-folder: ada-aba_es
       layout: standards
       image-directory: /images/
   - scope:
