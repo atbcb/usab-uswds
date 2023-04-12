@@ -2,7 +2,7 @@
 title: "Introducción a los estándares de la ADA"
 permalink: /ada-es/intro.html
 toc: /toc/auto.html
-toc-group: ada
+toc-group: ada_es
 order-number: 1
 version: original
 ---
