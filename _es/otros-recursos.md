@@ -20,7 +20,7 @@ Varias leyes federales aplicadas por otras agencias federales abordan la accesib
 
 ***Descardo de responsabilidad:**  Proveemos toda esta información como un servicio público a los miembros del público que no leen inglés.  Estos materiales son mantenidos en este servidor con el objetivo de mejorar el acceso público a estos recursos.  Este es un servicio de desarrollo continuo.  El usuario debe estar consciente de que, aunque intentamos mantener la información en esta página precisa y al día, a menudo habrá demoras entre cambios en estos materiales y su aparición o modificación de esta página.  Haremos todo lo posible por corregir los errores que nos sean señalados.*
 
-* * * * *
+---
 
 ### Transporte Aéreo
 
@@ -77,7 +77,7 @@ Para mandar denuncias por escrito:
 > Washington, DC  20530  
 > Fax: 202/307-1197
 
-* * * * *
+---
 
 ### Empleo
 
@@ -220,7 +220,7 @@ Para más información, llame gratis dentro de los Estados Unidos al (866) 377-8
 - [Preguntas frecuentes sobre los Títulos II y III de la ADA](http://www.ada.gov/faqada_spanish.htm)
 - [Reglamentos y materiales de asistencia técnica en español referentes a la Ley sobre Estadounidenses con Discapacidades (ADA](http://www.ada.gov/publicat_spanish.htm))
 
-* * * * *
+---
 
 ### Votar
 
