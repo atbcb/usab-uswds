@@ -227,12 +227,12 @@ button {
   a:active { color:yellow !important; text-decoration:underline; }
   a:visited { color:silver; text-decoration:none; }
 }
-
+/*
 // override default gray to get a little more contrast
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
 }
-
+*/
 // change submenu (Guidelines) font color for better contrast
 li.usa-nav__submenu-item>a {
   color: white !important;
