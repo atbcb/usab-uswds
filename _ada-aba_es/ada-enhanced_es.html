@@ -1,3 +1,36 @@
+---
+title: ADA Accessibility Standards En Espanol
+permalink: /ada-es/
+toc: /toc/ada_es.html
+image-directory: ./images/
+file: /files/ada/ADA-Standards.pdf
+file-description: Single file PDF version of the ADA Standards
+---
+
+{% assign ada-chapters = site.ada | where: "title","About the ADA" %}
+{% for chapter in ada-chapters %}
+    <div>{{chapter.content | markdownify}}</div>
+{% endfor %}
+
+<hr>
+
+{% assign ada-chapters = site.ada | where: "title","Introduction to the ADA standards" %}
+{% for chapter in ada-chapters %}
+    <div>{{chapter.content | markdownify}}</div>
+{% endfor %}
+
+<hr>
+
+{%- comment -%}
+{% assign ada-chapters = site.ada | where: "title","DOJ’s 2010 ADA Standards" %}
+{% for chapter in ada-chapters %}
+    <h1>{{chapter.title}}</h1>
+    <div class="usa-prose">{{chapter.content}}</div>
+{% endfor %}
+{%- endcomment -%}
+
+<!-- STANDARDS -->
+
 <aside id="toc" class="desktop:grid-col-3 margin-bottom-2 padding-right-2 border-right-width-2">
   <div class="padding-2 bg-white height-viewport overflow-y-scroll sticky">
     <nav role="navigation" class="toc-subnav usa-accordion" aria-multiselectable="true" aria-label="Table of contents subnavigation">
