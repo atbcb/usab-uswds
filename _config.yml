@@ -410,7 +410,8 @@ defaults:
     values:
       collection-title: "ADA En Español"
       collection-folder: ada-aba_es
-      layout: standards
+      layout: universal
+      toc: /toc/ada_es.html
       image-directory: /images/
   - scope:
       path: "_staff"
