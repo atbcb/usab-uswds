@@ -6,7 +6,7 @@ toc-group: ada
 ---
 
 <button type="button" class="usa-button usa-button--outline">
-    <a href="{{ site.baseurl }}/ada-es/">En Español</a>
+    <a href="{{ site.baseurl }}/ada-es/" title="Estándares de accesibilidad de la ADA">En Español</a>
 </button>
 
 # About the ADA Accessibility Standards
