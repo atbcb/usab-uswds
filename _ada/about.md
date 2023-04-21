@@ -4,7 +4,6 @@ permalink: /ada/about.html
 toc: /toc/auto.html
 toc-group: ada
 ---
-
 <button type="button" class="usa-button usa-button--outline">
     <a href="{{ site.baseurl }}/ada-es/" title="Estándares de accesibilidad de la ADA">En Español</a>
 </button>
