@@ -15,7 +15,6 @@
 $theme-font-path: "fonts";
 $theme-image-path: "img";
 
-// -------------------------------------
 // Import individual USWDS packages...
 @import "scss/packages/required";
 @import "overrides/all";
@@ -47,11 +46,11 @@ h4 { // default was sm
   @include u-font('heading', 'md');
   @include u-margin-y(1);
 }
-h5 { // default was xs and 2xs
+h5 { // default was xs
   @include u-font('heading', 'sm');
   @include u-margin-y(1);
 }
-h6 { // default was xs and 2xs
+h6 { // default was 2xs
   @include u-font('heading', 'xs');
   @include u-margin-y(1);
 }
@@ -66,6 +65,13 @@ a.style-inherit {
   text-decoration: inherit; // no underline
 }
 
+
+button {
+  a:link { text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  a:active { color:aqua !important; text-decoration:underline; }
+  a:visited { text-decoration:none; }
+}
 
 // stylish faux 'page-breaks'
 hr {
@@ -216,19 +222,12 @@ td ul.check {
 .usa-hero__callout {
   padding: 1rem;
   a:link { color:white; }
-  a:hover { color:aqua !important; text-decoration:underline; }
-  a:active { color:yellow !important; text-decoration:underline; }
+  a:hover { color:yellow !important; text-decoration:underline; }
+  a:active { color:aqua !important; text-decoration:underline; }
   a:visited { color:silver; }
 }
 
-button {
-//  a:link { color:white; text-decoration:none; }
-  a:hover { color:aqua !important; text-decoration:underline; }
-  a:active { color:yellow !important; text-decoration:underline; }
-//  a:visited { color:silver; text-decoration:none; }
-}
-
-// override default gray to get a little more contrast
+// override default gray for good contrast
 li.usa-nav__secondary-item a {
   color: color(secondary-darker);
 }
