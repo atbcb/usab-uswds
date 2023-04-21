@@ -3,8 +3,6 @@ title: "Sobre la ADA"
 permalink: /ada-es/sobre.html
 toc: /toc/auto.html
 toc-group: ada_es
-order-number: 0
-version: original
 ---
 # Sobre los Estándares de accesibilidad de la ADA
 
