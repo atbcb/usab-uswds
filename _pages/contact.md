@@ -29,7 +29,6 @@ If you have questions on these accessibility guidelines and standards call or em
 | <508@access-board.gov>     | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
 | <enforce@access-board.gov> | filing a complaint about facility access under the Architectural Barriers Act |
 | <foia@access-board.gov>    | submitting a request under the Freedom Of Information Act |
-| <generalcounsel@access-board.gov> | legal questions about Access Board statutory authorities, programs, operations, or ethics iling a complaint about facility access under the Architectural Barriers Act |
 | <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
 | <mde@access-board.gov> | questions about medical diagnostic equipment |
 | <news@access-board.gov> | media inquiries, public affairs, outreach, or subscriptions to the Board's e-news |
@@ -96,16 +95,17 @@ If you have questions on these accessibility guidelines and standards call or em
 The Board's offices and meeting space are located in downtown Washington, DC on F Street, Northwest, mid-block between 13th and 14th streets.&nbsp;
 Metro Center is the closest metro station and has entrances/exits at:&nbsp; 12th and G Streets (elevator), 13th and G Streets (escalator and stairs), and 12th and F Streets (escalator and stairs).
 
-![map of downtown DC showing Board location on F Street]({{ site.baseurl }}/images/map2.jpg){: .center .shadow .radius-lg}
+![map of downtown DC showing Board location on F Street]({{ site.baseurl }}/images/map2.jpg)
+{: .center .shadow .radius-lg}
 
-### Directions from Metro:
+### Directions from Metro
 
 Metro Stop: [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
-
 Use exit at:
 
 - 12th &amp; G Streets (go 1 block south to F Street, turn right and go 1½ blocks west);
 - 13th &amp; G Streets (go 1 block south to F Street, turn right and go ½ block west); or
 - 12th &amp; F Streets (go 1½ blocks west along F Street past 13th Street).
 
-![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW DC]({{ site.baseurl }}/images/map1.jpg){: .center .shadow .radius-lg .margin-bottom-5}
+![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW DC]({{ site.baseurl }}/images/map1.jpg)
+{: .center .shadow .radius-lg .margin-bottom-5}
