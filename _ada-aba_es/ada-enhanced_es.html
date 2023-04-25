@@ -11,7 +11,7 @@ file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr/>
-{% assign ada-chapters = site.ada | where: "title","Introducción a los estándares de la ADA" %}
+{% assign ada-chapters = site.ada-es | where: "title","Introducción a los estándares de la ADA" %}
 {% for chapter in ada-chapters %}
 <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
