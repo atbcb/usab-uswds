@@ -6,7 +6,7 @@ image-directory: /images/ada-aba/standards_es/
 file: /files/ada/ADA-Standards.pdf
 file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 ---
-{% assign ada-chapters = site.ada | where: "title","Sobre la ADA" %}
+{% assign ada-chapters = site.ada-aba_es | where: "title","Sobre la ADA" %}
 {% for chapter in ada-chapters %}
 <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
