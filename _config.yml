@@ -404,15 +404,21 @@ defaults:
       collection-folder: es
       layout: standards
       image-directory: /images/
+
+
   - scope:
       path: ""
       type: "ada-aba_es"
     values:
-      collection-title: "ADA En Español"
+      banner-title: "Ley de Estadounidenses con Discapacidades"
+      banner-subtitle: "Estándares de Accesibilidad"
       collection-folder: ada-aba_es
+      toc-group: ""
       layout: universal
       toc: /toc/ada_es.html
-      image-directory: /images/
+      image-directory: /images/ 
+
+
   - scope:
       path: "_staff"
     values:
