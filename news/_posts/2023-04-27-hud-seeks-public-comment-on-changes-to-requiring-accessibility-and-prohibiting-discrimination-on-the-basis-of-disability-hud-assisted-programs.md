@@ -3,7 +3,7 @@ layout: post
 title: "HUD Seeks Public Comment on Changes to Requiring Accessibility and Prohibiting Discrimination on the Basis of Disability in HUD-Assisted Programs "
 date: 2023-04-27
 excerpt: The U.S. Department of Housing and Urban Development (HUD) seeks public comment on potential changes to its regulation implementing Section 504 of the Rehabilitation Act for recipients of HUD federal financial assistance. Section 504 prohibits discrimination on . . .
-image: /images/uploads/SSTM-small.png
+image: /images/uploads/hud-seal.png
 image_alt_text: HUD logo
 featured: true
 ---
