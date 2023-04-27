@@ -17,5 +17,5 @@ These standards address medical diagnostic equipment, including examination tabl
 Advisory guidance developed by a stakeholder working group provides best practices on providing access to prescription drug container labels for people who have vision impairments or who are elderly.
 
 ### [COVID-19 Home Tests]({{ site.baseurl }}/tad/radx/)
-*Best Practices* \ 
+*Best Practices* 
 This document captures and publicizes learnings from the NIH RADx® Tech accessibility program to assist manufacturers in the design of COVID-19 and other in vitro diagnostic (IVD) home tests that ensure greater accessibility for users who have no vision or low vision, a reduced range of dexterity or motor skills, and are aging.
