@@ -17,11 +17,11 @@ All members of the public, including individuals with disabilities, HUD recipien
 * [Regulations.gov e-rulemaking portal](https://www.regulations.gov/document/HUD-2023-0029-0001): Select “Comment” link and follow the instructions. 
 * Mail:  
  
-> Regulations Division
-> Office of General Counsel 
-> Department of Housing and Urban Development 
-> 451 7th Street SW
-> Room 10276
+> Regulations Division \
+> Office of General Counsel \ 
+> Department of Housing and Urban Development \ 
+> 451 7th Street SW \
+> Room 10276 \
 > Washington, DC 20410–0500 
 
 For background and more information, visit [www.hud.gov/504](https://www.hud.gov/504) or access the docket via [www.regulations.gov/document/HUD-2023-0029-0001](https://www.regulations.gov/document/HUD-2023-0029-0001). For further information, contact Amy Gioletti at the toll-free number 1-405–609–8561. 
