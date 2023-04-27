@@ -13,7 +13,7 @@ The Board has issued accessibility standards for medical diagnostic equipment un
 These standards address medical diagnostic equipment, including examination tables and chairs, weight scales, radiological equipment, and mammography equipment.
 
 ### [Prescription Drug Container Labels]({{ site.baseurl }}/rx.html)
-Advisory non-mandatory guidance developed by a stakeholder working group provides best practices on providing access to prescription drug container labels for people who have vision impairments or who are elderly.
+Advisory non-mandatory guidance developed by a stakeholder working group provides best practices on access to prescription drug container labels for people who have vision impairments or who are elderly.
 
 ### [COVID-19 Home Tests]({{ site.baseurl }}/tad/radx/)
 This best practices document captures and publicizes learnings from the NIH RADx® Tech accessibility program to assist manufacturers in the design of COVID-19 and other in vitro diagnostic (IVD) home tests that ensure greater accessibility for users who have no vision or low vision, a reduced range of dexterity or motor skills, and are aging.
