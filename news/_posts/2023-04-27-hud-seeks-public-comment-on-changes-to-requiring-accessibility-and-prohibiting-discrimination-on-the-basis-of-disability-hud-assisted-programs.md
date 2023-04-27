@@ -18,8 +18,8 @@ All members of the public, including individuals with disabilities, HUD recipien
 * Mail:  
  
 > Regulations Division \
-> Office of General Counsel \ 
-> Department of Housing and Urban Development \ 
+> Office of General Counsel\
+> Department of Housing and Urban Development\
 > 451 7th Street SW \
 > Room 10276 \
 > Washington, DC 20410–0500 
