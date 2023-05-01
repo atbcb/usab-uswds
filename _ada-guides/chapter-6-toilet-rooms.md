@@ -52,7 +52,7 @@ Providing an accessible unisex toilet room in addition to multi-user
 toilet rooms is helpful for those who use personal care assistants of
 the opposite sex. The International Building Code (IBC) requires
 accessible unisex or \"family\" toilet rooms in assembly and mercantile
-occupancies where a total of six or more toilet fixtures for each sex is
+occupancies where a total of six or more toilet fixtures is
 required (§1108.2.1 in the 2000 IBC and §1109.2.1 in later editions).
 The ADA Standards require that unisex toilet rooms, where provided, have
 privacy latches and contain at most one lavatory, one water closet, and

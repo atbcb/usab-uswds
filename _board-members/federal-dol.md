@@ -1,14 +1,14 @@
 ---
-last-name: Williams
-agency: Department of Labor
 name: federal-dol
+last-name: Williams
 full_name: Taryn Williams
-chair: true
+chair: false
 vice-chair: false
 member: federal
 status: current
 image: /images/uploads/taryn-williams.png
 job-title: Assistant Secretary of Labor for Disability Employment Policy
+agency: Department of Labor
 ---
 Taryn Mackenzie Williams is the Assistant Secretary of Labor for Disability Employment Policy. In this position, she advises the Secretary of Labor on how the Department’s policies and programs impact the employment of people with disabilities and leads the Office of Disability Employment Policy (ODEP), which works with employers and all levels of government to promote evidence-based policy that improves employment opportunities and outcomes for people with disabilities.
 

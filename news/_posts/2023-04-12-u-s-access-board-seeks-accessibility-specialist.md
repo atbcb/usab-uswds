@@ -7,7 +7,7 @@ excerpt: The U.S. Access Board seeks an Accessibility Specialist (GS 11-12) to
   Specialist will be responsible for providing . . .
 image: /images/uploads/ab-seal.png
 image_alt_text: Access Board seal
-featured: true
+featured: false
 ---
 The U.S. Access Board seeks an Accessibility Specialist (GS 11-12) to serve in its Office of Technical and Information Services. This Accessibility Specialist will be responsible for providing technical assistance, training, and guidance to the public on design requirements for accessible buildings, facilities, public rights of way, transportation vehicles, and medical diagnostic equipment. They will also participate in Board rulemaking to update or supplement these requirements. Although not required, fluency in Spanish is highly desirable for this position.
 
