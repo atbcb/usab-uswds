@@ -65,11 +65,11 @@ a.style-inherit {
   text-decoration: inherit; // no underline
 }
 
-
 button {
   a:link { text-decoration:none; }
   a:hover { text-decoration:underline; }
-  a:active { color:aqua !important; text-decoration:underline; }
+  a:focus { text-decoration:underline; }
+  a:active { text-decoration:underline; color:gray !important; }
   a:visited { text-decoration:none; }
 }
 

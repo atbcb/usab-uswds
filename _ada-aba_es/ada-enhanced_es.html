@@ -6,18 +6,18 @@ image-directory: /images/ada-aba/standards_es/
 file: /files/ada/ADA-Standards.pdf
 file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 ---
-{% assign ada-chapters = site.ada | where: "title","Sobre la ADA" %}
+{% assign ada-chapters = site.ada-aba_es | where: "title","Sobre la ADA" %}
 {% for chapter in ada-chapters %}
 <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr/>
-{% assign ada-chapters = site.ada | where: "title","Introducción a los estándares de la ADA" %}
+{% assign ada-chapters = site.ada-aba_es | where: "title","Introducción a los estándares de la ADA" %}
 {% for chapter in ada-chapters %}
 <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr/>
 {%- comment -%}
-{% assign ada-chapters = site.ada | where: "title","Estándares de la ADA de 2010 del DOJ" %}
+{% assign ada-chapters = site.ada-aba_es | where: "title","Estándares de la ADA de 2010 del DOJ" %}
 {% for chapter in ada-chapters %}
 <h1>{{chapter.title}}</h1>
 <div class="usa-prose">{{chapter.content}}</div>
