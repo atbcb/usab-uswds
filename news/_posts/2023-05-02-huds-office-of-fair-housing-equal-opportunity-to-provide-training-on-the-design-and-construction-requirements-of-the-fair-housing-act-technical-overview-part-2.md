@@ -8,7 +8,7 @@ excerpt: The U.S. Department of Housing and Urban Development’s Office of Fair
   Housing/Equal Opportunity will provide a virtual training on the design and
   construction requirements of the Fair Housing Act (FHA) on May 16, 2023 from
   10:00 – 11:30 a.m. and 2:00 – 3:30 p.m. (ET). This session will provide an
-  in-depth overview of . . .
+  overview of . . .
 image: /images/uploads/fha-first-logo.png
 image_alt_text: Logo of Fair Housing Accessibility First
 featured: false
