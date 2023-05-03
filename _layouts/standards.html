@@ -4,6 +4,8 @@ layout: default
 
 {% if page.collection == 'es' %}
   <div class="usa-layout-docs" lang="es">
+{% elsif page.collection == 'ada-abe_es' %}
+  <div class="usa-layout-docs" lang="es">
 {% else %}
   <div class="usa-layout-docs">
 {% endif %}
@@ -32,7 +34,6 @@ layout: default
             </a>
             </span>
         </div>
-
 
         {% endif %}
         <div>{{ content }}</div>
