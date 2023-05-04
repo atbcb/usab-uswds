@@ -5,16 +5,6 @@ file: /files/ict/ict-final-rule.pdf
 ---
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
 
-first description term
-: first term description
-: second description of first term
-
-second description term
-: second term description
-
-third description term
-: third term description
-
 Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp; The statute also charges the Access Board with providing Technical Assistance on Section 508, which is provided through [webinars]({{ site.baseurl }}/webinars/), [trainings]({{ site.baseurl }}/training/), and in close collaboration with GSA and materials available from [Section508.gov](https://www.section508.gov).
 
 Section 508 requires access to ICT developed, procured, maintained, or used by federal agencies.&nbsp; 
