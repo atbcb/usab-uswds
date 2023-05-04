@@ -29,16 +29,16 @@ body text
 
 Glossary terms use `DL`
 
-first description list term one
-: term one description one
-: term one  description two
-first description list term two
-: term two description one
-first description list term three
-: term three description one
+first description list term one 
+: term one description one 
+: term one  description two 
+first description list term two 
+: term two description one 
+first description list term three 
+: term three description one 
 
-seond description list term four
-: term four description one
+seond description list term four 
+: term four description one 
 
-third description list term five
-: term five description one
+third description list term five 
+: term five description one 
