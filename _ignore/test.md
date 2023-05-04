@@ -29,12 +29,12 @@ body text
 
 Glossary terms should use `DL`
 
-description list term one
-: term one description one
+description list term one 
+: term one description one 
 : term one description two
 
-description list term two
+description list term two 
 : term two description one
 
-third description list term three
+third description list term three 
 : term three description one
