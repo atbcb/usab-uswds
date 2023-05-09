@@ -915,6 +915,6 @@ authorized to issue enforceable accessibility standards for the ABA.
  
 :::
 
-[]{.clear}
-
 {% endcomment %}
+
+[]{.clear}
