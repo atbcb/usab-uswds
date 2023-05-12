@@ -2,7 +2,10 @@
 title: Older version of complaint form page
 layout: page-full
 sidenav: false
-permalink: /complaintform
+permalink: /complaintform/
+redirect_from:
+    - https://access-board.my.site.com/s/
+
 --- 
 
 Older version of complaint form page; we need as a redirect to new version since www.access-board.gov/complaintform is on some of our brochures.
