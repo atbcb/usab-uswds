@@ -16,7 +16,7 @@ There are times when the Barriers Act does not apply to a facility but when anot
 
 ## Inquiry/Analysis
 
-If the ABA does cover the facility, we start an in-depth inquiry about when and how Federal funds were used. This may involve our request and review of architectural drawings, design plans, and other documents. With limited travel funds and a very small staff located only in Washington, D.C., we rely primarily on written correspondence to collect the necessary information. Therefore, our investigations may take a few weeks to several months to complete.
+If the ABA does cover the facility, we start an in-depth inquiry about when and how federal funds were used. This may involve our request and review of architectural drawings, design plans, and other documents. With limited travel funds and a very small staff located only in Washington, D.C., we rely primarily on written correspondence to collect the necessary information. Therefore, our investigations may take a few weeks to several months to complete.
 
 ## Periodic Updates
 
@@ -24,7 +24,7 @@ We will send you periodic updates on actions being taken in response to your com
 
 ## Corrective Actions
 
-If we learn that Federal accessibility standards were not met, we notify the responsible agency and request a plan and schedule to remove the barrier(s). Once we receive and accept this corrective action plan, we will notify you.
+If we learn that federal accessibility standards were not met, we notify the responsible agency and request a plan and schedule to remove the barrier(s). Once we receive and accept this corrective action plan, we will notify you.
 
 ## Monitoring These Actions
 
