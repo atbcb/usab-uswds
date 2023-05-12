@@ -98,7 +98,7 @@ Housing that is designed, built, altered, or leased with federal funds may be su
 Section 508 of the Rehabilitation Act requires access to information and communication technology (ICT) developed, procured, maintained, or used by federal agencies Access to ICT is addressed by Access Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. For technical assistance on the Section 508 and Section 255 requirements, contact:
 
 U.S. Access Board  
-Phone:  800-872-2253 (v) or 800-993-2822 (TTY)  
+Phone:  202-272-0080 (v/tty)  
 E-mail:  <508@access-board.gov>  
 Web:  [www.access-board.gov/ict/]({{ site.baseurl }}/ict/)
 
