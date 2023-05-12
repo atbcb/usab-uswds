@@ -1,8 +1,8 @@
 ---
 title: Older version of complaint form page
-layout: page-full
 sidenav: false
 permalink: /complaintform/
+layout: forward
 target: https://access-board.my.site.com/s/
 --- 
 
