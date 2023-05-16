@@ -5,7 +5,7 @@ title: U.S. Access Board Staff to Present at National Federation of the Blind’
 date: 2023-05-16
 excerpt: U.S. Access Board Senior ICT Accessibility Specialist Kathy Eng will
   present at National Federation of the Blind’s (NFB) Global Accessibility
-  Awareness Day webinar on May 18, 2023 from 3:00 – 4:00 (ET). This webinar will
+  Awareness Day webinar on May 18, 2023 from 3:00 – 4:00 p.m. (ET). This webinar will
   review . . .
 image: /images/uploads/eng-bordered.png
 image_alt_text: Portrait of Kathy Eng
