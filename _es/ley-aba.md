@@ -17,7 +17,7 @@ Las agencias federales tienen la responsabilidad de garantizar el cumplimiento d
 
 Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracterizó barreras para acceso como fracasos por parte del gobierno que perpetuaban “la discriminacion cruel.”
 
-* * * * *
+---
 
 ## Texto Oficial de la Ley de Barreras Arquitectónicas de 1968 (en inglés) 
 
