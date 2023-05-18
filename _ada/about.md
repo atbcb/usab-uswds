@@ -5,6 +5,10 @@ toc: /toc/auto.html
 toc-group: ada
 ---
 
+<button type="button" class="usa-button usa-button--outline">
+    <a href="{{ site.baseurl }}/ada-es/">En Español</a>
+</button>
+
 # About the ADA Accessibility Standards
 
 Accessibility standards issued under the Americans with Disabilities Act (ADA) apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions. The ADA Standards are based on minimum guidelines set by the Access Board. 
