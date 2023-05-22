@@ -7,7 +7,7 @@ order-number: 0
 version: original
 ---
 
-<button type="button" class="usa-button usa-button--outline">
+<button type="button" class="usa-button usa-button--outline" style="float:right">
     <a href="{{ site.baseurl }}/ada/">En Inglés</a>
 </button>
 
