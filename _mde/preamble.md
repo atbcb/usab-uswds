@@ -1,8 +1,7 @@
 ---
-title: Preamble
+title: 2017 Preamble
 order-number: 1
 ---
-
 Published in the *Federal Register* on January 9, 2017.
 
 36 CFR Part 1195\
@@ -18,13 +17,11 @@ RIN 3014-AA40
 
 **DATES:** The final rule is effective February 8, 2017.
 
-**FOR FURTHER INFORMATION CONTACT:** Earlene Sesker, U.S. Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004-1111. Telephone numbers: 202-272-0022 (voice) or 202-272-0091 (TTY). E-mail address: [](mailto:sesker@access-board.gov.)<sesker@access-board.gov>. Or Rex Pace, U.S. Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004-1111. Telephone numbers: 202-272-0023 (voice) or 202-272-0050 (TTY). E-mail address: [](mailto:pace@access-board.gov.)<pace@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:** Earlene Sesker, U.S. Access Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111. Telephone numbers: 202-272-0022 (voice) or 202-272-0091 (TTY). E-mail address: <sesker@access-board.gov>. Or Rex Pace, U.S. Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004-1111. Telephone numbers: 202-272-0023 (voice) or 202-272-0050 (TTY). E-mail address: <pace@access-board.gov>.
 
 **SUPPLEMENTARY INFORMATION:**
 
-
 ---
-
 
 ### I. Executive Summary
 
@@ -58,9 +55,7 @@ In addition, the Standards could yield some immediate benefits, even before any 
 
 The Board thus concludes that the potential benefits of the MDE Standards justify its potential costs; that the MDE Standards will impose the least burden on society, consistent with achieving the regulatory objectives; and that the regulatory approach selected will maximize net benefits.
 
-
 ---
-
 
 ### II. Rulemaking History
 
@@ -70,11 +65,9 @@ On February 9, 2012, the Access Board formally commenced the rulemaking process 
 
 The public comment period for the proposed rule ended on June 6, 2012. Comments were submitted by persons with disabilities, governmental agencies, disability rights organizations, and representatives of the medical diagnostic equipment industry and the medical community. In all, 59 comments were received; twenty-four from individuals, thirteen from the medical diagnostic equipment industry and the medical community, nine from disability rights organizations, four from accessibility consultants, three from academics, two from state and federal organizations, and four duplicate submissions. The public comments are available at <https://www.regulations.gov/docket?D=ATBCB-2012-0003>.
 
-On March 13, 2012, the Access Board published a notice of intent to establish an advisory committee to advise the Board on matters addressed in the MDE NPRM and issues raised in the public comments. Notice of Intent to Establish Advisory Committee - Medical Diagnostic Equipment Accessibility Standards, 77 FR 14706 (March 13, 2012). On July 5, 2012, the Access Board established the Medical Diagnostic Equipment Accessibility Standards Advisory Committee (MDE Advisory Committee). Notice of Establishment; Appointment of Members -- Medical Diagnostic Equipment Accessibility Standards Advisory Committee, 77 FR 39656 (July 5, 2012). The MDE Advisory Committee was comprised of individuals from 24 organizations representing a range of stakeholders and ex officio members from the FDA, Department of Justice, and the Department of Veterans Affairs.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/final-standards/text-of-the-proposed-standards-7) The MDE Advisory Committee met from September 2012 through May 2013 and much of the work occurred within five subcommittees that addressed the major categories of MDE and the issues raised by commenters: Examination Tables and Chairs; Stretchers; Diagnostic Imaging Equipment; Mammography Equipment; and Weight Scales. In June 2013, the MDE Advisory Committee presented 54 recommendations to the Access Board. The committee members reached a consensus on all of their recommendations, except for the recommended lowest or minimum height for adjustable-height transfer surfaces. The MDE Advisory Committee made recommendations regarding transfer surface height, transfer surface size, transfer sides, transfer supports, armrests, stirrups, lift compatibility, wheelchair spaces, and standing supports. The final report of the Medical Diagnostic Equipment Accessibility Standards Advisory Committee (December 6, 2013), is available at <https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report> (hereinafter, MDE Advisory Committee Report).
-
+On March 13, 2012, the Access Board published a notice of intent to establish an advisory committee to advise the Board on matters addressed in the MDE NPRM and issues raised in the public comments. Notice of Intent to Establish Advisory Committee - Medical Diagnostic Equipment Accessibility Standards, 77 FR 14706 (March 13, 2012). On July 5, 2012, the Access Board established the Medical Diagnostic Equipment Accessibility Standards Advisory Committee (MDE Advisory Committee). Notice of Establishment; Appointment of Members -- Medical Diagnostic Equipment Accessibility Standards Advisory Committee, 77 FR 39656 (July 5, 2012). The MDE Advisory Committee was comprised of individuals from 24 organizations representing a range of stakeholders and ex officio members from the FDA, Department of Justice, and the Department of Veterans Affairs.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/final-standards/text-of-the-proposed-standards-7) The MDE Advisory Committee met from September 2012 through May 2013 and much of the work occurred within five subcommittees that addressed the major categories of MDE and the issues raised by commenters: Examination Tables and Chairs; Stretchers; Diagnostic Imaging Equipment; Mammography Equipment; and Weight Scales. In June 2013, the MDE Advisory Committee presented 54 recommendations to the Access Board. The committee members reached a consensus on all of their recommendations, except for the recommended lowest or minimum height for adjustable-height transfer surfaces. The MDE Advisory Committee made recommendations regarding transfer surface height, transfer surface size, transfer sides, transfer supports, armrests, stirrups, lift compatibility, wheelchair spaces, and standing supports. The final report of the Medical Diagnostic Equipment Accessibility Standards Advisory Committee (December 6, 2013), is available at <https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report> (hereinafter, MDE Advisory Committee Report)
 
 ---
-
 
 ### III. Summary of Comments
 
