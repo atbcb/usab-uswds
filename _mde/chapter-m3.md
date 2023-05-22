@@ -1,6 +1,6 @@
 ---
 title: "Chapter 3: Technical Requirements"
-order-number: 3
+order-number: 13
 ---
 ### M301 Diagnostic Equipment Used by Patients in Supine, Prone, or Side-Lying Position
 
