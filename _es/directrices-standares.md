@@ -8,14 +8,14 @@ permalink: /es/directrices-standares.html
 
 El acceso a las tecnologías de información y de comunicación es dirigido por estándares emitidos por el Consejo y directrices publicadas según la Sección 508 de la Ley de Rehabilitación y la Sección 255 de la Ley de Telecomunicaciones.  El Consejo está en el proceso de actualizar estos estándares y directrices.
 
-- [Directrices de Accesibilidad Según la Ley de Telecomunicaciones](index.php?option=com_content&view=article&id=810&Itemid=198) (en inglés)
+- [Directrices de Accesibilidad Según la Ley de Telecomunicaciones]({{ site.baseurl }}/ict/) (en inglés)
 
 ### Edificios y Sitios
 
 Estándares emitidos bajo a la Ley para los Estadounidenses con Discapacidades de 1990 (Americans with Disabilities Act, o ADA, por sus siglas en inglés) se dirigen al acceso a edificios y sitios, en todo el país, en las nuevas construcciones y alteraciones. Bajo la Ley de Barreras Arquitectónicas (Architectural Barriers Act, o ABA, por sus siglas en ingles), estándares similares se dirigen a edificios y sitios financiados por el gobierno federal. El Consejo ha promulgado nuevas directrices que cubren alojamientos transportables de emergencia, o sea, viviendas temporales proporcionadas por el gobierno en casos de emergencia y desastres naturales.  El Consejo está desarrollando un suplemento a los estándares de la ADA y la ABA que se dirigirá a la acústica de salones de clase.
 
-- [Estándares de la ADA](index.php?Itemid=987) (en inglés) 
-- [Estándares de la ABA](index.php?option=com_content&view=article&id=1007&Itemid=948) (en inglés)
+- [Estándares de la ADA]({{ site.baseurl }}/ada/) (en inglés) 
+- [Estándares de la ABA]({{ site.baseurl }}/aba/) (en inglés)
 - [Alojamiento Transportable de Emergencia](index.php?option=com_content&view=article&id=294&Itemid=203) (en inglés)
 - [Acústica de Salones de Clase](index.php?option=com_content&view=article&id=1035&Itemid=204) (en inglés)
 
