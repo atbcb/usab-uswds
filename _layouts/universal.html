@@ -3,7 +3,6 @@ layout: base
 ---
 
 {% comment %}
-
 This is a universal layout that will create the page based on what front matter is or is not available
 
 toc:
@@ -18,7 +17,12 @@ toc-group:
 
 {% endcomment %}
 
-<main class="usa-layout-docs bg-base-lightest ">
+
+{% if page.collection == 'ada-aba_es' %}
+  <main lang="es" class="usa-layout-docs bg-base-lightest">
+{% else %}
+  <main class="usa-layout-docs bg-base-lightest">
+{% endif %}
   {% include section-title.html %}
   <div class="{% if page.width == 'desktop' %}grid-container maxw-desktop{% else %}maxw-full{% endif %}">
     <div class="grid-row">
