@@ -180,6 +180,8 @@ collections:
     permalink: /research/:path/
   es:
     output: true
+  ada-aba_es:
+    output: true
   staff:
     output: true
     permalink: /about/staff/:name/
@@ -402,6 +404,21 @@ defaults:
       collection-folder: es
       layout: standards
       image-directory: /images/
+
+
+  - scope:
+      path: ""
+      type: "ada-aba_es"
+    values:
+      banner-title: "Ley de Estadounidenses con Discapacidades"
+      banner-subtitle: "Estándares de Accesibilidad"
+      collection-folder: ada-aba_es
+      toc-group: ""
+      layout: universal
+      toc: /toc/ada_es.html
+      image-directory: /images/ 
+
+
   - scope:
       path: "_staff"
     values:

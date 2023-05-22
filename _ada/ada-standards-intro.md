@@ -31,8 +31,6 @@ See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
 -   The full text of DOJ's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm)
 -   DOJ's [ADA regulations](http://www.ada.gov/2010_regs.htm) implementing the 2010 ADA Standards 
 
-
-
 <div class="usa-accordion bg-base-lightest border">
       <h2 class="usa-accordion__heading width-full">
         <button class="usa-accordion__button bg-primary text-white hover:bg-primary hover:text-white"
@@ -115,7 +113,7 @@ See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
                     <th>Applicable Standards</th>
                     </tr>
             </thead>
-                <tbody>
+                  <tbody>
             <tr>
             <th>Before September 15, 2010</th>
             <td>1991 Standards or UFAS</td>
@@ -325,13 +323,12 @@ See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
     </div>
 </div>
 
-
-
 ---
 
 #### Department of Transportation ADA Standards for Transportation Facilities (2006)
 
 ![DOT seal](../images/dot-seal.jpg){: .float-right .thumbnail}
+
 DOT's ADA standards (2006) apply to facilities used by state and local governments to provide designated public transportation services, including bus stops and stations, and rail stations.  They include unique provisions concerning:
 
 -   Location of Accessible Routes ([206.3](#ada-206_3))
@@ -343,5 +340,3 @@ See also on DOT's website:
 
 -   [DOT Regulation for Transportation Services](http://www.fta.dot.gov/civilrights/12325_3884.html) 
 -   [DOT rule](http://www.fta.dot.gov/12325_5936.html) adopting the 2006 ADA Standards for Transportation Facilities
-
-

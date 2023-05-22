@@ -901,6 +901,9 @@ General Services Administration, Department of Defense, Department of
 Housing and Urban Development, and United States Postal Service are
 authorized to issue enforceable accessibility standards for the ABA.
 
+
+{% comment %}
+
 ::: {#YontooLocationStore2 style="display: none;"}
  
 :::
@@ -911,5 +914,7 @@ authorized to issue enforceable accessibility standards for the ABA.
 
  
 :::
+
+{% endcomment %}
 
 []{.clear}
