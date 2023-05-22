@@ -32,7 +32,11 @@ layout: default
         <div>
           {{ content }}
         </div>
-        {% include back-to-top.html %}
+        {% if page.collection == 'ada-abe_es' %}
+          {% include back-to-top.html is_spanish = true %}
+        {% else %}
+          {% include back-to-top.html %}
+        {% endif %}
       </div>
       {% if page.right-sidenav %}
         {% include {{ page.right-sidenav }} %}
