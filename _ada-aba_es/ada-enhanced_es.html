@@ -6,27 +6,26 @@ image-directory: /images/ada-aba/standards_es/
 file: /files/ada/ADA-Standards_ES.pdf
 file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 ---
-{% assign ada-chapters = site.ada-aba_es | where: "title","Sobre la ADA" %}
+{% assign ada-chapters=site.ada-aba_es | where: "title","Sobre la ADA" %}
 {% for chapter in ada-chapters %}
-<div>{{chapter.content | markdownify}}</div>
+  <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr/>
-{% assign ada-chapters = site.ada-aba_es | where: "title","Introducción a los estándares de la ADA" %}
+{% assign ada-chapters=site.ada-aba_es | where: "title","Introducción a los estándares de la ADA" %}
 {% for chapter in ada-chapters %}
-<div>{{chapter.content | markdownify}}</div>
+  <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr/>
-{%- comment -%}
+{% comment %}
 {% assign ada-chapters = site.ada-aba_es | where: "title","Estándares de la ADA de 2010 del DOJ" %}
 {% for chapter in ada-chapters %}
-<h1>{{chapter.title}}</h1>
-<div class="usa-prose">{{chapter.content}}</div>
+  <h1>{{chapter.title}}</h1>
+  <div class="usa-prose">{{chapter.content}}</div>
 {% endfor %}
-{%- endcomment -%}
+{% endcomment %}
 
 <!-- STANDARDS -->
 <div>
-
 <div id="adaCh1">
 <h1 id="a1">Capítulo 1: Aplicación y Administración</h1>
 <h2 id="ada-101">101  Objetivo</h2>
@@ -57,9 +56,9 @@ file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 <h3 id="ada-104_3">104.3  Cifras</h3>
 <p class="standards">Salvo que se indique expresamente lo contrario, las cifras se facilitan únicamente con fines informativos.</p>
 {% include_cached figure-caption.html
- text="Cifra 104: Convención Gráfica para las Cifras"
- img-file="ADA-AB1.jpg"
- img-alt="Las líneas de dimensión muestran las unidades inglesas por encima de la línea (en pulgadas a menos que se indique lo contrario) y las unidades SI (en milímetros a menos que se indique lo contrario). Las pequeñas mediciones muestran la cota con una flecha que apunta a la línea de cota. Los rangos de dimensión se muestran por encima de la línea en pulgadas y por debajo de la línea en milímetros.  “Min” se refiere al mínimo, y “max” se refiere al máximo.  Los símbolos matemáticos indican mayor que, mayor que o igual a, menor que, y menor que o igual a.  Una línea discontinua identifica el límite del espacio libre del piso o el espacio de maniobra. Una línea con disparo alterno y guiones largos con una “C” y una “L” al final indican la línea central.  Una línea discontinua con espacios más largos indica un elemento permitido o su extensión.  Una flecha es para identificar la dirección de viaje o aproximación.  Una línea negra gruesa se utiliza para representar una pared, piso, techo u otro elemento cortado en sección o plano.  El sombreado gris se utiliza para mostrar un elemento en elevación o planta.  El rayado se utiliza para mostrar la zona de ubicación de elementos, controles o entidades.  Los términos definidos por este documento se muestran en cursiva"
+  text="Cifra 104: Convención Gráfica para las Cifras"
+  img-file="ADA-AB1.jpg"
+  img-alt="Las líneas de dimensión muestran las unidades inglesas por encima de la línea (en pulgadas a menos que se indique lo contrario) y las unidades SI (en milímetros a menos que se indique lo contrario). Las pequeñas mediciones muestran la cota con una flecha que apunta a la línea de cota. Los rangos de dimensión se muestran por encima de la línea en pulgadas y por debajo de la línea en milímetros.  “Min” se refiere al mínimo, y “max” se refiere al máximo.  Los símbolos matemáticos indican mayor que, mayor que o igual a, menor que, y menor que o igual a.  Una línea discontinua identifica el límite del espacio libre del piso o el espacio de maniobra. Una línea con disparo alterno y guiones largos con una “C” y una “L” al final indican la línea central.  Una línea discontinua con espacios más largos indica un elemento permitido o su extensión.  Una flecha es para identificar la dirección de viaje o aproximación.  Una línea negra gruesa se utiliza para representar una pared, piso, techo u otro elemento cortado en sección o plano.  El sombreado gris se utiliza para mostrar un elemento en elevación o planta.  El rayado se utiliza para mostrar la zona de ubicación de elementos, controles o entidades.  Los términos definidos por este documento se muestran en cursiva"
 %}
 <h2 id="ada-105">105  Estándares de Referencia</h2>
 <h3 id="ada-105_1">105.1  General</h3>
@@ -199,7 +198,6 @@ file-description: Versión en PDF de un solo archivo de las Normas de la ADA
 <dt class="standards" id="wheelchair_space">Espacio para Silla de Ruedas.</dt> <dd><em>Espacio</em> para una silla de ruedas y su ocupante.</dd>
 <dt class="standards" id="work_area_equipment">Equipamiento para el Área de Trabajo.</dt> <dd>Toda máquina, instrumento, motor, bomba, transportador u&nbsp;otro aparato utilizado para realizar un trabajo. Tal y como se utiliza en este documento, este término se aplicará únicamente a los equipos instalados o incorporados de forma permanente en las <em>áreas de trabajo para empleados</em>. El <em>equipo para el área de trabajo</em> no incluye los ascensores de pasajeros y otros medios accesibles de transporte vertical.</dd>
 </dl>
-
 <h1></h1> <!--empty last heading for kms load function to work-->
 </div> <!--close #adaCh1-->
 
