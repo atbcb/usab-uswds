@@ -26,21 +26,25 @@ toc-group:
         {% include {{ page.toc }} %}
       {% endif %}
       <div class="desktop:grid-col padding-0">
-	    <div id="content" class="usa-prose margin-3 padding-3 bg-white border anchored">
-		    {% if page.file %}
+        <div id="content" class="usa-prose margin-3 padding-3 bg-white border anchored">
+        {% if page.file %}
           <div class="pdf-button-container">
             <a class="usa-button pdf-button float-right" title="{{ page.file-description }}" href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">PDF</a>
           </div>
-          {% endif %}
-          <div id="{% if page.toc == '/toc/auto.html' %}toc-source-content{% endif %}">
-            {{ content }}
-          </div>
-          {% include back-to-top.html %}
+        {% endif %}
+        <div id="{% if page.toc == '/toc/auto.html' %}toc-source-content{% endif %}">
+          {{ content }}
         </div>
+        {% if page.collection == 'ada-abe_es' %}
+            {% include back-to-top.html is_spanish = true %}
+        {% else %}
+          {% include back-to-top.html %}
+        {% endif %}
       </div>
-      {% if page.right-sidenav %}
-        {% include {{ page.right-sidenav }} %}
-      {% endif %}
+    </div>
+    {% if page.right-sidenav %}
+      {% include {{ page.right-sidenav }} %}
+    {% endif %}
     </div>
   </div>
 </main>
