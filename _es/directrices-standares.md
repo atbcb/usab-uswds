@@ -14,6 +14,7 @@ El acceso a las tecnologías de información y de comunicación es dirigido por 
 
 Estándares emitidos bajo a la Ley para los Estadounidenses con Discapacidades de 1990 (Americans with Disabilities Act, o ADA, por sus siglas en inglés) se dirigen al acceso a edificios y sitios, en todo el país, en las nuevas construcciones y alteraciones. Bajo la Ley de Barreras Arquitectónicas (Architectural Barriers Act, o ABA, por sus siglas en ingles), estándares similares se dirigen a edificios y sitios financiados por el gobierno federal. El Consejo ha promulgado nuevas directrices que cubren alojamientos transportables de emergencia, o sea, viviendas temporales proporcionadas por el gobierno en casos de emergencia y desastres naturales.  El Consejo está desarrollando un suplemento a los estándares de la ADA y la ABA que se dirigirá a la acústica de salones de clase.
 
+- [Estándares de la ADA]({{ site.baseurl }}/ada-es/) 
 - [Estándares de la ADA]({{ site.baseurl }}/ada/) (en inglés) 
 - [Estándares de la ABA]({{ site.baseurl }}/aba/) (en inglés)
 - [Alojamiento Transportable de Emergencia](index.php?option=com_content&view=article&id=294&Itemid=203) (en inglés)
