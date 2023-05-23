@@ -1,5 +1,5 @@
 ---
-name: david-o'keefe
+name: david-okeefe
 first_name: David
 last_name: O'Keefe
 full_name: David O'Keefe
