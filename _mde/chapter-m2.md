@@ -1,6 +1,6 @@
 ---
 title: "Chapter 2: Scoping"
-order-number: 2
+order-number: 12
 ---
 ### M201 General
 
