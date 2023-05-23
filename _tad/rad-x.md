@@ -129,7 +129,7 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="images/instructions-issue.jpg" alt="Instructions for use with small point size, light grey font and a small QR code"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
+      <img class="img-full" src="../images/instructions-issue.jpg" alt="Instructions for use with small point size, light grey font and a small QR code"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
       <ul>
         <li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
         <li>Expiration dates and QR codes are small (one-half inch square or less) and difficult to locate.</li>
@@ -138,7 +138,7 @@ Tube Holder
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="./images/instructions-recommendation.jpg" alt="Instructions for use with easy-to-read point size, bolded copy, dark black font, and a legible QR code"> <span class="grid-line text-italic">Key information stands apart</span>
+      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="Instructions for use with easy-to-read point size, bolded copy, dark black font, and a legible QR code"> <span class="grid-line text-italic">Key information stands apart</span>
       <ul>
         <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
         <li>Provide QR codes measuring larger than one-half inch square.</li>
