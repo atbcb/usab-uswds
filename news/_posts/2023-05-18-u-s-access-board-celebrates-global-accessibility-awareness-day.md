@@ -9,7 +9,7 @@ excerpt: Today, the U.S. Access Board celebrates the 12th annual Global
   access to information and communication technology (ICT) under . . .
 image: /images/uploads/map-of-earth.png
 image_alt_text: Map of Earth with countries are outlined and filled with nodes and connectors
-featured: true
+featured: false
 ---
 Today, the U.S. Access Board celebrates the 12th annual Global Accessibility Awareness Day (GAAD), a day dedicated to conversations and learning about digital access and inclusion for people with disabilities. The Board is a leading source of information on accessible design, including access to [information and communication technology (ICT)](https://www.access-board.gov/ict/) under [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology) and [Section 255 of the Communications Act](https://www.access-board.gov/law/ta.html). The Board also issues [Americans with Disabilities Act Accessibility Guidelines](https://www.access-board.gov/ada/) and [Architectural Barriers Act Accessibility Standards](https://www.access-board.gov/aba/) for the built environment, transportation vehicles, and recreation and outdoor developed areas. 
 
