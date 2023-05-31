@@ -1,9 +1,20 @@
 ---
 layout: post
-title: "A Tale of Two Agencies: The Section 508 Playbook"
+title: "A Tale of Three Agencies: The Section 508 Playbook"
 date: 2023-07-18
-excerpt: Every agency should develop, implement, and maintain a strategic Section 508 plan as part of their broader, multi-faceted accessibility program. This webinar will highlight policies and strategies employed by the Social Security Administration that may be adapted for use by other agencies. In addition, resources such as the Section 508 Playbook will also be referenced to help agencies, at any stage of their program maturity level, chart a more progressive path forward. Section 508 Coordinators, IT Specialists, Reasonable Accommodation Specialists, and Disability Program Managers are encouraged to participate. Participants may submit questions in advance of the webinar during the registration process or may ask questions during the live session. Video Remote Interpreting (VRI) and real-time captioning will be
-  provided.
+excerpt: Every agency should develop, implement, and maintain a strategic
+  Section 508 plan as part of their broader, multi-faceted accessibility
+  program. This webinar will highlight policies and strategies employed by the
+  Social Security Administration, Veterans Administration, and the Federal
+  Deposit Insurance Corporation (FDIC) that may be adapted for use by other
+  agencies. In addition, resources such as the Section 508 Playbook will also be
+  referenced to help agencies, at any stage of their program maturity level,
+  chart a more progressive path forward. Section 508 Coordinators, IT
+  Specialists, Reasonable Accommodation Specialists and Disability Program
+  Managers are encouraged to participate. Participants may submit questions in
+  advance of the webinar during the registration process or may ask questions
+  during the live session. Video Remote Interpreting (VRI) and real-time
+  captioning will be provided.
 tags:
   - "508"
   - Communication & IT
@@ -15,10 +26,16 @@ registration-link: https://www.accessibilityonline.org/cioc-508/session/?id=1110
 webinar: true
 ---
 ### Description
-Every agency should develop, implement, and maintain a strategic Section 508 plan as part of their broader, multi-faceted accessibility program. This webinar will highlight policies and strategies employed by the Social Security Administration that may be adapted for use by other agencies. In addition, resources such as the Section 508 Playbook will also be referenced to help agencies, at any stage of their program maturity level, chart a more progressive path forward. Section 508 Coordinators, IT Specialists, Reasonable Accommodation Specialists and Disability Program Managers are encouraged to participate.
+Every agency should develop, implement, and maintain a strategic Section 508 plan as part of their broader, multi-faceted accessibility program. This webinar will highlight policies and strategies employed by the Social Security Administration, Veterans Administration, and the Federal Deposit Insurance Corporation (FDIC) that may be adapted for use by other agencies. In addition, resources such as the Section 508 Playbook will also be referenced to help agencies, at any stage of their program maturity level, chart a more progressive path forward. Section 508 Coordinators, IT Specialists, Reasonable Accommodation Specialists, and Disability Program Managers are encouraged to participate.
+
+
 Participants may submit questions in advance of the webinar during the registration process or may ask questions during the live session.
 
+
+
 Video Remote Interpreting (VRI) and real-time captioning will be provided.
+
+
 
 ### Continuing Education Recognition Available
 
