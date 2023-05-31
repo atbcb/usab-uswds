@@ -45,7 +45,7 @@ Video Remote Interpreting (VRI) and real-time captioning will be provided.
 | Certificate of Attendance | 1.5              |
 
 
-### Speakers:
+### Speakers
 [Pierce Crowell (Invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10997&ret=A%20Tale%20of%20Two%20Agencies:%20The%20Section%20508%20Playbook), Section 508 Program Manager, Office of Systems, **Social Security Administration (SSA)**
 
 
