@@ -1087,26 +1087,26 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 
 ### References
 
-ADA Standards for Accessible Design. (2010). US Department of Justice Civil Rights Division.
+ADA Standards for Accessible Design. (2010). U.S. Department of Justice Civil Rights Division.
 
 ANSI/AAMI HE75:2009(R)2018 Human Factors Engineering -- Design of Medical Devices. (2018).
 
 Applying Human Factors and Usability Engineering to Medical Devices. (2016). U.S. Department of Health and Human Services, Food and Drug Administration, Center for Devices and Radiological Health, Office of Device Evaluation.
 
-Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices. (2020). US Food and Drug Administration.
+Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices. (2020). U.S. Food and Drug Administration.
 
-Design Considerations for Devices Intended for Home Use. (2014). US Food and Drug Administration.
+Design Considerations for Devices Intended for Home Use. (2014). U.S. Food and Drug Administration.
 
-Do It By Design - An Introduction to Human Factors in Medical Devices. (1996). US Food and Drug Administration.
+Do It By Design -- An Introduction to Human Factors in Medical Devices. (1996). U.S. Food and Drug Administration.
 
 Federal Plain Language Guidelines. (2011). In [PlainLanguage.gov](https://plainlanguage.gov).
 
-Human Factors Implications of the New GMP Rule Overall Requirements of the New Quality System Regulation. (1997). US Food and Drug Administration.
+Human Factors Implications of the New GMP Rule Overall Requirements of the New Quality System Regulation. (1997). U.S. Food and Drug Administration.
 
-Web Content Accessibility Guidelines ([WCAG]{https://w3.org/tr/wcag21}) 2.1 W3C Recommendation. (2018). 
+Web Content Accessibility Guidelines ([WCAG](https://w3.org/tr/wcag21)) 2.1 W3C Recommendation. (2018). 
 
 ---
 
-## RADx Tech Accessibility Program Webinar
+### RADx Tech Accessibility Program Webinar
 
-On February 28th, 2023, NIH RADx Tech Accessibility team members delivered a webinar titled “COVID-19 Accessible Testing – Best Practices”. This presentation is part of the 2023 RADx Tech Webinar Series and included as a preview of key insights from the June 2023 “Best Practices for the Design of Accessible COVID-19 Home Tests” publication. The recording is available as a [Webinar on YouTube](https://www.youtube.com/watch?v=Mn0YXHoApMY), as are the presentation [slides in PPTX, 4.5 MB)](https://usa-accessboard.box.com/s/mqtaxmax2nmo2081lpmhkr2ipqnhwac7) and [slides in PDF, 1 MB](https://usa-accessboard.box.com/s/fo2lgv9xdi3fj67zwdt9c7b2q65c48bb).
+On February 28th, 2023, NIH RADx Tech Accessibility team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices". This presentation is part of the 2023 RADx Tech Webinar Series and included as a preview of key insights from the June 2023 “Best Practices for the Design of Accessible COVID-19 Home Tests” publication. The recording is available as a [Webinar on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY), as are the presentation [slides in PPTX, 4.5 MB)](https://usa-accessboard.box.com/s/mqtaxmax2nmo2081lpmhkr2ipqnhwac7) and [slides in PDF, 1 MB](https://usa-accessboard.box.com/s/fo2lgv9xdi3fj67zwdt9c7b2q65c48bb).
