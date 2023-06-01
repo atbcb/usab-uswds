@@ -114,10 +114,16 @@ The Office of General Counsel (OGC) has primary authority for privacy policy at 
 
 ## Submitting Privacy Act Requests
 
-Under the Privacy Act, you are entitled to ask the Access Board to confirm whether we possess records about you, access such records, and request their amendment or correction.  If you wish to submit a Privacy Act request, you may send a written request through one of the methods listed below.  Please note that, in addition to describing the records sought, you will need to provide verification of your identify (if seeking records about yourself) or authority to access the requested records (if you are an authorized representative seeking records on someone else's behalf).
+Under the Privacy Act, you are entitled to ask the Access Board to confirm whether we have records about you, access such records, and request their amendment or correction.  If you wish to submit a Privacy Act request, you may send a written request through one of the methods listed below.  Please note that, in addition to describing the records sought, you will need to provide verification of your identity, such as a copy of your state-issued driver's license or identification card, or passport.  If you want to request information on another's behalf, you must submit proof that you are an authorized representative and proof of your identity and the identity of the person whose records are being sought.  For additional information on requesting records under the Privacy Act, see the [Access Board Privacy Act Regulations](https://www.ecfr.gov/current/title-36/chapter-XI/part-1121).
 
-> **Via Email:**
->> <privacy@access-board.gov>
+The Access Board very rarely maintains records that fall under the Privacy Act.  Most records containing information about individuals are records pertaining to:
+- past employees of the Access Board;
+- current employees of the Access Board;
+- contractors of the Access Board; 
+- applicants for employment of the Access Board; or
+- complainants who have filed a complaint under the Architectural Barriers Act and have chosen to provide their contact information. 
+
+Make requests to:
 
 > **Via Mail:**
 >> Office of General Counsel  
@@ -126,10 +132,10 @@ U.S. Access Board
 1331 F Street NW, Suite 1000  
 Washington, DC  20004
 
-> **Via Fax:**
->> 202-272-0081, Attn: Office of General Counsel -- Privacy Act Request
+> **Via Electronic Mail:**
+>> If you would prefer to submit your Privacy Act request via e-mail, at privacy@access-board.gov, your request and verification of identity must be sent with encryption. Most e-mail applications offer a method of sending e-mails via encryption. Gmail refers to encryption as confidential mode. E-mail Privacy Act requests can be sent to <privacy@access-board.gov>.
 
-***Note:***  Access Board records that do not relate to a specific individual can be obtained by submitting a [Freedom of Information Act (FOIA) request]{{ site.baseur }}/about/foia.html).
+***Note:***  Access Board records that do not relate to a specific individual (either yourself or someone on whose behalf you are authorized to request them) should be obtained by submitting a Freedom of Information Act (FOIA) request to <foia@access-board.gov>. 
 
 ## Privacy Questions or Complaints
 
