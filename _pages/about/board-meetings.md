@@ -26,7 +26,7 @@ July 25, 2023 \
 > Registration: Email full name and organization to [events@access-board.gov](mailto:events@access-board.gov) 
 
 > ***Virtual Attendance Information (listen-only)*** \
-> Zoomgov:  www.zoomgov.com/j/1616172171 \
+> Zoomgov:  [www.zoomgov.com/j/1616172171](https://www.zoomgov.com/j/1616172171?pwd=aVRmOExyRVhkRHUwUGxxS2pyNUdVUT09) \
 > Meeting ID:  161 617 2171 \
 > Passcode:  067497 \
 > Dial by your location: 
