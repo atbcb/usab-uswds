@@ -8,7 +8,7 @@ version: original
 ---
 
 <button type="button" class="usa-button usa-button--outline" style="float:right">
-    <a href="{{ site.baseurl }}/ada/">En Inglés</a>
+    <a href="{{ site.baseurl }}/ada/">Estándares en Inglés</a>
 </button>
 
 # Sobre los Estándares de accesibilidad de la ADA
