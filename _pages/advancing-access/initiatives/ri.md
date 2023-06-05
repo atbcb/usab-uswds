@@ -32,9 +32,9 @@ Electric vehicles (EV) are becoming more common on America's roads, and they req
 
 ### Medical Diagnostic Equipment
 
-![hospital bed]({{ site.baseurl }}/images/uploads/mri-3d-render.png "mri machine"){: .img-right}
+![adjustable exam table]({{ site.baseurl }}/images/uploads/exam-table-3d-render.png "adjustable exam table"){: .img-right}
 
-The Access Board issued a [Direct Final Rule](https://www.regulations.gov/docket/ATBCB-2022-0002) (DFR) extending the sunset provision regarding the specification for low transfer heights for three years. On May 12, 2022, the Access Board held a virtual public information meeting on accessible medical diagnostic equipment (MDE) and the adjustability of transfer surfaces for patients who use wheelchairs. Visit the Board's [news release](https://www.access-board.gov/news/2022/04/13/u-s-access-board-to-host-virtual-public-meeting-on-low-transfer-surface-height-for-medical-diagnostic-equipment/) for more information.
+The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/documents/2023/05/23/2023-10827/standards-for-accessible-medical-diagnostic-equipment) regarding the low transfer surface height for certain types of medical diagnostic equipment used by patients. Public comments for the NPRM are due by **July 24, 2023**. Visit the Board's [May 23, 2023 news release](https://www.access-board.gov/news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/) for more information.
 
 ### Self-service Transaction Machines
 

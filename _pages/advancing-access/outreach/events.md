@@ -10,13 +10,26 @@ right-sidenav: subscribe.html
 permalink: /events/
 ---
 
-## Public Events
+## Public Events   
 
-> **U.S. Access Board Town Hall Meeting** \
-> July 25, 2023, 1:30 – 3:30 p.m. (ET) \
-> National Headquarters of the National Federation of the Blind \
+**U.S. Access Board Town Hall Meeting**  \
+July 25, 2023 \
+1:30 – 3:30 p.m. (ET)
+>
+> ***In-Person Attendance Information*** \
+> National Federation of the Blind National Headquarters \
 > 200 East Wells Street \
-> Baltimore, MD 21230        
+> Baltimore, MD  21230 \
+> Registration: Email full name and organization to [events@access-board.gov](mailto:events@access-board.gov) 
+
+> ***Virtual Attendance Information (listen-only)*** \
+> Zoom Livestream Link:  [www.zoomgov.com/j/1616172171](https://www.zoomgov.com/j/1616172171?pwd=aVRmOExyRVhkRHUwUGxxS2pyNUdVUT09) \
+> Meeting ID:  161 617 2171 \
+> Passcode:  067497 \
+> Dial by your location: 
+> > +1 669 254 5252 US (San Jose) \
+> > +1 646 828 7666 US (New York) \
+> Meeting ID: 161 617 2171
 
 ### Public Events Archives
 
