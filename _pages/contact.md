@@ -1,6 +1,7 @@
 ---
 title: Contact Us
-layout: page
+layout: page-right-sidenav
+right-sidenav: sidenav-social.html
 datafile: contact
 sidenav: false
 permalink: /contact/
