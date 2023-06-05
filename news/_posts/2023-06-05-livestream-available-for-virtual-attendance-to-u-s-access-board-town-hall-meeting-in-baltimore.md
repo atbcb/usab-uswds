@@ -23,7 +23,7 @@ American Sign Language (ASL) interpreters and Communication Access Real-time Tra
 July 25, 2023  \
 1:30 – 3:30 p.m. (ET) 
 
-> *In-Person Attendance Information* \ 
+> *In-Person Attendance Information* \
 > National Federation of the Blind National Headquarters \
 > 200 East Wells Street  \
 > Baltimore, MD 21230 \
