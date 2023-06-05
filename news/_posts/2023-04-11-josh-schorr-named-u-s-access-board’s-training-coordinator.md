@@ -7,7 +7,7 @@ excerpt: Josh Schorr has been appointed Training Coordinator in the Office of
   Schorr will oversee the agency's training program by fielding . . .
 image: /images/uploads/josh-schorr-bordered.png
 image_alt_text: Portrait of Josh Schorr
-featured: false
+featured: true
 ---
 Josh Schorr has been appointed Training Coordinator in the Office of Technical and Information Services at the U.S. Access Board. In this role, Schorr will oversee the agency's [training program](https://www.access-board.gov/webinars/training.html) by fielding training requests, coordinating educational sessions and webinars, and assigning Board staff. The Board provides trainings on its accessibility guidelines and standards, including those for buildings and facilities, outdoor developed areas, transit systems, information and communication technology, and medical diagnostic equipment, at various events and conferences across the country. 
 
