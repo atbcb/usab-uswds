@@ -18,7 +18,7 @@ excerpt: As the summer vacation season is well underway, traveling and lodging
   webinar during the registration process or may ask questions during the live
   session.
 presenters:
-  - josh-schorr
+  - sarah-presley
   - scott-windley
 tags:
   - ADA
