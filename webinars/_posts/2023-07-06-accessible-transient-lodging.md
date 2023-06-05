@@ -51,7 +51,7 @@ Questions can be submitted in advance of the session or may be posed during the 
 | L﻿A CES                      | 1.5              |
 
 ### Speakers
-**[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805)**, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+**[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessible%20Signage)**, Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 **[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion)**, TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
