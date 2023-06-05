@@ -33,7 +33,7 @@ Nuevas directrices que el Consejo está desarrollando cubrirán acceso a las ser
 Las directrices del Consejo emitidas según la ADA se dirigen al acceso a los vehículos e instalaciones de transporte público. Se están desarrollando nuevas directrices para los barcos de pasajeros.
 
 - [Vehículos de Transporte]({{ site.baseurl }}/ada/vehicles/) (en inglés)
-- [Barcos de Pasajeros]({{ site.baseurl }}/pvaag/) (en inglés)
+- [Barcos de Pasajeros]({{ site.baseurl }}/pvag/) (en inglés)
 
 ### Cuidado de la Salud
 
