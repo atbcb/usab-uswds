@@ -5,10 +5,10 @@ title: ACL’s National Institute on Disability, Independent Living, and
 date: 2023-04-13
 excerpt: The Administration for Community Living’s National Institute on
   Disability, Independent Living, and Rehabilitation Research (NIDILRR) will
-  host a webinar on themes and priorities for its new 2024-2028 Long-Range
-  Plan on April 19, 2023 from 2:00 – 2:45 p.m. (ET). The webinar presentation is
+  host a webinar on themes and priorities for its new 2024-2028 Long-Range Plan
+  on April 19, 2023 from 2:00 – 2:45 p.m. (ET). The webinar presentation is
   based on comments and input from the disability community . . .
-image: /images/uploads/acl-logo.png
+image: https://acl.gov/sites/default/files/logo.png
 image_alt_text: ACL logo
 featured: false
 ---
