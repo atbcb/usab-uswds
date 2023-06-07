@@ -33,4 +33,4 @@ Public comments for the NPRM are due by **July 24, 2023**. Individuals may submi
 >> 1331 F Street NW, Suite 1000 \
 >> Washington, DC 20004-1111   
 
-For background and more information, access the docket via https://www.regulations.gov/docket/ATBCB-2023-0001.  For further information, contact Bobby Stinnette at 1-202-272-0021 or [stinnette@access-board.gov](mailto:stinnette@access-board.gov), or Wendy Marshall at 1-202-272-0043 or [marshall@access-board.gov](mailto:marshall@access-board.gov). 
+For background and more information, access the docket via [www.regulations.gov/docket/ATBCB-2023-0001](https://www.regulations.gov/docket/ATBCB-2023-0001).  For further information, contact Bobby Stinnette at 1-202-272-0021 or [stinnette@access-board.gov](mailto:stinnette@access-board.gov), or Wendy Marshall at 1-202-272-0043 or [marshall@access-board.gov](mailto:marshall@access-board.gov). 
