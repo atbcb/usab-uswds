@@ -38,14 +38,7 @@
   image: /images/uploads/people-around-desk.png
   description: Five people working together as they sit at table 
   linkto: /deia-recommendations/
-  linktext: Learn More
-     
-- title: Autonomous Vehicles
-  text: "Learn more about the Board's public forum on autonomous vehicles (March-April 2021)."
-  image: /images/stock/av-hero.jpg
-  description: Background CAD drawing of a vehicle
-  linkto: /av/
-  linktext: Learn More
+  linktext: Learn More     
 
 - title: Public Events
   text: "Learn more about upcoming events and access archived event recordings of the Board."

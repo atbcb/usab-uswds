@@ -12,7 +12,11 @@ layout: page
   {% if page.agency %}<em class="text-base text-bold">{{ page.agency }}</em><br>{% endif %}  
   {% if page.department %}<em class="text-base text-bold">{{ page.department }}</em>{% endif %}</h3>
   <div id="bio" class="margin-y-2 usa-prose">
-    {% if page.image %}<img class="float-right maxw-card-lg margin-left-2 margin-bottom-2 shadow radius-lg" src="{{ site.baseurl }}{{ page.image }}">{% endif %} 
+    {% if page.image %}
+        <img class="float-right maxw-card-lg margin-left-2 margin-bottom-2 shadow radius-lg"
+             src="{{ site.baseurl }}{{ page.image }}"
+             alt="{{ page.full_name }} portrait photograph" />
+    {% endif %} 
     {{ content }}
   </div>
 
