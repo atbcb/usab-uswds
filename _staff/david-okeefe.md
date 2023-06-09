@@ -3,6 +3,7 @@ name: david-okeefe
 first_name: David
 last_name: O'Keefe
 full_name: David O'Keefe
+image: /images/uploads/okeefe.jpg
 job-title: Events and Communication Specialist
 office: Office of Executive Director
 ---
