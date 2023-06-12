@@ -97,7 +97,7 @@ Clarifies with the individual whether a reasonable accommodation is being reques
 
 Participates in the interactive process; promptly provides any requested medical information about the disability, limitations, and need for accommodation to a supervisor or the Director of Administration. 
 
-## 6. Reqesting a Reasonable Accomodation
+## 6. Requesting a Reasonable Accommodation
 
 ### 6.1. Requests for Reasonable Accommodation.
 
@@ -105,7 +105,7 @@ An employee or applicant for employment may request a reasonable accommodation i
 
 #### 6.1.1. Timing of Requests.
 
-A request for reasonable accommodation may be made at any time. Additionally, an employee or applicant for employment whose disability-related needs change and/or whose job duties change may make subsequent requests for additional or different reasonable accommodations. A supervisor may not deny a reasonable accommodation request based on a belief that the accommodation should have been requested earlier. 
+A request for reasonable accommodation may be made at any time. Additionally, an employee or applicant for employment whose disability-related needs change and/or whose job duties change may make subsequent requests for additional or different reasonable accommodations.  A supervisor may not deny a reasonable accommodation request based on a belief that the accommodation should have been requested earlier. 
 
 #### 6.1.2. Submission of Request.
 
@@ -304,29 +304,29 @@ Employees and applicants may track the process of their request for reasonable a
 
 ## 12. Relation of Procedures to Statutory Claims
 
-These Procedures do not limit or supplant statutory protections for persons with disabilities and the remedies they provide forthe denial of requests for reasonable accommodation.  Requirements governing the initiationof statutory and collective bargaining claims remain unchanged, including the time frames forfiling such claims.
+These Procedures do not limit or supplant statutory protections for persons with disabilities and the remedies they provide for the denial of requests for reasonable accommodation.  Requirements governing the initiation of statutory and collective bargaining claims remain unchanged, including the time frames for filing such claims.
 
 ### 12.1 Informed of Rights.
 
-The “Resolution of Request” Form (Appendix B) provides information toindividuals denied accommodation, or denied the accommodation of their choice, about their rightto file an EEO complaint and their possible right to pursueMeritSystem Protection Board appeals.
+The “Resolution of Request” Form (Appendix B) provides information to individuals denied accommodation, or denied the accommodation of their choice, about their right to file an EEO complaint and their possible right to pursueMeritSystem Protection Board appeals.
 
 ### 12.2. Statutory Remedies.
 
-An individual who chooses to pursue statutory remedies for denial ofreasonable accommodation must:
+An individual who chooses to pursue statutory remedies for denial of reasonable accommodation must:
 
 EEO Complaint.
-: Contact the EEO Counselor, Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt ofthe written resolution notice which must be provided within three days of the supervisor notifying the employee of the denial.  An applicant or employee who claims that the Access Board has unreasonably delayed making a decision on a request for reasonable accommodation may contact an EEO counselor priorto receiving written or verbal notification of a decision.
+: Contact the EEO Counselor, Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt of the written resolution notice which must be provided within three days of the supervisor notifying the employee of the denial.  An applicant or employee who claims that the Access Board has unreasonably delayed making a decision on a request for reasonable accommodation may contact an EEO counselor prior to receiving written or verbal notification of a decision.
 
 MSPB Appeal.
 : For adverse actions over which the Merit Systems Protection Board has jurisdiction: initiate an appeal to the MSPB within 30 days of the appealable adverse action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/chapter-II/subchapter-A/part-1201/subpart-A/section-1201.3).
 
 ### 12.3. Section 501 of the Rehabilitation Act.
 
-These Procedures create no new enforceable rights undersection 501 of theRehabilitation Act or any other law.Executive Order 13164, which requires allFederal agencies to adoptreasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right orbenefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
+These Procedures create no new enforceable rights under section 501 of the Rehabilitation Act or any other law.  Executive Order 13164, which requires allFederal agencies to adopt reasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
 
 ## 13. Approvals
 
-These Reasonable Accommodation Procedures removes and replaces the previous procedures and is effective upon signature by the Executive Directorand Director of Administration, and remains in effect until rescinded, superseded, or reissued. 
+These Reasonable Accommodation Procedures removes and replaces the previous procedures and is effective upon signature by the Executive Director and Director of Administration, and remains in effect until rescinded, superseded, or reissued. 
 
 ---
 
