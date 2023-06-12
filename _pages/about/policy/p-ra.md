@@ -2,7 +2,7 @@
 title: Reasonable Accommodation Procedures
 layout: page
 toc: sidenav.html
-banner-title: About the U.S. Access Board
+banner-title: "About the U.S. Access Board: Human Resources"
 permalink: /about/policy/ra.html
 ---
 
@@ -27,12 +27,12 @@ These Procedures apply to all Access Board employees and applicants for employme
 
 ## 3. Authorities 
 
-- Section 501 of the Rehabilitation Act of 1973, 29 U.S.C. §791.
-- Executive Order 13164, Requiring Federal Agencies to Establish Procedures to Facilitate the Provision of Reasonable Accommodation, 46 FR 46565 (July 28, 2000). 
-- 29 C.F.R. Part 1630, Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act 
-- 29 C.F.R. Part 1614.203, Regulations Under Section 501 of the Rehabilitation Act 
-- EEOC Policy Guidance on Executive Order 13164 Establishing Procedures to Facilitate the Provision of Reasonable Accommodation. 
-- EEOC Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA. 
+- Section 501 of the Rehabilitation Act of 1973, [29 U.S.C. §791](https://www.govinfo.gov/app/details/USCODE-2021-title29/USCODE-2021-title29-chap16-subchapV-sec791).
+- Executive Order 13164, _Requiring Federal Agencies to Establish Procedures to Facilitate the Provision of Reasonable Accommodation_, [46 FR 46565](https://www.federalregister.gov/d/00-19323) (July 28, 2000).
+- [29 C.F.R. Part 1630](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630), _Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act_.
+- [29 C.F.R. Part 1614.203](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614/subpart-B/section-1614.203), Regulations Under Section 501 of the _Rehabilitation Act_.
+- EEOC [Policy Guidance on Executive Order 13164 Establishing Procedures to Facilitate the Provision of Reasonable Accommodation](https://www.eeoc.gov/laws/guidance/policy-guidance-executive-order-13164-establishing-procedures-facilitate-provision).
+- EEOC [Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada). 
 
 ## 4. Definitions
 
