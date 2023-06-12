@@ -326,14 +326,8 @@ These Procedures create no new enforceable rights undersection 501 of theRehabil
 
 ## 13. Approvals
 
-TheseReasonable Accommodation Procedures removes and replaces the previous procedures and is effective upon signature by the Executive Directorand Director of Administration, and remains in effect until rescinded, superseded, or reissued. 
+These Reasonable Accommodation Procedures removes and replaces the previous procedures and is effective upon signature by the Executive Directorand Director of Administration, and remains in effect until rescinded, superseded, or reissued. 
 
-## 14. Revision History
+---
 
-The “Revision History” table below should be used to capture revisions or updates to this policy.  All columns are mandatory.
-
-| Date      | Revision Summary     | Version<br /> Number| Author/Owner Name
-| :---:     | :---                 | :---:               | :--- |
-| 4/11/2023 | Approval Date        | 2.0                 | Sachin Pavithran, Executive Director |
-| 6/8/2023  | Formated for website | 2.0                 | Alison Levy, EEO Director |
-{: .usa-table}
+Revised June 8, 2023.
