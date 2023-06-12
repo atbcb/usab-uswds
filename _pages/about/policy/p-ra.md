@@ -284,7 +284,7 @@ A supervisor must communicate a decision to deny a request for accommodation imm
 
 ## 9. Reconsidertaion Request
 
-An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request.  An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration.  A request for reconsideration will not extend the time limits for initiating administrative or statutory claims (See [Section 12](#12relation-of-procedures-to-statutory-claims)).
+An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request.  An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration.  A request for reconsideration will not extend the time limits for initiating administrative or statutory claims (See [Section 12](#12-relation-of-procedures-to-statutory-claims)).
 
 ## 10. Costs and Resources
 
@@ -322,7 +322,7 @@ MSPB Appeal.
 
 ### 12.3. Section 501 of the Rehabilitation Act.
 
-These Procedures create no new enforceable rights under section 501 of the Rehabilitation Act or any other law.  Executive Order 13164, which requires allFederal agencies to adopt reasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
+These Procedures create no new enforceable rights under section 501 of the Rehabilitation Act or any other law.  Executive Order 13164, which requires all Federal agencies to adopt reasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
 
 ## 13. Approvals
 
@@ -330,4 +330,4 @@ These Reasonable Accommodation Procedures removes and replaces the previous proc
 
 ---
 
-Revised June 8, 2023.
+Procedures approved April 11, 2023.  Last revised June 8, 2023.
