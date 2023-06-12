@@ -300,7 +300,7 @@ Multiple resources are available on the EEOC’s public website to assist superv
 
 In order for the Access Board to ensure compliance with these Procedures and the Rehabilitation Act, the supervisor will complete the “Reasonable Accommodation Information Reporting” Form (Appendix C) within 5 business days of issuing the decision.  Once completed, all documentation will be transferred to the Director of Administrationto be maintainedin a secure file of reasonable accommodation records, separate from employee personnel files and in compliance with [System of Records Notice USAB.001](https://www.federalregister.gov/d/2021-24907).
 
-Employees and applicants may track the process of their request for reasonable accommodation bycontacting their supervisor or the Director of Administration (for applicants) and requesting astatus update.
+Employees and applicants may track the process of their request for reasonable accommodation by contacting their supervisor or the Director of Administration (for applicants) and requesting astatus update.
 
 ## 12. Relation of Procedures to Statutory Claims
 
