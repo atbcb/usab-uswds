@@ -330,9 +330,10 @@ TheseReasonable Accommodation Procedures removes and replaces the previous proce
 
 ## 14. Revision History
 
-The “Revision History” table below should be used to capture revisions orupdates to this policy.  All columns are mandatory.
+The “Revision History” table below should be used to capture revisions or updates to this policy.  All columns are mandatory.
 
-| Date      | Revision Summary | Version<br /> Number| Author/Owner Name
-| :---:     | :--*             | :---:               | :--* |
-| 4/11/1023 | Approval Date    | 2.0                 | Sachin Pavithran, Executive Director<br /> Alison Levy, EEO Director |
+| Date      | Revision Summary     | Version<br /> Number| Author/Owner Name
+| :---:     | :---                 | :---:               | :--- |
+| 4/11/2023 | Approval Date        | 2.0                 | Sachin Pavithran, Executive Director |
+| 6/8/2023  | Formated for website | 2.0                 | Alison Levy, EEO Director |
 {: .usa-table}
