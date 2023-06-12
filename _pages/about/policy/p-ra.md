@@ -130,11 +130,11 @@ Reasonable accommodations can enable an individual to apply for a job, perform a
 * altering how or when job duties are performed.
 * providing telework beyond the maximum amount allowed to all Access Board employees.
 * making changes in workplace policies (e.g., granting breaks or providing leave in addition to any accrued paid leave an employee already has).
-* providing assistive technology, including information technology and communications equipment or specifically designed furniture.
+* providing assistive technology, including information technology, communications equipment, or specifically designed furniture.
 * providing a reader or hiring a staff assistant to enable employees to perform their job functions, where accommodation cannot be provided by current staff.
 * removing and/or substituting a marginal function that an employee cannot perform because of a disability.
 * moving an employee to a different office space (e.g., to space that is quieter for someone whose disability affects concentration).
-* removing an architectural barrier1, including reconfiguring work spaces. [^1]
+* removing an architectural barrier[^1], including reconfiguring work spaces.
 * providing materials in alternative formats (e.g. Braille, large print, or in electronic format).
 
 [^1]: As a federal agency, the Access Board complies with the Architectural Barriers Act and the implementing ABA Guidelines (36 C.F.R. §1191, App. C & D).  However, a reasonable accommodation may include removing a barrier that may exist for a specific employee despite full compliance with the ABA. (e.g. automatic door openers). 
