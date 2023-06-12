@@ -34,7 +34,7 @@ These Procedures apply to all Access Board employees and applicants for employme
 - EEOC Policy Guidance on Executive Order 13164 Establishing Procedures to Facilitate the Provision of Reasonable Accommodation. 
 - EEOC Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA. 
 
-## 4. Deifinitions
+## 4. Definitions
 
 Disability
 : A physical or mental impairment that substantially limits one or more major life 
