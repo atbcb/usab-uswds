@@ -276,7 +276,7 @@ A decision to provide an accommodation other than the one specifically requested
 
 #### 8.1.2. Request Approved but Delay with Accommodation.
 
-If the request is approved but the  accommodation cannot be provided immediately, the supervisor will specify on the Form why there is a delay, including any extenuating circumstances that justify the delay, and when the Access Board expects to provide the accommodation(s) granted. If an accommodation cannot be provided immediately, the supervisor will also discuss with the employee whether an interim accommodation can be provided in accordance with [Section 7.5](#75-time-frames). 
+If the request is approved but the  accommodation cannot be provided immediately, the supervisor will specify on the Form why there is a delay, including any extenuating circumstances that justify the delay, and when the Access Board expects to provide the accommodation(s) granted. If an accommodation cannot be provided immediately, the supervisor will also discuss with the employee whether an interim accommodation can be provided in accordance with [Section 7.6](#76-interim-accommodation). 
 
 ### 8.2. Denial of Request for Reasonable Accommodation.
 
