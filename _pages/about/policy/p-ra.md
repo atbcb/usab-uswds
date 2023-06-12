@@ -282,7 +282,7 @@ If the request is approved but the  accommodation cannot be provided immediately
 
 A supervisor must communicate a decision to deny a request for accommodation immediately after the decision has been made, preferably by using the “Resolution of Request” Form. If the initial communication of the denial is oral only, the form must be provided no later than three business days after this notification. The form must clearly explain the specific reasons for the denial. The supervisor cannot simply state that a requested accommodation is denied because of “undue hardship” or because it would be “ineffective”.  Supervisors must consider all resources available to the agency as a whole, in accordance with 29 C.F.R.§1614.203(d)(3)(ii)(A), when assessing whether an accommodation would be an undue hardship based on cost. 
 
-## 9. Reconsidertaion Request
+## 9. Reconsideration Request
 
 An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request.  An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration.  A request for reconsideration will not extend the time limits for initiating administrative or statutory claims (See [Section 12](#12-relation-of-procedures-to-statutory-claims)).
 
