@@ -284,29 +284,27 @@ A supervisor must communicate a decision to deny a request for accommodation imm
 
 ## 9. Reconsidertaion Request
 
-An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request.  An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration. A request for reconsideration will not extend thetime limits forinitiating administrative or statutory claims (See [Section 12](#12relation-of-procedures-to-statutory-claims)).
+An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request.  An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration.  A request for reconsideration will not extend the time limits for initiating administrative or statutory claims (See [Section 12](#12relation-of-procedures-to-statutory-claims)).
 
 ## 10. Costs and Resources
 
 ### 10.1. Costs.
 
-Supervisors who are making determinations on reasonable accommodation request mustcontact the Chief Financial Officer or the Director of Administration for assistance on arranging for the use of agency resources to provide accommodations.
+Supervisors who are making determinations on reasonable accommodation request must contact the Chief Financial Officer or the Director of Administration for assistance on arranging for the use of agency resources to provide accommodations.
 
 ### 10.2. Resources.
 
-Multiple resources are available on the EEOC’s public website to assist supervisors in making determinations on reasonable accommodation requests.  Specifically, EEOC[Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of EmployeesUnder the Americans with Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees) (July 27, 2000) and [EEOC Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americanswith Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada) (revised October 17, 2002).
+Multiple resources are available on the EEOC’s public website to assist supervisors in making determinations on reasonable accommodation requests.  Specifically, EEOC [Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of Employees Under the Americans with Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees) (July 27, 2000) and EEOC [Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americans with Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada) (revised October 17, 2002).
 
 ## 11. Informal Tracking and Record Keeping
 
-In order for the Access Board to ensure compliance with these Procedures and the Rehabilitation Act, the 
-supervisor will completethe “Reasonable Accommodation Information Reporting” Form (Appendix C)
-within 5 business days of issuing thedecision.Once completed, all documentation will be transferred to theDirector of Administrationto be maintainedin a secure file of reasonable accommodation records, separate from employee personnel files andin compliance with [System of Records Notice USAB.001](https://www.federalregister.gov/d/2021-24907).
+In order for the Access Board to ensure compliance with these Procedures and the Rehabilitation Act, the supervisor will complete the “Reasonable Accommodation Information Reporting” Form (Appendix C) within 5 business days of issuing the decision.  Once completed, all documentation will be transferred to the Director of Administrationto be maintainedin a secure file of reasonable accommodation records, separate from employee personnel files and in compliance with [System of Records Notice USAB.001](https://www.federalregister.gov/d/2021-24907).
 
-Employees and applicants may track the process of their request for reasonable accommodation bycontacting their supervisor orthe Director of Administration (for applicants) and requesting astatus update.
+Employees and applicants may track the process of their request for reasonable accommodation bycontacting their supervisor or the Director of Administration (for applicants) and requesting astatus update.
 
 ## 12. Relation of Procedures to Statutory Claims
 
-These Procedures do not limit or supplantstatutory protections for persons with disabilities and theremedies they provide forthe denial of requests for reasonable accommodation. Requirements governingthe initiationof statutory and collective bargaining claims remain unchanged, including the time frames forfiling such claims.
+These Procedures do not limit or supplant statutory protections for persons with disabilities and the remedies they provide forthe denial of requests for reasonable accommodation.  Requirements governing the initiationof statutory and collective bargaining claims remain unchanged, including the time frames forfiling such claims.
 
 ### 12.1 Informed of Rights.
 
@@ -317,10 +315,10 @@ The “Resolution of Request” Form (Appendix B) provides information toindivid
 An individual who chooses to pursue statutory remedies for denial ofreasonable accommodation must:
 
 EEO Complaint.
-:ContacttheEEO Counselor, Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt ofthe written resolution notice which must be provided within three days ofthesupervisornotifying the employee ofthe denial.  Anapplicant or employee who claims that the Access Board has unreasonably delayed making a decision ona request for reasonable accommodation may contact an EEO counselor priorto receiving written or verbalnotification of a decision.
+: Contact the EEO Counselor, Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt ofthe written resolution notice which must be provided within three days of the supervisor notifying the employee of the denial.  An applicant or employee who claims that the Access Board has unreasonably delayed making a decision on a request for reasonable accommodation may contact an EEO counselor priorto receiving written or verbal notification of a decision.
 
 MSPB Appeal.
-:For adverse actions over which the MeritSystemsProtection Board hasjurisdiction: initiate an appeal to the MSPB within 30 days of the appealable adverse action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/chapter-II/subchapter-A/part-1201/subpart-A/section-1201.3).
+: For adverse actions over which the Merit Systems Protection Board has jurisdiction: initiate an appeal to the MSPB within 30 days of the appealable adverse action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/chapter-II/subchapter-A/part-1201/subpart-A/section-1201.3).
 
 ### 12.3. Section 501 of the Rehabilitation Act.
 
