@@ -34,10 +34,10 @@ These Procedures apply to all Access Board employees and applicants for employme
 - EEOC Policy Guidance on Executive Order 13164 Establishing Procedures to Facilitate the Provision of Reasonable Accommodation. 
 - EEOC Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA. 
 
-## 4. DEFINITIONS 
+## 4. Deifinitions
 
-: Disability
-A physical or mental impairment that substantially limits one or more major life 
+Disability
+: A physical or mental impairment that substantially limits one or more major life 
 activities, a record (a history) of such an impairment, or being regarded as having a disability. An 
 individual covered solely under the “regarded as” definition of disability is not entitled to 
 reasonable accommodation. Whether an individual has a disability is determined by reference to the 
@@ -192,7 +192,7 @@ Participates in the interactive process; promptly provides
 any requested medical information about the disability, limitations, and need for accommodation 
 to a supervisor or the Director of Administration. 
 
-## 6. REQUESTING A REASONABLE ACCOMMODATION 
+## 6. Reqesting a Reasonable Accomodation
 
 ### 6.1. Requests for Reasonable Accommodation.
 
@@ -596,14 +596,14 @@ requested accommodation is denied because of “undue hardship” or because it 
 accordance with 29 C.F.R.§1614.203(d)(3)(ii)(A), when assessing whether an accommodation 
 would be an undue hardship based on cost. 
 
-## 9. RECONSIDERATION REQUEST
+## 9. Reconsidertaion Request
 
 An individual dissatisfied with the resolution of a reasonable accommodation request may request the 
 Executive Director to review and reconsider the initial decision regarding the reasonable accommodation 
 request. An individual must request reconsideration in writing within 10 business days of receiving the 
 “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration. A request for reconsideration will not extend thetime limits forinitiating administrative or statutory claims (SeeSection11).
 
-## 10. COSTS AND RESOURCES
+## 10. Costs and Resources
 
 ### 10.1.Costs.
 
@@ -615,7 +615,7 @@ for the use of agency resources to provide accommodations.
 Multiple resources are available on the EEOC’s public website to assist supervisors in making determinations on reasonable accommodation requests. Specifically, EEOC
 [Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of EmployeesUnder the Americans with Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees) (July 27, 2000) and [EEOC Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americanswith Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada) (revised October 17, 2002).
 
-## 11. INFORMAL TRACKING AND RECORD KEEPING
+## 11. Informal Tracking and Record Keeping
 
 In order for the Access Board to ensure compliance with these Procedures and the Rehabilitation Act, the 
 supervisor will completethe “Reasonable Accommodation Information Reporting” Form (Appendix C)
@@ -623,7 +623,7 @@ within 5 business days of issuing thedecision.Once completed, all documentation 
 
 Employees and applicants may track the process of their request for reasonable accommodation bycontacting their supervisor orthe Director of Administration (for applicants) and requesting astatus update.
 
-## 12. RELATION OF PROCEDURES TOSTATUTORY CLAIMS
+## 12. Relation of Procedures to Statutory Claims
 
 These Procedures do not limit or supplantstatutory protections for persons with disabilities and theremedies they provide forthe denial of requests for reasonable accommodation. Requirements governingthe initiationof statutory and collective bargaining claims remain unchanged, including the time frames forfiling such claims.
 
@@ -644,11 +644,11 @@ action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/ch
 
 These Procedures create no new enforceable rights undersection 501 of theRehabilitation Act or any other law.Executive Order 13164, which requires allFederal agencies to adoptreasonable accommodation procedures, explains in section 5(b) thattheprocedures are “intended only to improvethe internal management of the executive branch anddoes not create any right orbenefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
 
-## 13. APPROVALS
+## 13. Approvals
 
 TheseReasonable Accommodation Procedures removes and replaces the previous procedures and is effective upon signature by the Executive Directorand Director of Administration, and remains in effect until rescinded, superseded, or reissued. 
 
-## 14. REVISION HISTORY
+## 14. Revision History
 
 The “Revision History”table below should be used to capture revisions orupdates to this [Policy Title].
 All columns are mandatory.
