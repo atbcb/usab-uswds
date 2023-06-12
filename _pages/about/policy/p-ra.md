@@ -276,23 +276,23 @@ A decision to provide an accommodation other than the one specifically requested
 
 #### 8.1.2. Request Approved but Delay with Accommodation.
 
-If the request is approved but the  accommodation cannot be provided immediately, the supervisor will specify on the Form why there is a delay, including any extenuating circumstances that justify the delay, and when the Access Board expects to provide the accommodation(s) granted. If an accommodation cannot be provided immediately, the supervisor will also discuss with the employee whether an interim accommodation can be provided in accordance with Section 7.5. 
+If the request is approved but the  accommodation cannot be provided immediately, the supervisor will specify on the Form why there is a delay, including any extenuating circumstances that justify the delay, and when the Access Board expects to provide the accommodation(s) granted. If an accommodation cannot be provided immediately, the supervisor will also discuss with the employee whether an interim accommodation can be provided in accordance with [Section 7.5](#75-time-frames). 
 
 ### 8.2. Denial of Request for Reasonable Accommodation.
 
-A supervisor must communicate a decision to deny a request for accommodation immediately after the decision has been made, preferably by using the “Resolution of Request” Form. If the initial communication of the denial is oral only, the form must be provided no later than three business days after this notification. The form must clearly explain the specific reasons for the denial. The supervisor cannot simply state that a requested accommodation is denied because of “undue hardship” or because it would be “ineffective”. Supervisors must consider all resources available to the agency as a whole, in accordance with 29 C.F.R.§1614.203(d)(3)(ii)(A), when assessing whether an accommodation would be an undue hardship based on cost. 
+A supervisor must communicate a decision to deny a request for accommodation immediately after the decision has been made, preferably by using the “Resolution of Request” Form. If the initial communication of the denial is oral only, the form must be provided no later than three business days after this notification. The form must clearly explain the specific reasons for the denial. The supervisor cannot simply state that a requested accommodation is denied because of “undue hardship” or because it would be “ineffective”.  Supervisors must consider all resources available to the agency as a whole, in accordance with 29 C.F.R.§1614.203(d)(3)(ii)(A), when assessing whether an accommodation would be an undue hardship based on cost. 
 
 ## 9. Reconsidertaion Request
 
-An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request. An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration. A request for reconsideration will not extend thetime limits forinitiating administrative or statutory claims (SeeSection11).
+An individual dissatisfied with the resolution of a reasonable accommodation request may request the Executive Director to review and reconsider the initial decision regarding the reasonable accommodation request.  An individual must request reconsideration in writing within 10 business days of receiving the “Resolution” Form. The requestor may provide an explanation or additional information to the Executive Director, for inclusion with the request for reconsideration. A request for reconsideration will not extend thetime limits forinitiating administrative or statutory claims (See [Section 12](#12relation-of-procedures-to-statutory-claims)).
 
 ## 10. Costs and Resources
 
-### 10.1.Costs.
+### 10.1. Costs.
 
 Supervisors who are making determinations on reasonable accommodation request mustcontact the Chief Financial Officer or the Director of Administration for assistance on arranging for the use of agency resources to provide accommodations.
 
-### 10.2.Resources.
+### 10.2. Resources.
 
 Multiple resources are available on the EEOC’s public website to assist supervisors in making determinations on reasonable accommodation requests.  Specifically, EEOC[Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of EmployeesUnder the Americans with Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees) (July 27, 2000) and [EEOC Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americanswith Disabilities Act](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada) (revised October 17, 2002).
 
@@ -315,15 +315,16 @@ The “Resolution of Request” Form (Appendix B) provides information toindivid
 ### 12.2. Statutory Remedies.
 
 An individual who chooses to pursue statutory remedies for denial ofreasonable accommodation must:
-* EEO Complaint.ContacttheEEO Counselor, Janine Lewis, EEO Services Analyst,<janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt ofthe written resolution notice which must be provided within three days ofthesupervisornotifying the employee ofthe denial.  Anapplicant or employee who claims that the Access Board has unreasonably delayed making a decision ona request for reasonable accommodation may contact an EEO counselor priorto receiving written or verbalnotification of a decision.
 
-* MSPB Appeal.
+EEO Complaint.
+:ContacttheEEO Counselor, Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt ofthe written resolution notice which must be provided within three days ofthesupervisornotifying the employee ofthe denial.  Anapplicant or employee who claims that the Access Board has unreasonably delayed making a decision ona request for reasonable accommodation may contact an EEO counselor priorto receiving written or verbalnotification of a decision.
 
-For adverse actions over which the MeritSystemsProtection Board hasjurisdiction: initiate an appeal to the MSPB within 30 days of the appealable adverse action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/chapter-II/subchapter-A/part-1201/subpart-A/section-1201.3).
+MSPB Appeal.
+:For adverse actions over which the MeritSystemsProtection Board hasjurisdiction: initiate an appeal to the MSPB within 30 days of the appealable adverse action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/chapter-II/subchapter-A/part-1201/subpart-A/section-1201.3).
 
 ### 12.3. Section 501 of the Rehabilitation Act.
 
-These Procedures create no new enforceable rights undersection 501 of theRehabilitation Act or any other law.Executive Order 13164, which requires allFederal agencies to adoptreasonable accommodation procedures, explains in section 5(b) thattheprocedures are “intended only to improvethe internal management of the executive branch anddoes not create any right orbenefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
+These Procedures create no new enforceable rights undersection 501 of theRehabilitation Act or any other law.Executive Order 13164, which requires allFederal agencies to adoptreasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right orbenefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
 
 ## 13. Approvals
 
@@ -331,7 +332,7 @@ TheseReasonable Accommodation Procedures removes and replaces the previous proce
 
 ## 14. Revision History
 
-The “Revision History”table below should be used to capture revisions orupdates to this policy.  All columns are mandatory.
+The “Revision History” table below should be used to capture revisions orupdates to this policy.  All columns are mandatory.
 
 | Date      | Revision Summary | Version<br /> Number| Author/Owner Name
 | :---:     | :--*             | :---:               | :--* |
