@@ -46,11 +46,11 @@ Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
 
 ### Speakers
+[Brooke Aiken](https://www.accessibilityonline.org/cioc-508/speakers/10711/?ret=speakers), Section 508 Program Manager, Policy Audit Compliance & Risk Section (PACRS), Chief Information Officer Organization, **Federal Deposit Insurance Corporation**
+
 [Pierce Crowell (Invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10997&ret=A%20Tale%20of%20Two%20Agencies:%20The%20Section%20508%20Playbook), Section 508 Program Manager, Office of Systems, **Social Security Administration (SSA)**
 
-Chet J. Frith, Senior Advisor, Section 508 Program, Compliance, Risk and Remediation (CRR), Office of Information and Technology (OIT), **Department of Veterans Affairs**
-
-[Brooke Aiken](https://www.accessibilityonline.org/cioc-508/speakers/10711/?ret=speakers), Section 508 Program Manager, Policy Audit Compliance & Risk Section (PACRS), Chief Information Officer Organization, **Federal Deposit Insurance Corporation**
+[Chet J. Frith](https://www.accessibilityonline.org/cioc-508/speakers/11004/?ret=speakers), Senior Advisor, Section 508 Program, Compliance, Risk and Remediation (CRR), Office of Information and Technology (OIT), **Department of Veterans Affairs**
 
 ### Session Questions
 This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/18899/session/110879#questions)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
