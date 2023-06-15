@@ -15,7 +15,7 @@ The U.S. Access Board will hold a public town hall meeting on **Tuesday, July 25
 
 The town hall meeting and reception are open to all members of the public. Please register for in-person attendance by **July 1, 2023**. To register, send an email to [events@access-board.gov](mailto:events@access-board.gov) with your name and organization. The Access Board invites in-person oral comments on accessibility. Registrants who wish to make in-person oral comments must indicate their request to speak when emailing [events@access-board.gov](mailto:events@access-board.gov). Public commenters will be allotted two minutes to make their comments.  
 
-The town hall meeting will be available via online streaming; however, individuals attending virtually will not be able to make comments. Information for listen-in only virtual attendance will be available soon. 
+*Update:* To ensure all can participate, the town hall meeting will be [broadcast live via Zoom](https://www.zoomgov.com/j/1616172171?pwd=aVRmOExyRVhkRHUwUGxxS2pyNUdVUT09) for virtual attendees. Virtual attendees will only be able to listen to the meeting and not make public comments.  
 
 American Sign Language (ASL) interpreters and Communication Access Real-time Transcription (CART) services will be provided. The Access Board has a fragrance-free environment policy and requests that all attendees refrain from wearing perfume, cologne, and other fragrances and use unscented personal care products. Requests for other reasonable accommodations must be submitted by **July 1, 2023** to Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
 
@@ -26,3 +26,13 @@ American Sign Language (ASL) interpreters and Communication Access Real-time Tra
 > 200 East Wells Street \
 > Baltimore, MD 21230 \
 > Registration: Provide full name and organization (if any) to [events@access-board.gov](mailto:events@access-board.gov)
+
+> *Virtual Attendance Information (listen-only)* \
+> Zoom Livestream Link: [www.zoomgov.com/j/1616172171](https://www.zoomgov.com/j/1616172171?pwd=aVRmOExyRVhkRHUwUGxxS2pyNUdVUT09) \
+> Meeting ID: 161 617 2171 \
+> Passcode: 067497 \
+> Dial by your location: 
+
+>> +1 669 254 5252 US (San Jose) \
+>> +1 646 828 7666 US (New York) \
+>> Meeting ID: 161 617 2171 
