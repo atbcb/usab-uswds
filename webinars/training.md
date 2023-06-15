@@ -9,7 +9,7 @@ redirect_from:
 
 {% asset stock/training.jpeg class="img-right shadow radius-lg" alt="Audience watching presentation" %}
 
-The Access Board provides both virtual and in-person training on its accessibility guidelines and standards to many different organizations, groups, and government agencies across the country and internationally. Training sessions focus on:
+The Access Board provides both virtual and in-person training on its accessibility guidelines and standards to many different organizations, groups, and government agencies across the country and internationally. Training sessions focus on: 
 
 - **[Built Environment](https://www.access-board.gov/buildings.html)**. Standards in new construction and alterations for buildings and facilities covered by the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) Accessibility Standards.
 - **[Public Rights-of-Way](https://www.access-board.gov/prowag/)**. Proposed guidelines for access to sidewalks, pedestrian street crossings, pedestrian signals, shared use paths, and other components of public rights-of-way.
