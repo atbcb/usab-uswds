@@ -15,13 +15,6 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 ---
 ## {{ page.title }}
 
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>RADx</title>
-</head>
-<body>
 <p><b>We would like to acknowledge the efforts of all of those involved in the development of these best practices:</b></p>
 <p><b>Rapid Acceleration of Diagnostics (RADx®) Tech Program:</b></p>
 <p>John Blackwood, Cathy Cambria, Mia Cirrincione, Jim Densmore, Sam Dolphin, Maren Downing, Emily B. Kennedy, Kevin Leite, Shaun Moshasha, Kim Noble, Clair O’Donovan, D’lynne Plummer, Adam Samuta, Mack Schermer, Sal Strods, Erika Tyburski, Brian Walsh. </p>
@@ -751,5 +744,3 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   </div>
 </div>
 <hr />
-</body>
-</html>
