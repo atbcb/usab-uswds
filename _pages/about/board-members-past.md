@@ -129,18 +129,18 @@ permalink: /about/members-past.html
 
 ### Appointed by President Barack Obama
 
-* Karen L. Braitmayer FAIA (2010-present)
+* Karen L. Braitmayer FAIA (2010-2023)
 * Howard A. Rosenblum (2010-2022)
 * Mathew McCollough (2011-2022)
-* Deborah Ryan (2011-present)
+* Deborah Ryan (2011-2023)
 * Christopher Stephen Hart (2011-2022)
 * Regina Blye (2011-2018)
 * Marc D. Guthrie (2012-2022)
 * Sachin Dev Pavithran (2012-2020)
 * Michael Graves (2013-2015)
 * Patrick D. Cannon (2014-2022)
-* Dr. Victor Santiago Pineda (2015-present)
-* Karen Tamley (2015-present)
+* Dr. Victor Santiago Pineda (2015-2023)
+* Karen Tamley (2015-2023)
 * Shelley Siegel, FASID (2016-2022)
 * Gregory S. Fehribach (2016-present)
 
