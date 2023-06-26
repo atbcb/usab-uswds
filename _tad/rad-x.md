@@ -1848,4 +1848,9 @@ status, consider using multiple LED lights with spatial differentiation rather t
 	<li>Greiner, TM. US Army Natick Research Development and Engineering Center, MA., Anthropology Branch, Behavioral Sciences Division, Soldier Science Directorate. (1991). Hand Anthropometry of U.S. Army Personnel. https://apps.dtic.mil/sti/pdfs/ADA244533.pdf</li>
 	<li>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.</li>
 </ol>
-<hr />
+
+---
+
+### RADx Tech Accessibility Program Webinar
+
+On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices." This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 "Best Practices for the Design of Accessible COVID-19 Home Tests" publication. The materials are available as a [webinar recording on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY) and as [presentation slides in PDF]({{ site.baseurl }}/files/mde/radx-webinar.pdf) (1.5 MB).
