@@ -1853,5 +1853,5 @@ status, consider using multiple LED lights with spatial differentiation rather t
 
 ### RADx Tech Accessibility Program Webinar
 
-On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled “COVID-19 Accessible Testing – Best Practices.” This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 “Best Practices for the Design of Accessible COVID-19 Home Tests” publication. The recording is available as a [webinar on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY), and [presentation slides are available in PDF (1.5 MB)](https://usa-accessboard.box.com/s/fo2lgv9xdi3fj67zwdt9c7b2q65c48bb).
+On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled “COVID-19 Accessible Testing – Best Practices.” This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 “Best Practices for the Design of Accessible COVID-19 Home Tests” publication. The recording is available as a [webinar on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY), and [presentation slides are available in PDF (1.5 MB)](https://www.access-board.gov/files/mde/radx-webinar.pdf).
 <hr />
