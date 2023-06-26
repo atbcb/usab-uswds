@@ -19,4 +19,4 @@ This advisory non-mandatory guidance was developed by a stakeholder working grou
 
 ### [COVID-19 Home Tests]({{ site.baseurl }}/tad/radx/)
 
-This best practices document captures and publicizes learnings from the NIH RADx® Tech accessibility program to assist manufacturers in the design of COVID-19 and other in vitro diagnostic (IVD) home tests that ensure greater accessibility for users who have no vision or low vision, a reduced range of dexterity or motor skills, and are aging. 
+This best practices document captures and publicizes learnings from the NIH RADx® Tech accessibility program to assist manufacturers in the design of COVID-19 and other in vitro diagnostic (IVD) home tests that ensure greater accessibility for users that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. 
