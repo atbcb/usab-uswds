@@ -6,8 +6,6 @@ banner-title: About the U.S. Access Board
 permalink: /about/board-chairs-and-vice-chairs.html
 ---
 
-# {{ page.title }}
-
 ## Governing Access Board Chairs and Vice-Chairs (1985 -- Present)
 
 {% include section-title.html %}
@@ -23,14 +21,13 @@ permalink: /about/board-chairs-and-vice-chairs.html
       </p>
       <p style="max-width: none;">
         Members of the public who wish to seek appointment to the U.S. Access Board (officially named the Architectural and Transportation Barriers Compliance Board) should
-        visit <a href="https://www.whitehouse.gov/get-involved/join-us/">the White House website</a> for further information or contact the White House Office of Presidential Personnel. For a list of past governing Board members, visit the <a href="{{ site.baseurl }}/about/members-past.html">Former Public Board Members page</a>,
+        visit <a href="https://www.whitehouse.gov/get-involved/join-us/">the White House website</a> for further information or contact the White House Office of Presidential Personnel. For a list of past governing Board members, visit the <a href="{{ site.baseurl }}/about/members-past.html">Former Public Board Members page</a>.
       </p>
     </div>
   </div>
 
 | Year | Chair | Vice-Chair |
 | :---   | :---:        | :---:        | 
-| 
 1985-1986 | Charles R. Hauser | Madeline Will (ED) |
 1986-1987 | Charles R. Hauser | Madeline Will (ED) |
 1987-1988 | Thomas E. Harvey (VA) | William Tangye |
