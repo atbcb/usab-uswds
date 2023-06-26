@@ -8,7 +8,6 @@ permalink: /about/board-chairs-and-vice-chairs.html
 
 ## Governing Access Board Chairs and Vice-Chairs (1985 -- Present)
 
-{% include section-title.html %}
 <div id="content" class="grid-container padding-top-3 maxw-desktop">
   <div class="grid-row">
     <div class="width-desktop usa-prose">
