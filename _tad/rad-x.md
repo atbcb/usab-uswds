@@ -744,3 +744,1108 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   </div>
 </div>
 <hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h3 id="Embodiment">8.6 Digital Embodiment</h3>
+      <ul>
+        <li>Operating System Compatibility</li>
+        <li>Assistive Technology Compatibility</li>
+        <li>User Interface and Experience Features </li>
+        <li>Standalone Audio Instructions</li>
+	    <li>Interactive Voice Response (IVR) System</li>
+        <li>Video Tutorial</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Operating System Compatibility</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Device operating systems</span>
+		 <p>The ability for content to be recognized and understood by computer, smartphone, and tablet device operating systems (OS) and accessibility tools is vital for ensuring user access to information about the test. </p>
+      <h5>Issue</h5>
+      <ul>
+        <li>Test instructions are provided in a format that is not  compatible with computer, smartphone, or tablet  device OS and accessibility tools</li>
+        <li>Some features that provide feedback (e.g., auditory  and haptic) can compromise user’s privacy and  others (e.g., bright mode) can cause eye strain. </li>
+        <li>Applications sometimes require users to enter  personal information to sign in before providing  access or the ability to receive test results. </li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+        <ul>
+        <li>Ensure application recognizes and supports native  device OS accessibility settings. Custom video  playback tools are not desirable.</li>
+        <li>Recognize and apply the user’s system-wide  accessibility preferences (e.g., font sizing or  inverted colors) and provide an in-application option  to turn auditory/haptic feedback on or off. </li>
+        <li>Enable dark mode option. </li>
+        <li>If the application requires data entry for sign-in/ results reporting:  </li>
+	    <ul>
+        <li>Enable autofill and/or single sign-on (SSO)  through Google, Apple, Facebook, etc.</li>
+        <li>Clarify which data entry fields are required  versus optional. </li>
+        <li>Save partial data (e.g., create a user profile) so  user does not have to input data again for repeat  testing. </li>
+		<li>Ensure that all data entry fields are assigned  screen reader-compatible labels.  </li>
+      </ul>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Assistive Technology Compatibility</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Device operating systems</span>
+		 <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has [18] undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. </p>
+      <h5>Issue</h5>
+      <p>Test instructions are provided in a format that is not  web or mobile accessible and/or is incompatible with  native device operating system (OS) accessibility  features. </p>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+        <ul>
+        <li>Digital test instructions should be housed on a  webpage that applies responsive web design. </li>
+        <li>Audit all relevant webpages for WCAG 2.1 AA  compliance with experienced digital accessibility  professionals to ensure compatibility with assistive  technology. Complete a follow-up audit for WCAG  2.1 AA compliance following any remediation efforts. </li>
+        <li>Reference and implement best practices for making  application content web accessible and mobile [19] accessible. [20] </li>
+        <li>Ensure the test instructions are available as a PDF  that conforms to Section 508, WCAG 2.1 AA, and PDF/ Universal Accessibility (UA) standards. [21] 
+Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see 8.3 Language).  </li>
+        <li>Ensure all images have meaningful, descriptive  alt text (see that 8.3 Language • Alternative Text) supports nonvisual discernment of kit components  (e.g., by shape, size, feel). </li>
+		<li>Ensure all form fields, buttons, and other interactive elements have accessible names/labels.   </li>
+        <li>Provide a digital accessible information system (DAISY) format of the test instructions with sections and subsections defined in the file.</li>
+        <li>Provide a direct link on the product website to a full  digital version of the test instructions.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h5>Issue</h5>
+      <img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Formatting incompatible with screen reader </span>
+      <p>Not all digital test instructions are compatible with  screen readers. Key elements are often coded  incorrectly or in a format that screen readers cannot  detect, meaning content may be out of order,  incomplete, or incomprehensible. Test instructions may  be provided in a format that is not compatible with use  on a smartphone or tablet or that cannot be digested  by native OS accessibility features.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+      <img class="img-full" src="../images/#" alt="Mobile phone hovering over a folded panel of the instructions for use" /> <span class="grid-line text-italic">Formatting compatible with screen readers</span>
+      <p>Ensure digital test instructions are compatible with all  commonly used screen reader and operating system  combinations. Confirm both computer and mobile  screen reader compatibility of every screen element  (e.g., images, fields, buttons).</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>User Interface and Experience Features</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">User interface and experience considerations </span>
+		 <p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in user interface design can have a major impact on the entire user experience.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h5>Issue</h5>
+      <img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Important information integrated into text</span>
+      <p>Some important content can be missed with the  use of a digital user interface if the content is not  appropriately segmented.  </p>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+      <img class="img-full" src="../images/#" alt="Mobile phone hovering over a folded panel of the instructions for use" /> <span class="grid-line text-italic">Important information presented in pop-up </span>
+       <ul>
+        <li>Provide pop-up messages for important content  that remains on screen until user provides input to  acknowledge the message. </li>
+        <li>Errors, warnings, and success messages should not  automatically disappear until the user acknowledges the message.  </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Standalone Audio Instructions </h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Multiple platforms supporting audio content  </span>
+		 <p>Audio may be the preferred mode for some users to receive test instructions. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h5>Issue</h5>
+       <ul>
+        <li>Audio test instructions are not always available. </li>
+        <li>Audio test instructions alone are not always  sufficient for full understanding.  </li>
+	   <li>Audio test instructions, when available, can only be  accessed indirectly (e.g., via a webpage).   </li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+       <ul>
+        <li>Audio test instructions should always utilize the  copy and alt text as the script.  </li>
+		   <ul>
+        <li>Written instructions and alt text together should  provide enough description of components and  actions for understanding without visual reference.  </li>
+      </ul>
+        <li>Audio test instructions should be available in  easy-to-navigate formats.</li>
+		<li>Use of professional human voice is preferred to  create the audio, but clear text-to-speech (TTS)  engines may be used as an alternative. Audio  test instructions may be provided as part of a tutorial video (see 8.6 Digital Embodiment • Video Tutorial). Suitable file formats for standalone audio instructions include: </li>
+		   <ul>
+        <li>Podcast type file (M4A) with all sections of  the test instructions included as time stamped  chapters or episodes. Alternative open file types  that support meta data and navigational features  may be used.</li>
+		<li>DAISY audiobook file with sections of the test  instructions included as chapters. </li>
+      </ul>
+    <li> Enable direct access to complete audio test instructions via radio frequency identification (RFID) tags on the outer box.  </li>
+		   <ul>
+        <li>En-Vision America’s ScripTalk and CVS [22] Pharmacy’s Spoken Rx are examples of [23] such services. 
+ </li>
+      </ul>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Interactive Voice Response (IVR) System</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span>
+		 <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users who are less familiar with using web or mobile applications. Connecting users to test instructions via telephone allows them to use a well known, expected instruction format.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h5>Issue</h5>
+      <img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Test Instructions without IVR availability </span>
+      <ul>
+        <li>Test instructions are not always available by phone. </li>
+        <li>Audio test instructions made available via phone are  not navigable by section and step. </li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+      <img class="img-full" src="../images/#" alt="Mobile phone hovering over a folded panel of the instructions for use" /> <span class="grid-line text-italic">Test Instructions with IVR availability  </span>
+       <ul>
+        <li>Provide audio test instructions via phone.</li>
+        <li> Implement an IVR system where caller responds to  prompts via button presses or spoken statements  associated with actions, including navigation (e.g.,  continue to next step, repeat current step, return to  previous step, return to main menu, connect to a  live agent).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Video Tutorial</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Video demonstration of test procedure </span>
+		 <p>Videos can be an effective way to inform users about  the product. They provide dynamic demonstrations  to learners who prefer to process information visually  and audibly. Executed well, they can also provide an  improved audio instruction experience versus screen  reading digital instructions. </p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h5>Issue</h5>
+      <ul>
+        <li>Video test instructions are not always provided on  websites or applications. </li>
+        <li>Some videos do not provide the ability to pause,  rewind, or forward in discrete increments, making  it challenging to jump to the step a user is trying to  review. </li>
+		<li>Visuals with actors completing steps can be  challenging to follow due to issues with lighting and  contrast and general visual complexity.  </li>
+        <li>An abbreviated version of a longer video allows  users to skip the complete video and miss important  steps. </li>
+		<li>Automatically looping videos can be distracting and  challenging to navigate.  </li>
+		<li>Closed captions are not always provided or are not  properly synchronized.  </li>
+		<li>Audio description – description of a video’s visual elements – is not provided, not easy to locate, and/or does not provide sufficient nonvisual context.</li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+       <ul>
+        <li>Make video test instructions available via the  product website </li>
+        <li>Confirm video player is accessible. [24, 25] </li>
+		<li>Provide the ability to control video playback  including pause/play, rewind, forward, replay from  the beginning, scroll through time or advance  incrementally, and switch to full screen mode.   </li>
+        <li>Use high-contrast 2D animations with perspective/ depth and appropriate fill instead of live action.  </li>
+		<li>Do not provide an abbreviated version of a longer  video.</li>
+		<li>Avoid looping videos and/or audio with no ability to  pause.</li>
+		<li>Ensure closed captions are provided and  synchronized with the video and audio content. [26] </li>
+		<li>If the video tutorial is embedded in an application,  allow skipping the video after it has been viewed  once. </li>
+        <li>Consistent with providing alt text for 508 compliance include complete audio description. Refer to Digital. gov’s “508 Accessible Videos – How to Make Audio  Descriptions” for details. [27] </li>
+		<li> Provide audio description within the main audio, or,  preferably, as an option enabled by the user. [28] </li>
+		<li> Include timestamps on the player for easy  navigation to specific sections (e.g., getting started,  workflow, interpreting results). Use native device OS  video controls. </li>
+		<li>Ensure on-screen buttons conform to WCAG 2.2  success criterion 2.5.8. [29]</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h3 id="Physical-Components">9. Physical Components </h3>
+      <ul>
+        <li>9.1 Outer Packaging </li>
+        <li>9.2 Kit </li>
+        <li>9.3 Swab </li>
+        <li>9.4 Fluid Vials and Sample Preparation</li>
+	    <li>9.5 Cassette</li>
+        <li>9.6 Test Reader</li>
+		<li>9.7 Disposal </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Outer Packaging </h4>
+		<ul>
+        <li>Labeling   </li>
+        <li>Accessing Contents</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Labeling</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Box with examples of good identification features  </span>
+		 <p>The outer box packaging is the initial introduction to  any device, so labeling and interaction with the outer  packaging should be carefully considered. Packaging  typically conveys information through text, images,  and symbols. Packaging can also convey information  through shape and links to external information (e.g.,  QR codes). </p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Box labeling viewable in only one orientation  </span>
+      <h5>Issue</h5>
+      <p>Packages are often inadequately labeled and missing  critical information. </p>
+    </div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
+      <h5>Recommendation</h5>
+      <p>Consider how the package might be displayed (e.g., on  a shelf in a retail setting) and what information the user  will find most useful.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Box labeling with poor legibility  </span>
+      <h5>Issue</h5>
+      <ul>
+        <li>Outer box label information is presented without  visual hierarchy.  </li>
+        <li>Outer box labeling is cluttered with excess  information in a small font.</li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Prioritize key information including brand  name, device type, expiration date, links to test  instructions, and customer service number by  size and position. Ensure labeling complies with  regulatory bodies’ requirements.</li>
+		<li>Use minimum 14 point and ideally 18 point or larger font and legible sans serif typeface (e.g., Arial, Calibri, Helvetica, Verdana, etc.). Do not use  decorative typefaces (e.g., Script, Slab)</li>
+	    <li>Use effective color contrast (see 8.1 Legibility).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+      <h5>Issue</h5>
+      <ul>
+        <li>QR codes are often missing or insufficiently sized.  </li>
+        <li>Expiration date format is not recognizable by  common OCR applications. </li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Present QR codes in a size 0.8 inches (20.3 mm)  square or larger to align with current industry  practice. </li>
+		<li>See for guidance on expiration date 8.1 Legibility formatting. </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Example of a flat QR</span>
+      <h5>Issue</h5>
+      <p>Outer packaging may make it difficult to find or access  information. </p>
+    </div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Alternative to flat QR code</span>
+      <h5>Recommendation</h5>
+      <p>Provide a tactile means for finding information (e.g.,  QR code on sticker or within a raised outline).</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Accessing Contents</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Package with tamper-evident seal  </span>
+		 <p>Opening and accessing contents of outer packaging requires a balance of competing needs: </p>
+		<ul>
+        <li>preventing unauthorized users from tampering with contents;</li>
+		<li>ensuring the package is easy to open for all users; and </li>
+		<li>protecting internal components.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Difficult to remove tamper-evident seal   </span>
+      <h5>Issue</h5>
+      <ul>
+        <li> It can be challenging to find and remove small,  clear, tamper-evident seals.  </li>
+        <li>Users may resort to external tools such as scissors  to open a challenging package, which may result in  damaged contents. </li>
+		<li>Tearing open a package without removing the seal  may result in damage to the package and the fluid  vial holder if it is integrated into the outer box.</li>
+      </ul>
+    </div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Easy to remove tamper-evident seal</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>The tamper-evident seal should be a contrasting  color to the rest of the package.</li>
+		<li>For easy removal without the use of external  tools, the seal should include a grasp feature with  sufficient graspable area (e.g., at least 0.5 inches  [12.7 mm] square). </li>
+	    <li>Force required to remove a tamper-evident seal  should not exceed 5 lbs. (22.2 N). [30]</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Package without intuitive opening    </span>
+      <h5>Issue</h5>
+     <p>It can be challenging to open a package when the only  indication regarding top, bottom, front, and back is  through visual, printed labeling.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Packages with opening cues </span>
+      <h5>Recommendation</h5>
+      <p>Provide familiar tactile cues on the packaging  indicating where a package should be opened (e.g.,  thumb cutout, overlapping flaps).</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Kit </h4>
+		<ul>
+        <li>Organization </li>
+        <li>Internal Pouches</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Organization</h4>
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Kit contents</span>
+		 <p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing package components thoughtfully can greatly enhance the user’s ability to complete the test. A tray is an optional accessory for organizing components and improving the user experience. </p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Loose contents inside box packaging    </span>
+      <h5>Issue</h5>
+     <p>Internal, physical test instructions and key information can be difficult to find.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Contents neatly organized within box</span>
+      <h5>Recommendation</h5>
+      <p>Provide legible (see 8.1 Legibility) test instructions face up as the first thing users encounter.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Loose contents inside box packaging</span>
+      <h5>Issue</h5>
+     <p>Packages can have multiple components and internal pouches loosely placed inside. When opened, the contents can fall out and be misplaced. The order in which internal pouches or components are meant to be opened is unclear.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Contents neatly organized in a tray or a tear pouch</span>
+      <h5>Recommendation</h5>
+   <ul>
+        <li>Place contents in an organized and/or fixed manner (e.g., tray, bag, card, box dividers, etc.), in clear order of use.</li>
+        <li>If including a tray, provide ample finger clearance and gripping space/features (e.g., pull tabs) for removing the tray from the box and components from the tray.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Internal tray without labeling</span>
+      <h5>Issue</h5>
+     <p>Components in internal tray can be difficult to identify</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Internal tray with high-contrast labeling</span>
+      <h5>Recommendation</h5>
+      <p>Include high-contrast component text labels on internal tray.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Fluid vial holder location hinders workflow</span>
+      <h5>Issue</h5>
+     <p>There is a risk of unintentional spillage when the fluid vial holder in a tray is improperly positioned.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Fluid vial location aligns with workflow</span>
+      <h5>Recommendation</h5>
+      <p>The fluid vial holder should be positioned strategically in the tray to prevent unintentional disruption.</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Internal Pouches</span>
+	<h4>Internal Pouches</h4>
+		<p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. [30] Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Parts are packaged in foil pouches with the same form factor</span>
+      <h5>Issue</h5>
+     <p>Internal pouches that are similar in size, shape, and/or material, or insufficiently labeled, may be difficult to distinguish from one another.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Parts are packaged with distinct materials and form factors</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Ensure that each pouched component is tactilely discernible from others (e.g., distinct internal pouch shapes/sizes).</li>
+        <li>Label internal pouches with component names or illustrations.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Pouch without clear indication for tear location</span>
+      <h5>Issue</h5>
+     <p>Internal pouches may be difficult to open.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Pouch with evident tear locations</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Pouches should contain a notch labeled with high- contrast text or an arrow indicating tear location.</li>
+        <li>Incorporate textured grip areas</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Swab packaging with swab tip near small peel tab</span>
+      <h5>Issue</h5>
+     <ul>
+        <li>Peel-apart pouches have layers that are challenging to differentiate and separate.</li>
+        <li>Internal packaging may present a method for opening that exposes an area to contamination through touch.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Pouch with evident tear locations</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Include half-moon cutout in one of the peel-apart pouch layers or fold-over of one of the peel-apart pouch layers.</li>
+        <li>Ensure the opening exposes a component part intended for touch (e.g., peel feature near swab handle rather than swab tip).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Swab</h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Swab without handling feature</span>
+      <h5>Issue</h5>
+     <p>Swabs with no clear indications for handling may be contaminated by touch.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Swab with grip area feature</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Swab shaft should have identifiable features (e.g., textures) so that the user knows where to grasp, preventing sample contamination.</li>
+        <li>Employ contrasting colors for the swab shaft and swab tip so they can be readily discerned.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">No depth indication</span>
+      <h5>Issue</h5>
+     <p>Swabs have no indication for appropriate nostril insertion depth.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Swab with depth indication</span>
+      <h5>Recommendation</h5>
+      <p>Incorporate a tactile feature on the swab to inform the user of the required depth of insertion.</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Fluid Vials and Sample Preparation</h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cap that is challenging to remove</span>
+      <h5>Issue</h5>
+     <p>Small caps and vials may be misplaced and are tricky to handle, creating a spill risk.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cap with features facilitating removal</span>
+      <h5>Recommendation</h5>
+      <ul>
+        <li>Large caps and vials with identifiable features (e.g., color, shape) help improve handling.</li>
+        <li>Attach caps to the fluid vial (e.g., with a living hinge)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Fluid transfer spill</span>
+      <h5>Issue</h5>
+     <p>Tests may require transferring buffer solution (e.g., reagent) into the extraction fluid vial, which increases the risk for incomplete transfer and/or spill.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Elimination of fluid transfer</span>
+      <h5>Recommendation</h5>
+      <p>Eliminate the need to transfer buffer solution when possible (e.g., by integrating a prefilled fluid vial and dropper cap).</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Thick-walled via</span>
+      <h5>Issue</h5>
+      <ul>
+        <li>Fluid vials with stiff walls (e.g., thick plastic) make it hard to dispense liquid by squeezing.</li>
+        <li>Short fluid vials may be difficult to grip or manipulate.</li>
+		<li>Depending on material opacity, it may be difficult to visualize liquid dispensing.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Thin-walled vial</span>
+      <h5>Recommendation</h5>
+       <ul>
+        <li>Make fluid vial walls thinner and more pliable, ensuring force to dispense liquid is less than 3.5 lbs. (15.6 N). [31]</li>
+        <li>Vials should be at least 1.6 inches (40mm) long. [32]</li>
+		<li>Construct fluid vials of see-through materials to allow clear visualization of contents.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Unstable vial</span>
+      <h5>Issue</h5>
+      <p>Fluid vials may be unstable, making them difficult to set down during the testing process.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Stable vials
+</span>
+      <h5>Recommendation</h5>
+       <ul>
+        <li>Design fluid vials to ensure stability when set upright (e.g., integrated vial base, separate vial stand, vial stand punch-out in outer box).</li>
+        <li>For a vial stand punch-out in the outer box, ensure force to puncture is less than 5 lbs. (22.2 N) [30], use high-contrast labeling to indicate location, size to ensure secure fluid vial fit, and position in a location that does not interfere with box use (e.g., at box edge).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Narrow vial opening</span>
+      <h5>Issue</h5>
+      <p>Narrow openings make it difficult to insert the swab into the fluid vial, which can result in the swab tip being touched and contaminated during insertion.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Tapered vial opening</span>
+      <h5>Recommendation</h5>
+     <p>Widen or reshape (e.g., funnel) fluid vial opening so that the swab can be easily and safely inserted.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Vial without internal texture</span>
+      <h5>Issue</h5>
+      <p>Tests may require physically supporting the fluid vial during sample agitation, increasing spill risk.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Vial with internal ribbing</span>
+      <h5>Recommendation</h5>
+     <p>Incorporate fluid vial design features that reduce the force that needs to be applied during sample agitation or sample extraction (e.g., internal ribbing).
+</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		      <h5>Issue</h5>
+      <p>Counting drops delivered to the cassette sample well is challenging and creates potential for user error.</p>
+		</div>
+    <div class="tablet:grid-col">
+		      <h5>Recommendation</h5>
+     <p>Design the test so that the complete volume in the fluid vial is used for analysis.</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Cassette</h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Lack of orientation features</span>
+      <h5>Issue</h5>
+      <ul>
+        <li>An indistinct cassette shape may make it challenging to correctly orient the device and identify features such as the sample well and results window.</li>
+        <li>An indistinct shape may also make it challenging to correctly load the cassette into a test reader, if applicable.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Mating features indicating orientation</span>
+      <h5>Recommendation</h5>
+    <ul>
+        <li>Design the cassette with distinguishing features (e.g., colors, shapes, textures) for easy identification and manipulation.</li>
+        <li>Provide a keying feature so that the cassette can only be loaded into the test reader in the correct orientation.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cassette without distinguishable well location</span>
+      <h5>Issue</h5>
+      <ul>
+        <li>The location of the sample well and results window may be difficult to identify, especially by touch. This may lead to sample spills.</li>
+        <li>The sample well and results window may be easily confused.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cassette with docking feature</span>
+      <h5>Recommendation</h5>
+    <ul>
+        <li>If sample fluid transfer is required, incorporate features on the cassette that facilitate alignment or docking of the fluid vial and sample well (e.g., locking features, raised edges of sample well, contrasting color of sample well).</li>
+        <li>The sample well and results window should be shaped differently and separated sufficiently.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cassette with exposed sample well</span>
+      <h5>Issue</h5>
+      <p>An exposed sample well increases the risk of touch contamination, which may affect the test result.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cassette with protected sample well
+</span>
+      <h5>Recommendation</h5>
+   <p>Include features on the cassette that reduce likelihood of touch contamination (e.g., raised edges of sample well).</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cassette without drop count labeling</span>
+      <h5>Issue</h5>
+      <ul>
+        <li>Users may dispense an incorrect number of drops.</li>
+        <li>Users may dispense drops in an incorrect location.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Cassettes with explicit drop count labeling</span>
+      <h5>Recommendation</h5>
+    <ul>
+        <li>If counting drops is required, include a high-contrast label on the cassette indicating the number of drops required.</li>
+        <li>To facilitate identification of sample well location, include a 0.1 inch (3 mm) raised edge and/or a high-contrast outline.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Test Reader</h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Test reader without distinguishable features</span>
+      <h5>Issue</h5>
+      <p>The test reader shape may make orientation and identification of features (e.g., cassette insert area) challenging.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Test reader with distinguishable features</span>
+      <h5>Recommendation</h5>
+   <p>Design the test reader with distinguishing features (e.g., colors, shapes, textures) for easy orientation.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Small button interfaces</span>
+      <h5>Issue</h5>
+      <p>Physical buttons may be difficult to locate and activate.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Large button interfaces</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Ensure physical buttons are a minimum 0.5 inches (12.7 mm) wide and are spaced a minimum 0.7 inches (17.8 mm) center to center. [33]</li>
+        <li>Physical button features (e.g., shape, edges) should be distinct.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Battery compartment difficult to locate</span>
+      <h5>Issue</h5>
+        <ul>
+        <li>Test kits or instructions may not clearly indicate battery location.</li>
+        <li>Batteries may be located in an area that is hard to reach.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Battery compartment easy to access</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>If applicable, include an on-device label with a tactile symbol to indicate battery location.</li>
+        <li>Position batteries so that they can be easily accessed.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Small battery access feature</span>
+      <h5>Issue</h5>
+        <ul>
+        <li>Test kits or instructions may not clearly indicate battery access and removal method.</li>
+        <li>Battery access doors may be difficult to remove due to small, hard-to-grip handles.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Improved battery access and removal</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Clearly label the access door to indicate removal method (e.g., tactile features).</li>
+        <li>Implement familiar battery removal methods.</li>
+	    <li>Include features that can be manipulated without employing fine motor skills (e.g., pull tag, larger divot).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Test reader with exclusively visual feedback</span>
+      <h5>Issue</h5>
+        <p>Some test readers only communicate status (e.g., power, rechargeable battery level, results available) visually.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Test reader with visual, auditory and haptic feedback</span>
+      <h5>Recommendation</h5>
+  <p>Consider adding nonvisual indicators, such as audible and/or haptic feedback, to inform the user of test reader status. If using LED colors to indicate
+status, consider using multiple LED lights with spatial differentiation rather than a single LED light that changes colors.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Lack of battery orientation cues</span>
+      <h5>Issue</h5>
+        <p>Battery-powered test readers may not clearly indicate the correct orientation for loading batteries (e.g., how to position positive and negative battery terminals).</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Explicit battery orientation cues</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Consider pre-loading batteries.</li>
+        <li>Provide visual and tactile indicators of the correct orientation for loading batteries both on the battery access door and inside the battery compartment.</li>
+	    <li>Match existing consumer mental models about battery orientation to design (e.g., the negative battery terminal goes on a spring).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Smartphone-based reader un-aligned with a test cassette</span>
+      <h5>Issue</h5>
+        <p>Smartphone-based readers may require specific placement of a component (e.g., in a camera frame) using only visual cues (e.g., on-screen tracking markers).</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Smartphone-based reader aligned with a test cassette</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Provide auditory/haptic device positioning and camera visibility feedback to the user (e.g., “test identified” or “failed - move closer”; or “failed - increase brightness”).</li>
+        <li>Implement automated image correction.</li>
+	    <li>Leverage native smartphone camera application accessibility controls.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h5>Issue</h5>
+        <p>Reusable test readers collect dirt and grime in hard-to- reach places.</p>
+		</div>
+    <div class="tablet:grid-col">
+      <h5>Recommendation</h5>
+  <p>If the test reader is reusable rather than disposable, design it with cleanability in mind. Eliminate crevices to facilitate easy wipe down.</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Disposal</h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		      <h5>Issue</h5>
+          <ul>
+        <li>Tests kits may not indicate which components are disposable.</li>
+        <li>Test kits may not indicate appropriate methods for disposal (e.g., household waste, recycling, hazardous waste, etc.).</li>
+	    <li>Devices with batteries may not indicate the need for removal prior to disposal.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		      <h5>Recommendation</h5>
+  <ul>
+        <li>Provide clear disposal labeling and instructions.</li>
+        <li>If applicable, provide clear instructions for battery removal before disposal.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h3 id="Test-Porcedure">10. Test Porcedure </h3>
+      <ul>
+        <li>10.1 Bluetooth Pairing </li>
+        <li>10.2 Test Analysis </li>
+        <li>10.3 Results Communication </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Bluetooth Pairing </h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Phone connecting via Bluetooth with visual cues</span>
+      <h5>Issue</h5>
+        <ul>
+        <li>Some tests require Bluetooth pairing (connecting a smartphone and another device) to analyze and communicate results. Common pairing methods only provide visual feedback on pairing status.</li>
+        <li>Some pairing requires devices to be placed in proximity with inadequate feedback on whether the devices are in or out of range.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Phone connecting via Bluetooth with audio cues</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Provide multi-modal, clear feedback on pairing status (e.g., audible and/or haptic feedback).</li>
+        <li>If devices are required to be placed a specific distance from each other, provide device positioning recognition to the user.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Test Analysis </h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Lack of processing cues</span>
+      <h5>Issue</h5>
+        <ul>
+        <li>There is no clear feedback, visual or otherwise, indicating that the sample has been properly entered into the device and test analysis is underway.</li>
+        <li>Most tests only indicate visually that the sample has completed processing and results are available.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Visual and auditory cues</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Provide visual, auditory, and/or haptic cues letting the user know that the sample has been properly entered into the device and is processing.</li>
+        <li>In addition to visual cues, consider adding auditory and/or haptic indications that results are available.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	<h4>Results Communication</h4>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Faint result lines and illegible labeling</span>
+      <h5>Issue</h5>
+        <ul>
+        <li>Control and/or test lines on the test strip within the cassette can be very faint.</li>
+        <li>Result labeling on the cassette may be too small or low contrast and may not align exactly with the associated position of the control and test lines in the results window.</li>
+		<li>Results of cassette-based COVID-19 home tests are typically displayed in a ‘raw’ format that may be misinterpreted by lay users (e.g., ‘C’ indicating control could be misunderstood as ‘C’ indicating COVID-19).</li>
+        <li>When cassette labeling appears in multiple orientations, the user must rotate the cassette to read labeling.</li>
+	    <li>A transparent shield over the results window can create optical challenges.</li>
+      </ul>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Bold result lines and legible labeling</span>
+      <h5>Recommendation</h5>
+  <ul>
+        <li>Optimize chemistry in LFAs to maximize control and test line contrast and sharpness.</li>
+        <li>Result labeling should comply with recommendations in 8.1 Legibility.</li>
+	    <li>Ensure cassette labeling aligns exactly with the position of the control and test lines in the results window.</li>
+	  <li>Abbreviations should be adequately defined in the test instructions (see also 9.5 Cassette for additional labeling suggestions).</li>
+		<li>When feasible, design the results status to be self- communicative and interpreted without the need for a key/legend (e.g., spell out ‘Control’ and ‘Test’ on cassette.</li>
+        <li>Cassette labeling should all be in the same orientation.</li>
+	    <li>If cassette design includes a transparent shield over the results window, carefully consider how optics (e.g., refraction or reflection) might interfere with results interpretation.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Lack of sensory feedback</span>
+      <h5>Issue</h5>
+        <p>Most tests only communicate results visually.</p>
+		</div>
+    <div class="tablet:grid-col">
+		<img class="img-full" src="../images/#" alt="Mobile phone hovering over a large, open set of instructions" /> <span class="grid-line text-italic">Visual, auditory, and haptic feedback</span>
+      <h5>Recommendation</h5>
+ <p>Consider adding non-visual cues such as audible and/or haptic feedback to communicate results.</p>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h3 id="References">11. References</h3>
+    </div>
+  </div>
+</div>
+<ol>
+  <li>Centre for Excellence in Universal Design, National Disability Authority. (2020). What is Universal Design. https://universaldesign.ie/what- is-universal-design/</li>
+  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2018). What We Do. Fda.gov. https://www.fda.gov/about-fda/ what-we-do</li>
+  <li>Sutton, B. U.S. Food and Drug Administration. Overview of Regulatory Requirements: Medical Devices – Transcript. (2021) https://www.fda.gov/ training-and-continuing-education/cdrh-learn/ overview-regulatory-requirements-medical- devices-transcript</li>
+	<li>U.S. Food and Drug Administration, Center for Devices and Radiological Health.(2020). Classify Your Medical Device. https://www.fda. gov/medical-devices/overview-device-regulation/ classify-your-medical-device </li>
+	<li>U.S. Food and Drug Administration. Center for Devices and Radiological Health. Division of Industry and Consumer Education. (2019) https:// www.fda.gov/about-fda/cdrh-offices/division- industry-and-consumer-education</li>
+	<li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2019). CDRH Learn. https://www.fda.gov/training-and- continuing-education/cdrh-learn</li>
+	<li>21CFR820.30. https://www.accessdata.fda.gov/ scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.30</li>
+	<li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2016). Applying Human Factors and Usability Engineering to Medical Devices.</li>
+	<li>The Association for the Advancement of Medical Instrumentation. (2009). Human Factors Engineering – Design of Medical Devices. ANSI/ AAMI HE75:2009 (R2018)</li>
+	<li>U.S. Food and Drug Administration. How to Use Consensus Standards in Premarket Submissions. https://www.fda.gov/media/147787/download</li>
+	<li>U.S. Department of Health and Human Services Food and Drug Administration. (2014).VIII. Human Factors. In Design Considerations for Devices Intended for Home Use. Guidance for Industry and Food and Drug Administration Staff. (pp. 13–14).</li>
+	<li>TPGi. Colour Contrast Analyser (CCA). https://www.tpgi.com/color-contrast-checker/</li>
+	<li>International Organization for Standardization. (2022). Plain language – Part 1: Governing principles and guidelines. (ISO Standard No. 24495-1:2022). https://www.iso.org/ standard/78907.html</li>
+	<li>Federal Plain Language Guidelines (2011). https://www.plainlanguage.gov/</li>
+	<li>National Eye Institute. (2019) Types of Color Blindness. https://www.nei.nih.gov/learn-about- eye-health/eye-conditions-and-diseases/color- blindness/types-color-blindness</li>
+	<li>National Library Service for the Blind and Print Disabled (NLS), Library of Congress. NLS Factsheet: About Braille. https://www.loc.gov/ nls/resources/blindness-and-vision-impairment/ braille-information/about-braille/</li>
+	<li>International Organization for Standardization. (2021). Medical devices – Symbols to be used with information to be supplied by the manufacturer – Part 1: General requirements. (ISO Standard No. 15223-1:2021). https://www. iso.org/standard/77326.html</li>
+	<li>Web Content Accessibility Guidelines (WCAG) 2.1 W3C Recommendation. (2018). https://www. w3.org/TR/WCAG21/</li>
+	<li>W3C Web Accessibility Initiative, WCAG 2 Overview. (2023). https://www.w3.org/WAI/ standards-guidelines/wcag/</li>
+	<li>W3C Working Draft. Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile. (2015). https://www.w3.org/TR/2015/ WD-mobile-accessibility-mapping-20150226/</li>
+	<li>Department of Justice and the General Services Administration. (2023) Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology to Congress and the President. https://www.justice. gov/crt/page/file/1569331/download</li>
+	<li>En-Vision America, ScripTalk. https://www. envisionamerica.com/scriptalk-station-for-patients</li>
+	<li>CVS, “Hi! It’s your prescription talking.”, Spoken Tx™. https://www.cvs.com/content/pharmacy/ spoken-rx</li>
+	<li>W3C Web Accessibility Initiative, Media Players in Making Audio and Video Media Accessible. (2021) https://www.w3.org/WAI/media/av/player/</li>
+	<li>Digital.gov, U.S. General Services Administration. (2020). 508 Accessible Videos – Use a 508-Compliant Video Player. https://digital. gov/2014/06/30/508-accessible-videos-use-a- 508-compliant-video-player/</li>
+	<li>Section508.gov, General Services Administration. (2022) Create Accessible Video, Audio and Social Media. https://www.section508.gov/create/video- social/</li>
+	<li>Digital.gov, U.S. General Services Administration. 508 Accessible Videos – How to Make Audio Descriptions. (2022). https://digital.gov/2014/06/30/508-accessible-videos-how-to- make-audio-descriptions/</li>
+	<li>W3C Working Group Note 7. (2016). Techniques and Failures for Web Content Accessibility Guidelines 2.0. https://www.w3.org/TR/WCAG20-TECHS/Overview.html#contents</li>
+	<li>Web Content Accessibility Guidelines (WCAG) 2.2. (2023). W3C Candidate Recommendation Draft, Success Criterion 2.5.8 Target Size (Minimum). https://www.w3.org/TR/WCAG22/</li>
+	<li>U.S. Department of Justice Civil Rights Division. (2010). 2010 ADA Standards for Accessible Design, 309.4 Operation. https://www.ada.gov/ law-and-regs/design-standards/2010-stds/#top</li>
+	<li>Villafañe, J. H., Valdes, K., Bertozzi, L., and Negrini, S. (2014). Minimal clinically important difference of grip and pinch strength in women with thumb carpometacarpal osteoarthritis when compared to healthy subjects. Rehabilitation Nursing.</li>
+	<li>Greiner, TM. US Army Natick Research Development and Engineering Center, MA., Anthropology Branch, Behavioral Sciences Division, Soldier Science Directorate. (1991). Hand Anthropometry of U.S. Army Personnel. https://apps.dtic.mil/sti/pdfs/ADA244533.pdf</li>
+	<li>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.</li>
+</ol>
+<hr />
