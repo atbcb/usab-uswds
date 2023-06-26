@@ -404,8 +404,6 @@ defaults:
       collection-folder: es
       layout: standards
       image-directory: /images/
-
-
   - scope:
       path: ""
       type: "ada-aba_es"
@@ -416,9 +414,7 @@ defaults:
       toc-group: ""
       layout: universal
       toc: /toc/ada_es.html
-      image-directory: /images/ 
-
-
+      image-directory: /images/
   - scope:
       path: "_staff"
     values:
