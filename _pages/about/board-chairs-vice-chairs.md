@@ -30,7 +30,7 @@ permalink: /about/board-chairs-and-vice-chairs.html
 {: .usa-table .usa-table--striped }
 
 | Year | Chair | Vice-Chair |
-| :---   | :---: | :---: | 
+| :---:   | :---: | :---: | 
 1985-1986 | Charles R. Hauser | Madeline Will (ED) |
 1986-1987 | Charles R. Hauser | Madeline Will (ED) |
 1987-1988 | Thomas E. Harvey (VA) | William Tangye |
