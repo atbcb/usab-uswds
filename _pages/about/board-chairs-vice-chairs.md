@@ -8,26 +8,13 @@ permalink: /about/board-chairs-and-vice-chairs.html
 
 ## Governing Access Board Chairs and Vice-Chairs (1985 -- Present)
 
-<div id="content" class="grid-container padding-top-3 maxw-desktop">
-  <div class="grid-row">
-    <div class="width-desktop usa-prose">
-      <p style="max-width: none;">
-        The Access Board is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities. 
-        Twelve members of the governing Board are representatives from most of the federal departments. 
-        The other thirteen are comprised of members of the public appointed by the President to four-year terms. 
-        Every year the governing Board elects officers, including a chair and vice-chair. 
-        These posts alternate between a public and a federal member.
-      </p>
-      <p style="max-width: none;">
-        Members of the public who wish to seek appointment to the U.S. Access Board (officially named the Architectural and Transportation Barriers Compliance Board) should
-        visit <a href="https://www.whitehouse.gov/get-involved/join-us/">the White House website</a> for further information or contact the White House Office of Presidential Personnel. For a list of past governing Board members, visit the <a href="{{ site.baseurl }}/about/members-past.html">Former Public Board Members page</a>.
-      </p>
-    </div>
-  </div>
+The Access Board is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities. Twelve members of the governing Board are representatives from most of the federal departments. The other thirteen are comprised of members of the public appointed by the President to four-year terms. Every year the governing Board elects officers, including a chair and vice-chair. These posts alternate between a public and a federal member.
+
+Members of the public who wish to seek appointment to the U.S. Access Board (officially named the Architectural and Transportation Barriers Compliance Board) should visit [the White House website](https://www.whitehouse.gov/get-involved/join-us/) for further information or contact the White House Office of Presidential Personnel. For a list of past Governing Board members, visit the [Former Public Board Members page]({{ site.baseurl }}/about/members-past.html).
+
 
 * * *
 
-{: .usa-table .usa-table--striped }
 
 | Year | Chair | Vice-Chair |
 | :---:   | :---: | :---: | 
@@ -68,7 +55,7 @@ permalink: /about/board-chairs-and-vice-chairs.html
 | 2019-2020 | Karen Tamley | Lance Robertson (HHS) |
 | 2020-2021 | Lance Robertson (HHS) | Gregory S. Fehribach |
 | 2021-2022 | Gregory S. Fehribach | † |
-| 2022-2023 | Taryn Mackenzie Williams (DOL) | Gregory S. Fehribach
+| 2022-2023 | Taryn Mackenzie Williams (DOL) | Gregory S. Fehribach |
 | 2023-2024 | Gregory S. Fehribach | Katy Kale (GSA) | 
 {: .usa-table .usa-table--striped }
 
