@@ -8,9 +8,7 @@ permalink: /about/board-chairs-and-vice-chairs.html
 
 ## Governing Access Board Chairs and Vice-Chairs (1985 -- Present)
 
-The Access Board is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities. Twelve members of the governing Board are representatives from most of the federal departments. The other thirteen are comprised of members of the public appointed by the President to four-year terms. Every year the Governing Board elects officers, including a chair and vice-chair. These posts alternate between a public member and a federal member.
-
-Members of the public who wish to seek appointment to the U.S. Access Board (officially named the Architectural and Transportation Barriers Compliance Board) should visit [the White House website](https://www.whitehouse.gov/get-involved/join-us/) for further information or contact the White House Office of Presidential Personnel. For a list of past Governing Board Members, visit the [Former Public Board Members page]({{ site.baseurl }}/about/members-past.html).
+The Access Board is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities. Its [governing board includes twenty-five members](https://www.access-board.gov/about/board-members/): Twelve members are representatives from most of the federal departments and the other thirteen are comprised of members of the public appointed by the President to four-year terms. Every year the Governing Board elects officers, including a Chair and Vice-Chair. These posts alternate between a public member and a federal member.
 
 
 | Year | Chair | Vice-Chair |
