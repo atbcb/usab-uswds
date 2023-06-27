@@ -25,6 +25,8 @@ permalink: /about/board-chairs-and-vice-chairs.html
     </div>
   </div>
 
+* * *
+
 | Year | Chair | Vice-Chair |
 | :---   | :---:        | :---:        | 
 1985-1986 | Charles R. Hauser | Madeline Will (ED) |
