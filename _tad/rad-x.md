@@ -943,7 +943,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users with lower familiarity with using web or mobile applications. Connecting users to instructions via telephone allows them to use a well-known, expected, and sometimes expedited instruction format.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Interactive-Voice-Response-(IVR-)System.jpg" alt="Mobile phone with dial pad. Illustration of a human face speaking in the direction of the phone"> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span> </div>
   </div>
