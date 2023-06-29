@@ -48,7 +48,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>While the information presented emphasizes best practices for the design of COVID-19 home tests, many of these ergonomic and accessible design recommendations are transferable to home tests for other conditions and diseases. 
   An abridged version of Best Practices for the Design of Accessible COVID-19 Home Tests, released in 2022, included a limited set of topics. This 2023 publication expands upon and refines the best practices recommendations contained therein and supersedes the 2022 release.</p>
 <hr />
-<h3 id="glossary">2.Glossary</h3>
+<h3 id="glossary">2. Glossary</h3>
 <dl>
   <dt>Accessibility</dt>
   <dd>The practice of building or modifying products, services, and facilities with consideration for the needs of as many users as possible.</dd>
@@ -148,29 +148,29 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <dd>Method or means by which a human interacts with or controls a product, website, or application.</dd>
 </dl>
 <hr />
-<h3 id="Symbols">3.Symbols Guide</h3>
+<h3 id="Symbols">3. Symbols Guide</h3>
 <dl>
-  <dt><img class="img-full" src="../images/Audio-Sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" /> Audio / Sound</dt>
+  <dt><img class="img-full" src="../images/audio-sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" /> Audio / Sound</dt>
   <dd>Audible output or feedback from a device</dd>
-  <dt><img class="img-full" src="../images/No-Audio-ound.png" alt="red slash-circle over speaker icon" />No Audio / Sound </dt>
+  <dt><img class="img-full" src="../images/no-audio-sound.png" alt="red slash-circle over speaker icon" />No Audio / Sound </dt>
   <dd>Absence of audible output or feedback from a device</dd>
-  <dt><img class="img-full" src="../images/Bluetooth.png" alt="Bluetooth symbol, a stylized capital b" />Bluetooth</dt>
+  <dt><img class="img-full" src="../images/bluetooth.png" alt="Bluetooth symbol, a stylized capital b" />Bluetooth</dt>
   <dd>Indicates Bluetooth connectivity </dd>
-  <dt><img class="img-full" src="../images/Haptic-or-Vibration.png" alt="four zigzag vertical lines" />Haptic or Vibration</dt>
+  <dt><img class="img-full" src="../images/haptic-or-vibration.png" alt="four zigzag vertical lines" />Haptic or Vibration</dt>
   <dd>Dynamic physical feedback on a device</dd>
-  <dt><img class="img-full" src="../images/Hourglass.png" alt="hourglass icon, half filled" />Hourglass</dt>
+  <dt><img class="img-full" src="../images/hourglass.png" alt="hourglass icon, half filled" />Hourglass</dt>
   <dd>Indicates date or time; often used as a visual icon next to an expiration date </dd>
-  <dt><img class="img-full" src="../images/Off.png" alt="bold empty circle" />Off</dt>
+  <dt><img class="img-full" src="../images/off.png" alt="bold empty circle" />Off</dt>
   <dd>Indicates the “off” state of an electronic device </dd>
-  <dt><img class="img-full" src="../images/On.png" alt="bold vertical line" />On</dt>
+  <dt><img class="img-full" src="../images/on.png" alt="bold vertical line" />On</dt>
   <dd>Indicates the “on” state of an electronic device </dd>
-  <dt><img class="img-full" src="../images/Phone.png" alt="telephone handset icon" />Phone</dt>
+  <dt><img class="img-full" src="../images/phone.png" alt="telephone handset icon" />Phone</dt>
   <dd>Indicates the use of a telephone </dd>
-  <dt><img class="img-full" src="../images/Power.png" alt="empty circle with vertical line from center; line breaks through top of circle" />Power</dt>
+  <dt><img class="img-full" src="../images/power.png" alt="empty circle with vertical line from center; line breaks through top of circle" />Power</dt>
   <dd>Power on-off indicator/button on an electronic device</dd>
-  <dt><img class="img-full" src="../images/QR-Code.png" alt="pixelated square matrix barcode" />QR Code</dt>
+  <dt><img class="img-full" src="../images/qr-code.png" alt="pixelated square matrix barcode" />QR Code</dt>
   <dd>Generic representation of a Quick Response (QR) code</dd>
-  <dt><img class="img-full" src="../images/Warning.png" alt="bold red triangle containing an exclamation point" />Warning </dt>
+  <dt><img class="img-full" src="../images/warning.png" alt="bold red triangle containing an exclamation point" />Warning </dt>
   <dd>Indicates a critical warning </dd>
 </dl>
 <hr />
@@ -250,7 +250,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h4>8.1 Legibility</h4>
       <h3 id="Legibility">Legibility</h3>
     </div>
-    <div class="tablet:grid-col"> <img class="img-medium center" src="../images/#" alt="Folded paper sheet of instructions." /> </div>
+    <div class="tablet:grid-col"> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -277,7 +277,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Key information hard to distinguish.png" alt="Test instructions with small point size, light gray font, and a small QR code." /> <span class="grid-line text-italic"> Key information hard to distinguish</span>
+      <img class="img-full" src="../images/key-information-hard-to-distinguish.png" alt="Test instructions with small point size, light gray font, and a small QR code." /> <span class="grid-line text-italic"> Key information hard to distinguish</span>
       <ul>
         <li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
         <li>Expiration dates and QR codes are small and difficult to locate.</li>
@@ -286,7 +286,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Key information stands apart.png" alt="Test instructions with easy-to-read point size, bolded copy, dark black font, and a legible QR code." /> <span class="grid-line text-italic">Key information stands apart</span>
+      <img class="img-full" src="../images/key-information-stands-apart.png" alt="Test instructions with easy-to-read point size, bolded copy, dark black font, and a legible QR code." /> <span class="grid-line text-italic">Key information stands apart</span>
       <ul>
         <li>Present key information in large and/or boldface font (minimum 14 point, ideally 18 point or larger).</li>
         <li>Include a QR code linking to digital instructions sized 0.8 inches (20.3 mm) square or larger to align with current industry practice. </li>
@@ -300,12 +300,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-large center" src="../images/Poor color combination.png" alt="Test instructions with gray text on a gray background, making text hard to distinguish. A grid of colors and text that are too similar to one another." /> <span class="grid-line text-italic">Poor color combination; test instructions with poor legibility</span>
+      <img class="img-large center" src="../images/poor-color-combination.png" alt="Test instructions with gray text on a gray background, making text hard to distinguish. A grid of colors and text that are too similar to one another." /> <span class="grid-line text-italic">Poor color combination; test instructions with poor legibility</span>
       <p>Information may be provided with poor color contrast, making it challenging to perceive key information. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-large center" src="../images/Recommended color combination.png" alt="Test instructions for use with easily distinguishable dark text on a white page. A grid of colors with appropriately contrasting color text." /> <span class="grid-line text-italic">Recommended color combination; legible test instructions </span>
+      <img class="img-large center" src="../images/recommended-color-combination.png" alt="Test instructions for use with easily distinguishable dark text on a white page. A grid of colors with appropriately contrasting color text." /> <span class="grid-line text-italic">Recommended color combination; legible test instructions </span>
       <p>Color contrast should allow for clear differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 point or smaller font and 3:1 for larger font. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi’s Colour Contrast Analyser (CCA). [12]</p>
     </div>
   </div>
@@ -341,7 +341,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Text layout with inconsistent information flow.png" alt="Rectangular document showing uneven and misaligned blocks of images and text with a series of red arrows pointing in many different directions showing the document reading order." /> <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
+      <img class="img-full" src="../images/text-layout-with-inconsistent-information-flow.png" alt="Rectangular document showing uneven and misaligned blocks of images and text with a series of red arrows pointing in many different directions showing the document reading order." /> <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
       <ul>
         <li>Blocks of text may be presented in different layouts, with some sequences of blocks reading left to right and others top to bottom, making following along cumbersome. </li>
         <li>Large, unbroken blocks of text make digesting information difficult, and wide columns make some users physically dizzy.</li>
@@ -349,7 +349,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Recommended text layout and information flow.png" alt="Rectangular document with blocks of images and text stacked in four even and aligned columns. Blue arrows point down and up to the next column, indicating an easy reading flow." /> <span class="grid-line text-italic">Recommended text layout and information flow</span>
+      <img class="img-full" src="../images/recommended-text-layout-and-information-flow.png" alt="Rectangular document with blocks of images and text stacked in four even and aligned columns. Blue arrows point down and up to the next column, indicating an easy reading flow." /> <span class="grid-line text-italic">Recommended text layout and information flow</span>
       <ul>
         <li>Use the flow scheme shown above with columns arranged left to right. Two columns on 8.5 x 11 inches (216 x 279 mm) U.S. letter size paper in portrait orientation, or four columns on 11 x 17 inches (279 x 432 mm) tabloid size paper in landscape orientation works well. </li>
         <li>Text columns should be equal width and include proportioned column gutters.</li>
@@ -361,12 +361,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Numerous warnings embedded in copy.png" alt="Test instructions with warning symbols and messages in gray and blending with the rest of the text." /> <span class="grid-line text-italic">Numerous warnings embedded in copy </span>
+      <img class="img-full" src="../images/numerous-warnings-embedded-in-copy.png" alt="Test instructions with warning symbols and messages in gray and blending with the rest of the text." /> <span class="grid-line text-italic">Numerous warnings embedded in copy </span>
       <p>Warnings are presented inconsistently making it hard to locate them or allow the critical warnings to attract the appropriate amount of attention. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Targeted warnings, visually differentiated from plain copy.png" alt="Test instructions with critical warning symbols in red and critical warning text in boldface font in a textbox callout to visually differentiate warnings from rest of text." /> <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy </span>
+      <img class="img-full" src="../images/targeted-warnings-visually-differentiated-from-plain-copy.png" alt="Test instructions with critical warning symbols in red and critical warning text in boldface font in a textbox callout to visually differentiate warnings from rest of text." /> <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy </span>
       <p>Critical warnings (e.g., those where user error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., with a red warning symbol and boldface font in a text box callout).</p>
     </div>
   </div>
@@ -562,14 +562,14 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Photo backgrounds distract from product.png" alt="Three-dimensional rendering representing a photo of a cylindrical gray fluid vial with an integrated dropper cap standing on a wooden table in front of an off-white background." /> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
+      <img class="img-full" src="../images/photo-backgrounds-distract-from-product.png" alt="Three-dimensional rendering representing a photo of a cylindrical gray fluid vial with an integrated dropper cap standing on a wooden table in front of an off-white background." /> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
       <ul>
         <li>Photos contain extra, unnecessary information making them difficult to interpret, especially when printed on an embossing printer. </li>
       </ul>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Line drawings improve comprehension.png" alt="Black perspective line drawing of a fluid vial with an integrated dropper cap." /> <span class="grid-line text-italic">Line drawings improve comprehension </span>
+      <img class="img-full" src="../images/line-drawings-improve-comprehension.png" alt="Black perspective line drawing of a fluid vial with an integrated dropper cap." /> <span class="grid-line text-italic">Line drawings improve comprehension </span>
       <ul>
         <li>Use line drawings with perspective instead of photos. </li>
         <li>Use varying line weights to distinguish detail and accent features (e.g., 1 point – 1.5 point for lines and 3 point – 4 point for accent features). </li>
@@ -581,12 +581,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/2D thin line and low contrast drawings.png" alt="Two-dimensional line drawing of a fluid vial with thin black lines and a two-dimensional illustration of a fluid vial using color fills of two shades of gray." /> <span class="grid-line text-italic">2D thin line and low contrast drawings</span>
+      <img class="img-full" src="../images/2d-thin-line-and-low-contrast-drawings.png" alt="Two-dimensional line drawing of a fluid vial with thin black lines and a two-dimensional illustration of a fluid vial using color fills of two shades of gray." /> <span class="grid-line text-italic">2D thin line and low contrast drawings</span>
       <p>It can be difficult to interpret 2D drawings, especially those with thin lines, low contrast, or lower image quality or sharpness.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/3D drawing with appropriate line thickness.png" alt="Perspective line drawing of a fluid vial with thick black lines and shading." /> <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
+      <img class="img-full" src="../images/3d-drawing-with-appropriate-line-thickness.png" alt="Perspective line drawing of a fluid vial with thick black lines and shading." /> <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
       <p>Use high-quality, high-contrast, thick line drawings with
         shading, as appropriate.</p>
     </div>
@@ -596,12 +596,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Illustrations without context.png" alt="Line drawings of a swab and fluid vial with blue arrows." /> <span class="grid-line text-italic">Illustrations without context </span>
+      <img class="img-full" src="../images/illustrations-without-context.png" alt="Line drawings of a swab and fluid vial with blue arrows." /> <span class="grid-line text-italic">Illustrations without context </span>
       <p>Illustrations without context do not inform readers about relative component size and force the reader to guess how components are to be utilized. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Illustrations with context.png" alt="Line drawings of a swab inserted into a nostril and a fluid vial held between fingertips with blue arrows." /> <span class="grid-line text-italic">Illustrations with context </span>
+      <img class="img-full" src="../images/illustrations-with-context.png" alt="Line drawings of a swab inserted into a nostril and a fluid vial held between fingertips with blue arrows." /> <span class="grid-line text-italic">Illustrations with context </span>
       <ul>
         <li>Use illustrations that provide physical context for the reader (e.g., include hands, noses). </li>
         <li>Keep illustrations simple, using only enough detail on features to clarify their purpose (e.g., a head does not need to include hair).</li>
@@ -613,12 +613,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Non-standard symbols.png" alt="Non-standard symbols representing power, off, on, Bluetooth, and sound with text labels." /> <span class="grid-line text-italic">Non-standard symbols</span>
+      <img class="img-full" src="../images/non-standard-symbols.png" alt="Non-standard symbols representing power, off, on, Bluetooth, and sound with text labels." /> <span class="grid-line text-italic">Non-standard symbols</span>
       <p>Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Standard symbols.png" alt="Standard symbols representing power, off, on, Bluetooth, and sound with text labels." /> <span class="grid-line text-italic">Standard symbols</span>
+      <img class="img-full" src="../images/standard-symbols.png" alt="Standard symbols representing power, off, on, Bluetooth, and sound with text labels." /> <span class="grid-line text-italic">Standard symbols</span>
       <p>Use unambiguous and globally accepted symbols. Follow the ISO 15223-1:2021 standard for symbols used on medical device packaging. Include [17] text labeling immediately adjacent to symbols (e.g., ‘Expiration Date’ next to hourglass symbol). </p>
     </div>
   </div>
@@ -627,12 +627,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Illustrations without realistic detail.png" alt="Side-by-side representations of an actual fluid vial and cassette with drawn versions of each. The cap in the drawn fluid vial illustration is incorrectly colored and the drawn cassette lacks the markings found on the actual cassette." /> <span class="grid-line text-italic">Illustrations without realistic detail </span>
+      <img class="img-full" src="../images/illustrations-without-realistic-detail.png" alt="Side-by-side representations of an actual fluid vial and cassette with drawn versions of each. The cap in the drawn fluid vial illustration is incorrectly colored and the drawn cassette lacks the markings found on the actual cassette." /> <span class="grid-line text-italic">Illustrations without realistic detail </span>
       <p>Illustrations that are not presented with details that match the actual component may cause confusion. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Illustrations with realistic detail.png" alt="Side-by-side representations of an actual vial and cassette with drawn versions of each that include details like correct cap color and markings found on the cassette." /> <span class="grid-line text-italic">Illustrations with realistic detail </span>
+      <img class="img-full" src="../images/illustrations-with-realistic-detail.png" alt="Side-by-side representations of an actual vial and cassette with drawn versions of each that include details like correct cap color and markings found on the cassette." /> <span class="grid-line text-italic">Illustrations with realistic detail </span>
       <ul>
         <li>Make sure illustrations match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cassette has text or other markings on it, include these in illustrations). </li>
         <li>Use grayscale as appropriate and retain outlining of gray features.</li>
@@ -644,12 +644,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Unreferenced exploded view image with overlapping elements.png" alt="Test instructions with illustration of a test kit, with individual components displayed floating above one another." /> <span class="grid-line text-italic">Unreferenced exploded view image with overlapping elements.</span>
+      <img class="img-full" src="../images/unreferenced-exploded-view-image-with-overlapping-elements.png" alt="Test instructions with illustration of a test kit, with individual components displayed floating above one another." /> <span class="grid-line text-italic">Unreferenced exploded view image with overlapping elements.</span>
       <p>Illustrations with elements that are overlapping and appear to be floating in space without a composite reference are difficult to decipher. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Referenced exploded view image without overlapping elements.png" alt="Test instructions with illustration of a test kit, with individual components assembled in box." /> <span class="grid-line text-italic">Referenced exploded view image without overlapping elements. </span>
+      <img class="img-full" src="../images/referenced-exploded-view-image-without-overlapping-elements.png" alt="Test instructions with illustration of a test kit, with individual components assembled in box." /> <span class="grid-line text-italic">Referenced exploded view image without overlapping elements. </span>
       <p>For exploded view illustrations: </p>
       <ul>
         <li> include a composite reference image;</li>
@@ -666,12 +666,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Information split along paper fold.png" alt="Close-up view of text column spilling over the folded edge of the page." /> <span class="grid-line text-italic">Information split along paper fold</span>
+      <img class="img-full" src="../images/information-split-along-paper-fold.png" alt="Close-up view of text column spilling over the folded edge of the page." /> <span class="grid-line text-italic">Information split along paper fold</span>
       <p>Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Information contained within folded panels.png" alt="Close-up view of text properly contained within a folded panel of the instructions, with no text extending beyond the line of the fold." /> <span class="grid-line text-italic">Information contained within folded panels </span>
+      <img class="img-full" src="../images/information-contained-within-folded-panels.png" alt="Close-up view of text properly contained within a folded panel of the instructions, with no text extending beyond the line of the fold." /> <span class="grid-line text-italic">Information contained within folded panels </span>
       <ul>
         <li>Ensure paper creases only appear in text column gutters so it is easier to scan parts of a folded document for OCR. </li>
         <li>Place all information needed to run the test on one side of the paper or card. The other side can be used for supporting information.</li>
@@ -683,7 +683,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Test instructions that require full unfolding.png" alt="MA test kit and fully unfolded set of instructions lie on a tabletop. The instructions extend off the edge of the table." /> <span class="grid-line text-italic">Test instructions that require full unfolding</span>
+      <img class="img-full" src="../images/test-instructions-that-require-full-unfolding.png" alt="MA test kit and fully unfolded set of instructions lie on a tabletop. The instructions extend off the edge of the table." /> <span class="grid-line text-italic">Test instructions that require full unfolding</span>
       <ul>
         <li>It can be difficult to physically place test instructions adjacent to test components due to size or material, which makes it difficult to reference instructions while using the test. </li>
         <li>Tests with fluid can result in spills that may deteriorate less robust instructional materials. </li>
@@ -691,7 +691,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Test instructions that can be unfolded by section" alt="A test kit and folded set of instructions lie on a tabletop. The instructions fit on the tabletop and are usable while folded." /> <span class="grid-line text-italic">Test instructions that can be unfolded by section</span>
+      <img class="img-full" src="../images/test-instructions-that-can-be-unfolded-by-section" alt="A test kit and folded set of instructions lie on a tabletop. The instructions fit on the tabletop and are usable while folded." /> <span class="grid-line text-italic">Test instructions that can be unfolded by section</span>
       <ul>
         <li>Provide test instructions in a form that allows placement adjacent to a test on a table. </li>
         <li>Consider that lighter paper weights allow instructions to lay flat. Use materials that can withstand some amount of liquid spill. If coatings are used, limit reflectivity.</li>
@@ -703,12 +703,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Test instructions are too large for scanning.png" alt="Mobile phone hovering at a distance over a large, open set of instructions." /> <span class="grid-line text-italic">Test instructions are too large for scanning </span>
+      <img class="img-full" src="../images/test-instructions-are-too-large-for-scanning.png" alt="Mobile phone hovering at a distance over a large, open set of instructions." /> <span class="grid-line text-italic">Test instructions are too large for scanning </span>
       <p>Paper (or similar) documents may be provided in an incompatible format for assistive technology. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Test instructions are an appropriate size for scanning.png" alt="Mobile phone hovering over a folded panel of test instructions." /> <span class="grid-line text-italic">Test instructions are an appropriate size for scanning </span>
+      <img class="img-full" src="../images/test-instructions-are-an-appropriate-size-for-scanning.png" alt="Mobile phone hovering over a folded panel of test instructions." /> <span class="grid-line text-italic">Test instructions are an appropriate size for scanning </span>
       <ul>
         <li>Provide paper (or similar) documents in panels no larger than 8.5 x 11 inches (216 x 279 mm) U.S. letter size to facilitate flatbed scanning. </li>
         <li>Use page numbers for multiple panels on the front and back.</li>
@@ -720,12 +720,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Test instructions without orientation cue.png" alt="An unfolded set of instructions with no tactile orientation cue." /> <span class="grid-line text-italic">Test instructions without orientation cue</span>
+      <img class="img-full" src="../images/test-instructions-without-orientation-cue.png" alt="An unfolded set of instructions with no tactile orientation cue." /> <span class="grid-line text-italic">Test instructions without orientation cue</span>
       <p>Physical instructions lack tactile, page orientation cues.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Test instructions with orientation cue.png" alt="An unfolded set of instructions with a diagonally cut corner as the tactile orientation cue." /> <span class="grid-line text-italic">Test instructions with orientation cue</span>
+      <img class="img-full" src="../images/test-instructions-with-orientation-cue.png" alt="An unfolded set of instructions with a diagonally cut corner as the tactile orientation cue." /> <span class="grid-line text-italic">Test instructions with orientation cue</span>
       <p>Include a tactile page orientation cue, typically a clipped upper right corner, on physical instructions.</p>
     </div>
   </div>
@@ -740,7 +740,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Assistive Technology Compatibility</li>
         <li>User Interface and Experience Features </li>
         <li>Standalone Audio Instructions</li>
-	    <li>Interactive Voice Response (IVR) System</li>
+        <li>Interactive Voice Response (IVR) System</li>
         <li>Video Tutorial</li>
       </ul>
     </div>
@@ -750,9 +750,9 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Operating System Compatibility</h4>
-		<img class="img-full" src="../images/Device operating systems.png" alt="Line drawings of a desktop computer, laptop computer, Android mobile phone, and an Apple mobile phone." /> <span class="grid-line text-italic">Device operating systems</span>
-		 <p>The ability for content to be recognized and understood by computer, smartphone, and tablet device operating systems (OS) and accessibility tools is vital for ensuring user access to information about the test. </p>
+      <h4>Operating System Compatibility</h4>
+      <img class="img-full" src="../images/device-operating-systems.png" alt="Line drawings of a desktop computer, laptop computer, Android mobile phone, and an Apple mobile phone." /> <span class="grid-line text-italic">Device operating systems</span>
+      <p>The ability for content to be recognized and understood by computer, smartphone, and tablet device operating systems (OS) and accessibility tools is vital for ensuring user access to information about the test. </p>
       <h5>Issue</h5>
       <ul>
         <li>Test instructions are provided in a format that is not  compatible with computer, smartphone, or tablet  device OS and accessibility tools</li>
@@ -762,17 +762,17 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-        <ul>
+      <ul>
         <li>Ensure application recognizes and supports native  device OS accessibility settings. Custom video  playback tools are not desirable.</li>
         <li>Recognize and apply the user’s system-wide  accessibility preferences (e.g., font sizing or  inverted colors) and provide an in-application option  to turn auditory/haptic feedback on or off. </li>
         <li>Enable dark mode option. </li>
-        <li>If the application requires data entry for sign-in/ results reporting:  </li>
-	    <ul>
-        <li>Enable autofill and/or single sign-on (SSO)  through Google, Apple, Facebook, etc.</li>
-        <li>Clarify which data entry fields are required  versus optional. </li>
-        <li>Save partial data (e.g., create a user profile) so  user does not have to input data again for repeat  testing. </li>
-		<li>Ensure that all data entry fields are assigned  screen reader-compatible labels.  </li>
-      </ul>
+        <li>If the application requires data entry for sign-in/ results reporting: </li>
+        <ul>
+          <li>Enable autofill and/or single sign-on (SSO)  through Google, Apple, Facebook, etc.</li>
+          <li>Clarify which data entry fields are required  versus optional. </li>
+          <li>Save partial data (e.g., create a user profile) so  user does not have to input data again for repeat  testing. </li>
+          <li>Ensure that all data entry fields are assigned  screen reader-compatible labels. </li>
+        </ul>
       </ul>
     </div>
   </div>
@@ -781,21 +781,21 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Assistive Technology Compatibility</h4>
-		 <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has [18] undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. </p>
+      <h4>Assistive Technology Compatibility</h4>
+      <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has [18] undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. </p>
       <h5>Issue</h5>
       <p>Test instructions are provided in a format that is not  web or mobile accessible and/or is incompatible with  native device operating system (OS) accessibility  features. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-        <ul>
+      <ul>
         <li>Digital test instructions should be housed on a  webpage that applies responsive web design. </li>
         <li>Audit all relevant webpages for WCAG 2.1 AA  compliance with experienced digital accessibility  professionals to ensure compatibility with assistive  technology. Complete a follow-up audit for WCAG  2.1 AA compliance following any remediation efforts. </li>
         <li>Reference and implement best practices for making  application content web accessible and mobile [19] accessible. [20] </li>
         <li>Ensure the test instructions are available as a PDF  that conforms to Section 508, WCAG 2.1 AA, and PDF/ Universal Accessibility (UA) standards. [21] 
-Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see 8.3 Language).  </li>
+          Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see 8.3 Language). </li>
         <li>Ensure all images have meaningful, descriptive  alt text (see that 8.3 Language • Alternative Text) supports nonvisual discernment of kit components  (e.g., by shape, size, feel). </li>
-		<li>Ensure all form fields, buttons, and other interactive elements have accessible names/labels.   </li>
+        <li>Ensure all form fields, buttons, and other interactive elements have accessible names/labels. </li>
         <li>Provide a digital accessible information system (DAISY) format of the test instructions with sections and subsections defined in the file.</li>
         <li>Provide a direct link on the product website to a full  digital version of the test instructions.</li>
       </ul>
@@ -806,12 +806,12 @@ Note that while Section 508 compliance indicates  an accessible digital file for
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Formatting incompatible with screen reader.png" alt="Desktop computer with a document on the screen and also on a mobile device." /> <span class="grid-line text-italic">Formatting incompatible with screen reader </span>
+      <img class="img-full" src="../images/formatting-incompatible-with-screen-reader.png" alt="Desktop computer with a document on the screen and also on a mobile device." /> <span class="grid-line text-italic">Formatting incompatible with screen reader </span>
       <p>Not all digital test instructions are compatible with  screen readers. Key elements are often coded  incorrectly or in a format that screen readers cannot  detect, meaning content may be out of order,  incomplete, or incomprehensible. Test instructions may  be provided in a format that is not compatible with use  on a smartphone or tablet or that cannot be digested  by native OS accessibility features.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Formatting compatible with screen readers.png" alt="Desktop computer with a full-width webpage on the screen and also on a mobile device." /> <span class="grid-line text-italic">Formatting compatible with screen readers</span>
+      <img class="img-full" src="../images/formatting-compatible-with-screen-readers.png" alt="Desktop computer with a full-width webpage on the screen and also on a mobile device." /> <span class="grid-line text-italic">Formatting compatible with screen readers</span>
       <p>Ensure digital test instructions are compatible with all  commonly used screen reader and operating system  combinations. Confirm both computer and mobile  screen reader compatibility of every screen element  (e.g., images, fields, buttons).</p>
     </div>
   </div>
@@ -820,9 +820,9 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>User Interface and Experience Features</h4>
-		<img class="img-full" src="../images/User interface and experience considerations.png" alt="Three examples of mobile phone screens. The first screen shows an application in the analyzing process with a timer showing time remaining. The second screen shows Step 1 of 8 with block text. The third example shows a warning popping up on the screen with a warning symbol in red text." /> <span class="grid-line text-italic">User interface and experience considerations </span>
-		 <p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in user interface design can have a major impact on the entire user experience.</p>
+      <h4>User Interface and Experience Features</h4>
+      <img class="img-full" src="../images/user-interface-and-experience-considerations.png" alt="Three examples of mobile phone screens. The first screen shows an application in the analyzing process with a timer showing time remaining. The second screen shows Step 1 of 8 with block text. The third example shows a warning popping up on the screen with a warning symbol in red text." /> <span class="grid-line text-italic">User interface and experience considerations </span>
+      <p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in user interface design can have a major impact on the entire user experience.</p>
     </div>
   </div>
 </div>
@@ -830,15 +830,15 @@ Note that while Section 508 compliance indicates  an accessible digital file for
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Important information integrated into text.png" alt="Mobile screen with small warning symbol in line with text." /> <span class="grid-line text-italic">Important information integrated into text</span>
-      <p>Some important content can be missed with the  use of a digital user interface if the content is not  appropriately segmented.  </p>
+      <img class="img-full" src="../images/important-information-integrated-into-text.png" alt="Mobile screen with small warning symbol in line with text." /> <span class="grid-line text-italic">Important information integrated into text</span>
+      <p>Some important content can be missed with the  use of a digital user interface if the content is not  appropriately segmented. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Important information presented in pop-up.png" alt="Mobile screen with important information displayed as a pop-up screen containing targeted additional information." /> <span class="grid-line text-italic">Important information presented in pop-up </span>
-       <ul>
+      <img class="img-full" src="../images/important-information-presented-in-pop-up.png" alt="Mobile screen with important information displayed as a pop-up screen containing targeted additional information." /> <span class="grid-line text-italic">Important information presented in pop-up </span>
+      <ul>
         <li>Provide pop-up messages for important content  that remains on screen until user provides input to  acknowledge the message. </li>
-        <li>Errors, warnings, and success messages should not  automatically disappear until the user acknowledges the message.  </li>
+        <li>Errors, warnings, and success messages should not  automatically disappear until the user acknowledges the message. </li>
       </ul>
     </div>
   </div>
@@ -847,9 +847,9 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Standalone Audio Instructions </h4>
-		<img class="img-full" src="../images/Multiple platforms supporting audio content.png" alt="Desktop computer with audio/sound symbol. A hand holding a mobile phone that shows an audio file being played." /> <span class="grid-line text-italic">Multiple platforms supporting audio content  </span>
-		 <p>Audio may be the preferred mode for some users to receive test instructions. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
+      <h4>Standalone Audio Instructions </h4>
+      <img class="img-full" src="../images/multiple-platforms-supporting-audio-content.png" alt="Desktop computer with audio/sound symbol. A hand holding a mobile phone that shows an audio file being played." /> <span class="grid-line text-italic">Multiple platforms supporting audio content </span>
+      <p>Audio may be the preferred mode for some users to receive test instructions. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
     </div>
   </div>
 </div>
@@ -857,30 +857,29 @@ Note that while Section 508 compliance indicates  an accessible digital file for
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-       <ul>
+      <ul>
         <li>Audio test instructions are not always available. </li>
-        <li>Audio test instructions alone are not always  sufficient for full understanding.  </li>
-	   <li>Audio test instructions, when available, can only be  accessed indirectly (e.g., via a webpage).   </li>
+        <li>Audio test instructions alone are not always  sufficient for full understanding. </li>
+        <li>Audio test instructions, when available, can only be  accessed indirectly (e.g., via a webpage). </li>
       </ul>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-       <ul>
-        <li>Audio test instructions should always utilize the  copy and alt text as the script.  </li>
-		   <ul>
-        <li>Written instructions and alt text together should  provide enough description of components and  actions for understanding without visual reference.  </li>
-      </ul>
+      <ul>
+        <li>Audio test instructions should always utilize the  copy and alt text as the script. </li>
+        <ul>
+          <li>Written instructions and alt text together should  provide enough description of components and  actions for understanding without visual reference. </li>
+        </ul>
         <li>Audio test instructions should be available in  easy-to-navigate formats.</li>
-		<li>Use of professional human voice is preferred to  create the audio, but clear text-to-speech (TTS)  engines may be used as an alternative. Audio  test instructions may be provided as part of a tutorial video (see 8.6 Digital Embodiment • Video Tutorial). Suitable file formats for standalone audio instructions include: </li>
-		   <ul>
-        <li>Podcast type file (M4A) with all sections of  the test instructions included as time stamped  chapters or episodes. Alternative open file types  that support meta data and navigational features  may be used.</li>
-		<li>DAISY audiobook file with sections of the test  instructions included as chapters. </li>
-      </ul>
-    <li> Enable direct access to complete audio test instructions via radio frequency identification (RFID) tags on the outer box.  </li>
-		   <ul>
-        <li>En-Vision America’s ScripTalk and CVS [22] Pharmacy’s Spoken Rx are examples of [23] such services. 
- </li>
-      </ul>
+        <li>Use of professional human voice is preferred to  create the audio, but clear text-to-speech (TTS)  engines may be used as an alternative. Audio  test instructions may be provided as part of a tutorial video (see 8.6 Digital Embodiment • Video Tutorial). Suitable file formats for standalone audio instructions include: </li>
+        <ul>
+          <li>Podcast type file (M4A) with all sections of  the test instructions included as time stamped  chapters or episodes. Alternative open file types  that support meta data and navigational features  may be used.</li>
+          <li>DAISY audiobook file with sections of the test  instructions included as chapters. </li>
+        </ul>
+        <li> Enable direct access to complete audio test instructions via radio frequency identification (RFID) tags on the outer box. </li>
+        <ul>
+          <li>En-Vision America’s ScripTalk and CVS [22] Pharmacy’s Spoken Rx are examples of [23] such services. </li>
+        </ul>
       </ul>
     </div>
   </div>
@@ -889,9 +888,9 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Interactive Voice Response (IVR) System</h4>
-		<img class="img-full" src="../images/Interactive Voice Response (IVR) System.png" alt="Landline phone with a dial pad. Illustration of a human face speaking in the direction of the phone." /> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span>
-		 <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users who are less familiar with using web or mobile applications. Connecting users to test instructions via telephone allows them to use a well known, expected instruction format.</p>
+      <h4>Interactive Voice Response (IVR) System</h4>
+      <img class="img-full" src="../images/interactive-voice-response-(ivr)-system.png" alt="Landline phone with a dial pad. Illustration of a human face speaking in the direction of the phone." /> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span>
+      <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users who are less familiar with using web or mobile applications. Connecting users to test instructions via telephone allows them to use a well known, expected instruction format.</p>
     </div>
   </div>
 </div>
@@ -899,7 +898,7 @@ Note that while Section 508 compliance indicates  an accessible digital file for
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Test Instructions without IVR availability.png" alt="Test instructions without a customer service phone number for accessing information via IVR system." /> <span class="grid-line text-italic">Test Instructions without IVR availability </span>
+      <img class="img-full" src="../images/test-instructions-without-ivr-availability.png" alt="Test instructions without a customer service phone number for accessing information via IVR system." /> <span class="grid-line text-italic">Test Instructions without IVR availability </span>
       <ul>
         <li>Test instructions are not always available by phone. </li>
         <li>Audio test instructions made available via phone are  not navigable by section and step. </li>
@@ -907,8 +906,8 @@ Note that while Section 508 compliance indicates  an accessible digital file for
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Test Instructions with IVR availability.png" alt="Test instructions that include a customer service phone number with a phone symbol next to it for accessing information via IVR system." /> <span class="grid-line text-italic">Test Instructions with IVR availability  </span>
-       <ul>
+      <img class="img-full" src="../images/test-instructions-with-ivr-availability.png" alt="Test instructions that include a customer service phone number with a phone symbol next to it for accessing information via IVR system." /> <span class="grid-line text-italic">Test Instructions with IVR availability </span>
+      <ul>
         <li>Provide audio test instructions via phone.</li>
         <li> Implement an IVR system where caller responds to  prompts via button presses or spoken statements  associated with actions, including navigation (e.g.,  continue to next step, repeat current step, return to  previous step, return to main menu, connect to a  live agent).</li>
       </ul>
@@ -919,9 +918,9 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Video Tutorial</h4>
-		<img class="img-full" src="../images/Video demonstration of test procedure.png" alt="Video screen showing a vial docking to a cassette." /> <span class="grid-line text-italic">Video demonstration of test procedure </span>
-		 <p>Videos can be an effective way to inform users about  the product. They provide dynamic demonstrations  to learners who prefer to process information visually  and audibly. Executed well, they can also provide an  improved audio instruction experience versus screen  reading digital instructions. </p>
+      <h4>Video Tutorial</h4>
+      <img class="img-full" src="../images/video-demonstration-of-test-procedure.png" alt="Video screen showing a vial docking to a cassette." /> <span class="grid-line text-italic">Video demonstration of test procedure </span>
+      <p>Videos can be an effective way to inform users about  the product. They provide dynamic demonstrations  to learners who prefer to process information visually  and audibly. Executed well, they can also provide an  improved audio instruction experience versus screen  reading digital instructions. </p>
     </div>
   </div>
 </div>
@@ -932,28 +931,28 @@ Note that while Section 508 compliance indicates  an accessible digital file for
       <ul>
         <li>Video test instructions are not always provided on  websites or applications. </li>
         <li>Some videos do not provide the ability to pause,  rewind, or forward in discrete increments, making  it challenging to jump to the step a user is trying to  review. </li>
-		<li>Visuals with actors completing steps can be  challenging to follow due to issues with lighting and  contrast and general visual complexity.  </li>
+        <li>Visuals with actors completing steps can be  challenging to follow due to issues with lighting and  contrast and general visual complexity. </li>
         <li>An abbreviated version of a longer video allows  users to skip the complete video and miss important  steps. </li>
-		<li>Automatically looping videos can be distracting and  challenging to navigate.  </li>
-		<li>Closed captions are not always provided or are not  properly synchronized.  </li>
-		<li>Audio description – description of a video’s visual elements – is not provided, not easy to locate, and/or does not provide sufficient nonvisual context.</li>
+        <li>Automatically looping videos can be distracting and  challenging to navigate. </li>
+        <li>Closed captions are not always provided or are not  properly synchronized. </li>
+        <li>Audio description – description of a video’s visual elements – is not provided, not easy to locate, and/or does not provide sufficient nonvisual context.</li>
       </ul>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-       <ul>
+      <ul>
         <li>Make video test instructions available via the  product website </li>
         <li>Confirm video player is accessible. [24, 25] </li>
-		<li>Provide the ability to control video playback  including pause/play, rewind, forward, replay from  the beginning, scroll through time or advance  incrementally, and switch to full screen mode.   </li>
-        <li>Use high-contrast 2D animations with perspective/ depth and appropriate fill instead of live action.  </li>
-		<li>Do not provide an abbreviated version of a longer  video.</li>
-		<li>Avoid looping videos and/or audio with no ability to  pause.</li>
-		<li>Ensure closed captions are provided and  synchronized with the video and audio content. [26] </li>
-		<li>If the video tutorial is embedded in an application,  allow skipping the video after it has been viewed  once. </li>
+        <li>Provide the ability to control video playback  including pause/play, rewind, forward, replay from  the beginning, scroll through time or advance  incrementally, and switch to full screen mode. </li>
+        <li>Use high-contrast 2D animations with perspective/ depth and appropriate fill instead of live action. </li>
+        <li>Do not provide an abbreviated version of a longer  video.</li>
+        <li>Avoid looping videos and/or audio with no ability to  pause.</li>
+        <li>Ensure closed captions are provided and  synchronized with the video and audio content. [26] </li>
+        <li>If the video tutorial is embedded in an application,  allow skipping the video after it has been viewed  once. </li>
         <li>Consistent with providing alt text for 508 compliance include complete audio description. Refer to Digital. gov’s “508 Accessible Videos – How to Make Audio  Descriptions” for details. [27] </li>
-		<li> Provide audio description within the main audio, or,  preferably, as an option enabled by the user. [28] </li>
-		<li> Include timestamps on the player for easy  navigation to specific sections (e.g., getting started,  workflow, interpreting results). Use native device OS  video controls. </li>
-		<li>Ensure on-screen buttons conform to WCAG 2.2  success criterion 2.5.8. [29]</li>
+        <li> Provide audio description within the main audio, or,  preferably, as an option enabled by the user. [28] </li>
+        <li> Include timestamps on the player for easy  navigation to specific sections (e.g., getting started,  workflow, interpreting results). Use native device OS  video controls. </li>
+        <li>Ensure on-screen buttons conform to WCAG 2.2  success criterion 2.5.8. [29]</li>
       </ul>
     </div>
   </div>
@@ -968,9 +967,9 @@ Note that while Section 508 compliance indicates  an accessible digital file for
         <li>9.2 Kit </li>
         <li>9.3 Swab </li>
         <li>9.4 Fluid Vials and Sample Preparation</li>
-	    <li>9.5 Cassette</li>
+        <li>9.5 Cassette</li>
         <li>9.6 Test Reader</li>
-		<li>9.7 Disposal </li>
+        <li>9.7 Disposal </li>
       </ul>
     </div>
   </div>
@@ -979,9 +978,9 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Outer Packaging </h4>
-		<ul>
-        <li>Labeling   </li>
+      <h4>Outer Packaging </h4>
+      <ul>
+        <li>Labeling </li>
         <li>Accessing Contents</li>
       </ul>
     </div>
@@ -990,21 +989,19 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Labeling</h4>
-		<img class="img-full" src="../images/Box with examples of good identification features.png" alt="Line drawing of a box with clearly visible text, logo, and QR code." /> <span class="grid-line text-italic">Box with examples of good identification features  </span>
-		 <p>The outer box packaging is the initial introduction to  any device, so labeling and interaction with the outer  packaging should be carefully considered. Packaging  typically conveys information through text, images,  and symbols. Packaging can also convey information  through shape and links to external information (e.g.,  QR codes). </p>
+      <h4>Labeling</h4>
+      <img class="img-full" src="../images/box-with-examples-of-good-identification-features.png" alt="Line drawing of a box with clearly visible text, logo, and QR code." /> <span class="grid-line text-italic">Box with examples of good identification features </span>
+      <p>The outer box packaging is the initial introduction to  any device, so labeling and interaction with the outer  packaging should be carefully considered. Packaging  typically conveys information through text, images,  and symbols. Packaging can also convey information  through shape and links to external information (e.g.,  QR codes). </p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Box labeling viewable in only one orientation.png" alt="Array of three boxes, where only one side of labeling content is visible." /> <span class="grid-line text-italic">Box labeling viewable in only one orientation  </span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/box-labeling-viewable-in-only-one-orientation.png" alt="Array of three boxes, where only one side of labeling content is visible." /> <span class="grid-line text-italic">Box labeling viewable in only one orientation </span>
       <h5>Issue</h5>
       <p>Packages are often inadequately labeled and missing  critical information. </p>
     </div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Box labeling viewable in multiple orientations.png" alt="Three boxes positioned in different orientations on a shelf, each with labeling content visible on exposed panel." /> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/box-labeling-viewable-in-multiple-orientations.png" alt="Three boxes positioned in different orientations on a shelf, each with labeling content visible on exposed panel." /> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
       <h5>Recommendation</h5>
       <p>Consider how the package might be displayed (e.g., on  a shelf in a retail setting) and what information the user  will find most useful.</p>
     </div>
@@ -1012,54 +1009,48 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Box labeling with poor legibility.png" alt="Box illustration with small text on the label." /> <span class="grid-line text-italic">Box labeling with poor legibility  </span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/box-labeling-with-poor-legibility.png" alt="Box illustration with small text on the label." /> <span class="grid-line text-italic">Box labeling with poor legibility </span>
       <h5>Issue</h5>
       <ul>
-        <li>Outer box label information is presented without  visual hierarchy.  </li>
+        <li>Outer box label information is presented without  visual hierarchy. </li>
         <li>Outer box labeling is cluttered with excess  information in a small font.</li>
       </ul>
     </div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Box labeling with improved legibility.png" alt="Box illustration with larger, more legible text on the label." /> <span class="grid-line text-italic">Box labeling with improved legibility</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/box-labeling-with-improved-legibility.png" alt="Box illustration with larger, more legible text on the label." /> <span class="grid-line text-italic">Box labeling with improved legibility</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Prioritize key information including brand  name, device type, expiration date, links to test  instructions, and customer service number by  size and position. Ensure labeling complies with  regulatory bodies’ requirements.</li>
-		<li>Use minimum 14 point and ideally 18 point or larger font and legible sans serif typeface (e.g., Arial, Calibri, Helvetica, Verdana, etc.). Do not use  decorative typefaces (e.g., Script, Slab)</li>
-	    <li>Use effective color contrast (see 8.1 Legibility).</li>
+        <li>Use minimum 14 point and ideally 18 point or larger font and legible sans serif typeface (e.g., Arial, Calibri, Helvetica, Verdana, etc.). Do not use  decorative typefaces (e.g., Script, Slab)</li>
+        <li>Use effective color contrast (see 8.1 Legibility).</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/QR code is too small to easily locate.png" alt="Box and label with small QR code in the corner of the label." /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/qr-code-is-too-small-to-easily-locate.png" alt="Box and label with small QR code in the corner of the label." /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
       <h5>Issue</h5>
       <ul>
-        <li>QR codes are often missing or insufficiently sized.  </li>
+        <li>QR codes are often missing or insufficiently sized. </li>
         <li>Expiration date format is not recognizable by  common OCR applications. </li>
       </ul>
     </div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/QR code is large and readily discoverable.png" alt="Box and label with large QR code in the corner of the label. " /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/qr-code-is-large-and-readily-discoverable.png" alt="Box and label with large QR code in the corner of the label. " /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Present QR codes in a size 0.8 inches (20.3 mm)  square or larger to align with current industry  practice. </li>
-		<li>See for guidance on expiration date 8.1 Legibility formatting. </li>
+        <li>See for guidance on expiration date 8.1 Legibility formatting. </li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Example of a flat QR.png" alt="Box with QR code printed on the surface. Zoomed-in image shows that the QR code is flat and even with the surface of the box." /> <span class="grid-line text-italic">Example of a flat QR</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/example-of-a-flat-qr.png" alt="Box with QR code printed on the surface. Zoomed-in image shows that the QR code is flat and even with the surface of the box." /> <span class="grid-line text-italic">Example of a flat QR</span>
       <h5>Issue</h5>
       <p>Outer packaging may make it difficult to find or access  information. </p>
     </div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Alternative to flat QR code.png" alt="Box with raised QR code sticker." /> <span class="grid-line text-italic">Alternative to flat QR code</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/alternative-to-flat-qr-code.png" alt="Box with raised QR code sticker." /> <span class="grid-line text-italic">Alternative to flat QR code</span>
       <h5>Recommendation</h5>
       <p>Provide a tactile means for finding information (e.g.,  QR code on sticker or within a raised outline).</p>
     </div>
@@ -1069,48 +1060,44 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Accessing Contents</h4>
-		<img class="img-full" src="../images/Package with tamper-evident seal.png" alt="Test kit box with a seal keeping the box closed." /> <span class="grid-line text-italic">Package with tamper-evident seal  </span>
-		 <p>Opening and accessing contents of outer packaging requires a balance of competing needs: </p>
-		<ul>
+      <h4>Accessing Contents</h4>
+      <img class="img-full" src="../images/package-with-tamper-evident-seal.png" alt="Test kit box with a seal keeping the box closed." /> <span class="grid-line text-italic">Package with tamper-evident seal </span>
+      <p>Opening and accessing contents of outer packaging requires a balance of competing needs: </p>
+      <ul>
         <li>preventing unauthorized users from tampering with contents;</li>
-		<li>ensuring the package is easy to open for all users; and </li>
-		<li>protecting internal components.</li>
+        <li>ensuring the package is easy to open for all users; and </li>
+        <li>protecting internal components.</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Difficult to remove tamper-evident seal.png" alt="Test kit box with a small, clear, round tamper-evident seal." /> <span class="grid-line text-italic">Difficult to remove tamper-evident seal   </span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/difficult-to-remove-tamper-evident-seal.png" alt="Test kit box with a small, clear, round tamper-evident seal." /> <span class="grid-line text-italic">Difficult to remove tamper-evident seal </span>
       <h5>Issue</h5>
       <ul>
-        <li> It can be challenging to find and remove small,  clear, tamper-evident seals.  </li>
+        <li> It can be challenging to find and remove small,  clear, tamper-evident seals. </li>
         <li>Users may resort to external tools such as scissors  to open a challenging package, which may result in  damaged contents. </li>
-		<li>Tearing open a package without removing the seal  may result in damage to the package and the fluid  vial holder if it is integrated into the outer box.</li>
+        <li>Tearing open a package without removing the seal  may result in damage to the package and the fluid  vial holder if it is integrated into the outer box.</li>
       </ul>
     </div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Easy to remove tamper-evident seal.png" alt="Test kit box with a large, high-contrast tamper-evident seal." /> <span class="grid-line text-italic">Easy to remove tamper-evident seal</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/easy-to-remove-tamper-evident-seal.png" alt="Test kit box with a large, high-contrast tamper-evident seal." /> <span class="grid-line text-italic">Easy to remove tamper-evident seal</span>
       <h5>Recommendation</h5>
       <ul>
         <li>The tamper-evident seal should be a contrasting  color to the rest of the package.</li>
-		<li>For easy removal without the use of external  tools, the seal should include a grasp feature with  sufficient graspable area (e.g., at least 0.5 inches  [12.7 mm] square). </li>
-	    <li>Force required to remove a tamper-evident seal  should not exceed 5 lbs. (22.2 N). [30]</li>
+        <li>For easy removal without the use of external  tools, the seal should include a grasp feature with  sufficient graspable area (e.g., at least 0.5 inches  [12.7 mm] square). </li>
+        <li>Force required to remove a tamper-evident seal  should not exceed 5 lbs. (22.2 N). [30]</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Package without intuitive opening.png" alt="Closed test kit box." /> <span class="grid-line text-italic">Package without intuitive opening    </span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/package-without-intuitive-opening.png" alt="Closed test kit box." /> <span class="grid-line text-italic">Package without intuitive opening </span>
       <h5>Issue</h5>
-     <p>It can be challenging to open a package when the only  indication regarding top, bottom, front, and back is  through visual, printed labeling.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Packages with opening cues.png" alt="Two test kit boxes with different opening mechanisms – a half-moon thumb cutout and overlapping flaps. Each of the opening mechanisms has an arrow indicating opening motion." /> <span class="grid-line text-italic">Packages with opening cues </span>
+      <p>It can be challenging to open a package when the only  indication regarding top, bottom, front, and back is  through visual, printed labeling.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/packages-with-opening-cues.png" alt="Two test kit boxes with different opening mechanisms – a half-moon thumb cutout and overlapping flaps. Each of the opening mechanisms has an arrow indicating opening motion." /> <span class="grid-line text-italic">Packages with opening cues </span>
       <h5>Recommendation</h5>
       <p>Provide familiar tactile cues on the packaging  indicating where a package should be opened (e.g.,  thumb cutout, overlapping flaps).</p>
     </div>
@@ -1120,8 +1107,8 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Kit </h4>
-		<ul>
+      <h4>Kit </h4>
+      <ul>
         <li>Organization </li>
         <li>Internal Pouches</li>
       </ul>
@@ -1131,21 +1118,19 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Organization</h4>
-		<img class="img-full" src="../images/Kit contents.png" alt="Open test kit box with kit contents inside the box. Each component is lying flat within a fixed tray inside the box." /> <span class="grid-line text-italic">Kit contents</span>
-		 <p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing package components thoughtfully can greatly enhance the user’s ability to complete the test. A tray is an optional accessory for organizing components and improving the user experience. </p>
+      <h4>Organization</h4>
+      <img class="img-full" src="../images/kit-contents.png" alt="Open test kit box with kit contents inside the box. Each component is lying flat within a fixed tray inside the box." /> <span class="grid-line text-italic">Kit contents</span>
+      <p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing package components thoughtfully can greatly enhance the user’s ability to complete the test. A tray is an optional accessory for organizing components and improving the user experience. </p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Loose contents inside box packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging    </span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/loose-contents-inside-box-packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging </span>
       <h5>Issue</h5>
-     <p>Internal, physical test instructions and key information can be difficult to find.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Contents neatly organized within box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized within box</span>
+      <p>Internal, physical test instructions and key information can be difficult to find.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/contents-neatly-organized-within-box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized within box</span>
       <h5>Recommendation</h5>
       <p>Provide legible (see 8.1 Legibility) test instructions face up as the first thing users encounter.</p>
     </div>
@@ -1153,15 +1138,13 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Loose contents inside box packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/loose-contents-inside-box-packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging</span>
       <h5>Issue</h5>
-     <p>Packages can have multiple components and internal pouches loosely placed inside. When opened, the contents can fall out and be misplaced. The order in which internal pouches or components are meant to be opened is unclear.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Contents neatly organized within box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized in a tray or a tear pouch</span>
+      <p>Packages can have multiple components and internal pouches loosely placed inside. When opened, the contents can fall out and be misplaced. The order in which internal pouches or components are meant to be opened is unclear.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/contents-neatly-organized-within-box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized in a tray or a tear pouch</span>
       <h5>Recommendation</h5>
-   <ul>
+      <ul>
         <li>Place contents in an organized and/or fixed manner (e.g., tray, bag, card, box dividers, etc.), in clear order of use.</li>
         <li>If including a tray, provide ample finger clearance and gripping space/features (e.g., pull tabs) for removing the tray from the box and components from the tray.</li>
       </ul>
@@ -1170,13 +1153,11 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Internal tray without labeling.png" alt="An internal tray with pockets for two pouched items and a dropper vial. There is no labeling on the tray or items." /> <span class="grid-line text-italic">Internal tray without labeling</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/internal-tray-without-labeling.png" alt="An internal tray with pockets for two pouched items and a dropper vial. There is no labeling on the tray or items." /> <span class="grid-line text-italic">Internal tray without labeling</span>
       <h5>Issue</h5>
-     <p>Components in internal tray can be difficult to identify</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Internal tray with high-contrast labeling.png" alt="An internal tray with pockets for two pouched items and a dropper vial. The pocket areas of the tray are labeled." /> <span class="grid-line text-italic">Internal tray with high-contrast labeling</span>
+      <p>Components in internal tray can be difficult to identify</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/internal-tray-with-high-contrast-labeling.png" alt="An internal tray with pockets for two pouched items and a dropper vial. The pocket areas of the tray are labeled." /> <span class="grid-line text-italic">Internal tray with high-contrast labeling</span>
       <h5>Recommendation</h5>
       <p>Include high-contrast component text labels on internal tray.</p>
     </div>
@@ -1184,13 +1165,11 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Fluid vial holder location hinders workflow.png" alt="A package with fluid vial placed in front corner of box. The box has a tray with other components placed inside. A hand is shown bumping into the vial, and the vial is outlined in red to indicate a nonideal placement in the tray." /> <span class="grid-line text-italic">Fluid vial holder location hinders workflow</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/fluid-vial-holder-location-hinders-workflow.png" alt="A package with fluid vial placed in front corner of box. The box has a tray with other components placed inside. A hand is shown bumping into the vial, and the vial is outlined in red to indicate a nonideal placement in the tray." /> <span class="grid-line text-italic">Fluid vial holder location hinders workflow</span>
       <h5>Issue</h5>
-     <p>There is a risk of unintentional spillage when the fluid vial holder in a tray is improperly positioned.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Fluid vial location aligns with workflow.png" alt="A package with fluid vial placed in back corner of box. The box has a tray with other components placed inside. A hand is reaching toward the tray components. The vial is suitably placed so it will not be backtracked over during the workflow." /> <span class="grid-line text-italic">Fluid vial location aligns with workflow</span>
+      <p>There is a risk of unintentional spillage when the fluid vial holder in a tray is improperly positioned.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/fluid-vial-location-aligns-with-workflow.png" alt="A package with fluid vial placed in back corner of box. The box has a tray with other components placed inside. A hand is reaching toward the tray components. The vial is suitably placed so it will not be backtracked over during the workflow." /> <span class="grid-line text-italic">Fluid vial location aligns with workflow</span>
       <h5>Recommendation</h5>
       <p>The fluid vial holder should be positioned strategically in the tray to prevent unintentional disruption.</p>
     </div>
@@ -1199,22 +1178,19 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <hr />
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Internal Pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
-	<h4>Internal Pouches</h4>
-		<p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. [30] Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches.</p>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/internal-pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
+      <h4>Internal Pouches</h4>
+      <p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. [30] Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches.</p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Parts are packaged in foil pouches with the same form factor.png" alt="Three pouches with their contents visible inside. Each pouch shares the same form factor, specifically a foil pouch that opens by tearing off the top." /> <span class="grid-line text-italic">Parts are packaged in foil pouches with the same form factor</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/parts-are-packaged-in-foil-pouches-with-the-same-form-factor.png" alt="Three pouches with their contents visible inside. Each pouch shares the same form factor, specifically a foil pouch that opens by tearing off the top." /> <span class="grid-line text-italic">Parts are packaged in foil pouches with the same form factor</span>
       <h5>Issue</h5>
-     <p>Internal pouches that are similar in size, shape, and/or material, or insufficiently labeled, may be difficult to distinguish from one another.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Parts are packaged with distinct materials and form factors.png" alt="A swab pouch designed as a slender sleeve that peels apart. A test device in a foil pouch that tears at the top. A single fluid vial without packaging." /> <span class="grid-line text-italic">Parts are packaged with distinct materials and form factors</span>
+      <p>Internal pouches that are similar in size, shape, and/or material, or insufficiently labeled, may be difficult to distinguish from one another.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/parts-are-packaged-with-distinct-materials-and-form-factors.png" alt="A swab pouch designed as a slender sleeve that peels apart. A test device in a foil pouch that tears at the top. A single fluid vial without packaging." /> <span class="grid-line text-italic">Parts are packaged with distinct materials and form factors</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Ensure that each pouched component is tactilely discernible from others (e.g., distinct internal pouch shapes/sizes).</li>
@@ -1225,13 +1201,11 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Pouch without clear indication for tear location.png" alt="Pouch with small indents that indicate where to tear open." /> <span class="grid-line text-italic">Pouch without clear indication for tear location</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/pouch-without-clear-indication-for-tear-location.png" alt="Pouch with small indents that indicate where to tear open." /> <span class="grid-line text-italic">Pouch without clear indication for tear location</span>
       <h5>Issue</h5>
-     <p>Internal pouches may be difficult to open.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Pouch with evident tear locations.png" alt="Pouch with larger indents, and an arrow with the text “Tear here” to indicate where to tear open." /> <span class="grid-line text-italic">Pouch with evident tear locations</span>
+      <p>Internal pouches may be difficult to open.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/pouch-with-evident-tear-locations.png" alt="Pouch with larger indents, and an arrow with the text “Tear here” to indicate where to tear open." /> <span class="grid-line text-italic">Pouch with evident tear locations</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Pouches should contain a notch labeled with high- contrast text or an arrow indicating tear location.</li>
@@ -1242,16 +1216,14 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Swab packaging with swab tip near small peel tab.png" alt="Partially peeled swab sleeve with the open end of the sleeve revealing the swab tip." /> <span class="grid-line text-italic">Swab packaging with swab tip near small peel tab</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/swab-packaging-with-swab-tip-near-small-peel-tab.png" alt="Partially peeled swab sleeve with the open end of the sleeve revealing the swab tip." /> <span class="grid-line text-italic">Swab packaging with swab tip near small peel tab</span>
       <h5>Issue</h5>
-     <ul>
+      <ul>
         <li>Peel-apart pouches have layers that are challenging to differentiate and separate.</li>
         <li>Internal packaging may present a method for opening that exposes an area to contamination through touch.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Swab packaging with swab handle near opening.png" alt="Partially peeled swab sleeve with the open end of the sleeve revealing the swab handle. The front, plastic part of the sleeve has a half-circle cutout to make it easier to separate and grasp." /> <span class="grid-line text-italic">Swab packaging with swab handle near opening</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/swab-packaging-with-swab-handle-near-opening.png" alt="Partially peeled swab sleeve with the open end of the sleeve revealing the swab handle. The front, plastic part of the sleeve has a half-circle cutout to make it easier to separate and grasp." /> <span class="grid-line text-italic">Swab packaging with swab handle near opening</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Include half-moon cutout in one of the peel-apart pouch layers or fold-over of one of the peel-apart pouch layers.</li>
@@ -1264,19 +1236,17 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Swab</h4>
+      <h4>Swab</h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Swab without handling feature.png" alt="Swab with soft tip and narrow shaft." /> <span class="grid-line text-italic">Swab without handling feature</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/swab-without-handling-feature.png" alt="Swab with soft tip and narrow shaft." /> <span class="grid-line text-italic">Swab without handling feature</span>
       <h5>Issue</h5>
-     <p>Swabs with no clear indications for handling may be contaminated by touch.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Swab with grip area feature.png" alt="Swab with soft tip, narrow shaft, and grip feature. The full shaft is high-contrast and grip feature is textured." /> <span class="grid-line text-italic">Swab with grip area feature</span>
+      <p>Swabs with no clear indications for handling may be contaminated by touch.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/swab-with-grip-area-feature.png" alt="Swab with soft tip, narrow shaft, and grip feature. The full shaft is high-contrast and grip feature is textured." /> <span class="grid-line text-italic">Swab with grip area feature</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Swab shaft should have identifiable features (e.g., textures) so that the user knows where to grasp, preventing sample contamination.</li>
@@ -1287,13 +1257,11 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/No depth indication.png" alt="Swab with soft tip and narrow shaft. A side view of a nose with the swab inserted all the way into the nasal passage is circled in red, indicating the swab was inserted to an incorrect depth." /> <span class="grid-line text-italic">No depth indication</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/no-depth-indication.png" alt="Swab with soft tip and narrow shaft. A side view of a nose with the swab inserted all the way into the nasal passage is circled in red, indicating the swab was inserted to an incorrect depth." /> <span class="grid-line text-italic">No depth indication</span>
       <h5>Issue</h5>
-     <p>Swabs have no indication for appropriate nostril insertion depth.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Swab with depth indication.png" alt="Swab with soft tip, narrow shaft, and raised ring feature on the shaft. A side view of a nose with the swab inserted up to the raised ring into the nasal passage is circled in blue, indicating the swab was inserted to a correct depth." /> <span class="grid-line text-italic">Swab with depth indication</span>
+      <p>Swabs have no indication for appropriate nostril insertion depth.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/swab-with-depth-indication.png" alt="Swab with soft tip, narrow shaft, and raised ring feature on the shaft. A side view of a nose with the swab inserted up to the raised ring into the nasal passage is circled in blue, indicating the swab was inserted to a correct depth." /> <span class="grid-line text-italic">Swab with depth indication</span>
       <h5>Recommendation</h5>
       <p>Incorporate a tactile feature on the swab to inform the user of the required depth of insertion.</p>
     </div>
@@ -1303,19 +1271,17 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Fluid Vials and Sample Preparation</h4>
+      <h4>Fluid Vials and Sample Preparation</h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cap that is challenging to remove.png" alt="Cylindrical fluid vial with cap. An arrow pointing upwards indicates the cap is removed by a linear push motion. Cap has very small lip for pushing off." /> <span class="grid-line text-italic">Cap that is challenging to remove</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cap-that-is-challenging-to-remove.png" alt="Cylindrical fluid vial with cap. An arrow pointing upwards indicates the cap is removed by a linear push motion. Cap has very small lip for pushing off." /> <span class="grid-line text-italic">Cap that is challenging to remove</span>
       <h5>Issue</h5>
-     <p>Small caps and vials may be misplaced and are tricky to handle, creating a spill risk.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cap with features facilitating removal.png" alt="Two cylindrical vials with widened top-portions. The vial on the left has a cap with an elongated tab feature. An arrow indicates the cap can be removed by pushing on the tab. The vial on the right has threads on the cap. An arrow indicates it is removed by twisting." /> <span class="grid-line text-italic">Cap with features facilitating removal</span>
+      <p>Small caps and vials may be misplaced and are tricky to handle, creating a spill risk.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cap-with-features-facilitating-removal.png" alt="Two cylindrical vials with widened top-portions. The vial on the left has a cap with an elongated tab feature. An arrow indicates the cap can be removed by pushing on the tab. The vial on the right has threads on the cap. An arrow indicates it is removed by twisting." /> <span class="grid-line text-italic">Cap with features facilitating removal</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Large caps and vials with identifiable features (e.g., color, shape) help improve handling.</li>
@@ -1326,13 +1292,11 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Fluid transfer spill.png" alt="Fluid is pouring from one cylindrical vial into another. Fluid around the base of the second vial indicates the fluid has spilled." /> <span class="grid-line text-italic">Fluid transfer spill</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/fluid-transfer-spill.png" alt="Fluid is pouring from one cylindrical vial into another. Fluid around the base of the second vial indicates the fluid has spilled." /> <span class="grid-line text-italic">Fluid transfer spill</span>
       <h5>Issue</h5>
-     <p>Tests may require transferring buffer solution (e.g., reagent) into the extraction fluid vial, which increases the risk for incomplete transfer and/or spill.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Elimination of fluid transfer.png" alt="Panel A shows a prefilled fluid vial that includes a removable cap which seals the vial, and panel B shows a prefilled fluid vial with a secondary dropper cap which enables the controlled dispensing of fluid." /> <span class="grid-line text-italic">Elimination of fluid transfer</span>
+      <p>Tests may require transferring buffer solution (e.g., reagent) into the extraction fluid vial, which increases the risk for incomplete transfer and/or spill.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/elimination-of-fluid-transfer.png" alt="Panel A shows a prefilled fluid vial that includes a removable cap which seals the vial, and panel B shows a prefilled fluid vial with a secondary dropper cap which enables the controlled dispensing of fluid." /> <span class="grid-line text-italic">Elimination of fluid transfer</span>
       <h5>Recommendation</h5>
       <p>Eliminate the need to transfer buffer solution when possible (e.g., by integrating a prefilled fluid vial and dropper cap).</p>
     </div>
@@ -1340,38 +1304,33 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Thick-walled vial.png" alt="Cylindrical fluid vial with thick walls. A hand holding the vial at the center with a pinch grip has thick overlaid arrows, indicating difficulty in squeezing the vial." /> <span class="grid-line text-italic">Thick-walled via</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/thick-walled-vial.png" alt="Cylindrical fluid vial with thick walls. A hand holding the vial at the center with a pinch grip has thick overlaid arrows, indicating difficulty in squeezing the vial." /> <span class="grid-line text-italic">Thick-walled via</span>
       <h5>Issue</h5>
       <ul>
         <li>Fluid vials with stiff walls (e.g., thick plastic) make it hard to dispense liquid by squeezing.</li>
         <li>Short fluid vials may be difficult to grip or manipulate.</li>
-		<li>Depending on material opacity, it may be difficult to visualize liquid dispensing.</li>
+        <li>Depending on material opacity, it may be difficult to visualize liquid dispensing.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Thin-walled vial.png" alt="Cylindrical fluid vial with thin walls. A hand holding the vial at the center with a pinch grip has narrow overlaid arrows, indicating improved ease of squeezing the vial." /> <span class="grid-line text-italic">Thin-walled vial</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/thin-walled-vial.png" alt="Cylindrical fluid vial with thin walls. A hand holding the vial at the center with a pinch grip has narrow overlaid arrows, indicating improved ease of squeezing the vial." /> <span class="grid-line text-italic">Thin-walled vial</span>
       <h5>Recommendation</h5>
-       <ul>
+      <ul>
         <li>Make fluid vial walls thinner and more pliable, ensuring force to dispense liquid is less than 3.5 lbs. (15.6 N). [31]</li>
         <li>Vials should be at least 1.6 inches (40mm) long. [32]</li>
-		<li>Construct fluid vials of see-through materials to allow clear visualization of contents.</li>
+        <li>Construct fluid vials of see-through materials to allow clear visualization of contents.</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Unstable vial.png" alt="A cylindrical vial with fluid is shown upright with an arrow pointing to a second vial on its side with fluid pouring out, demonstrating the vial is easy to knock over." /> <span class="grid-line text-italic">Unstable vial</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/unstable-vial.png" alt="A cylindrical vial with fluid is shown upright with an arrow pointing to a second vial on its side with fluid pouring out, demonstrating the vial is easy to knock over." /> <span class="grid-line text-italic">Unstable vial</span>
       <h5>Issue</h5>
       <p>Fluid vials may be unstable, making them difficult to set down during the testing process.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Stable vials.png" alt="Three options are illustrated. Under option A, a fluid vial is shown with a with a wide base, narrow midsection, and wide top. Under option B, a fluid vial is inserted into a stand with a feature that holds the base of the vial. Under option C, a fluid vial is inserted into a cut out in the outer packaging of a test kit." /> <span class="grid-line text-italic">Stable vials
-</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/stable-vials.png" alt="Three options are illustrated. Under option A, a fluid vial is shown with a with a wide base, narrow midsection, and wide top. Under option B, a fluid vial is inserted into a stand with a feature that holds the base of the vial. Under option C, a fluid vial is inserted into a cut out in the outer packaging of a test kit." /> <span class="grid-line text-italic">Stable vials </span>
       <h5>Recommendation</h5>
-       <ul>
+      <ul>
         <li>Design fluid vials to ensure stability when set upright (e.g., integrated vial base, separate vial stand, vial stand punch-out in outer box).</li>
         <li>For a vial stand punch-out in the outer box, ensure force to puncture is less than 5 lbs. (22.2 N) [30], use high-contrast labeling to indicate location, size to ensure secure fluid vial fit, and position in a location that does not interfere with box use (e.g., at box edge).</li>
       </ul>
@@ -1380,42 +1339,37 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Narrow vial opening.png" alt="Cylindrical fluid vial with a swab. The opening of the vial is shaded red, indicating difficulty in inserting the swab." /> <span class="grid-line text-italic">Narrow vial opening</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/narrow-vial-opening.png" alt="Cylindrical fluid vial with a swab. The opening of the vial is shaded red, indicating difficulty in inserting the swab." /> <span class="grid-line text-italic">Narrow vial opening</span>
       <h5>Issue</h5>
       <p>Narrow openings make it difficult to insert the swab into the fluid vial, which can result in the swab tip being touched and contaminated during insertion.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Tapered vial opening.png" alt="Two options are illustrated. The fluid vial openings in both A and B vials are shaded blue, indicating easier insertion of the swab. Under option A, the top of the vial is tapered in a funnel shape. Under option B, the top of the vial is wide and steps down near the mid-section of the vial." /> <span class="grid-line text-italic">Tapered vial opening</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/tapered-vial-opening.png" alt="Two options are illustrated. The fluid vial openings in both A and B vials are shaded blue, indicating easier insertion of the swab. Under option A, the top of the vial is tapered in a funnel shape. Under option B, the top of the vial is wide and steps down near the mid-section of the vial." /> <span class="grid-line text-italic">Tapered vial opening</span>
       <h5>Recommendation</h5>
-     <p>Widen or reshape (e.g., funnel) fluid vial opening so that the swab can be easily and safely inserted.</p>
+      <p>Widen or reshape (e.g., funnel) fluid vial opening so that the swab can be easily and safely inserted.</p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Vial without internal texture.png" alt="On the left, a cylindrical fluid vial. On the right, a hand holding the vial by thumb and forefinger, and a swab inserted into the solution in the vial. Red shading on the vial indicates squeezing the vial around the swab to extract sample is difficult." /> <span class="grid-line text-italic">Vial without internal texture</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/vial-without-internal-texture.png" alt="On the left, a cylindrical fluid vial. On the right, a hand holding the vial by thumb and forefinger, and a swab inserted into the solution in the vial. Red shading on the vial indicates squeezing the vial around the swab to extract sample is difficult." /> <span class="grid-line text-italic">Vial without internal texture</span>
       <h5>Issue</h5>
       <p>Tests may require physically supporting the fluid vial during sample agitation, increasing spill risk.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Vial with internal ribbing.png" alt="On the left, a fluid vial with a tapered top and rib features on the internal surface. On the right, a hand holding the vial by thumb and forefinger, and a swab inserted into the solution in the vial. " /> <span class="grid-line text-italic">Vial with internal ribbing</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/vial-with-internal-ribbing.png" alt="On the left, a fluid vial with a tapered top and rib features on the internal surface. On the right, a hand holding the vial by thumb and forefinger, and a swab inserted into the solution in the vial. " /> <span class="grid-line text-italic">Vial with internal ribbing</span>
       <h5>Recommendation</h5>
-     <p>Incorporate fluid vial design features that reduce the force that needs to be applied during sample agitation or sample extraction (e.g., internal ribbing).
-</p>
+      <p>Incorporate fluid vial design features that reduce the force that needs to be applied during sample agitation or sample extraction (e.g., internal ribbing). </p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-		      <h5>Issue</h5>
+      <h5>Issue</h5>
       <p>Counting drops delivered to the cassette sample well is challenging and creates potential for user error.</p>
-		</div>
+    </div>
     <div class="tablet:grid-col">
-		      <h5>Recommendation</h5>
-     <p>Design the test so that the complete volume in the fluid vial is used for analysis.</p>
+      <h5>Recommendation</h5>
+      <p>Design the test so that the complete volume in the fluid vial is used for analysis.</p>
     </div>
   </div>
 </div>
@@ -1423,24 +1377,22 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Cassette</h4>
+      <h4>Cassette</h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Lack of orientation features.png" alt="On the left, a cassette is inserted into a test reader in the incorrect orientation. On the right, a cassette is inserted into a test reader in the correct orientation. Above each test reader is a red question mark, indicating a lack of feedback to the user on correct insertion of the cassette." /> <span class="grid-line text-italic">Lack of orientation features</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/lack-of-orientation-features.png" alt="On the left, a cassette is inserted into a test reader in the incorrect orientation. On the right, a cassette is inserted into a test reader in the correct orientation. Above each test reader is a red question mark, indicating a lack of feedback to the user on correct insertion of the cassette." /> <span class="grid-line text-italic">Lack of orientation features</span>
       <h5>Issue</h5>
       <ul>
         <li>An indistinct cassette shape may make it challenging to correctly orient the device and identify features such as the sample well and results window.</li>
         <li>An indistinct shape may also make it challenging to correctly load the cassette into a test reader, if applicable.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Mating features indicating orientation.png" alt="On the left, an incorrectly oriented cassette is blocked from being inserted into a test reader. A raised feature on the cassette prevents it from entering the mating feature on the test reader. A blue exclamation point above the test reader indicates that the user receives sufficient feedback for cassette insertion. On the right, a correctly oriented cassette is inserted into a test reader. A raised track in the test reader mates with a corresponding slot feature of the cassette. A blue check mark above the test reader indicates that the user receives sufficient feedback for cassette insertion." /> <span class="grid-line text-italic">Mating features indicating orientation</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/mating-features-indicating-orientation.png" alt="On the left, an incorrectly oriented cassette is blocked from being inserted into a test reader. A raised feature on the cassette prevents it from entering the mating feature on the test reader. A blue exclamation point above the test reader indicates that the user receives sufficient feedback for cassette insertion. On the right, a correctly oriented cassette is inserted into a test reader. A raised track in the test reader mates with a corresponding slot feature of the cassette. A blue check mark above the test reader indicates that the user receives sufficient feedback for cassette insertion." /> <span class="grid-line text-italic">Mating features indicating orientation</span>
       <h5>Recommendation</h5>
-    <ul>
+      <ul>
         <li>Design the cassette with distinguishing features (e.g., colors, shapes, textures) for easy identification and manipulation.</li>
         <li>Provide a keying feature so that the cassette can only be loaded into the test reader in the correct orientation.</li>
       </ul>
@@ -1449,18 +1401,16 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cassette without distinguishable well location.png" alt="Vial dispensing drops into the sample well of a cassette. The well feature is recessed into the body of the cassette, and the fluid drops have spilled outside of the well feature." /> <span class="grid-line text-italic">Cassette without distinguishable well location</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cassette-without-distinguishable-well-location.png" alt="Vial dispensing drops into the sample well of a cassette. The well feature is recessed into the body of the cassette, and the fluid drops have spilled outside of the well feature." /> <span class="grid-line text-italic">Cassette without distinguishable well location</span>
       <h5>Issue</h5>
       <ul>
         <li>The location of the sample well and results window may be difficult to identify, especially by touch. This may lead to sample spills.</li>
         <li>The sample well and results window may be easily confused.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cassette with docking feature.png" alt="Vial in a vertical orientation, with the dropper cap pointed downward and aligned to a mating feature on the cassette. The mating feature is a raised sample well that aligns the dropper cap to the sample well. A blue arrow indicates that the two parts have been aligned correctly." /> <span class="grid-line text-italic">Cassette with docking feature</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cassette-with-docking-feature.png" alt="Vial in a vertical orientation, with the dropper cap pointed downward and aligned to a mating feature on the cassette. The mating feature is a raised sample well that aligns the dropper cap to the sample well. A blue arrow indicates that the two parts have been aligned correctly." /> <span class="grid-line text-italic">Cassette with docking feature</span>
       <h5>Recommendation</h5>
-    <ul>
+      <ul>
         <li>If sample fluid transfer is required, incorporate features on the cassette that facilitate alignment or docking of the fluid vial and sample well (e.g., locking features, raised edges of sample well, contrasting color of sample well).</li>
         <li>The sample well and results window should be shaped differently and separated sufficiently.</li>
       </ul>
@@ -1469,33 +1419,28 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cassette with exposed sample well.png" alt="Cassette is shown with a finger approaching the recessed sample well area. A red circle around the sample well indicates this could be a spot for contamination and should not be touched by the user." /> <span class="grid-line text-italic">Cassette with exposed sample well</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cassette-with-exposed-sample-well.png" alt="Cassette is shown with a finger approaching the recessed sample well area. A red circle around the sample well indicates this could be a spot for contamination and should not be touched by the user." /> <span class="grid-line text-italic">Cassette with exposed sample well</span>
       <h5>Issue</h5>
       <p>An exposed sample well increases the risk of touch contamination, which may affect the test result.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cassette with protected sample well.png" alt="Cassette with raised feature around sample well, reducing risk of touch contamination." /> <span class="grid-line text-italic">Cassette with protected sample well
-</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cassette-with-protected-sample-well.png" alt="Cassette with raised feature around sample well, reducing risk of touch contamination." /> <span class="grid-line text-italic">Cassette with protected sample well </span>
       <h5>Recommendation</h5>
-   <p>Include features on the cassette that reduce likelihood of touch contamination (e.g., raised edges of sample well).</p>
+      <p>Include features on the cassette that reduce likelihood of touch contamination (e.g., raised edges of sample well).</p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cassette without drop count labeling.png" alt="Vial dispensing drops into the sample well of a cassette. The well feature is recessed into the body of the cassette, with no indication of where to dispense the drops or the quantity." /> <span class="grid-line text-italic">Cassette without drop count labeling</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cassette-without-drop-count-labeling.png" alt="Vial dispensing drops into the sample well of a cassette. The well feature is recessed into the body of the cassette, with no indication of where to dispense the drops or the quantity." /> <span class="grid-line text-italic">Cassette without drop count labeling</span>
       <h5>Issue</h5>
       <ul>
         <li>Users may dispense an incorrect number of drops.</li>
         <li>Users may dispense drops in an incorrect location.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Cassettes with explicit drop count labeling.png" alt="Cassette with raised feature and a dark ring around sample well. Printed above the sample well on the cassette is a droplet icon with 'X 3' next to the icon." /> <span class="grid-line text-italic">Cassettes with explicit drop count labeling</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/cassettes-with-explicit-drop-count-labeling.png" alt="Cassette with raised feature and a dark ring around sample well. Printed above the sample well on the cassette is a droplet icon with 'X 3' next to the icon." /> <span class="grid-line text-italic">Cassettes with explicit drop count labeling</span>
       <h5>Recommendation</h5>
-    <ul>
+      <ul>
         <li>If counting drops is required, include a high-contrast label on the cassette indicating the number of drops required.</li>
         <li>To facilitate identification of sample well location, include a 0.1 inch (3 mm) raised edge and/or a high-contrast outline.</li>
       </ul>
@@ -1506,35 +1451,31 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Test Reader</h4>
+      <h4>Test Reader</h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Test reader without distinguishable features.png" alt="Test reader with square form factor. All sides are rounded and there are no remarkable features to distinguish orientation." /> <span class="grid-line text-italic">Test reader without distinguishable features</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/test-reader-without-distinguishable-features.png" alt="Test reader with square form factor. All sides are rounded and there are no remarkable features to distinguish orientation." /> <span class="grid-line text-italic">Test reader without distinguishable features</span>
       <h5>Issue</h5>
       <p>The test reader shape may make orientation and identification of features (e.g., cassette insert area) challenging.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Test reader with distinguishable features.png" alt="Test reader with a square form factor. The base of the test reader has legs. One side of the test reader has a protruding opening which is a cassette insertion feature. The cassette insertion feature also has a track on which the cassette slides in and out of the test reader." /> <span class="grid-line text-italic">Test reader with distinguishable features</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/test-reader-with-distinguishable-features.png" alt="Test reader with a square form factor. The base of the test reader has legs. One side of the test reader has a protruding opening which is a cassette insertion feature. The cassette insertion feature also has a track on which the cassette slides in and out of the test reader." /> <span class="grid-line text-italic">Test reader with distinguishable features</span>
       <h5>Recommendation</h5>
-   <p>Design the test reader with distinguishing features (e.g., colors, shapes, textures) for easy orientation.</p>
+      <p>Design the test reader with distinguishing features (e.g., colors, shapes, textures) for easy orientation.</p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Small button interfaces.png" alt="Test reader with two relatively small, flushed buttons on the top face labeled with low-contrast symbols. The button on the left has a power symbol and the button on the right has a Bluetooth symbol." /> <span class="grid-line text-italic">Small button interfaces</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/small-button-interfaces.png" alt="Test reader with two relatively small, flushed buttons on the top face labeled with low-contrast symbols. The button on the left has a power symbol and the button on the right has a Bluetooth symbol." /> <span class="grid-line text-italic">Small button interfaces</span>
       <h5>Issue</h5>
       <p>Physical buttons may be difficult to locate and activate.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Large button interfaces.png" alt="Test reader with two relatively large, raised buttons on the top face labeled with high-contrast symbols. The button on the left has a power symbol and the button on the right has a Bluetooth symbol." /> <span class="grid-line text-italic">Large button interfaces</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/large-button-interfaces.png" alt="Test reader with two relatively large, raised buttons on the top face labeled with high-contrast symbols. The button on the left has a power symbol and the button on the right has a Bluetooth symbol." /> <span class="grid-line text-italic">Large button interfaces</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Ensure physical buttons are a minimum 0.5 inches (12.7 mm) wide and are spaced a minimum 0.7 inches (17.8 mm) center to center. [33]</li>
         <li>Physical button features (e.g., shape, edges) should be distinct.</li>
       </ul>
@@ -1543,18 +1484,16 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Battery compartment difficult to locate.png" alt="Test reader with a small, unmarked battery compartment and small opening tab." /> <span class="grid-line text-italic">Battery compartment difficult to locate</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/battery-compartment-difficult-to-locate.png" alt="Test reader with a small, unmarked battery compartment and small opening tab." /> <span class="grid-line text-italic">Battery compartment difficult to locate</span>
       <h5>Issue</h5>
-        <ul>
+      <ul>
         <li>Test kits or instructions may not clearly indicate battery location.</li>
         <li>Batteries may be located in an area that is hard to reach.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Battery compartment easy to access.png" alt="Test reader with battery compartment embossed with battery symbols, battery type, and positive/negative terminal signs. The opening tab is large, and the surrounding divot allows for finger clearance." /> <span class="grid-line text-italic">Battery compartment easy to access</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/battery-compartment-easy-to-access.png" alt="Test reader with battery compartment embossed with battery symbols, battery type, and positive/negative terminal signs. The opening tab is large, and the surrounding divot allows for finger clearance." /> <span class="grid-line text-italic">Battery compartment easy to access</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>If applicable, include an on-device label with a tactile symbol to indicate battery location.</li>
         <li>Position batteries so that they can be easily accessed.</li>
       </ul>
@@ -1563,72 +1502,64 @@ Note that while Section 508 compliance indicates  an accessible digital file for
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Small battery access feature.png" alt="Test reader with small battery compartment and small opening tab. The tab is circled in red, indicating insufficient clearance for opening with fingers." /> <span class="grid-line text-italic">Small battery access feature</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/small-battery-access-feature.png" alt="Test reader with small battery compartment and small opening tab. The tab is circled in red, indicating insufficient clearance for opening with fingers." /> <span class="grid-line text-italic">Small battery access feature</span>
       <h5>Issue</h5>
-        <ul>
+      <ul>
         <li>Test kits or instructions may not clearly indicate battery access and removal method.</li>
         <li>Battery access doors may be difficult to remove due to small, hard-to-grip handles.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Improved battery access and removal.png" alt="Series of three illustrations showing the battery compartment. The first shows a large opening tab and large divot, allowing finger clearance. An arrow indicates the door opens upward. The second shows the compartment door open, with two batteries laying on top of a ribbon. An arrow indicates the ribbon is pulled upward. The third shows the ribbon pulled taught and the batteries free from the battery compartment." /> <span class="grid-line text-italic">Improved battery access and removal</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/improved-battery-access-and-removal.png" alt="Series of three illustrations showing the battery compartment. The first shows a large opening tab and large divot, allowing finger clearance. An arrow indicates the door opens upward. The second shows the compartment door open, with two batteries laying on top of a ribbon. An arrow indicates the ribbon is pulled upward. The third shows the ribbon pulled taught and the batteries free from the battery compartment." /> <span class="grid-line text-italic">Improved battery access and removal</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Clearly label the access door to indicate removal method (e.g., tactile features).</li>
         <li>Implement familiar battery removal methods.</li>
-	    <li>Include features that can be manipulated without employing fine motor skills (e.g., pull tag, larger divot).</li>
+        <li>Include features that can be manipulated without employing fine motor skills (e.g., pull tag, larger divot).</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Test reader with exclusively visual feedback.png" alt="Test reader with a LED on the top surface and a no audio/sound symbol next to it indicating no audible feedback." /> <span class="grid-line text-italic">Test reader with exclusively visual feedback</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/test-reader-with-exclusively-visual-feedback.png" alt="Test reader with a LED on the top surface and a no audio/sound symbol next to it indicating no audible feedback." /> <span class="grid-line text-italic">Test reader with exclusively visual feedback</span>
       <h5>Issue</h5>
-        <p>Some test readers only communicate status (e.g., power, rechargeable battery level, results available) visually.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Test reader with visual, auditory and haptic feedback.png" alt="Test reader with audio/sound and haptic or vibration symbols next to it indicating audible and dynamic physical feedback. Two LED lights on top of the test reader indicate visual feedback." /> <span class="grid-line text-italic">Test reader with visual, auditory and haptic feedback</span>
+      <p>Some test readers only communicate status (e.g., power, rechargeable battery level, results available) visually.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/test-reader-with-visual-auditory-and-haptic-feedback.png" alt="Test reader with audio/sound and haptic or vibration symbols next to it indicating audible and dynamic physical feedback. Two LED lights on top of the test reader indicate visual feedback." /> <span class="grid-line text-italic">Test reader with visual, auditory and haptic feedback</span>
       <h5>Recommendation</h5>
-  <p>Consider adding nonvisual indicators, such as audible and/or haptic feedback, to inform the user of test reader status. If using LED colors to indicate
-status, consider using multiple LED lights with spatial differentiation rather than a single LED light that changes colors.</p>
+      <p>Consider adding nonvisual indicators, such as audible and/or haptic feedback, to inform the user of test reader status. If using LED colors to indicate
+        status, consider using multiple LED lights with spatial differentiation rather than a single LED light that changes colors.</p>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Lack of battery orientation cues.png" alt="Test reader with small battery compartment and two batteries floating outside the reader. A red question mark indicates uncertainty about how to insert the batteries into the test reader." /> <span class="grid-line text-italic">Lack of battery orientation cues</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/lack-of-battery-orientation-cues.png" alt="Test reader with small battery compartment and two batteries floating outside the reader. A red question mark indicates uncertainty about how to insert the batteries into the test reader." /> <span class="grid-line text-italic">Lack of battery orientation cues</span>
       <h5>Issue</h5>
-        <p>Battery-powered test readers may not clearly indicate the correct orientation for loading batteries (e.g., how to position positive and negative battery terminals).</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Explicit battery orientation cues.png" alt="Test reader with battery compartment embossed with battery symbols, battery type, and positive/negative terminal signs. The opening tab is large, and the surrounding divot allows for finger clearance." /> <span class="grid-line text-italic">Explicit battery orientation cues</span>
+      <p>Battery-powered test readers may not clearly indicate the correct orientation for loading batteries (e.g., how to position positive and negative battery terminals).</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/explicit-battery-orientation-cues.png" alt="Test reader with battery compartment embossed with battery symbols, battery type, and positive/negative terminal signs. The opening tab is large, and the surrounding divot allows for finger clearance." /> <span class="grid-line text-italic">Explicit battery orientation cues</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Consider pre-loading batteries.</li>
         <li>Provide visual and tactile indicators of the correct orientation for loading batteries both on the battery access door and inside the battery compartment.</li>
-	    <li>Match existing consumer mental models about battery orientation to design (e.g., the negative battery terminal goes on a spring).</li>
+        <li>Match existing consumer mental models about battery orientation to design (e.g., the negative battery terminal goes on a spring).</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Smartphone-based reader un-aligned with a test cassette.png" alt="A mobile phone floats above a test cassette. The cassette is not aligned with the phone's camera frame." /> <span class="grid-line text-italic">Smartphone-based reader un-aligned with a test cassette</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/smartphone-based-reader-un-aligned-with-a-test-cassette.png" alt="A mobile phone floats above a test cassette. The cassette is not aligned with the phone's camera frame." /> <span class="grid-line text-italic">Smartphone-based reader un-aligned with a test cassette</span>
       <h5>Issue</h5>
-        <p>Smartphone-based readers may require specific placement of a component (e.g., in a camera frame) using only visual cues (e.g., on-screen tracking markers).</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Smartphone-based reader aligned with a test cassette.png" alt="A mobile phone floats above a test cassette. Audio/sound and haptic or vibration symbols near the mobile phone indicate audible and dynamic physical feedback indicating camera alignment with the cassette." /> <span class="grid-line text-italic">Smartphone-based reader aligned with a test cassette</span>
+      <p>Smartphone-based readers may require specific placement of a component (e.g., in a camera frame) using only visual cues (e.g., on-screen tracking markers).</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/smartphone-based-reader-aligned-with-a-test-cassette.png" alt="A mobile phone floats above a test cassette. Audio/sound and haptic or vibration symbols near the mobile phone indicate audible and dynamic physical feedback indicating camera alignment with the cassette." /> <span class="grid-line text-italic">Smartphone-based reader aligned with a test cassette</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Provide auditory/haptic device positioning and camera visibility feedback to the user (e.g., “test identified” or “failed - move closer”; or “failed - increase brightness”).</li>
         <li>Implement automated image correction.</li>
-	    <li>Leverage native smartphone camera application accessibility controls.</li>
+        <li>Leverage native smartphone camera application accessibility controls.</li>
       </ul>
     </div>
   </div>
@@ -1637,11 +1568,11 @@ status, consider using multiple LED lights with spatial differentiation rather t
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-        <p>Reusable test readers collect dirt and grime in hard-to- reach places.</p>
-		</div>
+      <p>Reusable test readers collect dirt and grime in hard-to- reach places.</p>
+    </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-  <p>If the test reader is reusable rather than disposable, design it with cleanability in mind. Eliminate crevices to facilitate easy wipe down.</p>
+      <p>If the test reader is reusable rather than disposable, design it with cleanability in mind. Eliminate crevices to facilitate easy wipe down.</p>
     </div>
   </div>
 </div>
@@ -1649,23 +1580,23 @@ status, consider using multiple LED lights with spatial differentiation rather t
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Disposal</h4>
+      <h4>Disposal</h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-		      <h5>Issue</h5>
-          <ul>
+      <h5>Issue</h5>
+      <ul>
         <li>Tests kits may not indicate which components are disposable.</li>
         <li>Test kits may not indicate appropriate methods for disposal (e.g., household waste, recycling, hazardous waste, etc.).</li>
-	    <li>Devices with batteries may not indicate the need for removal prior to disposal.</li>
+        <li>Devices with batteries may not indicate the need for removal prior to disposal.</li>
       </ul>
-		</div>
+    </div>
     <div class="tablet:grid-col">
-		      <h5>Recommendation</h5>
-  <ul>
+      <h5>Recommendation</h5>
+      <ul>
         <li>Provide clear disposal labeling and instructions.</li>
         <li>If applicable, provide clear instructions for battery removal before disposal.</li>
       </ul>
@@ -1689,24 +1620,22 @@ status, consider using multiple LED lights with spatial differentiation rather t
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Bluetooth Pairing </h4>
+      <h4>Bluetooth Pairing </h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Phone connecting via Bluetooth with visual cues.png" alt="Mobile phone next to a digital test reader. Text prompt on the phone says the Bluetooth device has been paired successfully." /> <span class="grid-line text-italic">Phone connecting via Bluetooth with visual cues</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/phone-connecting-via-bluetooth-with-visual-cues.png" alt="Mobile phone next to a digital test reader. Text prompt on the phone says the Bluetooth device has been paired successfully." /> <span class="grid-line text-italic">Phone connecting via Bluetooth with visual cues</span>
       <h5>Issue</h5>
-        <ul>
+      <ul>
         <li>Some tests require Bluetooth pairing (connecting a smartphone and another device) to analyze and communicate results. Common pairing methods only provide visual feedback on pairing status.</li>
         <li>Some pairing requires devices to be placed in proximity with inadequate feedback on whether the devices are in or out of range.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Phone connecting via Bluetooth with audio cues.png" alt="Mobile phone next to a digital test reader. Text prompt on the phone says the Bluetooth device has been paired successfully. Audio/sound and haptic or vibration symbols near the phone indicate this message is also being communicated via audible and dynamic physical feedback." /> <span class="grid-line text-italic">Phone connecting via Bluetooth with audio cues</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/phone-connecting-via-bluetooth-with-audio-cues.png" alt="Mobile phone next to a digital test reader. Text prompt on the phone says the Bluetooth device has been paired successfully. Audio/sound and haptic or vibration symbols near the phone indicate this message is also being communicated via audible and dynamic physical feedback." /> <span class="grid-line text-italic">Phone connecting via Bluetooth with audio cues</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Provide multi-modal, clear feedback on pairing status (e.g., audible and/or haptic feedback).</li>
         <li>If devices are required to be placed a specific distance from each other, provide device positioning recognition to the user.</li>
       </ul>
@@ -1717,24 +1646,22 @@ status, consider using multiple LED lights with spatial differentiation rather t
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Test Analysis </h4>
+      <h4>Test Analysis </h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Lack of processing cues.png" alt="Test reader with a cassette inserted. No audio/sound symbol indicates a lack of audible feedback." /> <span class="grid-line text-italic">Lack of processing cues</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/lack-of-processing-cues.png" alt="Test reader with a cassette inserted. No audio/sound symbol indicates a lack of audible feedback." /> <span class="grid-line text-italic">Lack of processing cues</span>
       <h5>Issue</h5>
-        <ul>
+      <ul>
         <li>There is no clear feedback, visual or otherwise, indicating that the sample has been properly entered into the device and test analysis is underway.</li>
         <li>Most tests only indicate visually that the sample has completed processing and results are available.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Visual and auditory cues.png" alt="Test reader with a cassette inserted. Audio/sound and haptic or vibration symbol indicates audible and dynamic physical feedback. A LED light on top of the test reader indicated visual feedback. " /> <span class="grid-line text-italic">Visual and auditory cues</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/visual-and-auditory-cues.png" alt="Test reader with a cassette inserted. Audio/sound and haptic or vibration symbol indicates audible and dynamic physical feedback. A LED light on top of the test reader indicated visual feedback. " /> <span class="grid-line text-italic">Visual and auditory cues</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Provide visual, auditory, and/or haptic cues letting the user know that the sample has been properly entered into the device and is processing.</li>
         <li>In addition to visual cues, consider adding auditory and/or haptic indications that results are available.</li>
       </ul>
@@ -1745,49 +1672,45 @@ status, consider using multiple LED lights with spatial differentiation rather t
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	<h4>Results Communication</h4>
+      <h4>Results Communication</h4>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Faint result lines and illegible labeling.png" alt="Two cassettes with results window labeled with small C and T in lightly contrasting color against the cassette body. On the left, the control line is activated in light contrast against the test strip. On the right, both the control and test lines are activated in light contrast against the test strip." /> <span class="grid-line text-italic">Faint result lines and illegible labeling</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/faint-result-lines-and-illegible-labeling.png" alt="Two cassettes with results window labeled with small C and T in lightly contrasting color against the cassette body. On the left, the control line is activated in light contrast against the test strip. On the right, both the control and test lines are activated in light contrast against the test strip." /> <span class="grid-line text-italic">Faint result lines and illegible labeling</span>
       <h5>Issue</h5>
-        <ul>
+      <ul>
         <li>Control and/or test lines on the test strip within the cassette can be very faint.</li>
         <li>Result labeling on the cassette may be too small or low contrast and may not align exactly with the associated position of the control and test lines in the results window.</li>
-		<li>Results of cassette-based COVID-19 home tests are typically displayed in a ‘raw’ format that may be misinterpreted by lay users (e.g., ‘C’ indicating control could be misunderstood as ‘C’ indicating COVID-19).</li>
+        <li>Results of cassette-based COVID-19 home tests are typically displayed in a ‘raw’ format that may be misinterpreted by lay users (e.g., ‘C’ indicating control could be misunderstood as ‘C’ indicating COVID-19).</li>
         <li>When cassette labeling appears in multiple orientations, the user must rotate the cassette to read labeling.</li>
-	    <li>A transparent shield over the results window can create optical challenges.</li>
+        <li>A transparent shield over the results window can create optical challenges.</li>
       </ul>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Bold result lines and legible labeling.png" alt="Two cassettes with results window labeled with large C and T in highly contrasting color against the cassette body. On the left, the control line is activated in dark contrast against the test strip. On the right, both the control and test lines are activated in dark contrast against the test strip." /> <span class="grid-line text-italic">Bold result lines and legible labeling</span>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/bold-result-lines-and-legible-labeling.png" alt="Two cassettes with results window labeled with large C and T in highly contrasting color against the cassette body. On the left, the control line is activated in dark contrast against the test strip. On the right, both the control and test lines are activated in dark contrast against the test strip." /> <span class="grid-line text-italic">Bold result lines and legible labeling</span>
       <h5>Recommendation</h5>
-  <ul>
+      <ul>
         <li>Optimize chemistry in LFAs to maximize control and test line contrast and sharpness.</li>
         <li>Result labeling should comply with recommendations in 8.1 Legibility.</li>
-	    <li>Ensure cassette labeling aligns exactly with the position of the control and test lines in the results window.</li>
-	  <li>Abbreviations should be adequately defined in the test instructions (see also 9.5 Cassette for additional labeling suggestions).</li>
-		<li>When feasible, design the results status to be self- communicative and interpreted without the need for a key/legend (e.g., spell out ‘Control’ and ‘Test’ on cassette.</li>
+        <li>Ensure cassette labeling aligns exactly with the position of the control and test lines in the results window.</li>
+        <li>Abbreviations should be adequately defined in the test instructions (see also 9.5 Cassette for additional labeling suggestions).</li>
+        <li>When feasible, design the results status to be self- communicative and interpreted without the need for a key/legend (e.g., spell out ‘Control’ and ‘Test’ on cassette.</li>
         <li>Cassette labeling should all be in the same orientation.</li>
-	    <li>If cassette design includes a transparent shield over the results window, carefully consider how optics (e.g., refraction or reflection) might interfere with results interpretation.</li>
+        <li>If cassette design includes a transparent shield over the results window, carefully consider how optics (e.g., refraction or reflection) might interfere with results interpretation.</li>
       </ul>
     </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Lack of sensory feedback.png" alt="On the left, a cassette with results window showing a line next to the control mark. On the right, a test reader with a cassette inserted. No audio/sound symbol indicates absence of audible feedback." /> <span class="grid-line text-italic">Lack of sensory feedback</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/lack-of-sensory-feedback.png" alt="On the left, a cassette with results window showing a line next to the control mark. On the right, a test reader with a cassette inserted. No audio/sound symbol indicates absence of audible feedback." /> <span class="grid-line text-italic">Lack of sensory feedback</span>
       <h5>Issue</h5>
-        <p>Most tests only communicate results visually.</p>
-		</div>
-    <div class="tablet:grid-col">
-		<img class="img-full" src="../images/Visual auditory and haptic feedback.png" alt="On the left, a cassette with results window showing a line next to the control mark. On the right, a test reader with a cassette inserted. Audio/sound symbol near the test reader indicates audible feedback. A LED light on top of the test reader indicates visual feedback. Haptic or vibration symbol indicates dynamic physical feedback." /> <span class="grid-line text-italic">Visual, auditory, and haptic feedback</span>
+      <p>Most tests only communicate results visually.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/visual-auditory-and-haptic-feedback.png" alt="On the left, a cassette with results window showing a line next to the control mark. On the right, a test reader with a cassette inserted. Audio/sound symbol near the test reader indicates audible feedback. A LED light on top of the test reader indicates visual feedback. Haptic or vibration symbol indicates dynamic physical feedback." /> <span class="grid-line text-italic">Visual, auditory, and haptic feedback</span>
       <h5>Recommendation</h5>
- <p>Consider adding non-visual cues such as audible and/or haptic feedback to communicate results.</p>
+      <p>Consider adding non-visual cues such as audible and/or haptic feedback to communicate results.</p>
     </div>
   </div>
 </div>
@@ -1803,36 +1726,36 @@ status, consider using multiple LED lights with spatial differentiation rather t
   <li>Centre for Excellence in Universal Design, National Disability Authority. (2020). What is Universal Design. https://universaldesign.ie/what- is-universal-design/</li>
   <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2018). What We Do. Fda.gov. https://www.fda.gov/about-fda/ what-we-do</li>
   <li>Sutton, B. U.S. Food and Drug Administration. Overview of Regulatory Requirements: Medical Devices – Transcript. (2021) https://www.fda.gov/ training-and-continuing-education/cdrh-learn/ overview-regulatory-requirements-medical- devices-transcript</li>
-	<li>U.S. Food and Drug Administration, Center for Devices and Radiological Health.(2020). Classify Your Medical Device. https://www.fda. gov/medical-devices/overview-device-regulation/ classify-your-medical-device </li>
-	<li>U.S. Food and Drug Administration. Center for Devices and Radiological Health. Division of Industry and Consumer Education. (2019) https:// www.fda.gov/about-fda/cdrh-offices/division- industry-and-consumer-education</li>
-	<li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2019). CDRH Learn. https://www.fda.gov/training-and- continuing-education/cdrh-learn</li>
-	<li>21CFR820.30. https://www.accessdata.fda.gov/ scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.30</li>
-	<li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2016). Applying Human Factors and Usability Engineering to Medical Devices.</li>
-	<li>The Association for the Advancement of Medical Instrumentation. (2009). Human Factors Engineering – Design of Medical Devices. ANSI/ AAMI HE75:2009 (R2018)</li>
-	<li>U.S. Food and Drug Administration. How to Use Consensus Standards in Premarket Submissions. https://www.fda.gov/media/147787/download</li>
-	<li>U.S. Department of Health and Human Services Food and Drug Administration. (2014).VIII. Human Factors. In Design Considerations for Devices Intended for Home Use. Guidance for Industry and Food and Drug Administration Staff. (pp. 13–14).</li>
-	<li>TPGi. Colour Contrast Analyser (CCA). https://www.tpgi.com/color-contrast-checker/</li>
-	<li>International Organization for Standardization. (2022). Plain language – Part 1: Governing principles and guidelines. (ISO Standard No. 24495-1:2022). https://www.iso.org/ standard/78907.html</li>
-	<li>Federal Plain Language Guidelines (2011). https://www.plainlanguage.gov/</li>
-	<li>National Eye Institute. (2019) Types of Color Blindness. https://www.nei.nih.gov/learn-about- eye-health/eye-conditions-and-diseases/color- blindness/types-color-blindness</li>
-	<li>National Library Service for the Blind and Print Disabled (NLS), Library of Congress. NLS Factsheet: About Braille. https://www.loc.gov/ nls/resources/blindness-and-vision-impairment/ braille-information/about-braille/</li>
-	<li>International Organization for Standardization. (2021). Medical devices – Symbols to be used with information to be supplied by the manufacturer – Part 1: General requirements. (ISO Standard No. 15223-1:2021). https://www. iso.org/standard/77326.html</li>
-	<li>Web Content Accessibility Guidelines (WCAG) 2.1 W3C Recommendation. (2018). https://www. w3.org/TR/WCAG21/</li>
-	<li>W3C Web Accessibility Initiative, WCAG 2 Overview. (2023). https://www.w3.org/WAI/ standards-guidelines/wcag/</li>
-	<li>W3C Working Draft. Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile. (2015). https://www.w3.org/TR/2015/ WD-mobile-accessibility-mapping-20150226/</li>
-	<li>Department of Justice and the General Services Administration. (2023) Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology to Congress and the President. https://www.justice. gov/crt/page/file/1569331/download</li>
-	<li>En-Vision America, ScripTalk. https://www. envisionamerica.com/scriptalk-station-for-patients</li>
-	<li>CVS, “Hi! It’s your prescription talking.”, Spoken Tx™. https://www.cvs.com/content/pharmacy/ spoken-rx</li>
-	<li>W3C Web Accessibility Initiative, Media Players in Making Audio and Video Media Accessible. (2021) https://www.w3.org/WAI/media/av/player/</li>
-	<li>Digital.gov, U.S. General Services Administration. (2020). 508 Accessible Videos – Use a 508-Compliant Video Player. https://digital. gov/2014/06/30/508-accessible-videos-use-a- 508-compliant-video-player/</li>
-	<li>Section508.gov, General Services Administration. (2022) Create Accessible Video, Audio and Social Media. https://www.section508.gov/create/video- social/</li>
-	<li>Digital.gov, U.S. General Services Administration. 508 Accessible Videos – How to Make Audio Descriptions. (2022). https://digital.gov/2014/06/30/508-accessible-videos-how-to- make-audio-descriptions/</li>
-	<li>W3C Working Group Note 7. (2016). Techniques and Failures for Web Content Accessibility Guidelines 2.0. https://www.w3.org/TR/WCAG20-TECHS/Overview.html#contents</li>
-	<li>Web Content Accessibility Guidelines (WCAG) 2.2. (2023). W3C Candidate Recommendation Draft, Success Criterion 2.5.8 Target Size (Minimum). https://www.w3.org/TR/WCAG22/</li>
-	<li>U.S. Department of Justice Civil Rights Division. (2010). 2010 ADA Standards for Accessible Design, 309.4 Operation. https://www.ada.gov/ law-and-regs/design-standards/2010-stds/#top</li>
-	<li>Villafañe, J. H., Valdes, K., Bertozzi, L., and Negrini, S. (2014). Minimal clinically important difference of grip and pinch strength in women with thumb carpometacarpal osteoarthritis when compared to healthy subjects. Rehabilitation Nursing.</li>
-	<li>Greiner, TM. US Army Natick Research Development and Engineering Center, MA., Anthropology Branch, Behavioral Sciences Division, Soldier Science Directorate. (1991). Hand Anthropometry of U.S. Army Personnel. https://apps.dtic.mil/sti/pdfs/ADA244533.pdf</li>
-	<li>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.</li>
+  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health.(2020). Classify Your Medical Device. https://www.fda. gov/medical-devices/overview-device-regulation/ classify-your-medical-device </li>
+  <li>U.S. Food and Drug Administration. Center for Devices and Radiological Health. Division of Industry and Consumer Education. (2019) https:// www.fda.gov/about-fda/cdrh-offices/division- industry-and-consumer-education</li>
+  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2019). CDRH Learn. https://www.fda.gov/training-and- continuing-education/cdrh-learn</li>
+  <li>21CFR820.30. https://www.accessdata.fda.gov/ scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.30</li>
+  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2016). Applying Human Factors and Usability Engineering to Medical Devices.</li>
+  <li>The Association for the Advancement of Medical Instrumentation. (2009). Human Factors Engineering – Design of Medical Devices. ANSI/ AAMI HE75:2009 (R2018)</li>
+  <li>U.S. Food and Drug Administration. How to Use Consensus Standards in Premarket Submissions. https://www.fda.gov/media/147787/download</li>
+  <li>U.S. Department of Health and Human Services Food and Drug Administration. (2014).VIII. Human Factors. In Design Considerations for Devices Intended for Home Use. Guidance for Industry and Food and Drug Administration Staff. (pp. 13–14).</li>
+  <li>TPGi. Colour Contrast Analyser (CCA). https://www.tpgi.com/color-contrast-checker/</li>
+  <li>International Organization for Standardization. (2022). Plain language – Part 1: Governing principles and guidelines. (ISO Standard No. 24495-1:2022). https://www.iso.org/ standard/78907.html</li>
+  <li>Federal Plain Language Guidelines (2011). https://www.plainlanguage.gov/</li>
+  <li>National Eye Institute. (2019) Types of Color Blindness. https://www.nei.nih.gov/learn-about- eye-health/eye-conditions-and-diseases/color- blindness/types-color-blindness</li>
+  <li>National Library Service for the Blind and Print Disabled (NLS), Library of Congress. NLS Factsheet: About Braille. https://www.loc.gov/ nls/resources/blindness-and-vision-impairment/ braille-information/about-braille/</li>
+  <li>International Organization for Standardization. (2021). Medical devices – Symbols to be used with information to be supplied by the manufacturer – Part 1: General requirements. (ISO Standard No. 15223-1:2021). https://www. iso.org/standard/77326.html</li>
+  <li>Web Content Accessibility Guidelines (WCAG) 2.1 W3C Recommendation. (2018). https://www. w3.org/TR/WCAG21/</li>
+  <li>W3C Web Accessibility Initiative, WCAG 2 Overview. (2023). https://www.w3.org/WAI/ standards-guidelines/wcag/</li>
+  <li>W3C Working Draft. Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile. (2015). https://www.w3.org/TR/2015/ WD-mobile-accessibility-mapping-20150226/</li>
+  <li>Department of Justice and the General Services Administration. (2023) Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology to Congress and the President. https://www.justice. gov/crt/page/file/1569331/download</li>
+  <li>En-Vision America, ScripTalk. https://www. envisionamerica.com/scriptalk-station-for-patients</li>
+  <li>CVS, “Hi! It’s your prescription talking.”, Spoken Tx™. https://www.cvs.com/content/pharmacy/ spoken-rx</li>
+  <li>W3C Web Accessibility Initiative, Media Players in Making Audio and Video Media Accessible. (2021) https://www.w3.org/WAI/media/av/player/</li>
+  <li>Digital.gov, U.S. General Services Administration. (2020). 508 Accessible Videos – Use a 508-Compliant Video Player. https://digital. gov/2014/06/30/508-accessible-videos-use-a- 508-compliant-video-player/</li>
+  <li>Section508.gov, General Services Administration. (2022) Create Accessible Video, Audio and Social Media. https://www.section508.gov/create/video- social/</li>
+  <li>Digital.gov, U.S. General Services Administration. 508 Accessible Videos – How to Make Audio Descriptions. (2022). https://digital.gov/2014/06/30/508-accessible-videos-how-to- make-audio-descriptions/</li>
+  <li>W3C Working Group Note 7. (2016). Techniques and Failures for Web Content Accessibility Guidelines 2.0. https://www.w3.org/TR/WCAG20-TECHS/Overview.html#contents</li>
+  <li>Web Content Accessibility Guidelines (WCAG) 2.2. (2023). W3C Candidate Recommendation Draft, Success Criterion 2.5.8 Target Size (Minimum). https://www.w3.org/TR/WCAG22/</li>
+  <li>U.S. Department of Justice Civil Rights Division. (2010). 2010 ADA Standards for Accessible Design, 309.4 Operation. https://www.ada.gov/ law-and-regs/design-standards/2010-stds/#top</li>
+  <li>Villafañe, J. H., Valdes, K., Bertozzi, L., and Negrini, S. (2014). Minimal clinically important difference of grip and pinch strength in women with thumb carpometacarpal osteoarthritis when compared to healthy subjects. Rehabilitation Nursing.</li>
+  <li>Greiner, TM. US Army Natick Research Development and Engineering Center, MA., Anthropology Branch, Behavioral Sciences Division, Soldier Science Directorate. (1991). Hand Anthropometry of U.S. Army Personnel. https://apps.dtic.mil/sti/pdfs/ADA244533.pdf</li>
+  <li>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.</li>
 </ol>
 
 ---
