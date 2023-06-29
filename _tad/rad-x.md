@@ -247,8 +247,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>8.1 Legibility</h4>
-      <h3 id="Legibility">Legibility</h3>
+      <h3 id="Legibility">8.1 Legibility</h3>
     </div>
     <div class="tablet:grid-col"> </div>
   </div>
@@ -314,7 +313,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>8.2 Readability and Layout </h4>
+      <h3>8.2 Readability and Layout </h3>
     </div>
     <div class="tablet:grid-col"> </div>
   </div>
@@ -375,7 +374,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h3 id="Language">8.3 Language</h3>
+      <h3 id="language">8.3 Language</h3>
       <ul>
         <li>Plain Language </li>
         <li>Descriptive Language</li>
