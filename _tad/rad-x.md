@@ -150,27 +150,27 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <hr />
 <h3 id="Symbols">3. Symbols Guide</h3>
 <dl>
-  <dt><img class="img-full" src="../images/audio-sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" /> Audio / Sound</dt>
+  <dt><img src="../images/audio-sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" /> Audio / Sound</dt>
   <dd>Audible output or feedback from a device</dd>
-  <dt><img class="img-full" src="../images/no-audio-sound.png" alt="red slash-circle over speaker icon" />No Audio / Sound </dt>
+  <dt><img src="../images/no-audio-sound.png" alt="red slash-circle over speaker icon" />No Audio / Sound </dt>
   <dd>Absence of audible output or feedback from a device</dd>
-  <dt><img class="img-full" src="../images/bluetooth.png" alt="Bluetooth symbol, a stylized capital b" />Bluetooth</dt>
+  <dt><img src="../images/bluetooth.png" alt="Bluetooth symbol, a stylized capital b" />Bluetooth</dt>
   <dd>Indicates Bluetooth connectivity </dd>
-  <dt><img class="img-full" src="../images/haptic-or-vibration.png" alt="four zigzag vertical lines" />Haptic or Vibration</dt>
+  <dt><img src="../images/haptic-or-vibration.png" alt="four zigzag vertical lines" />Haptic or Vibration</dt>
   <dd>Dynamic physical feedback on a device</dd>
-  <dt><img class="img-full" src="../images/hourglass.png" alt="hourglass icon, half filled" />Hourglass</dt>
+  <dt><img src="../images/hourglass.png" alt="hourglass icon, half filled" />Hourglass</dt>
   <dd>Indicates date or time; often used as a visual icon next to an expiration date </dd>
-  <dt><img class="img-full" src="../images/off.png" alt="bold empty circle" />Off</dt>
+  <dt><img src="../images/off.png" alt="bold empty circle" />Off</dt>
   <dd>Indicates the “off” state of an electronic device </dd>
-  <dt><img class="img-full" src="../images/on.png" alt="bold vertical line" />On</dt>
+  <dt><img src="../images/on.png" alt="bold vertical line" />On</dt>
   <dd>Indicates the “on” state of an electronic device </dd>
-  <dt><img class="img-full" src="../images/phone.png" alt="telephone handset icon" />Phone</dt>
+  <dt><img src="../images/phone.png" alt="telephone handset icon" />Phone</dt>
   <dd>Indicates the use of a telephone </dd>
-  <dt><img class="img-full" src="../images/power.png" alt="empty circle with vertical line from center; line breaks through top of circle" />Power</dt>
+  <dt><img src="../images/power.png" alt="empty circle with vertical line from center; line breaks through top of circle" />Power</dt>
   <dd>Power on-off indicator/button on an electronic device</dd>
-  <dt><img class="img-full" src="../images/qr-code.png" alt="pixelated square matrix barcode" />QR Code</dt>
+  <dt><img src="../images/qr-code.png" alt="pixelated square matrix barcode" />QR Code</dt>
   <dd>Generic representation of a Quick Response (QR) code</dd>
-  <dt><img class="img-full" src="../images/warning.png" alt="bold red triangle containing an exclamation point" />Warning </dt>
+  <dt><img src="../images/warning.png" alt="bold red triangle containing an exclamation point" />Warning </dt>
   <dd>Indicates a critical warning </dd>
 </dl>
 <hr />
