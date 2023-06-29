@@ -40,7 +40,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p><b>Government Agencies:</b></p>
 <p>Centers for Disease Control and Prevention, U.S. Food and Drug Administration, National Center for Medical Rehabilitation Research, National Council on Disability, National Eye Institute, National Institute of Dental and Craniofacial Research, National Institute of Nursing Research, National Institute on Disability, Independent Living, Rehabilitation Research within the Administration for Community Living.</p>
 <hr />
-<h3 id="Background">1. Background</h3>
+<h3>1. Background</h3>
 <p>In response to the COVID-19 pandemic, the National Institutes of Health (NIH) launched the Rapid Acceleration of Diagnostics (RADx®) initiative in 2020 to speed the innovation, development, commercialization, and implementation of COVID-19 testing technologies. The RADx Tech program, one arm of the initiative, was specifically designed to compress the customary technology development timeline from years down to just months. While NIH RADx Tech has increased testing capacity in the U.S., there is a continuing need to develop COVID-19 home tests that are accessible to all users, including populations that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. </p>
 <p>NIH RADx Tech began committing resources to increasing accessibility of COVID-19 home tests in early 2022. As a first step, the team consulted design groups and conducted research to locate existing accessible product design guidelines. Comprehensive guidelines for manufacturers around accessible design of in vitro diagnostic (IVD) products were nonexistent. Consequently, the team engaged advocacy groups with a deep knowledge of the experience and needs of target user populations. Importantly, these advocacy groups include members of the populations they serve.</p>
 <p>NIH RADx Tech established a formal funding opportunity for accessible COVID-19 home tests. As part of this effort, RADx Tech engaged several different groups, including the Georgia Tech HomeLab, to conduct test accessibility evaluations; advocacy group partners to onboard accessibility design consultants from the target user populations; and academic centers specializing in accessibility to onboard additional subject matter experts (SMEs). SMEs provided individualized and detailed feedback on device usability and accessibility gaps, and collaborated with design firms to develop potential solutions. RADx Tech then worked with test kit manufacturers to bridge identified accessibility gaps on an accelerated timeline.</p>
@@ -148,7 +148,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <dd>Method or means by which a human interacts with or controls a product, website, or application.</dd>
 </dl>
 <hr />
-<h3 id="Symbols">3. Symbols Guide</h3>
+<h3>3. Symbols Guide</h3>
 <dl>
   <dt><img src="../images/audio-sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" /> Audio / Sound</dt>
   <dd>Audible output or feedback from a device</dd>
