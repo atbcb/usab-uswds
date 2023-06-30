@@ -820,7 +820,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>User Interface and Experience Features</h4>
-      <img class="img-full" src="../images/user-interface-and-experience-considerations.png" alt="Three examples of mobile phone screens. The first screen shows an application in the analyzing process with a timer showing time remaining. The second screen shows Step 1 of 8 with block text. The third example shows a warning popping up on the screen with a warning symbol in red text." /> <span class="grid-line text-italic">User interface and experience considerations </span>
+      <img class="img-large" src="../images/user-interface-and-experience-considerations.png" alt="Three examples of mobile phone screens. The first screen shows an application in the analyzing process with a timer showing time remaining. The second screen shows Step 1 of 8 with block text. The third example shows a warning popping up on the screen with a warning symbol in red text." /> <span class="grid-line text-italic">User interface and experience considerations </span>
       <p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in user interface design can have a major impact on the entire user experience.</p>
     </div>
   </div>
@@ -847,7 +847,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Standalone Audio Instructions </h4>
-      <img class="img-full" src="../images/multiple-platforms-supporting-audio-content.png" alt="Desktop computer with audio/sound symbol. A hand holding a mobile phone that shows an audio file being played." /> <span class="grid-line text-italic">Multiple platforms supporting audio content </span>
+      <img class="img-large" src="../images/multiple-platforms-supporting-audio-content.png" alt="Desktop computer with audio/sound symbol. A hand holding a mobile phone that shows an audio file being played." /> <span class="grid-line text-italic">Multiple platforms supporting audio content </span>
       <p>Audio may be the preferred mode for some users to receive test instructions. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
     </div>
   </div>
@@ -888,7 +888,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Interactive Voice Response (IVR) System</h4>
-      <img class="img-full" src="../images/interactive-voice-response-(ivr)-system.png" alt="Landline phone with a dial pad. Illustration of a human face speaking in the direction of the phone." /> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span>
+      <img class="img-large" src="../images/interactive-voice-response-(ivr)-system.png" alt="Landline phone with a dial pad. Illustration of a human face speaking in the direction of the phone." /> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span>
       <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users who are less familiar with using web or mobile applications. Connecting users to test instructions via telephone allows them to use a well known, expected instruction format.</p>
     </div>
   </div>
@@ -918,7 +918,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Video Tutorial</h4>
-      <img class="img-full" src="../images/video-demonstration-of-test-procedure.png" alt="Video screen showing a vial docking to a cassette." /> <span class="grid-line text-italic">Video demonstration of test procedure </span>
+      <img class="img-large" src="../images/video-demonstration-of-test-procedure.png" alt="Video screen showing a vial docking to a cassette." /> <span class="grid-line text-italic">Video demonstration of test procedure </span>
       <p>Videos can be an effective way to inform users about  the product. They provide dynamic demonstrations  to learners who prefer to process information visually  and audibly. Executed well, they can also provide an  improved audio instruction experience versus screen  reading digital instructions. </p>
     </div>
   </div>
@@ -989,7 +989,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Labeling</h4>
-      <img class="img-full" src="../images/box-with-examples-of-good-identification-features.png" alt="Line drawing of a box with clearly visible text, logo, and QR code." /> <span class="grid-line text-italic">Box with examples of good identification features </span>
+      <img class="img-large" src="../images/box-with-examples-of-good-identification-features.png" alt="Line drawing of a box with clearly visible text, logo, and QR code." /> <span class="grid-line text-italic">Box with examples of good identification features </span>
       <p>The outer box packaging is the initial introduction to  any device, so labeling and interaction with the outer  packaging should be carefully considered. Packaging  typically conveys information through text, images,  and symbols. Packaging can also convey information  through shape and links to external information (e.g.,  QR codes). </p>
     </div>
   </div>
@@ -1060,7 +1060,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Accessing Contents</h4>
-      <img class="img-full" src="../images/package-with-tamper-evident-seal.png" alt="Test kit box with a seal keeping the box closed." /> <span class="grid-line text-italic">Package with tamper-evident seal </span>
+      <img class="img-large" src="../images/package-with-tamper-evident-seal.png" alt="Test kit box with a seal keeping the box closed." /> <span class="grid-line text-italic">Package with tamper-evident seal </span>
       <p>Opening and accessing contents of outer packaging requires a balance of competing needs: </p>
       <ul>
         <li>preventing unauthorized users from tampering with contents;</li>
@@ -1118,7 +1118,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Organization</h4>
-      <img class="img-full" src="../images/kit-contents.png" alt="Open test kit box with kit contents inside the box. Each component is lying flat within a fixed tray inside the box." /> <span class="grid-line text-italic">Kit contents</span>
+      <img class="img-large" src="../images/kit-contents.png" alt="Open test kit box with kit contents inside the box. Each component is lying flat within a fixed tray inside the box." /> <span class="grid-line text-italic">Kit contents</span>
       <p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing package components thoughtfully can greatly enhance the user’s ability to complete the test. A tray is an optional accessory for organizing components and improving the user experience. </p>
     </div>
   </div>
@@ -1177,7 +1177,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <hr />
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/internal-pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
+    <div class="tablet:grid-col"> <img class="img-large" src="../images/internal-pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
       <h4>Internal Pouches</h4>
       <p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches. <a href="#thirty">[30]</a></p>
     </div>
