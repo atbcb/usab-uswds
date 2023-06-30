@@ -150,32 +150,32 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <hr />
 <h3>3. Symbols Guide</h3>
 <dl>
-  <dt><img src="../images/audio-sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" /> Audio / Sound</dt>
+  <dt><img src="../images/audio-sound.png" alt="two symbols with the word ‘or' in between them; the first is a speaker icon with three sound waves; the second shows only three sound waves that appear like right parentheses" />&nbsp;&nbsp; Audio / Sound</dt>
   <dd>Audible output or feedback from a device</dd>
-  <dt><img src="../images/no-audio-sound.png" alt="red slash-circle over speaker icon" />No Audio / Sound </dt>
+  <dt><img src="../images/no-audio-sound.png" alt="red slash-circle over speaker icon" />&nbsp;&nbsp; No Audio / Sound </dt>
   <dd>Absence of audible output or feedback from a device</dd>
-  <dt><img src="../images/bluetooth.png" alt="Bluetooth symbol, a stylized capital b" />Bluetooth</dt>
+  <dt><img src="../images/bluetooth.png" alt="Bluetooth symbol, a stylized capital b" />&nbsp;&nbsp; Bluetooth</dt>
   <dd>Indicates Bluetooth connectivity </dd>
-  <dt><img src="../images/haptic-or-vibration.png" alt="four zigzag vertical lines" />Haptic or Vibration</dt>
+  <dt><img src="../images/haptic-or-vibration.png" alt="four zigzag vertical lines" />&nbsp;&nbsp; Haptic or Vibration</dt>
   <dd>Dynamic physical feedback on a device</dd>
-  <dt><img src="../images/hourglass.png" alt="hourglass icon, half filled" />Hourglass</dt>
+  <dt><img src="../images/hourglass.png" alt="hourglass icon, half filled" />&nbsp;&nbsp; Hourglass</dt>
   <dd>Indicates date or time; often used as a visual icon next to an expiration date </dd>
-  <dt><img src="../images/off.png" alt="bold empty circle" />Off</dt>
+  <dt><img src="../images/off.png" alt="bold empty circle" />&nbsp;&nbsp; Off</dt>
   <dd>Indicates the “off” state of an electronic device </dd>
-  <dt><img src="../images/on.png" alt="bold vertical line" />On</dt>
+  <dt><img src="../images/on.png" alt="bold vertical line" />&nbsp;&nbsp; On</dt>
   <dd>Indicates the “on” state of an electronic device </dd>
-  <dt><img src="../images/phone.png" alt="telephone handset icon" />Phone</dt>
+  <dt><img src="../images/phone.png" alt="telephone handset icon" />&nbsp;&nbsp; Phone</dt>
   <dd>Indicates the use of a telephone </dd>
-  <dt><img src="../images/power.png" alt="empty circle with vertical line from center; line breaks through top of circle" />Power</dt>
+  <dt><img src="../images/power.png" alt="empty circle with vertical line from center; line breaks through top of circle" />&nbsp;&nbsp; Power</dt>
   <dd>Power on-off indicator/button on an electronic device</dd>
-  <dt><img src="../images/qr-code.png" alt="pixelated square matrix barcode" />QR Code</dt>
+  <dt><img src="../images/qr-code.png" alt="pixelated square matrix barcode" />&nbsp;&nbsp; QR Code</dt>
   <dd>Generic representation of a Quick Response (QR) code</dd>
-  <dt><img src="../images/warning.png" alt="bold red triangle containing an exclamation point" />Warning </dt>
+  <dt><img src="../images/warning.png" alt="bold red triangle containing an exclamation point" />&nbsp;&nbsp; Warning </dt>
   <dd>Indicates a critical warning </dd>
 </dl>
 <hr />
 <h3 id="design-considerations">4. Design Considerations </h3>
-<p>Accessible product design/redesign requires more than incremental improvements to individual test kit components. To create a truly accessible at-home COVID-19 testing experience, the end-to-end workflow should be considered. A holistic review includes consideration of how various test kit components function together to create a seamless testing experience from kit acquisition through component disposal. Features incorporated to improve usability for one user group should improve usability for all. Universal design– “the design and composition of an environment [or product] so that it can be accessed, understood, and used to the greatest extent possible by all people regardless of their age, ability or disability” [1] –is an appropriate and achievable goal. </p>
+<p>Accessible product design/redesign requires more than incremental improvements to individual test kit components. To create a truly accessible at-home COVID-19 testing experience, the end-to-end workflow should be considered. A holistic review includes consideration of how various test kit components function together to create a seamless testing experience from kit acquisition through component disposal. Features incorporated to improve usability for one user group should improve usability for all. Universal design– “the design and composition of an environment [or product] so that it can be accessed, understood, and used to the greatest extent possible by all people regardless of their age, ability or disability” –is an appropriate and achievable goal. <a href="#one">[1]</a><span id="endnote1"></span></p>
 <p>Below are several guiding principles for universal design of COVID-19 home tests:</p>
 <ul>
   <li>Engage target end users early (see 7. Assessing Usability). </li>
@@ -215,23 +215,23 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>Manufacturers should plan to have ongoing relationships with end users. The more consistent their involvement, the more robust the final design will be. Designs should be assessed by end users representing a broad range of capabilities. Always plan to make design materials accessible to people with disabilities and circulate them prior to review. </p>
 <hr />
 <h3 id="regulatory-and-design-control">6. Regulatory and Design Control </h3>
-<p>The U.S. Food and Drug Administration (FDA) isbresponsible for protecting public health by ensuringbthe safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, and radiation-emitting products; and by ensuring the safety of our nation’s food supply and cosmetics. [2] Within FDA, the Center for Devices and Radiological Health (CDRH) is responsible for ensuring the safety and effectiveness of medical devices and eliminating unnecessary exposure to radiation-emitting products. [3]</p>
-<p>A medical device is broadly defined in Section 201(h) of the Federal Food, Drug, and Cosmetic Act as “any instrument, machine, contrivance, implant, in vitro reagent that’s intended to treat, cure, prevent, mitigate, [or] diagnose disease in man”. [2] Medical devices are classified based on risk: Class I devices demonstrate low risk, Class II devices demonstrate moderate risk, and Class III devices demonstrate high risk. [4]</p>
-<p>A wealth of practical information on regulations pertaining to design, marketing, and distribution of medical devices is produced by the Division of Industry and Consumer Education (DICE) within CDRH. CDRH Learn is a useful educational tool that consists of learning modules describing many aspects of medical devices, covering both premarket and post [5] market topics. Modules are provided in various formats, including videos, audio recordings, and slide presentations. [6]</p>
+<p>The U.S. Food and Drug Administration (FDA) isbresponsible for protecting public health by ensuringbthe safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, and radiation-emitting products; and by ensuring the safety of our nation’s food supply and cosmetics.  Within FDA, the Center for Devices and Radiological Health (CDRH) is responsible for ensuring the safety and effectiveness of medical devices and eliminating unnecessary exposure to radiation-emitting products.<a href="#two">[2]</a><span id="endnote2"></span>  <a href="#three">[3]</a><span id="endnote3"></span></p>
+<p>A medical device is broadly defined in Section 201(h) of the Federal Food, Drug, and Cosmetic Act as “any instrument, machine, contrivance, implant, in vitro reagent that’s intended to treat, cure, prevent, mitigate, [or] diagnose disease in man”.  Medical devices are classified based on risk: Class I devices demonstrate low risk, Class II devices demonstrate moderate risk, and Class III devices demonstrate high risk. <a href="#two">[2]</a> <a href="#four">[4]</a><span id="endnote4"></span></p>
+<p>A wealth of practical information on regulations pertaining to design, marketing, and distribution of medical devices is produced by the Division of Industry and Consumer Education (DICE) within CDRH. CDRH Learn is a useful educational tool that consists of learning modules describing many aspects of medical devices, covering both premarket and post  market topics. Modules are provided in various formats, including videos, audio recordings, and slide presentations.<a href="#five">[5]</a><span id="endnote5"></span> <a href="#six">[6]</a><span id="endnote6"></span></p>
 <p><b>User Needs and Accessibility</b></p>
 <p>Per 21 CFR Section 820.30, design control requirements apply to Class II and III medical devices, and a select group of Class I devices. These regulations require the manufacturer to base its design controls on the complexity and risks associated with its devices. It includes new designs (premarket) and improvements or modifications to existing device designs (post-market). Design control begins after feasibility, or “Proof of Concept”, and continues throughout the product lifecycle. The first and most crucial step is identifying and documenting the user needs that will be used as the basis of product development during each phase. Defining user needs as they relate to accessibility is fundamental and ensures that the right product is designed. This is especially true for the design of over-the-counter (OTC) tests used outside of the clinical environment. These tests pose unique risks created by the interactions between the user, the use environment, and the device. </p>
 <p>The general user population for these tests includes individuals that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging.</p>
-<p>These groups must be considered when creating the user needs for an accessible OTC product. To confirm that such products are safe and effective in the hands of the intended user, validation testing must be performed in accordance with FDA recommendations to confirm the end user can use the product as intended (see 7. Assessing Usability). [8]</p>
+<p>These groups must be considered when creating the user needs for an accessible OTC product. To confirm that such products are safe and effective in the hands of the intended user, validation testing must be performed in accordance with FDA recommendations to confirm the end user can use the product as intended (see 7. Assessing Usability). <a href="#eight">[8]</a><span id="endnote8"></span></p>
 <p>These topics are further described in the seminal recommended practice document created by the Association for the Advancement of Medical Instrumentation (AAMI). The stated purpose of this document, ANSI/AAMI HE75:2009/(R2018) Human Factors Engineering - Design of Medical Devices, is to provide a relevant source of human factors engineering (HFE) information, design criteria, and guidelines for medical devices. The human factors design information and methodologies described may be used
-  through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human [9] Factors and Usability Engineering to Medical Devices.” Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.” [10]</p>
+  through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human Factors and Usability Engineering to Medical Devices.” Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.” <a href="#nine">[9]</a><span id="endnote9"></span> <a href="#ten">[10]</a><span id="endnote10"></span></p>
 <hr />
 <h3 id="assessing-usability">7. Assessing Usability </h3>
 <p>The best practices outlined in this document will aid manufacturers in creating an accessible and usable home test kit; however, understanding how well (or
-  poorly) a design meets user needs requires design assessments. [11]</p>
+  poorly) a design meets user needs requires design assessments. <a href="#eleven">[11]</a><span id="endnote11"></span></p>
 <p>Early in the product development process, manufacturers should conduct a user feedback study with end users unfamiliar with the product, collecting feedback on low-fidelity prototypes. This is called a formative assessment. The objective of this type of study is to gather information about which features should or should not be carried forward as the design develops. Participants are often encouraged to describe concepts that may bridge gaps from the present design to a more optimal design.</p>
 <p>As the design progresses, manufacturers should conduct an additional user feedback study with end users unfamiliar with the product, collecting feedback on high-fidelity prototypes that users employ to complete actual workflow steps. This is called a formative quantitative simulation-based assessment. Participants are encouraged to think aloud while moments of user delight or user frustration are identified. The objective of this type of study is to gain feedback on the design, including what type of information should be relayed in labeling and instructions. This study should be conducted in a simulated home environment, complete with
   anticipated distractions and hindrances (e.g., low lighting, background noise, clutter).</p>
-<p>At the end of the development cycle, manufacturers should conduct a human factors validation study with end users unfamiliar with the product, collecting feedback on production-equivalent packaging, labeling, and devices, while users proceed through the entire workflow without interruption. This is called a summative assessment. This study should also be conducted in a simulated home environment. Refer to FDA guidance “Applying Human Factors and Usability Engineering to Medical Devices” for details. [8]</p>
+<p>At the end of the development cycle, manufacturers should conduct a human factors validation study with end users unfamiliar with the product, collecting feedback on production-equivalent packaging, labeling, and devices, while users proceed through the entire workflow without interruption. This is called a summative assessment. This study should also be conducted in a simulated home environment. Refer to FDA guidance “Applying Human Factors and Usability Engineering to Medical Devices” for details. <a href="#eight">[8]</a></p>
 <p>Any user errors or near misses should be noted, and after the study participant completes the full workflow, study staff should probe for reasons why the user error or near miss occurred to determine the root cause. </p>
 <hr />
 <h3 id="Instructions">8. Instructions</h3>
@@ -305,7 +305,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <img class="img-large center" src="../images/recommended-color-combination.png" alt="Test instructions for use with easily distinguishable dark text on a white page. A grid of colors with appropriately contrasting color text." /> <span class="grid-line text-italic">Recommended color combination; legible test instructions </span>
-      <p>Color contrast should allow for clear differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 point or smaller font and 3:1 for larger font. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi’s Colour Contrast Analyser (CCA). [12]</p>
+      <p>Color contrast should allow for clear differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 point or smaller font and 3:1 for larger font. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi’s Colour Contrast Analyser (CCA). <a href="#twelve">[12]</a><span id="endnote12"></span></p>
     </div>
   </div>
 </div>
@@ -382,7 +382,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Braille</li>
       </ul>
       <h4>Plain Language </h4>
-      <p>Plain language is a process for developing a communication (such as a printed document, webpage, or mobile application screen) that allows intended users to “find what they need, understand what they find, and use what they find to meet their needs”. [13, 14]</p>
+      <p>Plain language is a process for developing a communication (such as a printed document, webpage, or mobile application screen) that allows intended users to “find what they need, understand what they find, and use what they find to meet their needs”. <a href="#thirteen">[13]</a><span id="endnote13"></span> <a href="#fourteen">[14]</a><span id="endnote14"></span></p>
       <p>Plain language is the process of developing user-appropriate information. It includes purpose, structure, expression, design, and evaluation.</p>
       <p><b>Purpose:</b> identify and describe the target users and the communication goals. </p>
       <ul>
@@ -482,7 +482,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h5>Recommendation</h5>
       <ul>
         <li>Color should be used to refer to easily distinguishable areas, and reference to color should be accompanied by a nonvisual descriptor (e.g., ribbed red dropper cap, rectangular silver pouch). </li>
-        <li>Avoid using colors that may be imperceptible or indistinguishable. [15] </li>
+        <li>Avoid using colors that may be imperceptible or indistinguishable. <a href="#fifteen">[15]</a><span id="endnote15"></span> </li>
         <li>Describe each color by name and relative tone (e.g., brighter), if applicable.</li>
       </ul>
     </div>
@@ -544,11 +544,11 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 </div>
 <hr />
 <h4>Braille</h4>
-<p>Braille is a tactile reading and writing system in which raised dots represent the letters of the alphabet, [16]
+<p>Braille is a tactile reading and writing system in which raised dots represent the letters of the alphabet, 
   numbers, and symbols. Braille serves as one approach to capturing and conveying the same level of detail provided in text content. </p>
-<p>Braille is an inherently physical medium traditionally produced using braille “printers” that emboss paper capable of retaining raised dots. Braille has a fixed minimum character size roughly comparable to 28-point font. One traditional print page of text typically transcribes to multiple braille pages, depending on the character count and formatting. Particularly dense, information-packed documents could easily transcribe into significantly longer paper braille documents, especially if they include complex content such as graphs, charts, or non-decorative images. It is desirable to make paper braille instructions available to customers upon request. <br>
+<p>Braille is an inherently physical medium traditionally produced using braille “printers” that emboss paper capable of retaining raised dots. Braille has a fixed minimum character size roughly comparable to 28-point font. One traditional print page of text typically transcribes to multiple braille pages, depending on the character count and formatting. Particularly dense, information-packed documents could easily transcribe into significantly longer paper braille documents, especially if they include complex content such as graphs, charts, or non-decorative images. It is desirable to make paper braille instructions available to customers upon request. <a href="#sixteen">[16]</a><span id="endnote16"></span><br>
   <br>
-  Creating web-based, digitally accessible documents is a cost-effective method for manufacturers to provide additional access to braille. Braille displays enable users to access digital content through braille instead of audio only, so they can obtain the rich information embedded in text including capitalization, typographical emphasis, spacing, and punctuation. Digital [16] formats that can be readily converted to braille using assistive technology include: </p>
+  Creating web-based, digitally accessible documents is a cost-effective method for manufacturers to provide additional access to braille. Braille displays enable users to access digital content through braille instead of audio only, so they can obtain the rich information embedded in text including capitalization, typographical emphasis, spacing, and punctuation. Digital formats that can be readily converted to braille using assistive technology include: <a href="#sixteen">[16]</a> </p>
 <ul>
   <li>An accessible webpage with HTML content that is compatible with screen readers and braille devices. </li>
   <li>An accessible PDF document available for download. </li>
@@ -618,7 +618,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/standard-symbols.png" alt="Standard symbols representing power, off, on, Bluetooth, and sound with text labels." /> <span class="grid-line text-italic">Standard symbols</span>
-      <p>Use unambiguous and globally accepted symbols. Follow the ISO 15223-1:2021 standard for symbols used on medical device packaging. Include [17] text labeling immediately adjacent to symbols (e.g., ‘Expiration Date’ next to hourglass symbol). </p>
+      <p>Use unambiguous and globally accepted symbols. Follow the ISO 15223-1:2021 standard for symbols used on medical device packaging. Include text labeling immediately adjacent to symbols (e.g., ‘Expiration Date’ next to hourglass symbol). <a href="#seventeen">[17]</a><span id="endnote17"></span></p>
     </div>
   </div>
 </div>
@@ -690,7 +690,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/test-instructions-that-can-be-unfolded-by-section" alt="A test kit and folded set of instructions lie on a tabletop. The instructions fit on the tabletop and are usable while folded." /> <span class="grid-line text-italic">Test instructions that can be unfolded by section</span>
+      <img class="img-full" src="../images/test-instructions-that-can-be-unfolded-by-section.png" alt="A test kit and folded set of instructions lie on a tabletop. The instructions fit on the tabletop and are usable while folded." /> <span class="grid-line text-italic">Test instructions that can be unfolded by section</span>
       <ul>
         <li>Provide test instructions in a form that allows placement adjacent to a test on a table. </li>
         <li>Consider that lighter paper weights allow instructions to lay flat. Use materials that can withstand some amount of liquid spill. If coatings are used, limit reflectivity.</li>
@@ -781,7 +781,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Assistive Technology Compatibility</h4>
-      <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has [18] undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. </p>
+      <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. <a href="#eightteen">[18]</a><span id="endnote18"></span></p>
       <h5>Issue</h5>
       <p>Test instructions are provided in a format that is not  web or mobile accessible and/or is incompatible with  native device operating system (OS) accessibility  features. </p>
     </div>
@@ -790,9 +790,9 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <ul>
         <li>Digital test instructions should be housed on a  webpage that applies responsive web design. </li>
         <li>Audit all relevant webpages for WCAG 2.1 AA  compliance with experienced digital accessibility  professionals to ensure compatibility with assistive  technology. Complete a follow-up audit for WCAG  2.1 AA compliance following any remediation efforts. </li>
-        <li>Reference and implement best practices for making  application content web accessible and mobile [19] accessible. [20] </li>
-        <li>Ensure the test instructions are available as a PDF  that conforms to Section 508, WCAG 2.1 AA, and PDF/ Universal Accessibility (UA) standards. [21] 
-          Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see 8.3 Language). </li>
+        <li>Reference and implement best practices for making  application content web accessible and mobile accessible.<a href="#ninteen">[19]</a><span id="endnote19"></span> <a href="#twenty">[20]</a><span id="endnote20"></span></li>
+        <li>Ensure the test instructions are available as a PDF  that conforms to Section 508, WCAG 2.1 AA, and PDF/ Universal Accessibility (UA) standards.  
+          Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see 8.3 Language). <a href="#twentyone">[21]</a><span id="endnote21"></span></li>
         <li>Ensure all images have meaningful, descriptive  alt text (see that 8.3 Language • Alternative Text) supports nonvisual discernment of kit components  (e.g., by shape, size, feel). </li>
         <li>Ensure all form fields, buttons, and other interactive elements have accessible names/labels. </li>
         <li>Provide a digital accessible information system (DAISY) format of the test instructions with sections and subsections defined in the file.</li>
@@ -877,7 +877,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         </ul>
         <li> Enable direct access to complete audio test instructions via radio frequency identification (RFID) tags on the outer box. </li>
         <ul>
-          <li>En-Vision America’s ScripTalk and CVS [22] Pharmacy’s Spoken Rx are examples of [23] such services. </li>
+          <li>En-Vision America’s ScripTalk and CVS Pharmacy’s Spoken Rx are examples of such services. <a href="#twentytwo">[22]</a><span id="endnote22"></span> <a href="#twentythree">[23]</a><span id="endnote23"></span></li>
         </ul>
       </ul>
     </div>
@@ -941,17 +941,17 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h5>Recommendation</h5>
       <ul>
         <li>Make video test instructions available via the  product website </li>
-        <li>Confirm video player is accessible. [24, 25] </li>
+        <li>Confirm video player is accessible. <a href="#twentyfour">[24]</a><span id="endnote24"></span> <a href="#twentyfive">[25]</a><span id="endnote25"></span></li>
         <li>Provide the ability to control video playback  including pause/play, rewind, forward, replay from  the beginning, scroll through time or advance  incrementally, and switch to full screen mode. </li>
         <li>Use high-contrast 2D animations with perspective/ depth and appropriate fill instead of live action. </li>
         <li>Do not provide an abbreviated version of a longer  video.</li>
         <li>Avoid looping videos and/or audio with no ability to  pause.</li>
-        <li>Ensure closed captions are provided and  synchronized with the video and audio content. [26] </li>
+        <li>Ensure closed captions are provided and  synchronized with the video and audio content. <a href="#twentysix">[26]</a><span id="endnote26"></span> </li>
         <li>If the video tutorial is embedded in an application,  allow skipping the video after it has been viewed  once. </li>
-        <li>Consistent with providing alt text for 508 compliance include complete audio description. Refer to Digital. gov’s “508 Accessible Videos – How to Make Audio  Descriptions” for details. [27] </li>
-        <li> Provide audio description within the main audio, or,  preferably, as an option enabled by the user. [28] </li>
+        <li>Consistent with providing alt text for 508 compliance include complete audio description. Refer to Digital. gov’s “508 Accessible Videos – How to Make Audio  Descriptions” for details. <a href="#twentyseven">[27]</a><span id="endnote27"></span> </li>
+        <li> Provide audio description within the main audio, or,  preferably, as an option enabled by the user. <a href="#twentyeight">[28]</a><span id="endnote28"></span> </li>
         <li> Include timestamps on the player for easy  navigation to specific sections (e.g., getting started,  workflow, interpreting results). Use native device OS  video controls. </li>
-        <li>Ensure on-screen buttons conform to WCAG 2.2  success criterion 2.5.8. [29]</li>
+        <li>Ensure on-screen buttons conform to WCAG 2.2  success criterion 2.5.8. <a href="#twentynine">[29]</a><span id="endnote29"></span></li>
       </ul>
     </div>
   </div>
@@ -1085,7 +1085,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <ul>
         <li>The tamper-evident seal should be a contrasting  color to the rest of the package.</li>
         <li>For easy removal without the use of external  tools, the seal should include a grasp feature with  sufficient graspable area (e.g., at least 0.5 inches  [12.7 mm] square). </li>
-        <li>Force required to remove a tamper-evident seal  should not exceed 5 lbs. (22.2 N). [30]</li>
+        <li>Force required to remove a tamper-evident seal  should not exceed 5 lbs. (22.2 N). <a href="#thirty">[30]</a><span id="endnote30"></span></li>
       </ul>
     </div>
   </div>
@@ -1179,7 +1179,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col"> <img class="img-full" src="../images/internal-pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
       <h4>Internal Pouches</h4>
-      <p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. [30] Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches.</p>
+      <p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches. <a href="#thirty">[30]</a></p>
     </div>
   </div>
 </div>
@@ -1314,8 +1314,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     <div class="tablet:grid-col"> <img class="img-full" src="../images/thin-walled-vial.png" alt="Cylindrical fluid vial with thin walls. A hand holding the vial at the center with a pinch grip has narrow overlaid arrows, indicating improved ease of squeezing the vial." /> <span class="grid-line text-italic">Thin-walled vial</span>
       <h5>Recommendation</h5>
       <ul>
-        <li>Make fluid vial walls thinner and more pliable, ensuring force to dispense liquid is less than 3.5 lbs. (15.6 N). [31]</li>
-        <li>Vials should be at least 1.6 inches (40mm) long. [32]</li>
+        <li>Make fluid vial walls thinner and more pliable, ensuring force to dispense liquid is less than 3.5 lbs. (15.6 N). <a href="#thirtyone">[31]</a><span id="endnote31"></span></li>
+        <li>Vials should be at least 1.6 inches (40mm) long. <a href="#thirtytwo">[32]</a><span id="endnote32"></span></li>
         <li>Construct fluid vials of see-through materials to allow clear visualization of contents.</li>
       </ul>
     </div>
@@ -1331,7 +1331,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h5>Recommendation</h5>
       <ul>
         <li>Design fluid vials to ensure stability when set upright (e.g., integrated vial base, separate vial stand, vial stand punch-out in outer box).</li>
-        <li>For a vial stand punch-out in the outer box, ensure force to puncture is less than 5 lbs. (22.2 N) [30], use high-contrast labeling to indicate location, size to ensure secure fluid vial fit, and position in a location that does not interfere with box use (e.g., at box edge).</li>
+        <li>For a vial stand punch-out in the outer box, ensure force to puncture is less than 5 lbs. (22.2 N) , use high-contrast labeling to indicate location, size to ensure secure fluid vial fit, and position in a location that does not interfere with box use (e.g., at box edge). <a href="#thirty">[30]</a></li>
       </ul>
     </div>
   </div>
@@ -1475,7 +1475,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     <div class="tablet:grid-col"> <img class="img-full" src="../images/large-button-interfaces.png" alt="Test reader with two relatively large, raised buttons on the top face labeled with high-contrast symbols. The button on the left has a power symbol and the button on the right has a Bluetooth symbol." /> <span class="grid-line text-italic">Large button interfaces</span>
       <h5>Recommendation</h5>
       <ul>
-        <li>Ensure physical buttons are a minimum 0.5 inches (12.7 mm) wide and are spaced a minimum 0.7 inches (17.8 mm) center to center. [33]</li>
+        <li>Ensure physical buttons are a minimum 0.5 inches (12.7 mm) wide and are spaced a minimum 0.7 inches (17.8 mm) center to center. <a href="#thirtythree">[33]</a><span id="endnote33"></span></li>
         <li>Physical button features (e.g., shape, edges) should be distinct.</li>
       </ul>
     </div>
@@ -1722,39 +1722,39 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   </div>
 </div>
 <ol>
-  <li>Centre for Excellence in Universal Design, National Disability Authority. (2020). What is Universal Design. https://universaldesign.ie/what- is-universal-design/</li>
-  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2018). What We Do. Fda.gov. https://www.fda.gov/about-fda/ what-we-do</li>
-  <li>Sutton, B. U.S. Food and Drug Administration. Overview of Regulatory Requirements: Medical Devices – Transcript. (2021) https://www.fda.gov/ training-and-continuing-education/cdrh-learn/ overview-regulatory-requirements-medical- devices-transcript</li>
-  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health.(2020). Classify Your Medical Device. https://www.fda. gov/medical-devices/overview-device-regulation/ classify-your-medical-device </li>
-  <li>U.S. Food and Drug Administration. Center for Devices and Radiological Health. Division of Industry and Consumer Education. (2019) https:// www.fda.gov/about-fda/cdrh-offices/division- industry-and-consumer-education</li>
-  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2019). CDRH Learn. https://www.fda.gov/training-and- continuing-education/cdrh-learn</li>
-  <li>21CFR820.30. https://www.accessdata.fda.gov/ scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.30</li>
-  <li>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2016). Applying Human Factors and Usability Engineering to Medical Devices.</li>
-  <li>The Association for the Advancement of Medical Instrumentation. (2009). Human Factors Engineering – Design of Medical Devices. ANSI/ AAMI HE75:2009 (R2018)</li>
-  <li>U.S. Food and Drug Administration. How to Use Consensus Standards in Premarket Submissions. https://www.fda.gov/media/147787/download</li>
-  <li>U.S. Department of Health and Human Services Food and Drug Administration. (2014).VIII. Human Factors. In Design Considerations for Devices Intended for Home Use. Guidance for Industry and Food and Drug Administration Staff. (pp. 13–14).</li>
-  <li>TPGi. Colour Contrast Analyser (CCA). https://www.tpgi.com/color-contrast-checker/</li>
-  <li>International Organization for Standardization. (2022). Plain language – Part 1: Governing principles and guidelines. (ISO Standard No. 24495-1:2022). https://www.iso.org/ standard/78907.html</li>
-  <li>Federal Plain Language Guidelines (2011). https://www.plainlanguage.gov/</li>
-  <li>National Eye Institute. (2019) Types of Color Blindness. https://www.nei.nih.gov/learn-about- eye-health/eye-conditions-and-diseases/color- blindness/types-color-blindness</li>
-  <li>National Library Service for the Blind and Print Disabled (NLS), Library of Congress. NLS Factsheet: About Braille. https://www.loc.gov/ nls/resources/blindness-and-vision-impairment/ braille-information/about-braille/</li>
-  <li>International Organization for Standardization. (2021). Medical devices – Symbols to be used with information to be supplied by the manufacturer – Part 1: General requirements. (ISO Standard No. 15223-1:2021). https://www. iso.org/standard/77326.html</li>
-  <li>Web Content Accessibility Guidelines (WCAG) 2.1 W3C Recommendation. (2018). https://www. w3.org/TR/WCAG21/</li>
-  <li>W3C Web Accessibility Initiative, WCAG 2 Overview. (2023). https://www.w3.org/WAI/ standards-guidelines/wcag/</li>
-  <li>W3C Working Draft. Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile. (2015). https://www.w3.org/TR/2015/ WD-mobile-accessibility-mapping-20150226/</li>
-  <li>Department of Justice and the General Services Administration. (2023) Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology to Congress and the President. https://www.justice. gov/crt/page/file/1569331/download</li>
-  <li>En-Vision America, ScripTalk. https://www. envisionamerica.com/scriptalk-station-for-patients</li>
-  <li>CVS, “Hi! It’s your prescription talking.”, Spoken Tx™. https://www.cvs.com/content/pharmacy/ spoken-rx</li>
-  <li>W3C Web Accessibility Initiative, Media Players in Making Audio and Video Media Accessible. (2021) https://www.w3.org/WAI/media/av/player/</li>
-  <li>Digital.gov, U.S. General Services Administration. (2020). 508 Accessible Videos – Use a 508-Compliant Video Player. https://digital. gov/2014/06/30/508-accessible-videos-use-a- 508-compliant-video-player/</li>
-  <li>Section508.gov, General Services Administration. (2022) Create Accessible Video, Audio and Social Media. https://www.section508.gov/create/video- social/</li>
-  <li>Digital.gov, U.S. General Services Administration. 508 Accessible Videos – How to Make Audio Descriptions. (2022). https://digital.gov/2014/06/30/508-accessible-videos-how-to- make-audio-descriptions/</li>
-  <li>W3C Working Group Note 7. (2016). Techniques and Failures for Web Content Accessibility Guidelines 2.0. https://www.w3.org/TR/WCAG20-TECHS/Overview.html#contents</li>
-  <li>Web Content Accessibility Guidelines (WCAG) 2.2. (2023). W3C Candidate Recommendation Draft, Success Criterion 2.5.8 Target Size (Minimum). https://www.w3.org/TR/WCAG22/</li>
-  <li>U.S. Department of Justice Civil Rights Division. (2010). 2010 ADA Standards for Accessible Design, 309.4 Operation. https://www.ada.gov/ law-and-regs/design-standards/2010-stds/#top</li>
-  <li>Villafañe, J. H., Valdes, K., Bertozzi, L., and Negrini, S. (2014). Minimal clinically important difference of grip and pinch strength in women with thumb carpometacarpal osteoarthritis when compared to healthy subjects. Rehabilitation Nursing.</li>
-  <li>Greiner, TM. US Army Natick Research Development and Engineering Center, MA., Anthropology Branch, Behavioral Sciences Division, Soldier Science Directorate. (1991). Hand Anthropometry of U.S. Army Personnel. https://apps.dtic.mil/sti/pdfs/ADA244533.pdf</li>
-  <li>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.</li>
+  <li><span id="one"></span>Centre for Excellence in Universal Design, National Disability Authority. (2020). What is Universal Design. <a href="https://universaldesign.ie/what-is-universal-design/">https://universaldesign.ie/what- is-universal-design/</a> <a href="#endnote1">[Return to endnote 1]</a></li>
+  <li><span id="two"></span>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2018). What We Do. Fda.gov. <a href="https://www.fda.gov/about-fda/what-we-do">https://www.fda.gov/about-fda/ what-we-do</a> <a href="#endnote2">[Return to endnote 2]</a></li>
+  <li><span id="three"></span>Sutton, B. U.S. Food and Drug Administration. Overview of Regulatory Requirements: Medical Devices – Transcript. (2021) <a href="https://www.fda.gov/ training-and-continuing-education/cdrh-learn/ overview-regulatory-requirements-medical- devices-transcript">https://www.fda.gov/ training-and-continuing-education/cdrh-learn/ overview-regulatory-requirements-medical- devices-transcript</a> <a href="#endnote3">[Return to endnote 3]</a></li>
+  <li><span id="four"></span>U.S. Food and Drug Administration, Center for Devices and Radiological Health.(2020). Classify Your Medical Device. <a href="https://www.fda. gov/medical-devices/overview-device-regulation/ classify-your-medical-device">https://www.fda. gov/medical-devices/overview-device-regulation/ classify-your-medical-device</a>  <a href="#endnote4">[Return to endnote 4]</a></li>
+  <li><span id="five"></span>U.S. Food and Drug Administration. Center for Devices and Radiological Health. Division of Industry and Consumer Education. (2019) <a href="https:// www.fda.gov/about-fda/cdrh-offices/division-industry-and-consumer-education">https:// www.fda.gov/about-fda/cdrh-offices/division-industry-and-consumer-education</a>  <a href="#endnote5">[Return to endnote 5]</a></li>
+  <li><span id="six"></span>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2019). CDRH Learn. <a href="https://www.fda.gov/training-and- continuing-education/cdrh-learn">https://www.fda.gov/training-and- continuing-education/cdrh-learn</a> <a href="#endnote6">[Return to endnote 6]</a></li>
+  <li><span id="seven"></span>21CFR820.30. <a href="https://www.accessdata.fda.gov/ scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.30">https://www.accessdata.fda.gov/ scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.30</a> <a href="#endnote7">[Return to endnote 7]</a></li>
+  <li><span id="eight"></span>U.S. Food and Drug Administration, Center for Devices and Radiological Health. (2016). Applying Human Factors and Usability Engineering to Medical Devices.  <a href="#endnote8">[Return to endnote 8]</a></li>
+  <li><span id="nine"></span>The Association for the Advancement of Medical Instrumentation. (2009). Human Factors Engineering – Design of Medical Devices. ANSI/ AAMI HE75:2009 (R2018)  <a href="#endnote9">[Return to endnote 9]</a></li>
+  <li><span id="ten"></span>U.S. Food and Drug Administration. How to Use Consensus Standards in Premarket Submissions. <a href="https://www.fda.gov/media/147787/download">https://www.fda.gov/media/147787/download</a> <a href="#endnote10">[Return to endnote 10]</a></li>
+  <li><span id="eleven"></span>U.S. Department of Health and Human Services Food and Drug Administration. (2014).VIII. Human Factors. In Design Considerations for Devices Intended for Home Use. Guidance for Industry and Food and Drug Administration Staff. (pp. 13–14).  <a href="#endnote11">[Return to endnote 11]</a></li>
+  <li><span id="twelve"></span>TPGi. Colour Contrast Analyser (CCA). <a href="https://www.tpgi.com/color-contrast-checker/">https://www.tpgi.com/color-contrast-checker/</a>  <a href="#endnote12">[Return to endnote 12]</a></li>
+  <li><span id="thirteen"></span>International Organization for Standardization. (2022). Plain language – Part 1: Governing principles and guidelines. (ISO Standard No. 24495-1:2022). <a href="https://www.iso.org/standard/78907.html">https://www.iso.org/ standard/78907.html</a> <a href="#endnote13">[Return to endnote 13]</a></li>
+  <li><span id="fourteen"></span>Federal Plain Language Guidelines (2011). <a href="https://www.plainlanguage.gov/">https://www.plainlanguage.gov/</a> <a href="#endnote14">[Return to endnote 14]</a></li>
+  <li><span id="fifteen"></span>National Eye Institute. (2019) Types of Color Blindness. <a href="https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color- blindness/types-color-blindness">https://www.nei.nih.gov/learn-about- eye-health/eye-conditions-and-diseases/color- blindness/types-color-blindness</a>  <a href="#endnote15">[Return to endnote 15]</a></li>
+  <li><span id="sixteen"></span>National Library Service for the Blind and Print Disabled (NLS), Library of Congress. NLS Factsheet: About Braille. <a href="https://www.loc.gov/ nls/resources/blindness-and-vision-impairment/braille-information/about-braille">https://www.loc.gov/ nls/resources/blindness-and-vision-impairment/braille-information/about-braille</a>  <a href="#endnote16">[Return to endnote 16]</a></li>
+  <li><span id="seventeen"></span>International Organization for Standardization. (2021). Medical devices – Symbols to be used with information to be supplied by the manufacturer – Part 1: General requirements. (ISO Standard No. 15223-1:2021). <a href="https://www.iso.org/standard/77326.html">https://www. iso.org/standard/77326.html</a>  <a href="#endnote17">[Return to endnote 17]</a></li>
+  <li><span id="eighteen"></span>Web Content Accessibility Guidelines (WCAG) 2.1 W3C Recommendation. (2018). <a href="https://www.w3.org/TR/WCAG21/">https://www. w3.org/TR/WCAG21/</a>  <a href="#endnote18">[Return to endnote 18]</a></li>
+  <li><span id="ninteen"></span>W3C Web Accessibility Initiative, WCAG 2 Overview. (2023). <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/ standards-guidelines/wcag/</a>  <a href="#endnote19">[Return to endnote 19]</a></li>
+  <li><span id="twenty"></span>W3C Working Draft. Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile. (2015). <a href="https://www.w3.org/TR/2015/WD-mobile-accessibility-mapping-20150226/">https://www.w3.org/TR/2015/ WD-mobile-accessibility-mapping-20150226/</a>  <a href="#endnote20">[Return to endnote 20]</a></li>
+  <li><span id="twentyone"></span>Department of Justice and the General Services Administration. (2023) Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology to Congress and the President.<a href="https://www.justice.gov/crt/page/file/1569331/download"> https://www.justice. gov/crt/page/file/1569331/download</a>  <a href="#endnote21">[Return to endnote 21]</a></li>
+  <li><span id="twentytwo"></span>En-Vision America, ScripTalk. <a href="https://www.envisionamerica.com/scriptalk-station-for-patients">https://www.envisionamerica.com/scriptalk-station-for-patients</a>  <a href="#endnote22">[Return to endnote 22]</a></li>
+  <li><span id="twentythree"></span>CVS, “Hi! It’s your prescription talking.”, Spoken Tx™. <a href="https://www.cvs.com/content/pharmacy/spoken-rx">https://www.cvs.com/content/pharmacy/ spoken-rx</a>  <a href="#endnote23">[Return to endnote 23]</a></li>
+  <li><span id="twentyfour"></span>W3C Web Accessibility Initiative, Media Players in Making Audio and Video Media Accessible. (2021) <a href="https://www.w3.org/WAI/media/av/player/">https://www.w3.org/WAI/media/av/player/</a>  <a href="#endnote24">[Return to endnote 24]</a></li>
+  <li><span id="twentyfive"></span>Digital.gov, U.S. General Services Administration. (2020). 508 Accessible Videos – Use a 508-Compliant Video Player. <a href="https://digital.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/">https://digital. gov/2014/06/30/508-accessible-videos-use-a- 508-compliant-video-player/</a>  <a href="#endnote25">[Return to endnote 25]</a></li>
+  <li><span id="twentysix"></span>Section508.gov, General Services Administration. (2022) Create Accessible Video, Audio and Social Media. <a href="https://www.section508.gov/create/video-social/">https://www.section508.gov/create/video- social/</a>  <a href="#endnote26">[Return to endnote 26]</a></li>
+  <li><span id="twentyseven"></span>Digital.gov, U.S. General Services Administration. 508 Accessible Videos – How to Make Audio Descriptions. (2022). <a href="https://digital.gov/2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/">https://digital.gov/2014/06/30/508-accessible-videos-how-to- make-audio-descriptions/</a>  <a href="#endnote27">[Return to endnote 27]</a></li>
+  <li><span id="twentyeight"></span>W3C Working Group Note 7. (2016). Techniques and Failures for Web Content Accessibility Guidelines 2.0. <a href="https://www.w3.org/TR/WCAG20-TECHS/Overview.html#contents">https://www.w3.org/TR/WCAG20-TECHS/Overview.html#contents</a>  <a href="#endnote28">[Return to endnote 28]</a></li>
+  <li><span id="twentynine"></span>Web Content Accessibility Guidelines (WCAG) 2.2. (2023). W3C Candidate Recommendation Draft, Success Criterion 2.5.8 Target Size (Minimum). <a href="https://www.w3.org/TR/WCAG22/">https://www.w3.org/TR/WCAG22/</a>  <a href="#endnote29">[Return to endnote 29]</a></li>
+  <li><span id="thirty"></span>U.S. Department of Justice Civil Rights Division. (2010). 2010 ADA Standards for Accessible Design, 309.4 Operation. <a href="https://www.ada.gov/law-and-regs/design-standards/2010-stds/#top">https://www.ada.gov/ law-and-regs/design-standards/2010-stds/#top</a>  <a href="#endnote30">[Return to endnote 30]</a></li>
+  <li><span id="thirtyone"></span>Villafañe, J. H., Valdes, K., Bertozzi, L., and Negrini, S. (2014). Minimal clinically important difference of grip and pinch strength in women with thumb carpometacarpal osteoarthritis when compared to healthy subjects. Rehabilitation Nursing.  <a href="#endnote31">[Return to endnote 31]</a></li>
+  <li><span id="thirtytwo"></span>Greiner, TM. US Army Natick Research Development and Engineering Center, MA., Anthropology Branch, Behavioral Sciences Division, Soldier Science Directorate. (1991). Hand Anthropometry of U.S. Army Personnel. <a href="https://apps.dtic.mil/sti/pdfs/ADA244533.pdf">https://apps.dtic.mil/sti/pdfs/ADA244533.pdf</a>  <a href="#endnote32">[Return to endnote 32]</a></li>
+  <li><span id="thirtythree"></span>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.  <a href="#endnote33">[Return to endnote 33]</a></li>
 </ol>
 
 ---
