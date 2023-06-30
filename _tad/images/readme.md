@@ -1,1 +1,1 @@
-This is a folder for images for TAD documents.
+Image files for RADx

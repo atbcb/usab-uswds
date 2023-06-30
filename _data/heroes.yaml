@@ -5,13 +5,20 @@
   linkto: /news/2023/03/30/u-s-access-board-to-hold-town-hall-meeting-in-baltimore/
   linktext: Learn More
 
+- title: Best Practices for the Design of Accessible COVID-19 Home Tests
+  text: "Access Board hosts June 2023 report on best practices for the design of accessible COVID-19 home tests. Report captures and publicizes learnings from the National Institutes of Health (NIH) RADx® Tech accessibility program. "
+  image: /images/uploads/nih-logo-radx-accessibility-icon.png
+  description: NIH Vertical Logo on the left and RADx Accessibility Icon on the right
+  linkto: /tad/radx/
+  linktext: Learn More
+
 - title: Public Comment on Accessible Medical Diagnostic Equipment
   text: "Access Board seeks comments from the public on standards for accessible medical diagnostic equipment regarding the low transfer surface height for certain types of equipment used by patients."
   image: /images/uploads/stethoscope.jpg
   description: Stethoscope on the left with a light blue background
   linkto: /news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/
   linktext: Learn More
-
+  
 - title: EV Charging Stations
   text: "Access Board issues technical assistance document on design recommendations for accessible electric vehicle charging stations."
   image: /images/stock/hero-ev2a.jpeg
@@ -31,15 +38,8 @@
   image: /images/uploads/people-around-desk.png
   description: Five people working together as they sit at table 
   linkto: /deia-recommendations/
-  linktext: Learn More
-     
-- title: Autonomous Vehicles
-  text: "Learn more about the Board's public forum on autonomous vehicles (March-April 2021)."
-  image: /images/stock/av-hero.jpg
-  description: Background CAD drawing of a vehicle
-  linkto: /av/
-  linktext: Learn More
- 
+  linktext: Learn More     
+
 - title: Public Events
   text: "Learn more about upcoming events and access archived event recordings of the Board."
   image: /images/stock/hero-microphone.png

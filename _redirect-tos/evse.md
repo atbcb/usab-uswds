@@ -1,4 +1,4 @@
 ---
-permalink: /ev-charging-stations/
+permalink: /evse/
 redirect_to: /tad/ev/
 ---
