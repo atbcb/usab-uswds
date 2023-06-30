@@ -10,7 +10,7 @@ redirect_from:
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: style="float:left" }
 
-<button class="usa-button" title="{{ page.file-description }}" style="float:right">
+<button type="button" class="usa-button usa-button--outline" title="{{ page.file-description }}" style="float:right">
   <a href="{{ site.baseurl }}{{ page.file }}">PDF</a>
 </button>
 
