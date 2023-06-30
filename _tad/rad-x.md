@@ -1606,7 +1606,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h3 id="Test-Porcedure">10. Test Porcedure </h3>
+      <h3>10. Test Procedure</h3>
       <ul>
         <li>10.1 Bluetooth Pairing </li>
         <li>10.2 Test Analysis </li>
