@@ -53,7 +53,7 @@ DoD hereby adopts ABA Chapters 1 and 2 and Chapters 3 through 10 as its standard
 
 Any questions may be directed to Mr. Clarence A. Johnson at (703) 571-9321.
 
-\[ _Contact information updated by U.S. Access Board 6/11/15:&nbsp; Randy D. Cooper, Director, Department of Defense Disability EEO Policy and Compliance, at (703) 571-9327, <OSD.Ability@mail.mil>._ ]
+\[ _Contact information updated by U.S. Access Board 7/6/2023:&nbsp; Dr. Lisa Arfaa, Director, Office for Diversity, Equity, and Inclusion, at (703) 571-9327, <OSD.Ability@mail.mil>._ ]
 
 Attachment: <br />
 Access for People With Disabilities
