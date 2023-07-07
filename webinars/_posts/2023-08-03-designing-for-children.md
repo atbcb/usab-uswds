@@ -49,9 +49,7 @@ Children with disabilities need accessible design that differs from design for a
 
 ### Speakers
 
-[Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**
-
-
+[Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Accessibility Consultant
 
 **[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805)**, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
