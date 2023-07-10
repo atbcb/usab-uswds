@@ -10,12 +10,12 @@ special-email-text: AccessibilityInfo@POCTRN.org
 special-email-link: accessibilityinfo@poctrn.org
 ta-text: General inquiries about the Access Board
 ta-email-pre: info
-file: /files/mde/Best Practices for the Design of Accessible COVID-19 Home Tests - June 2023.pdf
+file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
 
 ## {{ page.title }}
-
+<h3 id="Acknowledgements">Acknowledgements</h3>
 <p><b>We would like to acknowledge the efforts of all of those involved in the development of these best practices:</b></p>
 <p><b>Rapid Acceleration of Diagnostics (RADx®) Tech Program:</b></p>
 <p>John Blackwood, Cathy Cambria, Mia Cirrincione, Jim Densmore, Sam Dolphin, Maren Downing, Emily B. Kennedy, Kevin Leite, Shaun Moshasha, Kim Noble, Clair O’Donovan, D’lynne Plummer, Adam Samuta, Mack Schermer, Sal Strods, Erika Tyburski, Brian Walsh. </p>
@@ -27,8 +27,6 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>Victoria Brown, Emma DeRoode, Nicole Lee, Susan McDonald, Becky Nelson.</p>
 <p><b>Metaphase Design Group:</b></p>
 <p>Marco S. Boscolo, Paul S. Danial, Praveen Prabhakar KR, Angie Reitenbach, Bryce G. Rutter. </p>
-<hr />
-<h3 id="Acknowledgements">Acknowledgements</h3>
 <p><b>Georgia Tech HomeLab: </b></p>
 <p>W. Bradley Fain, Sarah Farmer, Adina Martinez, Amanda Peagler, Rebecca Sheiner.</p>
 <p><b>Advocacy Groups: </b></p>
@@ -220,10 +218,10 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>A wealth of practical information on regulations pertaining to design, marketing, and distribution of medical devices is produced by the Division of Industry and Consumer Education (DICE) within CDRH. CDRH Learn is a useful educational tool that consists of learning modules describing many aspects of medical devices, covering both premarket and post  market topics. Modules are provided in various formats, including videos, audio recordings, and slide presentations.<a href="#five">[5]</a><span id="endnote5"></span> <a href="#six">[6]</a><span id="endnote6"></span></p>
 <p><b>User Needs and Accessibility</b></p>
 <p>Per 21 CFR Section 820.30, design control requirements apply to Class II and III medical devices, and a select group of Class I devices. These regulations require the manufacturer to base its design controls on the complexity and risks associated with its devices. It includes new designs (premarket) and improvements or modifications to existing device designs (post-market). Design control begins after feasibility, or “Proof of Concept”, and continues throughout the product lifecycle. The first and most crucial step is identifying and documenting the user needs that will be used as the basis of product development during each phase. Defining user needs as they relate to accessibility is fundamental and ensures that the right product is designed. This is especially true for the design of over-the-counter (OTC) tests used outside of the clinical environment. These tests pose unique risks created by the interactions between the user, the use environment, and the device. </p>
-<p>The general user population for these tests includes individuals that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging.</p>
+<p>The general user population for these tests includes individuals that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. <a href="#seven">[6]</a><span id="endnote7"></span></p>
 <p>These groups must be considered when creating the user needs for an accessible OTC product. To confirm that such products are safe and effective in the hands of the intended user, validation testing must be performed in accordance with FDA recommendations to confirm the end user can use the product as intended (see 7. Assessing Usability). <a href="#eight">[8]</a><span id="endnote8"></span></p>
 <p>These topics are further described in the seminal recommended practice document created by the Association for the Advancement of Medical Instrumentation (AAMI). The stated purpose of this document, ANSI/AAMI HE75:2009/(R2018) Human Factors Engineering - Design of Medical Devices, is to provide a relevant source of human factors engineering (HFE) information, design criteria, and guidelines for medical devices. The human factors design information and methodologies described may be used
-  through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human Factors and Usability Engineering to Medical Devices.” Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.” <a href="#nine">[9]</a><span id="endnote9"></span> <a href="#ten">[10]</a><span id="endnote10"></span></p>
+  through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human Factors and Usability Engineering to Medical Devices.” <a href="#eight">[8]</a> Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.”  <a href="#nine">[9]</a><span id="endnote9"></span> <a href="#ten">[10]</a><span id="endnote10"></span></p>
 <hr />
 <h3 id="assessing-usability">7. Assessing Usability </h3>
 <p>The best practices outlined in this document will aid manufacturers in creating an accessible and usable home test kit; however, understanding how well (or
@@ -382,7 +380,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Braille</li>
       </ul>
       <h4>Plain Language </h4>
-      <p>Plain language is a process for developing a communication (such as a printed document, webpage, or mobile application screen) that allows intended users to “find what they need, understand what they find, and use what they find to meet their needs”. <a href="#thirteen">[13]</a><span id="endnote13"></span> <a href="#fourteen">[14]</a><span id="endnote14"></span></p>
+      <p>Plain language is a process for developing a communication (such as a printed document, webpage, or mobile application screen) that allows intended users to “find what they need, understand what they find, and use what they find to meet their needs”. <a href="#thirteen">[13]</a><span id="endnote13"></span> <a href="#fourteen">[14]</a><span id="endnote14"></span><br></p>
       <p>Plain language is the process of developing user-appropriate information. It includes purpose, structure, expression, design, and evaluation.</p>
       <p><b>Purpose:</b> identify and describe the target users and the communication goals. </p>
       <ul>
@@ -437,10 +435,16 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         </ul>
         <li>Compare before and after versions of the information to confirm plain language improvement.</li>
       </ul>
-      <hr />
-      <h4>Descriptive Language </h4>
+		</div>
+  </div>
+</div>
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+     <h4>Descriptive Language </h4>
       <p>Language should be descriptive and provide non visual points of reference and instruction for better end user comprehension. In general, word count should be minimized while still providing effective descriptions. Ideally, descriptive language should be included in body text of test instructions, but additional supporting information may be provided via alt text or ‘More Info’ redirects.</p>
-    </div>
+		</div>
   </div>
 </div>
 <div class="grid-container">
@@ -544,9 +548,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 </div>
 <hr />
 <h4>Braille</h4>
-<p>Braille is a tactile reading and writing system in which raised dots represent the letters of the alphabet, 
-  numbers, and symbols. Braille serves as one approach to capturing and conveying the same level of detail provided in text content. </p>
-<p>Braille is an inherently physical medium traditionally produced using braille “printers” that emboss paper capable of retaining raised dots. Braille has a fixed minimum character size roughly comparable to 28-point font. One traditional print page of text typically transcribes to multiple braille pages, depending on the character count and formatting. Particularly dense, information-packed documents could easily transcribe into significantly longer paper braille documents, especially if they include complex content such as graphs, charts, or non-decorative images. It is desirable to make paper braille instructions available to customers upon request. <a href="#sixteen">[16]</a><span id="endnote16"></span><br>
+<p>Braille is a tactile reading and writing system in which raised dots represent the letters of the alphabet, numbers, and symbols. Braille serves as one approach to capturing and conveying the same level of detail provided in text content.  <a href="#sixteen">[16]</a><span id="endnote16"></span></p>
+<p>Braille is an inherently physical medium traditionally produced using braille “printers” that emboss paper capable of retaining raised dots. Braille has a fixed minimum character size roughly comparable to 28-point font. One traditional print page of text typically transcribes to multiple braille pages, depending on the character count and formatting. Particularly dense, information-packed documents could easily transcribe into significantly longer paper braille documents, especially if they include complex content such as graphs, charts, or non-decorative images. It is desirable to make paper braille instructions available to customers upon request.<br>
   <br>
   Creating web-based, digitally accessible documents is a cost-effective method for manufacturers to provide additional access to braille. Braille displays enable users to access digital content through braille instead of audio only, so they can obtain the rich information embedded in text including capitalization, typographical emphasis, spacing, and punctuation. Digital formats that can be readily converted to braille using assistive technology include: <a href="#sixteen">[16]</a> </p>
 <ul>
@@ -562,10 +565,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     <div class="tablet:grid-col">
       <h5>Issue</h5>
       <img class="img-full" src="../images/photo-backgrounds-distract-from-product.png" alt="Three-dimensional rendering representing a photo of a cylindrical gray fluid vial with an integrated dropper cap standing on a wooden table in front of an off-white background." /> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
-      <ul>
-        <li>Photos contain extra, unnecessary information making them difficult to interpret, especially when printed on an embossing printer. </li>
-      </ul>
-    </div>
+      <p>Photos contain extra, unnecessary information making them difficult to interpret, especially when printed on an embossing printer. </p>
+	    </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/line-drawings-improve-comprehension.png" alt="Black perspective line drawing of a fluid vial with an integrated dropper cap." /> <span class="grid-line text-italic">Line drawings improve comprehension </span>
@@ -752,6 +753,12 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h4>Operating System Compatibility</h4>
       <img class="img-full" src="../images/device-operating-systems.png" alt="Line drawings of a desktop computer, laptop computer, Android mobile phone, and an Apple mobile phone." /> <span class="grid-line text-italic">Device operating systems</span>
       <p>The ability for content to be recognized and understood by computer, smartphone, and tablet device operating systems (OS) and accessibility tools is vital for ensuring user access to information about the test. </p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
       <h5>Issue</h5>
       <ul>
         <li>Test instructions are provided in a format that is not  compatible with computer, smartphone, or tablet  device OS and accessibility tools</li>
@@ -977,7 +984,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Outer Packaging </h4>
+      <h3 id="Outer-Packaging">9.1 Outer Packaging </h3>
       <ul>
         <li>Labeling </li>
         <li>Accessing Contents</li>
@@ -996,12 +1003,14 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 </div>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/box-labeling-viewable-in-only-one-orientation.png" alt="Array of three boxes, where only one side of labeling content is visible." /> <span class="grid-line text-italic">Box labeling viewable in only one orientation </span>
-      <h5>Issue</h5>
+    <div class="tablet:grid-col">
+		<h5>Issue</h5>
+		<img class="img-full" src="../images/box-labeling-viewable-in-only-one-orientation.png" alt="Array of three boxes, where only one side of labeling content is visible." /> <span class="grid-line text-italic">Box labeling viewable in only one orientation </span>
       <p>Packages are often inadequately labeled and missing  critical information. </p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/box-labeling-viewable-in-multiple-orientations.png" alt="Three boxes positioned in different orientations on a shelf, each with labeling content visible on exposed panel." /> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
-      <h5>Recommendation</h5>
+    <div class="tablet:grid-col">
+		 <h5>Recommendation</h5>
+		<img class="img-full" src="../images/box-labeling-viewable-in-multiple-orientations.png" alt="Three boxes positioned in different orientations on a shelf, each with labeling content visible on exposed panel." /> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
       <p>Consider how the package might be displayed (e.g., on  a shelf in a retail setting) and what information the user  will find most useful.</p>
     </div>
   </div>
@@ -1034,7 +1043,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Expiration date format is not recognizable by  common OCR applications. </li>
       </ul>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/qr-code-is-large-and-readily-discoverable.png" alt="Box and label with large QR code in the corner of the label. " /> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/qr-code-is-large-and-readily-discoverable.png" alt="Box and label with large QR code in the corner of the label. " /> <span class="grid-line text-italic">QR code is large and readily discoverable</span>
       <h5>Recommendation</h5>
       <ul>
         <li>Present QR codes in a size 0.8 inches (20.3 mm)  square or larger to align with current industry  practice. </li>
@@ -1106,8 +1115,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Kit </h4>
-      <ul>
+		 <h3 id="kit">9.2 Kit</h3>
+          <ul>
         <li>Organization </li>
         <li>Internal Pouches</li>
       </ul>
@@ -1120,18 +1129,6 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h4>Organization</h4>
       <img class="img-large" src="../images/kit-contents.png" alt="Open test kit box with kit contents inside the box. Each component is lying flat within a fixed tray inside the box." /> <span class="grid-line text-italic">Kit contents</span>
       <p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing package components thoughtfully can greatly enhance the user’s ability to complete the test. A tray is an optional accessory for organizing components and improving the user experience. </p>
-    </div>
-  </div>
-</div>
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/loose-contents-inside-box-packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging </span>
-      <h5>Issue</h5>
-      <p>Internal, physical test instructions and key information can be difficult to find.</p>
-    </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/contents-neatly-organized-within-box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized within box</span>
-      <h5>Recommendation</h5>
-      <p>Provide legible (see 8.1 Legibility) test instructions face up as the first thing users encounter.</p>
     </div>
   </div>
 </div>
@@ -1235,8 +1232,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Swab</h4>
-    </div>
+      	<h3 id="swab">9.3 Swab</h3>
+		    </div>
   </div>
 </div>
 <div class="grid-container">
@@ -1270,7 +1267,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Fluid Vials and Sample Preparation</h4>
+		<h3 id="Fluid-Vials-and-Sample-Preparation">9.4 Fluid Vials and Sample Preparation</h3>
     </div>
   </div>
 </div>
@@ -1376,8 +1373,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Cassette</h4>
-    </div>
+		<h3 id="Cassette">9.5 Cassette</h3>
+          </div>
   </div>
 </div>
 <div class="grid-container">
@@ -1450,7 +1447,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Test Reader</h4>
+		<h3 id="Test-Reader">9.6 Test Reader</h3>
     </div>
   </div>
 </div>
@@ -1579,8 +1576,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Disposal</h4>
-    </div>
+		<h3 id="Disposal">9.7 Disposal</h3>
+          </div>
   </div>
 </div>
 <div class="grid-container">
@@ -1606,7 +1603,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h3>10. Test Procedure</h3>
+      <h3 id="Test-Porcedure">10. Test Porcedure </h3>
       <ul>
         <li>10.1 Bluetooth Pairing </li>
         <li>10.2 Test Analysis </li>
@@ -1619,7 +1616,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Bluetooth Pairing </h4>
+      <h3 id="Bluetooth-Pairing">10.1 Bluetooth Pairing</h3>
     </div>
   </div>
 </div>
@@ -1645,7 +1642,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Test Analysis </h4>
+		<h3 id="Test-Analysis">10.2 Test Analysis</h3>
     </div>
   </div>
 </div>
@@ -1671,8 +1668,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Results Communication</h4>
-    </div>
+		<h3 id="Results-Communication">10.3 Results Communication</h3>
+         </div>
   </div>
 </div>
 <div class="grid-container">
