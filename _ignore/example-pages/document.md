@@ -6,7 +6,7 @@ sidenav: false
 
 # Section heading (h1)
 
-{% asset usab-seal.jpg alt="Access Board circular seal" width="150" %}
+<img src="{{site.baseurl}}/images/usab-seal.jpg" alt="Access Board circular seal" width="150" />
 
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 
