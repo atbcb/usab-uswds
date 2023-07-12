@@ -82,8 +82,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <dd>Container of buffer solution into which a sample may be introduced via swab. The liquid sample is then transferred using a dropper cap into a cassette sample well for processing. </dd>
   <dt>Font</dt>
   <dd>A specific size and weight variation of a typeface.</dd>
-  <dt>Haptic Feedback</dt>
-  <dd> Feedback that is perceptible by touch. Tends to be related to dynamic physical features (e.g., phone vibration; see also Tactile Feedback).</dd>
+  <dt id="haptic-feedback">Haptic Feedback</dt>
+  <dd> Feedback that is perceptible by touch. Tends to be related to dynamic physical features (e.g., phone vibration; see also <a href="#tactile-feedback">Tactile Feedback</a>).</dd>
   <dt>High-fidelity Prototype</dt>
   <dd> A highly functional and interactive representation of a final product, often used to collect feedback in the later stages of design. </dd>
   <dt>Interactive Voice Response (IVR)</dt>
@@ -124,8 +124,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <dd>An authentication method that enables users to securely authenticate personal login to multiple applications and websites using one set of credentials.</dd>
   <dt>Swab </dt>
   <dd>Sample collection device with one part intended to be held in the hand and the other part used to collect the sample. </dd>
-  <dt>Tactile Feedback</dt>
-  <dd>Feedback that is perceptible by touch. Tends to be related to static physical features (e.g., a raised versus flush button; see also Haptic Feedback). </dd>
+  <dt id="tactile-feedback">Tactile Feedback</dt>
+  <dd>Feedback that is perceptible by touch. Tends to be related to static physical features (e.g., a raised versus flush button; see also <a href="#haptic-feedback">Haptic Feedback). </a></dd>
   <dt>Tamper-evident Seal </dt>
   <dd>A container closure that deters and/or allows detection of the removal or alteration of the container’s contents before purchase. </dd>
   <dt>Test Kit </dt>
@@ -176,7 +176,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>Accessible product design/redesign requires more than incremental improvements to individual test kit components. To create a truly accessible at-home COVID-19 testing experience, the end-to-end workflow should be considered. A holistic review includes consideration of how various test kit components function together to create a seamless testing experience from kit acquisition through component disposal. Features incorporated to improve usability for one user group should improve usability for all. Universal design– “the design and composition of an environment [or product] so that it can be accessed, understood, and used to the greatest extent possible by all people regardless of their age, ability or disability” –is an appropriate and achievable goal. <a href="#one">[1]</a><span id="endnote1"></span></p>
 <p>Below are several guiding principles for universal design of COVID-19 home tests:</p>
 <ul>
-  <li>Engage target end users early (see 7. Assessing Usability). </li>
+	<li>Engage target end users early (see <a href="#assessing-usability">7. Assessing Usability</a>). </li>
   <li>Simplify workflow.</li>
   <ul>
     <li>Fewer steps are easier to document, manage, and execute. </li>
@@ -207,21 +207,21 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <ul>
   <li>expediting the learning process by providing access to a network of informed, experienced resources;</li>
   <li>confirming assumptions around product use and potential misuse; </li>
-  <li> identifying user needs, preferences, and pitfalls in design; </li>
-  <li>assessing designs for accessibility and usability; and arranging real-time design reviews and critiques. </li>
+  <li>identifying user needs, preferences, and pitfalls in design; </li>
+  <li>assessing designs for accessibility and usability; </li>
+  <li>and arranging real-time design reviews and critiques.</li>
 </ul>
 <p>Manufacturers should plan to have ongoing relationships with end users. The more consistent their involvement, the more robust the final design will be. Designs should be assessed by end users representing a broad range of capabilities. Always plan to make design materials accessible to people with disabilities and circulate them prior to review. </p>
 <hr />
 <h3 id="regulatory-and-design-control">6. Regulatory and Design Control </h3>
-<p>The U.S. Food and Drug Administration (FDA) isbresponsible for protecting public health by ensuringbthe safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, and radiation-emitting products; and by ensuring the safety of our nation’s food supply and cosmetics.  Within FDA, the Center for Devices and Radiological Health (CDRH) is responsible for ensuring the safety and effectiveness of medical devices and eliminating unnecessary exposure to radiation-emitting products.<a href="#two">[2]</a><span id="endnote2"></span>  <a href="#three">[3]</a><span id="endnote3"></span></p>
-<p>A medical device is broadly defined in Section 201(h) of the Federal Food, Drug, and Cosmetic Act as “any instrument, machine, contrivance, implant, in vitro reagent that’s intended to treat, cure, prevent, mitigate, [or] diagnose disease in man”.  Medical devices are classified based on risk: Class I devices demonstrate low risk, Class II devices demonstrate moderate risk, and Class III devices demonstrate high risk. <a href="#two">[2]</a> <a href="#four">[4]</a><span id="endnote4"></span></p>
-<p>A wealth of practical information on regulations pertaining to design, marketing, and distribution of medical devices is produced by the Division of Industry and Consumer Education (DICE) within CDRH. CDRH Learn is a useful educational tool that consists of learning modules describing many aspects of medical devices, covering both premarket and post  market topics. Modules are provided in various formats, including videos, audio recordings, and slide presentations.<a href="#five">[5]</a><span id="endnote5"></span> <a href="#six">[6]</a><span id="endnote6"></span></p>
+<p>The U.S. Food and Drug Administration (FDA) isbresponsible for protecting public health by ensuringbthe safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, and radiation-emitting products; and by ensuring the safety of our nation’s food supply and cosmetics. <a href="#two">[2]</a><span id="endnote2"></span> Within FDA, the Center for Devices and Radiological Health (CDRH) is responsible for ensuring the safety and effectiveness of medical devices and eliminating unnecessary exposure to radiation-emitting products. <a href="#three">[3]</a><span id="endnote3"></span></p>
+<p>A medical device is broadly defined in Section 201(h) of the Federal Food, Drug, and Cosmetic Act as “any instrument, machine, contrivance, implant, in vitro reagent that’s intended to treat, cure, prevent, mitigate, [or] diagnose disease in man”. <a href="#two">[2]</a>  Medical devices are classified based on risk: Class I devices demonstrate low risk, Class II devices demonstrate moderate risk, and Class III devices demonstrate high risk. <a href="#four">[4]</a><span id="endnote4"></span></p>
+<p>A wealth of practical information on regulations pertaining to design, marketing, and distribution of medical devices is produced by the Division of Industry and Consumer Education (DICE) within CDRH. <a href="#five">[5]</a><span id="endnote5"></span> CDRH Learn is a useful educational tool that consists of learning modules describing many aspects of medical devices, covering both premarket and post  market topics. Modules are provided in various formats, including videos, audio recordings, and slide presentations. <a href="#six">[6]</a><span id="endnote6"></span></p>
 <p><b>User Needs and Accessibility</b></p>
-<p>Per 21 CFR Section 820.30, design control requirements apply to Class II and III medical devices, and a select group of Class I devices. These regulations require the manufacturer to base its design controls on the complexity and risks associated with its devices. It includes new designs (premarket) and improvements or modifications to existing device designs (post-market). Design control begins after feasibility, or “Proof of Concept”, and continues throughout the product lifecycle. The first and most crucial step is identifying and documenting the user needs that will be used as the basis of product development during each phase. Defining user needs as they relate to accessibility is fundamental and ensures that the right product is designed. This is especially true for the design of over-the-counter (OTC) tests used outside of the clinical environment. These tests pose unique risks created by the interactions between the user, the use environment, and the device. </p>
-<p>The general user population for these tests includes individuals that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. <a href="#seven">[6]</a><span id="endnote7"></span></p>
-<p>These groups must be considered when creating the user needs for an accessible OTC product. To confirm that such products are safe and effective in the hands of the intended user, validation testing must be performed in accordance with FDA recommendations to confirm the end user can use the product as intended (see 7. Assessing Usability). <a href="#eight">[8]</a><span id="endnote8"></span></p>
-<p>These topics are further described in the seminal recommended practice document created by the Association for the Advancement of Medical Instrumentation (AAMI). The stated purpose of this document, ANSI/AAMI HE75:2009/(R2018) Human Factors Engineering - Design of Medical Devices, is to provide a relevant source of human factors engineering (HFE) information, design criteria, and guidelines for medical devices. The human factors design information and methodologies described may be used
-  through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human Factors and Usability Engineering to Medical Devices.” <a href="#eight">[8]</a> Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.”  <a href="#nine">[9]</a><span id="endnote9"></span> <a href="#ten">[10]</a><span id="endnote10"></span></p>
+<p>Per 21 CFR Section 820.30, design control requirements apply to Class II and III medical devices, and a select group of Class I devices. These regulations require the manufacturer to base its design controls on the complexity and risks associated with its devices. <a href="#seven">[7]</a><span id="endnote7"></span> It includes new designs (premarket) and improvements or modifications to existing device designs (post-market). Design control begins after feasibility, or “Proof of Concept”, and continues throughout the product lifecycle. The first and most crucial step is identifying and documenting the user needs that will be used as the basis of product development during each phase. Defining user needs as they relate to accessibility is fundamental and ensures that the right product is designed. This is especially true for the design of over-the-counter (OTC) tests used outside of the clinical environment. These tests pose unique risks created by the interactions between the user, the use environment, and the device. </p>
+<p>The general user population for these tests includes individuals that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. </p>
+<p>These groups must be considered when creating the user needs for an accessible OTC product. To confirm that such products are safe and effective in the hands of the intended user, validation testing must be performed in accordance with FDA recommendations to confirm the end user can use the product as intended (see <a href="#assessing-usability"> 7. Assessing Usability</a>). <a href="#eight">[8]</a><span id="endnote8"></span></p>
+<p>These topics are further described in the seminal recommended practice document created by the Association for the Advancement of Medical Instrumentation (AAMI). The stated purpose of this document, ANSI/AAMI HE75:2009/(R2018) Human Factors Engineering - Design of Medical Devices, is to provide a relevant source of human factors engineering (HFE) information, design criteria, and guidelines for medical devices. <a href="#nine">[9]</a><span id="endnote9"></span> The human factors design information and methodologies described may be used through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human Factors and Usability Engineering to Medical Devices.” <a href="#eight">[8]</a> Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.”   <a href="#ten">[10]</a><span id="endnote10"></span></p>
 <hr />
 <h3 id="assessing-usability">7. Assessing Usability </h3>
 <p>The best practices outlined in this document will aid manufacturers in creating an accessible and usable home test kit; however, understanding how well (or
@@ -380,7 +380,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Braille</li>
       </ul>
       <h4>Plain Language </h4>
-      <p>Plain language is a process for developing a communication (such as a printed document, webpage, or mobile application screen) that allows intended users to “find what they need, understand what they find, and use what they find to meet their needs”. <a href="#thirteen">[13]</a><span id="endnote13"></span> <a href="#fourteen">[14]</a><span id="endnote14"></span><br></p>
+      <p>Plain language is a process for developing a communication (such as a printed document, webpage, or mobile application screen) that allows intended users to “find what they need, understand what they find, and use what they find to meet their needs”. <a href="#thirteen">[13]</a><span id="endnote13"></span> <a href="#fourteen">[14]</a><span id="endnote14"></span><br><br></p>
       <p>Plain language is the process of developing user-appropriate information. It includes purpose, structure, expression, design, and evaluation.</p>
       <p><b>Purpose:</b> identify and describe the target users and the communication goals. </p>
       <ul>
@@ -404,7 +404,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <ul>
         <li>Use terminology specific to the end user.</li>
         <li>Provide the lay user with an explanation of unfamiliar or technical terms. </li>
-        <li>Incorporate descriptive language where possible (see 8.3 Language • Descriptive Language). </li>
+        <li>Incorporate descriptive language where possible (see <a href="#descriptive-language"> 8.3 Language • Descriptive Language</a>). </li>
         <li>Mix sentence length, with an average of 12-15 words per sentence. </li>
         <li>Lead paragraphs with key information. </li>
         <li>Create coherence by grouping related ideas, with transition words between sections when appropriate.</li>
@@ -415,7 +415,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <p><b>Design:</b> apply information design to enhance legibility, readability, and comprehension. </p>
       <ul>
         <li>Ensure document design elements support the message as well as user comprehension.</li>
-        <li>Use typography to support legibility (see 8.1 legibility). </li>
+        <li>Use typography to support legibility (see <a href="#legibility"> 8.1 Legibility</a>). </li>
         <li>Use layout to support readability. </li>
         <li>Use whitespace to highlight information organization. </li>
         <li>Use clear and meaningful illustrations to support comprehension.</li>
@@ -424,8 +424,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       </ul>
       <p><b>Evaluation:</b> develop and test wording, structure, and design with end users. </p>
       <ul>
-        <li>Elicit input from target users to determine needs, preferences, usability, and satisfaction before, during, and after development of a document.</li>
-        <li>(See and 5. Engaging End User Advocacy Groups 7. Assessing Usability). </li>
+        <li>Elicit input from target users to determine needs, preferences, usability, and satisfaction before, during, and after development of a document.
+			(See <a href="#engaging-end-user-advocacy-groups"> 5. Engaging End User Advocacy Groups</a> and <a href="#assessing-usability">7. Assessing Usability</a>). </li>
         <li>Develop information with input from target users. </li>
         <li>Select valid methods for measuring understanding and actionability of information.</li>
         <li>Measure information clarity, accuracy, and usefulness with the target users.</li>
@@ -442,7 +442,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-     <h4>Descriptive Language </h4>
+     <h4 id="descriptive-language">Descriptive Language </h4>
       <p>Language should be descriptive and provide non visual points of reference and instruction for better end user comprehension. In general, word count should be minimized while still providing effective descriptions. Ideally, descriptive language should be included in body text of test instructions, but additional supporting information may be provided via alt text or ‘More Info’ redirects.</p>
 		</div>
   </div>
@@ -478,9 +478,9 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <ul>
-        <li> Color is used and described ineffectively. </li>
-      </ul>
+      
+        <p>Color is used and described ineffectively. </p>
+      
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
@@ -518,8 +518,14 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   </div>
 </div>
 <hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
 <h4>Alternative Text </h4>
 <p>Alternative (alt) text is text included in webpage HTML code or in a digital file tag structure that describes non-text media such as graphs, charts, and non decorative images. It provides equal access for those viewing content with a braille display or screen reader.</p>
+	</div>
+  </div>
+</div>	
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -547,17 +553,23 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   </div>
 </div>
 <hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
 <h4>Braille</h4>
-<p>Braille is a tactile reading and writing system in which raised dots represent the letters of the alphabet, numbers, and symbols. Braille serves as one approach to capturing and conveying the same level of detail provided in text content.  <a href="#sixteen">[16]</a><span id="endnote16"></span></p>
+<p>Braille is a tactile reading and writing system in which raised dots represent the letters of the alphabet, numbers, and symbols. <a href="#sixteen">[16]</a><span id="endnote16"></span>Braille serves as one approach to capturing and conveying the same level of detail provided in text content.  </p>
 <p>Braille is an inherently physical medium traditionally produced using braille “printers” that emboss paper capable of retaining raised dots. Braille has a fixed minimum character size roughly comparable to 28-point font. One traditional print page of text typically transcribes to multiple braille pages, depending on the character count and formatting. Particularly dense, information-packed documents could easily transcribe into significantly longer paper braille documents, especially if they include complex content such as graphs, charts, or non-decorative images. It is desirable to make paper braille instructions available to customers upon request.<br>
   <br>
-  Creating web-based, digitally accessible documents is a cost-effective method for manufacturers to provide additional access to braille. Braille displays enable users to access digital content through braille instead of audio only, so they can obtain the rich information embedded in text including capitalization, typographical emphasis, spacing, and punctuation. Digital formats that can be readily converted to braille using assistive technology include: <a href="#sixteen">[16]</a> </p>
+  Creating web-based, digitally accessible documents is a cost-effective method for manufacturers to provide additional access to braille. Braille displays enable users to access digital content through braille instead of audio only, so they can obtain the rich information embedded in text including capitalization, typographical emphasis, spacing, and punctuation. <a href="#sixteen">[16]</a>  Digital formats that can be readily converted to braille using assistive technology include:  </p>
 <ul>
   <li>An accessible webpage with HTML content that is compatible with screen readers and braille devices. </li>
   <li>An accessible PDF document available for download. </li>
   <li>A braille-ready file (.brf) aimed at users who have braille devices but do not regularly make use of computers, smartphones, and/or the Internet. </li>
 </ul>
 <p>Note: product labeling should adequately inform users of the instruction formats that are available and how to obtain them.</p>
+	  </div>
+  </div>
+</div>
 <hr />
 <h3 id="illustrations-symbols">8.4 Illustrations and Symbols</h3>
 <div class="grid-container">
@@ -619,7 +631,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/standard-symbols.png" alt="Standard symbols representing power, off, on, Bluetooth, and sound with text labels." /> <span class="grid-line text-italic">Standard symbols</span>
-      <p>Use unambiguous and globally accepted symbols. Follow the ISO 15223-1:2021 standard for symbols used on medical device packaging. Include text labeling immediately adjacent to symbols (e.g., ‘Expiration Date’ next to hourglass symbol). <a href="#seventeen">[17]</a><span id="endnote17"></span></p>
+      <p>Use unambiguous and globally accepted symbols. Follow the ISO 15223-1:2021 standard for symbols used on medical device packaging. <a href="#seventeen">[17]</a><span id="endnote17"></span> Include text labeling immediately adjacent to symbols (e.g., ‘Expiration Date’ next to hourglass symbol). </p>
     </div>
   </div>
 </div>
@@ -787,20 +799,24 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Assistive Technology Compatibility</h4>
-      <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. <a href="#eightteen">[18]</a><span id="endnote18"></span></p>
+      <h4 id="#assistive-technology-compatibility">Assistive Technology Compatibility</h4>
+      <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard and has undergone rigorous testing with assistive technology  such as screen readers and voice dictation software. <a href="#eightteen">[18]</a><span id="endnote18"></span> The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital test instructions. </p>
+		<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
       <h5>Issue</h5>
       <p>Test instructions are provided in a format that is not  web or mobile accessible and/or is incompatible with  native device operating system (OS) accessibility  features. </p>
     </div>
+	  </div>
+	</div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <ul>
         <li>Digital test instructions should be housed on a  webpage that applies responsive web design. </li>
         <li>Audit all relevant webpages for WCAG 2.1 AA  compliance with experienced digital accessibility  professionals to ensure compatibility with assistive  technology. Complete a follow-up audit for WCAG  2.1 AA compliance following any remediation efforts. </li>
         <li>Reference and implement best practices for making  application content web accessible and mobile accessible.<a href="#ninteen">[19]</a><span id="endnote19"></span> <a href="#twenty">[20]</a><span id="endnote20"></span></li>
-        <li>Ensure the test instructions are available as a PDF  that conforms to Section 508, WCAG 2.1 AA, and PDF/ Universal Accessibility (UA) standards.  
-          Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see 8.3 Language). <a href="#twentyone">[21]</a><span id="endnote21"></span></li>
-        <li>Ensure all images have meaningful, descriptive  alt text (see that 8.3 Language • Alternative Text) supports nonvisual discernment of kit components  (e.g., by shape, size, feel). </li>
+        <li>Ensure the test instructions are available as a PDF  that conforms to Section 508, WCAG 2.1 AA, and PDF/ Universal Accessibility (UA) standards. <a href="#twentyone">[21]</a><span id="endnote21"></span>  Note that while Section 508 compliance indicates  an accessible digital file format, it does not confirm  language is accessible. Content requires a separate  and thorough review (see <a href="#language">8.3 Language</a>). </li>
+        <li>Ensure all images have meaningful, descriptive  alt text (see that <a href="#alternative-text">8.3 Language • Alternative Text</a>) supports nonvisual discernment of kit components  (e.g., by shape, size, feel). </li>
         <li>Ensure all form fields, buttons, and other interactive elements have accessible names/labels. </li>
         <li>Provide a digital accessible information system (DAISY) format of the test instructions with sections and subsections defined in the file.</li>
         <li>Provide a direct link on the product website to a full  digital version of the test instructions.</li>
@@ -877,7 +893,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
           <li>Written instructions and alt text together should  provide enough description of components and  actions for understanding without visual reference. </li>
         </ul>
         <li>Audio test instructions should be available in  easy-to-navigate formats.</li>
-        <li>Use of professional human voice is preferred to  create the audio, but clear text-to-speech (TTS)  engines may be used as an alternative. Audio  test instructions may be provided as part of a tutorial video (see 8.6 Digital Embodiment • Video Tutorial). Suitable file formats for standalone audio instructions include: </li>
+        <li>Use of professional human voice is preferred to  create the audio, but clear text-to-speech (TTS)  engines may be used as an alternative. Audio  test instructions may be provided as part of a tutorial video (see <a href="#video-tutorial">8.6 Digital Embodiment • Video Tutorial</a>). Suitable file formats for standalone audio instructions include: </li>
         <ul>
           <li>Podcast type file (M4A) with all sections of  the test instructions included as time stamped  chapters or episodes. Alternative open file types  that support meta data and navigational features  may be used.</li>
           <li>DAISY audiobook file with sections of the test  instructions included as chapters. </li>
@@ -924,7 +940,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Video Tutorial</h4>
+      <h4 id="#video-tutorial">Video Tutorial</h4>
       <img class="img-large" src="../images/video-demonstration-of-test-procedure.png" alt="Video screen showing a vial docking to a cassette." /> <span class="grid-line text-italic">Video demonstration of test procedure </span>
       <p>Videos can be an effective way to inform users about  the product. They provide dynamic demonstrations  to learners who prefer to process information visually  and audibly. Executed well, they can also provide an  improved audio instruction experience versus screen  reading digital instructions. </p>
     </div>
@@ -955,7 +971,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Avoid looping videos and/or audio with no ability to  pause.</li>
         <li>Ensure closed captions are provided and  synchronized with the video and audio content. <a href="#twentysix">[26]</a><span id="endnote26"></span> </li>
         <li>If the video tutorial is embedded in an application,  allow skipping the video after it has been viewed  once. </li>
-        <li>Consistent with providing alt text for 508 compliance include complete audio description. Refer to Digital. gov’s “508 Accessible Videos – How to Make Audio  Descriptions” for details. <a href="#twentyseven">[27]</a><span id="endnote27"></span> </li>
+        <li>Consistent with providing alt text for 508 compliance of digital documents ( see <a href="#assistive-technology-compatibility">8.6 Digital Embodiment • Assistive Technology Compatibility</a>), video must include complete audio description. Refer to Digital. gov’s “508 Accessible Videos – How to Make Audio Descriptions” for details. <a href="#twentyseven">[27]</a><span id="endnote27"></span> </li>
         <li> Provide audio description within the main audio, or,  preferably, as an option enabled by the user. <a href="#twentyeight">[28]</a><span id="endnote28"></span> </li>
         <li> Include timestamps on the player for easy  navigation to specific sections (e.g., getting started,  workflow, interpreting results). Use native device OS  video controls. </li>
         <li>Ensure on-screen buttons conform to WCAG 2.2  success criterion 2.5.8. <a href="#twentynine">[29]</a><span id="endnote29"></span></li>
@@ -1029,7 +1045,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <ul>
         <li>Prioritize key information including brand  name, device type, expiration date, links to test  instructions, and customer service number by  size and position. Ensure labeling complies with  regulatory bodies’ requirements.</li>
         <li>Use minimum 14 point and ideally 18 point or larger font and legible sans serif typeface (e.g., Arial, Calibri, Helvetica, Verdana, etc.). Do not use  decorative typefaces (e.g., Script, Slab)</li>
-        <li>Use effective color contrast (see 8.1 Legibility).</li>
+		  <li>Use effective color contrast (see <a href="#legibility">8.1 Legibility</a>).</li>
       </ul>
     </div>
   </div>
@@ -1047,7 +1063,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h5>Recommendation</h5>
       <ul>
         <li>Present QR codes in a size 0.8 inches (20.3 mm)  square or larger to align with current industry  practice. </li>
-        <li>See for guidance on expiration date 8.1 Legibility formatting. </li>
+        <li>See <a href="#legibility">8.1 Legibility</a> for guidance on expiration date formatting. </li>
       </ul>
     </div>
   </div>
@@ -1136,14 +1152,26 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <div class="grid-row">
     <div class="tablet:grid-col"> <img class="img-full" src="../images/loose-contents-inside-box-packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging</span>
       <h5>Issue</h5>
+      <p>Internal, physical test instructions and key information can be difficult to find.</p>
+    </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/contents-neatly-organized-within-box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized within box</span>
+      <h5>Recommendation</h5>
+      <p>Provide legible (see <a href="#legibility">8.1 Legibility</a>) test instructions face up as the first thing users encounter.</p>
+    </div>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/loose-contents-inside-box-packaging.png" alt="Open test kit box with loose components inside." /> <span class="grid-line text-italic">Loose contents inside box packaging</span>
+      <h5>Issue</h5>
       <p>Packages can have multiple components and internal pouches loosely placed inside. When opened, the contents can fall out and be misplaced. The order in which internal pouches or components are meant to be opened is unclear.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/contents-neatly-organized-within-box.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized in a tray or a tear pouch</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/contents-neatly-organized-in-a-tray-or-a-tear-pouch.png" alt="Test kit contents neatly stacked in trays with test instructions at the top-most layer and kit components in a tray underneath." /> <span class="grid-line text-italic">Contents neatly organized in a tray or a tear pouch</span>
       <h5>Recommendation</h5>
       <ul>
-        <li>Place contents in an organized and/or fixed manner (e.g., tray, bag, card, box dividers, etc.), in clear order of use.</li>
-        <li>If including a tray, provide ample finger clearance and gripping space/features (e.g., pull tabs) for removing the tray from the box and components from the tray.</li>
-      </ul>
+		<li>Place contents in an organized and/or fixed manner (e.g., tray, bag, card, box dividers, etc.), in clear order of use.</li>
+		<li>If including a tray, provide ample finger clearance and gripping space/features (e.g., pull tabs) for removing the tray from the box and components from the tray.</li>
+		</ul>
     </div>
   </div>
 </div>
@@ -1174,9 +1202,10 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <hr />
 <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col"> <img class="img-large" src="../images/internal-pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
-      <h4>Internal Pouches</h4>
-      <p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches. <a href="#thirty">[30]</a></p>
+    <div class="tablet:grid-col"> 
+		<h4>Internal Pouches</h4>
+		<img class="img-large" src="../images/internal-pouches.png" alt="Line drawings of swab pouch, cassette pouch, and fluid vial pouch." /> <span class="grid-line text-italic">Internal Pouches</span>
+      <p>Accessing internal components frequently requires opening secondary packaging. The user should be able to easily distinguish pouched components, identify where to open each pouch, and open pouches with less than 5 lbs. (22.2 N) force. <a href="#thirty">[30]</a> Design features such as grip areas, visual cues, and labeling play a pivotal role in usability of internal pouches. </p>
     </div>
   </div>
 </div>
@@ -1688,9 +1717,9 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
       <h5>Recommendation</h5>
       <ul>
         <li>Optimize chemistry in LFAs to maximize control and test line contrast and sharpness.</li>
-        <li>Result labeling should comply with recommendations in 8.1 Legibility.</li>
+        <li>Result labeling should comply with recommendations in  <a href="#legibility">8.1 Legibility</a>.</li>
         <li>Ensure cassette labeling aligns exactly with the position of the control and test lines in the results window.</li>
-        <li>Abbreviations should be adequately defined in the test instructions (see also 9.5 Cassette for additional labeling suggestions).</li>
+        <li>Abbreviations should be adequately defined in the test instructions (see also <a href="#cassette">9.5 Cassette</a> for additional labeling suggestions).</li>
         <li>When feasible, design the results status to be self- communicative and interpreted without the need for a key/legend (e.g., spell out ‘Control’ and ‘Test’ on cassette.</li>
         <li>Cassette labeling should all be in the same orientation.</li>
         <li>If cassette design includes a transparent shield over the results window, carefully consider how optics (e.g., refraction or reflection) might interfere with results interpretation.</li>
