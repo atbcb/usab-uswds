@@ -13,6 +13,8 @@ version: original
 
 # Sobre los Estándares de accesibilidad de la ADA
 
+*Disclaimer: La versión oficial de los estándares es la versión en inglés que está en el Código de regulaciones federales (CFR). Esta traducción en español se proporciona solo como cortesía.*
+
 Los Estándares de accesibilidad emitidos conforme a la Ley para los Estadounidenses con Discapacidades (Americans with Disabilities Act, ADA) se aplican a lugares de alojamiento público, instalaciones comerciales e instalaciones gubernamentales estatales y locales en nuevas construcciones, modificaciones y ampliaciones. Los Estándares de la ADA se basan en directrices mínimas establecidas por el Consejo de Accesibilidad. 
 
 El Departamento de Justicia (Department of Justice, DOJ) y el Departamento de Transporte (Department of Transportation, DOT) publican los Estándares de la ADA. Los Estándares de la ADA del DOJ se aplican a todas las instalaciones, excepto a las de transporte público, que estén sujetas a los Estándares de la ADA del DOT. Esta versión de los Estándares de la ADA combina ambos documentos y menciona disposiciones únicas en los Estándares del DOJ y en los del DOT. El Consejo de Accesibilidad es responsable de proporcionar asistencia técnica y capacitación sobre estos estándares.
