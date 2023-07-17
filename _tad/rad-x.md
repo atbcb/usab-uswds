@@ -804,11 +804,11 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 		</div>
 	  </div>
 	</div>
-		<div class="grid-container">
+<div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <p>Test instructions are provided in a format that is not  web or mobile accessible and/or is incompatible with  native device operating system (OS) accessibility  features. </p>
+      <p>Test instructions are provided in a format that is not  web or mobile accessible and/or is incompatible with  native device operating system (OS) accessibility features. </p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
