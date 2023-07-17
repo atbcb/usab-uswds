@@ -1786,5 +1786,5 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 
 
 <h3>RADx Tech Accessibility Program Webinar</h3>
-On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices." This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 "Best Practices for the Design of Accessible COVID-19 Home Tests" publication. The materials are available as a  <a target="_blank" href="https://youtube.com/watch?v=Mn0YXHoApMY">webinar recording on YouTube</a> and as <a target="_blank" href="/BestPracticesWebinar_2023-02-28_Outline.pdf">presentation slides in a PDF format.</a>
+On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices." This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 "Best Practices for the Design of Accessible COVID-19 Home Tests" publication. The materials are available as a  <a target="_blank" href="https://youtube.com/watch?v=Mn0YXHoApMY">webinar recording on YouTube</a> and as <a target="_blank" href="/files/mde/BestPracticesWebinar_2023-02-28_Outline.pdf">presentation slides in a PDF format.</a>
 
