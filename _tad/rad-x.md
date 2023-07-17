@@ -10,7 +10,7 @@ special-email-text: AccessibilityInfo@POCTRN.org
 special-email-link: accessibilityinfo@poctrn.org
 ta-text: General inquiries about the Access Board
 ta-email-pre: info
-file: /files/mde/radx-bp.pdf
+file: /files/mde/Best Practices for the Design of Accessible COVID-19 Home Tests - June 2023.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
 
