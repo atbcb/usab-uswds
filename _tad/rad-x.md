@@ -14,8 +14,6 @@ file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
 
-## {{ page.title }}
-
 <h2 id="best-practices-for-the-design-of-accessible-covid-19-home-tests">Best Practices for the Design of Accessible COVID-19 Home Tests</h2>
 <h3 id="Acknowledgements">Acknowledgements</h3>
 <p><b>We would like to acknowledge the efforts of all of those involved in the development of these best practices:</b></p>
