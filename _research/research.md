@@ -5,7 +5,7 @@ right-sidenav: sidenav-research.html
 permalink: /research/
 ---
 
-{% asset stock/research.jpeg class="img-right shadow radius-lg" alt="stack of papers with various charts" %}
+<img src="{{site.baseurl}}/images/stock/research.jpeg" class="img-right shadow radius-lg" alt="stack of papers with various charts" />
 
 The Access Board’s research program is focused on the study of accessibility relating to architecture and design, communication, and transportation.  A key mission of the Access Board is developing and maintaining accessibility guidelines and standards under several different laws, including the Americans with Disabilities Act (ADA).  This includes design requirements for facilities in the private and public sectors, transportation vehicles, telecommunications equipment, and federal electronic and information technology.  Most Access Board research projects are designed to develop information for its use in writing or updating these design criteria.  The Access Board may fund the development of technical assistance and training materials useful to its audience, including designers, specifiers, and consumers.  However, research reports and guidance materials on this page were prepared under contract to the Access Board by independent contractors.  As such, they represent the analysis and views of the contractors only and are not a statement of Access Board policy or position.
 
