@@ -2,7 +2,6 @@
 title: EV Charging Stations
 layout: page-right-sidenav
 right-sidenav: technical-assistance-vehicles.html
-permalink: /ev-charging-stations/
 ---
 ### Rulemaking [can’t note until Spring unified agenda is up] 
 
