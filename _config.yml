@@ -514,11 +514,32 @@ exclude:
   # - _research*
   # other development build tips: include_cached meta.html header.html in the base layout
 
-sass:
-  source_dir: _sass
-  load_paths:
-    - node_modules/uswds/dist/
-  sourcemap: development
-  quiet_deps: true
-  style: compressed
-  verbose: true
+assets:
+  autoprefixer:
+    browsers:
+      - "> 2%"
+      - "last 2 versions"
+      - "IE 11"
+      - "not dead"
+  compression: true
+  sources:
+    - node_modules/dompurify/dist/
+    - node_modules/stickyfilljs/dist
+    - node_modules/uswds/dist
+    - node_modules/uswds/dist/img
+    - node_modules/uswds/dist/js
+    - node_modules/uswds/dist/scss
+    - node_modules/netlify-cms/dist
+    - node_modules/stickyfilljs/dist
+    - node_modules/stickyfilljs/dist
+    - node_modules/video.js/dist
+    - node_modules/videojs-youtube/dist
+    - node_modules/anchor-js
+    - node_modules/jquery/dist
+    # - node_modules/datatables/dist/js
+    # - node_modules/datatables/dist/css
+    - node_modules/jquery-toast-plugin/dist
+    - node_modules/@fortawesome/fontawesome-free/css
+    - node_modules/@fortawesome/fontawesome-free/js
+    - node_modules/swiper
+    - images

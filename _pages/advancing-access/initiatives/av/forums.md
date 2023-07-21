@@ -3,6 +3,7 @@ banner-title: Autonomous Vehicles
 title: 'Inclusive Design of Autonomous Vehicles: A Public Dialogue'
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
+permalink: /av/forums.html
 ---
 
 ## {{page.title}}

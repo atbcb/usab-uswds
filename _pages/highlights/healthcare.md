@@ -5,7 +5,7 @@ sidenav: false
 permalink: /healthcare.html
 ---
 
-<img src="{{site.baseurl}}/images/stock/diagnostic-room.jpg" class="img-right shadow radius-lg" alt="Medical room with diagnostic equipment" />
+{% asset stock/diagnostic-room.jpg class="img-right shadow radius-lg" alt="Medical room with diagnostic equipment" %}
 
 The Board has issued accessibility standards for medical diagnostic equipment under the “Patient Protection and Affordable Care Act.” The Board also developed guidance on accessible prescription drug container labels. The Board is partnering with the National Institutes of Health (NIH) Rapid Acceleration of Diagnostics (RADx®) Tech accessibility program to host a report on best practices for the design of accessible COVID-19 home tests.
 
