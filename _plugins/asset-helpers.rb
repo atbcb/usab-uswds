@@ -12,6 +12,8 @@ module AssetHelper
         FileUtils.cp_r('node_modules/video.js/dist/', 'assets/video-js/', verbose: true)
         FileUtils.cp_r('node_modules/stickyfilljs/dist/', 'assets/stickyfilljs/', verbose: true)
         FileUtils.cp_r('node_modules/videojs-youtube/dist/', 'assets/youtube-video-js/', verbose: true)
+        FileUtils.cp_r('node_modules/@fortawesome/fontawesome-free/', 'assets/fontawesome-free/', verbose: true)
+        FileUtils.cp_r('node_modules/jquery-toast-plugin/dist/', 'assets/jquery-toast-plugin/', verbose: true)
         @processed = true
     end
 end
