@@ -10,7 +10,7 @@
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="{{site.baseurl}}/assets/netlify-cms/netlify-cms.js"></script>
+  {% asset netlify-cms.js %}
   <script>
     CMS.registerEditorComponent({
       label: 'Image',
