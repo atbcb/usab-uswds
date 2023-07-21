@@ -5,7 +5,6 @@ layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 file: /files/usab-av-forum-summary-report.pdf
 file-description: AV Forum Summary Report in PDF format
-permalink: /av/report.html
 ---
 
 ## {{page.title}}
