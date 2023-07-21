@@ -9,7 +9,7 @@ file-description: AV Forum Summary Report in PDF format
 
 ## {{page.title}}
 
-<button class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
+<button type="button" class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
 
 **July 2021** 
 
