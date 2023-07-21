@@ -12,7 +12,7 @@ tags:
   - events
 featured: false
 ---
-<img src="{{site.baseurl}}/images/autonomous-bus.jpg" alt="Autonomous Bus" class="float-right" />
+{% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
 
 In March and April, the U.S. Access Board, in partnership with other federal agencies, will host a series of virtual meetings on making autonomous vehicles (AVs) accessible to passengers with disabilities. The four-part series will provide an open forum where members of the public and stakeholders can discuss considerations, challenges, and solutions in designing accessible AVs. All are welcome to attend. 
 

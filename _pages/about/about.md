@@ -8,7 +8,7 @@ permalink: /about/
 ---
 
 
-<img src="{{site.baseurl}}/images/usab-seal.svg" class="float-right maxw-card-lg padding-left-2 padding-bottom-2" alt="United States Access Board circular star logo" />
+{% asset usab-seal.svg class="float-right maxw-card-lg padding-left-2 padding-bottom-2" alt="United States Access Board circular star logo" %}
 
 The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards.&nbsp;
 Created in 1973 to ensure access to federally funded facilities, the Access Board is now a leading source of information on accessible design.&nbsp;

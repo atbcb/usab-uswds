@@ -1,5 +1,3 @@
----
----
 /*
   Customize US Web Design System SASS
   See all at designsystem.digital.gov/documentation/settings
@@ -14,8 +12,8 @@
 @import "theme/uswds-theme-components";
 
 // Set correct paths for use with asset pipeline
-$theme-font-path: "../uswds/fonts";
-$theme-image-path: "../uswds/img";
+$theme-font-path: "fonts";
+$theme-image-path: "img";
 
 // Import individual USWDS packages...
 @import "scss/packages/required";
