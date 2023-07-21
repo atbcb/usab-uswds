@@ -5,11 +5,12 @@ layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 file: /files/usab-av-forum-summary-report.pdf
 file-description: AV Forum Summary Report in PDF format
+permalink: /av/report.html
 ---
 
 ## {{page.title}}
 
-<button type="button" class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
+<button class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
 
 **July 2021** 
 

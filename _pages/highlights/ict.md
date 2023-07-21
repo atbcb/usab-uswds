@@ -7,7 +7,7 @@ redirect_from:
  - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
  - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule/
 ---
-<img src="{{site.baseurl}}/images/stock/ict.jpg" class="img-right shadow radius-lg" alt="photo of hands typing on braille keyboard" />
+{% asset stock/ict.jpg class="img-right shadow radius-lg" alt="photo of hands typing on braille keyboard" %}
 Information and Communication Technology (ICT) must be accessible to people with physical, sensory, and cognitive disabilities.&nbsp;
 Access to ICT is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.&nbsp;
 These ICT Accessibility Standards include requirements that ensure compatibility with Assistive Technology (AT) used by people with disabilities.
@@ -29,6 +29,4 @@ The Original 508 Standards (December 21, 2000) can be found at [36 CFR Appendix 
 
 The Section 255 Guidelines address access to telecommunications products and services and apply to manufacturers of telecommunication equipment. The Board issued accessibility guidelines under Section 255 to cover wired and wireless telecommunication devices, other products that have a telecommunication service capability, and equipment that carriers use to provide services. 
 
-The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf). 
-
-<img src="{{site.baseurl}}/images/pdf.gif" alt="PDF icon" />
+The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf). {% asset pdf.gif alt="PDF icon" %}

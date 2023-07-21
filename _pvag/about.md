@@ -4,7 +4,7 @@ permalink: /pvag/
 order-number: 0
 ---
 ## About the ADA Passenger Vessels Accessibility Guidelines (PVAG)
-<img src="{{site.baseurl}}/images/stock/vessel.jpg" class="img-right shadow radius-lg" alt="photo of a cruise ship" />
+{% asset stock/vessel.jpg class="img-right shadow radius-lg" alt="photo of a cruise ship" %}
 The Access Board is developing accessibility guidelines for passenger vessels under the Americans with Disabilities Act (ADA).  It has proposed guidelines for large vessels for public comment.  These guidelines, which are not yet finalized, address onboard routes, vertical access between decks, doorways and coamings, toilet rooms, guest rooms, alarm systems, and other spaces and elements used by passengers. 
 
 ### Background
