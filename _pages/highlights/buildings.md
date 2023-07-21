@@ -7,7 +7,7 @@ redirect_from:
     - /guidelines-and-standards/buildings-and-sites/
 ---
 
-{% asset stock/building.jpg class="img-right shadow radius-lg" alt="photo of a building" %}
+<img src="{{site.baseurl}}/images/stock/building.jpg" class="img-right shadow radius-lg" alt="photo of a building" />
 Buildings and facilities must be accessible to people with disabilities under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act.  Accessibility standards issued under these laws govern the design, construction, and alteration of many types of buildings and sites in the private and public sectors.  
 
 

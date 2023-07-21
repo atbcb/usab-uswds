@@ -5,7 +5,7 @@ right-sidenav: sidenav-aircraft.html
 permalink: /aircraft/
 ---
 
-{% asset stock/aircraft.jpg alt="airplane flying into sunset" class="img-right shadow radius-lg" %}
+<img src="{{site.baseurl}}/images/stock/aircraft.jpg" alt="airplane flying into sunset" class="img-right shadow radius-lg" />
 
 The Access Board sponsored a *Study on the Feasibility of Wheelchair Restraint Systems in Passenger Aircraft* in collaboration with the Transportation Research Board (TRB), a component of the National Academies of Science, Engineering, and Medicine.  The TRB conducted their study and issued their final report in mid-September 2021.  The final report presents research findings on the [Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment]({{ site.baseurl}}/files/research/trb-final-report-sept2021.pdf) (PDF, 6MB).
 
