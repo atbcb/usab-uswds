@@ -5,7 +5,7 @@
       {% for featured in featured-news limit:10 %}
         <li class="padding-bottom-1 text-center">
           <a class="usa-link" href="{{site.baseurl}}{{featured.url}}">
-          {% if featured.image %}<img src="{{featured.image}}" class="maxh-15" alt="{{featured.image_alt_text}}"><br>{% endif %}
+          {% if featured.image %}<img src="{{site.baseurl}}{{featured.image}}" class="maxh-15" alt="{{featured.image_alt_text}}"><br>{% endif %}
           {{ featured.title }}</a>
         </li>
       {% endfor %}
