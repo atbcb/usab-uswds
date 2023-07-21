@@ -33,7 +33,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 ## Message From the Executive Director
 
-<img src="{{site.baseurl}}/images/sachin-portrait.jpg" class="img-left shadow radius-lg" alt="Sachin Pavithran photo" />
+{% asset sachin-portrait.jpg class="img-left shadow radius-lg" alt="Sachin Pavithran photo" %}
 
 I am pleased to present the Performance and Accountability Report (PAR) of the United States Access Board for Fiscal Year (FY) 2021. The report contains our financial and programrnatic performance, insight into our stewardship of taxpayer dollars and the resources entrusted to the agency, and an overview of its FY 2021 efforts to achieve the strategic objectives in the agency's FY 2018-2022 Strategic Plan.
 
