@@ -10,8 +10,8 @@ permalink: /av/report.html
 
 ## {{page.title}}
 
-<div class="pdf-button-container">
-  <a class="usa-button pdf-button float-right" title="{{ page.file-description }}" href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">PDF</a>
+<div class="pdf-button-container float-right">
+  <a class="usa-button pdf-button" title="{{ page.file-description }}" href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">PDF</a>
 </div>
 
 **July 2021** 
@@ -66,7 +66,6 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
      Secretary Pete Buttigieg, U.S. Department of Transportation
   </figcaption>
 </figure>
-<br style="clear:both" />
 <figure class="img-left">
   <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
@@ -74,7 +73,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   </figcaption>
 </figure>
 
-He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
+The Secretary was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 {: .clear }
