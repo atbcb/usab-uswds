@@ -3,7 +3,6 @@ banner-title: Autonomous Vehicles
 title: 'Inclusive Design of Autonomous Vehicles: A Public Dialogue'
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
-permalink: /av/forums.html
 ---
 
 ## {{page.title}}
@@ -18,16 +17,18 @@ These presentations will be followed by an open dialogue with attendees through 
 
 ### Accessibility for Passengers with Mobility Disabilities:&nbsp; Part 1
 
-*This session covered methods and technologies for entering and exiting autonomous vehicles.* \
+_This session covered methods and technologies for entering and exiting autonomous vehicles._ \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
-Presentation Materials from Session 1: [PPT, 23MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) or [PDF, 4MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)
+Presentation Materials from Session 1:&nbsp; [PPT, 23MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) or [PDF, 4MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)
 
 #### Session I Presenters
 
-<div class="margin-x-10"><iframe title="Welcome message from Pete Buttigieg, introduction avideo" width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="margin-x-10">
+  <iframe title="Welcome message from Pete Buttigieg, introduction avideo" width="50%" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+</div>
 
-* Pete Buttigieg, Secretary of Transportation 
+* Pete Buttigieg, Secretary of Transportation
 * Robin Hutcheson, DOT Deputy Assistant Secretary for Safety Policy
 * [Gregory S. Fehribach]({{ site.baseurl }}/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
 *	Randall Duchesneau, U.S. Access Board
@@ -37,7 +38,7 @@ Presentation Materials from Session 1: [PPT, 23MB]({{ site.baseurl }}/files/pres
 
 ### Accessibility for Passengers with Mobility Disabilities:&nbsp; Part 2
 
-*This session addressed maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
+_This session addressed maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles._ \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 2](https://youtu.be/d9xc-mRrlxY?t=38) \
 Presentation Materials from Session 2: [PPT, 18MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)
@@ -59,14 +60,14 @@ Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/prese
 
 #### Session III Presenters
 
-* [Dr. Cecilia Feeley](http://cait.rutgers.edu/autism-project) and [Andrea Lubin](http://vtc.rutgers.edu/51), Rutgers University 
+* [Dr. Cecilia Feeley](http://cait.rutgers.edu/autism-project) and [Andrea Lubin](http://vtc.rutgers.edu/51), Rutgers University
 * [Dr. Robin Brewer](http://robinbrewer.com), University of Michigan
 * Anil Lewis, National Federation of the Blind
 * Dr. Christian Vogler, Gallaudet University; Director, Technology Access Program Research Group
 
 ### Accessibility for Passengers with Sensory and Cognitive Disabilities:&nbsp; Part 2
 
-*This session  continued discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
+_This session  continued discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities._ \
 April 21, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 4](https://youtu.be/ImQoLk0CQoc?t=1) \
 Presentation Materials for Session 4: [PPT, 5MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pptx) or [PDF, 3MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pdf)
