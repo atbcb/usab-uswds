@@ -18,14 +18,14 @@ These presentations will be followed by an open dialogue with attendees through 
 
 ### Accessibility for Passengers with Mobility Disabilities:&nbsp; Part 1
 
-*This session covered methods and technologies for entering and exiting autonomous vehicles.* \
+_This session covered methods and technologies for entering and exiting autonomous vehicles._ \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
 Presentation Materials from Session 1: [PDF, 4MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)
 
 #### Session I Presenters
 
-<iframe class="margin-x-10"title="Welcome message from Pete Buttigieg" width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0"  allowfullscreen="true" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> Introduction Video </iframe>
+<iframe class="margin-x-10" title="Welcome message from Pete Buttigieg" src="https://www.youtube.com/embed/WPP4s413T6k" width="400" height="225" frameborder="0" allowfullscreen="true" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> Introduction Video </iframe>
 
 * Pete Buttigieg, Secretary of Transportation 
 * Robin Hutcheson, DOT Deputy Assistant Secretary for Safety Policy
@@ -37,7 +37,7 @@ Presentation Materials from Session 1: [PDF, 4MB]({{ site.baseurl }}/files/prese
 
 ### Accessibility for Passengers with Mobility Disabilities:&nbsp; Part 2
 
-*This session addressed maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
+_This session addressed maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles._ \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 2](https://youtu.be/d9xc-mRrlxY?t=38) \
 Presentation Materials from Session 2: [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)
@@ -52,7 +52,7 @@ Presentation Materials from Session 2: [PDF, 6MB]({{ site.baseurl }}/files/prese
 
 ### Accessibility for Passengers with Sensory and Cognitive Disabilities:&nbsp; Part 1
 
-*This session addressed ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
+_This session addressed ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities._ \
 April 7, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 3](https://youtu.be/nfh-MpcNCB8) \
 Presentation Materials for Session 3: [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)
@@ -66,7 +66,7 @@ Presentation Materials for Session 3: [PDF, 6MB]({{ site.baseurl }}/files/presen
 
 ### Accessibility for Passengers with Sensory and Cognitive Disabilities:&nbsp; Part 2
 
-*This session  continued discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
+_This session  continued discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities._ \
 April 21, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 4](https://youtu.be/ImQoLk0CQoc?t=1) \
 Presentation Materials for Session 4: [PDF, 3MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pdf)

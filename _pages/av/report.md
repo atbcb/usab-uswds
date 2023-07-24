@@ -10,15 +10,17 @@ permalink: /av/report.html
 
 ## {{page.title}}
 
-<button class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }}">PDF</a></button>
+<div class="pdf-button-container float-right">
+  <a class="usa-button pdf-button" title="{{ page.file-description }}" href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">PDF</a>
+</div>
 
 **July 2021** 
 
 ### Important Note
 
-*The U.S. Access Board presented a series of virtual events entitled "Inclusive Design of Autonomous Vehicles: A Public Dialogue" in March and April 2021 for the purpose of exchanging facts and information about autonomous vehicle (AV) accessibility, and to hear thoughts from individuals on how to ensure that autonomous vehicles are accessible to and usable by persons with disabilities.*
+_The U.S. Access Board presented a series of virtual events entitled "Inclusive Design of Autonomous Vehicles: A Public Dialogue" in March and April 2021 for the purpose of exchanging facts and information about autonomous vehicle (AV) accessibility, and to hear thoughts from individuals on how to ensure that autonomous vehicles are accessible to and usable by persons with disabilities._
 
-*The speakers who participated in these sessions, and whose presentations are summarized in this report, were invited to share information related to the accessible design of AVs.  The views expressed by these presenters are their own; they do not represent the views of the Access Board, and readers should not assume endorsement by the federal government of any referenced product, service, organization, or technical solution.*
+_The speakers who participated in these sessions, and whose presentations are summarized in this report, were invited to share information related to the accessible design of AVs.  The views expressed by these presenters are their own; they do not represent the views of the Access Board, and readers should not assume endorsement by the federal government of any referenced product, service, organization, or technical solution._
 
 ### Table of Contents
 
@@ -61,7 +63,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
   <figcaption style="text-align:center">
     <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br>
-     Secretary Pete Buttigieg, U.S. Department of Transportation <br>
+     Secretary Pete Buttigieg, U.S. Department of Transportation
   </figcaption>
 </figure>
 <figure class="img-left">
@@ -71,7 +73,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   </figcaption>
 </figure>
 
-He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
+The Secretary was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 {: .clear }
