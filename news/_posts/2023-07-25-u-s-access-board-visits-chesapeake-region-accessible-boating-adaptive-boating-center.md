@@ -37,7 +37,7 @@ Board members and staff also toured the facility, led by CRAB Director of Market
     <img src="{{ site.baseurl }}/images/uploads/paul-bollinger-speaks-to-board.png" alt="Paul Bollinger speaks to the Access Board" class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Paul Bollinger speaks to the Access Board about the develop CRAB Adaptive Boating Center.</em>
+    <em>Paul Bollinger speaks to the Access Board about the history and development of the CRAB Adaptive Boating Center.</em>
   </figcaption>
 </figure>
 
