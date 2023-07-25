@@ -20,8 +20,8 @@ featured: true
 Yesterday, U.S. Access Board members and staff visited [Chesapeake Region Accessible Boating (CRAB) Adaptive Boating Center](https://crabsailing.org/adaptive-boating-center/) in Annapolis, MD to learn about CRAB’s new accessible boathouse and marina and adaptive boating program for people with disabilities. Over the last five years, CRAB frequently consulted with Accessibility Specialists at the Board who provided technical assistance in the accessible design of the facility.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/crab-transfer-box.jpeg">
-    <img src="{{ site.baseurl }}/images/uploads/crab-transfer-box.jpeg" alt="Access Board member using a transfer box to board a CRAB sailboat" class="center">
+  <a href="{{ site.baseurl }}/images/uploads/crab-transfer-box.png">
+    <img src="{{ site.baseurl }}/images/uploads/crab-transfer-box.png" alt="Access Board member using a transfer box to board a CRAB sailboat" class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Access Board member using a transfer box and assistance from CRAB volunteers to board a CRAB sailboat.</em>
