@@ -8,7 +8,7 @@ excerpt: With deep sorrow, the U.S. Access Board announces the passing of former
   a key contributor to revising and updating . . .
 image: /images/uploads/carl-lewis.png
 image_alt_text: Portrait of Carl Lewis
-featured: true
+featured: false
 ---
 With deep sorrow, the U.S. Access Board announces the passing of former Board Member Carl Lewis. Appointed to the Board in 1996 by President Bill Clinton, Lewis used his tenure with the agency to advance its mission and was a key contributor to revising and updating its accessibility guidelines for buildings and facilities covered by the [Americans with Disabilities Act (ADA)](https://www.access-board.gov/ada/) and the [Architectural Barriers Act (ABA)](https://www.access-board.gov/aba/). He also was elected to serve as the [Board’s Vice-Chair in 2002](https://www.access-board.gov/about/board-chairs-and-vice-chairs.html). Lewis passed on June 19, 2023.  
 
