@@ -34,4 +34,4 @@ Board members and staff also toured the facility, led by CRAB Director of Market
   </figcaption>
 </figure>
 
-In addition, Board members and staff heard from CRAB President James Nolan and Executive Director Paul Bollinger, who discussed the private-public partnership in bringing the facility to fruition. In designing and building the accessible learning environment and sailing experience, CRAB consulted with Board staff, the Maryland Department of Disabilities, the Maryland Assistive Technology Reuse Center, the Maryland Division of Rehabilitation, and the Bay Area Center for Independent Living. 
+In addition, Board members and staff heard from CRAB President James Nolan and Executive Director Paul Bollinger, who discussed the private-public partnership in bringing the facility to fruition. In designing and building the accessible learning environment and sailing experience, CRAB collected feedback and worked with Board staff, the Maryland Department of Disabilities, the Maryland Assistive Technology Reuse Center, the Maryland Division of Rehabilitation, and the Bay Area Center for Independent Living.
