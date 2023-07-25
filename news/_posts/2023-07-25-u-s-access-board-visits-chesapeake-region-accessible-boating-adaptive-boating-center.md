@@ -17,7 +17,16 @@ image_alt_text: Access Board members and staff on Chesapeake Region Accessible
   Boating sailboat on Chesapeake Bay.
 featured: true
 ---
-Yesterday, U.S. Access Board members and staff visited [Chesapeake Region Accessible Boating (CRAB) Adaptive Boating Center](https://crabsailing.org/adaptive-boating-center/) in Annapolis, MD to learn about CRAB’s new accessible boathouse and marina and adaptive boating program for people with disabilities. Over the last five years, CRAB frequently consulted with Accessibility Specialists at the Board who provided technical assistance in the accessible design of the facility.  
+Yesterday, U.S. Access Board members and staff visited [Chesapeake Region Accessible Boating (CRAB) Adaptive Boating Center](https://crabsailing.org/adaptive-boating-center/) in Annapolis, MD to learn about CRAB’s new accessible boathouse and marina and adaptive boating program for people with disabilities. Over the last five years, CRAB frequently consulted with Accessibility Specialists at the Board who provided technical assistance in the accessible design of the facility.
+
+<figure class="img-right">
+  <a href="{{ site.baseurl }}/images/uploads/crab-transfer-box.jpeg">
+    <img src="{{ site.baseurl }}/images/uploads/crab-transfer-box.jpeg" alt="Access Board member using a transfer box to board a CRAB sailboat" class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Access Board member using a transfer box and assistance from CRAB volunteers to board a CRAB sailboat.</em>
+  </figcaption>
+</figure>
 
 Upon arrival, Board members and staff were welcomed by CRAB staff and volunteers who provided a sailing demonstration for members and staff to experience first-hand accessible boating on the Chesapeake Bay. Members and staff boarded either one of CRAB’s six sailboats or power catamaran by traversing CRAB’s accessible docks and, if needed, using CRAB’s adaptive boarding equipment, which includes four Hoyer lifts and two transfer boxes and slides. Members and staff who use mobility devices and did not want to transfer had the option to ride CRAB’s power catamaran, which allows guests to use a dock ramp to board the boat without ever having to transfer out of their device. Before, during, and after the experience, Board members and staff were also assisted by CRAB staff and volunteers, who are trained specifically to assist patrons with disabilities to an accessible and safe boating experience. 
 
