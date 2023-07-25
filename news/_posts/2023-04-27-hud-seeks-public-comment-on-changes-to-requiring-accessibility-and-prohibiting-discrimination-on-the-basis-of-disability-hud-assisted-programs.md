@@ -5,7 +5,7 @@ date: 2023-04-27
 excerpt: The U.S. Department of Housing and Urban Development (HUD) seeks public comment on potential changes to its regulation implementing Section 504 of the Rehabilitation Act for recipients of HUD federal financial assistance. Section 504 prohibits discrimination on . . .
 image: /images/uploads/hud-seal.png
 image_alt_text: HUD logo
-featured: true
+featured: false
 ---
 The U.S. Department of Housing and Urban Development (HUD) seeks public comment on potential changes to its regulation implementing Section 504 of the Rehabilitation Act for recipients of HUD federal financial assistance. Section 504 prohibits discrimination on the basis of disability in programs and activities receiving federal financial assistance from HUD. [HUD’s Section 504 Advance Notice of Proposed Rulemaking (ANPRM)](https://www.federalregister.gov/documents/2023/04/25/2023-08464/nondiscrimination-on-the-basis-of-disability-updates-to-huds-section-504-regulations) acknowledges the need to align HUD’s Section 504 regulation with environmental, societal, and technological advances and emerging issues.   
 
