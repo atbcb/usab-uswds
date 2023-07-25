@@ -17,7 +17,7 @@ image_alt_text: Access Board members and staff on Chesapeake Region Accessible
   Boating sailboat on Chesapeake Bay.
 featured: true
 ---
-Yesterday, U.S. Access Board members and staff visited [Chesapeake Region Accessible Boating (CRAB) Adaptive Boating Center](https://crabsailing.org/adaptive-boating-center/) in Annapolis, MD to learn about CRAB’s new accessible boathouse and marina and adaptive boating program for people with disabilities. Over the last five years, CRAB frequently consulted with Accessibility Specialists at the Board who provided technical assistance in the accessible design of the facility.
+Yesterday, U.S. Access Board members and staff visited [Chesapeake Region Accessible Boating (CRAB) Adaptive Boating Center](https://crabsailing.org/adaptive-boating-center/) in Annapolis, MD to learn about CRAB’s new accessible boathouse and marina and adaptive boating program for people with disabilities. Over the last five years, CRAB frequently consulted with Accessibility Specialists at the Board who provided technical assistance in the accessible design of the facility. With its grand opening on May 2 of this year, the Center offers an extensively accessible environment and unprecedented access to the Chesapeake Bay for people with disabilities.
 
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/crab-transfer-box.png">
@@ -42,5 +42,3 @@ Board members and staff also toured the facility, led by CRAB Director of Market
 </figure>
 
 In addition, Board members and staff heard from CRAB President James Nolan and Executive Director Paul Bollinger, who discussed the private-public partnership in bringing the facility to fruition. In designing and building the accessible learning environment and sailing experience, CRAB consulted with Board staff, the Maryland Department of Disabilities, the Maryland Assistive Technology Reuse Center, the Maryland Division of Rehabilitation, and the Bay Area Center for Independent Living. 
-
-The Board commends CRAB for creating a recreational boating facility that offers an extensively accessible environment to guests, providing people with disabilities with unprecedented access to the Chesapeake Bay.
