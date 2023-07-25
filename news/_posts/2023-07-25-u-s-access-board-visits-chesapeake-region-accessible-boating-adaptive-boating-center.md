@@ -30,7 +30,16 @@ Yesterday, U.S. Access Board members and staff visited [Chesapeake Region Access
 
 Upon arrival, Board members and staff were welcomed by CRAB staff and volunteers who provided a sailing demonstration for members and staff to experience first-hand accessible boating on the Chesapeake Bay. Members and staff boarded either one of CRAB’s six sailboats or power catamaran by traversing CRAB’s accessible docks and, if needed, using CRAB’s adaptive boarding equipment, which includes four Hoyer lifts and two transfer boxes and slides. Members and staff who use mobility devices and did not want to transfer had the option to ride CRAB’s power catamaran, which allows guests to use a dock ramp to board the boat without ever having to transfer out of their device. Before, during, and after the experience, Board members and staff were also assisted by CRAB staff and volunteers, who are trained specifically to assist patrons with disabilities to an accessible and safe boating experience. 
 
-Board members and staff also toured the facility, led by CRAB Director of Marketing and Development Rebecca Gonser. The facility meets and exceeds the [Americans with Disabilities Act (ADA) Accessibility Standards](https://www.access-board.gov/ada/) with accessible guest parking spaces, an accessible electric vehicle charging station, five ADA-compliant restrooms, accessible picnic benches, adaptive technology, and an accessible marina, including 140 feet of raised floating docks, that exceeds current ADA requirements.  
+Board members and staff also toured the facility, led by CRAB Director of Marketing and Development Rebecca Gonser. The facility meets and exceeds the [Americans with Disabilities Act (ADA) Accessibility Standards](https://www.access-board.gov/ada/) with accessible guest parking spaces, an accessible electric vehicle charging station, five ADA-compliant restrooms, accessible picnic benches, adaptive technology, and an accessible marina, including 140 feet of raised floating docks, that exceeds current ADA requirements. 
+
+<figure class="img-right">
+  <a href="{{ site.baseurl }}/images/uploads/paul-bollinger-speaks-to-board.png">
+    <img src="{{ site.baseurl }}/images/uploads/paul-bollinger-speaks-to-board.png" alt="Paul Bollinger speaks to the Access Board" class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Paul Bollinger speaks to the Access Board about the develop CRAB Adaptive Boating Center.</em>
+  </figcaption>
+</figure>
 
 In addition, Board members and staff heard from CRAB President James Nolan and Executive Director Paul Bollinger, who discussed the private-public partnership in bringing the facility to fruition. In designing and building the accessible learning environment and sailing experience, CRAB consulted with Board staff, the Maryland Department of Disabilities, the Maryland Assistive Technology Reuse Center, the Maryland Division of Rehabilitation, and the Bay Area Center for Independent Living. 
 
