@@ -13,7 +13,7 @@ excerpt: Medical diagnostic care is essential to everyone, including people with
   regarding . . .
 image: /images/uploads/diagnostic-room.jpg
 image_alt_text: Medical room with diagnostic equipment
-featured: true
+featured: false
 ---
 Medical diagnostic care is essential to everyone, including people with disabilities, and often requires people to transfer onto diagnostic equipment, such as examination tables and chairs, for evaluation. Historically, medical diagnostic equipment (MDE) has been, and continues to be, inaccessible to many people in wheelchairs, which can lead to misdiagnosis or barriers to basic care and examinations. The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/documents/2023/05/23/2023-10827/standards-for-accessible-medical-diagnostic-equipment) regarding one provision on the low transfer surface height for certain types of MDE used by patients in a supine, prone, side-lying, or seated position. 
 
