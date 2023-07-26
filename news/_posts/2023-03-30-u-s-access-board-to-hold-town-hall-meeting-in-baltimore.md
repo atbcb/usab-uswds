@@ -9,7 +9,7 @@ excerpt: The U.S. Access Board will hold a public town hall meeting on Tuesday,
   agencies will be present to . . .
 image: /images/uploads/baltimore-skyline.png
 image_alt_text: Baltimore skyline
-featured: true
+featured: false
 ---
 The U.S. Access Board will hold a public town hall meeting on **Tuesday, July 25** from **1:30 – 3:30 p.m. (ET)** at the national headquarters of the [National Federation of the Blind](https://nfb.org/) in Baltimore, Maryland. Presidentially appointed Access Board members and representatives from other federal member agencies will be present to hear from the local community about the state of accessibility in Baltimore and the D.C.-Maryland-Virginia area. Representatives from the Maryland Governor's Office will also be present. 
 
