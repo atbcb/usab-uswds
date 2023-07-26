@@ -9,7 +9,7 @@ excerpt: Members of the public are welcome to virtually attend the U.S. Access
   Blind in Baltimore, Maryland. To ensure all can participate, the town hall
   meeting will be broadcast live via Zoom for . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
-featured: true
+featured: false
 ---
 Members of the public are welcome to virtually attend the U.S. Access Board’s in-person public town hall meeting on **Tuesday, July 25** from **1:30 – 3:30 p.m. (ET)** at the national headquarters of the [National Federation of the Blind](https://nfb.org/) in Baltimore, Maryland. To ensure all can participate, the town hall meeting will be [broadcast live via Zoom](https://www.zoomgov.com/j/1616172171?pwd=aVRmOExyRVhkRHUwUGxxS2pyNUdVUT09) for virtual attendees. Virtual attendees will only be able to listen to the meeting and not make public comments. 
 
