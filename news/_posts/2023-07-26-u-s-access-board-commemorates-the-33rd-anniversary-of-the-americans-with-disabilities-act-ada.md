@@ -1,0 +1,29 @@
+---
+layout: post
+title: "U.S. Access Board Commemorates the 33rd Anniversary of the Americans
+  with Disabilities Act (ADA) "
+date: 2023-07-26
+excerpt: Today marks the 33rd anniversary of the Americans with Disabilities Act
+  (ADA), our nation’s first comprehensive civil rights law for people with
+  disabilities that impacts millions of Americans. The ADA bans discrimination
+  based on disability in the private sector and the state and local government
+  sectors and requires access for all Americans to programs and services,
+  facilities, transportation, employment, and communication. The U.S. Access
+  Board celebrates the ADA, which extended its mission to . . .
+image: /images/uploads/ada-signing.jpg
+image_alt_text: George H.W. Bush signing the ADA in 1990
+featured: true
+---
+Today marks the 33rd anniversary of the Americans with Disabilities Act (ADA), our nation’s first comprehensive civil rights law for people with disabilities that impacts millions of Americans. The ADA bans discrimination based on disability in the private sector and the state and local government sectors and requires access for all Americans to programs and services, facilities, transportation, employment, and communication. The U.S. Access Board celebrates the ADA, which extended its mission to not only issue and enforce the [Architectural Barriers Act Accessibility Standards](https://www.access-board.gov/aba/) that ensure federal and federally leased buildings and facilities are accessible, but also issue accessibility guidelines for buildings, facilities, and transient vehicles in places of public accommodation, commercial facilities, and state and local government facilities. 
+
+On the first anniversary of the ADA in 1991, the Board published the [ADA Accessibility Guidelines](https://www.access-board.gov/ada/) that contain detailed design requirements for buildings and facilities in the private and public sectors. On the same day, the Department of Justice adopted the ADA Accessibility Guidelines as the basis of its enforceable standards, which made compliance with the requirements mandatory under the ADA. The Board also implemented a [technical assistance](https://www.access-board.gov/ta/) hotline to handle questions on the guidelines and accessible design and developed a program to provide [training](https://www.access-board.gov/webinars/training.html) to the public. 
+
+Over this last year, the Board has achieved several notable advancements in accessibility. Last July, the Board released the Technical Assistance Document “[Design Recommendations for Accessible Electric Vehicle Charging Stations](https://www.access-board.gov/tad/ev/)” that identifies some existing accessibility requirements and provides numerous recommendations and best practices for accessible electric vehicle (EV) charging stations. The document also clarifies differences between EV charging spaces and parking spaces, covers accessible communication features required under [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/), and other important information on implementing accessible design for EV charging stations. 
+
+In September 2022, the Board issued an [advance notice of proposed rulemaking (ANPRM)](https://www.federalregister.gov/documents/2022/09/21/2022-20470/americans-with-disabilities-act-accessibility-guidelines-for-buildings-and-facilities-architectural) on supplemental accessibility guidelines to the ADA Accessibility Standards for different types of self-service transaction machines (SSTMs), including electronic self-service kiosks and automated teller machines (ATMs), that will provide access for people with disabilities. Touchscreen kiosks and other types of SSTMs are a common feature in everyday life, including at grocery stores, restaurants, colleges and universities, and federal buildings. The supplemental accessibility guidelines will ensure those who use mobility devices can physically access the machines and their screens and controls, and those who are blind or have low vision and who are deaf or hard of hearing will have access to information both audibly and visually, respectively. 
+
+In the next few weeks, the Board will publish the [Public Rights-of-Way Accessibility Guidelines (PROWAG)](https://www.access-board.gov/prowag/) under Title II of the ADA that address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, shared use paths, and other components of public rights-of-way. PROWAG will apply to alterations or additions to existing rights-of-way as well as newly-constructed pedestrian facilities. 
+
+Under the ADA, the Board provides technical assistance and training on the ADA Accessibility Standards, and in the last year, the Board served the public with 118 trainings, 18 free webinars, and over 5,000 technical assistance responses. Members of the public are welcome to contact the Board’s Accessibility Specialists for [technical assistance](https://www.access-board.gov/ta/) via phone at 1-202-272-0800, extension 3 from 10:00 am to 5:00 pm ET weekdays and email at [ta@access-board.gov](mailto:ta@access-board.gov). The Board also provides [accessibility trainings](https://www.access-board.gov/webinars/training.html), as well as [free monthly webinars on the built environment and Section 508 best practices](https://www.access-board.gov/webinars/) through its partnerships with the ADA National Network and the Federal Chief Information Officers Council’s Accessibility Community of Practice, respectively. 
+
+The Board commemorates the 33rd anniversary of the ADA and continues to advance its mission of developing accessibility guidelines and standards and promoting equality for people with disabilities.
