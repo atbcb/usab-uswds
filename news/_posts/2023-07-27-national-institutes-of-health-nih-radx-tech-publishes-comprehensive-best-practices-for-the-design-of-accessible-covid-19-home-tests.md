@@ -8,7 +8,7 @@ excerpt: Available now and hosted by the U.S. Access Board, the Best Practices
   more people can access and use COVID-19 home tests, including those who are
   blind or have low vision, limited dexterity or fine motor skills, and the
   aging population. This comprehensive Best Practices document details . . .
-featured: false
+featured: true
 ---
 Available now and hosted by the U.S. Access Board, the [Best Practices for the Design of Accessible COVID-19 Home Tests](https://www.access-board.gov/tad/radx/) document aims to ensure that more people can access and use COVID-19 home tests, including those who are blind or have low vision, limited dexterity or fine motor skills, and the aging population.
 
