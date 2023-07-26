@@ -16,11 +16,11 @@ featured: true
 Yesterday, the U.S. Access Board held its 2023 town hall meeting at the national headquarters of the [National Federation of the Blind (NFB)](https://nfb.org/) in Baltimore, MD. Eleven presidentially appointed Public Board Members were present, as well as Federal Member and Board Vice-Chair **Katy Kale**, Deputy Administrator at the General Services Administration (GSA), and representatives from U.S. Department of Commerce and Department of Interior.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/pavithran-fehribach-kale.png">
-    <img src="{{ site.baseurl }}/images/uploads/pavithran-fehribach-kale.png" alt="Access Board Chair Greg Fehribach speaking with Board Executive Director Sachin Pavithran on the left and Board Vice-Chair on the right of Fehribach." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/baltimore-town-hall-head-table.png">
+    <img src="{{ site.baseurl }}/images/uploads/baltimore-town-hall-head-table.png" alt="Access Board Members seated at head table of town hall meeting." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Access Board Chair Greg Fehribach speaking at the Baltimore town hall meeting.</em>
+    <em>Access Board Members seated at head table of town hall meeting while Access Board Chair Greg Fehribach provides opening remarks.</em>
   </figcaption>
 </figure>
 
