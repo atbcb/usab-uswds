@@ -12,31 +12,10 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Tuesday, July 25, 2023.**  The Board will hold a public town hall meeting, in-person only, on July 25 from 1:30 – 3:30 p.m. (ET) at the national headquarters of the National Federation of the Blind in Baltimore, MD (200 East Wells Street, Baltimore, MD 21230).  Commenting online will not be an option.  Virtual participation details are provided below for those who wish to listen only.  Additional details will be announced as soon as they become available. *Note: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.*  
-
-
-**U.S. Access Board Town Hall Meeting**  \
-July 25, 2023 \
-1:30 – 3:30 p.m. (ET)
->
-> ***In-Person Attendance Information*** \
-> National Federation of the Blind National Headquarters \
-> 200 East Wells Street \
-> Baltimore, MD  21230 \
-> Registration: Email full name and organization to [events@access-board.gov](mailto:events@access-board.gov) 
-
-> ***Virtual Attendance Information (listen-only)*** \
-> Zoom Livestream Link:  [www.zoomgov.com/j/1616172171](https://www.zoomgov.com/j/1616172171?pwd=aVRmOExyRVhkRHUwUGxxS2pyNUdVUT09) \
-> Meeting ID:  161 617 2171 \
-> Passcode:  067497 \
-> Dial by your location: 
-> > +1 669 254 5252 US (San Jose) \
-> > +1 646 828 7666 US (New York) \
-> Meeting ID: 161 617 2171
+The next meeting of the Board is scheduled for **Thursday, October 25, 2023.**
 
 ## Future Board Meetings
 
-- July 24 - 25, 2023, In-person, Annapolis and Baltimore, MD
 - October 23 - 25, 2023, Virtual
 - January 22 - 24, 2024, Virtual
 - April 16 - 18, 2024, In-person, Los Angeles, CA
@@ -49,6 +28,7 @@ July 25, 2023 \
 
 ## Board Meeting Archives
 
+- [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://www.youtube.com/watch?v=Hd619gImSQY) 
 - [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
 - [November 9, 2022](https://www.youtube.com/watch?v=kL4IKkiOLHA)
