@@ -5,7 +5,7 @@ full_name: Karen L. Braitmayer, FAIA
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/braitmayer.png
 ---
