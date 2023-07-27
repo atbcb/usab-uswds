@@ -5,7 +5,7 @@ full_name: Deborah A. Ryan
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/d-ryan.png
 ---
