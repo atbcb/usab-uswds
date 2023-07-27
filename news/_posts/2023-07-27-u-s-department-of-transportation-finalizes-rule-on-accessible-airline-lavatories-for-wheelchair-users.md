@@ -4,7 +4,7 @@ title: U.S. Department of Transportation Finalizes Rule on Accessible Airline
   Lavatories for Wheelchair Users
 date: 2023-07-27
 excerpt: On the 33rd anniversary of the Americans with Disabilities Act (ADA),
-  the U.S. Department of Transportation (DOT) today announced a new rule which
+  the U.S. Department of Transportation (DOT) announced a new rule which
   requires airline lavatories to be more accessible. This rulemaking, authorized
   by the Air Carrier Access Act (ACAA), would require airlines to make
   lavatories . . .
