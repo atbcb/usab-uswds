@@ -5,7 +5,7 @@ full_name: Victor Santiago Pineda, PhD
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/pineda-victor.png
 ---
