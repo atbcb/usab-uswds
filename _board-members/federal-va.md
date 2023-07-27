@@ -1,7 +1,7 @@
 ---
 name: federal-va
-last-name: Michael
-full_name: Brennan
+last-name: Brennan
+full_name: Michael Brennan
 chair: false
 vice-chair: false
 member: federal
