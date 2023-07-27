@@ -1,7 +1,7 @@
 ---
 name: federal-va
-last-name: "[Currently Vacant]"
-full_name: "[Currently Vacant]"
+last-name: Michael
+full_name: Brennan
 chair: false
 vice-chair: false
 member: federal
