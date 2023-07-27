@@ -28,6 +28,7 @@ title: Access Board Members
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ chair.name }}">
               <header class="card-header">
                 <h2 class="usa-card__heading">Chair</h2>
+              <div class="usa-card__container gray-to-color card-shadow">
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ chair.full_name }}</h3>
@@ -42,6 +43,7 @@ title: Access Board Members
                   <img src="{{ site.baseurl }}{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
                 </div>
               </div>
+            </div>
           </a>
         </li>
         {% endfor %}
@@ -50,6 +52,7 @@ title: Access Board Members
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}">
               <header class="card-header">
                 <h2 class="usa-card__heading">Vice-Chair</h2>
+              <div class="usa-card__container gray-to-color card-shadow">
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ vice-chair.full_name }}</h3>
@@ -62,6 +65,7 @@ title: Access Board Members
                   <img src="{{ site.baseurl }}{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
                 </div>
               </div>
+           </div>
           </a>
         </li>
         {% endfor %}  
@@ -76,7 +80,8 @@ title: Access Board Members
       {% for member in p-members %}
       {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
-          <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">           
+          <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">   
+            <div class="usa-card__container gray-to-color card-shadow">
               <div class="padding-1">
                 <h3 class="card-name">{{ member.full_name }}</h3>
                   {% if member.department %}
@@ -88,6 +93,7 @@ title: Access Board Members
                   <img src="{{ site.baseurl }}{{ member.image }}" alt="Profile photo of {{ member.full_name }}">
                 </div>
               </div>
+            </div>
           </a>
         </li>
         {% endif %} 
@@ -104,7 +110,8 @@ title: Access Board Members
       {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">       
-              <div class="padding-1">
+           <div class="usa-card__container gray-to-color card-shadow">  
+            <div class="padding-1">
                   <h3 class="card-name">{{ member.full_name }}</h3>
                   {% if member.agency %}
                   <p class="card-text">{{ member.agency }}</p>
@@ -115,6 +122,7 @@ title: Access Board Members
                   <img src="{{ site.baseurl }}{{ member.image }}" alt="Profile photo of {{ member.full_name }}">
                 </div>
               </div>
+            </div>
           </a>
         </li>
         {% endif %}
