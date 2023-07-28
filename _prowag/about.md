@@ -1,7 +1,7 @@
 ---
 title: "About"
 order-number: 0
-permalink: /prowag/
+permalink: /prowag-nprm/
 file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
 file-description: Public Rights-of-Way Accessibility Guidelines (with SUP)
 redirect_from:
