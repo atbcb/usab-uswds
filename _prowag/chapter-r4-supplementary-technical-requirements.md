@@ -283,11 +283,9 @@ Characters shall be selected from fonts where the width of the uppercase letter 
 #### R410.6 Character Height
 Minimum character height shall comply with Table R410.6. Viewing distance shall be measured as the horizontal distance between the character and an obstruction preventing further approach towards the sign. Character height shall be based on the uppercase letter "I".
 
-|
-
 #### R410.6 Visual Character Height
 
- <table class="data"><caption>Table 208.2 Parking Spaces</caption>
+ <table class="data"><caption>Table 410.6 Visual Character Height</caption>
 <thead>
 <tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th><th>
 <tbody>
