@@ -1,12 +1,12 @@
 ---
 title: "Chapter R2: Scoping Requirements"
-order-number: 20
+order-number: 2
 version: improved
 ---
+
 ### R201 Application
 
 #### R201.1 Scope
-
 All newly constructed facilities, altered portions of
 existing facilities, and elements added to existing facilities for
 pedestrian circulation and use located in the public right-of-way shall

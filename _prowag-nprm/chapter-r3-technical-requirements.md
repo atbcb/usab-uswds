@@ -1,20 +1,19 @@
 ---
 title: "Chapter R3: Technical Requirements"
-order-number: 30
+order-number: 3
 version: improved
 ---
+
 ### R301 General
 
 #### R301.1 Scope
-
-The _new_ technical requirements in Chapter 3 shall apply
+The technical requirements in Chapter 3 shall apply
 where required by Chapter 2 or where referenced by a requirement in this
 document.
 
 ### R302 Pedestrian Access Routes
 
 #### R302.1 General
-
 Pedestrian access routes shall comply with R302.
 
 #### R302.2 Components
