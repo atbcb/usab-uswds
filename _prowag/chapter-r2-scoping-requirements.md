@@ -243,7 +243,7 @@ Table R211 On-Street Parking Spaces
 
  <table class="data"><caption>Table 208.2 Parking Spaces</caption>
 <thead>
-<tr><th>**Total Number of Metered or Designated Parking Spaces**</th><th>**Minimum Required Number of *Accessible* Parking Spaces**
+<tr><th>**Total Number of Metered or Designated Parking Spaces**</th><th>**Minimum Required Number of *Accessible* Parking Spaces**</th></tr>
 <tbody>
 <tr>
 <td>1 to 25</td>
