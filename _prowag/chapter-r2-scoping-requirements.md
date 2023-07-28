@@ -238,9 +238,10 @@ Where parking spaces are provided on a section of a *street* that is not part of
 
 #### Table R211 On-Street Parking Spaces
 
-<table class="data"><caption>Table 208.2 Parking Spaces</caption>
+<table class="data"><caption>Table 211 Parking Spaces</caption>
 <thead>
 <tr><th>**Total Number of Metered or Designated Parking Spaces**</th><th>**Minimum Required Number of *Accessible* Parking Spaces**</th></tr>
+</thead>
 <tbody>
 <tr>
 <td>1 to 25</td>
