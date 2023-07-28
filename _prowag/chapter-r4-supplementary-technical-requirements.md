@@ -323,6 +323,7 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 </table>
 
 
+
 #### R410.7 Stroke Thickness
 Stroke thickness of the uppercase letter "I" shall be 10 percent minimum and 30 percent maximum of the height of the character.
 
