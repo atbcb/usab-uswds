@@ -287,7 +287,7 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 
 <table class="data"><caption>Table R410.6 Visual Character Height</caption>
 <thead>
-<tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th><th>
+<tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th>
 <tbody>
 <tr>
 <td>40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)</td>
