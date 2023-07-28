@@ -240,7 +240,7 @@ Where parking spaces are provided on a section of a *street* that is not part of
 
 <table class="data"><caption>Table R211 On-Street Parking Spaces</caption>
 <thead>
-<tr><th>**Total Number of Metered or Designated Parking Spaces**</th><th>**Minimum Required Number of *Accessible* Parking Spaces**</th></tr>
+<tr><th>Total Number of Metered or Designated Parking Spaces</th><th>Minimum Required Number of Accessible Parking Spaces</th></tr>
 </thead>
 <tbody>
 <tr>
