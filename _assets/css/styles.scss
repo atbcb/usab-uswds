@@ -54,6 +54,10 @@ h6 { // default was 2xs
   @include u-font('heading', 'xs');
   @include u-margin-y(1);
 }
+h7 { // default was 3xs
+  @include u-font('heading', 'xxs');
+  @include u-margin-y(1);
+}
 
 // Add your SASS/CSS here
 
