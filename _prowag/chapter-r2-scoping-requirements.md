@@ -89,7 +89,7 @@ When *alterations* are made to *crosswalks*, *curb ramps* or *blended transition
 EXCEPTION:  In *alterations*, where existing physical constraints make compliance with R203.7 technically infeasible, a platform lift complying with section 410 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines) shall be permitted.
 
 #### R203.8 Ramps
-Where provided, *r**amps* shall comply with R407.
+Where provided, *ramps* shall comply with R407.
 
 #### R203.9. Elevators and Limited Use/Limited Application Elevators
 Where provided, elevators and limited use/limited application elevators shall comply with sections 407 or 408 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines).
@@ -241,81 +241,41 @@ Where parking spaces are provided on a section of a *street* that is not part of
 Table R211 On-Street Parking Spaces
 -----------------------------------
 
- |  |
-
-|
-
-**Total Number of Metered or Designated Parking Spaces**
-
- |
-
-**Minimum Required Number of *Accessible* Parking Spaces**
-
- |
-| --- | --- |
-|
-
-1 to 25
-
- |
-
-1
-
- |
-|
-
-26 to 50
-
- |
-
-2
-
- |
-|
-
-51 to 75
-
- |
-
-3
-
- |
-|
-
-76 to 100
-
- |
-
-4
-
- |
-|
-
-101 to 150
-
- |
-
-5
-
- |
-|
-
-151 to 200
-
- |
-
-6
-
- |
-|
-
-201 and over
-
- |
-
-4 percent of total
-
- |
+ <table class="data"><caption>Table 208.2 Parking Spaces</caption>
+<thead>
+<tr><th>**Total Number of**<br>**Metered or Designated Parking Spaces**</th><th>**Minimum Required Number of**<br>** *Accessible* Parking Spaces**
+</thead>
+<tbody>
+<tr>
+<td>1 to 25</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26 to 50</td>
+<td>2</td>
+</tr>
+<tr>
+<td>51 to 75</td>
+<td>3</td>
+</tr>
+<tr>
+<td>76 to 100</td>
+<td>4</td>
+</tr>
+<tr>
+<td>101 to 150</td>
+<td>5</td>
+</tr>
+<tr>
+<td>151 to 200</td>
+<td>6</td>
+</tr>
+<tr>
+<td>201 and over</td>
+<td>4 percent of total</td>
+</tr>
+</tbody>
+</table>
 
 ### R212 Passenger Loading Zones
 
