@@ -4,202 +4,99 @@ order-number: 10
 redirect_from:
   - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/chapter-r1-application-and-administration/
 ---
-### R101 Purpose
+### R101 Purpose and Application
 
-#### R101.1 General
+#### R101.1 Purpose
+These guidelines contain scoping and technical requirements to ensure that *pedestrian facilities* located in the *public right-of-way* (including a *public right-of-way* that forms the boundary of a site or that lies within a site bounded by a property line), are readily *accessible* to and usable by *pedestrians* with disabilities.  
 
-_NEW_ This document contains scoping and technical
-requirements to ensure that facilities for pedestrian circulation and
-use located in the public right-of-way are readily accessible to and
-usable by pedestrians with disabilities. Compliance with this document
-is mandatory when required by regulations issued by federal agencies
-that include accessibility standards for the design, construction, and
-alteration of pedestrian facilities in the public right-of-way.
+#### R101.2 Application to ADA-Covered Facilities
+These guidelines apply to *pedestrian facilities* in *public rights-of-way* to the extent required by regulations issued by Federal agencies under the Americans with Disabilities Act of 1990, as amended (42 U.S.C. 12101 et seq.) (ADA).
 
-{:.advisory}
-**Advisory R101.1 General.** Sections marked as "advisory" contain advisory information related to the preceding section. Advisory sections do not establish mandatory requirements. Some advisory sections reference related mandatory requirements to alert readers about those requirements.
+#### R101.3 Application to ABA-Covered Facilities
+These guidelines apply to *pedestrian facilities* in *public rights-of-way* to the extent required by regulations issued by Federal agencies under the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) (ABA).
 
-#### R101.2 Effect on Existing Facilities
-This document does not address
-existing facilities unless the facilities are included within the scope
-of an alteration undertaken at the discretion of a covered entity.
+#### R101.4 Effect on Existing Pedestrian Facilities
+These guidelines do not address existing *pedestrian facilities* unless the *pedestrian facilities* are altered at the discretion of a covered entity.  The Department of Justice has authority over existing facilities that are subject to the requirement for program access under title II of the ADA.  Any determination that this document applies to existing facilities subject to the program access requirement is solely within the discretion of the Department of Justice and is effective only to the extent required by regulations issued by the Department of Justice.
 
-{: .advisory}
-  **Advisory R101.2 Effect on Existing Facilities.** The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 of the Rehabilitation Act also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c).
+### R102 Deviations from These Guidelines
 
-### R102 Equivalent Facilitation
+#### R102.1 ADA-Covered Facilities and Equivalent Facilitation
+The use of alternative designs, products, or technologies that result in substantially equivalent or greater accessibility and usability than the requirements in these guidelines shall be permitted for *pedestrian facilities* in the *public right-of-way* subject to the ADA.
 
-The use of alternative designs,
-products, or technologies that result in substantially equivalent or
-greater accessibility and usability than the requirements in this
-document is permitted.
+#### R102.2 ABA-Covered Facilities and Waivers or Modifications
+Equivalent facilitation is not permitted for *pedestrian facilities* in the *public right-of-way* subject to the ABA.  The ABA authorizes the Administrator of the General Services Administration, the Secretary of the Department of Housing and Urban Development, the Secretary of the Department of Defense, and the United States Postal Service to modify or waive the accessibility standards for buildings and facilities covered by the ABA on a case-by-case basis, upon application made by the head of the department, agency, or instrumentality of the United States concerned and upon a determination that the waiver is clearly necessary.  Pursuant to Section 502(b)(1) of the Rehabilitation Act of 1973, 29 U.S.C. § 792(b), the Access Board shall ensure that modifications and waivers are based on findings of fact and are not inconsistent with the ABA.
 
 ### R103 Conventions
 
 #### R103.1 Conventional Industry Tolerances
-Dimensions are subject to
-conventional industry tolerances except where dimensions are stated as a
-range.
-
-{: .advisory}
-**Advisory R103.1 Conventional Industry Tolerances.** Conventional industry tolerances include tolerances for field conditions and tolerances that may be a necessary consequence of a particular manufacturing process. Conventional industry tolerances do not apply to design work.
+All dimensions are subject to conventional industry tolerances except where requirements are stated as a range with specific minimum or maximum endpoints.
 
 #### R103.2 Calculation of Percentages
-Where the required number of
-elements or facilities to be provided is determined by calculations of
-ratios or percentages and remainders or fractions result, the next
-greater whole number of such elements or facilities shall be provided.
-Where the determination of the required size or dimension of an element
-or facility involves ratios or percentages, rounding down for values
-less than one half is permitted.
+Where the required number of *elements* or facilities to be provided is determined by calculations of ratios or percentages and remainders or fractions result, the next greater whole number of such *elements* or facilities shall be provided. 
 
 #### R103.3 Units of Measurement
-Measurements are stated in metric and
-U.S. customary units. The values stated in each system (metric and U.S.
-customary units) may not be exact equivalents, and each system shall be
-used independently of the other.
+Measurements are stated in U.S. customary units and metric units. The values stated in each system (U.S. customary units and metric units) may not be exact equivalents, and each system shall be used independently of the other.  Slopes are expressed in terms of both ratios and percentages.  Ratios and percentages may not be exact equivalents, and each shall be used independently of the other.	
 
-{: .advisory}
-**Advisory R103.3 Units of Measurement.** Users should work entirely within one system of measurement, either metric or U.S. customary units. Combining values from the two systems may result in non-compliance.
+### R104 Definitions
 
-{% include_cached figure-caption.html
-text= "Figure R103 Graphic Convention for Figures"
-img-file="103.jpg"
-img-alt= "Dimension lines showing International System of Units in millimeters
-unless otherwise noted above the line of US customary units in inches
-unless otherwise noted below. Small measurements show the dimension
-with an arrow pointing to the dimension line. Dimension ranges are shown
-above the line in inches and below the line in millimeters. (Min refers
-to minimum, and max refers to the maximum. Mathematical symbols
-indicate greater than, greater than or equal to, less than, and
-less than or equal to. A dashed line identifies the boundary of clear
-floor space or maneuvering space. A line with alternating shot and long
-dashes with a (c( and (l( at the end indicate the centerline. A dashed
-line with longer spaces indicates a permitted element or its extension.
-An arrow is to identify the direction of travel or approach. Gray
-shading is used to show an element in elevation or plan. Hatching is
-used to show the location zone of elements, controls, or features."
-%}
+#### R104.1 Undefined Terms
+Terms that are not defined in R104.3 or in regulations issued by the Department of Justice and the Department of Transportation under the ADA, the four standard setting agencies under the ABA or other federal agencies that adopt these guidelines as accessibility standards shall be given their ordinarily accepted meaning in the sense that the context implies.
 
-### R104 Referenced Standards
-
-#### R104.1 Incorporation by Reference
-The specific editions of the
-standards listed in R104.2 are incorporated by reference in this
-document and are part of the requirements to the prescribed extent of
-each such reference. The Director of the Federal Register has approved
-the standards for incorporation by reference in accordance with 5 U.S.C.
-552(a) and 1 CFR part 51. Copies of the referenced standards may be
-inspected at the Access Board, 1331 F Street, NW, Suite 1000,
-Washington, DC 20004; or at the National Archives and Records
-Administration (NARA). For information on the availability of the
-referenced standards at NARA, call (202) 741-6030, or go
-to: [http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html](http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html).
-
-#### R104.2 MUTCD
-The portions of the Manual on Uniform Traffic Control
-Devices for Streets and Highways (MUTCD), 2009 Edition, that are
-incorporated by reference in this document consist of definitions (see
-R105.2) and standard statements, as defined in section 1A.13 of the
-MUTCD (see R205, R209, and R306.3).  Guidance, option, and support
-statements, as defined in section 1A.13 of the MUTCD, shall be used to
-assist in the interpretation of the standard statements. Where there are
-differences between this document and the referenced standards, this
-document applies. The MUTCD is available on the Federal Highway
-Administration website at
-[http://mutcd.fhwa.dot.gov](http://mutcd.fhwa.dot.gov/). Printed copies
-may be purchased from the American Association of State Highway and
-Transportation Officials, 444 N Capitol Street, NW, Washington, DC 20001
-([http://www.transportation.org/](http://www.transportation.org/)).
-
-<div class="advisory" markdown="1">
-**Advisory R104.2 MUTCD.** MUTCD definitions and standard statements
-are referenced in the following sections of this document:
-- R105.2 references definitions in section 1A.13 of the MUTCD;
-- R205 references standard statements in sections 6D.01, 6D.02, 6G.05, 6F.63, 6F.68, and 6F.71 of the MUTCD for providing alternate pedestrian access routes when a pedestrian circulation path is temporarily closed;
-- R209 references standard statements in sections 4E.08 through 4E.13 of the MUTCD for accessible pedestrian signals and pedestrian pushbuttons; and
-- R306.2 references standard statements in section 4E.06 of the MUTCD for pedestrian signal phase timing.
-</div>
-
-### R105 Definitions
-
-#### R105.1 General
-For the purpose of this document, the terms defined
-in R105.5 have the indicated meaning.
-
-#### R105.2 Terms Defined in Referenced Standards
-Terms used in specific
-sections of the MUTCD that are incorporated by reference in this
-document shall have the meaning specified in section 1A.13 of the MUTCD
-(incorporated by reference, see R104.2). In addition, the following
-terms shall have the meaning specified in section 1A.13 of the MUTCD
-(incorporated by reference, see R104.2): highway, intersection, island,
-median, pedestrian, roundabout, sidewalk, splitter island, and street.
-
-#### R105.3 Undefined Terms
-The meaning of terms not specifically defined in R105.5, the referenced standards, or regulations issued by Federal agencies that adopt this document as accessibility standards shall be as defined by collegiate dictionaries in the sense that the context implies.
-
-#### R105.4 Interchangeability
+#### R104.2 Interchangeability
 Words, terms, and phrases used in the singular include the plural and those used in the plural include the singular.
 
-#### R105.5 Defined Terms
+#### R104.3 Defined Terms
+For the purpose of these guidelines, the following terms have the indicated meaning:
 
-*Accessible*
-: Describes a facility in the public right-of-way that
-complies with this document.
-
-*Alteration*
-: A change to a facility in the public right-of-way that
-affects or could affect pedestrian access, circulation, or use.
-Alterations include, but are not limited to, resurfacing,
-rehabilitation, reconstruction, historic restoration, or changes or
-rearrangement of structural parts or elements of a facility.
-
-*Blended Transition*
-: A raised pedestrian street crossing, depressed
-corner, or similar connection between the pedestrian access route at
-the level of the sidewalk and the level of the pedestrian street
-crossing that has a grade of 5 percent or less.
-
-*Cross Slope*
-: The grade that is perpendicular to the direction of pedestrian travel.
-
-*Curb Line*
-: A line at the face of the curb that marks the transition between the curb and the gutter, street, or highway.
-
-*Curb Ramp*
-: A ramp that cuts through or is built up to the curb. Curb ramps can be perpendicular or parallel, or a combination of parallel and perpendicular ramps.
-
-*Element*
-: An architectural or mechanical component of a building, facility, space, site, or public right-of-way.
-
-*Facility*
-: All or any portion of buildings, structures, improvements, elements, and pedestrian or vehicular routes located in the public
-right-of-way.
-
-*Grade Break*
-: The line where two surface planes with different grades meet.
-
-*Operable Part*
-: A component of an element used to insert or withdraw objects, or to activate, deactivate, or adjust the element.
-
-*Pedestrian Access Route*
-: A continuous and unobstructed path of travel provided for pedestrians with disabilities within or coinciding with a pedestrian circulation path.
-
-*Pedestrian Circulation Path*
-: A prepared exterior or interior surface provided for pedestrian travel in the public right-of-way.
-
-*Public Right-of-Way*
-: Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
-
-*Qualified Historic Facility* 
-: A facility that is listed in or eligible for listing in the National Register of Historic Places, or designated as historic under an appropriate state or local law.
-
-*Running Slope*
-: The grade that is parallel to the direction of pedestrian travel.
-
-*Shared Use Path*
-: A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
-
-*Vertical Surface Discontinuities* 
-: Vertical differences in level between two adjacent surfaces.
+> *Accessible*.  A *pedestrian facility* or *element* in the *public right-of-way* that complies with these guidelines.
+> *Accessible Pedestrian Signal*.  A device that communicates information about *pedestrian* signal timing in non-visual formats such as audible tones or speech messages, and vibrating surfaces.
+> *Alteration or altered*.  A change to or an addition of a *pedestrian facility* in an existing, *developed public right-of-way* that affects or could affect *pedestrian* access, circulation, or usability.
+> *Blended Transition*.  A wraparound connection at a corner, or a flush connection where there is no *curb* to cut through, other than a *curb ramp*.
+> *Block Perimeter*.  The near side of the *streets* surrounding a block. For example, on a square block bounded by Main Street to the south, Pine Street to the north, 1st Street to the east, and 2nd Street to the west, the *block perimeter* includes the north side of Main Street, the south side of Pine Street, the west side of 1st Street, and the east side of 2nd Street.
+> *Boarding Platform*.  A platform raised above *standard curb height* used for transit vehicle boarding and alighting.
+> *Building*.  Any structure used or intended for supporting or sheltering any use or occupancy.
+> *Crosswalk*.  That part of a *roadway* that is located at an intersection included within the connections of the lateral lines of the *pedestrian circulation paths* on opposite sides of the *highway* measured from the *curbs*, or in the absence of *curbs*, from the edges of the traversable *roadway*, and in the absence of a *pedestrian circulation path* on one side of the *roadway*, the part of a *roadway* included within the extension of the lateral lines of the *pedestrian circulation path* at right angles to the center line; or at any portion of a *roadway* at an intersection or elsewhere distinctly indicated as a *pedestrian* crossing by pavement marking lines on the surface. *Crosswalks* at intersections may be marked or unmarked.
+> *Cross Slope*.  The slope that is perpendicular to the direction of *pedestrian* travel.
+> *Curb*.  A raised feature along the side of a *street* that delineates the edge of the *roadway* or *pedestrian circulation path*.
+> *Curb Line*.	 A line at the face of the *curb* that marks the transition between the *curb* and the gutter or *street*.
+> *Curb Ramp*.  A sloped connection that is cut through or built up to a *curb*.  *Curb ramps* may be perpendicular or parallel to the *curb* or to the *street* they serve or be a combination thereof.
+> *Detectable Warning Surface*.  A standardized surface feature built in or applied to *pedestrian circulation paths* and other *pedestrian facilities* to warn of hazards.
+> *Developed*.  Containing *buildings*, *pedestrian facilities*, *roadways*, utilities, or *elements*.
+> *Element*.  An architectural or mechanical component of a *building*, *pedestrian facility*, space, site, or *public right-of-way*.
+> *Grade*.  See *Running slope*.
+> *Grade Break*.  The line where two surface planes with different *running slopes* meet.
+> *Highway*.  A general term denoting a public way for purposes of vehicular travel, including the entire area within the *public right-of-way*.
+> *Median*.  The area between two *roadways* of a divided *highway* measured from edge of *traveled way* to edge of *traveled way*. The *median* excludes turn lanes. The median width might be different between intersections, interchanges, and at opposite approaches of the same intersection.
+> *Operable Part*.  A component of an *element* used to insert or withdraw objects, or to activate, deactivate, or adjust the *element*, or to interact with the *element*.
+> *Parallel Curb Ramp*.  A *curb ramp* with a *running slope* that is parallel to the *curb* or *street* it serves.
+> *Passenger Loading Zone*.  An area that is specifically designed or designated for loading and unloading passengers, but that does not primarily serve vehicles on a fixed or scheduled route.
+> *Pedestrian*.  A person on foot, travelling by wheelchair or other mobility device, on skates, or on a skateboard.
+> *Pedestrian Access Route*.  An *accessible*, continuous, and unobstructed path of travel for use by *pedestrians* with disabilities within a *pedestrian circulation path*.
+> *Pedestrian Activated Warning Devices*. Devices that are installed in conjunction with a warning sign and are activated to alert vehicle operators to the presence of a *pedestrian*, such as rectangular rapid flashing beacons.
+> *Pedestrian Change Interval*. An interval during which the flashing upraised hand (symbolizing “don’t walk”) signal indication is displayed.
+> *Pedestrian Circulation Path*.  A prepared exterior or interior surface provided for *pedestrian* use in the *public right-of-way*.
+> *Pedestrian Facility*.  A structure, route, or space for *pedestrian* circulation or use located in the *public right-of-way*.
+> *Pedestrian Hybrid Beacon*.  A special type of hybrid beacon used to warn and control traffic at an unsignalized location to assist *pedestrians* in crossing a *street* at a marked *crosswalk*.
+> *Pedestrian Refuge Island*.  A defined area 72 inches (1828 mm) long minimum in the direction of *pedestrian* travel located between traffic lanes for *pedestrian* refuge within a *median*, *splitter island*, or channelizing island.
+> *Pedestrian Signal Head*. A device containing the walking person symbol (symbolizing “walk”) and the upraised hand symbol (symbolizing “don’t walk”), that is installed to direct *pedestrian* traffic at a *crosswalk*.
+> *Perpendicular Curb Ramp*.  A *curb ramp* with a *running slope* that is perpendicular to the *curb* or the *street* it serves.
+> *Public Right-of-Way*.  Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
+> *Push Button*.  A button to activate a device or signal timing for *pedestrians*, bicyclists, or others crossing a *roadway*.
+> *Push Button Locator Tone*.  A repeating sound that informs approaching *pedestrians* that a *push button* exists to actuate *pedestrian* timing or receive additional information and that enables *pedestrians* who are blind or have low vision to locate the *push button*.
+> *Qualified Historic Building or Facility*.  A *building* or facility that is listed in or eligible for listing in the National Register of Historic Places or designated as historic under an appropriate state or local law.
+> *Ramp*.  A sloped walking surface with a *running slope* steeper than 1:20 (5.0%) that accomplishes a change in level and is not part of a *pedestrian circulation path* that follows the *roadway grade*. A *curb ramp* is not a *ramp*.
+> *Roadway*.  That portion of a *highway* improved, designed, or ordinarily used for vehicular travel and parking lanes, but exclusive of the *sidewalk*, berm, or shoulder.
+> *Roundabout*.  A circular intersection with yield control at entry, which permits a vehicle on a circular *roadway* to proceed, and with deflection of the approaching vehicle counterclockwise around a central island.
+> *Running Slope*.  The slope that is parallel to the direction of *pedestrian* travel.
+> *Shared Use Path*.  A multi-use path designed primarily for use by bicyclists, *pedestrians*, and other authorized motorized and non-motorized users, for transportation purposes, and that may also be used for recreation. *Shared use paths* are physically separated from motor vehicle traffic by an open space or barrier and are either within the *highway* or other *public right-of-way*.
+> *Sidewalk*. That portion of a *highway* between the *curb line*, or the lateral line of a *roadway*, and the adjacent property line, or on easements of private property, that is paved or improved and intended for use by *pedestrians*.
+> *Splitter Island*.  A *median* island used to separate opposing directions of traffic entering and exiting a *roundabout*.
+> *Stair*.  A change in elevation comprised of at least one tread and riser. A *curb* is not a *stair*.
+> *Standard Curb Height*.  The typical height of a *curb* according to local standards for a given road type, but usually between 3 inches (75 mm) and 9 inches (230 mm) high relative to the surface of the *roadway* or gutter.
+> *Street*.  See *Roadway*.
+> *Transit Shelter*.  A structure provided at a *transit stop* to provide passengers protection from the weather.
+> *Transit Stop*.  An area that is designated for passengers to board or alight from buses, rail cars, and other transportation vehicles that operate on a fixed route or scheduled route, including bus stops and *boarding platforms*. This definition does not include intercity rail except where a stop is located in the *public right-of-way*.
+> *Transitional Segment*. The portion of a *pedestrian circulation path* that connects adjacent surfaces with different slopes or dimensions to provide a smooth transition.
+> *Traveled Way*.  The portion of the *roadway* for the movement of vehicles, exclusive of the shoulder, berm, *sidewalk*, and parking lane.
+> *Vibrotactile*. A method of communicating information by touch using a vibrating surface.
+> *Walk Interval*.  An interval during which the walking person (symbolizing “walk”) signal indication is displayed.
