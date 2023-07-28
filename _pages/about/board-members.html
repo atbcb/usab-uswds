@@ -36,7 +36,6 @@ title: Access Board Members
                 <h4 class="text-center margin-y-0">{{ chair.department }}</h4>
                 {% elsif chair.agency %}
                 <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
-                <h4 class="text-center margin-y-0">Biography</h4>h4>
                 {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
@@ -64,7 +63,6 @@ title: Access Board Members
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img border-2px">
                   <img src="{{ site.baseurl }}{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
-                <h4 class="text-center margin-y-0">Biography</h4>h4>
                 </div>
               </div>
            </div>
@@ -88,7 +86,7 @@ title: Access Board Members
                 <h3 class="card-name">{{ member.full_name }}</h3>
                   {% if member.department %}
                   <p class="card-text">{{ member.department }}</p>
-                  <h4 class="text-center margin-y-0">Biography</h4>h4>
+                  <p class="text-center margin-y-0">Biography</p>
                   {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
@@ -118,7 +116,7 @@ title: Access Board Members
                   <h3 class="card-name">{{ member.full_name }}</h3>
                   {% if member.agency %}
                   <p class="card-text">{{ member.agency }}</p>
-                <h4 class="text-center margin-y-0">Biography</h4>h4>
+                <p class="text-center margin-y-0">Biography</p>
                   {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
