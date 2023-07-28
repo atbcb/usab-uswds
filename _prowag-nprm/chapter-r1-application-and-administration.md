@@ -1,14 +1,14 @@
 ---
 title: "Chapter R1: Application and Administration"
-order-number: 10
+order-number: 1
 redirect_from:
   - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/chapter-r1-application-and-administration/
 ---
+
 ### R101 Purpose
 
 #### R101.1 General
-
-_NEW_ This document contains scoping and technical
+This document contains scoping and technical
 requirements to ensure that facilities for pedestrian circulation and
 use located in the public right-of-way are readily accessible to and
 usable by pedestrians with disabilities. Compliance with this document

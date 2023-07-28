@@ -1,20 +1,18 @@
 ---
 title: "Chapter R4: Supplemental Technical Requirements"
-order-number: 40
+order-number: 4
 version: improved
 ---
 ### R401 General
 
 #### R401.1 Scope
-
-The _new_ supplemental technical requirements in Chapter 4
+The supplemental technical requirements in Chapter 4
 shall apply where required by Chapter 2 or where referenced by a
 requirement in this document.
 
 ### R402 Protruding Objects
 
 #### R402.1 General
-
 Protruding objects shall comply with R402.
 
 #### R402.2 Protrusion Limits

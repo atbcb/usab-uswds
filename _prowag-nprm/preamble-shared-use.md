@@ -1,11 +1,11 @@
 ---
 title: "Preamble - Supplemental Notice on Shared Use Paths"
-order-number: 2
+order-number: 0.2
 ---
 
 ### 1. Executive Summary
 
-This _final_ notice of proposed rulemaking (SNPRM) proposes to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See 76 FR 44664 (July 26, 2011). A copy of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way with the specific provisions for shared use paths proposed in the SNPRM is available below.
+This supplemental notice of proposed rulemaking (SNPRM) proposes to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See 76 FR 44664 (July 26, 2011). A copy of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way with the specific provisions for shared use paths proposed in the SNPRM is available below.
 
 We are required by section 502 of the Rehabilitation Act to establish and maintain accessibility guidelines for the design, construction, and alteration of facilities covered by the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) to ensure that the facilities are readily accessible to and usable by individuals with disabilities. See 29 U.S.C. 792 (b) (3). The ADA covers state and local government facilities, places of public accommodation, and commercial facilities. See 42 U.S.C. 12101 et seq. The ABA covers facilities financed with federal funds. See 42 U.S.C. 4151 et seq.
 

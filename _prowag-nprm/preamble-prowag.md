@@ -1,10 +1,10 @@
 ---
 title: "Preamble - Public Rights-of-way"
-order-number: 1
+order-number: 0.1
 ---
-## Guidelines for Pedestrian Facilities in the Public Right-of-Way
+## Proposed Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-Published in the *Federal Register* on August 43, 2023.
+Published in the *Federal Register* on July 26, 2011.
 
 36 CFR Part 1190\
 Docket No. ATBCB 2011-04
