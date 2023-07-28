@@ -17,7 +17,6 @@ The requirements in these guidelines shall apply to temporary and permanent *ped
 *Buildings*, structures, and *elements* in the *public right-of-way* that are not covered by the requirements in these guidelines shall comply with the applicable requirements in 36 CFR part 1191 (ADA & ABA Accessibility Guidelines). Examples include, but are not limited to, *buildings*, structures, and *elements* at safety rest areas or park and ride lots, temporary performance stages and reviewing stands.
 
 ### R202 Alterations
-----------------
 
 #### R202.1 General 
 *Alterations* to *pedestrian facilities* shall comply with R202.
@@ -35,7 +34,6 @@ An *alteration*  to *pedestrian facilities* or *elements* shall not decrease the
 Where the State Historic Preservation Officer or Advisory Council on Historic Preservation determines that compliance with an applicable requirement of these guidelines would threaten or destroy the historic significance of a *qualified historic building or facility*, compliance with that requirement is required to the maximum extent feasible without threatening or destroying the historic significance of the *qualified historic building or facility.*
 
 ### R203 Pedestrian Access Routes
------------------------------
 
 #### R203.1 General
 Where provided, the *pedestrian facilities* addressed in R203 shall contain or connect a  *pedestrian access route*, and shall comply with these guidelines. 
@@ -43,12 +41,12 @@ Where provided, the *pedestrian facilities* addressed in R203 shall contain or c
 #### R203.2 Connection to Accessible Facilities
 *Pedestrian access routes* shall connect *accessible* *elements*, spaces, and *pedestrian facilities* in accordance with R203.2.
 
-#### R203.2.1 Connection to Accessible Facilities subject to the ADA. 
+##### R203.2.1 Connection to Accessible Facilities subject to the ADA. 
 *Pedestrian access routes* subject to the ADA shall connect *accessible* *elements*, spaces, and *pedestrian facilities* required to be *accessible* and connect to *accessible* routes required by section 206.2.1 of appendix B to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines) that connect *building* and facility entrances to public *streets* and *sidewalks*. 
 
 EXCEPTION: Where *elements* are *altered*, on or adjacent to an existing *pedestrian circulation path,* the existing *pedestrian circulation path* need not be *altered* to provide a *pedestrian access route* complying with R202.2. 
 
-#### R203.2.2 Connection to Accessible Facilities subject to the ABA
+##### R203.2.2 Connection to Accessible Facilities subject to the ABA
 *Pedestrian access routes* subject to the ABA shall connect *accessible* *elements*, spaces, and *pedestrian facilities* required to be *accessible* and connect to *accessible* routes required by section F206.2.1 of appendix C to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines) that connect *building* and facility entrances to public *streets* and *sidewalks*. 
 
 EXCEPTION: Where *elements* are *altered*, on or adjacent to an existing *pedestrian circulation path,* the existing *pedestrian circulation path* need not be *altered* to provide a *pedestrian access route* complying with R202.2. 
@@ -65,24 +63,24 @@ Where a *pedestrian circulation path* crosses at-grade rail tracks, a *pedestria
 #### R203.6 Curb Ramps and Blended Transitions
 A *curb ramp*, *blended transition*, or a combination of *curb ramps* and *blended transition*s shall be provided in accordance with R203.6 and shall comply with R304. 
 
-#### R203.6.1 Placement
+##### R203.6.1 Placement
 Placement of *curb ramps* and *blended transition*s shall comply with R203.6.1.
 
-#### R203.6.1.1 Crosswalks at an Intersection
+###### R203.6.1.1 Crosswalks at an Intersection
 At an intersection corner, one *curb ramp* or *blended transition* shall be provided for each *crosswalk*, or a single *blended transition* that spans all *crosswalks* at the intersection corner may be provided. Where *pedestrian* crossing is prohibited, *curb ramps* or *blended transitions* shall not be provided, and the *pedestrian circulation path* shall be either (a) separated from the *roadway* with landscaping or other non-prepared surface or (b) separated from the *roadway* by a detectable vertical edge treatment with a bottom edge 15 inches maximum above the *pedestrian circulation path*.
 
 EXCEPTION: In *alterations*, where existing physical constraints make compliance with R203.6.1.1 technically infeasible, a single *curb ramp* complying with R304 shall be permitted at the apex of the intersection corner.
 
-#### R203.6.1.2 Mid-Block and Roundabout Crosswalks 
+###### R203.6.1.2 Mid-Block and Roundabout Crosswalks 
 At a mid-block or *roundabout* *crosswalk*, *curb ramps* or *blended transitions* shall be provided on both ends of the *crosswalk*. Where *pedestrian* crossing is not intended, *curb ramps* or *blended transitions* shall not be provided, and the *pedestrian circulation path* shall be either (a) separated from the *roadway* with landscaping or other non-prepared surface or (b) separated from the *roadway* by a detectable vertical edge treatment with a bottom edge 15 inches maximum above the *pedestrian circulation path*.
 
-#### R203.6.1.3 Parallel On-Street Parking
+###### R203.6.1.3 Parallel On-Street Parking
 At parallel on-street parking spaces complying with the dimensions specified in R310.2.1, a *curb ramp* or *blended transition* shall be provided at either end of the parking space if needed to connect the parking space to a *pedestrian access route*. 
 
-#### R203.6.1.4 Perpendicular and Angled On-Street Parking and Passenger Loading Zones
+###### R203.6.1.4 Perpendicular and Angled On-Street Parking and Passenger Loading Zones
 At perpendicular and angled on-street parking spaces, and at *passenger loading zones*, a *curb ramp* or *blended transition* shall be provided if needed to connect the access aisle to a *pedestrian access route*. 
 
-#### R203.6.2 Alterations to Crosswalks
+##### R203.6.2 Alterations to Crosswalks
 When *alterations* are made to *crosswalks*, *curb ramps* or *blended transition*s shall be provided on both ends of the *crosswalk* where the *pedestrian access route* crosses a *curb*.
 
 #### R203.7 Pedestrian Overpasses and Underpasses
@@ -103,7 +101,6 @@ In *alterations*, where the use of elevators or limited use elevators is not tec
 Doors, doorways, and gates that are part of a *pedestrian access route* shall comply with section 404 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines).
 
 ### R204 Alternate Pedestrian Access Routes, Transit Stops, and Passenger Loading Zones 
-------------------------------------------------------------------------------------
 
 #### R204.1 Alternate Pedestrian Access Route
 When a *pedestrian circulation path* is temporarily not *accessible* due to construction, maintenance operations, closure, or other similar conditions, an alternate *pedestrian access route* must be provided and comply with R303 and R402.
@@ -117,7 +114,6 @@ Where *accessible* *transit stops* are temporarily not *accessible* due to const
 Where a permanently designated *passenger loading zone* is temporarily not *accessible* due to construction, maintenance operations, or other similar conditions, and a temporary *passenger loading zone* is provided, it must comply with R311. 
 
 ### R205 Detectable Warning Surfaces
-------------------------------------
 
 #### R205.1 General
 *Detectable warning surfaces* shall be provided in accordance with R205.
@@ -127,10 +123,10 @@ Where a permanently designated *passenger loading zone* is temporarily not *acce
 
 EXCEPTION: *Detectable warning surfaces* are not required on *curb ramps* and *blended transition*s used exclusively to connect *passenger loading zones,* *accessible* parallel on-street parking spaces, and access aisles for perpendicular and angled parking spaces to *pedestrian access routes*.
 
-#### R205.2.1 Curb Ramps
+##### R205.2.1 Curb Ramps
 *Curb ramps* located at *crosswalks* shall have *detectable warning surfaces* complying with R305.1 and either R305.2.1 or R305.2.2.
 
-#### R205.2.2 Blended Transitions
+##### R205.2.2 Blended Transitions
 *Blended transition*s located at *crosswalks* shall have *detectable warning surfaces* complying with R305.1 and R305.2.3.
 
 #### R205.3 Pedestrian Refuge Islands
@@ -149,7 +145,6 @@ Boarding and alighting areas at *sidewalk* or *street*-level *transit stops* for
 *Pedestrian circulation paths* at driveways controlled with yield or stop control devices or traffic signals shall have *detectable warning* *surfaces* complying with R305.2.8.
 
 ### R206 Pedestrian Signal Heads and Pedestrian Activated Warning Devices
----------------------------------------------------------------------
 
 #### R206.1 General
 Whereprovided, *pedestrian signal heads* and *pedestrian activated warning devices* shall comply with R206.  The *accessible* features required by these guidelines shall be available at all times.
@@ -161,23 +156,20 @@ Where *pedestrian signal heads* are provided at *crosswalks*, the walk indicatio
 *Pedestrian activated warning devices* shall have *pedestrian* *push buttons* complying with R307, except for R307.2 and R307.6, or passive detection that operates audible indications complying with R307.7. 
 
 ### R207 Protruding Objects and Vertical Clearance
-----------------------------------------------
 
 #### R207.1 General
 Protruding objects and vertical clearance along any portion of a *pedestrian circulation path* shall comply with R402.
 
 ### R208 Pedestrian Signs
----------------------
 
 #### R208.1 General
 Where provided, signs intended solely for *pedestrians*, including transit signs, and all signs serving *shared use paths*, shall comply with R410.
 
 EXCEPTIONS:  1. Transit schedules, timetables, and maps are not required to comply with R410.
 
-2\. Signs mounted immediately above or incorporated into a *push button* detector unit are not required to comply with R410.
+2. Signs mounted immediately above or incorporated into a *push button* detector unit are not required to comply with R410.
 
 ### R209 Street Furniture
----------------------
 
 #### R209.1 General
 Where provided, street furniture shall comply with the applicable requirements in R209.
@@ -188,10 +180,10 @@ Drinking fountains shall comply with sections 602.1 through 602.6 of Appendix D 
 #### R209.3 Public Street Toilets
 Public street toilets shall be provided in accordance with R209.3.
 
-#### R209.3.1 Permanent Public Street Toilets
+##### R209.3.1 Permanent Public Street Toilets
 Permanent public street toilets shall comply with sections 603 through 610 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines).
 
-#### R209.3.2 Portable Toilet Units
+##### R209.3.2 Portable Toilet Units
 Portable toilet units shall comply with section 603 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines). Where multiple single user portable toilet units are clustered at a single location, at least 5 percent, but no fewer than one of each type of the toilet units at each cluster shall be required to comply with 603 Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines). Portable toilet units complying with section 603 shall be identified by the International Symbol of Accessibility complying with R411.
 
 #### R209.4 Tables
@@ -207,17 +199,16 @@ EXCEPTION 2: Sales or service counters that are located in a *building* subject 
 #### R209.6 Benches
 Benches, other than those that are part of tables complying with R209.4, shall comply with R209.6.
 
-#### R209.6.1 Benches at Transit Stops and Shelters
+##### R209.6.1 Benches at Transit Stops and Shelters
 Benches provided at *transit stops* shall have clear space complying with R404 next to either end of the bench, or if the bench has no end, such as a circular bench, the clear space shall either be integral to the bench or no more than 18 inches (455 mm) from the front of the bench. Benches provided within *transit shelters* shall have clear space complying with R309.2.2.
 
-#### R209.6.2 Benches Not at Transit Stops and Shelters
+##### R209.6.2 Benches Not at Transit Stops and Shelters
 At least 50 percent, but no less than one, of benches at each group of adjacent benches shall provide clear space complying with R404.  The clear space shall be located next to either end of the bench, or if the bench has no end, such as a circular bench, the clear space shall either be integral to the bench or no more than 18 inches (455 mm) from the front of the bench.
 
 #### R209.7 Operable Parts of Other Fixed Elements
 *Operable parts* of other fixed *elements* to be used by *pedestrians* shall comply with R403.
 
 ### R210 Transit Stops and Transit Shelters
--------------------------------------------
 
 #### R210.1 General
 Where provided, *transit stops* and *transit shelters* shall comply with R309.
@@ -229,16 +220,15 @@ Where provided at *transit stops* and *transit shelters*, fare vending machines 
 *Operable parts* of  other fixed *elements* at *transit stops* and shelters intended to be used by *pedestrians* shall comply with R403.
 
 ### R211 On-Street Parking Spacew
----------------------------------
 
 #### R211.1 General
 Where on-street parking is provided and is metered or designated by signs or pavement markings, accessible parking spaces complying with R310 shall be provided in accordance with R211 and Table R211.
 
 EXCEPTIONS:  1.  On-street parking spaces designated exclusively as residential parking shall not be required to comply with R211 and shall not be counted for purposes of Table R211.
 
-2\.  On-street parking spaces designated exclusively for commercial or law enforcement vehicles shall not be required to comply with R211 and shall not be counted for purposes of Table R211. 
+2.  On-street parking spaces designated exclusively for commercial or law enforcement vehicles shall not be required to comply with R211 and shall not be counted for purposes of Table R211. 
 
-3\.  Where on-street parking spaces are *altered*, the requirements of R211 shall apply only to the affected parking spaces until the minimum number of *accessible* on-street parking spaces as specified in Table R211 are provided.
+3.  Where on-street parking spaces are *altered*, the requirements of R211 shall apply only to the affected parking spaces until the minimum number of *accessible* on-street parking spaces as specified in Table R211 are provided.
 
 #### R211.2 Parking on Block Perimeter
 Where parking spaces are provided on a *block perimeter* and are metered or designated by signs or pavement markings, *accessible* parking spaces complying with R310 shall be provided in accordance with Table R211. Where parking is metered or designated by signs or pavement markings, but individual spaces are not marked, each 20 feet (6.1 m) of *block perimeter* where parking is designated shall be counted as one parking space.
@@ -328,19 +318,16 @@ Table R211 On-Street Parking Spaces
  |
 
 ### R212 Passenger Loading Zones
---------------------------------
 
 #### R212.1 General
 Where permanently designated *passenger loading zones* other than *transit stops* are provided, at least one *accessible* *passenger loading zone* complying with R311 shall be provided in every continuous 100 feet (30 m) of loading zone space, or fraction thereof.
 
 ### R213 Stairs and Escalators
---------------------------
 
 #### R213.1 General
 Where provided on *pedestrian circulation paths*, *stairs* shall comply with R408 and escalators shall comply with section 810.9 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines). *Stairs* and escalators shall not be part of *pedestrian access routes*.
 
 ### R214 Handrails
---------------
 
 #### R214.1 General
 Where provided on *pedestrian circulation paths*, handrails shall comply with R409.
