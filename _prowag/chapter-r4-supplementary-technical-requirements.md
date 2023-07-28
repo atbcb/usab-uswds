@@ -285,6 +285,7 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 
 #### R410.6 Visual Character Height
 
+
 <table class="data"><caption>Table R410.6 Visual Character Height</caption>
 <thead>
 <tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th>
@@ -321,7 +322,6 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 </tr>
 </tbody>
 </table>
-
 
 
 #### R410.7 Stroke Thickness
