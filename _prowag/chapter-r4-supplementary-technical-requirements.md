@@ -341,7 +341,7 @@ The International Symbol of Accessibility shall comply with R411 and Figure R411
 #### R411.2 Finish and Contrast
 The symbol and its background shall have a non-glare finish. The symbol shall contrast with its background with either a light symbol on a dark background or a dark symbol on a light background.
 
-**Figure R411 International Symbol of Accessibility**
+### Figure R411 International Symbol of Accessibility
 
 [Insert ISA image]
 
