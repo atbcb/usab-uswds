@@ -285,7 +285,6 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 
 #### R410.6 Visual Character Height
 
-
 <table class="data"><caption>Table R410.6 Visual Character Height</caption>
 <thead>
 <tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th></tr>
@@ -322,7 +321,6 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 </tr>
 </tbody>
 
-
 #### R410.7 Stroke Thickness
 Stroke thickness of the uppercase letter "I" shall be 10 percent minimum and 30 percent maximum of the height of the character.
 
@@ -344,3 +342,7 @@ The International Symbol of Accessibility shall comply with R411 and Figure R411
 The symbol and its background shall have a non-glare finish. The symbol shall contrast with its background with either a light symbol on a dark background or a dark symbol on a light background.
 
 **Figure R411 International Symbol of Accessibility**
+
+[Insert ISA image]
+
+
