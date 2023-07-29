@@ -288,6 +288,7 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 <table class="data"><caption>Table R410.6 Visual Character Height</caption>
 <thead>
 <tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th></tr>
+</thead>
 <tbody>
 <tr>
 <td>40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)</td>
@@ -320,6 +321,7 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 <td>3 inches (75 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 21 feet (6400 mm)</td>
 </tr>
 </tbody>
+</table>
 
 #### R410.7 Stroke Thickness
 Stroke thickness of the uppercase letter "I" shall be 10 percent minimum and 30 percent maximum of the height of the character.
