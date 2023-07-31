@@ -347,8 +347,7 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 {% include_cached figure-caption.html
 text= "Figure R411 International Symbol of Accessibility"
 img-file= "411.jpg"
-img-alt= "International Symbol of
-Accessibility"
+img-alt= "International Symbol of Accessibility"
 %}
 
 
