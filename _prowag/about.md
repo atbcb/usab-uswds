@@ -3,7 +3,7 @@ title: "About"
 order-number: 0
 permalink: /prowag/
 file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
-file-description: Public Rights-of-Way Accessibility Guidelines (with SUP)
+file-description: Public Right-of-Way Accessibility Guidelines (with SUP)
 redirect_from:
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
