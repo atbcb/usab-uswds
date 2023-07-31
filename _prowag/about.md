@@ -39,9 +39,11 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Table of Contents
 
-- [Preamble - Public Rights-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)Preamble - Public Rights-of-way)
+- [Preamble - Public Rights-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)
 - [Preamble - Supplemental Notice on Shared Use Paths]({{ site.baseurl }}/prowag/preamble-shared-use/)
 - [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/preamble-shared-use/)
 - [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
 - [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements)
 - [Chapter R4: Supplemental Technical Requirements]({{ site.baseurl }}/prowag/chapter-r4-supplementary-technical-requirements)
+
+---
