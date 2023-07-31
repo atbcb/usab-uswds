@@ -9,4 +9,4 @@ status: current
 president: Biden
 image: /images/uploads/vacant.svg
 ---
-Carmen Daniels Jones is currently Vice President of Health Equity and Disability Inclusion at UnitedHealthCare Community & State. Living with a spinal cord injury since her junior year of college, Jones has vast experience in the public sector, small business, and large corporations with leading marketing strategies and community engagement efforts that transform organizations and include people with disabilities. She currently serves as Board Vice President of United Spinal Association and a Board Member of World Institute on Disability.
+Living with a spinal cord injury since her junior year of college, Carmen Daniels Jones has vast experience in the public sector, small business, and large corporations with leading marketing strategies and community engagement efforts that transform organizations and include people with disabilities. She is currently President, CEO, and Founder of Solutions Marketing Group and serves as Board Vice President of United Spinal Association and as a Board Member of World Institute on Disability.
