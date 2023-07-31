@@ -5,13 +5,10 @@ version: improved
 ---
 ### R301 General
 
-------------
-
 #### R301.1 Scope
 The technical requirements in Chapter 3 shall apply where required by Chapter 2 or where referenced by a requirement in these guidelines.
 
 ### R302 Pedestrian Access Routes
------------------------------
 
 #### R302.1 General
 *Pedestrian access routes* shall comply with R302.
