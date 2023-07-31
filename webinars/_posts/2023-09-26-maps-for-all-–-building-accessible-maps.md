@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maps for All – Building Accessible Maps
+title: "Maps for All: Building Accessible Maps"
 date: 2023-09-26
 excerpt: Maps are important tools in providing information about the world. They
   help us travel from one location to another, organize information, and orient
