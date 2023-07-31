@@ -11,7 +11,7 @@ redirect_from:
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/about-this-rulemaking/
 ---
-### About the ADA and ABA Accessibility Guidelines for the Public Rights-of-Way
+### About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
 
 {% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
 
