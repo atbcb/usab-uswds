@@ -149,10 +149,14 @@ permalink: /about/members-past.html
 ### Appointed by President Joseph Biden
 
 * Elver Ariza-Silva (2022-present)
+* Olivia Mae M. Asuncion (2023-present)
 * Heather Dowdy (2022-present)
+* Stephanie L. Enyart (2023-present)
 * Mozhdeh Amelia Hamraie (2022-present)
 * Hannah Raissa Ibañez (2022-present)
+* Carmen Daniels Jones (2023-present)
 * Alexis Ander Kashar (2022-present)
 * KR Liu (2022-present)
 * Benjamin William Julian Nadolsky (2022-present)
+* Tina Guenette Pedersen (2023-present)
 * Madeline Rose Ruvolo (2022-present)
