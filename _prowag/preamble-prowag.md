@@ -1,5 +1,5 @@
 ---
-title: "Preamble - Public Rights-of-way"
+title: "Preamble - Public Right-of-way"
 order-number: 1
 ---
 ## Guidelines for Pedestrian Facilities in the Public Right-of-Way
@@ -9,7 +9,7 @@ Published in the *Federal Register* on August 43, 2023.
 36 CFR Part 1190\
 Docket No. ATBCB 2011-04
 
-*Note:* On February 13, 2013, the Access Board issued a [notice](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) to supplement the proposed guidelines for public rights-of-way to address shared use paths.
+*Note:* On February 13, 2013, the Access Board issued a [notice](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) to supplement the proposed guidelines for public right-of-way to address shared use paths.
 
 **AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
