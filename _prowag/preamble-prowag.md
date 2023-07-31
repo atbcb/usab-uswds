@@ -1732,94 +1732,12 @@ No comments were filed by the Chief Counsel for Advocacy of the Small Business A
 
 The number of small governmental jurisdictions with a population less than 50,000 affected by the proposed guidelines is shown in the table below.[[20]](https://usaccessboard-my.sharepoint.com/personal/bratta_access-board_gov/Documents/Rulemaking/PROWAG/PROWAG%20_Final_Formatted.docx#_ftn20) The total number of jurisdictions with populations under 50,000 is 36,931.
 
-|
-
-**Governmental**
-
-**Jurisdictions**
-
- |
-
-**Population Under 10,000**
-
- |
-
-**Population 10,000 to 24,999**
-
- |
-
-**Population 25,000 to 49,999**
-
- |
+| **Governmental Jurisdictions** | **Population Under 10,000** | **Population 10,000 to 24,999** | **Population 25,000 to 49,999** |
 | --- | --- | --- | --- |
-|
-
-County
-
- |
-
-687
-
- |
-
-807
-
- |
-
-611
-
- |
-|
-
-Municipal
-
- |
-
-16,432
-
- |
-
-1,559
-
- |
-
-738
-
- |
-|
-
-Town or Township
-
- |
-
-14,997
-
- |
-
-784
-
- |
-
-316
-
- |
-|
-
-Total
-
- |
-
-32,206
-
- |
-
-3,150
-
- |
-
-1,665
-
- |
+| County | 687 | 807 | 611 |
+| Municipal | 16,432 | 1,559 | 738 |
+| Town or Township | 14,997 | 784 | 316 |
+| Total | 32,206 | 3,150 | 1,665 |
 
 More than 65 percent of municipal governments (12,701) and almost 75 percent of towns and townships (12,062) have a population of less than 2,500. Many of these small governmental jurisdictions are located in rural areas, which generally do not construct pedestrian transportation networks (e.g., sidewalks, pedestrian street crossings, and pedestrian signals).
 
@@ -1833,15 +1751,15 @@ The public rights-of-way accessibility guidelines address the design, constructi
 
 The regulatory assessment analyzes the following five requirements in the final rule that will have more than minimal impacts on state and local transportation departments:
 
-- Accessible pedestrian signals and pedestrian pushbuttons required when pedestrian signals are newly installed or altered at signalized intersections. Accessible pedestrian signals and pedestrian pushbuttons communicate the information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
+- *Accessible pedestrian signals and pedestrian pushbuttons required when pedestrian signals are newly installed or altered at signalized intersections*. Accessible pedestrian signals and pedestrian pushbuttons communicate the information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
 
-- Pedestrian activated signals or raised crossings at roundabouts with pedestrian street crossings. A roundabout is a circular intersection with yield control at entry, which permits a vehicle on the circulatory roadway to proceed, and with deflection of the approaching vehicle counter-clockwise around a central island. Pedestrian activated signals or raised crossings are required at roundabouts with pedestrian street crossings to facilitate crossing by pedestrians who are blind or have low vision. Some small governmental jurisdictions with a population less than 50,000 do construct roundabouts, and accordingly may be affected by this requirement, although they may only construct a small number of roundabouts.
+- *Pedestrian activated signals or raised crossings at roundabouts with pedestrian street crossings*. A roundabout is a circular intersection with yield control at entry, which permits a vehicle on the circulatory roadway to proceed, and with deflection of the approaching vehicle counter-clockwise around a central island. Pedestrian activated signals or raised crossings are required at roundabouts with pedestrian street crossings to facilitate crossing by pedestrians who are blind or have low vision. Some small governmental jurisdictions with a population less than 50,000 do construct roundabouts, and accordingly may be affected by this requirement, although they may only construct a small number of roundabouts.
 
-- Accessible shared use paths located in the public right-of-way. The shared use paths requirements that are likely to impose costs include those related to detectable warning surfaces, grade, and trail surface. The existing data suggests that shared use paths in small governmental jurisdictions are not necessarily any more or less compliant than all shared use paths in the U.S., suggesting that this will be an area of costs for small jurisdictions in line with the overall prevalence of shared use paths.
+- *Accessible shared use paths located in the public right-of-way*. The shared use paths requirements that are likely to impose costs include those related to detectable warning surfaces, grade, and trail surface. The existing data suggests that shared use paths in small governmental jurisdictions are not necessarily any more or less compliant than all shared use paths in the U.S., suggesting that this will be an area of costs for small jurisdictions in line with the overall prevalence of shared use paths.
 
-- One curb ramp per street crossing provided at each corner of intersections. Existing guidelines allow for a single diagonal curb ramp serving street crossings; however, the final rule will require two parallel or perpendicular curb ramps. There is no requirement where no pedestrian crossing exists.
+- *One curb ramp per street crossing provided at each corner of intersections*. Existing guidelines allow for a single diagonal curb ramp serving street crossings; however, the final rule will require two parallel or perpendicular curb ramps. There is no requirement where no pedestrian crossing exists.
 
-- On-street parking must meet minimum thresholds for the number of accessible spaces per block perimeter or other location. On-street parking is typically found along the curbside in retail, office, and mixed-use areas, but it is unknown how common this type of parking is in small governmental jurisdictions.
+- *On-street parking must meet minimum thresholds for the number of accessible spaces per block perimeter or other location*. On-street parking is typically found along the curbside in retail, office, and mixed-use areas, but it is unknown how common this type of parking is in small governmental jurisdictions.
 
 There are no significant alternatives that will minimize any significant impacts of these requirements on small governmental jurisdictions and achieve the objectives of the ADA, Section 504 of the Rehabilitation Act, and the ABA to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
 
