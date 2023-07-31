@@ -7,17 +7,10 @@ order-number: 1
 Published in the *Federal Register* on August 43, 2023.
 
 36 CFR Part 1190\
-Docket No. ATBCB 2011-04
-
-*Note:* On February 13, 2013, the Access Board issued a [notice](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) to supplement the proposed guidelines for public right-of-way to address shared use paths.
+Docket No. ATBCB 2011-0004
+RIN 3014-AA26
 
 **ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD**
-
-**36 CFR Part 1190**
-
-**[Docket No. ATBCB 2011-0004]**
-
-**RIN 3014-AA26**
 
 **Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way**
 
@@ -1881,9 +1874,9 @@ Approved by vote of the Access Board on March 15, 2023.
 
 _______________________________
 
-Sachin Dev Pavithran,
+Christopher J. Kuczynski,
 
-Executive Director.
+General Counsel.
 
 Accordingly, for the reasons set forth in the preamble, the Access Board adds 36 CFR part 1190 to read as follows:
 
