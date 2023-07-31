@@ -12,7 +12,7 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Thursday, October 25, 2023.**
+The next meeting of the Board is scheduled for **Wednesday, October 25, 2023**.
 
 ## Future Board Meetings
 
