@@ -1452,8 +1452,6 @@ Buildings and facilities, Civil rights, Federal buildings and facilities, Highwa
 
 Approved by vote of the Access Board on March 15, 2023.
 
-_______________________________
-
 Christopher J. Kuczynski,
 
 General Counsel.
