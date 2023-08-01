@@ -357,43 +357,17 @@ Minimum character height shall comply with Table R410.6. Viewing distance shall 
 
 #### R410.6 Visual Character Height
 
-<table class="data"><caption>Table R410.6 Visual Character Height</caption>
-<thead>
-<tr><th>Height to Finish Surface from Baseline of Character</th><th>Horizontal Viewing Distance</th><th>Minimum Character Height</th></tr>
-</thead>
-<tbody>
-<tr>
-<td>40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)</td>
-<td>Less than 72 inches (1830 mm)</td>
-<td>5/8 inch (16 mm)</td>
-</tr>
-<tr>
-<td>40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)</td>
-<td>72 inches (1830 mm) and greater</td>
-<td>5/8 inch (16 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 72 inches (1830 mm)</td>
-</tr>
-<tr>
-<td>Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm)</td>
-<td>Less than 180 inches (4570 mm)</td>
-<td>2 inches (51 mm)</td>
-</tr>
-<tr>
-<td>Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm)</td>
-<td>180 inches (4570 mm) and greater</td>
-<td>2 inches (51 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 180 inches (4570 mm)</td>
-</tr>
-<tr>
-<td>Greater than 120 inches (3050 mm)</td>
-<td>Less than 21 feet (6400 mm)</td>
- <td>3 inches (75 mm)</td>
-</tr>
-<tr>
-<td>Greater than 120 inches (3050 mm)</td>
-<td>21 feet (6400 mm) and greater</td>
-<td>3 inches (75 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 21 feet (6400 mm)</td>
-</tr>
-</tbody>
-</table>
+##### Table R410.6 Visual Character Height
+
+| Height to Finish Surface from Baseline of Character | Horizontal Viewing Distance | Minimum Character Height |
+| :--- | :--- | :--- |
+| 40 inches (1015 mm) to less than or equal to 70 inches (1780 mm) | Less than 72 inches (1830 mm) | 5/8 inch (16 mm) |
+| 40 inches (1015 mm) to less than or equal to 70 inches (1780 mm) | 72 inches (1830 mm) and greater | 5/8 inch (16 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 72 inches (1830 mm) |
+| Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm) | Less than 180 inches (4570 mm) | 2 inches (51 mm) |
+| Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm) | 180 inches (4570 mm) and greater | 2 inches (51 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 180 inches (4570 mm) |
+| Greater than 120 inches (3050 mm) | Less than 21 feet (6400 mm) | 3 inches (75 mm) |
+| Greater than 120 inches (3050 mm) | 21 feet (6400 mm) and greater | 3 inches (75 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 21 feet (6400 mm) |
+{: .usa-table .usa-table--borderless .usa-table--striped }
 
 #### R410.7 Stroke Thickness
 
