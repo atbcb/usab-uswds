@@ -26,7 +26,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - July 26, 2011 -- The Board issues [proposed guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347) for public comment.
 - March 28, 2011 -- The Board issues an advance notice of proposed rulemaking on supplement for [shared use paths](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001) for public comment.
 - February 13, 2013 -- The Board issues a [notice](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) to supplement its rulemaking on public rights-of-way to address shared use paths.
-- July xy, 2023 -- Final rule published in the Federal Register.
+- August 11, 2023 -- Final rule published in the Federal Register.
 
 ### Additional Resources
 
@@ -41,9 +41,9 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 - [Preamble - Public Rights-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)
 - [Preamble - Supplemental Notice on Shared Use Paths]({{ site.baseurl }}/prowag/preamble-shared-use/)
-- [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/preamble-shared-use/)
-- [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
-- [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements)
-- [Chapter R4: Supplemental Technical Requirements]({{ site.baseurl }}/prowag/chapter-r4-supplementary-technical-requirements)
+- [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
+- [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r2-scoping-requirements/)
+- [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements/)
+- [Chapter R4: Supplemental Technical Requirements]({{ site.baseurl }}/prowag/chapter-r4-supplementary-technical-requirements/)
 
 ---
