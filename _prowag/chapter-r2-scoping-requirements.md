@@ -3,6 +3,8 @@ title: "Chapter R2: Scoping Requirements"
 order-number: 20
 version: improved
 ---
+## { page.title }
+
 ### R201 General
 
 #### R201.1 Scope
@@ -10,7 +12,8 @@ All newly constructed *pedestrian facilities* and *altered* portions of existing
 
 EXCEPTION:  *Pedestrian facilities* within vaults, tunnels, and other spaces used only by service personnel for maintenance, repair, or monitoring of equipment are not required to comply with these guidelines.
 
-#### R201.2 Temporary and Permanent Pedestrian Facilities  
+#### R201.2 Temporary and Permanent Pedestrian Facilities 
+
 The requirements in these guidelines shall apply to temporary and permanent *pedestrian facilities* and *elements* in the *public right-of-way*. Where a *pedestrian* *circulation path* or *transit stop* is temporarily closed by construction, maintenance operations, or similar conditions, an alternate *pedestrian access route or transit stop* shall be provided in accordance withR204.
 
 #### R201.3 Buildings, Structures, and Elements  
