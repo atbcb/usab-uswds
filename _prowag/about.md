@@ -1,4 +1,5 @@
 ---
+banner-title: Public Right-of-Way Accessibility Guidelines
 title: "About"
 order-number: 0
 permalink: /prowag/
@@ -11,7 +12,7 @@ redirect_from:
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/about-this-rulemaking/
 ---
-### About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
+## About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
 
 {% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
 
@@ -40,7 +41,6 @@ The Access Board has published new guidelines under the Americans with Disabilit
 ### Table of Contents
 
 - [Preamble - Public Rights-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)
-- [Preamble - Supplemental Notice on Shared Use Paths]({{ site.baseurl }}/prowag/preamble-shared-use/)
 - [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
 - [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r2-scoping-requirements/)
 - [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements/)
