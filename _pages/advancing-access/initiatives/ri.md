@@ -27,13 +27,19 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
 
-Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for local and long-distance traveling. It is crucical that these charging stations be accessible for people with disabilities. In partnership with the Department of Transportation, the Access Board issued a [technical assistance document](https://www.access-board.gov/ta/tad/ev/) that covers existing requirements and new recommendations for making EV charging stations accessible. As indicated in the [Board’s 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=29FB9214141005645EC75FDC717613EDBC05379D8B1DF51A29DB5103138A2F3E8F1375C4EF5D1217BFEA656159147467E93E), the Board intends to publish a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
+Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for local and long-distance traveling. It is crucical that these charging stations be accessible for people with disabilities. In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that covers existing requirements and new recommendations for making EV charging stations accessible.  As indicated in the
+[Board’s 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
+the Board intends to publish a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
 
 ### Medical Diagnostic Equipment
 
 ![adjustable exam table]({{ site.baseurl }}/images/uploads/exam-table-3d-render.png "adjustable exam table"){: .img-right }
 
-The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/d/2023-10827) regarding the low transfer surface height for certain types of medical diagnostic equipment used by patients.  Public comments for the NPRM are due by **August 31, 2023**.  Visit the Board's [May 23, 2023 news release]({{ site.baseurl }}/news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/) for more information.
+The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/d/2023-10827) regarding the low transfer surface height for certain types of medical diagnostic equipment used by patients.  Public comments for the NPRM are due by **August 31, 2023**.  Visit the Board's
+[May 23, 2023 news release]({{ site.baseurl }}/news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
+and
+[August 2, 2023 news release]{{ site.baseurl }}/news/2023/08/02/u-s-access-board-extends-public-comment-period-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
+for more information.
 
 ### Self-service Transaction Machines
 
