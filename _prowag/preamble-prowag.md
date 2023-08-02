@@ -1330,7 +1330,7 @@ As the relevant analysis time periods can vary by provision, the costs and benef
 
 ###### Table of Estimated Costs
 
-| PROWAG Provision | Annualized Cost<br />($ millions, 7% discounting to 2021 base year) | Annualized Cost<br />($ millions, 3% discounting to 2021 base year) | Time Period Analyzed (Years) |
+| PROWAG Provision | Annualized Cost ($ millions, 7% discounting to 2021 base year) | Annualized Cost ($ millions, 3% discounting to 2021 base year) | Time Period Analyzed (Years) |
 | --- | --- | --- | --- |
 | Detectable Warning | $1.0 | $1.0 | 50 |
 | On-Street Parking | $11.4 | $17.0 | 20 |
@@ -1344,20 +1344,20 @@ As the relevant analysis time periods can vary by provision, the costs and benef
 | Curb Ramps | $22.0 | $30.6 | 20 |
 | Stair Visual Contrast | $0.1 | $0.1 | 50 |
 | Crosswalk Cross Slope | $3.0 | $3.1 | 25 |
-| **TOTAL COSTS** | **$196.7** | **$236.5** | **-** |
-{. usa-table usa-table--striped }
+| **TOTAL COSTS** | **$196.7** | **$236.5** | **--** |
+{: .usa-table .usa-table--striped }
 
 ###### Table of Estimated Benefits
 
-| PROWAG Provision | Annualized Benefit<br />($ millions, 7% discounting to 2021 base year) | Annualized Benefit<br />($ millions, 3% discounting to 2021 base year) | Time Period Analyzed (Years) |
+| PROWAG Provision | Annualized Benefit ($ millions, 7% discounting to 2021 base year) | Annualized Benefit ($ millions, 3% discounting to 2021 base year) | Time Period Analyzed (Years) |
 | --- | --- | --- | --- |
 | Accessible Pedestrian Signals: Mobility Component | $68.9 | $83.5 | 25 |
 | Roundabouts: Safety Component | $0.1 | $0.1 | 25 |
 | On-Street Parking: Mobility Component | $928.0 | $1,083.6 | 20 |
 | Multiple Provisions: New Trips Value | $14,479.3 | $19,575.3 | 30 |
 | Multiple Provisions: Health Benefit | $0.03 | $0.04 | 30 |
-| **TOTAL BENEFITS** | **$15,476.3** | **$20,742.5** | **-** |
-{. usa-table usa-table--striped }
+| **TOTAL BENEFITS** | **$15,476.3** | **$20,742.5** | **--** |
+{: .usa-table .usa-table--striped }
 
 #### B. Regulatory Flexibility Act
 
@@ -1391,7 +1391,7 @@ The number of small governmental jurisdictions with a population less than 50,00
 | Municipal | 16,432 | 1,559 | 738 |
 | Town or Township | 14,997 | 784 | 316 |
 | **Total** | 32,206 | 3,150 | 1,665 |
-{. usa-table usa-table--striped }
+{: .usa-table .usa-table--striped }
 
 More than 65 percent of municipal governments (12,701) and almost 75 percent of towns and townships (12,062) have a population of less than 2,500. Many of these small governmental jurisdictions are located in rural areas, which generally do not construct pedestrian transportation networks (e.g., sidewalks, pedestrian street crossings, and pedestrian signals).
 
