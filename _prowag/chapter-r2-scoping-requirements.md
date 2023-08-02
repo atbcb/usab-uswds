@@ -298,41 +298,16 @@ Where parking spaces are provided on a section of a *street* that is not part of
 
 ##### Table R211 On-Street Parking Spaces
 
-<table class="data"><caption>Table R211 On-Street Parking Spaces</caption>
-<thead>
-<tr><th>Total Number of Metered or Designated Parking Spaces</th><th>Minimum Required Number of Accessible Parking Spaces</th></tr>
-</thead>
-<tbody>
-<tr>
-<td>1 to 25</td>
-<td>1</td>
-</tr>
-<tr>
-<td>26 to 50</td>
-<td>2</td>
-</tr>
-<tr>
-<td>51 to 75</td>
-<td>3</td>
-</tr>
-<tr>
-<td>76 to 100</td>
-<td>4</td>
-</tr>
-<tr>
-<td>101 to 150</td>
-<td>5</td>
-</tr>
-<tr>
-<td>151 to 200</td>
-<td>6</td>
-</tr>
-<tr>
-<td>201 and over</td>
-<td>4 percent of total</td>
-</tr>
-</tbody>
-</table>
+| Total Number of Metered or Designated Parking Spaces | Minimum Required Number of Accessible Parking Spaces |
+| -------- | --- |
+| 1 to 25    | 1 |
+| 26 to 50   | 2 |
+| 51 to 75   | 3 |
+| 76 to 100  | 4 |
+| 101 to 150 | 5 |
+| 151 to 200 | 6 |
+| 201 and over | 4 percent of total |
+{. usa-table usa-table--striped }
 
 ### R212 Passenger Loading Zones
 
