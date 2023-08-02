@@ -225,7 +225,7 @@ Standard Curb Height
 : The typical height of a *curb* according to local standards for a given road type, but usually between 3 inches (75 mm) and 9 inches (230 mm) high relative to the surface of the *roadway* or gutter.
 
 Street
-:See *Roadway*.
+: See *Roadway*.
 
 ##### T
 
@@ -237,7 +237,7 @@ Transit Stop
 : This definition does not include intercity rail except where a stop is located in the *public right-of-way*. 
 
 Transitional Segment
-:The portion of a *pedestrian circulation path* that connects adjacent surfaces with different slopes or dimensions to provide a smooth transition. 
+: The portion of a *pedestrian circulation path* that connects adjacent surfaces with different slopes or dimensions to provide a smooth transition. 
 
 Traveled Way
 : The portion of the *roadway* for the movement of vehicles, exclusive of the shoulder, berm, *sidewalk*, and parking lane. 
