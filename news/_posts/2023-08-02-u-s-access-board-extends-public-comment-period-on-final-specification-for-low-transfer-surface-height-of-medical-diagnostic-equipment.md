@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S. Access Board Extends Public Comment Period on Final Specification
-  for Low Transfer Surface Height of Medical Diagnostic Equipment to August 31
+  for Low Transfer Surface Height of Medical Diagnostic Equipment
 date: 2023-08-02
 excerpt: The U.S. Access Board has extended its notice of proposed rulemaking
   (NPRM) on standards for accessible medical diagnostic equipment for 30 days.
@@ -26,7 +26,7 @@ Individuals may submit comments via any of the following methods:  
 * Email: [docket@access-board.gov](mailto:docket@access-board.gov). Include docket number ATBCB-2023-0001 in the subject line of the message.   
 * Mail:   
 
-> Office of Technical and Information Services  \ 
+> Office of Technical and Information Services  \
 > U.S. Access Board   \
 > 1331 F Street NW, Suite 1000 \
 > Washington, DC 20004-1111   
