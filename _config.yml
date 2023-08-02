@@ -154,6 +154,9 @@ collections:
   prowag:
     output: true
     permalink: /prowag/:path/
+  prowag-nprm:
+    output: true
+    permalink: /prowag/proposed:path/
   prowag-rulemaking:
     output: true
     permalink: /prowag/rulemaking:path/
@@ -276,12 +279,26 @@ defaults:
       path: ""
       type: "prowag"
     values:
-      banner-title: "(Proposed) Public Rights-of-Way Accessibility Guidelines"
+      banner-title: "Public Rights-of-Way Accessibility Guidelines"
       banner-subtitle: ""
       collection-folder: prowag
       layout: universal
       toc: /toc/auto.html
       toc-group: prowag
+      image-directory: /images/prowag/
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for assistance on these guidelines
+      ta-email-pre: row
+  - scope:
+      path: ""
+      type: "prowag-nprm"
+    values:
+      banner-title: "(Proposed) Public Rights-of-Way Accessibility Guidelines"
+      banner-subtitle: ""
+      collection-folder: prowag-nprm
+      layout: universal
+      toc: /toc/auto.html
+      toc-group: prowag-nprm
       image-directory: /images/prowag/
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for assistance on these guidelines
