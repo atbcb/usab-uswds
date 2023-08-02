@@ -1,37 +1,46 @@
 ---
 title: "Chapter R1: Application and Administration"
 order-number: 10
-redirect_from:
-  - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/chapter-r1-application-and-administration/
 ---
+
+## {{ page.title }}
+
 ### R101 Purpose and Application
 
 #### R101.1 Purpose
+
 These guidelines contain scoping and technical requirements to ensure that *pedestrian facilities* located in the *public right-of-way* (including a *public right-of-way* that forms the boundary of a site or that lies within a site bounded by a property line), are readily *accessible* to and usable by *pedestrians* with disabilities.  
 
 #### R101.2 Application to ADA-Covered Facilities
+
 These guidelines apply to *pedestrian facilities* in *public rights-of-way* to the extent required by regulations issued by Federal agencies under the Americans with Disabilities Act of 1990, as amended (42 U.S.C. 12101 et seq.) (ADA).
 
 #### R101.3 Application to ABA-Covered Facilities
+
 These guidelines apply to *pedestrian facilities* in *public rights-of-way* to the extent required by regulations issued by Federal agencies under the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) (ABA).
 
 #### R101.4 Effect on Existing Pedestrian Facilities
+
 These guidelines do not address existing *pedestrian facilities* unless the *pedestrian facilities* are altered at the discretion of a covered entity.  The Department of Justice has authority over existing facilities that are subject to the requirement for program access under title II of the ADA.  Any determination that this document applies to existing facilities subject to the program access requirement is solely within the discretion of the Department of Justice and is effective only to the extent required by regulations issued by the Department of Justice.
 
 ### R102 Deviations from These Guidelines
 
 #### R102.1 ADA-Covered Facilities and Equivalent Facilitation
+
 The use of alternative designs, products, or technologies that result in substantially equivalent or greater accessibility and usability than the requirements in these guidelines shall be permitted for *pedestrian facilities* in the *public right-of-way* subject to the ADA.
 
 #### R102.2 ABA-Covered Facilities and Waivers or Modifications
+
 Equivalent facilitation is not permitted for *pedestrian facilities* in the *public right-of-way* subject to the ABA.  The ABA authorizes the Administrator of the General Services Administration, the Secretary of the Department of Housing and Urban Development, the Secretary of the Department of Defense, and the United States Postal Service to modify or waive the accessibility standards for buildings and facilities covered by the ABA on a case-by-case basis, upon application made by the head of the department, agency, or instrumentality of the United States concerned and upon a determination that the waiver is clearly necessary.  Pursuant to Section 502(b)(1) of the Rehabilitation Act of 1973, 29 U.S.C. § 792(b), the Access Board shall ensure that modifications and waivers are based on findings of fact and are not inconsistent with the ABA.
 
 ### R103 Conventions
 
 #### R103.1 Conventional Industry Tolerances
+
 All dimensions are subject to conventional industry tolerances except where requirements are stated as a range with specific minimum or maximum endpoints.
 
 #### R103.2 Calculation of Percentages
+
 Where the required number of *elements* or facilities to be provided is determined by calculations of ratios or percentages and remainders or fractions result, the next greater whole number of such *elements* or facilities shall be provided. 
 
 #### R103.3 Units of Measurement
@@ -40,12 +49,15 @@ Measurements are stated in U.S. customary units and metric units. The values sta
 ### R104 Definitions
 
 #### R104.1 Undefined Terms
+
 Terms that are not defined in R104.3 or in regulations issued by the Department of Justice and the Department of Transportation under the ADA, the four standard setting agencies under the ABA or other federal agencies that adopt these guidelines as accessibility standards shall be given their ordinarily accepted meaning in the sense that the context implies.
 
 #### R104.2 Interchangeability
+
 Words, terms, and phrases used in the singular include the plural and those used in the plural include the singular.
 
 #### R104.3 Defined Terms
+
 For the purpose of these guidelines, the following terms have the indicated meaning:
 
 > *Accessible*.  A *pedestrian facility* or *element* in the *public right-of-way* that complies with these guidelines. 
@@ -151,3 +163,5 @@ For the purpose of these guidelines, the following terms have the indicated mean
 > *Vibrotactile*. A method of communicating information by touch using a vibrating surface. 
 > 
 > *Walk Interval*.  An interval during which the walking person (symbolizing “walk”) signal indication is displayed. 
+
+---
