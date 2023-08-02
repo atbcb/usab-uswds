@@ -12,7 +12,7 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, October 25, 2023**.
+The next meeting of the Board is scheduled for **Wednesday, October 25, 2023**.  At this meeting, which will be held virtually only, the Board will hear Committee reports and federal agency updates; a vote to approve the March 2023 draft meeting minutes is also scheduled.  Greg Fehribach will chair this meeting.  Additional details will be published as they become available.  
 
 ## Future Board Meetings
 
