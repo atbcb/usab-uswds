@@ -17,7 +17,8 @@ EXCEPTION:  *Pedestrian facilities* within vaults, tunnels, and other spaces us
 
 The requirements in these guidelines shall apply to temporary and permanent *pedestrian facilities* and *elements* in the *public right-of-way*. Where a *pedestrian* *circulation path* or *transit stop* is temporarily closed by construction, maintenance operations, or similar conditions, an alternate *pedestrian access route or transit stop* shall be provided in accordance withR204.
 
-#### R201.3 Buildings, Structures, and Elements  
+#### R201.3 Buildings, Structures, and Elements
+
 *Buildings*, structures, and *elements* in the *public right-of-way* that are not covered by the requirements in these guidelines shall comply with the applicable requirements in 36 CFR part 1191 (ADA & ABA Accessibility Guidelines). Examples include, but are not limited to, *buildings*, structures, and *elements* at safety rest areas or park and ride lots, temporary performance stages and reviewing stands.
 
 ### R202 Alterations
@@ -272,7 +273,7 @@ Where provided at *transit stops* and *transit shelters*, fare vending machines 
 
 *Operable parts* of  other fixed *elements* at *transit stops* and shelters intended to be used by *pedestrians* shall comply with R403.
 
-### R211 On-Street Parking Spacew
+### R211 On-Street Parking Space
 
 #### R211.1 General
 
@@ -293,6 +294,8 @@ Where parking spaces are provided on a *block perimeter* and are metered or desi
 Where parking spaces are provided on a section of a *street* that is not part of a *block perimeter*, *accessible* parking spaces complying with R310 shall be provided in accordance with Table R211. Where parking is metered or designated by signs or pavement markings, but individual spaces are not marked, each 20 feet (6.1 m) of *street* where parking is designated shall be counted as one parking space.
 
 #### Table R211 On-Street Parking Spaces
+
+##### Table R211 On-Street Parking Spaces
 
 <table class="data"><caption>Table R211 On-Street Parking Spaces</caption>
 <thead>
@@ -349,4 +352,3 @@ Where provided on *pedestrian circulation paths*, *stairs* shall comply with R40
 Where provided on *pedestrian circulation paths*, handrails shall comply with R409.
 
 ---
-
