@@ -3,7 +3,7 @@ title: "Chapter R2: Scoping Requirements"
 order-number: 20
 ---
 
-## {( page.title }}
+## {{ page.title }}
 
 ### R201 General
 
@@ -75,9 +75,11 @@ A *pedestrian access route* complying with R302 shall be provided within and for
 Where a *pedestrian circulation path* crosses at-grade rail tracks, a *pedestrian access route* complying with R302 shall be included within the *pedestrian* at-grade rail crossing.  *Pedestrian* at-grade rail crossings shall comply with R306.
 
 #### R203.6 Curb Ramps and Blended Transitions
+
 A *curb ramp*, *blended transition*, or a combination of *curb ramps* and *blended transition*s shall be provided in accordance with R203.6 and shall comply with R304. 
 
 ##### R203.6.1 Placement
+
 Placement of *curb ramps* and *blended transition*s shall comply with R203.6.1.
 
 ###### R203.6.1.1 Crosswalks at an Intersection
@@ -205,7 +207,7 @@ Where provided, signs intended solely for *pedestrians*, including transit signs
 
 EXCEPTIONS:  1. Transit schedules, timetables, and maps are not required to comply with R410.
 
-2. Signs mounted immediately above or incorporated into a *push button* detector unit are not required to comply with R410.
+2\. Signs mounted immediately above or incorporated into a *push button* detector unit are not required to comply with R410.
 
 ### R209 Street Furniture
 
@@ -259,12 +261,15 @@ At least 50 percent, but no less than one, of benches at each group of adjacent 
 ### R210 Transit Stops and Transit Shelters
 
 #### R210.1 General
+
 Where provided, *transit stops* and *transit shelters* shall comply with R309.
 
 #### R210.2 Fare Vending Machines
+
 Where provided at *transit stops* and *transit shelters*, fare vending machines shall comply with R403 and section 707 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines), except for 707.2 and 707.3.
 
 #### R210.3. Operable Parts of Other Fixed Elements
+
 *Operable parts* of  other fixed *elements* at *transit stops* and shelters intended to be used by *pedestrians* shall comply with R403.
 
 ### R211 On-Street Parking Spacew
@@ -275,9 +280,9 @@ Where on-street parking is provided and is metered or designated by signs or pav
 
 EXCEPTIONS:  1.  On-street parking spaces designated exclusively as residential parking shall not be required to comply with R211 and shall not be counted for purposes of Table R211.
 
-2.  On-street parking spaces designated exclusively for commercial or law enforcement vehicles shall not be required to comply with R211 and shall not be counted for purposes of Table R211. 
+2\.  On-street parking spaces designated exclusively for commercial or law enforcement vehicles shall not be required to comply with R211 and shall not be counted for purposes of Table R211. 
 
-3.  Where on-street parking spaces are *altered*, the requirements of R211 shall apply only to the affected parking spaces until the minimum number of *accessible* on-street parking spaces as specified in Table R211 are provided.
+3\.  Where on-street parking spaces are *altered*, the requirements of R211 shall apply only to the affected parking spaces until the minimum number of *accessible* on-street parking spaces as specified in Table R211 are provided.
 
 #### R211.2 Parking on Block Perimeter
 
