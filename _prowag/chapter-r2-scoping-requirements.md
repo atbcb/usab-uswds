@@ -193,6 +193,7 @@ Whereprovided, *pedestrian signal heads* and *pedestrian activated warning devic
 Where *pedestrian signal heads* are provided at *crosswalks*, the walk indication shall comply with R308.  *Pedestrian signal heads* must have a *pedestrian* *push button* complying with R307, except for R307.7, or passive detection or pretimed operation that activates audible and *vibrotactile* indications complying with R308. 
 
 #### R206.3 Pedestrian Activated Warning Devices
+
 *Pedestrian activated warning devices* shall have *pedestrian* *push buttons* complying with R307, except for R307.2 and R307.6, or passive detection that operates audible indications complying with R307.7. 
 
 ### R207 Protruding Objects and Vertical Clearance
@@ -273,7 +274,7 @@ Where provided at *transit stops* and *transit shelters*, fare vending machines 
 
 *Operable parts* of  other fixed *elements* at *transit stops* and shelters intended to be used by *pedestrians* shall comply with R403.
 
-### R211 On-Street Parking Space
+### R211 On-Street Parking Spaces
 
 #### R211.1 General
 
