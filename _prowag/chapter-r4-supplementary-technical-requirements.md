@@ -1,8 +1,8 @@
 ---
 title: "Chapter R4: Supplemental Technical Requirements"
 order-number: 40
-version: improved
 ---
+
 ## {{ page.title }}
 
 ### R401 General
@@ -50,6 +50,7 @@ Protruding objects shall not reduce the clear width required for *pedestrian acc
 ### R403 Operable Parts
 
 #### R403.1 General
+
 *Operable parts* shall comply with R403.
 
 #### R403.2 Clear Space
@@ -152,6 +153,7 @@ Where knee clearance is required under an *element* as part of a clear space, th
 Between 9 inches (230 mm) and 27 inches (685mm) above the ground surface, the knee clearance shall be permitted to reduce at a rate of 1 inch (25 mm) in depth for each 6 inches (150 mm) in height.
 
 ##### R405.3.5 Width
+
 Knee clearance shall be 30 inches (760 mm) wide minimum.
 
 ### R406 Reach Ranges
@@ -312,6 +314,7 @@ Handrail gripping surfaces with a non-circular cross section shall have a perime
 Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive *elements* and shall have rounded edges.
 
 #### R409.9 Fittings
+
 Handrails shall not rotate within their fittings. Where expansion joints are necessary for large spans of handrails, the expansion joint is permitted to rotate in its fitting.
 
 #### R409.10 Handrail Extensions
@@ -350,8 +353,8 @@ Characters shall be uppercase or lowercase or a combination of both.
 Characters shall be conventional in form. Characters shall not be italic, oblique, script, highly decorative, or of other unusual forms.
 
 #### R410.5 Character Proportions
-Characters shall be selected from fonts
-where the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
+
+Characters shall be selected from fontsmwhere the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
 
 #### R410.6 Character Height
 
