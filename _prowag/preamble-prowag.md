@@ -1328,7 +1328,9 @@ As the relevant analysis time periods can vary by provision, the costs and benef
 
 ##### Summary of Estimated Benefits and Costs
 
-| **PROWAG Provision** | **Annualized Cost / Benefit\ ($ millions, 7% discounting to 2021 base year)** | **Annualized Cost / Benefit\ ($ millions, 3% discounting to 2021 base year)** | **Time Period Analyzed (Years)** |
+###### Table of Estimated Costs
+
+| PROWAG Provision | Annualized Cost<br />($ millions, 7% discounting to 2021 base year) | Annualized Cost<br />($ millions, 3% discounting to 2021 base year) | Time Period Analyzed (Years) |
 | --- | --- | --- | --- |
 | Detectable Warning | $1.0 | $1.0 | 50 |
 | On-Street Parking | $11.4 | $17.0 | 20 |
@@ -1342,14 +1344,20 @@ As the relevant analysis time periods can vary by provision, the costs and benef
 | Curb Ramps | $22.0 | $30.6 | 20 |
 | Stair Visual Contrast | $0.1 | $0.1 | 50 |
 | Crosswalk Cross Slope | $3.0 | $3.1 | 25 |
-| **TOTAL COSTS** | **$196.7** | **$236.5** | **-**| 
-| **-** | **-** | **-** | **-** |
+| **TOTAL COSTS** | **$196.7** | **$236.5** | **-** |
+{. usa-table usa-table--striped }
+
+###### Table of Estimated Benefits
+
+| PROWAG Provision | Annualized Benefit<br />($ millions, 7% discounting to 2021 base year) | Annualized Benefit<br />($ millions, 3% discounting to 2021 base year) | Time Period Analyzed (Years) |
+| --- | --- | --- | --- |
 | Accessible Pedestrian Signals: Mobility Component | $68.9 | $83.5 | 25 |
 | Roundabouts: Safety Component | $0.1 | $0.1 | 25 |
 | On-Street Parking: Mobility Component | $928.0 | $1,083.6 | 20 |
 | Multiple Provisions: New Trips Value | $14,479.3 | $19,575.3 | 30 |
 | Multiple Provisions: Health Benefit | $0.03 | $0.04 | 30 |
 | **TOTAL BENEFITS** | **$15,476.3** | **$20,742.5** | **-** |
+{. usa-table usa-table--striped }
 
 #### B. Regulatory Flexibility Act
 
@@ -1398,13 +1406,9 @@ The public rights-of-way accessibility guidelines address the design, constructi
 The regulatory assessment analyzes the following five requirements in the final rule that will have more than minimal impacts on state and local transportation departments:
 
 - *Accessible pedestrian signals and pedestrian pushbuttons required when pedestrian signals are newly installed or altered at signalized intersections*. Accessible pedestrian signals and pedestrian pushbuttons communicate the information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
-
 - *Pedestrian activated signals or raised crossings at roundabouts with pedestrian street crossings*. A roundabout is a circular intersection with yield control at entry, which permits a vehicle on the circulatory roadway to proceed, and with deflection of the approaching vehicle counter-clockwise around a central island. Pedestrian activated signals or raised crossings are required at roundabouts with pedestrian street crossings to facilitate crossing by pedestrians who are blind or have low vision. Some small governmental jurisdictions with a population less than 50,000 do construct roundabouts, and accordingly may be affected by this requirement, although they may only construct a small number of roundabouts.
-
 - *Accessible shared use paths located in the public right-of-way*. The shared use paths requirements that are likely to impose costs include those related to detectable warning surfaces, grade, and trail surface. The existing data suggests that shared use paths in small governmental jurisdictions are not necessarily any more or less compliant than all shared use paths in the U.S., suggesting that this will be an area of costs for small jurisdictions in line with the overall prevalence of shared use paths.
-
 - *One curb ramp per street crossing provided at each corner of intersections*. Existing guidelines allow for a single diagonal curb ramp serving street crossings; however, the final rule will require two parallel or perpendicular curb ramps. There is no requirement where no pedestrian crossing exists.
-
 - *On-street parking must meet minimum thresholds for the number of accessible spaces per block perimeter or other location*. On-street parking is typically found along the curbside in retail, office, and mixed-use areas, but it is unknown how common this type of parking is in small governmental jurisdictions.
 
 There are no significant alternatives that will minimize any significant impacts of these requirements on small governmental jurisdictions and achieve the objectives of the ADA, Section 504 of the Rehabilitation Act, and the ABA to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
@@ -1441,7 +1445,7 @@ Accordingly, for the reasons set forth in the preamble, the Access Board adds 36
 
 ##### Sec. 1190.1 Accessibility Guidelines.  Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-### Authority: 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq.
+#### Authority: 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq.
 
 ---
 
@@ -1490,5 +1494,3 @@ Accordingly, for the reasons set forth in the preamble, the Access Board adds 36
 [^20]: Source: US Census Bureau 2017 Census of Governments available at: <https://www.census.gov/data/tables/2017/econ/gus/2017-governments.html>
 
 [^21]: There are 90 counties and 821 municipal governments with population under 50,000 per US Census data in these three states.
-
----
