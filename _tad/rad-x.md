@@ -15,8 +15,10 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 ---
 
 ## {{ page.title }}
+{. .center }
 
 ![RADx Accessibility Logo, which is abstract representation of four people with arms raised.  Four circles (each with a different color) at compass points of large rounded capital ex (using two of the colors).](../images/a11y-icon.png)
+{. .img-large }
 
 ---
 
@@ -1938,4 +1940,4 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 
 ### RADx Tech Accessibility Program Webinar
 
-On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices."  This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 "Best Practices for the Design of Accessible COVID-19 Home Tests" publication.  The materials are available as a [webinar recording on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY) and as [presentation slides in a PDF format({{ site.baseurl }}/files/mde/BestPracticesWebinar_2023-02-28_Outline.pdf).
+On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices."  This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 "Best Practices for the Design of Accessible COVID-19 Home Tests" publication.  The materials are available as a [webinar recording on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY) and as [presentation slides in a PDF format]({{ site.baseurl }}/files/mde/BestPracticesWebinar_2023-02-28_Outline.pdf).
