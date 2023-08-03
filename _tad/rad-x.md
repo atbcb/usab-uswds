@@ -14,10 +14,16 @@ file: /files/mde/Best-Practices-for-the-Design-of-Accessible-COVID-19-Home-Tests
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format 
 ---
 
-
 ## {{ page.title }}
+{: .grid-line }
 
-<h3 id="Acknowledgements">Acknowledgements</h3>
+![RADx Accessibility Logo, which is abstract representation of four people with arms raised.  Four circles (each with a different color) at compass points of large rounded capital ex (using two of the colors).](../images/a11y-icon.png)
+{: .center .img-medium }
+
+---
+
+### Acknowledgements
+
 <p><b>We would like to acknowledge the efforts of all of those involved in the development of these best practices:</b></p>
 <p><b>Rapid Acceleration of Diagnostics (RADx®) Tech Program:</b></p>
 <p>John Blackwood, Cathy Cambria, Mia Cirrincione, Jim Densmore, Sam Dolphin, Maren Downing, Emily B. Kennedy, Kevin Leite, Shaun Moshasha, Kim Noble, Clair O’Donovan, D’lynne Plummer, Adam Samuta, Mack Schermer, Sal Strods, Erika Tyburski, Brian Walsh. </p>
@@ -39,7 +45,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>Christine Cooper, Karen Olsen, Patricia Wiley.</p>
 <p><b>Government Agencies:</b></p>
 <p>Centers for Disease Control and Prevention, U.S. Food and Drug Administration, National Center for Medical Rehabilitation Research, National Council on Disability, National Eye Institute, National Institute of Dental and Craniofacial Research, National Institute of Nursing Research, National Institute on Disability, Independent Living, Rehabilitation Research within the Administration for Community Living.</p>
-<hr />
+
+---
 
 <h3>1. Background</h3>
 <p>In response to the COVID-19 pandemic, the National Institutes of Health (NIH) launched the Rapid Acceleration of Diagnostics (RADx®) initiative in 2020 to speed the innovation, development, commercialization, and implementation of COVID-19 testing technologies. The RADx Tech program, one arm of the initiative, was specifically designed to compress the customary technology development timeline from years down to just months. While NIH RADx Tech has increased testing capacity in the U.S., there is a continuing need to develop COVID-19 home tests that are accessible to all users, including populations that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. </p>
@@ -48,7 +55,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>The primary objective of this best practices document is to capture and publicize learnings from the NIH RADx Tech accessibility program. What follows are detailed recommendations to assist manufacturers in the design of COVID-19 home tests that ensure greater accessibility for users that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. </p>
 <p>While the information presented emphasizes best practices for the design of COVID-19 home tests, many of these ergonomic and accessible design recommendations are transferable to home tests for other conditions and diseases. </p>
   <p>An abridged version of Best Practices for the Design of Accessible COVID-19 Home Tests, released in 2022, included a limited set of topics. This 2023 publication expands upon and refines the best practices recommendations contained therein and supersedes the 2022 release.</p>
-<hr />
+
+---
 
 <h3 id="glossary">2. Glossary</h3>
 <dl>
@@ -149,7 +157,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <dt>User Interface </dt>
   <dd>Method or means by which a human interacts with or controls a product, website, or application.</dd>
 </dl>
-<hr />
+
+---
 
 <h3>3. Symbols Guide</h3>
 <dl>
@@ -176,7 +185,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <dt><img src="../images/warning.png" alt="bold red triangle containing an exclamation point" />&nbsp;&nbsp; Warning </dt>
   <dd>Indicates a critical warning </dd>
 </dl>
-<hr />
+---
 
 <h3 id="design-considerations">4. Design Considerations </h3>
 <p>Accessible product design/redesign requires more than incremental improvements to individual test kit components. To create a truly accessible at-home COVID-19 testing experience, the end-to-end workflow should be considered. A holistic review includes consideration of how various test kit components function together to create a seamless testing experience from kit acquisition through component disposal. Features incorporated to improve usability for one user group should improve usability for all. Universal design – “the design and composition of an environment [or product] so that it can be accessed, understood, and used to the greatest extent possible by all people regardless of their age, ability or disability” – is an appropriate and achievable goal. <a href="#one">[1]</a><span id="endnote1"></span></p>
@@ -205,7 +214,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <li>Incorporate simultaneous nonvisual (e.g., audible, haptic) and visual cues. </li>
   <li>Illustrations should be simple, high-contrast, shaded line drawings with alt text.</li>
 </ul>
-<hr />
+
+---
 
 <h3 id="engaging-end-user-advocacy-groups">5. Engaging End User Advocacy Groups </h3>
 <p>Human factors engineers are accustomed to being the end user advocates within the design development process. As such, they research users, learn about specific needs, and ensure these characteristics are included in the iterative and final designs. 
@@ -219,7 +229,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <li>arranging real-time design reviews and critiques.</li>
 </ul>
 <p>Manufacturers should plan to have ongoing relationships with end users. The more consistent their involvement, the more robust the final design will be. Designs should be assessed by end users representing a broad range of capabilities. Always plan to make design materials accessible to people with disabilities and circulate them prior to review. </p>
-<hr />
+
+---
 
 <h3 id="regulatory-and-design-control">6. Regulatory and Design Control </h3>
 <p>The U.S. Food and Drug Administration (FDA) is responsible for protecting public health by ensuring the safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, and radiation-emitting products; and by ensuring the safety of our nation’s food supply and cosmetics. <a href="#two">[2]</a><span id="endnote2"></span> Within FDA, the Center for Devices and Radiological Health (CDRH) is responsible for ensuring the safety and effectiveness of medical devices and eliminating unnecessary exposure to radiation-emitting products. <a href="#three">[3]</a><span id="endnote3"></span></p>
@@ -231,7 +242,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 <p>The general user population for these tests includes individuals that have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging. </p>
 <p>These groups must be considered when creating the user needs for an accessible OTC product. To confirm that such products are safe and effective in the hands of the intended user, validation testing must be performed in accordance with FDA recommendations to confirm the end user can use the product as intended (see <a href="#assessing-usability"> 7. Assessing Usability</a>). <a href="#eight">[8]</a><span id="endnote8"></span></p>
 <p>These topics are further described in the seminal recommended practice document created by the Association for the Advancement of Medical Instrumentation (AAMI). The stated purpose of this document, ANSI/AAMI HE75:2009/(R2018) Human Factors Engineering - Design of Medical Devices, is to provide a relevant source of human factors engineering (HFE) information, design criteria, and guidelines for medical devices. <a href="#nine">[9]</a><span id="endnote9"></span> The human factors design information and methodologies described may be used through all phases of design. Note that FDA recognizes most, but not all, of this standard. Specifically, FDA does not recognize Section 9 (Usability testing) as it conflicts with FDA guidance in “Applying Human Factors and Usability Engineering to Medical Devices.” <a href="#eight">[8]</a> Additional information is provided in the FDA presentation “How to Use Consensus Standards in Premarket Submissions.”   <a href="#ten">[10]</a><span id="endnote10"></span></p>
-<hr />
+
+---
 
 <h3 id="assessing-usability">7. Assessing Usability </h3>
 <p>The best practices outlined in this document will aid manufacturers in creating an accessible and usable home test kit; however, understanding how well (or
@@ -241,7 +253,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   anticipated distractions and hindrances (e.g., low lighting, background noise, clutter).</p>
 <p>At the end of the development cycle, manufacturers should conduct a human factors validation study with end users unfamiliar with the product, collecting feedback on production-equivalent packaging, labeling, and devices, while users proceed through the entire workflow without interruption. This is called a summative assessment. This study should also be conducted in a simulated home environment. Refer to FDA guidance “Applying Human Factors and Usability Engineering to Medical Devices” for details. <a href="#eight">[8]</a></p>
 <p>Any user errors or near misses should be noted, and after the study participant completes the full workflow, study staff should probe for reasons why the user error or near miss occurred to determine the root cause. </p>
-<hr />
+
+---
 
 <h3 id="Instructions">8. Instructions</h3>
 <ul>
@@ -252,7 +265,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <li>8.5 Printed Embodiment</li>
   <li>8.6 Digital Embodiment</li>
 </ul>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -319,7 +333,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -381,7 +396,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -452,7 +468,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 		</div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -532,7 +549,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -568,7 +586,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -587,7 +606,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 	  </div>
   </div>
 </div>
-<hr />
+
+---
 
 <h3 id="illustrations-symbols">8.4 Illustrations and Symbols</h3>
 <div class="grid-container">
@@ -690,7 +710,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <h3 id="printed-embodiment">8.5 Printed Embodiment</h3>
 <div class="grid-container">
@@ -761,7 +782,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -778,7 +800,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -816,7 +838,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -862,7 +885,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -890,7 +914,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -932,7 +957,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -963,7 +989,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1007,7 +1034,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1025,7 +1053,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1116,7 +1145,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1168,7 +1198,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1179,7 +1210,6 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
         <li>Internal Pouches</li>
       </ul>
     </div>
-
   </div>
 </div>
 <div class="grid-container">
@@ -1250,7 +1280,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1315,7 +1346,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1355,7 +1387,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1474,7 +1507,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1557,7 +1591,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1701,7 +1736,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1729,7 +1764,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1743,7 +1779,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1772,7 +1809,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1801,7 +1838,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1852,7 +1890,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1897,5 +1936,8 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
   <li><span id="thirtythree"></span>Human Factors and Ergonomics Society. (2007). Human Factors Engineering of Computer Workstations. ANSI/HFES 100-2007.  <a href="#endnote33">[Return to endnote 33]</a></li>
 </ol>
 
-<h3>RADx Tech Accessibility Program Webinar</h3>
-<p>On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled “COVID-19 Accessible Testing – Best Practices.” This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 “Best Practices for the Design of Accessible COVID-19 Home Tests” publication. The materials are available as a  <a target="_blank" href="https://youtube.com/watch?v=Mn0YXHoApMY">webinar recording on YouTube</a> and as <a target="_blank" href="/files/mde/BestPracticesWebinar_2023-02-28_Outline.pdf">presentation slides in a PDF format.</a></p>
+---
+
+### RADx Tech Accessibility Program Webinar
+
+On February 28th, 2023, NIH RADx Tech accessibility program team members delivered a webinar titled "COVID-19 Accessible Testing -- Best Practices."  This presentation was part of the 2023 RADx Tech Webinar Series and included a preview of key insights from the June 2023 "Best Practices for the Design of Accessible COVID-19 Home Tests" publication.  The materials are available as a [webinar recording on YouTube](https://youtube.com/watch?v=Mn0YXHoApMY) and as [presentation slides in a PDF format]({{ site.baseurl }}/files/mde/BestPracticesWebinar_2023-02-28_Outline.pdf).
