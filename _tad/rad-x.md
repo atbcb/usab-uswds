@@ -18,7 +18,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 {: .grid-line }
 
 ![RADx Accessibility Logo, which is abstract representation of four people with arms raised.  Four circles (each with a different color) at compass points of large rounded capital ex (using two of the colors).](../images/a11y-icon.png)
-{: .img-large }
+{: .img-med .center }
 
 ---
 
