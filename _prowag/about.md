@@ -16,7 +16,7 @@ redirect_from:
 
 {% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
 
-The Access Board has published new guidelines under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) that address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of public rights-of-way.  These guidelines also review shared use paths, which are designed primarily for use by bicyclists and pedestrians for transportation and recreation purposes.
+The Access Board has published new guidelines under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) that address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of public rights-of-way. These guidelines also review shared use paths, which are designed primarily for use by bicyclists and pedestrians for transportation and recreation purposes.
 
 ### Background
 
@@ -27,7 +27,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - March 28, 2011 -- The Board issues notice of [proposed rule on Shared Use Path Accessibility Guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001).
 - Decmber 5, 2011 -- The Board issues notice [reopening propoposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
 - February 13, 2013 -- The Board issues a [supplemental notice to to address shared use paths](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) in its rulemaking on public right-of-way.
-- August 8, 2023 -- The Board [publishes Final rule  in the Federal Register](https://www.federalregister.gov/d/2023-16149).
+- August 8, 2023 -- The Board [publishes Final rule in the Federal Register](https://www.federalregister.gov/d/2023-16149).
 
 ### Additional Resources
 
@@ -40,7 +40,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Table of Contents
 
-- [Preamble - Public Right-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)
+- [Preamble - Public Right-of-Way]({{ site.baseurl }}/prowag/preamble-prowag/)
 - [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
 - [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r2-scoping-requirements/)
 - [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements/)
