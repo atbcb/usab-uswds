@@ -9,7 +9,7 @@ excerpt: On the 33rd anniversary of the Americans with Disabilities Act (ADA),
   by the Air Carrier Access Act (ACAA), would require airlines to make
   lavatories . . .
 image: /images/uploads/airplanedeparture.jpg
-featured: true
+featured: false
 ---
 On the 33rd anniversary of the Americans with Disabilities Act (ADA), the U.S. Department of Transportation (DOT) announced a new rule which requires airline lavatories to be more accessible. This rulemaking, authorized by the Air Carrier Access Act (ACAA), would require airlines to make lavatories on new single-aisle aircraft large enough to permit a passenger with a disability and attendant, both equivalent in size to a 95th percentile male, to approach, enter, and maneuver within as necessary to use the aircraft lavatory. Vice President Kamala Harris and U.S. Transportation Secretary Pete Buttigieg previewed this rule at a White House ADA Anniversary event earlier this month.
 
