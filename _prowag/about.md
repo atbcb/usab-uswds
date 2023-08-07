@@ -40,7 +40,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Table of Contents
 
-- [Preamble - Public Rights-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)
+- [Preamble - Public Right-of-way]({{ site.baseurl }}/prowag/preamble-prowag/)
 - [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
 - [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r2-scoping-requirements/)
 - [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements/)
