@@ -4,17 +4,17 @@
   alt: "office building (photo from outside, showing a dramatic perspective on the leading edge corner)"
   link:  /buildings.html
 - title: "Information &amp; Communication Technology"
-  description: "ICT Accessibility Standards issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act."
+  description: "ICT accessibility standards issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act."
   image-file: highlights/ict-square.jpg
   alt: "refreshable braille keyboard (photo shows fingers on the i/o controls, and the edge of a computer keyboard positioned on top)"
   link: /ict.html
 - title: Transportation Vehicles
-  description: "ADA Guidelines for transportation vehicles and systems."
+  description: "ADA guidelines for transportation vehicles and systems."
   image-file: highlights/transportation-square.jpg
   alt: "woman in wheelchair about to get on a bus with ISA in window (photo)"
   link: /ada/vehicles/
 - title: "Streets &amp; Sidewalks"
-  description: "Accessibility Guidelines for public right-of-way and shared use paths."
+  description: "Accessibility guidelines for public right-of-way and shared use paths."
   image-file: highlights/cane-square.jpg
   alt: "cane trailing sidewalk (photo closeup on cane with red stripe and white bulb at end, in front of a blurred shoe)"
   link: /prowag/
