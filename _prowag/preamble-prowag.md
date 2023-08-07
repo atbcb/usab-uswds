@@ -2,6 +2,7 @@
 title: "Preamble - Public Right-of-way"
 order-number: 1
 ---
+
 ## Preamble to the Final Rule for Pedestrian Facilities in the Public Right-of-Way
 
 Published in the _Federal Register_ on August 11, 2023.
@@ -1363,13 +1364,13 @@ As the relevant analysis time periods can vary by provision, the costs and benef
 
 The impacts of the proposed guidelines on small governmental jurisdictions with a population of less than 50,000 are discussed below. This information is required by the Regulatory Flexibility Act (5 U.S.C. §603).
 
-##### 1\. Statement of the need for, and objectives of, the rule
+##### 1. Statement of the need for, and objectives of, the rule
 
 The Access Board's current accessibility guidelines, the 2004 ADA and ABA Accessibility Guidelines, were developed primarily for buildings and facilities on sites. Some of the requirements in the 2004 ADA and ABA Accessibility Guidelines can be readily applied to pedestrian facilities in the public right-of-way, but other requirements are developed specifically for pedestrian facilities in the public right-of-way and address conditions and constraints that exist in the public right-of-way.
 
 The Access Board is required to issue accessibility guidelines by the Americans with Disabilities Act (ADA) (42 U.S.C. §12204) and Section 502 of the Rehabilitation Act (29 U.S.C. §792) to ensure that newly constructed and altered facilities are readily accessible to and usable by pedestrians with disabilities.
 
-##### 2\. Statement of significant issues raised by public comments in response to the Initial Regulatory Flexibility Analysis
+##### 2. Statement of significant issues raised by public comments in response to the Initial Regulatory Flexibility Analysis
 
 The NPRM received 14 comments from entities considered "small", i.e., government entities with a population under 50,000. In these comments, the most common concern was about the cost of APS, although in at least some instances this was due to a misunderstanding that the final rule requires retrofitting equipment, which is not the case. This final rule applies only to new construction and alterations.
 
@@ -1377,11 +1378,11 @@ Other comments asked clarifying questions about definitions and the applicabilit
 
 The Access Board carefully considered all comments, including those from small government entities, and revised the final rule in light of those comments.  No changes were made, however, that solely affect small government entities.
 
-##### 3\. Response of the agency to any comments filed by the Chief Counsel for Advocacy of the Small Business Administration in Response to the Proposed Rule
+##### 3. Response of the agency to any comments filed by the Chief Counsel for Advocacy of the Small Business Administration in Response to the Proposed Rule
 
 No comments were filed by the Chief Counsel for Advocacy of the Small Business Administration in response to the proposed rule.
 
-##### 4\. Small governmental jurisdictions affected by proposed accessibility guidelines
+##### 4. Small governmental jurisdictions affected by proposed accessibility guidelines
 
 The number of small governmental jurisdictions with a population less than 50,000 affected by the proposed guidelines is shown in the table below.[^20]  The total number of jurisdictions with populations under 50,000 is 36,931.
 
@@ -1397,19 +1398,19 @@ More than 65 percent of municipal governments (12,701) and almost 75 percent of 
 
 In addition, some jurisdictions do not have full responsibility for all rights-of-way within their town or county boundaries, and accordingly would only be affected by this final rule with respect to the right-of-way that is in their purview. For example, in Delaware, North Carolina, and West Virginia, the State DOT is responsible for the management of roadways, which means that small governmental jurisdictions in these states[^21] are less likely to be burdened by the final rule, as the State DOTs may be primarily responsible for the affected infrastructure.
 
-##### 5\. Compliance requirements
+##### 5. Compliance requirements
 
 The public rights-of-way accessibility guidelines address the design, construction, and alteration of pedestrian facilities in the public right-of-way, including sidewalks, crosswalks, pedestrian overpasses and underpasses, curb ramps and blended transitions at crosswalks, pedestrian signals, street furniture (i.e., drinking fountains, public toilet facilities, tables, counters, and benches), pedestrian signs, transit stops and transit shelters for buses and light rail vehicles, on-street parking that is marked or metered, and passenger loading zones. The Section-by-Section Analysis of the preamble describes the proposed accessibility guidelines.  Compliance with the proposed accessibility guidelines is not mandatory until they are adopted, with or without additions and modifications, as accessibility standards by other federal agencies.  There are no reporting or recordkeeping requirements.
 
-##### 6\. Significant alternatives which minimize any significant economic impacts on small entities
+##### 6. Significant alternatives which minimize any significant economic impacts on small entities
 
 The regulatory assessment analyzes the following five requirements in the final rule that will have more than minimal impacts on state and local transportation departments:
 
-- *Accessible pedestrian signals and pedestrian pushbuttons required when pedestrian signals are newly installed or altered at signalized intersections*. Accessible pedestrian signals and pedestrian pushbuttons communicate the information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
-- *Pedestrian activated signals or raised crossings at roundabouts with pedestrian street crossings*. A roundabout is a circular intersection with yield control at entry, which permits a vehicle on the circulatory roadway to proceed, and with deflection of the approaching vehicle counter-clockwise around a central island. Pedestrian activated signals or raised crossings are required at roundabouts with pedestrian street crossings to facilitate crossing by pedestrians who are blind or have low vision. Some small governmental jurisdictions with a population less than 50,000 do construct roundabouts, and accordingly may be affected by this requirement, although they may only construct a small number of roundabouts.
-- *Accessible shared use paths located in the public right-of-way*. The shared use paths requirements that are likely to impose costs include those related to detectable warning surfaces, grade, and trail surface. The existing data suggests that shared use paths in small governmental jurisdictions are not necessarily any more or less compliant than all shared use paths in the U.S., suggesting that this will be an area of costs for small jurisdictions in line with the overall prevalence of shared use paths.
-- *One curb ramp per street crossing provided at each corner of intersections*. Existing guidelines allow for a single diagonal curb ramp serving street crossings; however, the final rule will require two parallel or perpendicular curb ramps. There is no requirement where no pedestrian crossing exists.
-- *On-street parking must meet minimum thresholds for the number of accessible spaces per block perimeter or other location*. On-street parking is typically found along the curbside in retail, office, and mixed-use areas, but it is unknown how common this type of parking is in small governmental jurisdictions.
+* _Accessible pedestrian signals and pedestrian pushbuttons required when pedestrian signals are newly installed or altered at signalized intersections._  Accessible pedestrian signals and pedestrian pushbuttons communicate the information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
+* _Pedestrian activated signals or raised crossings at roundabouts with pedestrian street crossings._  A roundabout is a circular intersection with yield control at entry, which permits a vehicle on the circulatory roadway to proceed, and with deflection of the approaching vehicle counter-clockwise around a central island. Pedestrian activated signals or raised crossings are required at roundabouts with pedestrian street crossings to facilitate crossing by pedestrians who are blind or have low vision. Some small governmental jurisdictions with a population less than 50,000 do construct roundabouts, and accordingly may be affected by this requirement, although they may only construct a small number of roundabouts.
+* _Accessible shared use paths located in the public right-of-way._  The shared use paths requirements that are likely to impose costs include those related to detectable warning surfaces, grade, and trail surface. The existing data suggests that shared use paths in small governmental jurisdictions are not necessarily any more or less compliant than all shared use paths in the U.S., suggesting that this will be an area of costs for small jurisdictions in line with the overall prevalence of shared use paths.
+* _One curb ramp per street crossing provided at each corner of intersections._  Existing guidelines allow for a single diagonal curb ramp serving street crossings; however, the final rule will require two parallel or perpendicular curb ramps. There is no requirement where no pedestrian crossing exists.
+* _On-street parking must meet minimum thresholds for the number of accessible spaces per block perimeter or other location._  On-street parking is typically found along the curbside in retail, office, and mixed-use areas, but it is unknown how common this type of parking is in small governmental jurisdictions.
 
 There are no significant alternatives that will minimize any significant impacts of these requirements on small governmental jurisdictions and achieve the objectives of the ADA, Section 504 of the Rehabilitation Act, and the ABA to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
 
@@ -1441,11 +1442,11 @@ General Counsel.
 
 Accordingly, for the reasons set forth in the preamble, the Access Board adds 36 CFR part 1190 to read as follows:
 
-#### Part 1190 Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
+Part 1190 Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-##### Sec. 1190.1 Accessibility Guidelines.  Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
+Sec. 1190.1 Accessibility Guidelines.  Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-#### Authority: 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq.
+#### Authority:  29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq.
 
 ---
 
