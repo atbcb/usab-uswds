@@ -12,7 +12,7 @@ excerpt: Today marks the 33rd anniversary of the Americans with Disabilities Act
   Board celebrates the ADA, which extended the Board's mission to . . .
 image: /images/uploads/ada-signing.jpg
 image_alt_text: George H.W. Bush signing the ADA in 1990
-featured: true
+featured: false
 ---
 Today marks the 33rd anniversary of the Americans with Disabilities Act (ADA), our nation’s first comprehensive civil rights law for people with disabilities that impacts millions of Americans. The ADA bans discrimination based on disability in the private sector and the state and local government sectors and requires access for all Americans to programs and services, facilities, transportation, employment, and communication. The U.S. Access Board celebrates the ADA, which extended the Board's mission to not only issue and enforce the [Architectural Barriers Act Accessibility Standards](https://www.access-board.gov/aba/) that ensure federal and federally leased buildings and facilities are accessible, but also issue the [ADA Accessibility Guidelines](https://www.access-board.gov/ada/) that apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions. 
 
