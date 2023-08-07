@@ -307,7 +307,7 @@ Where parking spaces are provided on a section of a *street* that is not part of
 | 101 to 150 | 5 |
 | 151 to 200 | 6 |
 | 201 and over | 4 percent of total |
-{: usa-table .usa-table--striped }
+{: .usa-table .usa-table--striped }
 
 ### R212 Passenger Loading Zones
 
