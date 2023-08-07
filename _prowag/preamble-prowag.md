@@ -5,7 +5,7 @@ order-number: 1
 
 ## Preamble to the Final Rule for Pedestrian Facilities in the Public Right-of-Way
 
-Published in the _Federal Register_ on August 11, 2023.
+Published in the _Federal Register_ on August 8, 2023.
 
 36 CFR Part 1190\
 Docket No. ATBCB 2011-0004
