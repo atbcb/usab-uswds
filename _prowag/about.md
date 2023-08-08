@@ -2,8 +2,8 @@
 title: "About"
 order-number: 0
 permalink: /prowag/
-file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
-file-description: Public Right-of-Way Accessibility Guidelines (with SUP)
+file: /files/prowag/2023-16149.pdf.pdf
+file-description: Public Right-of-Way Accessibility Guidelines as published in the Federal Register
 redirect_from:
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
@@ -20,14 +20,14 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Background
 
-- October 20, 1999 -- The Board [organizes](https://www.federalregister.gov/d/99-27329) the Public Rights-of-Way Access Advisory Committee.
-- January 10, 2001 -- The Public Rights-of-Way Access Advisory Committee submits its [report](/prowag/prowaac-report.html) to the Board.
-- June 17, 2002 -- The Board releases [draft guidelines](/prowag/draft-2002.html) for public comment.
-- November 23, 2005 -- The Board releases [revised draft guidelines](https://www.federalregister.gov/d/05-23161) for purposes of gathering information for a cost analysis.
-- March 28, 2011 -- The Board issues notice of [proposed rule on Shared Use Path Accessibility Guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001).
-- Decmber 5, 2011 -- The Board issues notice [reopening propoposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
-- February 13, 2013 -- The Board issues a [supplemental notice to to address shared use paths](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) in its rulemaking on public right-of-way.
 - August 8, 2023 -- The Board [publishes Final rule in the Federal Register](https://www.federalregister.gov/d/2023-16149).
+- February 13, 2013 -- The Board issues a [supplemental notice to to address shared use paths](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) in its rulemaking on public right-of-way.
+- Decmber 5, 2011 -- The Board issues notice [reopening propoposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
+- March 28, 2011 -- The Board issues notice of [proposed rule on Shared Use Path Accessibility Guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001).
+- November 23, 2005 -- The Board releases [revised draft guidelines](https://www.federalregister.gov/d/05-23161) for purposes of gathering information for a cost analysis.
+- June 17, 2002 -- The Board releases [draft guidelines](/prowag/draft-2002.html) for public comment.
+- January 10, 2001 -- The Public Rights-of-Way Access Advisory Committee submits its [report](/prowag/prowaac-report.html) to the Board.
+- October 20, 1999 -- The Board [organizes](https://www.federalregister.gov/d/99-27329) the Public Rights-of-Way Access Advisory Committee.
 
 ### Additional Resources
 
@@ -35,7 +35,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - Public Rights-of-Way Access Advisory Committee (PROWAAC) releases a Special Report on [Planning and Design for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/)
 - [Detectable Warnings Update]({{ site.baseurl }}/prowag/other/dw-update.html) (March 2014)
 - Department of Justice/Department of Transportation Joint Technical Assistance on the Title II of the Americans with Disabilities Act Requirements to Provide Curb Ramps when Streets, Roads, or Highways are Altered through Resurfacing [Statement](https://www.fhwa.dot.gov/civilrights/programs/ada/doj_fhwa_ta.cfm) and [Supplemental Q&A](https://www.ada.gov/doj-fhwa-ta-supplement-2015.html)
-- [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2013)
+- [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag-nprm/) (2013)
 - [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
 
 ### Table of Contents
