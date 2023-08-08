@@ -7,6 +7,7 @@ excerpt: President Joe Biden has appointed Olivia Mae M. Asuncion, AIA, as a
   Karen Braitmayer, who had been appointed by President Barack Obama and served
   as Board Chair and Vice-Chair in 2013 and 2012, respectively. Asuncion brings
   a breadth of knowledge in the architecture field and . . .
+image: /images/uploads/asuncion.png
 featured: true
 ---
 President Joe Biden has appointed [Olivia Mae M. Asuncion, AIA](https://www.access-board.gov/about/board-members/olivia-mae-m-asuncion/), as a Public Member to the U.S. Access Board. Asuncion succeeds Board Public Member Karen Braitmayer, who had been appointed by President Barack Obama and served as Board Chair and Vice-Chair in 2013 and 2012, respectively. Asuncion brings a breadth of knowledge in the architecture field and of experiences with an accessible design perspective.  
