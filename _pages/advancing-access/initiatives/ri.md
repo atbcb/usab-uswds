@@ -38,7 +38,7 @@ the Board intends to publish a notice of proposed rulemaking on accessibility gu
 The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/d/2023-10827) regarding the low transfer surface height for certain types of medical diagnostic equipment used by patients.  Public comments for the NPRM are due by **August 31, 2023**.  Visit the Board's
 [May 23, 2023 news release]({{ site.baseurl }}/news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
 and
-[August 2, 2023 news release]{{ site.baseurl }}/news/2023/08/02/u-s-access-board-extends-public-comment-period-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
+[August 2, 2023 news release]({{ site.baseurl }}/news/2023/08/02/u-s-access-board-extends-public-comment-period-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
 for more information.
 
 ### Self-service Transaction Machines
