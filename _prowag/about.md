@@ -2,7 +2,7 @@
 title: "About"
 order-number: 0
 permalink: /prowag/
-file: /files/prowag/2023-16149.pdf.pdf
+file: /files/prowag/2023-16149.pdf
 file-description: Public Right-of-Way Accessibility Guidelines as published in the Federal Register
 redirect_from:
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
