@@ -28,7 +28,7 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
 
 Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for local and long-distance traveling. It is crucical that these charging stations be accessible for people with disabilities. In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that covers existing requirements and new recommendations for making EV charging stations accessible.  As indicated in the
-[Board’s 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
+[Board’s Spring 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
 the Board intends to publish a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
 
 ### Medical Diagnostic Equipment
