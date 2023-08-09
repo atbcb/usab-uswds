@@ -11,7 +11,7 @@ excerpt: Available now and hosted by the U.S. Access Board, the Best Practices
 image: /images/uploads/illustrations-with-context.png
 image_alt_text: Line drawings of a swab inserted into a nostril and a fluid vial
   held between fingertips with blue arrows.
-featured: true
+featured: false
 ---
 Available now and hosted by the U.S. Access Board, the [Best Practices for the Design of Accessible COVID-19 Home Tests](https://www.access-board.gov/tad/radx/) document aims to ensure that more people can access and use COVID-19 home tests, including those who have no vision or low vision, have a reduced range of dexterity or motor skills, and are aging.
 
