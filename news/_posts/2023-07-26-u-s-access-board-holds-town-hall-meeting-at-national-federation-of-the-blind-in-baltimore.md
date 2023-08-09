@@ -11,7 +11,7 @@ excerpt: Yesterday, the U.S. Access Board held its 2023 town hall meeting at the
 image: /images/uploads/baltimore-town-hall.png
 image_alt_text: Board members seated at a head table and members of the public
   in chairs facing the head table.
-featured: true
+featured: false
 ---
 Yesterday, the U.S. Access Board held its 2023 town hall meeting at the national headquarters of the [National Federation of the Blind (NFB)](https://nfb.org/) in Baltimore, MD. Eleven presidentially appointed Public Board Members were present, as well as Federal Member and Board Vice-Chair **Katy Kale**, Deputy Administrator at the General Services Administration (GSA), and representatives from U.S. Department of Commerce and Department of Interior. 
 
