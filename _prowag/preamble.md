@@ -1,10 +1,10 @@
 ---
-title: About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
+title: PROWAG Preamble
 order-number: 2
 permalink: /prowag/preamble.html
 ---
 
-## {{ page.title }}
+## Preamble to the Final Rule for Pedestrian Facilities in the Public Right-of-Way
 
 Published in the _Federal Register_ on August 8, 2023.
 
@@ -62,7 +62,7 @@ In addition, the federal government similarly lacks accessibility criteria for p
 
 ### III. Rulemaking History
 
-The Access Board began developing accessibility guidelines for pedestrian facilities in public rights-of-way shortly after the ADA was enacted in 1990.  In 1992, the Board issued proposed guidelines for state and local government facilities, including pedestrian facilities in public rights-of-way, followed by interim guidelines in 1994 that also contained provisions for public rights-of-way. 57 FR 60612 (December 21, 1992); 59 FR 31676 (June 20, 1994). 
+The Access Board began developing accessibility guidelines for pedestrian facilities in public rights-of-way shortly after the ADA was enacted in 1990.  In 1992, the Board issued proposed guidelines for state and local government facilities, including pedestrian facilities in public rights-of-way, followed by interim guidelines in 1994 that also contained provisions for public rights-of-way.  57 FR 60612 (December 21, 1992); 59 FR 31676 (June 20, 1994). 
 
 In response to the proposed and interim guidelines, the Board received numerous public comments that indicated a need for further outreach, education, and research on accessible pedestrian facilities in public rights-of-way.  Consequently, when the Board issued its first final guidelines for state and local government facilities in 1998, the requirements for pedestrian facilities in the public right-of-way were not included. 63 FR 2000 (January 13, 1998). 
 
@@ -72,7 +72,7 @@ In 2001, the advisory committee presented its consensus recommendations to the B
 
 Following the 2005 release, the Access Board continued to further improve the draft guidelines, engaging numerous stakeholders and sponsoring research on various key provisions. The Access Board also engaged in substantial education and outreach efforts, conducting training programs around the country, and answering questions on its technical assistance hotline.  In July 2007, the Public Rights-of-Way Access Advisory Committee released a 108-page planning and design guide for alterations based on the 2005 draft guidelines.
 
-In July 2011, the Access Board initiated the instant rulemaking, issuing a Notice of Proposed Rulemaking for Accessibility Guidelines for Public Rights-of-Way (NPRM). _See_ 76 FR 44664 (July 26, 2011); Notice of Proposed Rulemaking -- Correction, 76 FR 45481 (July 29, 2011).  The NPRM was supported by a regulatory analysis based in part on cost estimates provided through a 2010 interagency agreement with the Volpe National Transportation Systems Center (Volpe Center).  _See_ Regulatory Assessment of Proposed Guidelines for Pedestrian Facilities in the Public Right-of-Way & Appendix (June 2011); Volpe Center, "Cost Analysis of Public Rights-of-Way Accessibility Guidelines" (November 29, 2010), _both available at_ <http://www.regulations.gov> in [rulemaking docket (ATBCB-2011-0004)](https://www.regulations.gov/docket/ATBCB-2011-0004).
+In July 2011, the Access Board initiated the instant rulemaking, issuing a Notice of Proposed Rulemaking for Accessibility Guidelines for Public Rights-of-Way (NPRM).  _See_ 76 FR 44664 (July 26, 2011); Notice of Proposed Rulemaking -- Correction, 76 FR 45481 (July 29, 2011).  The NPRM was supported by a regulatory analysis based in part on cost estimates provided through a 2010 interagency agreement with the Volpe National Transportation Systems Center (Volpe Center).  _See_ Regulatory Assessment of Proposed Guidelines for Pedestrian Facilities in the Public Right-of-Way & Appendix (June 2011); Volpe Center, "Cost Analysis of Public Rights-of-Way Accessibility Guidelines" (November 29, 2010), _both available at_ [https://www.regulations.gov](https://www.regulations.gov/docket/ATBCB-2011-0004) in rulemaking docket (ATBCB-2011-0004).
 
 The NPRM requested public comments on all provisions of the proposed Accessibility Guidelines for Public Rights-of-Way (proposed rule or proposed guidelines).  In particular, the Access Board sought comments from regulated entities, including state and local governments, on the costs and impacts of certain portions of the proposed rule. The comment period ended on November 23, 2011, and was subsequently reopened until February 2, 2012.[^2]  During the two comment periods, 460 commenters submitted approximately 600 comments. The Board also held public hearings in Dallas, Texas and Washington, D.C. in fall 2011.
 
