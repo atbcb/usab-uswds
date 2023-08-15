@@ -8,7 +8,7 @@ excerpt: The Department of Justice (DOJ) has issued a notice of proposed
   aims to improve web and mobile applications (apps) access for people with
   disabilities and clarify how public entities, primarily state and local
   governments, can meet their existing ADA obligations as many of their
-  activities shift online. Public comments for the NPRM are due by October 4,
+  activities shift online. Public comments are due by October 4,
   2023. . . .
 image: /images/uploads/doj-logo.png
 image_alt_text: Logo of Department of Justice
