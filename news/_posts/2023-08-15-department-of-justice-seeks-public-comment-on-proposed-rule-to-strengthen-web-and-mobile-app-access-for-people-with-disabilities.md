@@ -14,7 +14,7 @@ image: /images/uploads/doj-logo.png
 image_alt_text: Logo of Department of Justice
 featured: false
 ---
-The Department of Justice (DOJ) has issued a notice of proposed rulemaking under Title II of the Americans with Disabilities Act (ADA) that aims to improve web and mobile applications (apps) access for people with disabilities and clarify how public entities, primarily state and local governments, can meet their existing ADA obligations as many of their activities shift online. Public comments for the NPRM are due by **October 4, 2023**. 
+The Department of Justice (DOJ) has issued a notice of proposed rulemaking under Title II of the Americans with Disabilities Act (ADA) that aims to improve web and mobile applications (apps) access for people with disabilities and clarify how public entities, primarily state and local governments, can meet their existing ADA obligations as many of their activities shift online. Public comments are due by **October 4, 2023**. 
 
 Across the U.S., people routinely rely on web and mobile apps to access a variety of vital public programs and services, such as employment and educational resources, voting information, health and emergency services, parking, and transit schedules. The proposed rule is particularly significant in the wake of the pandemic, as public entities have significantly increased the scope of essential services and programs offered through the web and mobile apps. It is critical for these technologies to be accessible for people with disabilities.  
 
