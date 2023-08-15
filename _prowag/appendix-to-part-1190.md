@@ -1,6 +1,7 @@
 ---
-title: "Appendix to Part 1190"
-order-number: 9
+title: Appendix to Part 1190
+order-number: 2
+permalink: /prowag/appendix.md
 ---
 
 ## § 1190.1 Accessibility Guidelines
