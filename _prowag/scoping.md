@@ -1,10 +1,4 @@
----
-title: "Chapter R2: Scoping Requirements"
-order-number: 5
-permalink: /prowag/scoping.html
----
-
-## {{ page.title }}
+## Chapter R2: Scoping Requirementse
 
 ### R201 General
 
