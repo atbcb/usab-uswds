@@ -1,6 +1,7 @@
 ---
 title: "Chapter R4: Supplemental Technical Requirements"
-order-number: 40
+order-number: 7
+permalink: /prowag/supplemental.html
 ---
 
 ## {{ page.title }}
