@@ -1,10 +1,4 @@
----
-title: "Chapter R3: Technical Requirements"
-order-number: 6
-permalink: /prowag/technical.html
----
-
-## {{ page.title }}
+## Chapter R3: Technical Requirements
 
 ### R301 General
 
