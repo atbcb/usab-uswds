@@ -172,7 +172,7 @@ EXCEPTION:  Where the *curb ramp* length must exceed 15 feet (4.6 m) to achieve 
 
 ##### R304.2.2 Cross Slope
 
-The *cross slope* of a *curb ramp* run shall be 1:48 (2.1) maximum.
+The *cross slope* of a *curb ramp* run shall be 1:48 (2.1%) maximum.
 
 EXCEPTION: At *crosswalks*, the *cross slope* of the *curb ramp* run shall be permitted to be equal to or less than the *cross slope* of the *crosswalk* as specified by R302.5.
 
