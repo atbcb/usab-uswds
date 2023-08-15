@@ -1,5 +1,5 @@
 ---
-title: About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
+title: About PROWAG
 order-number: 1
 permalink: /prowag/
 file: /files/prowag/2023-16149.pdf
@@ -12,7 +12,7 @@ redirect_from:
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/about-this-rulemaking/
 ---
 
-## {{ page.title }}
+## About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
 
 {% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
 
