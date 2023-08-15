@@ -1,6 +1,7 @@
 ---
 title: "Chapter R1: Application and Administration"
-order-number: 10
+order-number: 4
+permalink: /prowag/application.html
 ---
 
 ## {{ page.title }}
