@@ -11,12 +11,12 @@ Appendix to Part 1190 -- Accessibility Guidelines for Pedestrian Facilities in t
 
 **Authority:** 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq
 
-{% include_relative {{ site.baseurl}}/prowag/appendix.html %}
+{% include_relative appendix.md %}
 
-{% include_relative {{ site.baseurl}}/prowag/application.html %}
+{% include_relative application.md %}
 
-{% include_relative {{ site.baseurl}}/prowag/scoping.html %}
+{% include_relative scoping.md %}
 
-{% include_relative {{ site.baseurl}}/prowag/technical.html %}
+{% include_relative technical.md %}
 
-{% include_relative {{ site.baseurl}}/prowag/supplemental.html %}
+{% include_relative supplemental.md %}
