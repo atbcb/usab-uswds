@@ -1,9 +1,10 @@
 ---
-title: "Preamble - Public Right-of-way"
+title: About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
 order-number: 1
+permalink: /prowag/preamble.html
 ---
 
-## Preamble to the Final Rule for Pedestrian Facilities in the Public Right-of-Way
+## {{ page.title }}
 
 Published in the _Federal Register_ on August 8, 2023.
 
