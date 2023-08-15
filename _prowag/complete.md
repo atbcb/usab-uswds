@@ -11,8 +11,8 @@ Appendix to Part 1190 -- Accessibility Guidelines for Pedestrian Facilities in t
 
 **Authority:** 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq
 
-{% include_relative appendix.html %}
-{% include_relative application.html %}
-{% include_relative scoping.html %}
-{% include_relative technical.html %}
-{% include_relative supplemental.html %}
+{% include_relative appendix.md %}
+{% include_relative application.md %}
+{% include_relative scoping.md %}
+{% include_relative technical.md %}
+{% include_relative supplemental.md %}
