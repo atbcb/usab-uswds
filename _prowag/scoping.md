@@ -321,5 +321,3 @@ Where provided on *pedestrian circulation paths*, *stairs* shall comply with R40
 #### R214.1 General
 
 Where provided on *pedestrian circulation paths*, handrails shall comply with R409.
-
----
