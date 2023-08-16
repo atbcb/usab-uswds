@@ -1,5 +1,5 @@
 ---
-title: PROWAG Preamble
+title: Preamble
 order-number: 2
 permalink: /prowag/preamble.html
 ---
