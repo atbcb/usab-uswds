@@ -7,9 +7,9 @@ permalink: /prowag/complete.html
 
 Sec. 1190.1 Accessibility Guidelines. 
 
-Appendix to Part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
+Appendix to Part 1190 --- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-**Authority:** 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 et seq
+**Authority:** 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 _et seq._
 
 {% include_relative appendix.md %}
 
