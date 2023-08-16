@@ -246,5 +246,3 @@ Vibrotactile
 
 Walk Interval
 : An interval during which the walking person (symbolizing “walk”) signal indication is displayed.
-
----
