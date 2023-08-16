@@ -13,5 +13,5 @@ Files **r0** through **r4** use frontmatter use *include_relative* for their con
 
 Frontmatter variables:
 - title -- entry used for left sidebar navigation
-- order -- sorts sidebar
+- order -- sorting index used for left sidebar navigation
 - permalink -- defines URL for webpage
