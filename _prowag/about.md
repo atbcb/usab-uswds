@@ -38,3 +38,10 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - Department of Justice/Department of Transportation Joint Technical Assistance on the Title II of the Americans with Disabilities Act Requirements to Provide Curb Ramps when Streets, Roads, or Highways are Altered through Resurfacing [Statement](https://www.fhwa.dot.gov/civilrights/programs/ada/doj_fhwa_ta.cfm) and [Supplemental Q&A](https://www.ada.gov/doj-fhwa-ta-supplement-2015.html)
 - [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag-nprm/) (2013)
 - [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
+
+### Table of Contents
+
+- [Chapter 1: Application and Administration](application.html)
+- [Chapter 2: Scoping Requirements](scoping.html)
+- [Chapter 3: Technical Requirements](technical.html)
+- [Chapter 4: Supplemental Technical Requirements](supplemental.html)
