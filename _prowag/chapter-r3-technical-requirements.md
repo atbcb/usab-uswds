@@ -381,7 +381,7 @@ Where *pedestrian* crossing is not intended, a *curb*-attached *pedestrian circu
 
 ##### R306.4.2 Crosswalk Treatments
 
-Each multi-lane segment of the *roundabout*containing a *crosswalk* shall provide a *crosswalk* treatment consisting of one or more of the following: a traffic control signal with a *pedestrian* *signal head*; a *pedestrian hybrid beacon*; a *pedestrian* actuated rectangular rapid flashing beacon; or a raised crossing.
+Each multi-lane segment of the *roundabout* containing a *crosswalk* shall provide a *crosswalk* treatment consisting of one or more of the following: a traffic control signal with a *pedestrian* *signal head*; a *pedestrian hybrid beacon*; a *pedestrian* actuated rectangular rapid flashing beacon; or a raised crossing.
 
 #### R306.5 Channelized Turn Lanes
 
