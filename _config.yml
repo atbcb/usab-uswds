@@ -76,19 +76,18 @@ primary_navigation:
   - name: Advancing Access
     children:
       - name: Rulemaking & Initiatives
-        url: /ri
+        url: /ri/
       - name: Outreach
-        url: /outreach
+        url: /outreach/
       - name: Research
-        url: /research
+        url: /research/
   - name: Guidelines & Standards
-    url: /gs/
     children:
       - name: ICT (§508 and §255)
         url: /ict/
-      - name: Americans with Disabilities Act
+      - name: Facilities, ADA
         url: /ada/
-      - name: Architectural Barriers Act
+      - name: Facilities, ABA
         url: /aba/
       - name: Transportation Vehicles
         url: /ada/vehicles/

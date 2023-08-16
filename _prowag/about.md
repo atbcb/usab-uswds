@@ -1,6 +1,6 @@
 ---
-title: "About"
-order-number: 0
+title: About PROWAG
+order-number: 1
 permalink: /prowag/
 file: /files/prowag/2023-16149.pdf
 file-description: Public Right-of-Way Accessibility Guidelines as published in the Federal Register
@@ -41,10 +41,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Table of Contents
 
-- [Preamble - Public Right-of-Way]({{ site.baseurl }}/prowag/preamble-prowag/)
-- [Chapter R1: Application and Administration]({{ site.baseurl }}/prowag/chapter-r1-application-and-administration/)
-- [Chapter R2: Scoping Requirements]({{ site.baseurl }}/prowag/chapter-r2-scoping-requirements/)
-- [Chapter R3: Technical Requirements]({{ site.baseurl }}/prowag/chapter-r3-technical-requirements/)
-- [Chapter R4: Supplemental Technical Requirements]({{ site.baseurl }}/prowag/chapter-r4-supplementary-technical-requirements/)
-
----
+- [Chapter 1: Application and Administration](application.html)
+- [Chapter 2: Scoping Requirements](scoping.html)
+- [Chapter 3: Technical Requirements](technical.html)
+- [Chapter 4: Supplemental Technical Requirements](supplemental.html)
