@@ -45,3 +45,5 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - [Chapter 2: Scoping Requirements](scoping.html)
 - [Chapter 3: Technical Requirements](technical.html)
 - [Chapter 4: Supplemental Technical Requirements](supplemental.html)
+
+---
