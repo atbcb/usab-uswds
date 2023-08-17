@@ -85,9 +85,9 @@ primary_navigation:
     children:
       - name: ICT (§508 and §255)
         url: /ict/
-      - name: Facilities, ADA
+      - name: Buildings and Sites (ADA)
         url: /ada/
-      - name: Facilities, ABA
+      - name: Buildings and Sites (ABA)
         url: /aba/
       - name: Transportation Vehicles
         url: /ada/vehicles/
