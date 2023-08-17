@@ -2,9 +2,9 @@
 permalink: /prowag/prowag.html
 layout: none
 ---
-# § 1190.1 Accessibility Guidelines
-
 {% include logo.html %}
+
+# § 1190.1 Accessibility Guidelines
 
 ## Appendix to Part 1190
 
