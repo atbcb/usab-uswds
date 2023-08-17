@@ -3,6 +3,8 @@ title: "§ 1190.1 Accessibility Guidelines"
 permalink: /prowag/test4.html
 layout: none
 ---
+{% asset usab-seal.svg class="float-right maxw-card-lg padding-left-2 padding-bottom-2" alt="United States Access Board circular star logo" %}
+
 ## Appendix to Part 1190
 
 **Authority:** 29 U.S.C. 792; 42 U.S.C. 12204; 42 U.S.C. 4151 _et seq._
