@@ -9,7 +9,7 @@ The main content is broken into stand-alone markdown files **without** frontmatt
 - technical -- chapter 3 of 4
 - supplement -- chapter 4 of 4
 
-Files **r0** through **r4** use frontmatter use *include_relative* for their content.
+Markdown files **r0** through **r4** use frontmatter and *include_relative* for their main content, and they _are_ listed in the left sidebar navigation.
 
 Frontmatter variables:
 - title -- entry used for left sidebar navigation
