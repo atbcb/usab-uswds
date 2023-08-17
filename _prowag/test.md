@@ -5,7 +5,7 @@ layout: none
 ---
 # {{ page.title }}
 
-{% asset usab-seal.svg class="float-right maxw-card-lg padding-left-2 padding-bottom-2" alt=" ![United States Access Board circular star logo]({{ site.baseurl }}/images/usab-seal.svg)
+![United States Access Board circular star logo]({{ site.baseurl }}/images/usab-seal.svg)
 {. .img-right }
 
 ## Appendix to Part 1190
