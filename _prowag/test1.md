@@ -1,7 +1,6 @@
 ---
 title: "§ 1190.1 Accessibility Guidelines"
 permalink: /prowag/test1.html
-toc: ""
 ---
 ## Appendix to Part 1190
 
