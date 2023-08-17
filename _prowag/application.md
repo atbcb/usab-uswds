@@ -1,9 +1,4 @@
----
-title: "Chapter R1: Application and Administration"
-order-number: 10
----
-
-## {{ page.title }}
+## Chapter 1:&nbsp; Application and Administration
 
 ### R101 Purpose and Application
 
@@ -251,5 +246,3 @@ Vibrotactile
 
 Walk Interval
 : An interval during which the walking person (symbolizing “walk”) signal indication is displayed.
-
----
