@@ -1,9 +1,4 @@
----
-title: "Chapter R4: Supplemental Technical Requirements"
-order-number: 40
----
-
-## {{ page.title }}
+## Chapter 4:&nbsp; Supplemental Technical Requirements
 
 ### R401 General
 
@@ -400,12 +395,7 @@ The International Symbol of Accessibility shall comply with R411 and Figure R411
 
 The symbol and its background shall have a non-glare finish. The symbol shall contrast with its background with either a light symbol on a dark background or a dark symbol on a light background.
 
-### Figure R411 International Symbol of Accessibility
+#### Figure R411 International Symbol of Accessibility
 
-{% include_cached figure-caption.html
- text="Figure R411 International Symbol of Accessibility"
- img-file="411.jpg"
- img-alt="International Symbol of Accessibility"
-%}
-
----
+![International Symbol of Accessibility]({{ site.baseurl }}/images/isa.jpg)
+{: .img-large }
