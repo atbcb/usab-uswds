@@ -9,7 +9,7 @@ order-number: 30
 
 #### R301.1 Scope
 
-The technical requirements in Chapter 3 shall apply where required by Chapter 2 or where referenced by a requirement in these guidelines.
+The technical requirements in Chapter 3 shall apply where required by Chapter 2 or where referenced by a requirement in these guidelines. 
 
 ### R302 Pedestrian Access Routes
 
