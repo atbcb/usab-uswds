@@ -23,7 +23,6 @@ layout: none
 - [Chapter 2: Scoping Requirements](#chapter-2-scoping-requirements)
 - [Chapter 3: Technical Requirements](#chapter-3-technical-requirements)
 - [Chapter 4: Supplemental Technical Requirements](chapter-4-supplemental-technical-requirements)
-
 ---
 
 {% include_relative application.md %}
