@@ -1,11 +1,10 @@
 ---
-title: "§ 1190.1 Accessibility Guidelines"
-permalink: /prowag/test.html
+permalink: /prowag/prowag.html
 layout: none
 ---
-# {{ page.title }}
+# § 1190.1 Accessibility Guidelines
 
-![United States Access Board circular star logo](../images/usab-seal.svg){: .img-right }
+{% include logo.html %}
 
 ## Appendix to Part 1190
 
@@ -18,7 +17,8 @@ layout: none
 - [Chapter 1: Application and Administration](#chapter-1-application-and-administration)
 - [Chapter 2: Scoping Requirements](#chapter-2-scoping-requirements)
 - [Chapter 3: Technical Requirements](#chapter-3-technical-requirements)
-- [Chapter 4: Supplemental Technical Requirements](chapter-4-supplemental-technical-requirements)
+- [Chapter 4: Supplemental Technical Requirements](#chapter-4-supplemental-technical-requirements)
+
 ---
 
 {% include_relative application.md %}
