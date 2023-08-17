@@ -5,11 +5,7 @@ layout: none
 ---
 # {{ page.title }}
 
-![United States Access Board circular star logo]({{ site.baseurl }}/images/usab-seal.svg)
-{: .img-right }
-
-![United States Access Board circular star logo](../images/usab-seal.svg)
-{: .img-right }
+![United States Access Board circular star logo](../images/usab-seal.svg){: .img-right }
 
 ## Appendix to Part 1190
 
