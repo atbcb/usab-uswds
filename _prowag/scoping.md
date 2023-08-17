@@ -1,4 +1,4 @@
-## Chapter 2:&nbsp; Scoping Requirementse
+## Chapter 2:&nbsp; Scoping Requirements
 
 ### R201 General
 
