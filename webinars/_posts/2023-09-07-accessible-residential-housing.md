@@ -57,6 +57,8 @@ Individuals may submit questions in advance of the session when they register fo
 
 [Rex Pace](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10680&ret=Accessible%20Residential%20Housing), Senior Advisory for Accessible Design, **U.S. Department of housing and Urban Development**
 
+[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Accessible%20Residential%20Housing), TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
+
 ### Session Questions
 
 This session is accepting questions from registered users. After you have registered to participate in this session, you can submit your questions on your **[Account Manager page](https://www.accessibilityonline.org/ao/accountManager/110952)**. Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
