@@ -1,9 +1,4 @@
----
-title: "Chapter R3: Technical Requirements"
-order-number: 30
----
-
-## {{ page.title }}
+## Chapter 3:&nbsp; Technical Requirements
 
 ### R301 General
 
@@ -681,5 +676,3 @@ Surfaces of vehicle pull-up spaces and the access aisles serving them shall comp
 Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* and *blended transition*s are used, they shall be provided in accordance with R203.6.1.4 and comply with R304, and shall not reduce the required width or length of access aisles. *Detectable warning surfaces* are not required on *curb ramps* and *blended transitions* used exclusively to connect access aisles to *pedestrian access routes*.
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
-
----

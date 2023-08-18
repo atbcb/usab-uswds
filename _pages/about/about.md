@@ -2,12 +2,9 @@
 title: About the U.S. Access Board
 banner-title: About the U.S. Access Board
 layout: page
-banner-title: About the U.S. Access Board
 toc: sidenav.html
 permalink: /about/
 ---
-
-
 {% asset usab-seal.svg class="float-right maxw-card-lg padding-left-2 padding-bottom-2" alt="United States Access Board circular star logo" %}
 
 The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards.&nbsp;
