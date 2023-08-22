@@ -3,6 +3,17 @@ title: "Preamble - Supplemental Notice on Shared Use Paths"
 order-number: 2
 version: improved
 ---
+<div class="usa-alert usa-alert--warning">
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Caution</h4>
+    <p class="usa-alert__text">
+      This resource is the 2013 Supplemental Notice of Proposed Rulemaking.
+      <em>It is <strong>not</strong> the most current version.</em>
+      As of August 8, 2023, the <a href="{{ site.baseurl }}/prowag/">Final Rule on Public Right-of-Way Accessibility Guidelines</a> is available.
+    </p>
+  </div>
+</div>
+
 ### 1. Executive Summary
 
 This supplemental notice of proposed rulemaking (SNPRM) proposes to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See 76 FR 44664 (July 26, 2011). A copy of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way with the specific provisions for shared use paths proposed in the SNPRM is available below.
