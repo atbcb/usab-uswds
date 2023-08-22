@@ -1,50 +1,53 @@
 ---
 title: "Chapter R1: Application and Administration"
-order-number: 1
-redirect_from:
-  - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/chapter-r1-application-and-administration/
+order-number: 11
+version: improved
 ---
+<div class="usa-alert usa-alert--warning">
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Caution</h4>
+    <p class="usa-alert__text">
+      This resource is the 2013 Supplemental Notice of Proposed Rulemaking.
+      <em>It is <strong>not</strong> the most current version.</em>
+      As of August 8, 2023, the <a href="{{ site.baseurl }}/prowag/">Final Rule on Public Right-of-Way Accessibility Guidelines</a> is available.
+    </p>
+  </div>
+</div>
 
 ### R101 Purpose
 
 #### R101.1 General
-This document contains scoping and technical
-requirements to ensure that facilities for pedestrian circulation and
-use located in the public right-of-way are readily accessible to and
-usable by pedestrians with disabilities. Compliance with this document
-is mandatory when required by regulations issued by federal agencies
-that include accessibility standards for the design, construction, and
-alteration of pedestrian facilities in the public right-of-way.
 
-{:.advisory}
-**Advisory R101.1 General.** Sections marked as "advisory" contain advisory information related to the preceding section. Advisory sections do not establish mandatory requirements. Some advisory sections reference related mandatory requirements to alert readers about those requirements.
+This document contains scoping and technicalrequirements to ensure that facilities for pedestrian circulation and use located in the public right-of-way are readily accessible to and usable by pedestrians with disabilities.  Compliance with this document is mandatory when required by regulations issued by federal agencies that include accessibility standards for the design, construction, and alteration of pedestrian facilities in the public right-of-way.
+
+**Advisory R101.1 General.**  Sections marked as "advisory" contain advisory information related to the preceding section. Advisory sections do not establish mandatory requirements. Some advisory sections reference related mandatory requirements to alert readers about those requirements.
+{:.advisory }
 
 #### R101.2 Effect on Existing Facilities
-This document does not address
-existing facilities unless the facilities are included within the scope
+
+This document does not address existing facilities unless the facilities are included within the scope
 of an alteration undertaken at the discretion of a covered entity.
 
-{: .advisory}
-  **Advisory R101.2 Effect on Existing Facilities.** The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 of the Rehabilitation Act also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c).
+**Advisory R101.2 Effect on Existing Facilities.** The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 of the Rehabilitation Act also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c).
+{: .advisory }
 
 ### R102 Equivalent Facilitation
 
-The use of alternative designs,
-products, or technologies that result in substantially equivalent or
-greater accessibility and usability than the requirements in this
-document is permitted.
+The use of alternative designs, products, or technologies that result in substantially equivalent or greater accessibility and usability than the requirements in this document is permitted.
 
 ### R103 Conventions
 
 #### R103.1 Conventional Industry Tolerances
+
 Dimensions are subject to
 conventional industry tolerances except where dimensions are stated as a
 range.
 
-{: .advisory}
 **Advisory R103.1 Conventional Industry Tolerances.** Conventional industry tolerances include tolerances for field conditions and tolerances that may be a necessary consequence of a particular manufacturing process. Conventional industry tolerances do not apply to design work.
+{: .advisory}
 
 #### R103.2 Calculation of Percentages
+
 Where the required number of
 elements or facilities to be provided is determined by calculations of
 ratios or percentages and remainders or fractions result, the next

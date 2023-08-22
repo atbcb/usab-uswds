@@ -4,14 +4,7 @@ order-number: 1
 permalink: /prowag/
 file: /files/prowag/2023-16149.pdf
 file-description: Public Right-of-Way Accessibility Guidelines as published in the Federal Register
-redirect_from:
-    - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
-    - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
-    - /guidelines-and-standards/streets-sidewalks/shared-use-paths/
-    - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/
-    - /guidelines-and-standards/streets-sidewalks/shared-use-paths/about-this-rulemaking/
 ---
-
 ## About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
 
 {% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
@@ -21,7 +14,8 @@ The Access Board has published new guidelines under the Americans with Disabilit
 ### Background
 
 - August 8, 2023 -- The Board [publishes Final rule in the Federal Register](https://www.federalregister.gov/d/2023-16149).
-- February 13, 2013 -- The Board issues a [supplemental notice to address shared use paths](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) in its rulemaking on public right-of-way.
+- February 13, 2013 -- The Board publishes a [Proposed Draft Accessibility Guidelines for the Public Right-of-Way](./proposed/) in its rulemaking on public right-of-way.
+- February 13, 2013 -- The Board issues a [supplemental notice to address shared use paths](https://www.regulations.gov/document/ATBCB-2013-0002-0001)) in its rulemaking on public right-of-way.
 - December 5, 2011 -- The Board issues notice [reopening proposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
 - March 28, 2011 -- The Board issues notice of [proposed rule on Shared Use Path Accessibility Guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001).
 - November 23, 2005 -- The Board releases [revised draft guidelines](https://www.federalregister.gov/d/05-23161) for purposes of gathering information for a cost analysis.
