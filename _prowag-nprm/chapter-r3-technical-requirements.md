@@ -3,13 +3,22 @@ title: "Chapter R3: Technical Requirements"
 order-number: 13
 version: improved
 ---
+<div class="usa-alert usa-alert--warning">
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Caution</h4>
+    <p class="usa-alert__text">
+      This resource is the 2013 Supplemental Notice of Proposed Rulemaking.
+      <em>It is <strong>not</strong> the most current version.</em>
+      As of August 8, 2023, the <a href="{{ site.baseurl }}/prowag/">Final Rule on Public Right-of-Way Accessibility Guidelines</a> is available.
+    </p>
+  </div>
+</div>
+
 ### R301 General
 
 #### R301.1 Scope
 
-The technical requirements in Chapter 3 shall apply
-where required by Chapter 2 or where referenced by a requirement in this
-document.
+The technical requirements in Chapter 3 shall apply where required by Chapter 2 or where referenced by a requirement in this document.
 
 ### R302 Pedestrian Access Routes
 
