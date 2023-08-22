@@ -1,0 +1,11 @@
+---
+permalink: /prowag/test.html
+toc-group: sfv
+---
+{% assign chapters = site.prowag | where: "toc-group","prowag" | sort:"order-number" %}
+{% for chapter in chapters %}
+    <div class="chapter">
+        <h1>{{chapter.title}}</h1>
+        {{chapter.content | markdownify}}
+    </div>
+{% endfor %}
