@@ -1,6 +1,7 @@
 ---
 title: "Preamble - Public Rights-of-way"
-order-number: 0.1
+order-number: 2
+version: improved
 ---
 ## Proposed Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
