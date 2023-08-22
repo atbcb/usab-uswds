@@ -1,11 +1,12 @@
 ---
 title: "Chapter R4: Supplemental Technical Requirements"
-order-number: 4
+order-number: 14
 version: improved
 ---
 ### R401 General
 
 #### R401.1 Scope
+
 The supplemental technical requirements in Chapter 4
 shall apply where required by Chapter 2 or where referenced by a
 requirement in this document.
@@ -13,9 +14,11 @@ requirement in this document.
 ### R402 Protruding Objects
 
 #### R402.1 General
+
 Protruding objects shall comply with R402.
 
 #### R402.2 Protrusion Limits
+
 Objects with leading edges more than 685
 mm (2.25 ft) and not more than 2 m (6.7 ft) above the finish surface
 shall protrude 100 mm (4 in) maximum horizontally into pedestrian
