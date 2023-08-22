@@ -11,7 +11,7 @@ file-description: 2013 Draft Public Right-of-Way Accessibility Guidelines (with 
   <div class="usa-alert__body">
     <h4 class="usa-alert__heading">Caution</h4>
     <p class="usa-alert__text">
-      This resource is the 2013 Supplemental Notice of Proposed Rulemaking.  <em>It is <stong>not</stong> the most current version.</em>
+      This resource is the 2013 Supplemental Notice of Proposed Rulemaking.  <em>It is <strong>not</strong> the most current version.</em>
     </p>
   </div>
 </div>
