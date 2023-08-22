@@ -5,13 +5,13 @@ permalink: /prowag/proposed/
 file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
 file-description: 2013 Draft Public Right-of-Way Accessibility Guidelines (with SUP)
 ---
-### About the 2013 *_Draft_* Accessibility Guidelines for the Public Right-of-Way
+### About the 2013 **_Draft_** Accessibility Guidelines for the Public Right-of-Way
 
 #### Caution ####
-{. .usa-alert_heading }
+{: .usa-alert_heading }
 
 This resource is the 2013 Supplemental Notice of Proposed Rulemaking.  _It is **not** the most current version_
-{. .usa-alert__text }
+{: .usa-alert__text }
 
 As of August 8, 2023, the [Final Rule on Public Right-of-Way Accessibility Guidelines](..) is available.
 
