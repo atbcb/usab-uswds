@@ -1,11 +1,11 @@
 ---
-title: "About PROWAG Draft Guidelines"
+title: "About 2013 Proposed Guidelines"
 order-number: 0
-permalink: /prowag/snprm/
+permalink: /prowag/proposed/
 file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
 file-description: 2013 Draft Public Right-of-Way Accessibility Guidelines (with SUP)
 ---
-### About the *_Draft_* Accessibility Guidelines for the Public Right-of-Way
+### About the 2013 *_Draft_* Accessibility Guidelines for the Public Right-of-Way
 
 #### Caution ####
 {. .usa-alert_heading }
