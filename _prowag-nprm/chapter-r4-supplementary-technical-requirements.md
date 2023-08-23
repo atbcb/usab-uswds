@@ -1,11 +1,23 @@
 ---
 title: "Chapter R4: Supplemental Technical Requirements"
-order-number: 4
+order-number: 14
 version: improved
 ---
+<div class="usa-alert usa-alert--warning">
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Caution</h4>
+    <p class="usa-alert__text">
+      This resource is the 2013 Supplemental Notice of Proposed Rulemaking.
+      <em>It is <strong>not</strong> the most current version.</em>
+      As of August 8, 2023, the <a href="{{ site.baseurl }}/prowag/">Final Rule on Public Right-of-Way Accessibility Guidelines</a> is available.
+    </p>
+  </div>
+</div>
+
 ### R401 General
 
 #### R401.1 Scope
+
 The supplemental technical requirements in Chapter 4
 shall apply where required by Chapter 2 or where referenced by a
 requirement in this document.
@@ -13,9 +25,11 @@ requirement in this document.
 ### R402 Protruding Objects
 
 #### R402.1 General
+
 Protruding objects shall comply with R402.
 
 #### R402.2 Protrusion Limits
+
 Objects with leading edges more than 685
 mm (2.25 ft) and not more than 2 m (6.7 ft) above the finish surface
 shall protrude 100 mm (4 in) maximum horizontally into pedestrian

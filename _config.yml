@@ -306,7 +306,7 @@ defaults:
       path: ""
       type: "prowag-rulemaking"
     values:
-      collection-title: "Public Rights-of-Way Accessibility Guideliness - Rulemaking"
+      collection-title: "Public Right-of-Way Accessibility Guideliness - Rulemaking"
       collection-folder: prowag-rulemaking
       layout: standards
       file-directory: /files/prowag/
