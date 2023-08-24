@@ -3,8 +3,8 @@ layout: post
 title: "U.S. Access Board Staff Present on Designing Accessible Electric Vehicle
   Charging Stations "
 date: 2023-08-24
-excerpt: he Joint Office of Energy and Transportation hosted the webinar
-  “Designing for Accessible EV Charging Stations”, and the recording is publicly
+excerpt: The Joint Office of Energy and Transportation hosted the webinar
+  “Designing for Accessible EV Charging Stations,” and the recording is publicly
   available. The webinar included a presentation by U.S. Access Board
   Transportation Systems Engineer Juliet Shoultz who discussed . . .
 image: /images/uploads/ev-charging-stations-pr.png
