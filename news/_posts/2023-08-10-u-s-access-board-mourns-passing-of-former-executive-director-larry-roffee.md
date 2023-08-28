@@ -10,7 +10,7 @@ excerpt: With deep sorrow, the U.S. Access Board announces the passing of former
   On August 9, 2023, Roffee passed peacefully in Billings, Montana while . . .
 image: /images/uploads/larry-and-maggie.png
 image_alt_text: Larry and Maggie on cruise ship
-featured: true
+featured: false
 ---
 With deep sorrow, the U.S. Access Board announces the passing of former Executive Director Larry Roffee. He was appointed Executive Director of the Board in November 1988 and held the position for 20 years before retiring from federal service in August 2008. Mr. Roffee served in the U.S. Army as a Second Lieutenant in Vietnam in 1969 and 1970 and was wounded in action in May 1970. On August 9, 2023, Roffee passed peacefully in Billings, Montana while on a cross country trip visiting national parks with his wife Maggie. 
 

@@ -11,7 +11,7 @@ excerpt: On August 12, 1968, President Lyndon Johnson signed the Architectural
   Congress to address access to the built environment by requiring . . .
 image: /images/uploads/lbj.jpg
 image_alt_text: Lyndon B. Johnson signing legislation
-featured: true
+featured: false
 ---
 On August 12, 1968, President Lyndon Johnson signed the Architectural Barriers Act (ABA) into law at his ranch in Stonewall, Texas, and remarked the next day “it is humane legislation—which had the unanimous support of both Houses of Congress. I am pleased and proud to sign it into law.” Tomorrow marks the 55th anniversary of the ABA, one of the earliest measures by Congress to address access to the built environment by requiring federal and federally leased facilities to be accessible for people with disabilities.  
 
