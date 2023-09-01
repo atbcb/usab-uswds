@@ -11,7 +11,7 @@ excerpt: The U.S. Access Board has extended its notice of proposed rulemaking
   MDE Accessibility Standards require . . .
 image: /images/uploads/diagnostic-room.jpg
 image_alt_text: Medical room with diagnostic equipment
-featured: true
+featured: false
 ---
 The U.S. Access Board has extended its [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment (MDE)](https://www.federalregister.gov/documents/2023/08/01/2023-16218/standards-for-accessible-medical-diagnostic-equipment) for 30 days. The NPRM addresses one provision on the low transfer surface height for certain types of MDE used by patients in a supine, prone, side-lying, or seated position. Public comments for the NPRM are due by **August 31, 2023**.
 
