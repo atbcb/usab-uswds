@@ -13,7 +13,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Background
 
-- August 8, 2023 -- The Board [publishes Final rule in the Federal Register](https://www.federalregister.gov/d/2023-16149).
+- August 8, 2023 -- The Board [publishes final rule in the Federal Register](https://www.federalregister.gov/d/2023-16149).
 - February 13, 2013 -- The Board publishes a [Proposed Draft Accessibility Guidelines for the Public Right-of-Way](./proposed/) in its rulemaking on public right-of-way.
 - February 13, 2013 -- The Board issues a [supplemental notice to address shared use paths](https://www.regulations.gov/document/ATBCB-2013-0002-0001) in its rulemaking on public right-of-way.
 - December 5, 2011 -- The Board issues notice [reopening proposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
