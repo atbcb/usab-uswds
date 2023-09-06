@@ -22,8 +22,8 @@ The next meeting of the Board is scheduled for **Wednesday, October 25, 2023**. 
 - July 22 - 24, 2024, In-person, Washington, DC
 - October 28 - 30, 2024, Virtual
 - January 27 - 29, 2025, Virtual
-- April **TBD**, 2025, In-person, New Orleans, LA
-- July 21 - 23, 2025, In-person, Washington, DC
+- April 28 - 30, 2025, In-person, Washington, DC
+- July 8 - 10, 2025, New Orleans, LA
 - October 27 - 29, 2025, Virtual
 
 ## Board Meeting Archives
