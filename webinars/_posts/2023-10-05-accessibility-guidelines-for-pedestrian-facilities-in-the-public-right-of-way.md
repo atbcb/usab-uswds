@@ -36,15 +36,18 @@ webinar: true
 
 Pedestrians with disabilities throughout the United States continue to face major challenges in travel because many sidewalks, crosswalks, and other pedestrian facilities are inaccessible. Recently, the U.S. Access Board issued a final rule on the [Public Right-of-Way Accessibility Guidelines (PROWAG)](https://www.access-board.gov/prowag/). This session will address the requirements in these guidelines, specifically highlighting changes from the proposed draft that was published in 2013. Presenters from the Access Board will review many aspects of PROWAG, including how federal, state, and local government agencies can make their pedestrian facilities, such as sidewalks, crosswalks, shared use paths, and on-street parking, accessible to people with disabilities. Presenters will also cover the minimum technical requirements for various spaces and elements in the public right-of-way, such as pedestrian access routes, pedestrian signals, curb ramps and blended transitions, detectable warning surfaces, transit stops, and street furniture. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
+Session registration is expected to reach capacity quickly. Once registration is full, the Board will provide an option for viewing the webinar via Live YouTube Stream. A link to the YouTube Live Stream will be sent to [Access Board e-subscribers](If you would like to receive news on the Access Board, please sign up for the free e-subscription at: https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_1). Continuing Education Credit will not be available for viewing via YouTube and individuals will not be able to submit questions. The Great Lakes ADA Center is working with the U.S. Access Board to develop a series of "Self-Paced" training webinars covering the content of the PROWAG for credit. This opportunity will be announced when it becomes available.
+
 ### Continuing Education Recognition Available
 
 | **Certificate**             | **Credit hours** |
 | --------------------------- | ---------------- |
+| ACTCP                       | 1.5              |
 | AIA HSW CES                 | 1.5              |
 | California Architects Board | 1.5              |
 | Certificate of Attendance   | 1.5              |
 | ICC                         | 1.5              |
-| L﻿A CES                     | 1.5              |
+| L﻿A CES                      | 1.5              |
 
 ### Speakers
 
