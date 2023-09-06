@@ -30,6 +30,7 @@ tags:
 closed: false
 webinar-start: October 5, 2023 2:30 PM
 webinar-end: October 5, 2023 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111079
 webinar: true
 ---
 ### Description
