@@ -1454,10 +1454,10 @@ Sec. 1190.1 Accessibility Guidelines.  Appendix to part 1190 -- Accessibility Gu
 
 ---
 
-### Preamble End Notes
-
 \[FR Doc. 2023–16149 Filed 8–7–23; 8:45 am] \
 BILLING CODE 8150–01–P
+
+### Preamble End Notes
 
 [^1]: The following organizations were members of the advisory committee:  AARP, America Walks, American Association of State Highway and Transportation Officials, American Council of the Blind, American Institute of Architects, American Public Transit Association, American Public Works Association, Association for Education and Rehabilitation of the Blind and Visually Impaired, Bicycle Federation of America, Californians for Disability Rights, Canadian Standards Association (Technical Committee on Barrier-Free Design), City of Birmingham (Department of Planning, Engineering and Permits), Council of Citizens with Low Vision International, Disability and Business Technical Assistance Centers, Disability Rights Education and Defense Fund, Federal Highway Administration, Hawaii Commission on Persons with Disabilities, Hawaii Department of Transportation, Institute of Traffic Engineers (now called Institute of Transportation Engineers), Los Angeles Department of Public Works (Bureau of Street Services), Massachusetts Architectural Access Board, Municipality of Anchorage, National Center for Bicycling and Walking, National Council on Independent Living, National Federation of the Blind, New York State Department of Transportation, Paralyzed Veterans of America, Portland Office of Transportation, San Francisco Mayor's Office on Disability, State of Alaska, TASH, Texas Department of Transportation, and The Seeing Eye.
 
@@ -1493,7 +1493,7 @@ BILLING CODE 8150–01–P
 
 [^16]: Albert Forde & Janice Daniel, Pedestrian Walking Speed at Un-signalized Midblock Crosswalk and Its Impact on Urban Street Segment Performance, 8 J.of Traffic and Transportation Eng., 57 (2021) _available at_ <https://www.sciencedirect.com/science/article/pii/S209575641830415X>.
 
-[^17]: _See_ AAA Foundation for Traffic Safety, Pedestrian Signal Safety for Older Adults at 19.
+[^17]: _See_ AAA Foundation for Traffic Safety, Pedestrian Signal Safety for Older Adults [at 19](#fnref:15).
 
 [^18]: The Board acknowledges an error in NPRM Figure R309.3 depicting a detectable warning surface on a curb ramp serving an access aisle.  Several commenters pointed out this error.  The error will be corrected in technical assistance materials made available on the Access Board's website in support of the final rule.
 
