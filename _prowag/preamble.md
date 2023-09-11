@@ -22,7 +22,9 @@ RIN 3014-AA26
 
 **SUMMARY:**  The Architectural and Transportation Barriers Compliance Board (Access Board or Board) issues its final rule that provides minimum guidelines for the accessibility of pedestrian facilities in the public right-of-way.  These guidelines, once adopted, would ensure that facilities used by pedestrians, such as sidewalks and crosswalks, constructed or altered in the public right-of-way by federal, state, and local governments are readily accessible to and usable by pedestrians with disabilities. When the guidelines are adopted, with or without modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with those enforceable accessibility standards is mandatory. 
 
-**DATES:**  The final rule is effective September 7, 2023. 
+**DATES:**  The final rule is effective October 7, 2023.[^1]
+
+[^1]: See: [88 FR 61470](https://www.federalregister.gov/d/2023-19250) correcting effective date for the rule.
 
 **FOR FURTHER INFORMATION CONTACT:**  Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111.  Telephone (202) 272-0025 (voice) or (202) 272-0028 (TTY).  E-mail address <row@access-board.gov>.
 
