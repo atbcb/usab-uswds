@@ -56,10 +56,10 @@ None of the information described above is expected to change should a lapse in 
 ### In order to ensure orderly operations are resumed once appropriations are restored, the following information is provided:
 
 - Agency personnel will be instructed to monitor news outlets regarding the status of the shutdown furlough and the specified day they are expected to return to work (normally the next scheduled workday after the furlough has ended).
-- Direct supervisors will perform accountability of employees
+- Direct supervisors will perform accountability of employees.
 - Should employees have problems returning to work on the specified day, supervisors shall use available flexibilities (including annual leave, compensatory time off, or credit hours), to the extent possible, to accommodate such employees.
 - Director of Administration will notify building management of return to work.
-- Chief Technology Officer will ensure servers and other information technology equipment is active and in normal operation
-- Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify agency Executive Director and Leadership (Directors should notify staff)
+- Chief Technology Officer will ensure servers and other information technology equipment is active and in normal operation.
+- Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify agency Executive Director and Leadership (Directors should notify staff).
 - Contracting Officer’s Representatives will notify agency contractors to resume activities.
 - Procedures for resuming program activities, including steps to ensure appropriate oversight and disbursement of funds.
