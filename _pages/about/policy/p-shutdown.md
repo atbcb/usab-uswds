@@ -10,18 +10,12 @@ permalink: /about/policy/shutdown.html
 
 September 13, 2019
 
-### U.S. Access Board Lapse Plan Summary Overview
-
+| U.S. Access Board Lapse Plan Summary Overview | |
 | --- | --- |
 | Estimated time (to nearest half day) required to complete shutdown activities: | 0.5 days |
 | Total number of agency employees expected to be on board before implementation of the plan: | 27 (and 13 SGEs) |
 | Total number of agency employees expected to be furloughed under the plan (unduplicated count):  | 27 (and 13 SGEs) |
-
-### Total number of employees to be retained under the plan for each of the following categories
-
-(may include duplicated counts)
-
-| --- | --- |
+| **Total number of employees to be retained under the plan for each of the following categories** (may include duplicated counts) | |
 | Compensation is financed by a resource other than annual appropriations: | 0 |
 | Necessary to perform activities expressly authorized by law: | 0 |
 | Necessary to perform activities necessarily implied by law: | 0 |
