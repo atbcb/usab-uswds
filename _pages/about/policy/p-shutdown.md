@@ -22,19 +22,6 @@ September 13, 2019
 | Necessary to the discharge of the President's constitutional duties and powers: | 0 |
 | Necessary to protect life and property: | 0 |
 
-| Lapse Plan Summary Overview | |
-| --- | --- |
-| Estimated time (to nearest half day) required to complete shutdown activities: | One-half day |
-| Total number of agency employees expected to be on board before implementation of the plan: | 28 (and 13 SGEs) |
-| **Total number of employees to be retained under the plan for each of the following categories:** | |
-| Compensation is financed by a resource other than annual appropriations: | N/A |
-| Necessary to perform activities expressly authorized by law: | 0 |
-| Necessary to the discharge of the President's constitutional duties and powers: | 0 |
-| Necessary to protect life and property: | 0 |
-| **Brief summary of significant agency activities that will continue during a lapse:** | None | 
-
-
-
 ### Brief summary of significant agency activities that will cease during a lapse:
 
 No agency significant agency activities will be continued during a lapse
