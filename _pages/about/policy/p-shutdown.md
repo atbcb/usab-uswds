@@ -27,11 +27,11 @@ September 13, 2023
 | Necessary to the discharge of the President's constitutional duties and powers: | 0 |
 | Necessary to protect life and property: | 0 |
 
-### Brief summary of significant agency activities that will cease during a lapse
+### Brief summary of significant agency activities that will continue during a lapse:
 
 No agency significant agency activities will be continued during a lapse.
 
-### Brief summary of significant agency activities that will cease during a lapse
+### Brief summary of significant agency activities that will cease during a lapse:
 
 During a shut-down, the Access Board will not be providing the following services:
 - Complaint processing under the Architectural Barriers Act
