@@ -8,7 +8,7 @@ permalink: /about/policy/shutdown.html
 
 # {{ page.title }}
 
-September 13, 2019
+September 13, 2023
 
 | U.S. Access Board Lapse Plan Summary Overview | |
 | --- | --- |
