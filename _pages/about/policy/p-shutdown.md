@@ -1,5 +1,5 @@
 ---
-title: U.S. Access Board Lapse Plan Summary Overview
+title: Shutdown Plan
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
@@ -9,7 +9,7 @@ permalink: /about/policy/shutdown.html
 
 September 13, 2023
 
-| Item | Quanity |
+| Lapse Plan Summary Overview |		|
 | --- | :---: |
 | Estimated time (to nearest half day) required to complete shutdown activities: | 0.5 days |
 | Total number of agency employees expected to be on board before implementation of the plan: | 27 (and 13 SGEs) |
