@@ -1,17 +1,14 @@
 ---
-title: Shutdown Plan
+title: U.S. Access Board Lapse Plan Summary Overview
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/policy/shutdown.html
 ---
-
 # {{ page.title }}
 
 September 13, 2023
 
-| U.S. Access Board Lapse Plan Summary Overview | |
-| --- | --- |
 | Estimated time (to nearest half day) required to complete shutdown activities: | 0.5 days |
 | Total number of agency employees expected to be on board before implementation of the plan: | 27 (and 13 SGEs) |
 | Total number of agency employees expected to be furloughed under the plan (unduplicated count):  | 27 (and 13 SGEs) |
@@ -41,14 +38,12 @@ During a shut-down, the Access Board will not be providing the following service
 
 None of the information described above is expected to change should a lapse in appropriations extend for a prolonged period of time.
 
-### In order to ensure orderly operations are resumed once appropriations are restored, the following information is provided:
-
-In order to execute an orderly shutdown in the event of a lapse in appropriations, the following information is provided: 
+### In order to execute an orderly shutdown in the event of a lapse in appropriations, the following information is provided:
 
 - Director of Administration will notify building management of shutdown status.
 - Director of Administration will notify all agency personnel of shutdown status and will initiate action to issue furlough notices and other instructions as appropriate.
 - Director of Administration will direct Contracting Officer’s Representatives to notify agency contractors of shutdown status and other instructions as appropriate.
--Chief Technology Officer will ensure servers and other information technology equipment are secured
+- Chief Technology Officer will ensure servers and other information technology equipment are secured.
 
 ### In order to ensure orderly operations are resumed once appropriations are restored, the following information is provided:
 
