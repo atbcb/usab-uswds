@@ -9,6 +9,7 @@ excerpt: "50 years ago, the Rehabilitation Act of 1973 was signed into law to
   Board (originally named the Architectural and Transportation Barriers
   Compliance Board) to ensure access to . . . "
 image: /images/uploads/keyboard-enter-button-accessibility.png
+image_alt_text: Aerial view of a roundabout Keyboard with the "enter" button modified to say "accessibility"
 featured: true
 ---
 50 years ago, the [Rehabilitation Act of 1973](https://www.access-board.gov/law/ra.html) was signed into law to require access to programs and activities that are funded by federal agencies and to federal employment. [Section 502 of the law](https://www.access-board.gov/law/ra.html#section-502-the-access-board) created the U.S. Access Board (originally named the Architectural and Transportation Barriers Compliance Board) to ensure access to federal buildings and facilities. Over the years, many amendments to the Rehabilitation Act strengthened requirements for accessibility, such as [Section 508](https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology) which requires access to information and communication technology (ICT) in the federal sector. 
