@@ -34,7 +34,7 @@ webinar: true
 
 Maps are important tools in providing information about the world. They help us travel from one location to another, organize information, and orient ourselves so that we can determine where we are and how to get to where we want to go. Federal and state agencies use maps to inform members of the public and policy makers, and to assist agency employees in conducting their missions by providing vital information. Online maps, designed without accessibility features, present barriers to individuals with disabilities.
 
-This session will introduce the concept, development, tools, and benefits of creating and using accessible maps. Presenters from the General Services Administration, the Federal Aviation Administration, and the Minnesota Department of Natural Resources of the State of Minnesota will discuss how they create accessible maps in different formats to meet their missions of informing and educating the public. Presenters will also review some barriers, solutions, and implications to making accessible data visualizations.
+This session will introduce the concept, development, tools, and benefits of creating and using accessible maps. Presenters from the Federal Aviation Administration and the Minnesota Department of Natural Resources of the State of Minnesota will discuss how they create accessible maps in different formats to meet their missions of informing and educating the public. Presenters will also review some barriers, solutions, and implications to making accessible data visualizations.
 
 During this webinar, presenters will share the following information.
 
@@ -56,8 +56,6 @@ This session is intended for entry-level to intermediate audiences, but all are 
 [Kelley Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11017&ret=Maps%20for%20All%20%E2%80%93%20Building%20Accessible%20Maps), Section 508 Application Testing Team Lead, CTFL, CTFL-AT, Certified Trusted Tester, **Federal Aviation Administration**
 
 [Amy Ellison](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11018&ret=Maps%20for%20All%20%E2%80%93%20Building%20Accessible%20Maps), Cartographer and Special Event Coordinator, **Minnesota Department of Natural Resources, State of Minnesota**
-
-[Aaron Myers](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11016&ret=Maps%20for%20All%20%E2%80%93%20Building%20Accessible%20Maps), Analyst, eRulemaking Program, Office of Regulation Management, **General Services Administration (GSA)**
 
 ### Session Questions
 
