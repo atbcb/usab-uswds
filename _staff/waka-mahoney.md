@@ -3,6 +3,7 @@ name: waka-mahoney
 first_name: Waka
 last_name: Mahoney
 full_name: Waka Mahoney
+image: /images/uploads/waka-mahoney.png
 job-title: Support Service Specialist
 office: Office of Administration
 ---
