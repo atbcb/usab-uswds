@@ -8,8 +8,9 @@ excerpt: "2023 marks 50 years of the Rehabilitation Act of 1973, a foundational
   activities that are funded by federal agencies and to federal employment. On
   March 23, 2010, President Barack Obama signed into law “The Patient Protection
   and Affordable Care Act,” which includes a provision to amend the
-  Rehabilitation Act with Section 510 that requires the Access Board to create
-  standards to ensure that medical diagnostic equipment is accessible . . . "
+  Rehabilitation Act with Section 510 that requires the U.S. Access Board to
+  create standards to ensure that medical diagnostic equipment is accessible . .
+  . "
 image: /images/uploads/diagnostic-room.jpg
 image_alt_text: Medical room with diagnostic equipment
 featured: true
