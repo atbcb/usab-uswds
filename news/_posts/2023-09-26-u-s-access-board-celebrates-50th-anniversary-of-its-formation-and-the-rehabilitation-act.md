@@ -29,3 +29,8 @@ In establishing the Board, Congress directed the agency to enforce the ABA. As o
 The Board is also responsible for [accessible design requirements for facilities](https://www.access-board.gov/ada/) and [transportation vehicles](https://www.access-board.gov/ada/vehicles/) under the Americans with Disabilities Act (ADA), [information and communication technology](https://www.access-board.gov/ict/) in the federal sector under Section 508 of the Rehabilitation Act, [medical diagnostic equipment](https://www.access-board.gov/mde/) under Section 510 of the Rehabilitation Act, and, most recently, [pedestrian facilities in the public right-of-way](https://www.access-board.gov/prowag/) under the ADA and ABA. 
 
 The Board commemorates the 50th anniversary of the Rehabilitation Act and continues to advance its mission of developing accessibility guidelines and promoting accessibility throughout society.
+
+*Other articles in this series* 
+
+* [50th Anniversary of the Rehabilitation Act and Advancing Access to Information and Communication Technology](https://www.access-board.gov/news/2023/09/19/50th-anniversary-of-the-rehabilitation-act-and-advancing-access-to-information-and-communication-technology/)
+* [U.S. Access Board Celebrates 50th Anniversary of its Formation and the Rehabilitation Act](https://www.access-board.gov/news/2023/09/26/u-s-access-board-celebrates-50th-anniversary-of-its-formation-and-the-rehabilitation-act/)
