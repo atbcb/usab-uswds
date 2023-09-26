@@ -15,6 +15,9 @@ image_alt_text: Logo of the U.S. Access Board is a blue and red star with the
   name of the agency circling the star
 featured: true
 ---
+
+*This article is part of a series on the 50th anniversary of the Rehabilitation Act*   
+
 Today marks the 50th anniversary of the [Rehabilitation Act of 1973](https://www.access-board.gov/law/ra.html), a federal law that prohibits discrimination on the basis of disability in programs conducted by federal agencies, programs receiving federal financial assistance, federal employment, and the employment practices of federal contractors. It was a milestone for individuals with disabilities across the nation, and it serves as the foundation for many other disability-related legislation. [Section 502 of the law](https://www.access-board.gov/law/ra.html#section-502-the-access-board) also created the U.S. Access Board (originally named the Architectural and Transportation Barriers Compliance Board) to ensure access to federal buildings and facilities under the [Architectural Barriers Act (ABA) of 1968](https://www.access-board.gov/aba/). 
 
 In establishing the Board, Congress directed the agency to enforce the ABA. As one of the first laws to address accessibility, the ABA required all federal buildings and facilities designed, built, or altered after August 12, 1968 to be accessible for people with disabilities. But comprehensive technical standards for implementing accessible design were initially unavailable and no oversight of federal agencies created minimal compliance. Congress determined that a central agency was needed to both establish and enforce accessibility requirements for facilities covered by the law. Thus, Congress included Section 502 in the Rehabilitation Act and created the Board. 
