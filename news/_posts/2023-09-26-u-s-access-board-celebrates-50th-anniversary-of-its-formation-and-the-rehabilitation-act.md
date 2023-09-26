@@ -33,4 +33,4 @@ The Board commemorates the 50th anniversary of the Rehabilitation Act and contin
 *Other articles in this series* 
 
 * [50th Anniversary of the Rehabilitation Act and Advancing Access to Information and Communication Technology](https://www.access-board.gov/news/2023/09/19/50th-anniversary-of-the-rehabilitation-act-and-advancing-access-to-information-and-communication-technology/)
-* [U.S. Access Board Celebrates 50th Anniversary of its Formation and the Rehabilitation Act](https://www.access-board.gov/news/2023/09/26/u-s-access-board-celebrates-50th-anniversary-of-its-formation-and-the-rehabilitation-act/)
+* [50th Anniversary of the Rehabilitation Act and Ensuring Access to Medical Diagnostic Equipment]( https://www.access-board.gov/news/2023/09/20/50th-anniversary-of-the-rehabilitation-act-and-ensuring-access-to-medical-diagnostic-equipment/)
