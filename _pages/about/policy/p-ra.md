@@ -10,7 +10,7 @@ permalink: /about/policy/ra.html
 
 ## 1. Purpose
 
-This document rescinds the current Reasonable Accommodation Procedures and replaces them with these policies and procedures for providing reasonable accommodations for Access Board employees and applicants for employment. The Access Board is committed to providing reasonable accommodation to its employees and applicants for employment in accordance with Section 501 of the Rehabilitation Act of 1973 (which requires federal agencies to provide reasonable accommodation for qualified employees or applicants with disabilities, unless to do so would cause undue hardship) and Executive Order 13164 (requiring agencies to establish effective written procedures for handling reasonable accommodation requests by employees and applicants for employment). The Access Board is updating these Procedures to make necessary changes and clarifications and to continue to ensure that reasonable accommodation requests are handled promptly and fairly. 
+This document rescinds the current Reasonable Accommodation Procedures and replaces them with these policies and procedures for providing reasonable accommodations for Access Board employees and applicants for employment.  The Access Board is committed to providing reasonable accommodation to its employees and applicants for employment in accordance with Section 501 of the Rehabilitation Act of 1973 (which requires federal agencies to provide reasonable accommodation for qualified employees or applicants with disabilities, unless to do so would cause undue hardship) and Executive Order 13164 (requiring agencies to establish effective written procedures for handling reasonable accommodation requests by employees and applicants for employment).  The Access Board is updating these Procedures to make necessary changes and clarifications and to continue to ensure that reasonable accommodation requests are handled promptly and fairly. 
 
 ## 2. Applicability 
 
@@ -31,12 +31,14 @@ Disability
 : A physical or mental impairment that substantially limits one or more major life activities, a record (a history) of such an impairment, or being regarded as having a disability.  An individual covered solely under the “regarded as” definition of disability is not entitled to reasonable accommodation.  Whether an individual has a disability is determined by reference to the Americans with Disabilities Act Amendments Act of 2008 (ADAAA) which requires a broad interpretation of the term and generally does not require an extensive analysis. 
 
 Essential Functions
-: Essential functions are those job duties that are fundamental to the position that an individual holds or desires. The term “essential functions” does not include marginal functions of the position. “Marginal functions” are those job duties that are less important or critical to the success or failure of the specific position. A function can be “essential” if, among other things: the position exists to perform the function; a limited number of other employees are available to perform the function; or the function requires highly specialized skills, and the individual is hired based on the ability to perform them. Evidence of whether a particular function is essential includes: 
-- the agency’s judgment (generally a supervisor’s, manager’s and/or office director’s judgment); 
-- a written position description developed before a job is advertised; 
-- the amount of time spent performing the function; 
+: Essential functions are those job duties that are fundamental to the position that an individual holds or desires. The term “essential functions” does not include marginal functions of the position. “Marginal functions” are those job duties that are less important or critical to the success or failure of the specific position. A function can be “essential” if, among other things: the position exists to perform the function; a limited number of other employees are available to perform the function; or the function requires highly specialized skills, and the individual is hired based on the ability to perform them. Evidence of whether a particular function is essential includes:
+
+- the agency’s judgment (generally a supervisor’s, manager’s and/or office director’s judgment);
+- a written position description developed before a job is advertised;
+- the amount of time spent performing the function;
 - the consequences of not requiring the person in the position to perform the function; or 
-- the work experience of past incumbents in the job or current incumbents in similar jobs. 
+- the work experience of past incumbents in the job or current incumbents in similar jobs.
+
 : Determination of whether a particular function is essential must be made on a case-by-case basis, since the duties of a specific job may deviate from what is indicated in a position description or from the duties of employees holding a similar job. 
 
 Extenuating Circumstances
