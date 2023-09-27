@@ -5,7 +5,8 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/policy/shutdown.html
 ---
-# {{ page.title }}
+
+## {{ page.title }}
 
 September 13, 2023
 
@@ -14,6 +15,7 @@ September 13, 2023
 | Estimated time (to nearest half day) required to complete shutdown activities: | 0.5 days |
 | Total number of agency employees expected to be on board before implementation of the plan: | 27 (and 13 SGEs) |
 | Total number of agency employees expected to be furloughed under the plan (unduplicated count): | 27 (and 13 SGEs) |
+{: .usa-table }
 
 ### Total number of employees to be retained under the plan for each of the following categories
 
@@ -26,6 +28,7 @@ September 13, 2023
 | Necessary to perform activities necessarily implied by law: | 0 |
 | Necessary to the discharge of the President's constitutional duties and powers: | 0 |
 | Necessary to protect life and property: | 0 |
+{: .usa-table }
 
 ### Brief summary of significant agency activities that will continue during a lapse:
 
@@ -63,3 +66,20 @@ None of the information described above is expected to change should a lapse in 
 - Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify agency Executive Director and Leadership (Directors should notify staff).
 - Contracting Officer’s Representatives will notify agency contractors to resume activities.
 - Procedures for resuming program activities, including steps to ensure appropriate oversight and disbursement of funds.
+
+### References
+
+- OMB Circular No. A-11, Section 124.2 (2015)
+- OMB Memo M-13-22, Planning for Agency Operations during a Potential Lapse in Appropriations (and attachments) (September 17, 2013)
+
+## Review
+
+This agency plan for a lapse in appropriations has been prepared and reviewed by the undersigned.  It complies with guidance provided in the reference documents.
+
+Approved, September 13, 2023
+
+/s/
+
+Sachin Pavithran  
+Executive Director  
+U. S. Access Board
