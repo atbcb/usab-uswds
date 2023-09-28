@@ -1,7 +1,6 @@
 {% comment %}
-This appears at the top of the page letting the user know it's an official government website
+  This appears at the top of the page letting the user know it's an official government website
 {% endcomment %}
-
 <div class="page-landing-page layout-demo ">
   <a class="usa-skipnav" href="#content">Skip to main content</a>
   {% if page.toc %}
@@ -26,7 +25,7 @@ This appears at the top of the page letting the user know it's an official gover
       <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden>
         <div class="grid-row grid-gap-lg">
           <div class="usa-banner__guidance tablet:grid-col-6">
-            {% asset icon-dot-gov.svg class="usa-banner__icon usa-media-block__img" alt="Dot gov" %}
+            {% asset icon-dot-gov.svg class="usa-banner__icon usa-media-block__img" alt="dot gov" %}
             <div class="usa-media-block__body">
               <p>
                 <strong>The .gov means it’s official.</strong>
@@ -37,29 +36,28 @@ This appears at the top of the page letting the user know it's an official gover
             </div>
           </div>
           <div class="usa-banner__guidance tablet:grid-col-6">
-            {% asset icon-https.svg class="usa-banner__icon usa-media-block__img" alt="Https" %}
+            {% asset icon-https.svg class="usa-banner__icon usa-media-block__img" alt="https" %}
             <div class="usa-media-block__body">
               <p>
-                <strong>The site is secure.</strong>
-                <br>
-                The <strong>https://</strong> ensures that you are connecting to the official website and that any
-                information you provide is encrypted and transmitted securely.
+                <strong>The site is secure.</strong> <br>
+                The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
               </p>
             </div>
           </div>
         </div>
       </div>
-      
-
-      <div class="usa-alert usa-alert--warning">
+      {% comment %}
+        Move endcomment line down to hide this banner.  Please do not just delete the div.
+        Sytax details available at:  designsystem.digital.gov/components/alert
+      {% endcomment %}
+      <div class="usa-alert usa-alert--error">
         <div class="usa-alert__body">
           <h4 class="usa-alert__heading">Notice</h4>
           <p class="usa-alert__text">
-            The Public Right-of-Way Accessibility Guidelines (PROWAG) rulemaking has concluded. The PROWAG final rule has been published in the Federal Register. Please visit the Access Board’s PROWAG page for the guidelines.
+            The U.S. Access Board is closed due to a lapse in appropriations;&nbsp; Technical Assistance and other services are not available at this time.&nbsp; Please see the <a href="{{ site.baseurl }}about/policy/shutdown.html">USAB Shutdown Plan</a> for more information.&nbsp; This website is expected to remain available, but will not be updated during the shutdown.
           </p>
         </div>
-      </div>
-      
+      </div> 
     </div>
   </div>
   <div class="usa-overlay"></div>
