@@ -66,7 +66,7 @@ None of the information described above is expected to change should a lapse in 
 ### References
 
 - OMB Circular No. A-11, Section 124.2 (2015)
-- OMB Memo M-13-22, Planning for Agency Operations during a Potential Lapse in Appropriations (and attachments) (September 17, 2013)
+- OMB Memo M-13-22, Planning for Agency Operations during a Potential Lapse in Appropriations (and attachments, September 17, 2013)
 
 ### Review
 
