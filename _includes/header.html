@@ -28,10 +28,9 @@
             {% asset icon-dot-gov.svg class="usa-banner__icon usa-media-block__img" alt="dot gov" %}
             <div class="usa-media-block__body">
               <p>
-                <strong>The .gov means it’s official.</strong>
-                <br>
-                Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure
-                you’re on a federal government site.
+                <strong>The .gov means it’s official.</strong> <br>
+                Federal government websites usually end in .gov or .mil.&nsbsp;
+                Before sharing sensitive information, make sure you’re on a federal government site.
               </p>
             </div>
           </div>
@@ -39,7 +38,7 @@
             {% asset icon-https.svg class="usa-banner__icon usa-media-block__img" alt="https" %}
             <div class="usa-media-block__body">
               <p>
-                <strong>The site is secure.</strong> <br>
+                <strong>This site is secure.</strong> <br>
                 The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
               </p>
             </div>
@@ -47,14 +46,18 @@
         </div>
       </div>
       {% comment %}
-        Move endcomment line down to hide this banner.  Please do not just delete the div.
-        Sytax details available at:  designsystem.digital.gov/components/alert
+        Move endcomment line down to hide the banner following.
+        Please do not just delete the div, so as to make deploying a banner simplier. 
+        Sytax details are available at:  designsystem.digital.gov/components/alert
       {% endcomment %}
       <div class="usa-alert usa-alert--error">
         <div class="usa-alert__body">
           <h4 class="usa-alert__heading">Notice</h4>
           <p class="usa-alert__text">
-            The U.S. Access Board is closed due to a lapse in appropriations;&nbsp; Technical Assistance and other services are not available at this time.&nbsp; Please see the <a href="{{ site.baseurl }}about/policy/shutdown.html">USAB Shutdown Plan</a> for more information.&nbsp; This website is expected to remain available, but will not be updated during the shutdown.
+            The U.S. Access Board is closed due to a lapse in appropriations;&nbsp;
+            Technical Assistance and other services are not available at this time.&nbsp;
+            Please see the <a href="{{ site.baseurl }}/about/policy/shutdown.html">USAB Shutdown Plan</a> for more information.&nbsp;
+            This website is expected to remain available during the shutdown, but will not be updated while there is a lapse in appropriations.
           </p>
         </div>
       </div> 
