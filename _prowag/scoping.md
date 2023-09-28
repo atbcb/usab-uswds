@@ -182,9 +182,10 @@ Boarding and alighting areas at *sidewalk* or *street*-level *transit stops* for
 
 #### R206.1 General
 
-Whereprovided, *pedestrian signal heads* and *pedestrian activated warning devices* shall comply with R206.  The *accessible* features required by these guidelines shall be available at all times.
+Where provided, *pedestrian signal heads* and *pedestrian activated warning devices* shall comply with R206.  The *accessible* features required by these guidelines shall be available at all times.
 
 #### R206.2 Traffic Control Signals and Hybrid Beacons with Pedestrian Signal Heads
+
 Where *pedestrian signal heads* are provided at *crosswalks*, the walk indication shall comply with R308.  *Pedestrian signal heads* must have a *pedestrian* *push button* complying with R307, except for R307.7, or passive detection or pretimed operation that activates audible and *vibrotactile* indications complying with R308. 
 
 #### R206.3 Pedestrian Activated Warning Devices
@@ -233,6 +234,7 @@ Portable toilet units shall comply with section 603 of Appendix D to 36 CFR part
 At least 5 percent of tables at each group of adjacent tables, but no fewer than one, shall comply with section 902 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines).
 
 #### R209.5 Sales or Service Counters
+
 Sales or service counters shall comply with section 904.4 of Appendix D to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines).
 
 EXCEPTION 1: Sales or service counters that are located in a *building* subject to the ADA that is not itself in the *public right-of-way* but that directly serve the *public right-of-way*, such as at a service window accessed from the *sidewalk*, may comply with section 227.3 of Appendix B to 36 CFR part 1191 (ADA & ABA Accessibility Guidelines).

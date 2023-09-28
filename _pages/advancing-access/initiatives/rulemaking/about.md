@@ -7,9 +7,9 @@ permalink: /rulemaking/about/
 
 ### Active and Upcoming Rulemakings
 * [Medical Diagnostic Equipment](https://www.regulations.gov/docket/ATBCB-2022-0002)
-* [Passenger Vessels]({{ site.baseurl }}/pvag/)
-* [Pedestrian Facilities in the Public Right-of-Way]({{ site.baseurl }}/prowag/)
 * [Self-service Transaction Machines]({{ site.baseurl }}/sstms/)
+* Electric Vehicle Charging Stations
+* Rail Vehicles
 
 ### Rulemaking Process and History
 

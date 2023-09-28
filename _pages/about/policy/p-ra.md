@@ -10,7 +10,7 @@ permalink: /about/policy/ra.html
 
 ## 1. Purpose
 
-This document rescinds the current Reasonable Accommodation Procedures and replaces them with these policies and procedures for providing reasonable accommodations for Access Board employees and applicants for employment. The Access Board is committed to providing reasonable accommodation to its employees and applicants for employment in accordance with Section 501 of the Rehabilitation Act of 1973 (which requires federal agencies to provide reasonable accommodation for qualified employees or applicants with disabilities, unless to do so would cause undue hardship) and Executive Order 13164 (requiring agencies to establish effective written procedures for handling reasonable accommodation requests by employees and applicants for employment). The Access Board is updating these Procedures to make necessary changes and clarifications and to continue to ensure that reasonable accommodation requests are handled promptly and fairly. 
+This document rescinds the current Reasonable Accommodation Procedures and replaces them with these policies and procedures for providing reasonable accommodations for Access Board employees and applicants for employment.  The Access Board is committed to providing reasonable accommodation to its employees and applicants for employment in accordance with Section 501 of the Rehabilitation Act of 1973 (which requires federal agencies to provide reasonable accommodation for qualified employees or applicants with disabilities, unless to do so would cause undue hardship) and Executive Order 13164 (requiring agencies to establish effective written procedures for handling reasonable accommodation requests by employees and applicants for employment).  The Access Board is updating these Procedures to make necessary changes and clarifications and to continue to ensure that reasonable accommodation requests are handled promptly and fairly. 
 
 ## 2. Applicability 
 
@@ -18,12 +18,12 @@ These Procedures apply to all Access Board employees and applicants for employme
 
 ## 3. Authorities 
 
-* Section 501 of the Rehabilitation Act of 1973, [29 U.S.C. §791](https://www.govinfo.gov/app/details/USCODE-2021-title29/USCODE-2021-title29-chap16-subchapV-sec791).
-* Executive Order 13164, _Requiring Federal Agencies to Establish Procedures to Facilitate the Provision of Reasonable Accommodation_, [46 FR 46565](https://www.federalregister.gov/d/00-19323) (July 28, 2000).
-* [29 C.F.R. Part 1630](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630), _Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act_.
-* [29 C.F.R. Part 1614.203](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614/subpart-B/section-1614.203), Regulations Under Section 501 of the _Rehabilitation Act_.
-* EEOC [Policy Guidance on Executive Order 13164 Establishing Procedures to Facilitate the Provision of Reasonable Accommodation](https://www.eeoc.gov/laws/guidance/policy-guidance-executive-order-13164-establishing-procedures-facilitate-provision).
-* EEOC [Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada). 
+- Section 501 of the Rehabilitation Act of 1973, [29 U.S.C. §791](https://www.govinfo.gov/app/details/USCODE-2021-title29/USCODE-2021-title29-chap16-subchapV-sec791).
+- Executive Order 13164, _Requiring Federal Agencies to Establish Procedures to Facilitate the Provision of Reasonable Accommodation_, [46 FR 46565](https://www.federalregister.gov/d/00-19323) (July 28, 2000).
+- [29 C.F.R. Part 1630](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630), _Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act_.
+- [29 C.F.R. Part 1614.203](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614/subpart-B/section-1614.203), Regulations Under Section 501 of the _Rehabilitation Act_.
+- EEOC [Policy Guidance on Executive Order 13164 Establishing Procedures to Facilitate the Provision of Reasonable Accommodation](https://www.eeoc.gov/laws/guidance/policy-guidance-executive-order-13164-establishing-procedures-facilitate-provision).
+- EEOC [Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada). 
 
 ## 4. Definitions
 
@@ -31,12 +31,12 @@ Disability
 : A physical or mental impairment that substantially limits one or more major life activities, a record (a history) of such an impairment, or being regarded as having a disability.  An individual covered solely under the “regarded as” definition of disability is not entitled to reasonable accommodation.  Whether an individual has a disability is determined by reference to the Americans with Disabilities Act Amendments Act of 2008 (ADAAA) which requires a broad interpretation of the term and generally does not require an extensive analysis. 
 
 Essential Functions
-: Essential functions are those job duties that are fundamental to the position that an individual holds or desires. The term “essential functions” does not include marginal functions of the position. “Marginal functions” are those job duties that are less important or critical to the success or failure of the specific position. A function can be “essential” if, among other things: the position exists to perform the function; a limited number of other employees are available to perform the function; or the function requires highly specialized skills, and the individual is hired based on the ability to perform them. Evidence of whether a particular function is essential includes: 
-* the agency’s judgment (generally a supervisor’s, manager’s and/or office director’s judgment); 
-* a written position description developed before a job is advertised; 
-* the amount of time spent performing the function; 
-* the consequences of not requiring the person in the position to perform the function; or 
-* the work experience of past incumbents in the job or current incumbents in similar jobs. 
+: Essential functions are those job duties that are fundamental to the position that an individual holds or desires. The term “essential functions” does not include marginal functions of the position. “Marginal functions” are those job duties that are less important or critical to the success or failure of the specific position. A function can be “essential” if, among other things: the position exists to perform the function; a limited number of other employees are available to perform the function; or the function requires highly specialized skills, and the individual is hired based on the ability to perform them. Evidence of whether a particular function is essential includes:
+- the agency’s judgment (generally a supervisor’s, manager’s and/or office director’s judgment);
+- a written position description developed before a job is advertised;
+- the amount of time spent performing the function;
+- the consequences of not requiring the person in the position to perform the function; or
+- the work experience of past incumbents in the job or current incumbents in similar jobs.
 : Determination of whether a particular function is essential must be made on a case-by-case basis, since the duties of a specific job may deviate from what is indicated in a position description or from the duties of employees holding a similar job. 
 
 Extenuating Circumstances
@@ -64,12 +64,13 @@ Qualified
 : An individual with a disability is qualified for the position that such individual holds or desires if the individual (1) satisfies the requisite skill, experience, education, and other job-related requirements of the position, and (2) can perform the essential functions of the position, with or without reasonable accommodation.
 
 Reasonable Accommodation
-: A reasonable accommodation is any change in the workplace or in the way things are customarily done that provides an equal employment opportunity to an individual with a disability. The Access Board provides reasonable accommodation:
-* when an individual with a disability needs an accommodation to have an equal opportunity in the application process:
-* when an employee with a disability needs an accommodation to perform the essential functions of the job held or desired or to gain access to the workplace; andowhen an employee with a disability needs an accommodation to enjoy equal access to benefits and privileges of employment (e.g., details, trainings, office-sponsored events).
+: A reasonable accommodation is any change in the workplace or in the way things are customarily done that provides an equal employment opportunity to an individual with a disability.  The Access Board provides reasonable accommodation:
+
+- when an individual with a disability needs an accommodation to have an equal opportunity in the application process:
+- when an employee with a disability needs an accommodation to perform the essential functions of the job held or desired or to gain access to the workplace; andowhen an employee with a disability needs an accommodation to enjoy equal access to benefits and privileges of employment (e.g., details, trainings, office-sponsored events).
 
 Undue Hardship
-: Undue hardship means that an accommodation would result in significant difficulty or expense. The Rehabilitation Act does not require the Access Board to provide a reasonable accommodation that causes an undue hardship. Determination of undue hardship is always made on a case-by-case basis, considering such factors as the nature and net costs of the accommodation, the overall financial resources of the Access Board, and the impact of the accommodation on the operation of the agency, including the impact on the Access Board’s ability to conduct business. Most undue hardship assessments involve non-financial considerations, such as the timely performance of job duties and the ability to effectively serve the public. If a particular accommodation would result in undue hardship, the Access Board will consider whether there is another available accommodation that would not.
+: Undue hardship means that an accommodation would result in significant difficulty or expense.  The Rehabilitation Act does not require the Access Board to provide a reasonable accommodation that causes an undue hardship.  Determination of undue hardship is always made on a case-by-case basis, considering such factors as the nature and net costs of the accommodation, the overall financial resources of the Access Board, and the impact of the accommodation on the operation of the agency, including the impact on the Access Board’s ability to conduct business.  Most undue hardship assessments involve non-financial considerations, such as the timely performance of job duties and the ability to effectively serve the public.  If a particular accommodation would result in undue hardship, the Access Board will consider whether there is another available accommodation that would not.
 
 ## 5. Roles and Responsibilities
 
@@ -105,7 +106,7 @@ An employee or applicant for employment may request a reasonable accommodation i
 
 #### 6.1.1. Timing of Requests.
 
-A request for reasonable accommodation may be made at any time. Additionally, an employee or applicant for employment whose disability-related needs change and/or whose job duties change may make subsequent requests for additional or different reasonable accommodations.  A supervisor may not deny a reasonable accommodation request based on a belief that the accommodation should have been requested earlier. 
+A request for reasonable accommodation may be made at any time. Additionally, an employee or applicant for employment whose disability-related needs change and/or whose job duties change may make subsequent requests for additional or different reasonable accommodations.   A supervisor may not deny a reasonable accommodation request based on a belief that the accommodation should have been requested earlier. 
 
 #### 6.1.2. Submission of Request.
 
@@ -113,11 +114,11 @@ Employees should make reasonable accommodation requests orally or in writing to 
 
 #### 6.1.3. Content of Request.
 
-A request does not have to include any special words, such as “reasonable accommodation” or “Rehabilitation Act”.  A request is any communication in which an individual asks or states a need for the Access Board to provide or to change something because of a medical condition. A requester does not have to specify a particular accommodation, although it may be helpful if the person can suggest one. It is sufficient for the individual requesting accommodation to state that some sort of change or assistance is required. The supervisor or Director of Administration (for applicants) should ask the individual, if the nature of the initial communication is unclear, whether an accommodation is being requested. 
+A request does not have to include any special words, such as “reasonable accommodation” or “Rehabilitation Act”.   A request is any communication in which an individual asks or states a need for the Access Board to provide or to change something because of a medical condition.  A requester does not have to specify a particular accommodation, although it may be helpful if the person can suggest one. It is sufficient for the individual requesting accommodation to state that some sort of change or assistance is required. The supervisor or Director of Administration (for applicants) should ask the individual, if the nature of the initial communication is unclear, whether an accommodation is being requested. 
 
 #### 6.1.4. Third Party Requests.
 
-A family member, health care provider, or other representative may request an accommodation on behalf of an Access Board employee or applicant. For example, a doctor’s note outlining medical restrictions of an employee may constitute a request for reasonable accommodation. In these circumstances, the individual handling the request should speak directly with the individual on whose behalf the accommodation is being requested as soon as practicable. 
+A family member, health care provider, or other representative may request an accommodation on behalf of an Access Board employee or applicant. For example, a doctor’s note outlining medical restrictions of an employee may constitute a request for reasonable accommodation.  In these circumstances, the individual handling the request should speak directly with the individual on whose behalf the accommodation is being requested as soon as practicable. 
 
 ### 6.2. Confirmation of Request.
 
@@ -126,27 +127,29 @@ When an employee or applicant makes an oral or written request, the supervisor o
 ### 6.3. Common Types of Accommodations.
 
 Reasonable accommodations can enable an individual to apply for a job, perform a job, or have equal access to the workplace and employee benefits including office common areas, parking lots, and office events. Common types of accommodations include:
-* modifying work schedules or supervisory methods.
-* altering how or when job duties are performed.
-* providing telework beyond the maximum amount allowed to all Access Board employees.
-* making changes in workplace policies (e.g., granting breaks or providing leave in addition to any accrued paid leave an employee already has).
-* providing assistive technology, including information technology, communications equipment, or specifically designed furniture.
-* providing a reader or hiring a staff assistant to enable employees to perform their job functions, where accommodation cannot be provided by current staff.
-* removing and/or substituting a marginal function that an employee cannot perform because of a disability.
-* moving an employee to a different office space (e.g., to space that is quieter for someone whose disability affects concentration).
-* removing an architectural barrier[^1], including reconfiguring work spaces.
-* providing materials in alternative formats (e.g. Braille, large print, or in electronic format).
+
+- modifying work schedules or supervisory methods.
+- altering how or when job duties are performed.
+- providing telework beyond the maximum amount allowed to all Access Board employees.
+- making changes in workplace policies (e.g., granting breaks or providing leave in addition to any accrued paid leave an employee already has).
+- providing assistive technology, including information technology, communications equipment, or specifically designed furniture.
+- providing a reader or hiring a staff assistant to enable employees to perform their job functions, where accommodation cannot be provided by current staff.
+- removing and/or substituting a marginal function that an employee cannot perform because of a disability.
+- moving an employee to a different office space (e.g., to space that is quieter for someone whose disability affects concentration).
+- removing an architectural barrier[^1], including reconfiguring work spaces.
+- providing materials in alternative formats (e.g. Braille, large print, or in electronic format).
 
 [^1]: As a federal agency, the Access Board complies with the Architectural Barriers Act and the implementing ABA Guidelines (36 C.F.R. §1191, App. C & D).  However, a reasonable accommodation may include removing a barrier that may exist for a specific employee despite full compliance with the ABA. (e.g. automatic door openers). 
 
 ### 6.4. Requests that Are Not Reasonable Accommodations.
 
 There are some things that are not considered reasonable accommodations.  They include: 
-* removing an essential function; 
-* lowering production or performance standards; 
-* excusing violations of conduct standards; 
-* providing personal use items, such as hearing aids or eyeglasses that an employee needs both on and off the job; and 
-* taking any action that would result in an undue hardship for the Access Board. 
+
+- removing an essential function; 
+- lowering production or performance standards; 
+- excusing violations of conduct standards; 
+- providing personal use items, such as hearing aids or eyeglasses that an employee needs both on and off the job; and 
+- taking any action that would result in an undue hardship for the Access Board. 
 
 ### 6.5. Recurring Accommodations.
 
@@ -215,10 +218,10 @@ The supervisor may share certain information with other agency staff as necessar
 #### 7.4.2. Other Disclosures.
 
 In addition to disclosures of information needed to process a request for accommodation, other disclosures of medical information are permitted as follows:
-* Other supervisors or persons within the agency that need to know may be told about necessary restrictions on work or duties of the employee and about necessary accommodations, such as setting up IT systems or assistive technology or arranging for remote work; 
-* First responders and safety personnel may be told if the disability might require emergency treatment or assistance in evacuation; 
-* Worker’s compensation officials may receive medical information in order to process or evaluate claims; and 
-* Government officials may be given information necessary to investigate the agency’s compliance with the Rehabilitation Act. 
+- Other supervisors or persons within the agency that need to know may be told about necessary restrictions on work or duties of the employee and about necessary accommodations, such as setting up IT systems or assistive technology or arranging for remote work; 
+- First responders and safety personnel may be told if the disability might require emergency treatment or assistance in evacuation; 
+- Worker’s compensation officials may receive medical information in order to process or evaluate claims; and 
+- Government officials may be given information necessary to investigate the agency’s compliance with the Rehabilitation Act. 
 
 ### 7.5. Time Frames.
 
@@ -235,16 +238,16 @@ If the supervisor must request medical information or documentation from the req
 ### 7.5.3. Less than 30 days.
 
 If the disability is obvious or already known to the supervisor, if it is clear why a reasonable accommodation is needed, and if an accommodation can be provided quickly, then the supervisor should process the request in fewer than 30 days. Undue delay in providing a reasonable accommodation may constitute a violation of the Rehabilitation Act. For example, the following requests ordinarily can be provided in fewer than 30 days:
-* An employee with clinical depression who takes medication which makes it hard to get up in time to get to the office at 9:00 a.m. requests to be allowed to start work at 10:00 a.m. and still work an eight-and-a-half-hour day. 
-* A supervisor screenshares a PowerPoint or agenda during staff meetings.  An employee who is blind requests the document be provided ahead of time in an accessible format in order to read the information in advance or to have it available in an accessible format during the meeting. 
-* An employee that uses hearing aids requests meetings to be conducted in one of the meeting rooms that contains hearing loops. 
+- An employee with clinical depression who takes medication which makes it hard to get up in time to get to the office at 9:00 a.m. requests to be allowed to start work at 10:00 a.m. and still work an eight-and-a-half-hour day. 
+- A supervisor screenshares a PowerPoint or agenda during staff meetings.  An employee who is blind requests the document be provided ahead of time in an accessible format in order to read the information in advance or to have it available in an accessible format during the meeting. 
+- An employee that uses hearing aids requests meetings to be conducted in one of the meeting rooms that contains hearing loops. 
 
 ### 7.5.4. Expedited Processing of a Request.
 
 In certain circumstances, a request for reasonable accommodation requires an expedited review and decision in less than 30 business days. This 
 includes where a reasonable accommodation is needed: 
-* to enable an applicant to apply for a job. Depending on the timetable for receiving applications, conducting interviews, and making hiring decisions, the need to expedite a request for reasonable accommodation may arise to ensure that an applicant with a disability has an equal opportunity to apply for a job. 
-* to enable an employee to attend a meeting or training scheduled to occur soon. For example, an employee may need a sign language interpreter for a meeting scheduled to take place in 5 days. 
+- to enable an applicant to apply for a job. Depending on the timetable for receiving applications, conducting interviews, and making hiring decisions, the need to expedite a request for reasonable accommodation may arise to ensure that an applicant with a disability has an equal opportunity to apply for a job. 
+- to enable an employee to attend a meeting or training scheduled to occur soon. For example, an employee may need a sign language interpreter for a meeting scheduled to take place in 5 days. 
 
 ### 7.5.5. Extenuating Circumstances.
 
@@ -254,17 +257,18 @@ These are circumstances that could not reasonably have been anticipated or avoid
 
 An interim accommodation is something that can be provided while the accommodation request in processing. Consideration of an interim accommodation is not meant to slow down the interactive process and the 30-business-day time frame will not be lengthened because an interim accommodation is considered. In the following situations a supervisor must consider whether an interim accommodation can be provided. 
 
-* The supervisor believes that an interim accommodation is warranted (either something the employee has requested or something else). Usually this will involve a situation in which a disability is obvious or likely, the reason given for needing the accommodation seems plausible, and the requested accommodation is easy to provide. The supervisor will inform the employee of an interim accommodation option during the interactive process.
-* If the supervisor has received sufficient information in the interactive process to believe it is reasonably likely that an employee will be entitled to a reasonable accommodation, even while awaiting additional information needed to make a final decision. For example, the supervisor may be waiting to receive medical documentation -- meaning the interactive process is not completed -- but given the weight of the other information already provided, the supervisor concludes it is reasonably likely an accommodation will be provided. The supervisor must provide an interim accommodation if one is available (either what the individual has requested or something else) that allows the individual to perform some or all of the essential functions of the position without imposing an undue hardship on the Access Board.  The supervisor must make clear to the requestor that this is only an interim accommodation until a final decision is made; and
-* If the supervisor has completed the review and determined that the employee is entitled to a reasonable accommodation, but the accommodation cannot be provided immediately.  The supervisor must provide, if feasible, an interim accommodation that allows the employee to perform some or all of the essential functions of the position without imposing an undue hardship on the Access Board. The supervisor must explain to the requestor why there is a delay in providing the accommodation granted by the Access Board, when the employee can expect to receive that accommodation, and why the supervisor chose an interim accommodation. 
+- The supervisor believes that an interim accommodation is warranted (either something the employee has requested or something else). Usually this will involve a situation in which a disability is obvious or likely, the reason given for needing the accommodation seems plausible, and the requested accommodation is easy to provide. The supervisor will inform the employee of an interim accommodation option during the interactive process.
+- If the supervisor has received sufficient information in the interactive process to believe it is reasonably likely that an employee will be entitled to a reasonable accommodation, even while awaiting additional information needed to make a final decision. For example, the supervisor may be waiting to receive medical documentation -- meaning the interactive process is not completed -- but given the weight of the other information already provided, the supervisor concludes it is reasonably likely an accommodation will be provided. The supervisor must provide an interim accommodation if one is available (either what the individual has requested or something else) that allows the individual to perform some or all of the essential functions of the position without imposing an undue hardship on the Access Board.  The supervisor must make clear to the requestor that this is only an interim accommodation until a final decision is made; and
+- If the supervisor has completed the review and determined that the employee is entitled to a reasonable accommodation, but the accommodation cannot be provided immediately.  The supervisor must provide, if feasible, an interim accommodation that allows the employee to perform some or all of the essential functions of the position without imposing an undue hardship on the Access Board. The supervisor must explain to the requestor why there is a delay in providing the accommodation granted by the Access Board, when the employee can expect to receive that accommodation, and why the supervisor chose an interim accommodation. 
 
 ## 8. Resolution of Reasonable Accomodation Requests 
 
-All decisions regarding a request for reasonable accommodation will be communicated to an applicant or employee by use of the “Resolution of Request” Form (see Appendix B). The supervisor responsible for communicating the decision is as follows: 
-* For applicants and staff within the Office of Administration: Dru Goardon Director of Administration, email: <gordon@access-board.gov>.
-* For staff within the Office of Information and Technical Services: Alison Levy, Director of OTIS, email: <levy@access-board.gov>.
-* For staff within the General Counsel’s Office: Christopher Kuczynski, General Counsel, email: <kuczynski@access-board.gov>.
-* For staff within the Office of the Executive Director: Executive Director, Sachin Pavithran, email: <pavithran@access-board.gov>.
+All decisions regarding a request for reasonable accommodation will be communicated to an applicant or employee by use of the “Resolution of Request” Form (see Appendix B). The supervisor responsible for communicating the decision is as follows:
+
+- For applicants and staff within the Office of Administration: Dru Gordon Director of Administration, email: <gordon@access-board.gov>.
+- For staff within the Office of Information and Technical Services: Alison Levy, Director of OTIS, email: <levy@access-board.gov>.
+- For staff within the General Counsel’s Office: Christopher Kuczynski, General Counsel, email: <kuczynski@access-board.gov>.
+- For staff within the Office of the Executive Director: Executive Director, Sachin Pavithran, email: <pavithran@access-board.gov>.
 
 ### 8.1. Grant of Request for Reasonable Accommodation.
 
@@ -322,7 +326,7 @@ MSPB Appeal.
 
 ### 12.3. Section 501 of the Rehabilitation Act.
 
-These Procedures create no new enforceable rights under section 501 of the Rehabilitation Act or any other law.  Executive Order 13164, which requires all Federal agencies to adopt reasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by aparty against the United States [or] its agencies.” 
+These Procedures create no new enforceable rights under section 501 of the Rehabilitation Act or any other law.  Executive Order 13164, which requires all Federal agencies to adopt reasonable accommodation procedures, explains in section 5(b) that the procedures are “intended only to improvethe internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by aparty against the United States \[or] its agencies.” 
 
 ## 13. Approvals
 
@@ -330,4 +334,4 @@ These Reasonable Accommodation Procedures removes and replaces the previous proc
 
 ---
 
-Procedures approved April 11, 2023.  Last revised June 8, 2023.
+Procedures approved April 11, 2023.  Page last revised September 27, 2023.

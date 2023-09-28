@@ -9,7 +9,7 @@ file-description: Public Right-of-Way Accessibility Guidelines as published in t
 
 {% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
 
-The Access Board has published new guidelines under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) that address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of public rights-of-way. These guidelines also review shared use paths, which are designed primarily for use by bicyclists and pedestrians for transportation and recreation purposes.
+The Access Board has published new guidelines under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) that address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of public right-of-way. These guidelines also review shared use paths, which are designed primarily for use by bicyclists and pedestrians for transportation and recreation purposes.
 
 ### Background
 
