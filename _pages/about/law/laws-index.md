@@ -20,7 +20,7 @@ Several different laws shape the the work of the Access Board and its mission:
 ## [The Americans with Disabilities Act (ADA) of 1990](ada.html)
 
 The ADA  is a major civil rights law prohibiting discrimination on the basis of disability in the private and state and local government sectors.&nbsp;
-The ADA requires access to programs and services, transportation, the built environment, employment, and communication. Under the ADA, the Access Board develops and maintains accessibility guidelines for the construction and alteration of facilities covered by the law, as well as guidelines for the design of transportation vehicles.&nbsp;
+The ADA requires access to programs and services, transportation, the built environment, employment, and communication. Under the ADA, the Access Board develops and maintains accessibility guidelines for the construction and alteration of facilities covered by the law, as well as guidelines for the design of the public right-of-way and transportation vehicles.&nbsp;
 These guidelines serve as the basis of standards used by other agencies to enforce the ADA's design requirements.
 
 ## [The Architectural Barriers Act (ABA) of 1968](aba.html)
