@@ -8,10 +8,11 @@ permalink: /about/rulemaking.html
 
 # Access Board {{ page.title }}
 
-Under the Americans with Disabilities Act (ADA) and several other laws, the Access Board develops guidelines and standards for the built environment, transportation systems, information and communication technologies, and medical diagnostic equipment.  These include the:
+Under the Americans with Disabilities Act (ADA) and several other laws, the Access Board develops guidelines and standards for the built environment, transportation systems, public right-of-way, information and communication technologies, and medical diagnostic equipment.  These include the:
 
 - ADA Accessibility Guidelines for Buildings and Facilities
 - ADA Accessibility Guidelines for Transportation Vehicles
+- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 - Architectural Barriers Act (ABA) Accessibility Guidelines
 - Electronic and Information Technology Accessibility Standards (Section 508)
 - Telecommunications Act Accessibility Guidelines
@@ -51,6 +52,7 @@ Final guidelines and standards issued by the Access Board include:
 - December 14, 2016 – Updated guidelines for buses and vans in ADAAG for Transportation Vehicles 
 - January 9, 2017 – Accessibility Standards for Medical Diagnostic Equipment
 - January 18, 2017 – Updated Section 508 Standards and Section 255 Guidelines for Information and Communication Technology
+- August 8, 2023 – Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
 ## Advisory and Regulatory Negotiation Committees
 
