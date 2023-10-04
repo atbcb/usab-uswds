@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Returning to the Office: Accessible Hybrid meetings"
+title: "Returning to the Office: Accessible Hybrid Meetings"
 date: 2023-11-28
 excerpt: Federal workspaces are required to be accessible in both physical and
   online environments. During the period of the COVID-19 pandemic, the
@@ -9,7 +9,7 @@ excerpt: Federal workspaces are required to be accessible in both physical and
   either physical or virtual or a hybrid of both, there are novel issues facing
   federal accessibility specialists. This webinar will provide a review of the
   requirements for making the physical environment accessible under the
-  Architectural Barriers Act (ABA) Accessibility Standards and the virtual
+  Architectural Barriers Act (ABA) and the virtual
   environment accessible under Section 508. Presenters will also offer
   recommendations and best practices, as well as identify available resources to
   maximize participation in the federal workspace, whether virtual, physical, or
@@ -34,13 +34,13 @@ webinar: true
 ---
 ### Description
 
-Federal workspaces are required to be accessible in both physical and online environments. During the period of the COVID-19 pandemic, the widespread transition to telework made use of virtual meetings and conferences commonplace. Now that agencies are transitioning to a workspace which may be either physical or virtual or a hybrid of both, there are novel issues facing federal accessibility specialists. This webinar will provide a review of the requirements for making the physical environment accessible under the Architectural Barriers Act (ABA) Accessibility Standards and the virtual environment accessible under Section 508. Presenters will also offer recommendations and best practices, as well as identify available resources to maximize participation in the federal workspace, whether virtual, physical, or hybrid. Section 508 Coordinators, IT Specialists, Reasonable Accommodation Specialists, and Disability Program Managers are encouraged to join this webinar to gain the following unique insights.
+Federal workspaces are required to be accessible in both physical and online environments. During the period of the COVID-19 pandemic, the widespread transition to telework made use of virtual meetings and conferences commonplace. Now that agencies are transitioning to a workspace which may be either physical or virtual or a hybrid of both, there are novel issues facing federal accessibility specialists. This webinar will provide a review of the requirements for making the physical environment accessible under the Architectural Barriers Act (ABA) and the virtual environment accessible under Section 508. Presenters will also offer recommendations and best practices, as well as identify available resources to maximize participation in the federal workspace, whether virtual, physical, or hybrid. Section 508 Coordinators, IT Specialists, Reasonable Accommodation Specialists, and Disability Program Managers are encouraged to join this webinar to gain the following unique insights.
 
 Attendees will learn:  
 
-1. The requirements for making offices, conference rooms and assembly areas accessible under the Architectural Barriers Act. 
+1. The requirements for making offices, conference rooms, and assembly areas accessible under the ABA. 
 2. How the Section 508 Standards and WCAG 2.0 Success Criteria work to ensure an accessible online environment for all.  
-3. How accommodations can improve the experience of Federal employees in both the physical and virtual environments.  
+3. How accommodations can improve the experience of federal employees in both physical and virtual environments.  
 
 This session is intended for entry-level to intermediate audiences, but all are welcome to join.  
 
