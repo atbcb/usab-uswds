@@ -17,7 +17,6 @@ excerpt: This webinar will address and clarify requirements for bathing
 presenters:
   - sarah-presley
   - travis-saner
-  - bobby-stinnette
 closed: false
 webinar-start: November 2, 2023 2:30 PM
 webinar-end: November 2, 2023 4:00 PM
@@ -45,9 +44,7 @@ Video remote interpreting and real-time captioning will be provided in this webi
 
 **[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessible%20Signage)**, Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
 
-**Travis Saner**, Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
-
-**[Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Accessible%20Amusement%20Rides)**, Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+**[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Accessible%20Bathing%20Rooms)**, Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
 
 ### Session Questions
 
