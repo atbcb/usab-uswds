@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U.S. Access Board Meeting and Webcast (October 25) "
+title: "U.S. Access Board Meeting and Webcast on October 25 "
 date: 2023-10-13
 excerpt: All are welcome to attend the next meeting of the U.S. Access Board,
   which will be open to the public and take place virtually on October 25 from
