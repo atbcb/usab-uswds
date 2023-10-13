@@ -10,7 +10,7 @@ excerpt: Pedestrians with disabilities throughout the United States continue to
   pedestrian facilities in the public right-of-way.  These guidelines . . .
 image: /images/uploads/wc-user-in-crosswalk.png
 image_alt_text: Wheelchair user crossing the street in the crosswalk
-featured: true
+featured: false
 ---
 Pedestrians with disabilities throughout the United States continue to face major challenges in travel because many sidewalks, crosswalks, and other pedestrian facilities are inaccessible. Today, the U.S. Access Board addressed this inequity by issuing a [final rule on accessibility guidelines for pedestrian facilities in the public right-of-way](https://www.access-board.gov/prowag/).  These guidelines inform federal, state, and local government agencies on how to make their pedestrian facilities, such as sidewalks, crosswalks, shared use paths, and on-street parking, accessible to people with disabilities. 
 

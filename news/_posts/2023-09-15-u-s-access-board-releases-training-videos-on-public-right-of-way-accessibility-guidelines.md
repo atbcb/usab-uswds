@@ -9,7 +9,7 @@ excerpt: The U.S. Access Board continues to provide resources and training on
   videos supplement the Board’s free technical assistance on the guidelines via
   . . .
 image: /images/uploads/wheelchair-user-bus-stop.jpg
-featured: true
+featured: false
 ---
 The U.S. Access Board continues to provide resources and training on the recently published [final rule on public right-of-way accessibility guidelines](https://www.access-board.gov/prowag/) by releasing five new videos on the [Board’s YouTube Channel.](https://www.youtube.com/channel/UC5tRWTtV5eSw68N3tSpmyWw) These videos supplement the Board’s free technical assistance on the guidelines via email at [row@access-board.gov](mailto:row@access-board.gov) and [accessibility training by request](https://www.access-board.gov/webinars/training.html) at [training@access-board.gov](mailto:training@access-board.gov) 
 

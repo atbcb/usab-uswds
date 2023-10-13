@@ -10,7 +10,7 @@ excerpt: In 2011, the U.S. Access Board published proposed accessibility
   the notable changes to the final rule from the versions proposed are . . .
 image: /images/uploads/roundabout-long-shot.png
 image_alt_text: Aerial view of a roundabout
-featured: true
+featured: false
 ---
 In 2011, the U.S. Access Board published [proposed accessibility guidelines](https://www.access-board.gov/prowag/proposed/) for pedestrian facilities in the public right-of-way and revised them in 2013 to include shared use paths. The notice of proposed rulemaking (NPRM) on these guidelines for pedestrian facilities and the supplemental notice of proposed rulemaking (SNPRM) on shared use paths requested public comments on all provisions of the proposed accessibility guidelines. More specifically, the Board sought comments from regulated entities, including state and local governments, on the costs and impacts of certain provisions of the proposed rule. The Board carefully reviewed over 600 public comments received in response to the NPRM and SNPRM before issuing the [final rule on accessibility guidelines for pedestrian facilities in the public right-of-way](https://www.access-board.gov/prowag/) on August 8, 2023.
 
