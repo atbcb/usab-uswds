@@ -12,7 +12,24 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, October 25, 2023**.  At this meeting, which will be held virtually only, the Board will hear Committee reports and federal agency updates; a vote to approve the March 2023 draft meeting minutes is also scheduled.  Greg Fehribach will chair this meeting.  Additional details will be published as they become available.  
+The next meeting of the Board is scheduled for **Wednesday, October 25, 2023** from **1:30 – 3:00 p.m. (ET)**.  At this meeting, which will be held virtually only, the Board will hear Committee reports, federal agency updates, and a guest presentation by Dr. Bonnielin Swenor, Director of the Johns Hopkins Disability Health Research Center. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
+
+> **Meeting of the U.S. Access Board**  \
+> October 25, 2023, 1:30 – 3:00 p.m. (ET) \
+> Meeting link: <https://www.zoomgov.com/j/1617026929> \
+> Meeting ID: 161 702 6929 \
+> Dial in: (646) 828-7666  \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+
+>> *Agenda*   
+>> * Introductory Remarks; Roll Call; Approval of March 2023 draft meeting minutes (vote) 
+>> * Executive Director’s Report 
+>> * Guest Presentation: “Using Data to Promote Access and Accessibility” by Bonnielin Swenor, Ph.D., MPH 
+>> * Standing Committee Reports 
+>> * Ad Hoc and Special Committee Reports 
+>> * Federal Agency Updates 
+>> * New Business 
+>> * Adjourn
 
 ## Future Board Meetings
 
