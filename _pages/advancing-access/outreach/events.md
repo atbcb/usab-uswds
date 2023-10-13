@@ -12,7 +12,22 @@ permalink: /events/
 
 ## Public Events   
 
-There are no public events scheduled at this time.
+> **Meeting of the U.S. Access Board**  \
+> October 25, 2023, 1:30 – 3:00 p.m. (ET) \
+> Meeting link: <https://www.zoomgov.com/j/1617026929> \
+> Meeting ID: 161 702 6929 \
+> Dial in: (646) 828-7666  \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+
+>> *Agenda*   
+>> * Introductory Remarks; Roll Call; Approval of March 2023 draft meeting minutes (vote) 
+>> * Executive Director’s Report 
+>> * Guest Presentation: “Using Data to Promote Access and Accessibility” by Bonnielin Swenor, Ph.D., MPH 
+>> * Standing Committee Reports 
+>> * Ad Hoc and Special Committee Reports 
+>> * Federal Agency Updates 
+>> * New Business 
+>> * Adjourn
 
 ### Public Events Archives
 
