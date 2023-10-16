@@ -5,7 +5,7 @@ permalink: /advisory-committee-reports/rail/
 ---
 # {{ page.title }}
 
-{% asset rail.jpg alt="train icon" class="img-right thumbnail" %}
+<img src="{{site.baseurl}}/images/rail.jpg" alt="train icon" class="img-right thumbnail" />
 
 The Rail Vehicles Access Advisory Committee (RVAAC) was organized by the Board in 2013 to develop consensus recommendations for the Board's use in updating sections of the guidelines that cover vehicles of fixed guideway systems, including rapid, light, commuter, intercity, and high speed rail.  In July 2015, the Advisory Committee submitted its report to the Board. Archived committee materials and unedited meeting captioning text (CART output) are available on Regulations.gov at docket [ATBCB-2013-0006](http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0006).
 

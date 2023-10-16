@@ -6,15 +6,15 @@ order-number: 0
 file: /files/vehicles/vehicle-guidelines.pdf
 file-description: Single file PDF of the Vehicle Guidelines
 redirect_from:
- - /guidelines-and-standards/transportation/vehicles/adaag-for-transportation-vehicles/
- - /guidelines-and-standards/transportation/vehicles/about-adaag-for-transportation-vehicles/
+  - /guidelines-and-standards/transportation/vehicles/adaag-for-transportation-vehicles/
+  - /guidelines-and-standards/transportation/vehicles/about-adaag-for-transportation-vehicles/
 ---
 
 ### ADA Accessibility Guidelines for Transportation Vehicles
-{% asset stock/transportation.jpg class="img-right shadow radius-lg" alt="photo of  a wheelchair user boarding a bus" %}
-The Americans with Disabilities Act (ADA) requires access to new or remanufactured transportation vehicles, including buses and vans, rail cars, automated guideway vehicles, trams, and similar vehicles. Vehicles covered by the ADA must comply with standards issued by the Department of Transportation (DOT). These standards are based on the Board's original ADA Accessibility Guidelines for Transportation Vehicles (1991). [Regulations](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/ada-regulations) issued by DOT under the ADA apply these standards and indicate which vehicles are required to comply.  DOT's ADA regulations also address transportation service and facilities. 
+<img src="{{site.baseurl}}/images/stock/transportation.jpg" class="img-right shadow radius-lg" alt="photo of  a wheelchair user boarding a bus" />
+The Americans with Disabilities Act (ADA) requires access to new or remanufactured transportation vehicles, including buses and vans, rail cars, automated guideway vehicles, trams, and similar vehicles. Vehicles covered by the ADA must comply with standards issued by the Department of Transportation (DOT). These standards are based on the Board's original ADA Accessibility Guidelines for Transportation Vehicles (1991). [Regulations](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/ada-regulations) issued by DOT under the ADA apply these standards and indicate which vehicles are required to comply.  DOT's ADA regulations also address transportation service and facilities.
 
-The Access Board has updated its accessibility guidelines for [buses and vans]({{ site.baseurl }}/ada/vehicles/update/buses-vans/) in 2016. These updated provisions are not yet part of DOT's enforceable vehicle standards. The Board is also [updating]({{ site.baseurl }}/ada/vehicles/update/rail-cars/) its guidelines for rail cars. 
+The Access Board has updated its accessibility guidelines for [buses and vans]({{ site.baseurl }}/ada/vehicles/update/buses-vans/) in 2016. These updated provisions are not yet part of DOT's enforceable vehicle standards. The Board is also [updating]({{ site.baseurl }}/ada/vehicles/update/rail-cars/) its guidelines for rail cars.
 
 {% include big-button.html link="/guidelines-standards/vehicles/update-buses-vans/guidelines-text/" text="View Updated Guidelines for Buses and Vans" %}
 
