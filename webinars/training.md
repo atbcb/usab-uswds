@@ -7,7 +7,7 @@ redirect_from:
     - /training/
 ---
 
-{% asset stock/training.jpeg class="img-right shadow radius-lg" alt="Audience watching presentation" %}
+<img src="{{site.baseurl}}/images/stock/training.jpeg" class="img-right shadow radius-lg" alt="Audience watching presentation" />
 
 The Access Board provides both virtual and in-person training on its accessibility guidelines and standards to many different organizations, groups, and government agencies across the country and internationally. Training sessions focus on: 
 

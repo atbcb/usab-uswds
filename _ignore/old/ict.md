@@ -7,14 +7,14 @@ permalink: /gs/ict.html
 
 # {{ page.title }}
 
-{% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
+<img src="{{site.baseurl}}/images/communications.jpg" class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" />
 Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
 
 The Board jointly updated its Section 508 Standards and Section 255 Guidelines in January 2017.
 
 ## Revised Section 508 Standards and Section 255 Guidelines (2017)
 
-{% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
+<img src="{{site.baseurl}}/images/icon-tablet-refresh.png" class="usa-media-block__img" alt="smart-phone refresh icon" />
 On January 18, 2017, the Access Board published a [final rule](https://www.federalregister.gov/d/2017-00395) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.&nbsp;
 
 The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers.&nbsp;
@@ -53,13 +53,13 @@ On January 22, 2018, the Board corrected the final rule to restore provisions fo
 
 ### Orginal Section 508 Standards (2000)
 
-{% asset icon-old508.png class="usa-media-block__img" alt="old 508 icon" %}
+<img src="{{site.baseurl}}/images/icon-old508.png" class="usa-media-block__img" alt="old 508 icon" />
 The Original 508 Standards (December 21, 2000) can be found at [36 CFR Appendix D to Part 1194](https://www.govinfo.gov/content/pkg/CFR-2019-title36-vol3/xml/CFR-2019-title36-vol3-part1194-appD.xml).&nbsp;
 They are applicable to conforming information and communication technology that has not been altered after January 18, 2018.
 
 ### Section 255 Guidelines
 
-{% asset icon-mobile-phone.png class="usa-media-block__img" alt="mobile phone icon" %}
+<img src="{{site.baseurl}}/images/icon-mobile-phone.png" class="usa-media-block__img" alt="mobile phone icon" />
 Section 255 of the Communications Act, as amended by theTelecommunications Act of 1996, requires telecommunications products and services to be accessible to people with disabilities.&nbsp;
 Manufacturers must ensure that products are “designed, developed, and fabricated to be accessible to and usable by individuals with disabilities” when it is readily achievable to do so.&nsbp;
 Accessibility guidelines issued by the Board under Section 255 address the telecommunications products covered including:
@@ -75,4 +75,4 @@ On January 18, 2017, the Board published a final rule that updates the Section 2
 #### Original Section 255 Guidelins (1998)
 
 The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf).
-{% asset pdf.gif alt="PDF" %}
+<img src="{{site.baseurl}}/images/pdf.gif" alt="PDF" />
