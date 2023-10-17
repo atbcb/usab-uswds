@@ -13,7 +13,7 @@ excerpt: "2023 marks 50 years of the Rehabilitation Act of 1973, a foundational
   . "
 image: /images/uploads/diagnostic-room.jpg
 image_alt_text: Medical room with diagnostic equipment
-featured: true
+featured: false
 ---
 *This article is part of a series on the 50th anniversary of the Rehabilitation Act*   
 
