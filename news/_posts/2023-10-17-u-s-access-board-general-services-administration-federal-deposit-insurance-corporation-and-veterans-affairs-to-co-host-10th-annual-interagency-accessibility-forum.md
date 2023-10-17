@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "U.S. Access Board, General Services Administration, Federal Deposit
-  Insurance Corporation, and Veterans Affairs to Co-host 10th annual Interagency
+  Insurance Corporation, and Veterans Affairs to Co-host 10th Annual Interagency
   Accessibility Forum "
 date: 2023-10-17
 excerpt: "The 10th annual Interagency Accessibility Forum (IAAF) will be held
