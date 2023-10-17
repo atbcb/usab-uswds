@@ -10,7 +10,7 @@ excerpt: "50 years ago, the Rehabilitation Act of 1973 was signed into law to
   Compliance Board) to ensure access to . . . "
 image: /images/uploads/keyboard-enter-button-accessibility.png
 image_alt_text: Keyboard with the "enter" button modified with the text "accessibility"
-featured: true
+featured: false
 ---
 *This article is part of a series on the 50th anniversary of the Rehabilitation Act*   
 
