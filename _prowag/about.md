@@ -17,6 +17,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - February 13, 2013 -- The Board publishes a [Proposed Draft Accessibility Guidelines for the Public Right-of-Way](./proposed/) in its rulemaking on public right-of-way.
 - February 13, 2013 -- The Board issues a [supplemental notice to address shared use paths](https://www.regulations.gov/document/ATBCB-2013-0002-0001) in its rulemaking on public right-of-way.
 - December 5, 2011 -- The Board issues notice [reopening proposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
+- July 26, 2011 -- The Board issues [notice of proposed rulemaking on Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way](https://www.federalregister.gov/documents/2011/07/26/2011-17721/accessibility-guidelines-for-pedestrian-facilities-in-the-public-right-of-way)
 - March 28, 2011 -- The Board issues notice of [proposed rule on Shared Use Path Accessibility Guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001).
 - November 23, 2005 -- The Board releases [revised draft guidelines](https://www.federalregister.gov/d/05-23161) for purposes of gathering information for a cost analysis.
 - June 17, 2002 -- The Board releases [draft guidelines](/prowag/draft-2002.html) for public comment.
