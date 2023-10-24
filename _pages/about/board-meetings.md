@@ -12,7 +12,7 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, October 25, 2023** from **1:30 – 3:00 p.m. (ET)**.  At this meeting, which will be held virtually only, the Board will hear Committee reports, federal agency updates, and a guest presentation by Dr. Bonnielin Swenor, Director of the Johns Hopkins Disability Health Research Center. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
+The next meeting of the Board is scheduled for **Wednesday, October 25, 2023** from **1:30 – 3:00 p.m. (ET)**.  At this meeting, which will be held virtually only, the Board will hear committee reports, federal agency updates, and a guest presentation by Dr. Bonnielin Swenor, Director of the Johns Hopkins Disability Health Research Center. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
 > **Meeting of the U.S. Access Board**  \
 > October 25, 2023, 1:30 – 3:00 p.m. (ET) \
