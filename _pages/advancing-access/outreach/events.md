@@ -51,7 +51,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 - October 28 - 30, 2024, Virtual
 - January 27 - 29, 2025, Virtual
 - April **TBD**, 2025, In-person, Washington, DC
-- July **TBD**, 2025, In-person, New Orleans, LA
+- July 8 - 10, 2025, In-person, New Orleans, LA
 - October 27 - 29, 2025, Virtual
 
 ### Board Meeting Archives
