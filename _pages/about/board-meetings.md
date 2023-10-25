@@ -16,9 +16,7 @@ The next meeting of the Board is scheduled for **Wednesday, October 25, 2023** f
 
 > **Meeting of the U.S. Access Board**  \
 > October 25, 2023, 1:30 – 3:00 p.m. (ET) \
-> Meeting link: <https://www.zoomgov.com/j/1617026929> \
-> Meeting ID: 161 702 6929 \
-> Dial in: (646) 828-7666  \
+> [Meeting link](https://www.zoomgov.com/j/1617026929?pwd=YjdJV0lvMGl2SHY0Q2hKcEFXYmpmZz09) \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
 >> *Agenda*   
