@@ -15,14 +15,13 @@ All are welcome to attend the next meeting of the U.S. Access Board, which will 
 
 Members of the public may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1617026929) or by phone (listen-only mode). For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
-**Meeting of the U.S. Access Board**  \
+### Meeting of the U.S. Access Board
+
 October 25, 2023, 1:30 – 3:00 p.m. (ET) \
-Meeting link: <https://www.zoomgov.com/j/1617026929> \
-Meeting ID: 161 702 6929 \
-Dial in: (646) 828-7666  \
+> [Zoom Meeting Link](https://www.zoomgov.com/j/1617026929?pwd=YjdJV0lvMGl2SHY0Q2hKcEFXYmpmZz09) \
 Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
-*Agenda*   
+#### Agenda
 
 * Introductory Remarks; Roll Call; Approval of March 2023 draft meeting minutes (vote) 
 * Executive Director’s Report 
