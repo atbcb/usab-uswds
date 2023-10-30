@@ -665,7 +665,7 @@ Controls (excluding drain stoppers) must be located below grab bars
 toward the front so that they are within reach from outside the tub.
 Enclosures cannot obstruct controls, faucets, shower and spray units, or
 transfer to tub seats or into bathtubs or have tracks on the rim of the
-open tub face.
+open tub face. 
 
 <div class="grid-container">
   <div class="grid-row">
