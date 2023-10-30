@@ -11,7 +11,7 @@ excerpt: With deep sorrow, the U.S. Access Board announces the passing of former
   first architect elected to . . .
 image: /images/uploads/jack-catlin.png
 image_alt_text: portrait of John Catlin at work desk with pen in hand
-featured: true
+featured: false
 ---
 With deep sorrow, the U.S. Access Board announces the passing of former Board Member **John (Jack) H. Catlin, FAIA**. As one of the founders of [LCM Architects,](https://www.lcmarchitects.com/) Catlin was a leader in advocating for equal rights for people with disabilities and promoting accessible architecture, inclusive design, accessibility regulations, and public awareness of accessibility. In 1994, Catlin was appointed to the Board by President Bill Clinton, and he was the first architect elected to serve as Board Chair in 1996. Catlin passed on September 17, 2023.  
 
