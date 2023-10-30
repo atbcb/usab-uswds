@@ -40,7 +40,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Board Meeting Archives
 
-- [October 25, 2023](https://www.youtube.com/watch?v=PTtRpkkejVg&t)
+- [October 25, 2023](https://www.youtube.com/live/PTtRpkkejVg?si=anILhaJz1-tmkjgW&t=95)
 - [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://youtu.be/Hd619gImSQY)
 - [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
