@@ -9,7 +9,7 @@ excerpt: All are welcome to attend the next meeting of the U.S. Access Board,
   agency updates, and a guest presentation by Dr. Bonnielin Swenor, Director of
   . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
-featured: true
+featured: false
 ---
 All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on **October 25** from **1:30 – 3:00 p.m. (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees and the Executive Director, federal agency updates, and a guest presentation by Dr. Bonnielin Swenor, Director of the Johns Hopkins Disability Health Research Center. Dr. Swenor will discuss data‐driven approaches to improving access and accessibility for people with disabilities, provide examples from the Disability Health Research Center, including data dashboards, and review data gaps and opportunities.   
 
