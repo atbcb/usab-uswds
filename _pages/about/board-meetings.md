@@ -27,7 +27,7 @@ The next meeting of the Board is scheduled for **Wednesday, January 24, 2024**. 
 
 ## Board Meeting Archives
 
-- [October 25, 2023](https://www.youtube.com/watch?v=PTtRpkkejVg&t)
+- [October 25, 2023](https://www.youtube.com/live/PTtRpkkejVg?si=anILhaJz1-tmkjgW&t=95)
 - [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://www.youtube.com/watch?v=Hd619gImSQY) 
 - [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
