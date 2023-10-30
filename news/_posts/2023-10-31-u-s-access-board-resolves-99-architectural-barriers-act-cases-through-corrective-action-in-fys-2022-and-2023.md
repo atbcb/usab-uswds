@@ -8,7 +8,9 @@ excerpt: The U.S. Access Board investigated 99 cases under the Architectural
   Fiscal Years (FY) 2022 and 2023. The ABA requires access to buildings or
   facilities that were designed, built, or altered with federal dollars or
   leased by federal agencies. The Board enforces the ABA through . . .
-featured: false
+image: /images/uploads/usps-building.png
+image_alt_text: United States Post Office building
+featured: true
 ---
 The U.S. Access Board investigated 99 cases under the [Architectural Barriers Act](https://www.access-board.gov/law/aba.html) (ABA) of 1968 that were resolved through corrective action in Fiscal Years (FY) 2022 and 2023. The ABA requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board [enforces the ABA](https://www.access-board.gov/enforcement/investigation.html) through investigating complaints from the public. 
 
