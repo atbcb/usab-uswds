@@ -12,26 +12,10 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, October 25, 2023** from **1:30 – 3:00 p.m. (ET)**.  At this meeting, which will be held virtually only, the Board will hear committee reports, federal agency updates, and a guest presentation by Dr. Bonnielin Swenor, Director of the Johns Hopkins Disability Health Research Center. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
-
-> **Meeting of the U.S. Access Board**  \
-> October 25, 2023, 1:30 – 3:00 p.m. (ET) \
-> [Meeting link](https://www.zoomgov.com/j/1617026929?pwd=YjdJV0lvMGl2SHY0Q2hKcEFXYmpmZz09) \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
-
->> *Agenda*   
->> * Introductory Remarks; Roll Call; Approval of March 2023 draft meeting minutes (vote) 
->> * Executive Director’s Report 
->> * Guest Presentation: “Using Data to Promote Access and Accessibility” by Bonnielin Swenor, Ph.D., MPH 
->> * Standing Committee Reports 
->> * Ad Hoc and Special Committee Reports 
->> * Federal Agency Updates 
->> * New Business 
->> * Adjourn
+The next meeting of the Board is scheduled for **Wednesday, January 24, 2024**.  At this meeting, which will be held virtually only, the Board will hear committee reports and federal agency updates. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
 ## Future Board Meetings
 
-- October 23 - 25, 2023, Virtual
 - January 22 - 24, 2024, Virtual
 - April 16 - 18, 2024, In-person, Los Angeles, CA
 - July 22 - 24, 2024, In-person, Washington, DC
@@ -43,6 +27,7 @@ The next meeting of the Board is scheduled for **Wednesday, October 25, 2023** f
 
 ## Board Meeting Archives
 
+- [October 25, 2023](https://www.youtube.com/watch?v=PTtRpkkejVg&t)
 - [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://www.youtube.com/watch?v=Hd619gImSQY) 
 - [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)
