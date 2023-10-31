@@ -6,10 +6,7 @@ excerpt: The U.S. Access Board seeks a Public Affairs Specialist to serve in its
   Office of Executive Director. This Public Affairs Specialist will be
   responsible for developing and managing the agency's strategic communications,
   deploying press, digital, and analytic resources . . .
-image: /images/uploads/ab-seal.png
-image_alt_text: Logo of the U.S. Access Board is a blue and red star with the
-  name of the agency circling the star
-featured: true
+featured: false
 ---
 The U.S. Access Board seeks a Public Affairs Specialist to serve in its Office of Executive Director. This Public Affairs Specialist will be responsible for developing and managing the agency's strategic communications, deploying press, digital, and analytic resources nationally and globally to effectively explain accessibility and the work of the Board. More information about the position is in the [vacancy announcement](https://www.usajobs.gov/job/757812300). 
 
