@@ -12,7 +12,7 @@ image: /images/uploads/robert-jackson-courthouse.png
 image_alt_text: Front of Robert Jackson Courthouse in Buffalo, NY
 featured: true
 ---
-The U.S. Access Board investigated 99 cases under the [Architectural Barriers Act](https://www.access-board.gov/law/aba.html) (ABA) of 1968 that were resolved through corrective action in Fiscal Years (FY) 2022 and 2023. The ABA requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board [enforces the ABA](https://www.access-board.gov/enforcement/investigation.html) through investigating complaints from the public. 
+The U.S. Access Board investigated 99 cases under the [Architectural Barriers Act](https://www.access-board.gov/law/aba.html) (ABA) of 1968 that were resolved through corrective action in Fiscal Years (FY) 2022 and 2023. The ABA requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board [enforces the ABA](https://www.access-board.gov/enforcement/investigation.html) through investigating complaints from the public.
 
 The majority of cases concerned access to U.S. post offices, which is typical of the Board’s yearly caseload. Most of the complaints involved fundamental issues affecting access to facilities for people with disabilities, such as entrance doors, particularly the opening force of manual doors, and customer parking.  
 
