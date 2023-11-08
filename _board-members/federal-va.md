@@ -8,8 +8,7 @@ member: federal
 status: current
 image: /images/uploads/michael-brennan.png
 job-title: |
-  Executive Director
-  Office of Construction and Facilities Management
+  Executive Director, Office of Construction and Facilities Management
 department: null
 agency: Department of Veterans Affairs
 ---
