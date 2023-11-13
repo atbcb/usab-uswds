@@ -12,7 +12,15 @@ permalink: /events/
 
 ## Public Events   
 
-No public events are currently planned.
+> **U.S. Access Board Meeting** \
+> January 24, 2024, TBD \
+> Zoom: <https://www.zoomgov.com/j/1611290206> \
+> Meeting ID: 161 129 0206 \
+> Dial by your location: 
+
+>> +1 669 254 5252 US (San Jose) \
+>> +1 646 828 7666 US (New York) \
+>> Meeting ID: 161 129 0206
 
 ### Public Events Archives
 
