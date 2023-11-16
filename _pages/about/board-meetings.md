@@ -15,7 +15,7 @@ permalink: /about/meetings.html
 The next meeting of the Board is scheduled for **Wednesday, January 24, 2024**.  At this meeting, which will be held virtually only, the Board will hear committee reports and federal agency updates. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
 > **U.S. Access Board Meeting** \
-> January 24, 2024, TBD \
+> January 24, 2024, 1:30 PM – 3:00 PM (E.T.) \
 > Zoom: <https://www.zoomgov.com/j/1611290206> \
 > Meeting ID: 161 129 0206 \
 > Dial by your location: 

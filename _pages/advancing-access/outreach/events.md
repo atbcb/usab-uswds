@@ -13,7 +13,7 @@ permalink: /events/
 ## Public Events   
 
 > **U.S. Access Board Meeting** \
-> January 24, 2024, TBD \
+> January 24, 2024, 1:30 PM – 3:00 PM (E.T.) \
 > Zoom: <https://www.zoomgov.com/j/1611290206> \
 > Meeting ID: 161 129 0206 \
 > Dial by your location: 
