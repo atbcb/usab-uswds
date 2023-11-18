@@ -4,13 +4,13 @@ The filename `cj` stands for Congressional Justification. \
 Per [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/), "A list of required links that all federal websites need to have".
 
 Some notes about formatting choices made with Performance and Accountability Report (PAR) files as follows:
-- 2018 single file, mostly markdown with larger tables in HTML
-- 2019 single file entirely in HTML, because builds were failing
+- 2018 single file, mostly markdown with larger tables in HTML.
+- 2019 single file entirely in HTML, because builds were failing.
 - 2020 single file in HTML with improved formatting for tables.
-- 2021 main file is mostly markdown but lots of HTML as needed
-  + includes used for larger HTML data tables because builds were failing
-- 2022 several files with main file entirely in markdown
-  + includes are in markdown where feasible to do so
-  + complex data tables are stand-alone HTML files
-  + file names incorporate a number so that directory listing (by filename) shows includes in order used by main file
-- 2023 several files, same as with 2022
+- 2021 main file is mostly markdown but lots of HTML as needed;
+  + includes used for larger HTML data tables because builds were failing.
+- 2022 several files with main file entirely in markdown:
+  + includes are in markdown where feasible to do so;
+  + complex data tables are stand-alone HTML files;
+  + file names incorporate a number so that directory listing (by filename) shows includes in order used by main file.
+- 2023 several files, using 2022 as as model.
