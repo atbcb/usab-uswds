@@ -1,7 +1,5 @@
 ## Goal #3: Improve the Accessibility of the Federal Government
 
-hello
-
 The Access Board's third strategic goal is supported by three objectives, which are:
 
 - Objective 3.1: Improve the accessibility of federal buildings and facilities through enhanced awareness and robust enforcement of the Architectural Barriers Act.
