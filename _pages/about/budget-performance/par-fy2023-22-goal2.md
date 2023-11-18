@@ -1,4 +1,4 @@
-## Goal #2: Provide education and information on the importance and implementation of accessible design
+## Goal #2: Provide Education and Information on the Importance and Implementation of Accessible Design
 
 The Access Board's second strategic goal is supported by four objectives, which are:
 
@@ -9,34 +9,26 @@ The Access Board's second strategic goal is supported by four objectives, which 
 
 ### Background
 
-The Access Board provides technical assistance (TA) to the public on its guidelines and standards and on other aspects of accessible design through a TA hotline, published guidance, and webinars and training. The agency responds to thousands of TA inquiries each year via phone and e-mail. In recent years, the Access Board's website has also become a go-to resource on accessible design. Users of the website can, among other things, view the Access Board's accessibility guidelines and standards, as well as downloadable animations illustrating the rationale behind the guidelines and standards and showing how accessible features are used by individuals with disabilities. All published materials are downloadable in accessible formats. Collectively, the Access Board's TA services play a critical role in assisting design professionals, governmental jurisdictions, people with disabilities, and other stakeholders understand and apply accessible design requirements.
+The Access Board provides technical assistance (TA) to the public on its guidelines and standards and on other aspects of accessible design through a TA hotline, published guidance, and webinars and training. The agency responds to thousands of TA inquiries each year via phone and e-mail.  In recent years, the Access Board's website has also become a go-to resource on accessible design.  Users of the website can, among other things, view the Access Board's accessibility guidelines and standards, as well as animations illustrating the rationale behind the guidelines and standards and showing how accessible features are used by individuals with disabilities.  All published materials are downloadable in accessible formats.  Collectively, the Access Board's TA services play a critical role in assisting design professionals, governmental jurisdictions, people with disabilities, and other stakeholders understand and apply accessible design requirements.
 
-### Summary of Key Accomplishments in FY 2022
+### Summary of Key Accomplishments in FY 2023
 
 #### Technical Assistance
 
-As in prior years, the Access Board's TA services proved to be one of the agency's signature ways to serve the public, enabling the agency to achieve Objectives 2.1 and 2.2. In FY 2022, over 4,582 TA inquiries were managed. Inquiries are fielded through the Board's TA phone line and via e-mail. Most inquiries help members of the public in their understanding of technical requirements and how to apply the accessibility guidelines and standards to their specific situations.
+The Access Board's TA continues to be one of the agency's signature services in serving the public, enabling the agency to achieve Objectives 2.1 and 2.2.  Inquiries are fielded through the Access Board's TA phone line and via e-mail.  Most inquiries help members of the public in their understanding of technical requirements and how to apply the accessibility guidelines and standards to their specific situations.  In FY 2023, over 5,000 TA inquiries were managed, representing a 17% increase from FY 2022.
 
-To ensure consistent and accurate staff responses to accessibility questions, the Access Board developed a knowledge management system (KMS) to collect and store information and guidance generated in its provision of TA. This internal, centralized repository enables staff to document and categorize questions received and the specific answers by staff. The KMS supports Access Board staff in easily retrieving and providing consistent assistance to members of the public. Information housed in the KMS includes hyper-linked cross-references to agency guidance relevant to a given provision or topic, responses to past TA inquiries, and notations about accessibility or design issues that may warrant future attention by the agency (e.g., the development of educational and training materials). The Access Board expects this critical tool to pay great dividends by enhancing the clarity and consistency of the technical assistance it provides to the public daily.
+To ensure consistent and accurate staff responses to accessibility questions, the Access Board developed a knowledge management system (KMS) to collect and store information and guidance generated in its provision of TA. This internal, centralized repository enables staff to document and categorize questions received and the specific answers provided by staff.  The KMS supports Access Board staff in easily retrieving and providing consistent assistance to members of the public.  Information housed in the KMS includes hyper-linked cross-references to agency guidance relevant to a given provision or topic, responses to past TA inquiries, and notations about accessibility or design issues that may warrant future attention by the agency (e.g., the development of educational and training materials).  The Access Board expects this critical tool to pay great dividends by enhancing the clarity and consistency of the technical assistance it provides to the public daily.
 
 #### TA Guidance
 
-As part of its TA program, the agency develops various educational materials (Objective 2.3) to help explain different aspects of its guidelines under the ADA, ABA, and other laws. The agency's Guidance Documents and TA Documents review application of relevant existing ADA and ABA Accessibility Standards and non-mandatory recommendations and best practices to improve access to a site, building, facility, space, element, or service. Access Board staff also produce informative animations that help design professionals understand the reason and method of application of the requirements in the ADA and ABA Accessibility Standards. The agency's website provides a complete list of its Guidance Documents (including animations and videos) at [www.access-board.gov/guidance.html]({{ site.baseurl }}/guidance.html) and its TA Documents at [www.access-board.gov/tad]({{ site.baseurl }}/tad).
+As part of its TA program, the agency develops various educational materials (Objective 2.3) to help explain different aspects of its guidelines under the ADA, ABA, and other laws.  The agency's Guidance Documents and TA Documents review application of relevant existing ADA and ABA Accessibility Standards and non-mandatory recommendations and best practices to improve access to a site, building, facility, space, element, or service.  Access Board staff also produce informative animations that help design professionals understand the reason and method of application of the requirements in the ADA and ABA Accessibility Standards.  The agency's website provides a complete list of its [Guidance Documents]({{ site.baseurl }}/guidance.html) (including animations and videos) at  and its [TA Documents]({{ site.baseurl }}/tad).
 
-In FY 2022, the Access Board published a total of four guides/technical bulletin as part of its Guidance Documents collection and one TA Document. Each publication includes extensive graphics to illustrate accessibility requirements and best practices for accessible design. The five publications are:
+The Access Board provides publicly available guides/technical bulletins that cover chapters 1-6 and signage in chapter 7 of the ADA and ABA.  In FY 2023, the Access Board’s work on producing more guides/technical bulletin has slowed as rulemaking efforts have increased.  Board staff have been working on the following guides:
 
-##### Guides/Technical Bulletins
+- Chapter 7: Detectable Warnings (ADA and ABA)
+- Chapter 10: Recreation (ADA)
 
-1. Lavatories and Sinks
-2. Washing Machines and Clothes Dryers
-3. Saunas and Steam Rooms
-4. Signs
-
-##### Technical Assistance Documents
-
-1. Design Recommendations for Accessible Electric Vehicle Charging Stations (discussed in greater detail under Goal #1, above).
-
-#### Other Technical Assistance, Resources, and Public Communication
+#### Other Technical Assistance and Resources
 
 The Access Board achieves Objective 2.3 through other efforts, such as relationship-building, resources, and public communication. As in prior years, the Access Board cultivates a solid partnership with Amtrak to ensure that accessibility improvements continue as rail cars are updated. In FY 2022, as part of its technical assistance efforts, Access Board technical staff travelled several times to Philadelphia to roll through and review the hard mock-up of Amtrak's new rail cars that will replace the existing 50-year-old Am-Fleet rail cars. During those visits, Access Board staff identified several design improvements to meet Amtrak's accessibility obligations and to improve the disabled riders' experience.
 
