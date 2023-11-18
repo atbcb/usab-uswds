@@ -12,7 +12,7 @@ The Access Board's first strategic goal is supported by five objectives, which a
 
 In its mission and under its statutory authority, the Access Board develops and maintains accessibility standards and guidelines, and Goal #1 establishes objectives that direct Board staff and operations to complete such work.  The Access Board is responsible for developing and maintaining accessibility criteria for the built environment, transportation vehicles, ICT, medical diagnostic equipment, and outdoor recreational areas under the Americans with Disabilities Act of 1990 (ADA), the ABA, and Sections 508 and 510 of the Rehabilitation Act.  In general, the Access Board has regulatory authority for two different types of accessibility criteria: (1) accessibility "guidelines," which only have force of law when formally adopted through regulation by an enforcing entity --- typically, another federal agency; and (2) accessibility "standards," which have force of law upon issuance.  For example, under the ADA, the Departments of Justice (DOJ) and Transportation (DOT) are obliged to use the Access Board's ADA Accessibility Guidelines as the baseline for implementing their regulations addressing public accommodations and transportation vehicles, respectively.
 
-However, until these departments promulgate final regulations, the ADA Accessibility Guidelines are not legally enforceable.  By contrast, under Section 508 of the Rehabilitation Act, the Access Board is charged with issuing technical and functional performance standards for the accessibility of ICT that federal agencies develop, procure, maintain, or use, and these standards are enforceable upon promulgation by the Access Board.  Technical standards for medical diagnostic equipment issued under Section 510 of the Rehabilitation Act, part of the Patient Protection and Affordable Care Act, are voluntary in nature. Federal agencies are not required to adopt these standards, but they may adopt the standards as mandatory requirements under the ADA.
+However, until these departments promulgate final regulations, the ADA Accessibility Guidelines are not legally enforceable.  By contrast, under Section 508 of the Rehabilitation Act, the Access Board is charged with issuing technical and functional performance standards for the accessibility of ICT that federal agencies develop, procure, maintain, or use, and these standards are enforceable upon promulgation by the Access Board.  Technical standards for medical diagnostic equipment issued under Section 510 of the Rehabilitation Act, part of the Patient Protection and Affordable Care Act, are voluntary in nature.  Federal agencies are not required to adopt these standards, but they may adopt the standards as mandatory requirements under the ADA.
 
 ### Summary of Key Accomplishments in FY 2023
 
@@ -38,8 +38,9 @@ But kiosks and SSTMs have long posed accessibility barriers to people with disab
 
 As part of its work for Objective 1.4, the Access Board has devoted attention to these emerging technologies and ubiquitous trends.  On September 21, 2022, the agency issued an advance notice of proposed rulemaking (ANPRM) on supplemental accessibility guidelines for different types of SSTMs, including electronic self-service kiosks, to be accessible to, and usable by, people with disabilities.  The Access Board sought public comments on accessibility issues and solutions related to the various types of SSTMs, use and design of SSTMs, location of SSTMs, the number of SSTMs that should be accessible at locations where there is more than one, and economic impacts on small business, non-profit, and governmental entities in the implementation of accessible SSTMs.
 
+<div id="gv" />
+
 The ANPRM comment period ended in FY 2023 on November 21, 2022, and 80 comments were received.  Board staff are preparing an NPRM in FY 2023, and the Access Board anticipates the issuance of it in June 2024.
-{#gv}
 
 #### Electric Vehicle Charging Stations
 
