@@ -14,4 +14,3 @@ Some notes about formatting choices made with Performance and Accountability Rep
   + complex data tables are stand-alone HTML files
   + file names incorporate a number so that directory listing (by filename) shows includes in order used by main file
 - 2023 several files, same as with 2022
-- 
