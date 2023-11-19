@@ -3,10 +3,10 @@ title: Performance and Accountability Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-banner-subtitle: Performance and Accountability Report Fiscal Year 2022
+banner-subtitle: Performance and Accountability Report Fiscal Year 2023
 permalink: /about/par2023.html
 file: usab-par-fy2023.pdf
-file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2022
+file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2023
 ---
 <button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
@@ -184,13 +184,13 @@ There are no material uncollectible accounts as of September 30, 2023 and 2022.
 
 #### NOTE 4. PROPERTY, PLANT AND EQUIPMENT, NET
 
-Schedule of Property, Plant and Equipment, Net as of September 30, 2023:
+Schedule of Property, Plant and Equipment, Net as of September 30, 2022:
 
-{% include_relative par-fy2023-54-note4-23.html %}
+{% include_relative par-fy2023-54-note4a.html %}
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2022.
 
-{% include_relative par-fy2023-55-note4-22.html %}
+{% include_relative par-fy2023-55-note4b.html %}
 
 #### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
@@ -214,11 +214,11 @@ Sick and other leave is expensed as taken.
 
 Other liabilities account balances as of September 30, 2023 were as follows:
 
-{% include_relative par-fy2023-57-note6-23.html %}
+{% include_relative par-fy2023-57-note6a.html %}
 
 Other liabilities account balances as of September 30, 2022 were as follows:
 
-{% include_relative par-fy2023-58-note6-22.html %}
+{% include_relative par-fy2023-58-note6b.html %}
 
 #### NOTE 7. LEASES
 
@@ -287,10 +287,10 @@ The 2024 Budget of the United States Government, with the "Actual" column comple
 In Millions
 
 | &nbsp; | Budgetary<br /> Resources | New Obligations<br /> & Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
-| :---                                      | ---:     | ---:    | ---:   | ---:    |
-| Combined Statement of Budgetary Resources | $   11   | $   9   | &nbsp; | $   8   |
-| Difference -- Due to Rounding             |     (1)  | -       | &nbsp; | -       |
-| **Budget of the U.S. Government**         | **$ 10** | **$ 9** | &nbsp; | **$ 8** |
+| :---                                      | ---:     | ---:    | ---:    | ---:    |
+| Combined Statement of Budgetary Resources | $ 11     | $ 9     | &nbsp;  | $ 8     |
+| Difference -- Due to Rounding             | (1)      | -       | &nbsp;  | -       |
+| **Budget of the U.S. Government**         | **$ 10** | **$ 9** | &nbsp;  | **$ 8** |
 {: .par-money }
 
 #### NOTE 11. RECONCILIATION OF NET COST TO NET OUTLAYS
