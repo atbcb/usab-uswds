@@ -186,11 +186,11 @@ There are no material uncollectible accounts as of September 30, 2023 and 2022.
 
 Schedule of Property, Plant and Equipment, Net as of September 30, 2022:
 
-{% include_relative par-fy2023-54-note4a.html %}
+{% include_relative par-fy2023-54-note4-23.html %}
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2022.
 
-{% include_relative par-fy2023-55-note4b.html %}
+{% include_relative par-fy2023-55-note4-22.html %}
 
 #### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
