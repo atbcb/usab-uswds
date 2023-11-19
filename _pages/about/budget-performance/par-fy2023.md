@@ -214,11 +214,11 @@ Sick and other leave is expensed as taken.
 
 Other liabilities account balances as of September 30, 2023 were as follows:
 
-{% include_relative par-fy2023-57-note6a.html %}
+{% include_relative par-fy2023-57-note6-23.html %}
 
 Other liabilities account balances as of September 30, 2022 were as follows:
 
-{% include_relative par-fy2023-58-note6b.html %}
+{% include_relative par-fy2023-58-note6-22.html %}
 
 #### NOTE 7. LEASES
 
@@ -288,8 +288,8 @@ In Millions
 
 | &nbsp; | Budgetary<br /> Resources | New Obligations<br /> & Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
 | :---                                      | ---:     | ---:    | ---:   | ---:    |
-| Combined Statement of Budgetary Resources | $ 11     | $ 9     | &nbsp; | $ 8     |
-| Difference -- Due to Rounding            | (1)      | -       | &nbsp; | -       |
+| Combined Statement of Budgetary Resources | $   11   | $   9   | &nbsp; | $   8   |
+| Difference -- Due to Rounding             |     (1)  | -       | &nbsp; | -       |
 | **Budget of the U.S. Government**         | **$ 10** | **$ 9** | &nbsp; | **$ 8** |
 {: .par-money }
 
