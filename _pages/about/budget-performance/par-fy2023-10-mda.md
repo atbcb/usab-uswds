@@ -87,7 +87,7 @@ The Access Board pursues the collection of delinquent debt.  When it does have D
 
 #### Prompt Payment Act of 1982
 
-The Prompt Payment Act requires federal agencies to make timely payments to vendors for covered supplies and services, pay an interest penalty when payment is made after the due date, and take cash discounts when economically justified.  The Access Board always strives to maintain a 100% on-time payment rate and, in FY 2023, incurred $0 in interest penalties. The agency will work to maintain 100% on-time vendor payments in future fiscal years.
+The Prompt Payment Act requires federal agencies to make timely payments to vendors for covered supplies and services, pay an interest penalty when payment is made after the due date, and take cash discounts when economically justified.  The Access Board always strives to maintain a 100% on-time payment rate and, in FY 2023, incurred $0 in interest penalties.  The agency will work to maintain 100% on-time vendor payments in future fiscal years.
 
 #### Digital Accountability and Transparency Act of 2014 (DATA Act)
 
