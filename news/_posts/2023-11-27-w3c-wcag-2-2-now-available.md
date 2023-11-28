@@ -9,8 +9,13 @@ excerpt: The Access Board congratulates the Web Accessibility Initiative (WAI)
   (which added 17 Success Criteria to WCAG 2.0) and includes links to supporting
   documents that explain how to make web content more accessible to a wider
   range of people with disabilities . . .
-image: /images/uploads/map-of-earth.png
-image_alt_text: Map of Earth made from a web of interconnected blue lines.
+image: https://www.w3.org/cms-uploads/Hero-illustrations/groups.svg
+image_alt_text: Stylized graphic of W3C logo being assembled and lifted into
+  place by three people.  A dark-skinned man in a red shirt sits on the left
+  with a laptop.  In the middle, a medium skinned woman covered head to toe in
+  purple hues, is lifting a large blue 3 to the right of a W.  On the right, a
+  fair-skinned woman seated in wheelchair and wearing yellow, holds a large C in
+  place.
 featured: true
 ---
 The Access Board congratulates the Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)) and the [Accessibility Guidelines Working Group](https://www.w3.org/groups/wg/ag/) (AG WG) with publishing [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) as a World Wide Web Consortium (W3C) Recommendation.  WCAG 2.2 adds nine new Success Criteria to WCAG 2.1 (which added 17 Success Criteria to WCAG 2.0) and includes links to supporting documents that explain how to make web content more accessible to a wider range of people with disabilities.  The additional Success Criteria address barrier encountered by people with visual, mobility, hearing, and cognitive disabilities, but not covered by WCAG 2.1 or 2.0.  The [new requirements in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) address ways to help users navigate and find content, operate functionality more easily through various inputs beyond keyboard, develop webpages to appear and operate in predictable ways, and readily avoid and correct mistakes.  Additionally, WCAG 2.2 includes [personas](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#about-the-personas) to help explain some aspects of the WCAG Success Criteria. 
