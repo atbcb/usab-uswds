@@ -75,7 +75,7 @@ The Director of the Office of Technical and Information Services (OTIS) serves a
 
 The Access Board contracts with trained, neutral third parties (i.e., other federal agencies or private entities) to provide pre-complaint (informal) counseling and alternative dispute resolution, receive and process formal complaints, and furnish investigative services. References in this directive to EEO Counselors, EEO Officers, and EEO Investigators are personnel employed by, or under contract with, the Access Board.
 
-### 6.3. MANDATORY PRE-COMPLAINT (INFORMAL) EEO COUNSELLING
+### 6.3. MANDATORY PRE-COMPLAINT (INFORMAL) EEO COUNSELLING {#informal}
 
 #### 6.3.1. Initiation of EEO Counselling
 
@@ -89,10 +89,11 @@ Absent extension, the EEO counseling period lasts 30 days. The EEO Counselor mus
 
 #### 6.3.3. EEO Alternative Dispute Resolution (ADR) Program
 
-At the initial counseling session, the EEO Counselor must inquire whether the employee is interested in participating in the Access Board’s EEO ADR program. If so, then within a reasonable time, the Access Board will decide whether it will offer EEO ADR to the employee. The Access Board’s EEO ADR process is administered by the neutral third-party contracted to provide EEO services. An employee who is offered EEO ADR must decide whether to proceed with the EEO ADR or with EEO Counseling. Once an employee elects EEO ADR, the EEO Counselor must complete the intake functions of counseling and refer the case to the EEO ADR process. Once the intake functions are complete, the EEO Counselor ceases involvement with the matter until the EEO ADR process is complete.
-If the EEO ADR is successful, the EEO Counselor shall follow the process for informal resolution. (See section 6.3.5 below). If the EEO ADR is unsuccessful or the employee withdraws, the EEO Counselor must provide the employee with the final interview and Notice of Right to File a Formal Complaint. (See section 6.3.5 below). In addition, the EEO Counselor must prepare the EEO Counselor’s Report and note that the parties attempted EEO ADR, but not reveal any other information about the EEO ADR process.
+At the initial counseling session, the EEO Counselor must inquire whether the employee is interested in participating in the Access Board’s EEO ADR program. If so, then within a reasonable time, the Access Board will decide whether it will offer EEO ADR to the employee. The Access Board’s EEO ADR process is administered by the neutral third-party contracted to provide EEO services. An employee who is offered EEO ADR must decide whether to proceed with the EEO ADR or with EEO Counseling. Once an employee elects EEO ADR, the EEO Counselor must complete the intake functions of counseling and refer the case to the EEO ADR process.  Once the intake functions are complete, the EEO Counselor ceases involvement with the matter until the EEO ADR process is complete.
 
-#### 6.3.4. Conclusion of Counseling Period: Informal Resolution or Notice of Rights
+If the EEO ADR is successful, the EEO Counselor shall follow the process for informal resolution.  (_See_ [section 6.3.4](#ir) below).  If the EEO ADR is unsuccessful or the employee withdraws, the EEO Counselor must provide the employee with the final interview and Notice of Right to File a Formal Complaint. (_See_ [section 6.4](#formal) below).  In addition, the EEO Counselor must prepare the EEO Counselor’s Report and note that the parties attempted EEO ADR, but not reveal any other information about the EEO ADR process.
+
+#### 6.3.4. Conclusion of Counseling Period: Informal Resolution or Notice of Rights {#ir}
 
 When a dispute is informally resolved during the EEO counseling process or EEO ADR, the parties’ agreement shall be reduced to writing. This written document must, at minimum, specify the agreed-upon terms, clearly identify the claims resolved, and be signed by both parties (i.e., Access Board and complainant). The EEO Counselor, with the knowledge and guidance of the agency’s EEO Director, should set forth the agreed-upon terms of the parties’ informal resolution in a settlement agreement transmitted to both parties. The EEO Counselor shall transmit a signed and dated copy of the settlement agreement to the EEO Director.
 
@@ -168,7 +169,7 @@ Within 40 days of receiving an Administrative Judge's decision and hearing file 
 
 The Executive Director shall issue the final agency order, unless the complaint involves an action taken by the Executive Director, in which event the Access Board Chair or Vice-Chair shall issue the final agency order.
 
-### 6.7. FINAL AGENCY DECISION WHEN HEARING IS NOT REQUESTED {#final}
+### 6.7. FINAL AGENCY DECISION WHEN HEARING IS NOT REQUESTED {#fad}
 
 #### 6.7.1. Final Agency Action
 
