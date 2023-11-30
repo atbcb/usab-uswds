@@ -3,7 +3,7 @@ title: Architectural Barriers Act
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /law/aba.html
+permalink: /about/law/aba.html
 redirect_from:
     - /the-board/laws/architectural-barriers-act-aba/
 ---
