@@ -9,6 +9,7 @@ permalink: /policy/
 # {{ page.title }} of the Access Board
 
 * [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html)
+* [Equal Employment Opportunity Policy Statement]({{ site.baseurl }}/about/eeo-policy.html
 * [Fragrance-Free Environment]({{ site.baseurl }}/about/policy/ffe.html)
 * [Freedom of Information Act (FOIA)]({{ site.baseurl }}/about/policy/foia.html)
 * [Information Quality]({{ site.baseurl }}/about/policy/iq.html)
