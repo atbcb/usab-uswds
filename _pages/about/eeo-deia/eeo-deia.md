@@ -10,12 +10,12 @@ permalink: /about/eeo-deia/
 
 ## Equal Employment Opportunity (EEO) 
 
-* EEO Policy Statement
-* Complaint Procedures
+* [EEO Policy Statement]({{ site.baseurl }}/about/eeo-policy.html
+* [EEO Complaint Procedures]({{ site.baseurl }}/about/eeo-complaints.html)
 * [No FEAR Act Data]({{ site.baseurl }}/about/no-fear-data.html)
 * [Reasonable Accommodation Procedures]({{ site.baseurl }}/about/policy/ra.html) 
 
-## Diversity Equity Inclusion and Accessibility
+## Diversity, Equity, Inclusion, and Accessibility
 
 * [DEIA Strategic Plan 2022]({{ site.baseurl }}/deia-strategic-plan/)
-* [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibilty.html)
+* [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html)
