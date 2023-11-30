@@ -3,7 +3,7 @@ title: Rehabilitation Act
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /law/ra.html
+permalink: /about/law/ra.html
 redirect_from:
     - /the-board/laws/rehabilitation-act-of-1973/
 ---
