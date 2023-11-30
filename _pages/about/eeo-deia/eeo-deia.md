@@ -15,7 +15,7 @@ permalink: /about/eeo-deia/
 * [No FEAR Act Data]({{ site.baseurl }}/about/no-fear-data.html)
 * [Reasonable Accommodation Procedures]({{ site.baseurl }}/about/policy/ra.html) 
 
-## Diversity, Equity, Inclusion, and Accessibility
+## Diversity, Equity, Inclusion, and Accessibility (DEIA)
 
 * [DEIA Strategic Plan 2022]({{ site.baseurl }}/deia-strategic-plan/)
 * [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html)
