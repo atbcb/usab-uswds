@@ -3,7 +3,7 @@ title: Laws
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /law/
+permalink: /about/law/
 ---
 
 # {{ page.title }} Concerning the Access Board

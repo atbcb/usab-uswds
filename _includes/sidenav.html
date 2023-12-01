@@ -42,24 +42,31 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% endif %}
             </li>
             <li class="usa-sidenav__item">
-	      {% if page.title == "Budget and Performance" %}
-              <a name="budget and performance" class="usa-current">Budget and Performance &rarr;</a>
-              {% else %}
-              <a href="{{ site.baseurl }}/bp">Budget and Performance</a>
-              {% endif %}
-            </li>
-            <li class="usa-sidenav__item">
               {% if page.title == "Laws" %}
               <a name="laws" class="usa-current">Laws &rarr;</a>
               {% else %}
-              <a href="{{ site.baseurl }}/law/">Laws</a>
+              <a href="{{ site.baseurl }}/about/law/">Laws</a>
               {% endif %}
             </li>
             <li class="usa-sidenav__item">
-	      {% if page.title == "Policy" %}
-	      <a name="policy">Policies</a>
+	      {% if page.title == "Budget and Performance" %}
+              <a name="budget and performance" class="usa-current">Budget and Performance &rarr;</a>
               {% else %}
-              <a href="{{ site.baseurl }}/policies">Policies</a>
+              <a href="{{ site.baseurl }}/about/budget-performance/">Budget and Performance</a>
+              {% endif %}
+            </li>
+            <li class="usa-sidenav__item">
+	      {% if page.title == "EEO and DEIA" %}
+              <a name="EEO and DEIA" class="usa-current">EEO and DEIA &rarr;</a>
+              {% else %}
+              <a href="{{ site.baseurl }}/about/eeo-deia/">EEO and DEIA</a>
+              {% endif %}
+            </li>
+            <li class="usa-sidenav__item">
+	      {% if page.title == "Policies" %}
+	      <a name="policies" class="usa-current">Policies &rarr;</a>
+              {% else %}
+              <a href="{{ site.baseurl }}/about/policy/">Policies</a>
               {% endif %}
                 </li>
               </ul>
