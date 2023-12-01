@@ -1,5 +1,5 @@
 ---
-title: Equal Employemnt Opportunity Complaint Procedures
+title: Equal Employment Opportunity Complaint Procedures
 layout: page
 toc: sidenav.html
 banner-title: "About the U.S. Access Board <br /> Equal Employment Opportunity Program"
