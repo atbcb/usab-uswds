@@ -6,7 +6,10 @@ banner-title: About the U.S. Access Board
 permalink: /about/law/ra.html
 redirect_from:
     - /the-board/laws/rehabilitation-act-of-1973/
+    - /law/ra.html
 ---
+https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology
+
 
 # {{ page.title }} of 1973
 
