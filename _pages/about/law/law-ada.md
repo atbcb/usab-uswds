@@ -5,7 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/law/ada.html
 redirect_from:
-    - /law/aba.html
+    - /law/ada.html
 ---
 
 # {{ page.title }} (ADA) of 1990
