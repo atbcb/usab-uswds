@@ -4,6 +4,7 @@ layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/law/ta.html
+redirect_from:
     - /law/ta.html
 ---
 
