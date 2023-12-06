@@ -17,50 +17,46 @@ permalink: /webinars/
         <h3 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
         </h3>
-
         <div class="text-base margin-bottom-2">
           <div class="margin-top-neg-105" style="line-height: 200%;">
             <span class="text-bold">{{ post.date | date: '%B %d, %Y' }}</span>
             {% if post.webinar-start %}
-            <br>
-            <span class="text-bold text-italic">{{ post.webinar-start | date: '%I:%M %p' }}{% if post.webinar-end %} - {{ post.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
+              <br />
+              <span class="text-bold text-italic">{{ post.webinar-start | date: '%I:%M %p' }}{% if post.webinar-end %} - {{ post.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
             {% endif %}
             {% if post.registration-link %}
-            <br>
-            <span><a href="{{ post.registration-link }}">Registration Link</a></span>
+              <br />
+              <span><a href="{{ post.registration-link }}">Registration Link</a></span>
             {% endif %}
             {% if post.presenters %}
-            <br>
-            <span class="text-bold">Presenters: | </span>
-            {% for presenter in post.presenters %}
-               {% include staff.html staff=presenter %}
-            {% endfor %}
+              <br />
+              <span class="text-bold">Presenters: | </span>
+              {% for presenter in post.presenters %}
+                {% include staff.html staff=presenter %}
+              {% endfor %}
             {% endif %}
             {% if post.tags %}
-            <br>
-            {% for tag in post.tags %}
-              {% include tags.html tag=tag %}
-            {% endfor %}
-            {% endif %}
-            
-             
+              <br />
+              {% for tag in post.tags %}
+                {% include tags.html tag=tag %}
+                {% endfor %}
+            {% endif %}              
           </div>
         </div>
         <div class="clearfix">
           {% if post.image %}
-          <img src="{{ site.baseurl }}{{ post.image }}"
-          class="img-right maxw-card-lg maxh-card" alt="{{ post.image_alt_text }}">
+            <img src="{{ site.baseurl }}{{ post.image }}" class="img-right maxw-card-lg maxh-card" alt="{{ post.image_alt_text }}">
           {% endif %} 
           {{ post.excerpt }}
               {% comment %} We default to using post.excerpt, but
-              you can also use post.content. If you use excerpt then you have to
+              you can also use post.content.  If you use excerpt then you have to
               make sure the content is on each post header {% endcomment %}
         </div>
       </div>
       {% endif %}
       {% endfor %}
-      {% include big-button.html link= "/webinars/training.html" text="Request a Training" %}
-      {% include big-button.html link= "/webinars/past.html" text="View Past Webinars and Trainings" %}
+      {% include big-button.html link= "/webinars/training.html" text="How to request (free) training" %}
+      {% include big-button.html link= "/webinars/past.html" text="Listing of past USAB webinars and trainings" %}
       {% include back-to-top.html %}
     </div>
     <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">

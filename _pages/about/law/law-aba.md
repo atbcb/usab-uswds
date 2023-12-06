@@ -6,6 +6,7 @@ banner-title: About the U.S. Access Board
 permalink: /about/law/aba.html
 redirect_from:
     - /the-board/laws/architectural-barriers-act-aba/
+    - /law/aba.html
 ---
 
 # {{ page.title }} (ABA) of 1968
