@@ -42,9 +42,9 @@ For thousands of years, people have been gathering at stadiums to watch sports. 
 
 ### Speakers
 
-[Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience), Accessibility Specialist, **U.S. Access Board**
+**[Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience)**, Accessibility Specialist, **U.S. Access Board**
 
-[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience), Accessibility Specialist, **U.S. Access Board**
+**[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience)**, Accessibility Specialist, **U.S. Access Board**
 
 ### Session Questions
 
