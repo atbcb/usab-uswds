@@ -115,6 +115,7 @@ The following concise descriptions of the nine FOIA exemptions referenced in thi
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |  6   |  4   |   0  |  19  |
 | Agency Overall |  6   |  4   |   0  |  10  |
+{: .usa-table }
 
 _*Number of Full Denials Based on Reasons Other than Exemptions._
 
@@ -165,7 +166,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
 | USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 | Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table-container--scrollable }
+{: .usa-table .usa-table-container--scrollable }
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
@@ -173,7 +174,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | USAB               |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
 | Agency Overall     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
-{: .usa-table }
+{: .usa-table .usa-table-container--scrollable }
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
 
