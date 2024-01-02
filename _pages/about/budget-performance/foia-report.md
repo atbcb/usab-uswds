@@ -139,7 +139,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
 | USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 | Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table }
+{: .usa-table .usa-table-container--scrollable }
 
 ## Section VI
 
@@ -165,7 +165,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
 | USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 | Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table }
+{: .usa-table-container--scrollable }
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
