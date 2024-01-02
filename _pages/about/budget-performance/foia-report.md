@@ -489,7 +489,7 @@ Email:&nbsp; <foia@access-board.gov>
 
 ## Section VII
 
-### VII.A.  FOIA REQUESTS — RESPONSE TIME FOR ALL PROCESSED PERFECTED REQUESTS
+### VII.A.  FOIA REQUESTS -- RESPONSE TIME FOR ALL PROCESSED PERFECTED REQUESTS
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -797,7 +797,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### VII.D.  PENDING REQUESTS — ALL PENDING PERFECTED REQUESTS
+### VII.D.  PENDING REQUESTS -- ALL PENDING PERFECTED REQUESTS
 
 <table class="usa-table">
   <thead>
