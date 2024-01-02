@@ -103,7 +103,7 @@ The following concise descriptions of the nine FOIA exemptions referenced in thi
 
 ### V.A. FOIA REQUESTS -- RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
 
-| Agency/Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
+| Agency / Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |   0  |  20  |  19  |   1  |
 | Agency Overall |   0  |  20  |  10  |   1  |
@@ -111,7 +111,7 @@ The following concise descriptions of the nine FOIA exemptions referenced in thi
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS -- ALL PROCESSED REQUESTS
 
-| Agency/Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions* | TOTAL |
+| Agency / Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions* | TOTAL |
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |  6   |  4   |   0  |  19  |
 | Agency Overall |  6   |  4   |   0  |  10  |
@@ -127,25 +127,25 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS -- "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
-| Agency/Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
-| :---               | :--- | ---: | ---: |
-| USAB               | N/A  |    0 |    0 |
-| Agency Overall     |      |      |    0 |
+| Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
+| :---               | :---: | :---: | :---: |
+| USAB               |  N/A  |   0   |   0   |
+| Agency Overall     |       |       |   0   |
 {: .usa-table }
 
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
-| Agency/Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
-| :---             | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
-| USAB             |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-| Agency Overal    |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
+| :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
+| USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 {: .usa-table }
 
 ## Section VI
 
 ### VI.A.  ADMINISTRATIVE APPEALS OF INITIAL DETERMINATIONS OF FOIA REQUESTS -- RECEIVED, PROCESSED, AND PENDING ADMINISTRATIVE APPEALS
 
-| Agency/Component | Number of Appeals Pending as of Start of Fiscal Year | Number of Appeals Received in Fiscal Year | Number of Appeals Processed in Fiscal Year | Number of Appeals Pending as of End of Fiscal Year |
+| Agency / Component | Number of Appeals Pending as of Start of Fiscal Year | Number of Appeals Received in Fiscal Year | Number of Appeals Processed in Fiscal Year | Number of Appeals Pending as of End of Fiscal Year |
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |   0  |   0  |   0  |   0  |
 | Agency Overall |   0  |   0  |   0  |   0  |
@@ -153,179 +153,36 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VI.B.  DISPOSITION OF ADMINISTRATIVE APPEALS -- ALL PROCESSED APPEALS
 
-
-
-
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Number Affirmed on Appeal</th>
-      <th scope="col">Number Partially Affirmed & Partially Reversed / Remanded on Appeal</th>
-      <th scope="col">Number Completely Reversed / Remanded on Appeal</th>
-      <th scope="col">Number of Appeals Closed for Other Reasons</th>
-      <th scope="col">TOTAL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Number Affirmed on Appeal | Number Partially Affirmed & Partially Reversed / Remanded on Appeal | Number Completely Reversed / Remanded on Appeal |Number of Appeals Closed for Other Reasons | TOTAL|
+| :---           | ---: | ---: | ---: | ---: | ---: |
+| USAB           |   0  |   0  |   0  |   0  |   0  |
+| Agency Overall |   0  |   0  |   0  |   0  |   0  |
+{: .usa-table }
 
 ### VI.C.(1).  REASONS FOR DENIAL ON APPEAL -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Ex. 1</th>
-      <th scope="col">Ex. 2</th>
-      <th scope="col">Ex. 3</th>
-      <th scope="col">Ex. 4</th>
-      <th scope="col">Ex. 5</th>
-      <th scope="col">Ex. 6</th>
-      <th scope="col">Ex. 7(A)</th>
-      <th scope="col">Ex. 7(B)</th>
-      <th scope="col">Ex. 7(C)</th>
-      <th scope="col">Ex. 7(D)</th>
-      <th scope="col">Ex. 7(E)</th>
-      <th scope="col">Ex. 7(F)</th>
-      <th scope="col">Ex. 8</th>
-      <th scope="col">Ex. 9</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
+| :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
+| USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+{: .usa-table }
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
-<div style="width:125%; overflow-x:scroll;">
-  <table class="usa-table">
-    <thead>
-      <tr>
-        <th scope="col">Agency / Component</th>
-        <th scope="col">No Records</th>
-        <th scope="col">Records Referred at Initial Request Level</th>
-        <th scope="col">Request Withdrawn</th>
-        <th scope="col">Fee-Related Reason</th>
-        <th scope="col">Records not Reasonably Described</th>
-        <th scope="col">Improper Request for Other Reasons</th>
-        <th scope="col">Not Agency Record</th>
-        <th scope="col">Duplicate Request or Appeal</th>
-        <th scope="col">Request in Litigation</th>
-        <th scope="col">Appeal Based Solely on Denial of Request for Expedited Processing</th>
-        <th scope="col">Other *Explain in chart below</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td scope="row"> USAB </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-      </tr>
-      <tr>
-        <td scope="row"> AGENCY OVERALL </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Agency / Component | No Records | Records Referred at Initial Request Level | Request Withdrawn | Fee-Related Reason | Records not Reasonably Described | Improper Request for Other Reasons | Not Agency Record | Duplicate Request or Appeal | Request in Litigation | Appeal Based Solely on Denial of Request for Expedited Processing | Other *Explain in chart below |
+| :---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| USAB               |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
+| Agency Overall     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
+{: .usa-table }
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Description of “Other” Reasons for Denial on Appeal from Chart C(2)</th>
-      <th scope="col">Number of Times “Other” Reason Was Relied Upon</th>
-      <th scope="col">TOTAL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> USAB </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td> </td>
-      <td> </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Description of “Other” Reasons for Denial on Appeal from Chart C(2) | Number of Times “Other” Reason Was Relied Upon | TOTAL |
+| :---               | :---: | :---: | :---: |
+| USAB               |  N/A  |   0   |   0   |
+| Agency Overall     |       |       |   0   |
+{: .usa-table }
+
 
 ### VI.C.(4).  RESPONSE TIME FOR ADMINISTRATIVE APPEALS
 
