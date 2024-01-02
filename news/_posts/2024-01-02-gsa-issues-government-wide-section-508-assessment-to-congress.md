@@ -5,7 +5,8 @@ date: 2024-01-02
 excerpt: The General Services Administration (GSA) recently issued a landmark
   report to Congress, which highlights the need for substantial improvements to
   federal Section 508 compliance. This report, the FY23 Government-wide Section
-  508 Assessment, evaluates reporting entities’ adherence . . .
+  508 Assessment, evaluates reporting entities’ adherence to the criteria
+  established by . . .
 image: /images/uploads/gsa-logo.png
 image_alt_text: 'Logo of the General Services Administration: a blue square with
   "GSA" centered on the bottom half. A star shape creates the space in the
