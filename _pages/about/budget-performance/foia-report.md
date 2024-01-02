@@ -55,7 +55,7 @@ The following are definitions of terms used in this Report:
 \c. **Backlog** -- the number of requests or administrative appeals that are pending at an agency at the end of the fiscal year that are beyond the statutory time period for a response.
 \d. **Component** -- for agencies that process requests on a decentralized basis, a "component" is an entity, also sometimes referred to as an Office, Division, Bureau, Center, or Directorate, within the agency that processes FOIA requests.  The FOIA now requires that agencies include in their Annual FOIA report data for both the agency overall and for each principal component of the agency.  As noted, as a micro-agency, OGE does not have any FOIA components, and so the information provided in this report is only for OGE overall.
 \e. **Consultation** -- the procedure whereby the agency responding to a FOIA request first forwards a record to another agency for its review because that other agency has an interest in the document.  Once the agency in receipt of the consultation finishes its review of the record, it responds back to the agency that forwarded in.  That agency, in turn, will then respond to the FOIA requester.
- \f. **Exemption 3 Statute** -- a federal statute that exempts information from disclosure and which the agency relies on to withhold information under subsection (b)(3) of FOIA.
+\f. **Exemption 3 Statute** -- a federal statute that exempts information from disclosure and which the agency relies on to withhold information under subsection (b)(3) of FOIA.
 \g. **FOIA Request** -- a FOIA request is generally a request to a federal agency for access to records concerning another person (i.e., a "third-party" request), or concerning an organization, or a particular topic of interest.  FOIA requests also include requests made by requesters seeking records concerning themselves (i.e., "first-party" requests) when those requesters are not subject to the Privacy Act, such as non-U.S. citizens.  Moreover, because all first-party requesters should be afforded the benefit of both the access provisions of the FOIA as well as those of the Privacy Act, FOIA requests also include any first-party requests where an agency determines that it must search beyond its Privacy Act "systems of records" or where a Privacy Act exemption applies, and the agency looks to FOIA to afford the greatest possible access.  All requests which require the agency to utilize the FOIA in responding to the requester are included in this Report.  Additionally, a FOIA request includes records referred to the agency for processing and direct response to the requester.  It does not, however, include records for which the agency has received a consultation from another agency.  (Consultations are reported separately in Section XII of this Report.)
 \h. **Full Grant** -- an agency decision to disclose all records in full in response to a FOIA request.
 \i. **Full Denial** -- an agency decision not to release any records in response to a FOIA request because the records are exempt in their entireties under one or more of the FOIA exemptions, or because of a procedural reason, such as when no records could be located.
@@ -71,45 +71,57 @@ o. **Partial Grant / Partial Denial** -- in response to a FOIA request, an agenc
 \s. **Range in Number of Days** -- the lowest and highest number of days to process requests or administrative appeals.
 \t. **Time Limits** -- the time period in the statute for an agency to respond to a FOIA request (ordinarily twenty working days from receipt of a perfected FOIA request).
 
-The following concise descriptions of the nine FOIA exemptions:
+The following concise descriptions of the nine FOIA exemptions referenced in this report.
 
-a. **Exemption 1:**  classified national defense and foreign relations information.
-b. **Exemption 2:**  information that is related solely to the internal personnel rules and practices of an agency.
-c. **Exemption 3:**  information that is prohibited from disclosure by another federal law.
-d. **Exemption 4:**  trade secrets and other confidential business information.
-e. **Exemption 5:**  inter-agency or intra-agency communications that are protected by legal privileges.
-f. **Exemption 6:**  information involving matters of personal privacy.
-g. **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual.
-h. **Exemption 8:**  information relating to the supervision of financial institutions.
+\a. **Exemption 1:**  Classified national defense and foreign relations information. \
+b. **Exemption 2:**  information that is related solely to the internal personnel rules and practices of an agency. \
+c. **Exemption 3:**  information that is prohibited from disclosure by another federal law. \
+d. **Exemption 4:**  trade secrets and other confidential business information. \
+e. **Exemption 5:**  inter-agency or intra-agency communications that are protected by legal privileges. \
+f. **Exemption 6:**  information involving matters of personal privacy. \
+g. **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual. \
+h. **Exemption 8:**  information relating to the supervision of financial institutions. \
 i. **Exemption 9:**  geological information on wells.
 
-### 3. Agency Component Abbreviations
 
-| Component Abbreviation | Component Name |
-| --- |--- |
-| USAB | U.S. Access Board |
+1. **Exemption 1:**  Classified national defense and foreign relations information. \
+2. **Exemption 2:**  information that is related solely to the internal personnel rules and practices of an agency. \
+3. **Exemption 3:**  information that is prohibited from disclosure by another federal law. \
+4. **Exemption 4:**  trade secrets and other confidential business information. \
+5. **Exemption 5:**  inter-agency or intra-agency communications that are protected by legal privileges. \
+6. **Exemption 6:**  information involving matters of personal privacy. \
+7. **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual. \
+8. **Exemption 8:**  information relating to the supervision of financial institutions. \
+9. **Exemption 9:**  geological information on wells.
+{: .alpha }
+
+### 3. Agency Component
+
+| Component Abbreviation | Component Name    |
+| :---                   | :---              |
+| USAB                   | U.S. Access Board |
 {: .usa-table }
 
 ## IV. Exemption 3 Statutes
 
 | Statute | Type of Information Withheld | Case Citation | Agency / Component | Number of Times Relied upon by Agency / Component | Total Number of Times Relied upon by Agency Overall |
 | :--- | :--- | :--- | :--- | ---: | ---: |
-| N/A  | N/A  | N/A  | USAB | 0    | 0    |
+| N/A  | N/A  | N/A  | USAB |    0 |    0 |
 {: .usa-table }
 
 ## Section V
 
 ### V.A. FOIA REQUESTS -- RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
 
-| Agency / Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
+| Agency/Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
 | :---           | ---: | ---: | ---: | ---: |
-| USAB           |  0   | 20   | 19   |  1   |
-| Agency Overall |  0   | 20   | 10   |  1   |
+| USAB           |   0  |  20  |  19  |   1  |
+| Agency Overall |   0  |  20  |  10  |   1  |
 {: .usa-table }
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS -- ALL PROCESSED REQUESTS
 
-| Agency / Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions* | TOTAL |
+| Agency/Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions* | TOTAL |
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |  6   |  4   |   0  |  19  |
 | Agency Overall |  6   |  4   |   0  |  10  |
@@ -125,7 +137,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS -- "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
-| Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
+| Agency/Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
 | :---               | :--- | ---: | ---: |
 | USAB               | N/A  |    0 |    0 |
 | Agency Overall     |      |      |    0 |
@@ -133,45 +145,26 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
-| Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
-| :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
-| USAB               |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-| Agency Overall     |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency/Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
+| :---             | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
+| USAB             |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency Overal    |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 {: .usa-table }
 
 ## Section VI
 
 ### VI.A.  ADMINISTRATIVE APPEALS OF INITIAL DETERMINATIONS OF FOIA REQUESTS -- RECEIVED, PROCESSED, AND PENDING ADMINISTRATIVE APPEALS
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Number of Appeals Pending as of Start of Fiscal Year</th>
-      <th scope="col">Number of Appeals Received in Fiscal Year</th>
-      <th scope="col">Number of Appeals Processed in Fiscal Year</th>
-      <th scope="col">Number of Appeals Pending as of End of Fiscal Year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency/Component | Number of Appeals Pending as of Start of Fiscal Year | Number of Appeals Received in Fiscal Year | Number of Appeals Processed in Fiscal Year | Number of Appeals Pending as of End of Fiscal Year |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |   0  |   0  |   0  |   0  |
+| Agency Overall |   0  |   0  |   0  |   0  |
+{: .usa-table }
 
 ### VI.B.  DISPOSITION OF ADMINISTRATIVE APPEALS -- ALL PROCESSED APPEALS
+
+
+
 
 <table class="usa-table">
   <thead>
