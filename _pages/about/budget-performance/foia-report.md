@@ -9,7 +9,8 @@ permalink: /about/foia-report.html
 
 ## Section I: Basic Information Regarding Report
 
-1. Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
+Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
+
 > Christopher Kuczynski \
 General Counsel / Chief FOIA Officer \
 U.S. Access Board \
@@ -18,31 +19,37 @@ Washington, DC&nbsp; 20004 \
 202-272-0080 \
 Email:&nbsp; <foia@access-board.gov>
 
-2. Provide an electronic link for access to the report on the agency Web site:
+Provide an electronic link for access to the report on the agency Web site:
+
 - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
 - The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2023.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2023.xml) formats.
 
-3. Explain how to obtain a copy of the report in paper form.
+Explain how to obtain a copy of the report in paper form.
+
 > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
 ## Section II: Making a FOIA Request
 
-1. Provide names, addresses, and telephone numbers of all individual agency components that receive FOIA requests.
+Provide names, addresses, and telephone numbers of all individual agency components that receive FOIA requests.
+
 > U.S. Access Board \
 1331 F Street NW, Suite 1000 \
 Washington, DC&nbsp; 20004 \
 202-272-0080 \
 Email:&nbsp; <foia@access-board.gov>
 
-2. Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
+Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
+
 > Some requests are not granted because they do not reasonably describe requested records, seek records that are not subject to release under FOIA, or the agency has no responsive records.
 
-3. Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
+Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
+
 > U.S. Access Board's FOIA regulations, including the fee schedule, are codified at [36 CFR Part 1120](https://www.ecfr.gov/current/title-36/part-1120).
 
 ## Section III:  Acronyms, Definitions, and Exemptions
 
-1. Include the following definitions of terms used in this Report:
+The following are definitions of terms used in this Report:
+
     1. **Administrative Appeal** -- a request to a federal agency asking that it review at a higher administrative level a FOIA determination made by the agency at the initial request level.
     2. **Average Number** -- the number obtained by dividing the sum of a group of numbers by the quantity of numbers in the group.  For example, of 3, 7, and 14, the average number is 8.
     3. **Backlog** -- the number of requests or administrative appeals that are pending at an agency at the end of the fiscal year that are beyond the statutory time period for a response.
@@ -63,7 +70,9 @@ Email:&nbsp; <foia@access-board.gov>
     15. **Processed Request or Processed Administrative Appeal** -- a request or administrative appeal for which an agency has taken final action in all respects.
     16. **Range in Number of Days** -- the lowest and highest number of days to process requests or administrative appeals.
     17. **Time Limits** -- the time period in the statute for an agency to respond to a FOIA request (ordinarily twenty working days from receipt of a perfected FOIA request).
-2. **Include the following concise descriptions of the nine FOIA exemptions:**
+
+The following concise descriptions of the nine FOIA exemptions:
+
     1. **Exemption 1:**  classified national defense and foreign relations information
     2. **Exemption 2:**  information that is related solely to the internal personnel rules and practices of an agency
     3. **Exemption 3:**  information that is prohibited from disclosure by another federal law
@@ -73,7 +82,8 @@ Email:&nbsp; <foia@access-board.gov>
     7. **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual
     8.  **Exemption 8:**  information relating to the supervision of financial institutions
     9.  **Exemption 9:**  geological information on wells
-3. Agency Component Abbreviations
+
+### 3. Agency Component Abbreviations
 
 | Component Abbreviation | Component Name |
 | --- |--- |
@@ -83,8 +93,8 @@ Email:&nbsp; <foia@access-board.gov>
 ## IV. Exemption 3 Statutes
 
 | Statute | Type of Information Withheld | Case Citation | Agency / Component | Number of Times Relied upon by Agency / Component | Total Number of Times Relied upon by Agency Overall |
-| --- | --- | --- | --- | :-: | :-: |
-| N/A | N/A | N/A | USAB | 0 | 0 |
+| :--- | :--- | :--- | :--- | ---: | ---: |
+| N/A  | N/A  | N/A  | USAB | 0    | 0    |
 {: .usa-table }
 
 ## Section V
@@ -92,87 +102,41 @@ Email:&nbsp; <foia@access-board.gov>
 ### V.A. FOIA REQUESTS -- RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
 
 | Agency / Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
-| --- | :-: | :-: | :-: | :-: |
-| USAB           | 1 | 8 | 8 | 1 |
-| Agency Overall | 1 | 8 | 8 | 1 |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  0   | 20   | 19   |  1   |
+| Agency Overall |  0   | 20   | 10   |  1   |
 {: .usa-table }
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS -- ALL PROCESSED REQUESTS
 
-<div style="width:125%; overflow-x:scroll;">
-  <table class="usa-table">
-    <thead>
-      <tr>
-        <th rowspan="2" scope="col">Agency / Component</th>
-        <th rowspan="2" scope="col">Number of Full Grants</th>
-        <th rowspan="2" scope="col">Number of Partial Grants / Partial Denials</th>
-        <th rowspan="2" scope="col">Number of Full Denials Based on Exemptions</th>
-        <th colspan="9" scope="col">Number of Full Denials Based on Reasons Other than Exemptions</th>
-        <th rowspan="2" scope="col">TOTAL</th>
-      </tr>
-      <tr>
-        <th style="font-weight: normal;" scope="col">No Records</th>
-        <th style="font-weight: normal;" scope="col">All Records Referred to Another Component or Agency</th>
-        <th style="font-weight: normal;" scope="col">Request Withdrawn</th>
-        <th style="font-weight: normal;" scope="col">Fee-Related Reason</th>
-        <th style="font-weight: normal;" scope="col">Records not Reasonably Described</th>
-        <th style="font-weight: normal;" scope="col">Improper FOIA Request for Other Reason</th>
-        <th style="font-weight: normal;" scope="col">Not Agency Record</th>
-        <th style="font-weight: normal;" scope="col">Duplicate Request</th>
-        <th style="font-weight: normal;" scope="col">Other *Explain in Chart Below</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td scope="row"> USAB </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 2 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 5 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 8 </td>
-      </tr>
-      <tr>
-        <td scope="row"> Agency Overall </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 2 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 5 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 8 </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Agency / Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions* | TOTAL |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  6   |  4   |   0  |  19  |
+| Agency Overall |  6   |  4   |   0  |  10  |
+
+_*Number of Full Denials Based on Reasons Other than Exemptions._
+
+| No Records | All Records Referred to Another Component or Agency | Request Withdrawn | Fee-Related Reason | Records not Reasonably Described | Improper FOIA Request for Other Reason | Not Agency Record | Duplicate Request | Other *Explain in Chart Below |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+|    9 |   0  |    0 |    0 |    0 |    0 |    0 |    0 |    0 |
+|    9 |   0  |    0 |    0 |    0 |    0 |    0 |    0 |    0 |
+{: .usa-table }
+
 
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS -- "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
 | Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
-| ---- | :---: | :---: | :---: |
-| USAB | N/A | 0 | 0 |
-| Agency Overall |  |  | 0 |
+| :---               | :--- | ---: | ---: |
+| USAB               | N/A  |    0 |    0 |
+| Agency Overall     |      |      |    0 |
 {: .usa-table }
 
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
 | Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
-| ------------------ | :---: | :---: | :---: | :---: | :---: | :---: | :------: | :------: | :------: | :------: | :------: | :------: | :---: | :---: |
-| USAB               | 0     | 0     | 0     | 0     | 2     | 2     | 0        | 0        | 0        | 0        | 0        | 0        | 0     |  0  |
-| Agency Overall     | 0     | 0     | 0     | 0     | 2     | 2     | 0        | 0        | 0        | 0        | 0        | 0        | 0     |  0  |
+| :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
+| USAB               |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency Overall     |    0  | 0     |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 {: .usa-table }
 
 ## Section VI
