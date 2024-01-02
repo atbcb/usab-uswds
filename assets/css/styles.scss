@@ -115,10 +115,10 @@ fieldset button {
 }
 
 // Oxford list style
-ol li ol li {
+ol li ol li, ol.alpha li {
   list-style-type: lower-alpha;
 }
-ol li ol li ol li {
+ol li ol li ol li, ol.roman li {
   list-style-type: lower-roman;
 }
 
