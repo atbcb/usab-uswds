@@ -10,12 +10,12 @@ permalink: /about/foia-report.html
 ## Section I: Basic Information Regarding Report
 
 1. Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
-> Christopher Kuczynski /
-General Counsel / Chief FOIA Officer /
-U.S. Access Board /
-1331 F Street NW, Suite 1000 /
-Washington, DC&nbsp; 20004 /
-202-272-0080 /
+> Christopher Kuczynski \
+General Counsel / Chief FOIA Officer \
+U.S. Access Board \
+1331 F Street NW, Suite 1000 \
+Washington, DC&nbsp; 20004 \
+202-272-0080 \
 Email:&nbsp; <foia@access-board.gov>
 
 2. Provide an electronic link for access to the report on the agency Web site:
@@ -28,10 +28,10 @@ Email:&nbsp; <foia@access-board.gov>
 ## Section II: Making a FOIA Request
 
 1. Provide names, addresses, and telephone numbers of all individual agency components that receive FOIA requests.
-> U.S. Access Board  
-1331 F Street NW, Suite 1000 /
-Washington, DC&nbsp; 20004 /
-202-272-0080 /
+> U.S. Access Board \
+1331 F Street NW, Suite 1000 \
+Washington, DC&nbsp; 20004 \
+202-272-0080 \
 Email:&nbsp; <foia@access-board.gov>
 
 2. Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
