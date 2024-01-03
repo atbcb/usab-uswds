@@ -187,110 +187,29 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VI.C.(4).  RESPONSE TIME FOR ADMINISTRATIVE APPEALS
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Median Number of Days</th>
-      <th scope="col">Average Number of Days</th>
-      <th scope="col">Lowest Number of Days</th>
-      <th scope="col">Highest Number of Days</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> USAB </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+{: .usa-table }
 
 ### VI.C.(5).  TEN OLDEST PENDING ADMINISTRATIVE APPEALS
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <td></td>
-      <th scope="col">10th Oldest Appeal</th>
-      <th scope="col">9th</th>
-      <th scope="col">8th</th>
-      <th scope="col">7th</th>
-      <th scope="col">6th</th>
-      <th scope="col">5th</th>
-      <th scope="col">4th</th>
-      <th scope="col">3rd</th>
-      <th scope="col">2nd</th>
-      <th scope="col">Oldest Appeal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2"> USAB </td>
-      <td scope="row"> Date of Appeal </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-    <tr>
-      <td scope="row"> Number of Days Pending </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td rowspan="2"> AGENCY OVERALL </td>
-      <td scope="row">Date of Appeal</td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-    <tr>
-      <td scope="row">Number of Days Pending</td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+#### USAB
+
+|          | 10th Oldest Appeal |9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Appeal |
+| :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
+{: .usa-table .wide }
+
+#### Agency Overall
+
+|          | 10th Oldest Appeal |9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Appeal |
+| :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Date of Appeal         |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
+{: .usa-table .wide }
 
 ## Section VII
 
