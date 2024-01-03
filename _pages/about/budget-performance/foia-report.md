@@ -172,6 +172,10 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 <div class="wide">
 <table class="usa-table">
+  <colgroup>
+    <col>
+    <col span="11" style="text-align:right">
+  </colgroup>
 <thead>
   <tr>
     <th scope="col">Agency / Component</th>
@@ -185,7 +189,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     <th scope="col">Duplicate Request or Appeal</th>
     <th scope="col">Request in Litigation</th>
     <th scope="col">Appeal Based Solely on Denial of Request for Expedited Processing</th>
-    <th> scope="col">Other *Explain in chart below</th>
+    <th scope="col">Other *Explain in chart below</th>
   </tr>
 </thead>
 <tbody>
