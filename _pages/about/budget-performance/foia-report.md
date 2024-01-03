@@ -80,7 +80,7 @@ The following concise descriptions of the nine FOIA exemptions referenced in thi
 4. **Exemption 4:**  trade secrets and other confidential business information.
 5. **Exemption 5:**  inter-agency or intra-agency communications that are protected by legal privileges.
 6. **Exemption 6:**  information involving matters of personal privacy.
-7. **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual. \
+7. **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual.
 8. **Exemption 8:**  information relating to the supervision of financial institutions.
 9. **Exemption 9:**  geological information on wells.
 {: .alpha }
@@ -140,7 +140,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
 | USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 | Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table .wide }
+{: .usa-table }
 
 ## Section VI
 
@@ -166,16 +166,59 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
 | USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 | Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table .wide }
+{: .usa-table }
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
-<div class="wide" markdown="1">
-| Agency / Component | No Records | Records Referred at Initial Request Level | Request Withdrawn | Fee-Related Reason | Records not Reasonably Described | Improper Request for Other Reasons | Not Agency Record | Duplicate Request or Appeal | Request in Litigation | Appeal Based Solely on Denial of Request for Expedited Processing | Other *Explain in chart below |
-| :---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| USAB               |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
-| Agency Overall     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
-{: .usa-table }
+<div class="wide">
+<table class="usa-table">
+<thead>
+  <tr>
+    <th scope="col">Agency / Component</th>
+    <th scope="col">No Records</th>
+    <th scope="col">Records Referred at Initial Request Level</th>
+    <th scope="col">Request Withdrawn</th>
+    <th scope="col">Fee-Related Reason</th>
+    <th scope="col">Records not Reasonably Described</th>
+    <th scope="col">Improper Request for Other Reasons</th>
+    <th scope="col">Not Agency Record</th>
+    <th scope="col">Duplicate Request or Appeal</th>
+    <th scope="col">Request in Litigation</th>
+    <th scope="col">Appeal Based Solely on Denial of Request for Expedited Processing</th>
+    <th> scope="col"Other *Explain in chart below</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">USAB</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th scope="row">Agency Overall</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</tbody>
+</table>
 </div>
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
@@ -203,7 +246,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
 | Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
-{: .usa-table .wide }
+{: .usa-table }
 
 #### Agency Overall
 
@@ -211,7 +254,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Date of Appeal         |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |  N/A |
 | Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
-{: .usa-table .wide }
+{: .usa-table }
 
 ## Section VII
 
