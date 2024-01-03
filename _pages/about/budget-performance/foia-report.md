@@ -517,6 +517,15 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VII.D.  PENDING REQUESTS -- ALL PENDING PERFECTED REQUESTS
 
+| Agency / Component | Number Pendin | Median Number of Days | Average Number of Days |
+| :---               | ---:          | ---:                  | ---:                   |
+| USAB               |    1          |   48                  |   48                   |
+| Agency Overall     |    1          |   48                  |   48                   |
+{: .usa-table }
+
+#### Complext
+
+
 <table class="usa-table">
   <thead>
     <tr>
