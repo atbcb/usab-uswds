@@ -592,9 +592,10 @@ table.par-prose td:first-child {
 // background-color: #f2f2f2;
 // } // zebra stripping by default
 
-// adds horizontal scrollbar to table
-table.wide {
-	overflow-x:scroll;
+// adds horizontal scrollbar
+.wide {
+	overflow-x: auto;
+	max-width: 200pt;
 }
 
 // adjustment to .usa-table--striped, tighten line spacing inside TD
