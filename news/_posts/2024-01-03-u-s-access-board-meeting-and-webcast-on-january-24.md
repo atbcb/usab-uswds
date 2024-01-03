@@ -19,12 +19,12 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 ## Meeting of the U.S. Access Board
 
 January 24, 2024, 1:30 PM – 3:00 PM (E.T.)\
-Zoom: [https://www.zoomgov.com/j/1611290206](https://www.zoomgov.com/j/1611290206 "external link")\
+Zoom: [https://www.zoomgov.com/j/1611290206](https://www.zoomgov.com/j/1611290206)\
 Meeting ID: 161 129 0206\
 Dial in: (646) 828-7666\
 Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
-### **Agenda**
+### Agenda
 
 * Introductory Remarks and Roll Call
 * Approval of Draft October 2023 Meeting Minutes (Vote)
