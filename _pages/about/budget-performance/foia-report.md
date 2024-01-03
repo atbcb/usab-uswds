@@ -171,58 +171,58 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
 <div class="wide">
-<table class="usa-table">
-  <colgroup>
-    <col>
-    <col span="11" style="text-align:right">
-  </colgroup>
-<thead>
-  <tr>
-    <th scope="col">Agency / Component</th>
-    <th scope="col">No Records</th>
-    <th scope="col">Records Referred at Initial Request Level</th>
-    <th scope="col">Request Withdrawn</th>
-    <th scope="col">Fee-Related Reason</th>
-    <th scope="col">Records not Reasonably Described</th>
-    <th scope="col">Improper Request for Other Reasons</th>
-    <th scope="col">Not Agency Record</th>
-    <th scope="col">Duplicate Request or Appeal</th>
-    <th scope="col">Request in Litigation</th>
-    <th scope="col">Appeal Based Solely on Denial of Request for Expedited Processing</th>
-    <th scope="col">Other *Explain in chart below</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <th scope="row">USAB</th>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <th scope="row">Agency Overall</th>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-  </tr>
-</tbody>
-</table>
+  <table class="usa-table">
+    <colgroup>
+      <col>
+      <col span="11" style="text-align:right">
+    </colgroup>
+    <thead>
+      <tr>
+        <th scope="col">Agency / Component</th>
+        <th scope="col">No Records</th>
+        <th scope="col">Records Referred at Initial Request Level</th>
+        <th scope="col">Request Withdrawn</th>
+        <th scope="col">Fee-Related Reason</th>
+        <th scope="col">Records not Reasonably Described</th>
+        <th scope="col">Improper Request for Other Reasons</th>
+        <th scope="col">Not Agency Record</th>
+        <th scope="col">Duplicate Request or Appeal</th>
+        <th scope="col">Request in Litigation</th>
+        <th scope="col">Appeal Based Solely on Denial of Request for Expedited Processing</th>
+        <th scope="col">Other *Explain in chart below</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">USAB</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th scope="row">Agency Overall</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
@@ -280,71 +280,49 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | Agency Overall |  N/A |  N/A |  N/A |  N/A |
 {: .usa-table }
 
+#### Expedited
+
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+{: .usa-table }
+
 ### VII.B.  PROCESSED REQUESTS -- RESPONSE TIME FOR PERFECTED REQUESTS IN WHICH INFORMATION WAS GRANTED
 
-<div style="width:125%; overflow-x:scroll;">
-  <table class="usa-table">
-    <thead>
-      <tr>
-        <th rowspan="2" scope="col">Agency / Component</th>
-        <th colspan="4" scope="col">SIMPLE</th>
-        <th colspan="4" scope="col">COMPLEX</th>
-        <th colspan="4" scope="col">EXPEDITED PROCESSING</th>
-      </tr>
-      <tr>
-        <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Lowest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Highest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Lowest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Highest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Lowest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Highest Number of Days</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td> USAB </td>
-        <td style="text-align: center;"> 29 </td>
-        <td style="text-align: center;"> 28 </td>
-        <td style="text-align: center;"> 19 </td>
-        <td style="text-align: center;"> 36 </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-      </tr>
-      <tr>
-        <td scope="row"> AGENCY OVERALL </td>
-        <td style="text-align: center;"> 29 </td>
-        <td style="text-align: center;"> 28 </td>
-        <td style="text-align: center;"> 19 </td>
-        <td style="text-align: center;"> 36 </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+#### Simple
+
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |   18 |   18 |   <1 |   42 |
+| Agency Overall |   18 |   18 |   <1 |   42 |
+{: .usa-table }
+
+#### Complex
+
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+{: .usa-table }
+
+#### Expedited
+
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+{: .usa-table }
 
 ### VII.C.  PROCESSED SIMPLE REQUESTS -- RESPONSE TIME IN DAY INCREMENTS
 
-<div style="width:125%; overflow-x:scroll;">
+<div class="wide">
   <table class="usa-table">
+    <colgroup>
+      <col>
+      <col span="13" style="text-align:center">
+      <col style="text-align:right"
+    </colgroup>
     <thead>
       <tr>
         <th scope="col"> Agency / Component </th>
@@ -366,38 +344,38 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     </thead>
     <tbody>
       <tr>
-        <td scope="row"> USAB </td>
-        <td style="text-align: center;"> 6 </td>
-        <td style="text-align: center;"> 2 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 8 </td>
+        <th scope="row"> USAB </th>
+        <td> 16 </td>
+        <td> 2 </td>
+        <td> 1 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 19 </td>
       </tr>
       <tr>
-        <td scope="row">AGENCY OVERALL</td>
-        <td style="text-align: center;"> 6 </td>
-        <td style="text-align: center;"> 2 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 8 </td>
+        <th scope="row">AGENCY OVERALL</th>
+        <td> 16 </td>
+        <td> 2 </td>
+        <td> 1 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 19 </td>
       </tr>
     </tbody>
   </table>
@@ -405,7 +383,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VII.C.  PROCESSED COMPLEX REQUESTS -- RESPONSE TIME IN DAY INCREMENTS
 
-<div style="width:125%; overflow-x:scroll;">
+<div class="wide">
   <table class="usa-table">
     <thead>
       <tr>
@@ -428,38 +406,38 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     </thead>
     <tbody>
       <tr>
-        <td scope="row"> USAB </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
+        <td scope="row"> USAB </th>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
       </tr>
       <tr>
-        <td scope="row"> AGENCY OVERALL </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
+        <th scope="row"> AGENCY OVERALL </th>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
       </tr>
     </tbody>
   </table>
