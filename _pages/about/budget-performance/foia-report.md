@@ -321,7 +321,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     <colgroup>
       <col>
       <col span="13" style="text-align:center">
-      <col style="text-align:right"
+      <col style="text-align:right">
     </colgroup>
     <thead>
       <tr>
@@ -385,6 +385,11 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 <div class="wide">
   <table class="usa-table">
+    <colgroup>
+      <col>
+      <col span="13" style="text-align:center">
+      <col style="text-align:right">
+    </colgroup>
     <thead>
       <tr>
         <th scope="col">Agency / Component</th>
@@ -406,7 +411,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     </thead>
     <tbody>
       <tr>
-        <td scope="row"> USAB </th>
+        <th scope="row"> USAB </th>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
@@ -445,8 +450,13 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VII.C.  PROCESSED REQUESTS GRANTED EXPEDITED PROCESSING -- RESPONSE TIME IN DAY INCREMENTS
 
-<div style="width:125%; overflow-x:scroll;">
+<div class="wide">
   <table class="usa-table">
+    <colgroup>
+      <col>
+      <col span="13" style="text-align:center">
+      <col style="text-align:right">
+    </colgroup>
     <thead>
       <tr>
         <th scope="col"> Agency / Component </th>
@@ -468,38 +478,38 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     </thead>
     <tbody>
       <tr>
-        <td scope="row"> USAB </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
+        <th scope="row"> USAB </th>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
       </tr>
       <tr>
-        <td scope="row">AGENCY OVERALL</td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
+        <th scope="row"> AGENCY OVERALL </th>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+        <td> 0 </td>
       </tr>
     </tbody>
   </table>
