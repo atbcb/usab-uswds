@@ -170,14 +170,12 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
-<div class="wide">
-
+<div class="wide" markdown="1">
 | Agency / Component | No Records | Records Referred at Initial Request Level | Request Withdrawn | Fee-Related Reason | Records not Reasonably Described | Improper Request for Other Reasons | Not Agency Record | Duplicate Request or Appeal | Request in Litigation | Appeal Based Solely on Denial of Request for Expedited Processing | Other *Explain in chart below |
 | :---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | USAB               |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
 | Agency Overall     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
 {: .usa-table }
-
 </div>
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
