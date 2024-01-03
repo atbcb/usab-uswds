@@ -594,8 +594,8 @@ table.par-prose td:first-child {
 
 // adds horizontal scrollbar
 .wide {
-	overflow-x: auto;
-	max-width: 200pt;
+	overflow-x: scroll !important;
+	max-width: 100pt !important;
 }
 
 // adjustment to .usa-table--striped, tighten line spacing inside TD
