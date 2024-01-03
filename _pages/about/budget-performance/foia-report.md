@@ -170,11 +170,15 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
+<div class="wide">
+
 | Agency / Component | No Records | Records Referred at Initial Request Level | Request Withdrawn | Fee-Related Reason | Records not Reasonably Described | Improper Request for Other Reasons | Not Agency Record | Duplicate Request or Appeal | Request in Litigation | Appeal Based Solely on Denial of Request for Expedited Processing | Other *Explain in chart below |
 | :---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | USAB               |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
 | Agency Overall     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |
-{: .usa-table .wide }
+{: .usa-table }
+
+</div>
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
 
@@ -215,64 +219,21 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VII.A.  FOIA REQUESTS -- RESPONSE TIME FOR ALL PROCESSED PERFECTED REQUESTS
 
-<div style="width:125%; overflow-x:scroll;">
-  <table class="usa-table">
-    <thead>
-      <tr>
-        <th rowspan="2" scope="col">Agency / Component</th>
-        <th colspan="4" scope="col">SIMPLE</th>
-        <th colspan="4" scope="col">COMPLEX</th>
-        <th colspan="4" scope="col">EXPEDITED PROCESSING</th>
-      </tr>
-      <tr>
-        <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Lowest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Highest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Lowest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Highest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Lowest Number of Days</th>
-        <th style="font-weight: normal;" scope="col">Highest Number of Days</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td> USAB </td>
-        <td style="text-align: center;"> 6 </td>
-        <td style="text-align: center;"> 12 </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 36 </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-      </tr>
-      <tr>
-        <td scope="row"> AGENCY OVERALL </td>
-        <td style="text-align: center;"> 6 </td>
-        <td style="text-align: center;"> 12 </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 36 </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-        <td style="text-align: center;"> N/A </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+#### Simple
+
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |   17 |   15 |   <1 |   42 |
+| Agency Overall |   17 |   15 |   <1 |   42 |
+{: .usa-table }
+
+#### Complex
+
+| Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
+| :---           | ---: | ---: | ---: | ---: |
+| USAB           |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+{: .usa-table }
 
 ### VII.B.  PROCESSED REQUESTS -- RESPONSE TIME FOR PERFECTED REQUESTS IN WHICH INFORMATION WAS GRANTED
 
