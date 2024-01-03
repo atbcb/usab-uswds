@@ -185,7 +185,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     <th scope="col">Duplicate Request or Appeal</th>
     <th scope="col">Request in Litigation</th>
     <th scope="col">Appeal Based Solely on Denial of Request for Expedited Processing</th>
-    <th> scope="col"Other *Explain in chart below</th>
+    <th> scope="col">Other *Explain in chart below</th>
   </tr>
 </thead>
 <tbody>
