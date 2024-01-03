@@ -14,7 +14,7 @@ featured: true
 ---
 All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on **January 24** from **1:30 – 3:00 p.m. (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees and the Executive Director, federal agency updates, and a guest presentation by Andrew Nielson, Director of the Government-wide IT Accessibility Program in the General Services Administration’s Office of Government-wide Policy. Mr. Nielson will provide a briefing on the [FY 23 Governmentwide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment/2023/message-from-gsa-administrator/). This report addresses the current state of federal Section 508 compliance and provides a baseline and recommendations for strengthening compliance initiatives and enhancing Section 508 activities across the federal government.
 
-Members of the public may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1611290206) or by phone (listen-only mode). For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)
+Members of the public may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1611290206) or by phone (listen-only mode). For further information, contact Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov)
 
 ## Meeting of the U.S. Access Board
 
