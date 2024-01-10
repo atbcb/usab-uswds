@@ -27,7 +27,8 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)
 ### Agenda
 
 * Introductory Remarks and Roll Call
-* Approval of Draft October 2023 Meeting Minutes (Vote)
+* Board vote on approval of draft October 2023 meeting minutes
+* Board vote on submitting Final Rule for Medical Diagnostic Equipment Accessibility Standards to Office of Management and Budget for review
 * Executive Director’s Report
 * Guest Presentation: "FY 23 Governmentwide Section 508 Assessment" by Andrew Nielson, GSA
 * Standing Committee Reports
