@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S. Access Board Releases Videos Explaining Work of the Agency
-date: 2024-01-11
+date: 2024-01-12
 excerpt: The U.S. Access Board’s YouTube channel is a helpful resource for
   watching Board meetings, shorts, training videos, and animations on
   accessibility guidelines and standards. The Board recently published three new
