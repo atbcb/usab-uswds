@@ -138,8 +138,8 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 | Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
 | :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
-| USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-| Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| USAB               |    0  |    0  |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
+| Agency Overall     |    0  |    0  |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
 {: .usa-table }
 
 ## Section VI
@@ -517,64 +517,34 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VII.D.  PENDING REQUESTS -- ALL PENDING PERFECTED REQUESTS
 
-| Agency / Component | Number Pendin | Median Number of Days | Average Number of Days |
-| :---               | ---:          | ---:                  | ---:                   |
-| USAB               |    1          |   48                  |   48                   |
-| Agency Overall     |    1          |   48                  |   48                   |
+| Agency / Component | Number Pending | Median Number of Days | Average Number of Days |
+| :---               | ---:           | ---:                  | ---:                   |
+| USAB               |    1           |   48                  |   48                   |
+| Agency Overall     |    1           |   48                  |   48                   |
 {: .usa-table }
 
-#### Complext
+#### Complex
+
+| Agency / Component | Number Pending | Median Number of Days | Average Number of Days |
+| :---               | ---:           | ---:                  | ---:                   |
+| USAB               |    0           |  N/A                  |  N/A                   |
+| Agency Overall     |    0           |  N/A                  |  N/A                   |
+{: .usa-table }
 
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th rowspan="2" scope="col"> Agency / Component </th>
-      <th colspan="3" scope="col"> SIMPLE </th>
-      <th colspan="3" scope="col"> COMPLEX </th>
-      <th colspan="3" scope="col"> EXPEDITED PROCESSING </th>
-    </tr>
-    <tr>
-      <th style="font-weight: normal;" scope="col">Number Pending</th>
-      <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-      <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-      <th style="font-weight: normal;" scope="col">Number Pending</th>
-      <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-      <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-      <th style="font-weight: normal;" scope="col">Number Pending</th>
-      <th style="font-weight: normal;" scope="col">Median Number of Days</th>
-      <th style="font-weight: normal;" scope="col">Average Number of Days</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> USAB </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 282 </td>
-      <td style="text-align: center;"> 282 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 282 </td>
-      <td style="text-align: center;"> 282 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-  </tbody>
-</table>
+#### Expedited Processing
+
+| Agency / Component | Number Pending | Median Number of Days | Average Number of Days |
+| :---               | ---:           | ---:                  | ---:                   |
+| USAB               |    0           |  N/A                  |  N/A                   |
+| Agency Overall     |    0           |  N/A                  |  N/A                   |
+{: .usa-table }
 
 ### VII.E.  PENDING REQUESTS -- TEN OLDEST PENDING PERFECTED REQUESTS
+
+
+
+
 
 <table class="usa-table">
   <thead>
