@@ -542,151 +542,48 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### VII.E.  PENDING REQUESTS -- TEN OLDEST PENDING PERFECTED REQUESTS
 
+#### USAB
 
+|        | 10th Oldest Request |9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Request |
+| :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Date of Receipt        | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 2023-07-25 |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |  48  |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |  48  |
+{: .usa-table }
 
+#### Agency Overall
 
-
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col"> Agency / Component </th>
-      <td></td>
-      <th scope="col"> 10th Oldest Request </th>
-      <th scope="col"> 9th </th>
-      <th scope="col"> 8th </th>
-      <th scope="col"> 7th </th>
-      <th scope="col"> 6th </th>
-      <th scope="col"> 5th </th>
-      <th scope="col"> 4th </th>
-      <th scope="col"> 3rd </th>
-      <th scope="col"> 2nd </th>
-      <th scope="col"> Oldest Request </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2"> USAB </td>
-      <td> Date of Receipt </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 2020-03-19 </td>
-    </tr>
-    <tr>
-      <td scope="row"> Number of Days Pending </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 382 </td>
-    </tr>
-    <tr>
-      <td rowspan="2"> AGENCY OVERALL </td>
-      <td> Date of Receipt </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 2020-03-19 </td>
-    </tr>
-    <tr>
-      <td scope="row"> Number of Days Pending </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 382 </td>
-    </tr>
-  </tbody>
-</table>
+|        | 10th Oldest Request |9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Request |
+| :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Date of Receipt        | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 2023-07-25 |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |  48  |
+{: .usa-table }
 
 ## Section VIII
 
 ### VIII.A.  REQUESTS FOR EXPEDITED PROCESSING
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col"> Agency / Component </th>
-      <th scope="col"> Number Granted </th>
-      <th scope="col"> Number Denied </th>
-      <th scope="col"> Median Number of Days to Adjudicate </th>
-      <th scope="col"> Average Number of Days to Adjudicate </th>
-      <th scope="col"> Number Adjudicated Within Ten Calendar Days </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Number Granated | Number Denied | Median Number of Days to Adjudicate | Average Number of Days to Adjudicate | Number Adjudicate within Ten Calendar Days |
+| :---               | ---: | ---:  | ---: | ---: | ---: |
+| USAB               |    0 |    0  |  N/A |  N/A |   0  |
+| Agency Overall     |    0 |    0  |  N/A |  N/A |   0  |
+{: .usa-table }
 
 ### VIII.B.  Requests for Fee Waiver
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Number Granted</th>
-      <th scope="col">Number Denied</th>
-      <th scope="col">Median Number of Days to Adjudicate</th>
-      <th scope="col">Average Number of Days to Adjudicate</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Number Granated | Number Denied | Median Number of Days to Adjudicate | Average Number of Days to Adjudicate | Number Adjudicate within Ten Calendar Days |
+| :---               | ---: | ---:  | ---: | ---: | ---: |
+| USAB               |    0 |    0  |  N/A |  N/A |   0  |
+| Agency Overall     |    0 |    0  |  N/A |  N/A |   0  |
+{: .usa-table }
 
 ## IX.  FOIA Personnel and Costs
+
+### Personnel
+
+### Costs
+
+
 
 <table class="usa-table">
   <thead>
