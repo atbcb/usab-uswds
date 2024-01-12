@@ -183,6 +183,11 @@ td ul.check {
   @include u-text("secondary-darker");
 }
 
+//fix background color for hover on submenu items 
+@media (max-width: 63.99em){
+.usa-nav__primary a:not(.usa-button):hover{color: #005ea2 !important; text-decoration:none}
+}
+
 @media screen and (max-width: 1024px) {
   .site-logo {
     max-height: 3rem;
