@@ -10,7 +10,7 @@ permalink: /about/policy/foia.html
 
 ## Introduction
 
-Welcome to the Access Board's Freedom of Information Act (FOIA) page.&nbsp; We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).&nbsp; Below is a description of that Act, as well as a list of frequently asked questions (FAQs).
+Welcome to the Access Board's Freedom of Information Act (FOIA) page.&nbsp; We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).&nbsp; Below is a description of that Act, frequently asked questions (FAQs), and links to our [FOIA Reports](#foia-reports).
 
 ### FOIA Officer
 
@@ -88,13 +88,13 @@ If you have questions or concerns about the status or processing of your request
 ## FOIA Reporting
 
 - Most recent [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html)
-- [FOIA Annual Report FY 2023 (PDF)]({ site.baseurl }}/foia/usab-foia-fy2023.pdf)
-- [FOIA Annual Report FY 2022 (PDF)]({ site.baseurl }}/foia/usab-foia-fy2022.pdf)
-- [FOIA Annual Report FY 2021 (PDF)]({ site.baseurl }}/foia/usab-foia-fy2021.pdf)
-- [FOIA Annual Report FY 2020 (PDF)]({ site.baseurl }}/foia/usab-foia-fy2020.pdf)
-- [FOIA Annual Report FY 2019 (PDF)]({ site.baseurl }}/foia/usab-foia-fy2019.pdf)
-- [FOIA Annual Report FY 2018 (PDF)]({ site.baseurl }}/usab-foia-fy2019.pdf)
-- [FOIA Annual Report FY 2017 (PDF)]({ site.baseurl }}/usab-foia-fy2019.pdf)
+- [FOIA Annual Report FY 2023 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2023.pdf)
+- [FOIA Annual Report FY 2022 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2022.pdf)
+- [FOIA Annual Report FY 2021 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2021.pdf)
+- [FOIA Annual Report FY 2020 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2020.pdf)
+- [FOIA Annual Report FY 2019 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2019.pdf)
+- [FOIA Annual Report FY 2018 (PDF)]({{ site.baseurl }}/usab-foia-fy2019.pdf)
+- [FOIA Annual Report FY 2017 (PDF)]({{ site.baseurl }}/usab-foia-fy2019.pdf)
 
 ---
 
