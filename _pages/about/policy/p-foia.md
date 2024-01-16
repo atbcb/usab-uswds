@@ -10,7 +10,7 @@ permalink: /about/policy/foia.html
 
 ## Introduction
 
-Welcome to the Access Board's Freedom of Information Act (FOIA) page.&nbsp; We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).&nbsp; Below is a description of that Act, frequently asked questions (FAQs), and links to our [FOIA Reports](#foia-reports).
+Welcome to the Access Board's Freedom of Information Act (FOIA) page.&nbsp; We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).&nbsp; Below is a description of that Act, frequently asked questions (FAQs), and links to our FOIA [reports](#foia-reporting).
 
 ### FOIA Officer
 
