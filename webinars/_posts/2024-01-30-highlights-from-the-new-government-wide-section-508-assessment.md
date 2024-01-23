@@ -58,9 +58,9 @@ Questions can be submitted in advance of the session or can be posed during the 
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=Highlights%20from%20the%20new%20Government-wide%20Section%20508%20Assessment), Senior ICT Accessibility Specialist, **U.S. Access Board**
 
-[Kristen Smith-O'Connor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11038&ret=Highlights%20from%20the%20new%20Government-wide%20Section%20508%20Assessment), Senior ICT Accessibility Specialist, Government-wide IT Accessibility Program, **Office of Government-wide Policy, General Services Administration**
+[Andrew Nielson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10823&ret=Highlights%20from%20the%20new%20Government-wide%20Section%20508%20Assessment), Director of the Government-wide IT Accessibility Program, Office of Government-wide Policy, **General Services Administration**
 
-[Alex [Dandy] Wilson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11039&ret=Highlights%20from%20the%20new%20Government-wide%20Section%20508%20Assessment), Program Analyst, **Office of Government-wide Policy, General Services Administration**
+[Kristen Smith-O'Connor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11038&ret=Highlights%20from%20the%20new%20Government-wide%20Section%20508%20Assessment), Senior ICT Accessibility Specialist, Government-wide IT Accessibility Program, **Office of Government-wide Policy, General Services Administration**
 
 ### Session Questions
 
