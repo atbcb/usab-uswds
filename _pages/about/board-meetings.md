@@ -12,21 +12,18 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, January 24, 2024**.  At this meeting, which will be held virtually only, the Board will hear committee reports and federal agency updates. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
+The next meeting of the Board is scheduled for **Tuesday, April 16, 2024** in Los Angeles at 1:30 p.m. (PT) at The California Endowment, Center for Healthy Communities (1000 N. Alameda St., Los Angeles, CA 90012). This meeting will be a town hall meeting where Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in Los Angeles. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
-> **U.S. Access Board Meeting** \
-> January 24, 2024, 1:30 PM – 3:00 PM (E.T.) \
-> Zoom: <https://www.zoomgov.com/j/1611290206> \
-> Meeting ID: 161 129 0206 \
-> Dial by your location: 
-
->> +1 669 254 5252 US (San Jose) \
->> +1 646 828 7666 US (New York) \
->> Meeting ID: 161 129 0206
+> **U.S. Access Board Town Hall Meeting** \
+> April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
+> The California Endowment \
+> Center for Healthy Communities Los Angeles \
+> Dr. Beatriz Solis Hall \
+> 1000 N. Alameda St. \
+> Los Angeles, CA 90012 \
 
 ## Future Board Meetings
 
-- January 22 - 24, 2024, Virtual
 - April 16 - 18, 2024, In-person, Los Angeles, CA
 - July 22 - 24, 2024, In-person, Washington, DC
 - October 28 - 30, 2024, Virtual
@@ -37,6 +34,7 @@ The next meeting of the Board is scheduled for **Wednesday, January 24, 2024**. 
 
 ## Board Meeting Archives
 
+- [January 24, 2024](https://www.youtube.com/watch?v=5xIJzszOph0&t=1017s)
 - [October 25, 2023](https://www.youtube.com/live/PTtRpkkejVg?si=anILhaJz1-tmkjgW&t=95)
 - [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://www.youtube.com/watch?v=Hd619gImSQY) 
