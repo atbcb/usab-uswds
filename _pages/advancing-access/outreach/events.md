@@ -12,15 +12,13 @@ permalink: /events/
 
 ## Public Events   
 
-> **U.S. Access Board Meeting** \
-> January 24, 2024, 1:30 PM – 3:00 PM (E.T.) \
-> Zoom: <https://www.zoomgov.com/j/1611290206> \
-> Meeting ID: 161 129 0206 \
-> Dial by your location: 
-
->> +1 669 254 5252 US (San Jose) \
->> +1 646 828 7666 US (New York) \
->> Meeting ID: 161 129 0206
+> **U.S. Access Board Town Hall Meeting** \
+> April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
+> The California Endowment \
+> Center for Healthy Communities Los Angeles \
+> Dr. Beatriz Solis Hall \
+> 1000 N. Alameda St. \
+> Los Angeles, CA 90012
 
 ### Public Events Archives
 
@@ -37,7 +35,6 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- January 22 - 24, 2024, Virtual
 - April 16 - 18, 2024, In-person, Los Angeles, CA
 - July 22 - 24, 2024, In-person, Washington, DC
 - October 28 - 30, 2024, Virtual
@@ -48,6 +45,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Board Meeting Archives
 
+- [January 24, 2024](https://www.youtube.com/watch?v=5xIJzszOph0&t=1017s)
 - [October 25, 2023](https://www.youtube.com/live/PTtRpkkejVg?si=anILhaJz1-tmkjgW&t=95)
 - [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://youtu.be/Hd619gImSQY)
