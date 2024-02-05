@@ -475,8 +475,8 @@ governments to provide designated public transportation services, such
 as rail stations and bus stations). They are not required at non-transit
 facilities subject to DOJ's Standards. DOT also requires detectable
 warnings on curb ramps in projects funded by the Federal Highway
-Administration. New guidelines the Board is developing for public
-rights-of-way will address requirements for detectable warnings at curb
+Administration. The Board has published [new guidelines for the public
+rights-of-way({{ site.baseurl }}/prowag/) that address requirements for detectable warnings at curb
 ramps and other transitions along public streets and sidewalks where
 hazards to people with vision impairments are greater.
 
