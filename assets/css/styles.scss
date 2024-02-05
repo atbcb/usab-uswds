@@ -115,10 +115,10 @@ fieldset button {
 }
 
 // Oxford list style
-ol li ol li {
+ol li ol li, ol.alpha li {
   list-style-type: lower-alpha;
 }
-ol li ol li ol li {
+ol li ol li ol li, ol.roman li {
   list-style-type: lower-roman;
 }
 
@@ -604,6 +604,12 @@ table.par-prose td:first-child {
 // background-color: #f2f2f2;
 // } // zebra stripping by default
 
+// adds horizontal scrollbar
+.wide {
+	width: 125%;
+	overflow-x: scroll;
+}
+
 // adjustment to .usa-table--striped, tighten line spacing inside TD
 table.usa-table--striped td {
 	line-height: 0.8;
@@ -624,22 +630,22 @@ table.data tfoot td, table.data td p, table.data td ul li, table.data td ol li {
 // layout table
 table.layout td {
 	text-align: center;
-  font-style: oblique;
+	font-style: oblique;
 }
 // layout tables used in ict preamble
 table.layouttable {
-  border-collapse: collapse;
+	border-collapse: collapse;
 }
 table.layouttable tr td {
-border: 1px solid black;
+	border: 1px solid black;
 }
 
 // custom colors
 // ev charging tad
 .bg-green-light {
-  background-color: #ECFFDC;
+	background-color: #ECFFDC;
 }
 // temporary blue class to see how grids work
 .blue {
-  background-color: cyan;
+	background-color: cyan;
 }
