@@ -183,6 +183,11 @@ td ul.check {
   @include u-text("secondary-darker");
 }
 
+//fix background color for hover on submenu items 
+@media (max-width: 63.99em){
+.usa-nav__primary a:not(.usa-button):hover{color: #005ea2 !important; text-decoration:none}
+}
+
 @media screen and (max-width: 1024px) {
   .site-logo {
     max-height: 3rem;
@@ -431,7 +436,7 @@ div.advisory p.last {
   }
 }
 
-// Board member profile cards
+// Board member and staff profile cards
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -439,6 +444,7 @@ div.advisory p.last {
   @include u-text('white');
   padding: 1rem;
 }
+//apply grayscale by default
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
@@ -454,6 +460,12 @@ a.style-inherit:focus>div.gray-to-color {
   @include u-bg('primary-lighter');
   border: 3px solid lightskyblue;
 }
+//show focus as workaround for gray-to-color not working with keyboard focus
+/* a.style-inherit:focus-visible {
+  outline-offset: 1px;
+  outline-color: #2491ff;
+} */
+
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
 }
