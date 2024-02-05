@@ -41,8 +41,9 @@ Access to buildings begins with an accessible route and ground surfaces to ensur
 
 ### Speakers
 
-* [Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Exterior%20Routes%20&%20Surfaces "Josh  Schorr"), U.S. Access Board, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services
-* [Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Exterior%20Routes%20&%20Surfaces "Bobby Stinnette"), U.S. Access Board, Accessibility Specialist
+[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Exterior%20Routes%20&%20Surfaces "Josh  Schorr"), U.S. Access Board, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services
+
+[Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Exterior%20Routes%20&%20Surfaces "Bobby Stinnette"), U.S. Access Board, Accessibility Specialist
 
 ### Session Questions
 
