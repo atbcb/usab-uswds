@@ -22,6 +22,7 @@ accessible routes with running slopes steeper than 5% also must be
 treated as ramps.
 
 #### Ramp Requirements 
+
 [[§405]({{ site.baseurl }}/ada/ada-405)]
 
 ![Ramp with landings. Notes: Clear Width (§405.5) 36 inches minimum (between
@@ -236,7 +237,6 @@ extended surfaces.
     </div>
   </div>
 </div>
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -476,7 +476,7 @@ as rail stations and bus stations). They are not required at non-transit
 facilities subject to DOJ's Standards. DOT also requires detectable
 warnings on curb ramps in projects funded by the Federal Highway
 Administration. The Board has published [new guidelines for the public
-rights-of-way({{ site.baseurl }}/prowag/) that address requirements for detectable warnings at curb
+rights-of-way]({{ site.baseurl }}/prowag/) that address requirements for detectable warnings at curb
 ramps and other transitions along public streets and sidewalks where
 hazards to people with vision impairments are greater.
 
