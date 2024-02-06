@@ -348,9 +348,7 @@ parallel accessible route">
 Curb ramps can have returned sides, but a top landing is required under
 all conditions to allow maneuvering to and from the run.
 
-![Curb ramp with returned sides with planter on one side and grass
-strip o the other and a top landing at least 36 inches
-long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr24.jpg){: .img-large}
+![Curb ramp with returned sides with planter on one side and grass strip o the other and a top landing at least 36 inches long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr24.jpg){: .img-large}
 
 {% include recommendation.html
 text="To prevent tripping hazards, curb ramps with returned sides should be used only where foot traffic across ramps is prevented or discouraged."
@@ -370,7 +368,7 @@ img-alt="Built-up curb ramp with side flares 1:10 maximum and top landing"
 text="Side flares can be provided to prevent tripping hazards. Edge protection is not specified for curb ramps."
 %}
 
-{%i nclude recommendation.html
+{% include recommendation.html
 text="Provide edge protection along the sides of built-up curb ramps to prevent tipping hazards. Otherwise, consider a wider ramp width (48&Prime; minimum) so that maneuvering does not occur near drop-offs."
 %}
 
