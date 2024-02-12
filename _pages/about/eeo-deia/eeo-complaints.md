@@ -104,9 +104,10 @@ The Notice of Right to File a Discrimination Complaint must be in writing and mu
 
 The EEO Counselor must keep the identity of the aggrieved employee confidential unless the employee consents to disclosure or files a formal EEO complaint.
 
-#### 6.4. FORMAL DISCRIMINATION COMPLAINTS
+#### 6.4. FORMAL DISCRIMINATION COMPLAINTS {#formal}
 
-6.4.1. Filing a Formal Complaint
+##### 6.4.1. Filing a Formal Complaint
+
 An employee who elects to pursue a formal complaint of discrimination must file a written complaint specifying the claim(s) that were raised in the EEO counseling that the employee wishes to pursue. The complaint must be signed by the complainant or complainant’s representative and must be filed with USPS National EEO Investigative Services within 15 calendar days of receiving the Notice of Right to File a Discrimination Complaint. Formal complaints may be filed by facsimile, email, hand delivery (during business hours), regular U.S. mail (confirmation services recommended), or other third-party commercial carrier (confirmation services recommended). The date of the postmark, facsimile, email, hand delivery, delivery to a third-party commercial carrier, or in-person delivery is considered the filing date, and must be within the 15-day regulatory timeframe.
 
 #### 6.4.2. Agency Acknowledgement of Receipt
