@@ -12,8 +12,8 @@ file-description: PDF version of USAB EEO Complaint Procedures
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; October 13, 2022 \
-Version:&nbsp; Version 2.0
+Approval Date:&nbsp; February 12, 2024 \
+Version:&nbsp; Version 2.01
 
 ## 1. INTRODUCTION
 
@@ -69,7 +69,7 @@ Complaints of employment discrimination in violation of the EEO Laws shall be pr
 
 #### 6.2.1. EEO Director
 
-The Director of the Office of Technical and Information Services (OTIS) serves as EEO Director. However, if the complaint contains allegations against the OTIS Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
+The Chief of Staff serves as EEO Director.  However, if the complaint contains allegations against the EEO Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
 
 #### 6.2.2. EEO Counselor, EEO Officer, and EEO Investigator
 
@@ -239,20 +239,20 @@ Employees are not required to file an Equal Pay Act complaint through this admin
 
 This Access Board directive on EEO Complaint Procedures is effective upon signature by the Equal Employment Opportunity Director and the Executive Director, and remains in effect until rescinded, superseded, or reissued.
 
-Alison Levy \
+Dru Gordon, Chief of Staff \
 Equal Employment Opportunity Director \
-/ s / &nbsp; Date: 10/13/22
+/ s / &nbsp; Date: 2/12/24
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 10/13/22
+/ s / &nbsp; Date: 2/12/24
 
 ## 9. REVISION HISTORY
 
 The “Revision History” table below should be used to capture revisions or updates to this EEO Complaint Procedures directive. All columns are mandatory.
 
-| Date   | Revision Summary | Version <br /> Number | Author / Owner Name
-| :---   | :---             | :---:               | :---
-| &nbsp; | &nbsp;           | &nbsp;              | &nbsp;
-| &nbsp; | &nbsp;           | &nbsp;              | &nbsp;
+| Date    | Revision Summary | Version <br /> Number | Author / Owner Name
+| :---    | :---             | :---:               | :---
+| 2/12/24 | Update POC       | 2.01                | Dru Gordon
+| &nbsp;  | &nbsp;           | &nbsp;              | &nbsp;
 {: .usa-table }
