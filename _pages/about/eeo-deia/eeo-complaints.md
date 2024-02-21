@@ -12,8 +12,8 @@ file-description: PDF version of USAB EEO Complaint Procedures
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; October 13, 2022 \
-Version:&nbsp; Version 2.0
+Approval Date:&nbsp; February 12, 2024 \
+Version:&nbsp; Version 2.01
 
 ## 1. INTRODUCTION
 
@@ -69,7 +69,7 @@ Complaints of employment discrimination in violation of the EEO Laws shall be pr
 
 #### 6.2.1. EEO Director
 
-The Director of the Office of Technical and Information Services (OTIS) serves as EEO Director. However, if the complaint contains allegations against the OTIS Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
+The Chief of Staff serves as EEO Director.  However, if the complaint contains allegations against the EEO Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
 
 #### 6.2.2. EEO Counselor, EEO Officer, and EEO Investigator
 
@@ -104,9 +104,10 @@ The Notice of Right to File a Discrimination Complaint must be in writing and mu
 
 The EEO Counselor must keep the identity of the aggrieved employee confidential unless the employee consents to disclosure or files a formal EEO complaint.
 
-#### 6.4. FORMAL DISCRIMINATION COMPLAINTS
+#### 6.4. FORMAL DISCRIMINATION COMPLAINTS {#formal}
 
-6.4.1. Filing a Formal Complaint
+##### 6.4.1. Filing a Formal Complaint
+
 An employee who elects to pursue a formal complaint of discrimination must file a written complaint specifying the claim(s) that were raised in the EEO counseling that the employee wishes to pursue. The complaint must be signed by the complainant or complainant’s representative and must be filed with USPS National EEO Investigative Services within 15 calendar days of receiving the Notice of Right to File a Discrimination Complaint. Formal complaints may be filed by facsimile, email, hand delivery (during business hours), regular U.S. mail (confirmation services recommended), or other third-party commercial carrier (confirmation services recommended). The date of the postmark, facsimile, email, hand delivery, delivery to a third-party commercial carrier, or in-person delivery is considered the filing date, and must be within the 15-day regulatory timeframe.
 
 #### 6.4.2. Agency Acknowledgement of Receipt
@@ -239,20 +240,20 @@ Employees are not required to file an Equal Pay Act complaint through this admin
 
 This Access Board directive on EEO Complaint Procedures is effective upon signature by the Equal Employment Opportunity Director and the Executive Director, and remains in effect until rescinded, superseded, or reissued.
 
-Alison Levy \
+Dru Gordon, Chief of Staff \
 Equal Employment Opportunity Director \
-/ s / &nbsp; Date: 10/13/22
+/ s / &nbsp; Date: 2/12/24
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 10/13/22
+/ s / &nbsp; Date: 2/12/24
 
 ## 9. REVISION HISTORY
 
 The “Revision History” table below should be used to capture revisions or updates to this EEO Complaint Procedures directive. All columns are mandatory.
 
-| Date   | Revision Summary | Version <br /> Number | Author / Owner Name
-| :---   | :---             | :---:               | :---
-| &nbsp; | &nbsp;           | &nbsp;              | &nbsp;
-| &nbsp; | &nbsp;           | &nbsp;              | &nbsp;
+| Date    | Revision Summary | Version <br /> Number | Author / Owner Name
+| :---    | :---             | :---:               | :---
+| 2/12/24 | Update POC       | 2.01                | Dru Gordon
+| &nbsp;  | &nbsp;           | &nbsp;              | &nbsp;
 {: .usa-table }
