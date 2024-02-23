@@ -5,5 +5,6 @@ last_name: Office
 full_name: Vacant
 job-title: Director
 office: Office of Administration
-agency: United States Access Board
+agency: ""
+director: true
 ---
