@@ -437,7 +437,7 @@ div.advisory p.last {
 }
 // Print styls
 @media print {
-  body {
+  body, h1 {
     margin: 0;
     color: #000;
     background-color: #fff;
@@ -447,6 +447,9 @@ div.advisory p.last {
   }
   a::after {
     content: " (" attr(href) ")";
+  }
+  a[href^="/"]::after { 
+    content: " (https://www.access-board.gov" attr(href) ") " !important;
   }
 }
 
