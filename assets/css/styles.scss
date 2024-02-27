@@ -447,6 +447,10 @@ div.advisory p.last {
     margin-top: 15px;
     color: #000 !important;
     background-color: #fff;
+    page-break-after: avoid;
+  }
+  table, figure, img, svg {
+    page-break-inside: avoid;
   }
   //do not print
   footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link {
@@ -457,10 +461,7 @@ div.advisory p.last {
     content: " (" attr(href) ")";
   }
   //include full URL after relative links
-  /* a:not([href^="http"])::after { 
-    content: " (https://www.access-board.gov/" attr(href) ") " !important;
-  } */
-  a[href^="/"]::after { 
+    a[href^="/"]::after { 
     content: " (https://www.access-board.gov" attr(href) ") " !important;
   }
   //don't print URL after home link in banner logo
