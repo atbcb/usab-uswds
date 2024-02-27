@@ -69,14 +69,14 @@ The Access Board is prohibited from taking any adverse action against job applic
 This Personal Assistant Services Policy is effective upon signature by the Director of Administration and the Executive Director, and remains in effect until rescinded, superseded, or reissued.
 
 India Thomas \
-Acting Director of Administration 
+Acting Director of Administration \
 / s / &nbsp; Date: 2/22/24
 
 Sachin Pavithran \
 Executive Director \
 / s / &nbsp; Date: 2/16/24
 
-## 7. REVISION HISTORY
+## 7. Revision History
 
 The “Revision History” table below should be used to capture revisions or updates to this Personal Assistant Services Policy.&nbsp;
 All columns are mandatory.
