@@ -37,9 +37,11 @@ Procurement and accessibility go together like peanut butter and jelly. Procurem
 
 ### Speakers:
 
-[Robert Jolly](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11045&ret=Demystifying%20the%20Procurement%20Process), Product Manager and Accessibility Advocate, 10x Delivery Team, Technology Transformation Services, **General Services Administration (GSA)**
+**[Robert Jolly](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11045&ret=Demystifying%20the%20Procurement%20Process)**, Product Manager and Accessibility Advocate, 10x Delivery Team, Technology Transformation Services, **General Services Administration (GSA)**
 
-[Justen Proctor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11044&ret=Demystifying%20the%20Procurement%20Process), Sr. Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
+**[Justen Proctor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11044&ret=Demystifying%20the%20Procurement%20Process)**, Sr. Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
+
+**Danielle Wolz**, Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
 
 ### Privacy Statement
 
