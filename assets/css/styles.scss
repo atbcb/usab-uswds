@@ -451,11 +451,11 @@ div.advisory p.last {
     page-break-after: avoid;
     page-break-inside: avoid;
   }
-  table, figure, img, svg {
+  table, figure, img, svg, a {
     page-break-inside: avoid;
   }
   //do not print
-  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link {
+  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip {
     display: none !important;
   }
   //include URL after links
