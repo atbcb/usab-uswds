@@ -435,6 +435,57 @@ div.advisory p.last {
   display: block;
   }
 }
+// Print styles
+@media print {
+  body {
+    margin: 0;
+    color: #000;
+    background-color: #fff;
+    font-size: 12pt;
+  }
+  //black text
+  h1, h2, h3, h4, h5, h6{
+    margin-top: 15px;
+    color: #000 !important;
+    background-color: #fff;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+  table, figure, img, svg, a {
+    page-break-inside: avoid;
+  }
+  //do not print
+  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip {
+    display: none !important;
+  }
+  //include URL after links
+  a::after {
+    content: " (" attr(href) ")" !important;
+    font-style: italic;
+  }
+  //include full URL after relative links
+    a[href^="/"]::after { 
+    content: " (https://www.access-board.gov" attr(href) ") " !important;
+    font-style: italic;
+  }
+  //don't print URL after home link in banner logo
+  a[title="Home"]::after {
+    content: "" !important;
+  }
+  //expand accordion content
+  .usa-accordion__content {
+    display: block !important;
+  }
+  //no section outlines
+  .border{
+    border-style: none;
+  }
+  //smaller logo in banner
+  .star-logo-box{
+    max-width: 2rem;
+    height: auto;
+  }
+}
 
 // Board member and staff profile cards
 .card-header {
