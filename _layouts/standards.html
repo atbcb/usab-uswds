@@ -40,13 +40,15 @@ layout: default
         <div>
           {{ content }}
         </div>
-        {% if page.collection == 'es' %}
-          {% include back-to-top.html is_spanish = true %}
-        {% elsif page.collection == 'ada-aba_es' %}
-          {% include back-to-top.html is_spanish = true %}
-        {% else %}
-          {% include back-to-top.html %}
-        {% endif %}
+        <div class="noprint">
+          {% if page.collection == 'es' %}
+            {% include back-to-top.html is_spanish = true %}
+          {% elsif page.collection == 'ada-aba_es' %}
+            {% include back-to-top.html is_spanish = true %}
+          {% else %}
+            {% include back-to-top.html %}
+          {% endif %}
+        </div>
       </div>
       {% if page.right-sidenav %}
         {% include {{ page.right-sidenav }} %}
