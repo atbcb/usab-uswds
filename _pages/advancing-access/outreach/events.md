@@ -13,7 +13,7 @@ permalink: /events/
 ## Public Events   
 
 > **U.S. Access Board Town Hall Meeting** \
-> April 16, 2024, 1:30 PM – 3:30 PM (P.T.) \
+> April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
 > The California Endowment \
 > Center for Healthy Communities Los Angeles \
 > Dr. Beatriz Solis Hall A \
