@@ -7,7 +7,8 @@ excerpt: Passengers who use wheelchairs often face accessibility barriers during
   air travel. In fact, more than 10,000 wheelchairs and other mobility devices
   are mishandled or damaged every year during air travel. In response to this,
   the U.S. Department of Transportation (DOT) has issued a Notice of Proposed
-  Rulemaking (NPRM) that would dramatically . . .
+  Rulemaking (NPRM) that would dramatically expand the rights and protections .
+  . .
 image: /images/uploads/dot-logo.svg
 image_alt_text: "Seal of the U.S. Department of Transportation. Three blue tear
   shapes chase one another, forming a circle with a three-point space in the
