@@ -18,7 +18,7 @@ The next meeting of the Board is scheduled for **Tuesday, April 16, 2024** in Lo
 > April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
 > The California Endowment \
 > Center for Healthy Communities Los Angeles \
-> Dr. Beatriz Solis Hall A \
+> Dr. Beatriz Solis Hall \
 > 1000 N. Alameda St. \
 > Los Angeles, CA 90012
 
