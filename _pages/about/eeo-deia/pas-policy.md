@@ -16,11 +16,11 @@ Version:&nbsp; Version 2.0
 
 ## 1. Purpose
 
-This is a reissuance of the Access Board’s Employment Discrimination Complaints directive, which was originally issued in April 1993 and subsequently revised in July 1997.  These Procedures are being reissued to (1) conform with updated legal requirements for federal agencies’ respective equal employment opportunity (EEO) programs (including a provision relating to alternative dispute resolution), (2) ensure that the Procedures reflect current agency complaint-handling processes, and (3) modify the section numbering so that it is consistent with current formatting conventions for agency policies.
+This policy establishes the Access Board’s procedures for providing personal assistance services (PAS) to employees, as required by 29 C.F.R. §1614.203(d)(5), a regulation implementing Section 501 of the Rehabilitation Act of 1973 (Section 501), as amended. 29 U.S.C. § 791.  Section 501 prohibits the Federal government from discriminating in employment on the basis of disability and requires it to engage in affirmative action for people with disabilities.
 
 ## 2. Applicability
 
-This directive sets forth the Access Board's policies and procedures for processing complaints by agency employees, or applicants for employment, related to allegations of unlawful employment discrimination on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities.
+This policy applies to all Access Board employees, including public Board members, with targeted disabilities who require PAS during work hours or on work-related travel.
 
 ## 3. Authority
 
