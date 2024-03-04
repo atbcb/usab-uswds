@@ -26,7 +26,7 @@ American Sign Language (ASL) interpreters and Communication Access Real-time Tra
 > April 16, 2024, 1:30 – 4:00 p.m. (PT) \
 > The California Endowment\
 > Center for Healthy Communities Los Angeles\
-> Dr. Beatriz Solis Hall A\
+> Dr. Beatriz Solis Hall\
 > 1000 N. Alameda Street\
 > Los Angeles, CA 90012\
 > Registration: Provide full name and organization (if any) to [events@access-board.gov](mailto:events@access-board.gov)
