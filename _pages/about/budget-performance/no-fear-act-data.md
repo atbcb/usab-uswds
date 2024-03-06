@@ -13,7 +13,7 @@ permalink: /about/no-fear-data.html
 ### I. Complaint Activity (FY 2018 to FY2022)
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Number of Complaints Filed |    1    |    0    |    0    |    0    |    1    |
 | Number of Complainants     |    1    |    0    |    0    |    0    |    1    |
 | Repeat Filers              |    0    |    0    |    0    |    0    |    0    |
@@ -22,7 +22,7 @@ permalink: /about/no-fear-data.html
 ### II. Complaints by Basis (FY 2018 to FY 2022)
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Race   |   1   |   0   |   0   |   0   |   0   |
 |   Color   |   0   |   0   |   0   |   0   |   0   |
 |   Religion   |   0   |   0   |   0   |   0   |   0   |
@@ -39,7 +39,7 @@ permalink: /about/no-fear-data.html
 ### III.Complaints by Issue
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Appointment /Hire   |   0   |   0   |   0   |   0   |   0   |
 |   Assignment of Duties    |   0   |   0   |   0   |   0   |   0   |
 |   Awards    |   0   |   0   |   0   |   0   |   0   |
@@ -75,7 +75,7 @@ permalink: /about/no-fear-data.html
 ### IV.  Processing Time
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Complaints Pending _(for any length of time)_ During Fiscal Year   |   1   |   1   |   0   |   0   |   1   |
 |   Average Number of Days in Investigation Stage    |   14   |   308   |   0   |   0   |   116   |
 |   Complaints pending _(for any length of time)_ during fiscal year where **hearing was requested**   |   1   |   1   |   0   |   0   |   0   |
@@ -87,7 +87,7 @@ permalink: /about/no-fear-data.html
 ### V. Complaints Dismissed by Agency
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Total Complaints Dismissed by Agency    |   0   |   0   |   0   |   0   |   0   |
 |   Average days pending prior to dismissal    |   0   |   0   |   0   |   0   |   0   |
 |   Complaints withdrawn by Complainants   |   0   |   0   |   0   |   0   |   0   |
@@ -96,14 +96,14 @@ permalink: /about/no-fear-data.html
 ### VI.Complaints Withdrawn by Complainants
 
 | &nbsp;                                     | FY 2017 | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                                       | ---!    | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                                       | ---:    | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Total complaints withdrawn by Complainants |   0     |   0     |   1     |   0     |   0     |   0     |
 {: .usa-table }
 
 ### VII. Total Final Actions Finding Discrimination
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Total Number Findings      |   0     |   0     |   0     |   0     |   0     |
 | Without Hearing            |   0     |   0     |   0     |   0     |   0     |
 | With Hearing               |   0     |   0     |   0     |   0     |   0     |
@@ -114,7 +114,7 @@ permalink: /about/no-fear-data.html
 #### A. Total Number of Findings
 
 | &nbsp;                     | FY 2018 (#%) | FY 2019 (#%) | FY 2020 (#%) | FY 2021 (#%) | FY 2022 (#%) |
-| !---                       | ---!         | ---!         | ---!         | ---!         | ---!         |
+| :---                       | ---:         | ---:         | ---:         | ---:         | ---:         |
 |   Race   |   0   |   0   |   0   |   0   |   0   |
 |   Color   |   0   |   0   |   0   |   0   |   0   |
 |   Religion   |   0   |   0   |   0   |   0   |   0   |
@@ -131,7 +131,7 @@ permalink: /about/no-fear-data.html
 ## B. Findings After Hearing
 
 | &nbsp;                     | FY 2018 (#%)s | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!          | ---     | ---!    | ---!    | ---!    |
+| :---                       | ---:          | ---     | ---:    | ---:    | ---:    |
 |   Race   |   0   |   0   |   0   |   0   |   0   |
 |   Color   |   0   |   0   |   0   |   0   |   0   |
 |   Religion   |   0   |   0   |   0   |   0   |   0   |
@@ -148,7 +148,7 @@ permalink: /about/no-fear-data.html
 #### C. Findings Without Hearing
 
 | &nbsp;                     | FY 2018 (#%)s | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!          | ---     | ---!    | ---!    | ---!    |
+| :---                       | ---:          | ---     | ---:    | ---:    | ---:    |
 |   Race   |   0   |   0   |   0   |   0   |   0   |
 |   Color   |   0   |   0   |   0   |   0   |   0   |
 |   Religion   |   0   |   0   |   0   |   0   |   0   |
@@ -167,7 +167,7 @@ permalink: /about/no-fear-data.html
 #### A. Total Number Findings
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Appointment/Hire   |   0   |   0   |   0   |   0   |   0   |
 |   Assignment of Duties    |   0   |   0   |   0   |   0   |   0   |
 |   Awards    |   0   |   0   |   0   |   0   |   0   |
@@ -203,7 +203,7 @@ permalink: /about/no-fear-data.html
 #### B. Findings After Hearing
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Appointment/Hire   |   0   |   0   |   0   |   0   |   0   |
 |   Assignment of Duties    |   0   |   0   |   0   |   0   |   0   |
 |   Awards    |   0   |   0   |   0   |   0   |   0   |
@@ -239,7 +239,7 @@ permalink: /about/no-fear-data.html
 #### C. Findings Without Hearing
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Appointment/Hire   |   0   |   0   |   0   |   0   |   0   |
 |   Assignment of Duties    |   0   |   0   |   0   |   0   |   0   |
 |   Awards    |   0   |   0   |   0   |   0   |   0   |
@@ -270,12 +270,11 @@ permalink: /about/no-fear-data.html
 |   Time and Attendance   |   0   |   0   |   0   |   0   |   0   |
 |   Training    |   0   |   0   |   0   |   0   |   0   |
 |   Other    |   0   |   0   |   0   |   0   |   0   |
-{: .usa-table }
 
 #### D. Findings After Hearing
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Appointment/Hire   |   0   |   0   |   0   |   0   |   0   |
 |   Assignment of Duties    |   0   |   0   |   0   |   0   |   0   |
 |   Awards    |   0   |   0   |   0   |   0   |   0   |
@@ -311,7 +310,7 @@ permalink: /about/no-fear-data.html
 ### X. Pending Complaints Filed in Previous Fiscal Years by Status
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                       | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
 |   Total complaints from previous Fiscal Years   |   1   |   0   |   0   |   0   |   0   |
 |   Total Complainants    |   1   |   0   |   0   |   0   |   0   |
 |   Number Complainants Pending    |   1   |   1   |   0   |   0   |   0   |
@@ -324,7 +323,7 @@ permalink: /about/no-fear-data.html
 ### XI.Complaint Investigation 
 
 | &nbsp;                      | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| !---                        | ---!    | ---!    | ---!    | ---!    | ---!    |
+| :---                        | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Pending Completion Where Investigation Exceeds Required Time Frames
                               |     0   |     1   |     0   |     0   |     0   |
 {: .usa-table }
