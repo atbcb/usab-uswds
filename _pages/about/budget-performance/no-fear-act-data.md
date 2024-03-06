@@ -131,7 +131,7 @@ permalink: /about/no-fear-data.html
 ## B. Findings After Hearing
 
 | &nbsp;                     | FY 2018 (#%)s | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| :---                       | ---:          | ---     | ---:    | ---:    | ---:    |
+| :---                       | ---:          | ---:    | ---:    | ---:    | ---:    |
 |   Race   |   0   |   0   |   0   |   0   |   0   |
 |   Color   |   0   |   0   |   0   |   0   |   0   |
 |   Religion   |   0   |   0   |   0   |   0   |   0   |
@@ -148,7 +148,7 @@ permalink: /about/no-fear-data.html
 #### C. Findings Without Hearing
 
 | &nbsp;                     | FY 2018 (#%)s | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| :---                       | ---:          | ---     | ---:    | ---:    | ---:    |
+| :---                       | ---:          | ---:    | ---:    | ---:    | ---:    |
 |   Race   |   0   |   0   |   0   |   0   |   0   |
 |   Color   |   0   |   0   |   0   |   0   |   0   |
 |   Religion   |   0   |   0   |   0   |   0   |   0   |
