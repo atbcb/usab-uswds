@@ -3,7 +3,7 @@ title: No FEAR Act Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /about/no-fear-report.html
+permalink: /about/no-fear-report-2021.html
 ---
 
 # {{ page.title }}s (FY 2021)
