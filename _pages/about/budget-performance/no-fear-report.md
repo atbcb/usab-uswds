@@ -1,8 +1,8 @@
 ---
-title: No FEAR Act Reports
+title: No FEAR Act Report
 layout: page
 toc: sidenav.html
-banner-title: About the U.S. Access Board
+banner-title: No Fear Act
 permalink: /about/no-fear-report.html
 file: nfa/usab-nfa-report-fy2022.pdf
 file-description: PDF version of USAB No FEAR ACT report for Fiscal Year 2022
