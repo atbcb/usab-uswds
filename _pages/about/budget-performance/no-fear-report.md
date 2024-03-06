@@ -4,7 +4,7 @@ layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/no-fear-report.html
-file: nfa/usab-nfa-report-fy22.pdf
+file: nfa/usab-nfa-report-fy2022.pdf
 file-description: PDF version of USAB No FEAR ACT report for Fiscal Year 2022
 ---
 <button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
