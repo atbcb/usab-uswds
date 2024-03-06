@@ -35,7 +35,7 @@ The Access Board is a micro-agency with a maximum of 30 full-time employees when
 
 During FY 2022, there were zero new cases filed against the Access Board in federal courts.  The Access Board has only had one case filed in a federal District Court under Federal Antidiscrimination Laws or Whistleblower Protection Laws in the past five years, in FY 2019.  This case was dismissed from federal court in FY 2021 as the result of a settlement reached in a case arising out of the same facts challenging whistleblower discrimination filed by the plaintiff in the federal civil action before the Merit Systems Protection Board (MSPB).
 
-### B. Reimbursement to the Judgment Fund
+### B. Reimbursement to the Judgement Fund
 
 During FY 2022 there were no federal district court discrimination cases which resulted in payment from the Judgment Fund on behalf of the Access Board.
 
