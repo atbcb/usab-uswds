@@ -1,27 +1,20 @@
 ---
-title: No FEAR Act Report
+title: No FEAR Act Reports
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/no-fear-report.html
 ---
 
-# {{ page.title }}s (FY 2022)
+# Annual Report for Fiscal Year 2022 <br >/ Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002
 
-United States Access Board
-Annual Report for Fiscal Year 2021
-Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002
-
-Report Prepared For:
-Speaker of the U.S. House of Representatives
-President Pro Tempore of the U.S. Senate
-Committee on Homeland Security and Governmental Affairs, U.S. Senate
-Committee on Oversight and Reform of the House of Representatives
-Committee on Judiciary, U.S. Senate
-Committee on Judiciary of the House of Representatives
-Committee on Health, Education, Labor, and Pensions, U.S. Senate
-U.S. Equal Employment Opportunity Commisson
-Attorney General
+**Report Prepared For:** /
+Speaker of the U.S. House of Representatives /
+President Pro Tempore of the U.S. Senate / 
+Committee on Homeland Security and Governmental Affairs, U.S. Senate /
+Committee on Judiciary, U.S. Senate /
+U.S. Equal Employment Opportunity Commisson /
+Attorney General /
 U.S. Office of Personnel Management
 
 ## I. Introduction
@@ -30,7 +23,7 @@ This report is prepared by the U.S. Access Board (Access Board or Board) pursuan
 The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. Created in 1973 to ensure access to federally funded facilities, the Board is now a leading source of information on accessible design. The Board develops and maintains design criteria for the built environment, transit vehicles, information and communication technology, and medical diagnostic equipment under the Americans with Disabilities Act of 1990 (ADA) and other laws. It also provides technical assistance and training on these requirements and enforces accessibility standards that apply to federally funded facilities under the Architectural Barriers Act of 1968 (ABA).
 The Access Board is a micro-agency with only 29 full-time employees and 13 presidentially appointed part-time special government employees who serve as the Public members on the agency’s Board. This report contains data and analysis concerning equal employment opportunity (EEO) complaint activity at the Access Board. For fiscal year 2021, the Access Board had zero new complaints. Over the past five fiscal years the Access Board has only had one EEO Complaint and one Federal Court case.
 
-## II. FY 2021 Complaint Data
+## II. FY 2022 Complaint Data
 
 ### A. Civil Cases
 
@@ -54,7 +47,7 @@ Access Board employees are accountable for their actions in accordance with the 
 
 ### F. No FEAR Act Training
 
-The Access Board is planning to provide training to all staff and managers of the Access Board in FY22.
+The Access Board is planning to provide training to all staff and managers of the Access Board in FY23.
 
 ## III. Analysis of Trends, Causal Analysis, and Practical Knowledge Gained through Experiences
 
@@ -71,3 +64,7 @@ The Access Board did not make any adjustments to the budget in FY 2021 to comply
 
 The Access Board continually seeks to improve its ability to prevent and address discrimination. The Access Board has been working on updating all of its anti-discrimination policies, including our Administrative Grievance Policy, Anti-Harassment Policy, and EEO Policies and
 Procedures. During FY2021, we had an agency-wide DEIA Workshop entitled Disability Inclusion and Intersectionality, held virtually over two days.
+
+<hr />
+
+{% include no-fear-act-data.md %}
