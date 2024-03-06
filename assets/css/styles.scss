@@ -473,7 +473,7 @@ div.advisory p.last {
     content: "" !important;
   }
   //expand accordion content
-  .usa-accordion__content {
+  .usa-accordion__content, .usa-accordion__button {
     display: block !important;
   }
   //no section outlines
