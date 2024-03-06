@@ -10,7 +10,7 @@ permalink: /about/no-fear-report.html
 
 **Report Prepared For:** \
 Speaker of the U.S. House of Representatives \
-President Pro Tempore of the U.S. Senate \ 
+President Pro Tempore of the U.S. Senate \
 Committee on Homeland Security and Governmental Affairs, U.S. Senate \
 Committee on Judiciary, U.S. Senate \
 U.S. Equal Employment Opportunity Commisson \
