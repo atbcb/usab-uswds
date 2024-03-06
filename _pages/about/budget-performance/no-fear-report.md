@@ -3,10 +3,10 @@ title: No FEAR Act Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /about/no-fear-report-2017.html
+permalink: /about/no-fear-report.html
 ---
 
-# {{ page.title }}s (FY 2021)
+# {{ page.title }}s (FY 2022)
 
 United States Access Board
 Annual Report for Fiscal Year 2021
