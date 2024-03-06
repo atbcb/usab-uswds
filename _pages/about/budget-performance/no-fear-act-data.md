@@ -6,9 +6,7 @@ banner-title: About the U.S. Access Board
 permalink: /about/no-fear-data.html
 ---
 
-# {{ page.title }} FY 2022
-
-## No Fear Act Data FY 2022
+## {{ page.title }} FY 2022
 
 ### I. Complaint Activity (FY 2018 to FY2022)
 
@@ -270,6 +268,7 @@ permalink: /about/no-fear-data.html
 |   Time and Attendance   |   0   |   0   |   0   |   0   |   0   |
 |   Training    |   0   |   0   |   0   |   0   |   0   |
 |   Other    |   0   |   0   |   0   |   0   |   0   |
+{: .usa-table }
 
 #### D. Findings After Hearing
 
