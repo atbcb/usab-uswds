@@ -36,7 +36,7 @@ permalink: /about/no-fear-data.html
 |   Non-EEO Basis    |   0   |   0   |   0   |   0   |   0   |
 {: .usa-table }
 
-### III.Complaints by Issue
+### III. Complaints by Issue
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
 | :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
@@ -72,7 +72,7 @@ permalink: /about/no-fear-data.html
 |   Other    |   0   |   0   |   0   |   0   |   0   |
 {: .usa-table }
 
-### IV.  Processing Time
+### IV. Processing Time
 
 | &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
 | :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
@@ -320,10 +320,9 @@ permalink: /about/no-fear-data.html
 |   Appeal with EEOC Office of Federal Operations     |   0   |   0   |   0   |   0   |   0   |
 {: .usa-table }
 
-### XI.Complaint Investigation 
+### XI. Complaint Investigation 
 
 | &nbsp;                      | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
 | :---                        | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Pending Completion Where Investigation Exceeds Required Time Frames
-                              |     0   |     1   |     0   |     0   |     0   |
+| Pending Completion Where Investigation Exceeds Required Time Frames |     0   |     1   |     0   |     0   |     0   |
 {: .usa-table }
