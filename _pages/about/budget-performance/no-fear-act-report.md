@@ -6,15 +6,15 @@ banner-title: About the U.S. Access Board
 permalink: /about/no-fear-report.html
 ---
 
-# Annual Report for Fiscal Year 2022 <br >/ Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002
+# Annual Report for Fiscal Year 2022 <br /> Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002
 
-**Report Prepared For:** /
-Speaker of the U.S. House of Representatives /
-President Pro Tempore of the U.S. Senate / 
-Committee on Homeland Security and Governmental Affairs, U.S. Senate /
-Committee on Judiciary, U.S. Senate /
-U.S. Equal Employment Opportunity Commisson /
-Attorney General /
+**Report Prepared For:** \
+Speaker of the U.S. House of Representatives \
+President Pro Tempore of the U.S. Senate \ 
+Committee on Homeland Security and Governmental Affairs, U.S. Senate \
+Committee on Judiciary, U.S. Senate \
+U.S. Equal Employment Opportunity Commisson \
+Attorney General \
 U.S. Office of Personnel Management
 
 ## I. Introduction
