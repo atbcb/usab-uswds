@@ -58,7 +58,7 @@ February 2024
 
 # Fiscal Year 2025 Budget Justification
 
-This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2025. The Board is requesting a total budget authority of $9,955,000 (see [Appendix A](#appendix_a)).
+This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2025. The Board is requesting a total budget authority of $9,955,000 (see [Appendix A](#appendix-a)).
 
 ## Introduction
 
