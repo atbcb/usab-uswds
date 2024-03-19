@@ -1,6 +1,6 @@
 ---
 title: USAB Fiscal Year 2025 Budget Justification
-layout: universal
+layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /cj/
