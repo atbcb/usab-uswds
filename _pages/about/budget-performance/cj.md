@@ -5,7 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /cj/
 ---
-<p>This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2025. The Board is requesting a total budget authority of $9,955,000 (see Appendix A).</p>
+<p>This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2025. The Board is requesting a total budget authority of $9,955,000 (see <a href="#appendix_a">Appendix A</a>).</p>
 <h2>Introduction</h2>
 <p>The Access Board (hereinafter &ldquo;the Board&rdquo;) was established in 1973 under section 502 of the Rehabilitation Act and is the only federal agency whose primary mission is accessibility for people with disabilities. Broadly stated, the Board has three main functions: (1) to create accessibility guidelines and standards for the built environment, transit systems, information and communication technology, and medical diagnostic equipment; (2) to provide technical assistance and training to the public on these accessibility requirements; and (3) to enforce the Architectural Barriers Act of 1968, which is the law that requires federal buildings and facilities be accessible to persons with disabilities.</p>
 <p>With respect to the development of technical specifications for physical and digital accessibility, the Board is responsible for developing guidelines under the Americans with Disabilities Act (ADA), the Architectural Barriers Act of 1968 (ABA), and the Communications Act for ensuring that buildings and facilities, transportation vehicles, and telecommunications equipment covered by these laws are readily accessible to and usable by people with disabilities. The Board is also responsible for developing standards under the Rehabilitation Act of 1973 for accessible information and communication technology developed, procured, maintained, or used by federal agencies and establishing standards for accessible medical diagnostic equipment.</p>
@@ -305,7 +305,7 @@ permalink: /cj/
 </ul>
 <p>The Modernizing Government Technology Act delivers a clear mandate to federal agencies to look for ways to increase efficiency and effectiveness and improve service to the public. The Board has a requirement to employ centralized identity management systems for agency users that can be integrated into applications and common platforms. Information Technology (IT) resources are critical in support of the Board&rsquo;s strategic objective to improve agency systems and modernize operations. This objective includes using data and technology to enhance operations and services, using tools and internal systems to consolidate and retain agency knowledge, and updating agency policies, procedures, and administrative regulations. The overall goal of the Board, in accordance with recent and ongoing IT mandates, is to create a common environment for enterprise platform standards, processes, and governance, modernize legacy agency equipment, and secure and enhance the IT infrastructure. The IT appropriation provides resources for IT security enhancement modernization efforts, continued adoption of cloud-based computing solutions, consolidation of infrastructure and networks, and the modernization of legacy IT systems and applications. This funding level will also support the maintenance and enhancement of foundational capabilities that facilitate cloud migration and increase functionality.</p>
 <h2>Appendix A</h2>
-<table class="usa-table usa-table-striped">
+<table class="usa-table usa-table--striped">
 	<caption>Access Board Budget</caption>
   <thead>
     <tr>
@@ -514,29 +514,29 @@ permalink: /cj/
 <p>The Board&rsquo;s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board staff conduct site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line.</p>
 <p>Other travel expenses are for the purpose of conducting accessibility training, which is a core part of the Board&rsquo;s mission. The Board also participates in international government consortiums to share information on accessibility policy.</p>
 <h4>Space Management</h4>
-<p>&nbsp;The Board&rsquo;s rent is set by GSA. The Board entered into a new occupancy agreement, effective January 1, 2022. The amount included reflects the estimate provided by GSA. The amount on this line also includes other costs related to its space, such as maintenance and security.</p>
 <p>FY 2024: $742,000</p>
 <p>FY 2025: $763,000</p>
+<p>The Board&rsquo;s rent is set by GSA. The Board entered into a new occupancy agreement, effective January 1, 2022. The amount included reflects the estimate provided by GSA. The amount on this line also includes other costs related to its space, such as maintenance and security.</p>
 <h4>Research</h4>
 <p>FY 2024: $350,000</p>
 <p>FY 2025: $250,000</p>
 <p>Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board&rsquo;s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines.</p>
 <h4>Administrative Support Services</h4>
-<p>The Board has an interagency agreement with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. The Board also has agreements with various other federal agencies for administrative support. Approximately $790,000 of its costs are for services the Board receives from BFS. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and has another contract for GovDelivery, which supports its public outreach initiative.</p>
 <p>FY 2024: $1,025,700</p>
 <p>FY 2025: $1,027,200</p>
+<p>The Board has an interagency agreement with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. The Board also has agreements with various other federal agencies for administrative support. Approximately $790,000 of its costs are for services the Board receives from BFS. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and has another contract for GovDelivery, which supports its public outreach initiative.</p>
 <h4>Information Technology Support Services</h4>
-<p>This is the yearly cost of the Board&rsquo;s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board&rsquo;s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, &ldquo;Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.&rdquo; This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board&rsquo;s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service&rsquo;s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program.</p>
 <p>FY 2024 $1,482,900</p>
 <p>FY 2025 $1,460,300</p>
+<p>This is the yearly cost of the Board&rsquo;s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board&rsquo;s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, &ldquo;Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.&rdquo; This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board&rsquo;s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service&rsquo;s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program.</p>
 <h4>Printing</h4>
-<p>&nbsp;Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements.</p>
 <p>FY 2024 $60,000</p>
 <p>FY 2025 $60,000</p>
+<p>Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements.</p>
 <h4>Miscellaneous Operating Expenses</h4>
-<p>Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with accessible design materials, staff training, office supplies, and equipment purchases.</p>
 <p>FY 2024 $92,200</p>
 <p>FY 2025 $88,500</p>
+<p>Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with accessible design materials, staff training, office supplies, and equipment purchases.</p>
 <h2>Appendix B</h2>
 <h3>Status Of Current Access Board Rulemaking Efforts</h3>
 <h4>ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles &ndash; Update (rail vehicles).</h4>
@@ -829,7 +829,7 @@ permalink: /cj/
   <li> Final rule published: August 8, 2023 </li>
 </ul>
 <h2>Appendix C</h2>
-<table class="usa-table usa-table-striped">
+<table class="usa-table usa-table--striped">
 	<caption>Architectural Barriers Act Cases</caption>
   <thead>
     <tr>
@@ -920,7 +920,7 @@ permalink: /cj/
 </table>
 <h2>Appendix D</h2>
 		<h3>Technical Assistance Data</h3>
-<table class="usa-table usa-table-striped">
+<table class="usa-table usa-table--striped">
 	<caption>Technical Assistance Data, calls and website</caption>
   <tbody>
     <tr>
@@ -946,7 +946,7 @@ permalink: /cj/
     </tr>
   </tbody>
 </table>
-<table class="usa-table usa-table-striped">
+<table class="usa-table usa-table--striped">
 	<caption>Technical Assistance Data, training</caption>
   <thead>
     <tr>
