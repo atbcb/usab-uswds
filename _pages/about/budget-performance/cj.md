@@ -1,10 +1,62 @@
 ---
-title: USAB Fiscal Year 2025 Budget Justification
+title: Budget Justification
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /cj/
 ---
+
+# Fiscal Year 2025 {{ page.title }}
+
+Submitted to: \
+United States House Appropriations Committee \
+Subcommittees on Transportation, Housing and Urban Development, and Related Agencies
+
+February 2024
+
+## Contents
+
+* [Introduction](#introduction)
+* [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design)
+    -   [FY 2023 Results: Rulemaking](#fy-2023-results-rulemaking)
+    -   [FY 2024 Planned Activities: Rulemaking](#fy-2024-planned-activities-rulemaking)
+    -   [FY 2025 Objectives: Rulemaking](#fy-2025-objectives-rulemaking)
+    -   [FY 2023 Results: Codes and Standards](#fy-2023-results-codes-and-standards)
+    -   [FY 2024 Planned Activities: Codes and Standards](#fy-2024-planned-activities-codes-and-standards)
+    -   [FY 2025 Objectives: Codes and Standards](#fy-2025-objectives-codes-and-standards)
+* [Provide Education and Information on the Importance and Implementation of Accessible Design](#provide-education-and-information-on-the-importance-and-implementation-of-accessible-design)
+    -   [FY 2023 Results](#fy-2023-results)
+    -   [FY 2024 Planned Activities](#fy-2024-planned-activities)
+    -   [FY 2025 Objectives](#fy-2025-objectives)
+* [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government)
+    -   [FY 2023 Results: ABA Enforcement and Awareness](#fy-2022-results-aba-enforcement-and-awareness)
+    -   [FY 2024 Planned Activities: ABA Enforcement and Awareness](#fy-2023-planned-aba-enforcement-and-awarenesse)
+    -   [FY 2025 Objectives: ABA Enforcement and Awareness](#fy-2024-objectives-aba-enforcement-and-awareness)
+    -   [FY 2023 Results: Accessible Federal Information and Communication Technology](#fy-2022-results-accessible-federal-information-and-communication-technology)
+    -   [FY 2024 Planned Activities: Accessible Federal Information and Communication Technology](#fy-2023-planned-activities-accessible-federal-information-and-communication-technology)
+    -   [FY 2025 Objectives: Accessible Federal Information and Communication Technology](#fy-2024-objectives-accessible-federal-information-and-communication-technology)
+    -   [FY 2023 Results: Model Employer of Persons with Disabilities](#fy-2022-results-model-employer-of-persons-with-disabilities)
+    -   [FY 2024 Planned Activities: Model Employer of Persons with Disabilities](#fy-2023-planned-activities-model-employer-of-persons-with-disabilities)
+    -   [FY 2025 Objectives: Model Employer of Persons with Disabilities](#fy-2024-objectives-model-employer-of-persons-with-disabilities)
+* [Promote Accessibility throughout Society](#promote-accessibility-throughout-society)
+    -   [FY 2023 Results](#fy-2022-results-1)
+    -   [FY 2024 Planned Activities](#fy-2023-planned-activities-1)
+    -   [FY 2025 Objectives](#fy-2024-objectives-1)
+* [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
+* Appendix A
+    -   [Access Board Budget](#access-board-budget)
+    -   [Cost Discussion](#cost-discussion)
+* Appendix B
+    -   [Status of Current Access Board Rulemaking Efforts](#status-of-current-access-board-rulemaking-efforts)
+    -   [Completed Access Board Rulemakings](#completed-access-board-rulemakings)
+* Appendix C
+    -   [Architectural Barriers Act Cases](#architectural-barriers-act-cases)
+* Appendix D
+    -   [Technical Assistance Data)](#technical-assistance-data)
+
+* * *
+
+<h1 id="cj">Fiscal Year 2025 Budget Justification</h1>
 <p>This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2025. The Board is requesting a total budget authority of $9,955,000 (see <a href="#appendix_a">Appendix A</a>).</p>
 <h2>Introduction</h2>
 <p>The Access Board (hereinafter &ldquo;the Board&rdquo;) was established in 1973 under section 502 of the Rehabilitation Act and is the only federal agency whose primary mission is accessibility for people with disabilities. Broadly stated, the Board has three main functions: (1) to create accessibility guidelines and standards for the built environment, transit systems, information and communication technology, and medical diagnostic equipment; (2) to provide technical assistance and training to the public on these accessibility requirements; and (3) to enforce the Architectural Barriers Act of 1968, which is the law that requires federal buildings and facilities be accessible to persons with disabilities.</p>
