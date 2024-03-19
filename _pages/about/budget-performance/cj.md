@@ -52,7 +52,7 @@ February 2024
 * Appendix C
     -   [Architectural Barriers Act Cases](#architectural-barriers-act-cases)
 * Appendix D
-    -   [Technical Assistance Data)](#technical-assistance-data)
+    -   [Technical Assistance Data](#technical-assistance-data)
 
 * * *
 
