@@ -609,14 +609,14 @@ If each door has an active leaf, the sign must be located to the right of the do
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Double_Door_-_inactive.png"
-			 alt="Recessed single door with enough space for sign on wall adjacent to latch side of door." />
+			 alt="Double leaf door with handle only on the right door, and sign on left door." />
 	<figcaption>
 		Sign on inactive leaf at double-door entry.
 	</figcaption>
 </figure>
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Double_Door.png"
-			 alt="double leaf door with handles on each leaf and sign on wall right of door." />
+			 alt="Double leaf door with handles on each leaf and sign on wall right of door." />
 	<figcaption>
 		Sign at right-side hinge side of double-door entry with two active leaves.
 	</figcaption>
