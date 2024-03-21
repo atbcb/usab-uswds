@@ -608,7 +608,7 @@ If each door has an active leaf, the sign must be located to the right of the do
 {: .clear }
 
 <figure class="img-left">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Recessed_with_clearance.png"
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Double_Door_-_inactive.png"
 			 alt="Recessed single door with enough space for sign on wall adjacent to latch side of door." />
 	<figcaption>
 		Sign on inactive leaf at double-door entry.
