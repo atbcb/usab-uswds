@@ -159,7 +159,7 @@ The exercise equipment and machines themselves do not need to comply with the AD
 
 Designers and operators are encouraged to select exercise equipment that provides fitness opportunities for persons with lower body extremity disabilities.
 
-![illustration of clear space requirements around exercise equipment]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-12.jpg){: .img-large}
+![illustration of clear space requirements around exercise equipment]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/page-12.jpg){: .img-large}
 
 ### Shooting Facilities
 
