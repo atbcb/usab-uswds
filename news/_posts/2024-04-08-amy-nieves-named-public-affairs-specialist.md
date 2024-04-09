@@ -1,21 +1,14 @@
 ---
 layout: post
-title: "Amy Nieves Named Director of Office of Technical and Information Services "
+title: "Amy Nieves Named U.S. Access Board’s Public Affairs Specialist"
 date: 2024-04-08
-excerpt: Amy Nieves (update all of this and add amy's pic) has been named the new Director of the Office of Technical
-  and Information Services (OTIS) at the U.S. Access Board. She succeeds Dave
-  Yanchulis who retired in April after 36 years with the Board. In this role,
-  Levy will . . .
-image: /images/uploads/nieves-small.png
+excerpt: Amy Nieves has been appointed Public Affairs Specialist for the U.S. Access Board in the Office of Executive Director (OED). In this role, Nieves will design, plan, and direct the Board’s public affairs program that includes managing its external communication channels, developing informational materials, handling media relations, leading outreach . . .
+image: /images/uploads/nieves-small.jpg
 image_alt_text: Portrait of Amy Nieves
 featured: false
 ---
-Amy Nieves (update all of this) has been named the new Director of the Office of Technical and Information Services (OTIS) at the U.S. Access Board. She succeeds Dave Yanchulis who retired in April after 36 years with the Board. In this role, Levy will manage and establish program goals and operations for OTIS, including those related to accessibility guidelines and standards, technical assistance and guidance, training, and research. OTIS is responsible for the development of the Americans with Disabilities (ADA) Accessibility Guidelines and Architectural Barriers Act (ABA) Accessibility Standards, standards and guidelines for accessible information and communication technology, and standards for accessible medical diagnostic equipment. 
+Amy Nieves has been appointed Public Affairs Specialist for the U.S. Access Board in the Office of Executive Director (OED). In this role, Nieves will design, plan, and direct the Board’s public affairs program that includes managing its external communication channels, developing informational materials, handling media relations, leading outreach activities, and serving as point of contact for legislative affairs to explain accessibility and the work of the Board.
 
-“I am excited to have Alison join our team of dedicated experts in the accessibility space.” Board Executive Director Sachin Pavithran said. “She will be leading a team of experts that plays a vital role in advancing our accessibility standards and guidelines and advancing equal access for all.” 
+The Board’s OED is responsible for providing overall administrative leadership, overseeing the day-to-day operations, setting agency-wide priorities, ensuring that the budget is administered effectively and efficiently, and representing the Board on inter-agency committees and other official events.
 
-Levy most recently served as the Manager of the U.S. Department of Transportation’s Disability Resource Center (DRC). The DRC is a centrally funded office that supports internal supervisors and employees in creating an accessible and inclusive workplace through recruitment, hiring, outreach, education, and reasonable accommodations.  
-
-“Accessibility is a human right that ensures we all thrive together in society,” Levy remarked. “I look forward to working at the Access Board in broadening its capacity to better educate and obtain greater access for all.” 
-
-Previously, Levy served at the U.S. Department of Agriculture (USDA), providing leadership over the recruitment, hiring, advancement, and retention of individuals with disabilities, including reasonable accommodations. She developed and implemented policies, procedures, and strategic plans, and facilitated programs through a diverse team of more than 50 contacts across USDA’s 34 mission areas, agencies, and staff offices. Her efforts with a team of diversity and inclusion colleagues yielded USDA’s six-level rise in the Federal Employee Viewpoint Survey to #2 for Large Federal Agencies in Diversity Support.
+Prior to joining the Board, Nieves served as the Executive Director of the Philadelphia Mayor’s Office for People with Disabilities, which oversees the Mayor’s Commission on People with Disabilities, the Office of ADA Compliance and Constituent Services. Additionally, she is a Governor-appointed Council member of the Pennsylvania Developmental Disabilities Council (PADDC) and the Pennsylvania Statewide Independent Living Council (PASILC). She obtained her Master’s in Human Relations: Diversity, Equity, and Social Justice at the University of Oklahoma and her undergraduate degree at York College of Pennsylvania.
