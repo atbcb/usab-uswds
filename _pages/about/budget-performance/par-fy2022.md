@@ -8,7 +8,7 @@ permalink: /about/par2022.html
 file: usab-par-fy2022.pdf
 file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2022
 ---
-<button class="usa-button" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
+<button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
 ## Performance and Accountability Report, Independent Auditor's Report, and Financial Statements
 
@@ -247,7 +247,7 @@ Certain costs of the providing entity that are not fully reimbursed are recogniz
 Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.&nbsp;
 Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.&nbsp;
 The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.&nbsp;
-For the periods ended September 30, 2022 and 2020, respectively, inter-entity costs were as follows:
+For the periods ended September 30, 2022 and 2021, respectively, inter-entity costs were as follows:
 
 | &nbsp;                              | 2022          | 2021          |
 | :---                                | ---:          | ---:          |

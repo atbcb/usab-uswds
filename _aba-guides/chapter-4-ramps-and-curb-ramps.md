@@ -87,7 +87,7 @@ Handrails are required on both sides of ramps with a rise greater than 6”.  Th
 
 #### Handrail Continuity and Extensions
 
-![Ramp handrail with extensions.  Notes:   Extensions 12” long min. in the same direction of travel are required at the top and bottom of runs (except for inside rail of switchback ramps) to provide support before entering or exiting ramps.  Bottom gripping surface can be obstructed up to 20% of the length.  Handrails must be continuous the full length of run and tops and sides of gripping surface cannot be obstructed.  Extensions must return to guard, wall, or floor.  The 12” min. is measured to the start of the return radius. Extensions with a leading edge 27” high max. can extend any amount from posts.  Those with a leading edge higher than 27” are limited to a 12” protrusion from posts (§307.3).  The sloping portion of handrails are not required to comply with requirements for protruding objects.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr10.jpg){: .img-large}
+![Ramp handrail with extensions.  Notes: Extensions 12&Prime; long minimum in the same direction of travel are required at the top and bottom of runs (except for inside rail of switchback ramps) to provide support before entering or exiting ramps.  Bottom gripping surface can be obstructed up to 20% of the length.  Handrails must be continuous the full length of run and tops and sides of gripping surface cannot be obstructed.  Extensions must return to guard, wall, or floor.  The 12&prime; minimum is measured to the start of the return radius.  Extensions with a leading edge 27&Prime; high maximum can extend any amount from posts.  Those with a leading edge higher than 27&Prime; are limited to a 12&prime; protrusion from posts (§307.3).  The sloping portion of handrails are not required to comply with requirements for protruding objects.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr10.jpg){: .img-large}
 
 Surface requirements and clearances facilitate a power grip along the length of handrails. Handrails can have circular or non-circular cross-sections, but must have rounded edges. The gripping surface and adjacent surfaces must be free of abrasive or sharp elements.
 
@@ -107,14 +107,14 @@ Surface requirements and clearances facilitate a power grip along the length of 
 In assembly areas, aisle ramps required to be accessible are exempt from some handrail requirements.  Aisle ramps (or portions of them) adjacent to seating that are not part of a required accessible route to accessible seating or to other accessible elements do not have to comply with any ramp or handrail requirements.
 </div>
 
-{%include grid-2col-lefttext-rightimg50.html
-text-title= "Aisle ramps that are part of a required accessible route can have handrails on at least one side or within the aisle width instead of on both sides as required for other types of ramps. (§505.2)"
+{% include grid-2col-lefttext-rightimg50.html
+text-title="Aisle ramps that are part of a required accessible route can have handrails on at least one side or within the aisle width instead of on both sides as required for other types of ramps. (§505.2)"
 img-file= "chapter4/4rcr12.jpg"
 img-alt= "Aisle ramp with wall-mounted handrail on one side"
 %}
 
-{%include grid-2col-lefttext-rightimg50.html
-text-title= "<p>Handrails on assembly area ramps can be discontinuous and lack extensions to allow access to seating and to permit crossovers within aisles. (§505.3, §505.10)</p><p>Other handrails specifications, including those for height, clearance, gripping surface, and cross section, apply.</p>"
+{% include grid-2col-lefttext-rightimg50.html
+text-title="<p>Handrails on assembly area ramps can be discontinuous and lack extensions to allow access to seating and to permit crossovers within aisles. (§505.3, §505.10)</p><p>Other handrails specifications, including those for height, clearance, gripping surface, and cross section, apply.</p>"
 img-file= "chapter4/4rcr13.jpg"
 img-alt= "Aisle ramp with seating on both sides and center handrail that is discontinuous"
 %}
@@ -139,7 +139,6 @@ Edge protection along ramp runs and landings keep wheelchair casters and crutch 
     </div>
   </div>
 </div>
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -232,13 +231,13 @@ Built-up curb ramps are permitted, but they cannot project in parking spaces, ac
 
 ##### Built-Up Curb Ramp with Side Flares
 
-{%include imgfull-italictextbelow.html
+{% include imgfull-italictextbelow.html
 img-file= "chapter4/4rcr25.jpg"
 img-alt= "Built-up curb ramp with side flares 1:10 max and top landing"
 text= "Side flares can be provided to prevent tripping hazards. Edge protection is not specified for curb ramps."
 %}
 
-{%include recommendation.html
+{% include recommendation.html
 text= "Provide edge protection along the sides of built-up curb ramps to prevent tipping hazards. Otherwise, consider a wider ramp width (48\" min.) so that maneuvering does not occur near drop-offs."
 %}
 
@@ -269,7 +268,7 @@ Curb ramps must be oriented so that the grade break is perpendicular to the curb
 If curb ramps are placed diagonally at an intersection, it is important that clear space 48” long min. is available at the bottom that is outside active vehicle traffic lanes and is located within marked crossings, where provided.  A segment of curb at least 24” long beyond flares must be provided on both sides of curb ramps with side flares within marked crossings.  This curb segment provides an orienting cue at crossings for people with vision impairments.
 </div>
 
-{%include recommendation.html
+{% include recommendation.html
 text= "Perpendicular curb ramps are preferred over diagonal curb ramps.  Unless the radius is large enough, it can be difficult to locate the clear space at the bottom of diagonal curb ramps that is outside active traffic lanes.  The orientation also can mislead people with vision impairments who use curb slopes as a cue to crossings."
 %}
 
@@ -301,7 +300,7 @@ A 48” min. long separation is necessary between curb ramps so that people usin
 
 ![Transit icon ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr33.jpg){: .float-right .thumbnail}
 
-The ABA Standards do not require detectable warnings on curb ramps.  However, they are required on curb ramps at transit facilities covered by DOT’s ADA Standards (facilities used by state and local governments to provide designated public transportation services, such as rail stations and bus stations).  DOT also requires detectable warnings on curb ramps in projects funded by the Federal Highway Administration.  New guidelines the Board is developing for public rights-of-way under the ABA and ADA will address requirements for detectable warnings at curb ramps and other transitions along public streets and sidewalks where hazards to people with vision impairments are greater.
+The ABA Standards do not require detectable warnings on curb ramps.  However, they are required on curb ramps at transit facilities covered by DOT’s ADA Standards (facilities used by state and local governments to provide designated public transportation services, such as rail stations and bus stations).  DOT also requires detectable warnings on curb ramps in projects funded by the Federal Highway Administration.  The Board has published [new guidelines for the public rights-of-way]({{ site.baseurl }}/prowag/scoping.html#r205-detectable-warning-surfaces) that address requirements for detectable warnings at curb ramps and other transitions along public streets and sidewalks where hazards to people with vision impairments are greater.
 
 ![Pedestrian icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr34.jpg){: .float-right .thumbnail}
 
@@ -315,13 +314,11 @@ Where detectable warnings are required (or provided anyway) they must meet speci
   <div class="grid-row">
     <div class="tablet:grid-col border">
       <span class="grid-line text-bold">Dome Spacing</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr36.jpg" alt="Dome spacing .65 inch measured between base of
-domes and 1.6 inches to 2.4 inches measured between dome center">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr36.jpg" alt="Dome spacing .65 inch measured between base of domes and 1.6 inches to 2.4 inches measured between dome center">
     </div>
     <div class="tablet:grid-col border">
       <span class="grid-line text-bold">Dome Size</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr37.jpg" alt="Dome size .9 inch to 1.4 inches base diameter, 0.2 inch height, top
-50% - 65% of the base diameter">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr37.jpg" alt="Dome size .9 inch to 1.4 inches base diameter, 0.2 inch height, top 50% &ndash; 65% of the base diameter">
     </div>
   </div>
 </div>
@@ -346,7 +343,7 @@ All required ramps and curb ramps must be permanent and installed at the time of
 
 ##### Is there a maximum distance between ramp handrails?
 
-No, only a minimum (36”) is required between handrails. The Standards do not require center or intermediate handrails on wide ramps.
+No, only a minimum (36&Prime;) is required between handrails.  The Standards do not require center or intermediate handrails on wide ramps.
 
 ##### Can handrails overlap ramp landings?
 

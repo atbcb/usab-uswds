@@ -115,10 +115,10 @@ fieldset button {
 }
 
 // Oxford list style
-ol li ol li {
+ol li ol li, ol.alpha li {
   list-style-type: lower-alpha;
 }
-ol li ol li ol li {
+ol li ol li ol li, ol.roman li {
   list-style-type: lower-roman;
 }
 
@@ -181,6 +181,11 @@ td ul.check {
   font-weight: bold;
   font-style: italic;
   @include u-text("secondary-darker");
+}
+
+//fix background color for hover on submenu items 
+@media (max-width: 63.99em){
+.usa-nav__primary a:not(.usa-button):hover{color: #005ea2 !important; text-decoration:none}
 }
 
 @media screen and (max-width: 1024px) {
@@ -430,8 +435,59 @@ div.advisory p.last {
   display: block;
   }
 }
+// Print styles
+@media print {
+  body {
+    margin: 0;
+    color: #000;
+    background-color: #fff;
+    font-size: 12pt;
+  }
+  //black text
+  h1, h2, h3, h4, h5, h6{
+    margin-top: 15px;
+    color: #000 !important;
+    background-color: #fff;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+  table, figure, img, svg, a {
+    page-break-inside: avoid;
+  }
+  //do not print
+  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip {
+    display: none !important;
+  }
+  //include URL after links
+  a::after {
+    content: " (" attr(href) ")" !important;
+    font-style: italic;
+  }
+  //include full URL after relative links
+    a[href^="/"]::after { 
+    content: " (https://www.access-board.gov" attr(href) ") " !important;
+    font-style: italic;
+  }
+  //don't print URL after home link in banner logo
+  a[title="Home"]::after {
+    content: "" !important;
+  }
+  //expand accordion content
+  .usa-accordion__content, .usa-accordion__button {
+    display: block !important;
+  }
+  //no section outlines
+  .border{
+    border-style: none;
+  }
+  //smaller logo in banner
+  .star-logo-box{
+    max-width: 2rem;
+    height: auto;
+  }
+}
 
-// Board member profile cards
+// Board member and staff profile cards
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -439,6 +495,7 @@ div.advisory p.last {
   @include u-text('white');
   padding: 1rem;
 }
+//apply grayscale by default
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
@@ -454,6 +511,12 @@ a.style-inherit:focus>div.gray-to-color {
   @include u-bg('primary-lighter');
   border: 3px solid lightskyblue;
 }
+//show focus as workaround for gray-to-color not working with keyboard focus
+/* a.style-inherit:focus-visible {
+  outline-offset: 1px;
+  outline-color: #2491ff;
+} */
+
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
 }
@@ -592,6 +655,12 @@ table.par-prose td:first-child {
 // background-color: #f2f2f2;
 // } // zebra stripping by default
 
+// adds horizontal scrollbar
+.wide {
+	width: 125%;
+	overflow-x: scroll;
+}
+
 // adjustment to .usa-table--striped, tighten line spacing inside TD
 table.usa-table--striped td {
 	line-height: 0.8;
@@ -612,22 +681,22 @@ table.data tfoot td, table.data td p, table.data td ul li, table.data td ol li {
 // layout table
 table.layout td {
 	text-align: center;
-  font-style: oblique;
+	font-style: oblique;
 }
 // layout tables used in ict preamble
 table.layouttable {
-  border-collapse: collapse;
+	border-collapse: collapse;
 }
 table.layouttable tr td {
-border: 1px solid black;
+	border: 1px solid black;
 }
 
 // custom colors
 // ev charging tad
 .bg-green-light {
-  background-color: #ECFFDC;
+	background-color: #ECFFDC;
 }
 // temporary blue class to see how grids work
 .blue {
-  background-color: cyan;
+	background-color: cyan;
 }

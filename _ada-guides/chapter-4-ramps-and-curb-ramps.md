@@ -22,6 +22,7 @@ accessible routes with running slopes steeper than 5% also must be
 treated as ramps.
 
 #### Ramp Requirements 
+
 [[§405]({{ site.baseurl }}/ada/ada-405)]
 
 ![Ramp with landings. Notes: Clear Width (§405.5) 36 inches minimum (between
@@ -51,7 +52,7 @@ Variations in slope, such as grade breaks within runs, can disrupt
 wheelchair travel.
 
 {%include recommendation.html
-text= "Providing the least possible slope below the 1:12 (8.33%) maximum offers better usability for a wider range of users. Specifying a running slope of 7.5% maximum and a cross slope of 1.5% maximum for exterior ramps will accommodate most irregularities or variances due to construction methods or materials according to a study sponsored by the Board (\"Dimensional Tolerances in Construction and for Surface Accessibility\" by David Kent Ballast.)"
+text="Providing the least possible slope below the 1:12 (8.33%) maximum offers better usability for a wider range of users.  Specifying a running slope of 7.5% maximum and a cross slope of 1.5% maximum for exterior ramps will accommodate most irregularities or variances due to construction methods or materials according to a study sponsored by the Board (\"Dimensional Tolerances in Construction and for Surface Accessibility\" by David Kent Ballast.)"
 %}
 
 ### Clear Width
@@ -236,7 +237,6 @@ extended surfaces.
     </div>
   </div>
 </div>
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -348,12 +348,10 @@ parallel accessible route">
 Curb ramps can have returned sides, but a top landing is required under
 all conditions to allow maneuvering to and from the run.
 
-![Curb ramp with returned sides with planter on one side and grass
-strip o the other and a top landing at least 36 inches
-long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr24.jpg){: .img-large}
+![Curb ramp with returned sides with planter on one side and grass strip o the other and a top landing at least 36 inches long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr24.jpg){: .img-large}
 
-{%include recommendation.html
-text= "To prevent tripping hazards, curb ramps with returned sides should be used only where foot traffic across ramps is prevented or discouraged."
+{% include recommendation.html
+text="To prevent tripping hazards, curb ramps with returned sides should be used only where foot traffic across ramps is prevented or discouraged."
 %}
 
 #### Built-Up Curb Ramps
@@ -364,14 +362,14 @@ spaces, access aisles, or vehicle traffic lanes. A top landing at least
 
 ##### Built-Up Curb Ramp with Side Flares
 
-{%include imgfull-italictextbelow.html
-img-file= "chapter4/4rcr25.jpg"
-img-alt= "Built-up curb ramp with side flares 1:10 maximum and top landing"
-text= "Side flares can be provided to prevent tripping hazards. Edge protection is not specified for curb ramps."
+{% include imgfull-italictextbelow.html
+img-file="chapter4/4rcr25.jpg"
+img-alt="Built-up curb ramp with side flares 1:10 maximum and top landing"
+text="Side flares can be provided to prevent tripping hazards. Edge protection is not specified for curb ramps."
 %}
 
-{%include recommendation.html
-text= "Provide edge protection along the sides of built-up curb ramps to prevent tipping hazards. Otherwise, consider a wider ramp width (48&Prime; minimum) so that maneuvering does not occur near drop-offs."
+{% include recommendation.html
+text="Provide edge protection along the sides of built-up curb ramps to prevent tipping hazards. Otherwise, consider a wider ramp width (48&Prime; minimum) so that maneuvering does not occur near drop-offs."
 %}
 
 #### Parallel Curb Ramps
@@ -427,8 +425,8 @@ flares within marked crossings. This curb segment provides an orienting
 cue at crossings for people with vision impairments.
 </div>
 
-{%include recommendation.html
-text= "Perpendicular curb ramps are preferred over diagonal curb ramps. Unless the radius is large enough, it can be difficult to locate the clear space at the bottom of diagonal curb ramps that is outside active traffic lanes. The orientation also can mislead people with vision impairments who use curb slopes as a cue to crossings."
+{% include recommendation.html
+text="Perpendicular curb ramps are preferred over diagonal curb ramps.  Unless the radius is large enough, it can be difficult to locate the clear space at the bottom of diagonal curb ramps that is outside active traffic lanes.  The orientation also can mislead people with vision impairments who use curb slopes as a cue to crossings."
 %}
 
 #### Raised Crossings
@@ -467,45 +465,27 @@ wide]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr32.jpg){: .img-la
 
 [[§406.8]({{ site.baseurl }}/ada/#ada-406_8)]
 
-![Transit icon ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr33.jpg){: .float-right .thumbnail}
+![Transit icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr33.jpg){: .float-right .thumbnail}
 
-Detectable warnings are required on curb ramps at transit facilities
-covered by DOT's Standards (facilities used by state and local
-governments to provide designated public transportation services, such
-as rail stations and bus stations). They are not required at non-transit
-facilities subject to DOJ's Standards. DOT also requires detectable
-warnings on curb ramps in projects funded by the Federal Highway
-Administration. New guidelines the Board is developing for public
-rights-of-way will address requirements for detectable warnings at curb
-ramps and other transitions along public streets and sidewalks where
-hazards to people with vision impairments are greater.
+Detectable warnings are required on curb ramps at transit facilities covered by DOT's Standards (facilities used by state and local governments to provide designated public transportation services, such as rail stations and bus stations).  They are not required at non-transit facilities subject to DOJ's Standards. DOT also requires detectable warnings on curb ramps in projects funded by the Federal Highway Administration.  The Board has published [new guidelines for the public rights-of-way]({{ site.baseurl }}/prowag/scoping.html#r205-detectable-warning-surfaces) that address requirements for detectable warnings at curb ramps and other transitions along public streets and sidewalks where hazards to people with vision impairments are greater.
 
 ![Pedestrian icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr34.jpg){: .float-right .thumbnail}
 
-Where detectable warnings are required (or provided anyway) they must
-meet specifications for size, spacing, and contrast. These detailed
-criteria provide a distinctive texture intended to have a uniform
-meaning in alerting persons to the approach to vehicular areas (as well
-as drop-offs along rail station platforms).
+Where detectable warnings are required (or provided anyway) they must meet specifications for size, spacing, and contrast.  These detailed criteria provide a distinctive texture intended to have a uniform meaning in alerting persons to the approach to vehicular areas (as well as drop-offs along rail station platforms).
 
 ##### Detectable Warnings on Curb Ramps
 
-![Curb ramp with detectable warnings at the bottom that extend the
-full width of the run and are 24 inches minimum deep measured from back of curb.
-Note: light-on-dark or dark-on-light contrast with adjacent walking
-surface (color not specified).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr35.jpg){: .img-large}
+![Curb ramp with detectable warnings at the bottom that extend the full width of the run and are 24 inches minimum deep measured from back of curb. Note: light-on-dark or dark-on-light contrast with adjacent walking surface (color not specified).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr35.jpg){: .img-large}
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col border">
       <span class="grid-line text-bold">Dome Spacing</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr36.jpg" alt="Dome spacing .65 inch measured between base of
-domes and 1.6 inches to 2.4 inches measured between dome center">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr36.jpg" alt="Dome spacing .65 inch measured between base of domes and 1.6 inches to 2.4 inches measured between dome center">
     </div>
     <div class="tablet:grid-col border">
       <span class="grid-line text-bold">Dome Size</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr37.jpg" alt="Dome size 0.9 inch to 1.4 inches base diameter, 0.2 inch height, top
-50% to 65% of the base diameter">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr37.jpg" alt="Dome size 0.9 inch to 1.4 inches base diameter, 0.2 inch height, top 50% to 65% of the base diameter">
     </div>
   </div>
 </div>

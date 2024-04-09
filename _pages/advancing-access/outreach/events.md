@@ -12,22 +12,13 @@ permalink: /events/
 
 ## Public Events   
 
-> **Meeting of the U.S. Access Board**  \
-> October 25, 2023, 1:30 – 3:00 p.m. (ET) \
-> Meeting link: <https://www.zoomgov.com/j/1617026929> \
-> Meeting ID: 161 702 6929 \
-> Dial in: (646) 828-7666  \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
-
->> *Agenda*   
->> * Introductory Remarks; Roll Call; Approval of March 2023 draft meeting minutes (vote) 
->> * Executive Director’s Report 
->> * Guest Presentation: “Using Data to Promote Access and Accessibility” by Bonnielin Swenor, Ph.D., MPH 
->> * Standing Committee Reports 
->> * Ad Hoc and Special Committee Reports 
->> * Federal Agency Updates 
->> * New Business 
->> * Adjourn
+> **U.S. Access Board Town Hall Meeting** \
+> April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
+> The California Endowment \
+> Center for Healthy Communities Los Angeles \
+> Dr. Beatriz Solis Hall \
+> 1000 N. Alameda St. \
+> Los Angeles, CA 90012
 
 ### Public Events Archives
 
@@ -44,18 +35,18 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- October 23 - 25, 2023, Virtual
-- January 22 - 24, 2024, Virtual
 - April 16 - 18, 2024, In-person, Los Angeles, CA
 - July 22 - 24, 2024, In-person, Washington, DC
 - October 28 - 30, 2024, Virtual
 - January 27 - 29, 2025, Virtual
-- April **TBD**, 2025, In-person, New Orleans, LA
-- July **TBD**, 2025, In-person, Washington, DC
+- April 28 - 30, 2025, In-person, Washington, DC
+- July 8 - 10, 2025, In-person, New Orleans, LA
 - October 27 - 29, 2025, Virtual
 
 ### Board Meeting Archives
 
+- [January 24, 2024](https://www.youtube.com/watch?v=5xIJzszOph0&t=1017s)
+- [October 25, 2023](https://www.youtube.com/live/PTtRpkkejVg?si=anILhaJz1-tmkjgW&t=95)
 - [July 25, 2023](https://www.youtube.com/embed/LUgAv8c_HzY)
 - [March 15, 2023](https://youtu.be/Hd619gImSQY)
 - [January 11, 2023](https://www.youtube.com/watch?v=SjPeYA4Lfi8)

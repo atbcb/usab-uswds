@@ -90,7 +90,8 @@ OGE/GOVT-2 Executive Branch Personnel Confidential Disclosure Reports
 
 ### Access Board SORNs
 
-- [USAB.001—Reasonable Accommodation Records](https://www.federalregister.gov/d/2021-24907) 86 FR 63330 (November 16, 2021)
+- [USAB.001 -- Reasonable Accommodation Records](https://www.federalregister.gov/d/2021-24907) 86 FR 63330 (November 16, 2021)
+- [USAB.002 -- Complaint Tracking System](https://www.federalregister.gov/d/2023-25194) 88 FR 78292 (November 15, 2023)
 - [ATBCB-1. Payroll Records](https://www.gpo.gov/fdsys/pkg/PAI-2015-ATBCB/xml/PAI-2015-ATBCB.xml) 50 FR 3942 (January 29, 1985)
 - [ATBCB-2. General Financial Records](https://www.gpo.gov/fdsys/pkg/PAI-2015-ATBCB/xml/PAI-2015-ATBCB.xml) 50 FR 3942 (January 29, 1985)  
 - [ATBCB-3. General Unofficial Personnel Files](https://www.gpo.gov/fdsys/pkg/PAI-2015-ATBCB/xml/PAI-2015-ATBCB.xml) 50 FR 3942 (January 29, 1985)  

@@ -13,7 +13,7 @@ excerpt: Today marks the 50th anniversary of the Rehabilitation Act of 1973, a
 image: /images/uploads/ab-seal.png
 image_alt_text: Logo of the U.S. Access Board is a blue and red star with the
   name of the agency circling the star
-featured: true
+featured: false
 ---
 
 *This article is part of a series on the 50th anniversary of the Rehabilitation Act*   
