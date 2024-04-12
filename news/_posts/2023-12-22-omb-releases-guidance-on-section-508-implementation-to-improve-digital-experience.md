@@ -13,7 +13,7 @@ image_alt_text: Seal of the Office of Management and Budget over a blue
   background. The seal is based upon the Seal of the Executive Office of the
   President of the United States, with a banner reading "Office of Management
   and Budget" below it.
-featured: true
+featured: false
 ---
 Despite tens of millions of Americans living with a disability, nearly half of the most popular federal government websites are not fully accessible. In response, the Office of Management and Budget (OMB) has recently published guidance to help strengthen digital accessibility and the management of [Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology). Together with the OMB memo ["Delivering a Digital-First Public Experience"](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) which also requires accessibility, this guidance will aid in delivering a more universally accessible digital experience for information and communication technology provided by the federal government.
 

@@ -17,7 +17,7 @@ image_alt_text: Department of Labor's NDEAM poster. The words, “Advancing Acce
   of the Rehabilitation Act of 1973” are placed to the right of a field of red,
   gray, teal, blue and yellow arrows. Mixed within the arrows are diverse images
   of people with disabilities in workplace settings.
-featured: true
+featured: false
 ---
 October is National Disability Employment Awareness Month (NDEAM), which celebrates the contributions of America’s workers with disabilities and showcases supportive, inclusive employment policies and practices. The U.S. Department of Labor themed this year’s NDEAM observance as “Advancing Access and Equity: Then, Now and Next” to celebrate the passage of the Rehabilitation Act fifty years ago and its importance in prohibiting discrimination based on disability in employment by federal agencies, federal contractors and recipients of federal funds, and in the delivery of federally funded programs and activities.  
 

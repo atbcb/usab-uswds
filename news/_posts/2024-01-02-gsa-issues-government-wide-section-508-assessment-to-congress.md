@@ -11,7 +11,7 @@ image: /images/uploads/gsa-logo.png
 image_alt_text: 'Logo of the General Services Administration: a blue square with
   "GSA" centered on the bottom half. A star shape creates the space in the
   middle of the letter A.'
-featured: true
+featured: false
 ---
 The General Services Administration (GSA) recently issued a landmark report to Congress, which highlights the need for substantial improvements to federal Section 508 compliance. This report, the [FY23 Government-wide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment/), evaluates reporting entities’ adherence to the criteria established by the White House Office of Management and Budget (OMB) in coordination with GSA, the White House Office of Science and Technology Policy (OSTP), and the U.S. Access Board (USAB). The report also contains summaries of conclusions derived from the analysis of data, as well as recommendations to Congress for further action to improve Section 508 implementation across the federal government. [GSA’s recent blog post](https://www.section508.gov/blog/2023-annual-report-to-congress/) provides a summary of key takeaways from the assessment results.
 
