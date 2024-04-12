@@ -5,7 +5,7 @@ date: 2024-04-08
 excerpt: Amy Nieves has been appointed Public Affairs Specialist for the U.S. Access Board in the Office of Executive Director (OED). In this role, Nieves will design, plan, and direct the Board’s public affairs program that includes managing its external communication channels, developing informational materials, handling media relations, leading outreach . . .
 image: /images/uploads/nieves-small.jpg
 image_alt_text: Portrait of Amy Nieves
-featured: false
+featured: true
 ---
 Amy Nieves has been appointed Public Affairs Specialist for the U.S. Access Board in the Office of Executive Director (OED). In this role, Nieves will design, plan, and direct the Board’s public affairs program that includes managing its external communication channels, developing informational materials, handling media relations, leading outreach activities, and serving as point of contact for legislative affairs to explain accessibility and the work of the Board.
 
