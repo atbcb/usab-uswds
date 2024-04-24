@@ -12,19 +12,10 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Tuesday, April 16, 2024** in Los Angeles at 1:30 p.m. (PT) at The California Endowment, Center for Healthy Communities (1000 N. Alameda St., Los Angeles, CA 90012). This meeting will be a town hall meeting where Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in Los Angeles. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
-
-> **U.S. Access Board Town Hall Meeting** \
-> April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
-> The California Endowment \
-> Center for Healthy Communities Los Angeles \
-> Dr. Beatriz Solis Hall \
-> 1000 N. Alameda St. \
-> Los Angeles, CA 90012
+The next meeting of the Board is scheduled for **July 22 - 24, 2024** in Washington, DC. More details are forthcoming.
 
 ## Future Board Meetings
 
-- April 16 - 18, 2024, In-person, Los Angeles, CA
 - July 22 - 24, 2024, In-person, Washington, DC
 - October 28 - 30, 2024, Virtual
 - January 27 - 29, 2025, Virtual
