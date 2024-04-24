@@ -12,13 +12,7 @@ permalink: /events/
 
 ## Public Events   
 
-> **U.S. Access Board Town Hall Meeting** \
-> April 16, 2024, 1:30 PM – 4:00 PM (P.T.) \
-> The California Endowment \
-> Center for Healthy Communities Los Angeles \
-> Dr. Beatriz Solis Hall \
-> 1000 N. Alameda St. \
-> Los Angeles, CA 90012
+The next meeting of the Board is scheduled for **July 22 - 24, 2024** in Washington, DC. More details are forthcoming.
 
 ### Public Events Archives
 
@@ -35,7 +29,6 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- April 16 - 18, 2024, In-person, Los Angeles, CA
 - July 22 - 24, 2024, In-person, Washington, DC
 - October 28 - 30, 2024, Virtual
 - January 27 - 29, 2025, Virtual
