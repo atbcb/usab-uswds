@@ -4,6 +4,7 @@ first_name: Amy
 last_name: Nieves
 full_name: Amy Nieves
 pronouns: she/her/hers
+image: /images/uploads/amy-nieves.jpg
 job-title: Public Affairs Specialist
 office: Office of Executive Director
 agency: ""
