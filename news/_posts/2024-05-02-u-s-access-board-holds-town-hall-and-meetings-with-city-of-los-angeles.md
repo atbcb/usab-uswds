@@ -68,7 +68,7 @@ Throughout the day, the Board engaged in discussions on the following topics:
     <img src="{{ site.baseurl }}/images/uploads/group-outside-convention-center.JPG" alt="Over 30 Access Board Members, staff, and Los Angeles city officials pose outside of the Los Angeles Convention Center." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Over 30 Access Board Members, staff, and Los Angeles city officials pose outside of the Los Angeles Convention Center.</em>
+    <em>Access Board Members, staff, and Los Angeles city officials pose outside of the Los Angeles Convention Center.</em>
   </figcaption>
 </figure>
 
