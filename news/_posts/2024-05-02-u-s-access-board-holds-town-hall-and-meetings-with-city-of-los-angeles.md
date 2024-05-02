@@ -26,10 +26,10 @@ On Tuesday, April 16th, the Board held its annual town hall meeting at The Calif
 
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/town-hall-audience.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/town-hall-audience.jpg" alt="Access Board Vice-Chair Katy Kale speaking from the head table." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/town-hall-audience.jpg" alt="Over 100 attendees sit in rows while in attendance at the town hall." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Access Board Vice-Chair Katy Kale speaking at the Baltimore town hall meeting.</em>
+    <em>Members of the public attend the Access Board's town hall in Los Angeles.</em>
   </figcaption>
 </figure>
 
@@ -37,10 +37,10 @@ Over 30 community members testified during the public comment portion of the tow
 
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/sachin-and-chris-drc.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/sachin-and-chris-drc.jpg" alt="National Federation of the Blind President Mark Riccobono speaking from the head table." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/sachin-and-chris-drc.jpg" alt="6 representatives from Disability Rights California pose next to Sachin Pavithran, General Counsel Chris Kuczynski, and Public Affairs Specialist Amy Nieves." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>National Federation of the Blind President Mark Riccobono speaking at the town hall meeting.</em>
+    <em>Executive Director Sachin Pavithran, General Counsel Chris Kuczynski, and Public Affairs Specialist Amy Nieves with six representatives from Disability Rights California.</em>
   </figcaption>
 </figure>
 
@@ -48,10 +48,10 @@ Access Board members also met with [Disability Rights California (DRC)](https://
 
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/intersection-site-visit.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/intersection-site-visit.jpg" alt="Maryland Lieutenant Governor Aruna Miller presents the Governor’s proclamation to Maryland Department of Disabilities Secretary Carol Beatty." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/intersection-site-visit.jpg" alt="A dozen Access Board Members, staff, and others listen to Los Angeles city officials explain public right-of-way features on the streets of LA." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em> Maryland Lieutenant Governor Aruna Miller presents the Governor’s proclamation to Maryland Department of Disabilities Secretary Carol Beatty.</em>
+    <em> Access Board Members, staff, and others listen to Los Angeles city officials explain public right-of-way features on the streets of LA.</em>
   </figcaption>
 </figure>
 
@@ -65,10 +65,10 @@ Throughout the day, the Board engaged in discussions on the following topics:
 
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/group-outside-convention-center.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/group-outside-convention-center.JPG" alt="National Federation of the Blind President Mark Riccobono speaking from the head table." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/group-outside-convention-center.JPG" alt="Over 30 Access Board Members, staff, and Los Angeles city officials pose outside of the Los Angeles Convention Center." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>National Federation of the Blind President Mark Riccobono speaking at the town hall meeting.</em>
+    <em>Over 30 Access Board Members, staff, and Los Angeles city officials pose outside of the Los Angeles Convention Center.</em>
   </figcaption>
 </figure>
 
