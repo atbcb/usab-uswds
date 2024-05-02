@@ -46,6 +46,8 @@ Over 30 community members testified during the public comment portion of the tow
 
 Access Board members also met with [Disability Rights California (DRC)](https://www.disabilityrightsca.org/), an advocacy organization for Californians with disabilities. DRC representatives described myriad accessibility challenges currently being addressed in California, including housing accessibility, transportation issues, and accessible voting.
 
+On Thursday, April 18th, the Board participated in a series of conversations with City of Los Angeles officials, organized in collaboration with the [City’s Department on Disability](https://disability.lacity.gov/) and hosted at Loyola Law School’s Coelho Center for Disability Law, Policy and Innovation. Former United States Representative **Tony Coelho**, one of the primary sponsors of the [Americans with Disabilities Act (ADA)](https://www.access-board.gov/about/law/ada.html), began the day with comments highlighting the progress that has been made to advance accessibility and the opportunities for improvement that remain.
+
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/intersection-site-visit.jpg">
     <img src="{{ site.baseurl }}/images/uploads/intersection-site-visit.jpg" alt="A dozen Access Board Members, staff, and others listen to Los Angeles city officials explain public right-of-way features on the streets of LA." class="center">
@@ -54,8 +56,6 @@ Access Board members also met with [Disability Rights California (DRC)](https://
     <em> Access Board Members, staff, and others listen to Los Angeles city officials explain public right-of-way features on the streets of LA.</em>
   </figcaption>
 </figure>
-
-On Thursday, April 18th, the Board participated in a series of conversations with City of Los Angeles officials, organized in collaboration with the [City’s Department on Disability](https://disability.lacity.gov/) and hosted at Loyola Law School’s Coelho Center for Disability Law, Policy and Innovation. Former United States Representative **Tony Coelho**, one of the primary sponsors of the [Americans with Disabilities Act (ADA)](https://www.access-board.gov/about/law/ada.html), began the day with comments highlighting the progress that has been made to advance accessibility and the opportunities for improvement that remain.
 
 Throughout the day, the Board engaged in discussions on the following topics:
 
