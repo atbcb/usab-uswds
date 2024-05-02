@@ -43,9 +43,9 @@ The target audience is any federal agency employees involved in accessibility, i
 
 ### Speakers:
 
-[Justin Grimes](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11057&ret=Building%20and%20Sustaining%20an%20Accessible%20Federal%20Technology%20Environment%20|%20Section%20508%20and%20Section%20508%20Best%20Practices), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
+[**Justin Grimes**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11057&ret=Building%20and%20Sustaining%20an%20Accessible%20Federal%20Technology%20Environment%20|%20Section%20508%20and%20Section%20508%20Best%20Practices), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
 
-[Cassie Winters](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11056&ret=Building%20and%20Sustaining%20an%20Accessible%20Federal%20Technology%20Environment%20|%20Section%20508%20and%20Section%20508%20Best%20Practices), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
+[**Cassie Winters**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11056&ret=Building%20and%20Sustaining%20an%20Accessible%20Federal%20Technology%20Environment%20|%20Section%20508%20and%20Section%20508%20Best%20Practices), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
 
 ### Privacy Statement
 
