@@ -12,7 +12,7 @@ image_alt_text: A microphone connected to a podium stands before a seated
   audience. The microphone is in focus, and the audience is out of focus. The
   floor of the room is a light colored wood, and the ceiling is adorned with
   numerous rows of lights.
-featured: true
+featured: false
 ---
 The U.S. Access Board will hold a public town hall meeting on **Tuesday, April 16** from **1:30 – 4:00 p.m. (PT)** at the California Endowment’s Center for Healthy Communities in Los Angeles, California. Presidentially appointed Access Board members and representatives from other federal member agencies will be present to hear from the local community about the state of accessibility in Los Angeles. Representatives from the [City of Los Angeles Department on Disability](https://disability.lacity.gov/) will also be present.
 
