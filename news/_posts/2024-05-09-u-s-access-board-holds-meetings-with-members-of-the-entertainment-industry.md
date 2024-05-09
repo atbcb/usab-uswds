@@ -8,9 +8,11 @@ excerpt: Each year, the U.S. Access Board visits a city outside of Washington,
   learned about the state of accessibility in the film and television
   industries, among other topics. The Board spent an entire day in meetings with
   representatives of the entertainment industry to understand . . .
-image: /images/uploads/roundtable-with-creatives.jpg
-image_alt_text: Access Board Members and staff sit at a large conference table
-  with creatives. To the right is a large set of windows.
+image: /images/uploads/board-panel-at-academy.jpg
+image_alt_text: "Access Board Members and staff sit at a large conference table.
+  Behind them is a screen with the following caption: Tari, good morning,
+  everyone, thank you to the Academy for letting us be part of this. Thank you,
+  Meredith, for welcoming us here. We're from the U.S. Access Board."
 featured: true
 ---
 Each year, the U.S. Access Board visits a city outside of Washington, D.C. to learn about the state of accessibility around the country. During the week of April 15th, the Access Board traveled to Los Angeles, where Members learned about the state of accessibility in the film and television industries, among other topics.
@@ -18,11 +20,11 @@ Each year, the U.S. Access Board visits a city outside of Washington, D.C. to le
 The Board spent an entire day in meetings with representatives of the entertainment industry to understand the accessibility challenges faced by working professionals with disabilities in the industry, as well as the progress that is being made to make productions more accessible. The Board’s meetings were hosted at the Academy of Motion Picture Arts and Sciences, which has been embarking on its own accessibility efforts.
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/roundtable-with-creatives.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/roundtable-with-creatives.jpg" alt="Access Board Members and staff sit at a large conference table with creatives. To the right is a large set of windows." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/board-panel-at-academy.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/board-panel-at-academy.jpg" alt="Access Board Members and staff sit at a large conference table. Behind them is a screen with the following caption: Tari, good morning, everyone, thank you to the Academy for letting us be part of this. Thank you, Meredith, for welcoming us here. We're from the U.S. Access Board." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>The Access Board meets with creatives to discuss the state of accessibility in the entertainment industry.</em>
+    <em>The Access Board meets with creatives, casting directors, and studio, network, and streamer representatives to discuss the state of accessibility in the entertainment industry.</em>
   </figcaption>
 </figure>
 
