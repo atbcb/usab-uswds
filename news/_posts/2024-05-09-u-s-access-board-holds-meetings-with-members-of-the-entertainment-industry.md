@@ -28,7 +28,7 @@ The Board spent an entire day in meetings with representatives of the entertainm
   </figcaption>
 </figure>
 
-In roundtables co-facilitated by filmmaker **Jim LeBrecht** (*Crip Camp*) and producer **Tari Hartman Squire**, the Board learned from creatives (actors, writers, directors, and musicians) with disabilities, in addition to casting directors from the Casting Society of America (CSA), CBS Entertainment, Disney/ABC, Lucasfilm Animation, and NBCUniversal, an agent from Arise Talent, and a manager from Whaler/C Talent. The Board learned about authentic casting and writers with disabilities telling authentic stories, along with accessibility issues with trailers, sets, and locations, wardrobe and make-up areas, and employment-related websites. However, the Board also learned about potential solutions: Accessibility Coordinators, Directors of Artistic Sign Language (DASLs), a budget line item for accessibility accommodations, a Central Accommodations Fund, and increased and ongoing educational resources in the industry about working with professionals with disabilities.
+In roundtables co-facilitated by filmmaker Jim LeBrecht (*Crip Camp*) and producer Tari Hartman Squire, the Board learned from creatives (actors, writers, directors, and musicians) with disabilities, in addition to casting directors from the Casting Society of America (CSA), CBS Entertainment, Disney/ABC, Lucasfilm Animation, and NBCUniversal, an agent from Arise Talent, and a manager from Whaler/C Talent. The Board learned about authentic casting and writers with disabilities telling authentic stories, along with accessibility issues with trailers, sets, and locations, wardrobe and make-up areas, and employment-related websites. However, the Board also learned about potential solutions: Accessibility Coordinators, Directors of Artistic Sign Language (DASLs), a budget line item for accessibility accommodations, a Central Accommodations Fund, and increased and ongoing educational resources in the industry about working with professionals with disabilities.
 
 The Board also learned from studio, network, and streamer representatives regarding efforts to improve the accessibility of productions and representation of individuals with disabilities, the building of strategic alliances with disability-led organizations, and the use of AI (artificial intelligence) in audio descriptions. The speakers included representatives from Amazon, American Masters, AT&T, NBCUniversal, and Prime Video.
 
@@ -52,14 +52,14 @@ While in Los Angeles, the Access Board visited Nickelodeon and Netflix. At Nicke
   </figcaption>
 </figure>
 
-Under its statutory authority to promote accessibility throughout all segments of society, the Board seeks to encourage increased accessibility in the film and television industries, acknowledging the role that these media play in shattering disability myths and removing societal barriers for people with disabilities. Access Board Executive Director **Sachin Pavithran** summed it up at the opening ceremony of the 2024 SignLight International Film Festival (SIFF), a five-day event dedicated to exhibiting Deaf creativity, authenticity, and accessibility in filmmaking. In his remarks, Pavithran highlighted the importance of disability stories in film as a key to creating attitudinal shifts about people with disabilities that will contribute to fuller inclusion in society.
+Under its statutory authority to promote accessibility throughout all segments of society, the Board seeks to encourage increased accessibility in the film and television industries, acknowledging the role that these media play in shattering disability myths and removing societal barriers for people with disabilities. Access Board Executive Director Sachin Pavithran summed it up at the opening ceremony of the 2024 SignLight International Film Festival (SIFF), a five-day event dedicated to exhibiting Deaf creativity, authenticity, and accessibility in filmmaking. In his remarks, Pavithran highlighted the importance of disability stories in film as a key to creating attitudinal shifts about people with disabilities that will contribute to fuller inclusion in society.
 
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/members-staff-at-netflix.jpg">
     <img src="{{ site.baseurl }}/images/uploads/members-staff-at-netflix.jpg" alt="A large group of Access Board Members and staff, and Netflix staff members pose in the lobby of Netflix's Los Angeles office. Behind them is a wall of screens with variations of the Netflix logo appearing throughout." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Access Board Members and staff, and Netflix staff members pose in the lobby of Netflix's Los Angeles office.</em>
+    <em>Access Board Members and staff, and Netflix staff pose in the lobby of Netflix's Los Angeles office.</em>
   </figcaption>
 </figure>
 
