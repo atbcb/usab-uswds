@@ -14,14 +14,14 @@ These ICT Accessibility Standards include requirements that ensure compatibility
 
 On January 18, 2017, the Access Board published a [final rule]({{ site.baseurl }}/ict/) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.
 
-Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp;\
-The statute also charges the Access Board with providing Technical Assistance on Section 508, including its implications beyond the Federal government.&nbsp;
-The Access Board provides TA through [email](mailto:508@access-board.gov), [webinars]({{ site.baseurl }}/webinars/), and [trainings]({{ site.baseurl }}/training/).&nbps;
+Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp;
+This statute also charges the Access Board with providing Technical Assistance on Section 508, including its implications beyond the Federal government.&nbsp;
+The Access Board provides TA through [email](mailto:508@access-board.gov), [webinars]({{ site.baseurl }}/webinars/), and [trainings]({{ site.baseurl }}/training/).&nbsp;
 The Access Board works in close collaboration with General Services Administration (GSA) and its program which provides additional resources and materials at [Section508.gov](https://www.section508.gov).
 
-### [Section 508 Standards]({{ site.baseurl }}/ict/#508-chapter-1-application-and-administration)
+### Section 508 Standards
 
-The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers. These standards are part of the Federal Acquisition Regulation (FAR) and require access for both members of the public and federal employees to such technologies when developed, procured, maintained, or used by federal agencies.&nbsp; The Access Board provides technical guidance and training on the Section 508 Standards.
+The [Section 508 Standards]({{ site.baseurl }}/ict/#508-chapter-1-application-and-administration) apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers. These standards are part of the Federal Acquisition Regulation (FAR) and require access for both members of the public and federal employees to such technologies when developed, procured, maintained, or used by federal agencies.&nbsp; The Access Board provides technical guidance and training on the Section 508 Standards.
 
 The Original 508 Standards (December 21, 2000) can be found at [36 CFR Appendix D to Part 1194](https://www.govinfo.gov/content/pkg/CFR-2019-title36-vol3/xml/CFR-2019-title36-vol3-part1194-appD.xml). They are applicable to conforming information and communication technology that has not been altered after January 18, 2018.
 
@@ -29,6 +29,8 @@ The Original 508 Standards (December 21, 2000) can be found at [36 CFR Appendix 
 
 The Section 255 Guidelines address access to telecommunications products and services and apply to manufacturers of telecommunication equipment. The Board issued accessibility guidelines under Section 255 to cover wired and wireless telecommunication devices, other products that have a telecommunication service capability, and equipment that carriers use to provide services. 
 
-The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf). 
+The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations at [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf) <img src="{{site.baseurl}}/images/pdf.gif" alt="PDF icon" />.
 
-<img src="{{site.baseurl}}/images/pdf.gif" alt="PDF icon" />
+---
+
+Reviewed/Updated:&nbsp; 10 May 2024
