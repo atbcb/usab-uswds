@@ -11,7 +11,7 @@ image: /images/uploads/keyboard-isa-sm.png
 image_alt_text: Close-up of a white computer keyboard with a focus on the H, J,
   and K keys. The J key is blue instead of white, and instead of the letter J,
   it has the international symbol of accessibility on it.
-featured: true
+featured: false
 ---
 The [U.S. Access Board’s YouTube channel](https://www.youtube.com/@u.s.accessboard7394) is a helpful resource for watching Board meetings, shorts, training videos, and animations on accessibility guidelines and standards. The Board recently published three new videos on its YouTube channel to help explain the work of the agency and the resources that it offers.
 
