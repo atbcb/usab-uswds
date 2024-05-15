@@ -19,6 +19,15 @@ featured: true
 ---
 Artificial Intelligence (AI) can increase accessibility, but it can also create barriers for people with disabilities. To address equity and accessibility, the Access Board was tasked with several actions in the [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)*.* The U.S. Access Board signed a Memorandum of Understanding (MOU) today, Wednesday, May 15, 2024, with the American Association of People with Disabilities (AAPD) and the Center for Democracy & Technology (CDT) to ensure that the disability community is engaged and supported through education and resources related to AI. The signing took place at the Board’s office in Washington, D.C.
 
+<figure class="img-left">
+  <a href="{{ site.baseurl }}/images/uploads/mou-event-group.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/sachin-and-katy-proclamation.jpg" alt="Around two dozen Access Board Members and staff, and staff from AAPD and CDT stand behind a table. Behind them is a banner with a repeating pattern of the Access Board logo and the flag of the United States." class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Access Board Members and staff, and representatives from AAPD and CDT celebrate the signing of the MOU.</em>
+  </figcaption>
+</figure>
+
 Presidentially appointed Access Board Members and Board staff were present at the signing, along with Sachin Pavithran, Executive Director of the U.S. Access Board, White House Assistant Director for Accessibility, Judy Brewer, Maria Town, President and CEO of the American Association of People with Disabilities and Alexandra Reeve Givens, President & CEO of the Center for Democracy and Technology.
 
 Pavithran welcomed attendees, sharing that “Our goal is to communicate with the disability community to obtain input on equity and access to artificial intelligence (AI), and to connect with technology entities to integrate disability awareness and accessibility needs within mainstream technology conversations, policies, and practices”. He added the significance of this signing as it is “launching the Access Board’s first Memorandum of Understanding with two leading organizations in disability policy. We are now leading the path forward to responsible and accessible AI”.
