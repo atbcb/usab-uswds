@@ -21,7 +21,7 @@ Artificial Intelligence (AI) can increase accessibility, but it can also create 
 
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/mou-event-group.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/sachin-and-katy-proclamation.jpg" alt="Around two dozen Access Board Members and staff, and staff from AAPD and CDT stand behind a table. Behind them is a banner with a repeating pattern of the Access Board logo and the flag of the United States." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/mou-event-group.jpg" alt="Around two dozen Access Board Members and staff, and staff from AAPD and CDT stand behind a table. Behind them is a banner with a repeating pattern of the Access Board logo and the flag of the United States." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Access Board Members and staff, and representatives from AAPD and CDT celebrate the signing of the MOU.</em>
