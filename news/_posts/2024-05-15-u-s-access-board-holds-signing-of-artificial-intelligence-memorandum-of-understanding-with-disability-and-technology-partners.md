@@ -8,8 +8,8 @@ excerpt: Artificial Intelligence (AI) can increase accessibility, but it can
   accessibility, the Access Board was tasked with several actions in the
   Executive Order on the Safe, Secure, and Trustworthy Development and Use of
   Artificial Intelligence. The U.S. Access Board signed a Memorandum of
-  Understanding (MOU) today . . .
-image: /images/uploads/signing-of-mou.jpg
+  Understanding (MOU) . . .
+image: /images/uploads/signing-of-mou-with-border.jpg
 image_alt_text: Access Board Executive Director Sachin Pavithran, President and
   CEO of AAPD Maria Town, and President and CEO of CDT Alexandra Reeve Givens
   sign the MOU. They sit at a table with a blue tablecloth that has the Access
