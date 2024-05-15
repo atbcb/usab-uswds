@@ -10,7 +10,7 @@ excerpt: The U.S. Access Board seeks a Financial Program Manager to serve in its
 image: /images/uploads/ab-seal.png
 image_alt_text: U.S. Access Board logo. A blue star with a folded red top point.
   The words, United States Access Board, wrap around the star.
-featured: true
+featured: false
 ---
 The U.S. Access Board seeks a Financial Program Manager to serve in its Office of Administration. This Financial Program Manager will develop, coordinate, and maintain an integrated system of financial services to include accounting, budgeting, management-financial reporting, auditing, financial management and analysis, procurement, and exercise effective control over agency financial resources. More information about the position is in the [vacancy announcement](https://www.usajobs.gov/job/787725800).
 
