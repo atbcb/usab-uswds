@@ -21,7 +21,7 @@ In today’s technology driven world, accessibility is a vital component to ensu
 
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/gaad-group.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/gaad-group.jpg" alt="Six people stand in a row, including Bernice Martin Lee, Tony Coelho, and Howard Rosemblum, along with Access Board staff members Sachin Pavithran, Kathy Eng, and Amy Nieves." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/gaad-group.jpg" alt="Six people stand in a row, including Bernice Martin Lee, Tony Coelho, and Howard Rosenblum, along with Access Board staff members Sachin Pavithran, Kathy Eng, and Amy Nieves." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Access Board staff celebrate GAAD with leaders in accessibility, including former U.S. Representative Tony Coelho, Bernice Martin Lee, and Howard Rosenblum.</em>
