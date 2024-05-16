@@ -15,7 +15,7 @@ image_alt_text: Jennifer Mathis, DOJ; Sam Bagenstos, HHS; Sachin Pavithran; and
   House logo, and to the left is the U.S. flag.
 featured: true
 ---
-Today, May 16, 2024, the U.S. Access Board celebrates the 13th annual [Global Accessibility Awareness Day (GAAD)](https://accessibility.day/), a day dedicated to conversations and learning about digital access and inclusion for people with disabilities. Sachin Pavithran, Executive Director of the Board, [joined fellow disability and government leaders](https://www.youtube.com/watch?v=YQu_lryMJsE) at the White House today to celebrate GAAD and urged attendees to focus on the attitudinal changes needed to have accessibility fully realized across the globe every day.
+Today, May 16, 2024, the U.S. Access Board celebrates the 13th annual [Global Accessibility Awareness Day](https://accessibility.day/) (GAAD), a day dedicated to conversations and learning about digital access and inclusion for people with disabilities. Sachin Pavithran, Executive Director of the Board, [joined fellow disability and government leaders](https://www.youtube.com/watch?v=YQu_lryMJsE) at the White House today to celebrate GAAD and urged attendees to focus on the attitudinal changes needed to have accessibility fully realized across the globe every day.
 
 In today’s technology driven world, accessibility is a vital component to ensure that the more than one billion people worldwide with disabilities can independently navigate digital applications and content.
 
