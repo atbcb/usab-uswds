@@ -17,6 +17,8 @@ featured: true
 ---
 Today, May 16, 2024, the U.S. Access Board celebrates the 13th annual [Global Accessibility Awareness Day (GAAD)](https://accessibility.day/), a day dedicated to conversations and learning about digital access and inclusion for people with disabilities. Sachin Pavithran, Executive Director of the Board, [joined fellow disability and government leaders](https://www.youtube.com/watch?v=YQu_lryMJsE) at the White House today to celebrate GAAD and urged attendees to focus on the attitudinal changes needed to have accessibility fully realized across the globe every day.
 
+In today’s technology driven world, accessibility is a vital component to ensure that the more than one billion people worldwide with disabilities can independently navigate digital applications and content.
+
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/gaad-group.jpg">
     <img src="{{ site.baseurl }}/images/uploads/gaad-group.jpg" alt="Six people stand in a row, including Bernice Martin Lee, Tony Coelho, and Howard Rosemblum, along with Access Board staff members Sachin Pavithran, Kathy Eng, and Amy Nieves." class="center">
@@ -25,8 +27,6 @@ Today, May 16, 2024, the U.S. Access Board celebrates the 13th annual [Global Ac
     <em>Access Board staff celebrate GAAD with leaders in accessibility, including former U.S. Representative Tony Coelho, Bernice Martin Lee, and Howard Rosenblum.</em>
   </figcaption>
 </figure>
-
-In today’s technology driven world, accessibility is a vital component to ensure that the more than one billion people worldwide with disabilities can independently navigate digital applications and content.
 
 “We can put laws and regulations in place here in Washington, but full inclusion in society for people with disabilities is going to come from an attitudinal shift," remarked Access Board Executive Director Sachin Pavithran. "People don’t connect with laws and policies--they connect with other people. That is why coming together is so critical, especially on Global Accessibility Awareness Day.”
 
