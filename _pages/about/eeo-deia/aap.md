@@ -3,7 +3,7 @@ title: Affirmative Action Plan for the Recruitment, Hiring, Advancement, and Ret
 layout: page
 toc: sidenav.html
 banner-title: "About the U.S. Access Board"
-permalink: /about/eeo-deia/aap.html
+permalink: /about/aap.html
 ---
 # {{ page.title }}
 
@@ -11,23 +11,28 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 
 ## Section I: Efforts to Reach Regulatory Goals
 
-EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government
+_EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government_
 
-1.  Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
-    
-    1.  Cluster GS-1 to GS-10 (PWD) Answer No
-        
-    2.  Cluster GS-11 to SES (PWD) Answer No
-        
-        \*For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
-        
-2.  Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
-    
-    1.  Cluster GS-1 to GS-10 (PWTD) Answer Yes
-        
+### 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+
+\a. Cluster GS-1 to GS-10 (PWD)
+
+> Answer:  No
+
+\b.  Cluster GS-11 to SES (PWD)
+
+> Answer:  No
+
+\* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
+
+### 2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+
+\a.  Cluster GS-1 to GS-10 (PWTD)
+> Answer:  Yes
+
     2.  Cluster GS-11 to SES (PWTD) Answer No
-        
-        Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.
+
+Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.
         
 
 Grade Level Cluster(GS or Alternate Pay Planb)
