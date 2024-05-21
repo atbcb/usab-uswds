@@ -1,25 +1,15 @@
 ---
-title: Affirmative Action Plan
+title: Affirmative Action Plan for the Recruitment, Hiring, Advancement, and Retention of Persons with Disabilities
 layout: page
 toc: sidenav.html
 banner-title: "About the U.S. Access Board"
 permalink: /about/eeo-deia/aap.html
 ---
-# {{ page.title }} <br /> for the Recruitment, Hiring, Advancement, and Retention of Persons with Disabilities
-
- Affirmative Action Plan for the Recruitment, Hiring, Advancement, and Retention of Persons with Disabilities
-
-US Access Board FY 2023
-
-Affirmative Action Plan
-=======================
-
-for the Recruitment, Hiring, Advancement, and Retention of Persons with Disabilities
-====================================================================================
+# {{ page.title }}
 
 To capture agencies’ affirmative action plan for persons with disabilities (PWD) and persons with targeted disabilities (PWTD), EEOC regulations (29 C.F.R. § 1614.203(e)) and MD-715 require agencies to describe how their affirmative action plan will improve the recruitment, hiring, advancement, and retention of applicants and employees with disabilities.
 
-Section I: Efforts to Reach Regulatory Goals
+## Section I: Efforts to Reach Regulatory Goals
 
 EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government
 
@@ -95,12 +85,11 @@ Grades GS-1 to GS-10
 
 This information was shared and discussed during leadership meetings.
 
-Section II: Model Disability Program
+## Section II: Model Disability Program
 
 Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, training and resources to recruit and hire persons with disabilities and persons with targeted disabilities, administer the reasonable accommodation program and special emphasis program, and oversee any other disability hiring and advancement program the agency has in place.
 
-1.  PLAN TO PROVIDE SUFFICIENT & COMPETENT STAFFING FOR THE DISABILITY PROGRAM
-    --------------------------------------------------------------------------
+### A. Plan to provide sufficient & competent staffing for the disability program
     
     1.  Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
         
@@ -194,9 +183,7 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
     The EEO Director will research and schedule disability training for the Access Board team.
     
 
-1.  PLAN TO ENSURE SUFFICIENT FUNDING FOR THE DISABILITY PROGRAM
-    ------------------------------------------------------------
-    
+### B Plan to ensure sufficient funding for the disability program
 
 Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period? If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
 
@@ -204,7 +191,7 @@ Answer Yes
 
 The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs.
 
-Section III: Program Deficiencies In The Disability Program
+## Section III: Program Deficiencies In The Disability Program
 
 Brief Description of Program Deficiency
 
@@ -234,56 +221,43 @@ Accomplishments
 
 Fiscal Year Accomplishment
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Section IV: Plan to Recruit and Hire Individuals with Disabilities
+## Section IV: Plan to Recruit and Hire Individuals with Disabilities
 
 Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a plan to increase the recruitment and hiring of individuals with disabilities. The questions below are designed to identify outcomes of the agency’s recruitment program plan for PWD and PWTD
 
-1.  PLAN TO IDENTIFY JOB APPLICATIONS WITH DISABILITIES
-    ---------------------------------------------------
-    
+### A. Plan to Identify Job Applications with Disabilities
+
     1.  Describe the programs and resources the agency uses to identify job applicants with disabilities, including individuals with targeted disabilities.
         
         The Access Board, in conjunction with the HR service provider maintain a list of Schedule A qualified applicants. In addition the Access Board uses the talent portal of USA Staffing to identify applicants.
         
 
-1.  Pursuant to 29 C.F.R. §1614.203(a)(3), describe the agency’s use of hiring authorities that take disability into account (e.g., Schedule A) to recruit PWD and PWTD for positions in the permanent workforce
+2.  Pursuant to 29 C.F.R. §1614.203(a)(3), describe the agency’s use of hiring authorities that take disability into account (e.g., Schedule A) to recruit PWD and PWTD for positions in the permanent workforce
     
     The Access Board utilized Schedule A hiring authority to recruit recruit PWD and PWTD for positions in the permanent workforce.
     
 
-1.  When individuals apply for a position under a hiring authority that takes disability into account (e.g., Schedule A), explain how the agency (1) determines if the individual is eligible for appointment under such authority; and, (2) forwards the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed.
+3.  When individuals apply for a position under a hiring authority that takes disability into account (e.g., Schedule A), explain how the agency (1) determines if the individual is eligible for appointment under such authority; and, (2) forwards the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed.
     
     The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline.
     
 
-1.  Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
+4.  Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
     
     Answer Yes
-    
-    This is training conducted annually during the monthly leadership meeting.
+ 
+> This is training conducted annually during the monthly leadership meeting.
     
 
-1.  PLAN TO ESTABLISH CONTACTS WITH DISABILITY EMPLOYMENT ORGANIZATIONS
-    -------------------------------------------------------------------
-    
+### B. Plan to Establish Contacts with Disability Employment Organizations
+
     Describe the agency’s efforts to establish and maintain contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.
     
     The agency plans to identify and establish contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.
     
 
-1.  PROGRESSION TOWARDS GOALS (RECRUITMENT AND HIRING)
-    --------------------------------------------------
-    
+### C. Progression Towards Goals (Recruitment and Hiring)
+
     1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce? If “yes”, please describe the triggers below.
         
         1.  New Hires for Permanent Workforce (PWD) Answer No
@@ -406,20 +380,18 @@ Numerical Goal
 
 N/A
 
-Section V: Plan to Ensure Advancement Opportunities for Employees with Disabilities
+## Section V: Plan to Ensure Advancement Opportunities for Employees with Disabilities
 
 Pursuant to 29 C.F.R. §1614.203(d)(1)(iii), agencies are required to provide sufficient advancement opportunities for employees with disabilities. Such activities might include specialized training and mentoring programs, career development opportunities, awards programs, promotions, and similar programs that address advancement. In this section, agencies should identify, and provide data on programs designed to ensure advancement opportunities for employees with disabilities.
 
-1.  ADVANCEMENT PROGRAM PLAN
-    ------------------------
-    
+### A. Advancement Program Plan
+   
     Describe the agency’s plan to ensure PWD, including PWTD, have sufficient opportunities for advancement.
     
     All opportunities at the Access Board are open to Schedule A applicants. In addition, the Access Board accepts resumes from any Schedule A applicants and maintains a roster of qualified employees.
     
 
-1.  CAREER DEVELOPMENT OPPORTUNITES
-    -------------------------------
+### B. Career Development Opportunites
     
     1.  Please describe the career development opportunities that the agency provides to its employees.
         
@@ -563,9 +535,9 @@ Pursuant to 29 C.F.R. §1614.203(d)(1)(iii), agencies are required to provide su
         N/A
         
 
-1.  AWARDS
-    ------
-    
+### C. Awards
+
+        
     1.  Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for any level of the time-off awards, bonuses, or other incentives? If “yes”, please describe the trigger(s) in the text box.
         
         1.  Awards, Bonuses, & Incentives (PWD) Answer No
@@ -1044,9 +1016,8 @@ Without Targeted Disability %
         
         N/A
         
+### D. Promotions
 
-1.  PROMOTIONS
-    ----------
     
     1.  Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
         
@@ -1302,13 +1273,12 @@ Without Targeted Disability %
 
 N/A
 
-Section VI: Plan to Improve Retention of Persons with Disabilities
+## Section VI: Plan to Improve Retention of Persons with Disabilities
 
 To be model employer for persons with disabilities, agencies must have policies and programs in place to retain employees with disabilities. In this section, agencies should: (1) analyze workforce separation data to identify barriers retaining employees with disabilities; (2) describe efforts to ensure accessibility of technology and facilities; and (3) provide information on the reasonable accommodation program and workplace assistance services.
 
-1.  VOLUNTARY AND INVOLUNTARY SEPARATIONS
-    -------------------------------------
-    
+### A. Voluntary and Involuntary Separations
+
     1.  In this reporting period, did the agency convert all eligible Schedule A employees with a disability into the competitive service after two years of satisfactory service (5 C.F.R. § 213.3102(u)(6)(i))? If “no”, please explain why the agency did not convert all eligible Schedule A employees.
         
         Answer N/A
@@ -1463,21 +1433,20 @@ Permanent Workforce: Total Separations
     N/A
     
 
-1.  ACCESSIBILITY OF TECHNOLOGY AND FACILITIES
-    ------------------------------------------
-    
+### B. Accessibility of Technology and Facilities
+
     Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform applicants and employees of their rights under Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. § 794(b), concerning the accessibility of agency technology, and the Architectural Barriers Act of 1968 (42 U.S.C. § 4151-4157), concerning the accessibility of agency facilities. In addition, agencies are required to inform individuals where to file complaints if other agencies are responsible for a violation.
     
     1.  Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
         
-        [https://www.access-board.gov/about/policy/accessibility.html](https://www.access-board.gov/about/policy/accessibility.html)
+        <https://www.access-board.gov/about/policy/accessibility.html>
         
 
 1.  Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under the
     
     Architectural Barriers Act, including a description of how to file a complaint.
     
-    [https://www.access-board.gov/enforcement/](https://www.access-board.gov/enforcement/)
+    <https://www.access-board.gov/enforcement/>
     
 
 1.  Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
@@ -1485,9 +1454,8 @@ Permanent Workforce: Total Separations
     The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act. Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency. To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA.
     
 
-1.  REASONABLE ACCOMMODATION PROGRAM
-    --------------------------------
-    
+### C. Reasonable Accommodation Program
+
     Pursuant to 29 C.F.R. § 1614.203(d)(3), agencies must adopt, post on their public website, and make available to all job applicants and employees, reasonable accommodation procedures.
     
     1.  Please provide the average time frame for processing initial requests for reasonable accommodations during the reporting period. (Please do not include previously approved requests with repetitive accommodations, such as interpreting services.)
@@ -1499,10 +1467,7 @@ Permanent Workforce: Total Separations
     
     The Access Board ensure all reasonable accommodations requests and approved requests are processed timely. Managers and supervisor are provide training during the monthly leadership meetings.
     
-
-1.  PERSONAL ASSISTANCE SERVICES ALLOWING EMPLOYEES TO PARTICIPATE IN THE WORKPLACE
-    -------------------------------------------------------------------------------
-    
+### D. Personal Assistance Services Allowing Employees to Participate in the Workplace    
 
 Pursuant to 29 CFR §1614.203(d)(5), federal agencies, as an aspect of affirmative action, are required to provide personal assistance services (PAS) to employees who need them because of a targeted disability, unless doing so would impose an undue hardship on the agency.
 
@@ -1510,105 +1475,83 @@ Describe the effectiveness of the policies, procedures, or practices to implemen
 
 The Access Board processing requests for PAS, timely providing approved services, conducting training for managers and supervisors, and monitoring PAS requests for trends.
 
-Section VII: EEO Complaint and Findings Data
+## Section VII: EEO Complaint and Findings Data
 
-1.  EEO COMPLAINT DATA INVOLVING HARASSMENT
-    ---------------------------------------
-    
-    1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging harassment, as compared to the governmentwide average?
-        
-        Answer No
-        
-    2.  During the last fiscal year, did any complaints alleging harassment based on disability status result in a finding of discrimination or a settlement agreement?
-        
-        Answer No
-        
-    3.  If the agency had one or more findings of discrimination alleging harassment based on disability status during the last fiscal year, please describe the corrective measures taken by the agency.
-        
-        N/A
-        
+### EEO Complaint Data Involving Harassment
 
-1.  EEO COMPLAINT DATA INVOLVING REASONABLE ACCOMMODATION
-    -----------------------------------------------------
+1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging harassment, as compared to the governmentwide average?
+> Answer: No
+
+2.  During the last fiscal year, did any complaints alleging harassment based on disability status result in a finding of discrimination or a settlement agreement?
+> Answer No
+  
+3.  If the agency had one or more findings of discrimination alleging harassment based on disability status during the last fiscal year, please describe the corrective measures taken by the agency.
+> N/A
+
+### B. EEO Complaint Data Involving Reasonable Accommodation    
+
+1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging failure to provide a reasonable accommodation, as compared to the government-wide average?
+> Answer: No
+
+2.  During the last fiscal year, did any complaints alleging failure to provide reasonable accommodation result in a finding of discrimination or a settlement agreement?   
+> Answer: No
+ 
+3.  If the agency had one or more findings of discrimination involving the failure to provide a reasonable accommodation during the last fiscal year, please describe the corrective measures taken by the agency.
+> N/A
+
+## Section VIII: Identification and Removal of Barriers
+
+_Element D of MD-715 requires agencies to conduct a barrier analysis when a trigger suggests that a policy, procedure, or practice may be impeding the employment opportunities of a protected EEO group._
+
+### 1.  Has the agency identified any barriers (policies, procedures, and/or practices) that affect employment opportunities for PWD and/or PWTD?
+
+Answer: No
+
+### 2.  Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
+
+Answer Yes
+
+### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
+
+**Source of the Trigger:**  Workforce Data (if so identify the table)
+
+**Specific Workforce Data Table:**  Workforce Data Table -- B1
+
+#### Statement of Condition that was a Trigger for a Potential Barrier:
+
+Provide a brief narrative describing the condition at issue.
+
+How was the condition recognized as a potential barrier?
+
+> A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD gaok at the GS 1-10 grades.  The Access Board only has 2 positions at the GS 1-10 grades.  The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
     
-    1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging failure to provide a reasonable
-        
-        accommodation, as compared to the government-wide average?
-        
-        Answer No
-        
-    2.  During the last fiscal year, did any complaints alleging failure to provide reasonable accommodation result in a finding of discrimination or a settlement agreement?
-        
-        Answer No
-        
-    3.  If the agency had one or more findings of discrimination involving the failure to provide a reasonable accommodation during the last fiscal year, please describe the corrective measures taken by the agency.
-        
+#### Statement of Barrier Groups:    
+
+##### Barrier Group:
+
+People with Targeted Disabilities
+ 
+##### Barrier Analysis Process Completed?:
+
+Yes
+
+##### Barrier(s) Identified?:
+
+No
+
+#### Statement of Identified Barrier:
+
+Provide a succinct statement of the agency policy, procedure or practice that has been determined to be the barrier of the undesired condition.
+
+#### Barrier Name
+
+PWTD GS 1-10
+
+#### Description of Policy, Procedure, or Practice
 
 N/A
 
-Section VIII: Identification and Removal of Barriers
-
-Element D of MD-715 requires agencies to conduct a barrier analysis when a trigger suggests that a policy, procedure, or practice may be impeding the employment opportunities of a protected EEO group.
-
-1.  Has the agency identified any barriers (policies, procedures, and/or practices) that affect employment opportunities for PWD and/or PWTD?
-    
-    Answer No
-    
-2.  Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
-    
-    Answer Yes
-    
-3.  Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
-    
-    Source of the Trigger:
-    
-    Workforce Data (if so identify the table)
-    
-    Specific Workforce Data Table:
-    
-    Workforce Data Table - B1
-    
-    STATEMENT OF CONDITION THAT WAS A TRIGGER FOR A POTENTIAL BARRIER:
-    
-    Provide a brief narrative describing the condition at issue.
-    
-    How was the condition recognized as a potential barrier?
-    
-    A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD gaok at the GS 1-10 grades. The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
-    
-    STATEMENT OF BARRIER GROUPS:
-    
-    Barrier Group
-    
-    People with Targeted Disabilities
-    
-    Barrier Analysis Process Completed?:
-    
-    Y
-    
-    Barrier(s) Identified?:
-    
-    N
-    
-    STATEMENT OF IDENTIFIED BARRIER:
-    
-    Provide a succinct statement of the agency policy, procedure
-    
-    or practice that has been determined to be the barrier of the
-    
-    undesired condition.
-    
-    Barrier Name
-    
-    Description of Policy, Procedure, or Practice
-    
-    PWTD GS 1-10
-    
-    N/A
-    
-     
-    
-    Objective(s) and Dates for EEO Plan
+#### Objective(s) and Dates for EEO Plan
     
     Date Initiated
     
@@ -1627,16 +1570,12 @@ Element D of MD-715 requires agencies to conduct a barrier analysis when a trigg
     01/15/2026
     
     Yes
-    
-     
-    
-     
-    
+      
     Increase PWTD in grade cluster GS 1-10.
     
-    The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
+   The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
     
-    Responsible Official(s)
+#### Responsible Official(s)
     
     Title
     
@@ -1650,7 +1589,7 @@ Element D of MD-715 requires agencies to conduct a barrier analysis when a trigg
     
     Yes
     
-    Planned Activities Toward Completion of Objective
+#### Planned Activities Toward Completion of Objective
     
     Target Date
     
@@ -1678,17 +1617,14 @@ Element D of MD-715 requires agencies to conduct a barrier analysis when a trigg
     
     Accomplishment
     
-4.  Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
-    
-    Multiple retirements, and changes in agency leadership.
-    
+### 4.  Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
 
-1.  For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
-    
-    Planned activities are unknow at this time.
-    
+Multiple retirements, and changes in agency leadership.
 
-1.  If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
-    
+### 5.  For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
+
+Planned activities are unknow at this time.
+
+### 6.  If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
 
 The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
