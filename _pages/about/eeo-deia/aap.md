@@ -32,7 +32,7 @@ Answer: No
 
 Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.
 
-<table class="data">
+<table class="data" id="t12">
   <thead>
     <tr>
       <th rowspan="2" scope="col">Grade Level Cluster<br>
@@ -89,96 +89,78 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
 > Answer: Yes
 > > N/A
 
-2. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
+1. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
+
+<table class="data" id="t22">
+  <thead>
+    <tr>
+      <th rowspan="2" scope="col">Disability Program Task</th>
+      <th colspan="3" scope="col"># of FTE Staff By Employment Status</th>
+      <th rowspan="2" scope="col">Responsible Official (Name, Title, Office Email)</th>
+    </tr>
+    <tr>
+      <th scope="col">Full Time</th>
+      <th scope="col">Part Time</th>
+      <th scope="col">Collateral Duty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Processing applications from PWD and PWTD</th>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">thomas@access-board.gov</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Answering questions from the public about hiring authorities that take disability into account</th>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">thomas@access-board.gov</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Processing reasonable accommodation requests from applicants and employees</th>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">thomas@access-board.gov</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Section 508 Compliance</th>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>Alison Levy, Director OTIS <a href="mailto:levy@access-baord.gov">levy@access-baord.gov</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Architectural Barriers Act Compliance</th>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>Christopher Kuczynski, OGC <a href="mailto:kuczynski@access-board.gov"></a>kuczynski@access-board.gov</td>
+    </tr>
+    <tr>
+      <th scope="row">Special Emphasis Program for PWD and PWTD</th>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>Drucilla Gordon, Chief of Staff / EEO Dir <a href="mailto:gordon@access-board.gov">gordon@access-board.gov</a></td>
+    </tr>
+  </tbody>
+</table>
+
+1.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
     
-    Disability Program Task
-    
-    \# of FTE Staff By Employment Status
-    
-    Responsible Official (Name, Title, Office Email)
-    
-    Full Time
-    
-    Part Time
-    
-    Collateral Duty
-    
-    Processing applications from PWD and PWTD
-    
-    2
-    
-    0
-    
-    0
-    
-    India Thomas, Director of Administration Thomas@access- board.gov
-    
-    Answering questions from the public about hiring authorities that take disability into account
-    
-    2
-    
-    0
-    
-    0
-    
-    India Thomas, Director of Administration Thomas@access- board.gov
-    
-    Processing reasonable accommodation requests from applicants and employees
-    
-    2
-    
-    0
-    
-    0
-    
-    India Thomas, Director of Administration Thomas@access- board.gov
-    
-    Section 508 Compliance
-    
-    2
-    
-    0
-    
-    0
-    
-    Alison Levy, Director OTIS
-    
-    [Lecy@access-baord.gov](mailto:Lecy@access-baord.gov)
-    
-    Architectural Barriers Act Compliance
-    
-    2
-    
-    0
-    
-    0
-    
-    Christopher Kuczynski, OGC
-    
-    Kuczynski@access- board.gov
-    
-    Special Emphasis Program for PWD and PWTD
-    
-    1
-    
-    0
-    
-    0
-    
-    [Drucilla Gordon, Chief of Staff/EEO Dir Gordon@access-board.gov](mailto:Gordon@access-board.gov)
-    
-2.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
-    
-    Answer Yes
-    
-    The EEO Director will research and schedule disability training for the Access Board team.
-    
+ Answer: Yes
+
+The EEO Director will research and schedule disability training for the Access Board team.
 
 ### B Plan to ensure sufficient funding for the disability program
 
-Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period? If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
+Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period?  If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
 
-Answer Yes
+> Answer: Yes
 
 The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs.
 
