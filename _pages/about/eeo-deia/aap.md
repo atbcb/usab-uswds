@@ -15,13 +15,16 @@ _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specif
 
 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
     a. Cluster GS-1 to GS-10 (PWD)
+
     > Answer:  No
+
     a. Cluster GS-11 to SES (PWD)
+
     > Answer:  No
 
 \* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
 
-1. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
     1. Cluster GS-1 to GS-10 (PWTD)
 
 Answer:  Yes
