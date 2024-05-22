@@ -14,94 +14,82 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government_
 
 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+    a. Cluster GS-1 to GS-10 (PWD)
+    > Answer:  No
+    a. Cluster GS-11 to SES (PWD)
+    > Answer:  No
 
-> a. Cluster GS-1 to GS-10 (PWD)
->> Answer:  No
->
-> b. Cluster GS-11 to SES (PWD)
->> Answer:  No
+\* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
 
-> \* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
+1. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+    1. Cluster GS-1 to GS-10 (PWTD)
 
-2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+Answer:  Yes
 
-> a. Cluster GS-1 to GS-10 (PWTD)
->> Answer:  Yes
+    1. Cluster GS-11 to SES (PWTD)
 
-> b. Cluster GS-11 to SES (PWTD)
->> Answer: No
+Answer: No
 
 Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.
 
-Grade Level Cluster(GS or Alternate Pay Planb)
+<table class="data">
+  <thead>
+    <tr>
+      <th rowspan="2" scope="col">Grade Level Cluster<br>
+      (GS or Alternate Pay Plan b)</th>
+      <th scope="col">Total</th>
+      <th colspan="2">Reportable Disability</th>
+      <th colspan="2">Targeted Disability</th>
+    </tr>
+    <tr>
+      <td>#</td>
+      <td>#</td>
+      <td>%</td>
+      <td>#</td>
+      <td>%</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Numerical Goal</th>
+      <td>--</td>
+      <th colspan="2" scope="col">12%</th>
+      <th colspan="2" scope="col">2%</th>
+    </tr>
+    <tr>
+      <th scope="row">Grades GS-11 to SES</th>
+      <td>25</td>
+      <td>12</td>
+      <td>48.00</td>
+      <td>7</td>
+      <td>28.00</td>
+    </tr>
+    <tr>
+      <th scope="row">Grades GS-1 to GS-10</th>
+      <td>2</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0.00</td>
+    </tr>
+  </tbody>
+</table>
 
-Total
+3. Describe how the agency has communicated the numerical goals to the hiring managers and/or recruiters.
 
-Reportable Disability
-
-Targeted Disability
-
-#
-
-#
-
-%
-
-#
-
-%
-
-Numarical Goal
-
-\--
-
-12%
-
-2%
-
-Grades GS-11 to SES
-
-25
-
-12
-
-48.00
-
-7
-
-28.00
-
-Grades GS-1 to GS-10
-
-2
-
-0
-
-0.00
-
-0
-
-0.00
-
-1.  Describe how the agency has communicated the numerical goals to the hiring managers and/or recruiters.
-    
-
-This information was shared and discussed during leadership meetings.
+> This information was shared and discussed during leadership meetings.
 
 ## Section II: Model Disability Program
 
 Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, training and resources to recruit and hire persons with disabilities and persons with targeted disabilities, administer the reasonable accommodation program and special emphasis program, and oversee any other disability hiring and advancement program the agency has in place.
 
 ### A. Plan to provide sufficient & competent staffing for the disability program
-    
-    1.  Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
-        
-        Answer Yes
-        
-        N/A
-        
 
-1.  Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
+1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
+> Answer: Yes
+> > N/A
+
+2. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
     
     Disability Program Task
     
