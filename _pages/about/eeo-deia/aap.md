@@ -14,26 +14,28 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government_
 
 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+
     a. Cluster GS-1 to GS-10 (PWD)
 
     > Answer:  No
 
-    a. Cluster GS-11 to SES (PWD)
+    b. Cluster GS-11 to SES (PWD)
 
     > Answer:  No
 
 \* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
 
 2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
-    1. Cluster GS-1 to GS-10 (PWTD)
 
-Answer:  Yes
+    a. Cluster GS-1 to GS-10 (PWTD)
 
-    1. Cluster GS-11 to SES (PWTD)
+    > Answer:  Yes
 
-Answer: No
+    b. Cluster GS-11 to SES (PWTD)
 
-Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.
+    > Answer: No
+
+**Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.**
 
 <table class="data" id="t12">
   <thead>
@@ -80,7 +82,7 @@ Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.
 
 3. Describe how the agency has communicated the numerical goals to the hiring managers and/or recruiters.
 
-> This information was shared and discussed during leadership meetings.
+**This information was shared and discussed during leadership meetings.**
 
 ## Section II: Model Disability Program
 
@@ -89,10 +91,12 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
 ### A. Plan to provide sufficient & competent staffing for the disability program
 
 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
-> Answer: Yes
-> > N/A
 
-1. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
+> Answer: Yes
+
+**N/A**
+
+2. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
 
 <table class="data" id="t22">
   <thead>
@@ -153,11 +157,11 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
   </tbody>
 </table>
 
-1.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
-    
- Answer: Yes
+3.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
 
-The EEO Director will research and schedule disability training for the Access Board team.
+> Answer: Yes
+
+**The EEO Director will research and schedule disability training for the Access Board team.**
 
 ### B Plan to ensure sufficient funding for the disability program
 
@@ -165,60 +169,69 @@ Has the agency provided sufficient funding and other resources to successfully i
 
 > Answer: Yes
 
-The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs.
+**The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs.**
 
 ## Section III: Program Deficiencies In The Disability Program
 
-Brief Description of Program Deficiency
-
-D.1.c. Does the agency conduct exit interviews or surveys that include questions on how the agency could improve the recruitment, hiring, inclusion, retention and advancement of individuals with disabilities? \[see 29 CFR §1614.203(d)(1) (iii)(C)\]
-
-Objective
-
-Update the Access Board Exit Clearance process, and ensure it's utilized.
-
- 
-
-Target Date
-
-Oct 1, 2024
-
- 
-
-Completion Date
-
- 
-
-Planned Activities
-
-Target Date Completion Date Planned Activity
-
-Accomplishments
-
-Fiscal Year Accomplishment
+<table id="t30" class="data">
+  <tbody>
+    <tr>
+      <td colspan="2">Brief Description of Program Deficiency</td>
+      <td colspan="2">D.1.c. Does the agency conduct exit interviews or surveys that include questions on how the agency could improve the recruitment, hiring, inclusion, retention and advancement of individuals with disabilities? [see 29 CFR §1614.203(d)(1) (iii)(C)]</td>
+    </tr>
+    <tr>
+      <td colspan="2">Objective</td>
+      <td colspan="2">Update the Access Board Exit Clearance process, and ensure it&#39;s utilized.</td>
+    </tr>
+    <tr>
+      <td rowspan="4">&nbsp;</td>
+      <td>Target Date</td>
+      <td>Oct 1, 2024</td>
+      <td rowspan="4">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Completion Date</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Planned Activities</td>
+      <td>Target Date    Completion Date  Planned Activity</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Accomplishments</td>
+      <td>Fiscal Year    Accomplishment</td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Section IV: Plan to Recruit and Hire Individuals with Disabilities
 
-Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a plan to increase the recruitment and hiring of individuals with disabilities. The questions below are designed to identify outcomes of the agency’s recruitment program plan for PWD and PWTD
+Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a plan to increase the recruitment and hiring of individuals with disabilities. The questions below are designed to identify outcomes of the agency’s recruitment program plan for PWD and PWTD.
 
 ### A. Plan to Identify Job Applications with Disabilities
 
-    1.  Describe the programs and resources the agency uses to identify job applicants with disabilities, including individuals with targeted disabilities.
-        
-        The Access Board, in conjunction with the HR service provider maintain a list of Schedule A qualified applicants. In addition the Access Board uses the talent portal of USA Staffing to identify applicants.
-        
+1. Describe the programs and resources the agency uses to identify job applicants with disabilities, including individuals with targeted disabilities.
 
-2.  Pursuant to 29 C.F.R. §1614.203(a)(3), describe the agency’s use of hiring authorities that take disability into account (e.g., Schedule A) to recruit PWD and PWTD for positions in the permanent workforce
-    
-    The Access Board utilized Schedule A hiring authority to recruit recruit PWD and PWTD for positions in the permanent workforce.
-    
+**The Access Board, in conjunction with the HR service provider maintain a list of Schedule A qualified applicants. In addition the Access Board uses the talent portal of USA Staffing to identify applicants.**
 
-3.  When individuals apply for a position under a hiring authority that takes disability into account (e.g., Schedule A), explain how the agency (1) determines if the individual is eligible for appointment under such authority; and, (2) forwards the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed.
+2. Pursuant to 29 C.F.R. §1614.203(a)(3), describe the agency’s use of hiring authorities that take disability into account (e.g., Schedule A) to recruit PWD and PWTD for positions in the permanent workforce.
+
+**The Access Board utilized Schedule A hiring authority to recruit recruit PWD and PWTD for positions in the permanent workforce.**
+
+4. When individuals apply for a position under a hiring authority that takes disability into account (e.g., Schedule A), explain how the agency (1) determines if the individual is eligible for appointment under such authority; and, (2) forwards the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed.
     
     The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline.
     
 
-4.  Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
+5.  Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
     
     Answer Yes
  
@@ -227,10 +240,9 @@ Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a pl
 
 ### B. Plan to Establish Contacts with Disability Employment Organizations
 
-    Describe the agency’s efforts to establish and maintain contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.
-    
-    The agency plans to identify and establish contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.
-    
+Describe the agency’s efforts to establish and maintain contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.
+
+**The agency plans to identify and establish contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.**
 
 ### C. Progression Towards Goals (Recruitment and Hiring)
 
