@@ -42,7 +42,7 @@ WCAG 2.0 Level AA became the web accessibility requirement under Section 508 in 
 
 ### Session Questions
 
-This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/18899/session/110879#questions "external link")** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
+This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your [Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/18899/session/110879#questions "external link") Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
 
 ### Privacy Statement
 
