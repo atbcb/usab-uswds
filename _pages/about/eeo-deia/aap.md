@@ -268,10 +268,12 @@ Temporary Workforce
 
 
 ##### 2.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    1.  New Hires for MCO (PWD) Answer N/A
-        
-    2.  New Hires for MCO (PWTD) Answer N/A
+
+New Hires for MCO (PWD)
+: Answer: N/A
+
+New Hires for MCO (PWTD)
+: Answer: N/A
 
 _N/A_
 
@@ -290,17 +292,19 @@ Numerical Goal
 2%
 
 ##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    1.  Qualified Applicants for MCO (PWD) Answer No
-        
-    2.  Qualified Applicants for MCO (PWTD) Answer No
+
+\a. Qualified Applicants for MCO (PWD)
+Answer: No
+      
+\b. Qualified Applicants for MCO (PWTD)
+Answer: No
 
 _N/A_
 
 ##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
+
     1.  Promotions for MCO (PWD) Answer No
-        
+
     2.  Promotions for MCO (PWTD) Answer No   
 
 _N/A_
