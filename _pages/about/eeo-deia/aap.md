@@ -623,6 +623,7 @@ _N/A_
 | Other Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
 | --- | --- | --- | --- | --- | --- |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+{: #t4cx .data .usa-table }
 
 ##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities?&nbsp; (The appropriate benchmark is the inclusion rate.)&nbsp; If “yes”, describe the employee recognition program and relevant data in the text box.
     
@@ -735,18 +736,21 @@ _N/A_
 > a. Executives
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
 > b. Managers
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
 > c. Supervisors
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
@@ -757,18 +761,21 @@ _N/A_
 > a. Executives
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
 > b. Managers
 >> i. Qualified Internal Applicants (PWTD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWTD)
 >>> Answer: No
 
 > c. Supervisors
 >> i. Qualified Internal Applicants (PWTD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWTD)
 >>> Answer: No
 
