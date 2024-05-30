@@ -3,6 +3,7 @@ name: india-thomas
 first_name: India
 last_name: Thomas
 full_name: India Thomas
+image: /images/uploads/india-thomas.jpg
 job-title: Director
 office: Office of Administration
 agency: ""
