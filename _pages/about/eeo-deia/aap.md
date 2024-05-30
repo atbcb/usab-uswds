@@ -620,13 +620,9 @@ Cash Awards: $5000 or more: Average Amount
 
 _N/A_
 
-Other Awards
-Total (#)
-Reportable Disability %
-Without Reportable Disability %
-Targeted Disability
-%
-Without Targeted Disability %
+| Other Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
+| --- | --- | --- | --- | --- | --- |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 ##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities?&nbsp; (The appropriate benchmark is the inclusion rate.)&nbsp; If “yes”, describe the employee recognition program and relevant data in the text box.
     
