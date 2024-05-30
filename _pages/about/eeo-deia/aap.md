@@ -671,25 +671,29 @@ _N/A_
 > a. SES
 >> i. Qualified Internal Applicants (PWTD)
 >>> Answer: No
-> b. Internal Selections (PWTD)
+>
+>> ii. Internal Selections (PTWD)
 >>> Answer: No
 
->b. Grade GS-15
+> b. Grade GS-15
 >> i. Qualified Internal Applicants (PWTD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWTD)
 >>> Answer: No
 
 > c. Grade GS-14
->> i. Qualified Internal Applicants (PWTD)
+>> i. Qualified Internal Applicants (PTWD)
 >>> Answer: No
-> ii. Internal Selections (PWTD)
+>
+>> ii. Internal Selections (PWTD)
 >>> Answer: No
 
 > d. Grade GS-13
 >> i. Qualified Internal Applicants (PWTD)
 >>> Answer: No
->> ii. Internal Selections (PWD)
+>
+>> ii. Internal Selections (PWTD)
 >>> Answer: No
 
 _N/A_
