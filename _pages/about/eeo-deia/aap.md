@@ -11,13 +11,13 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 
 ### Section I: Efforts to Reach Regulatory Goals
 
-#### EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government
+**EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government.**
 
 ##### 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
 
 > a. Cluster GS-1 to GS-10 (PWD)
 >> Answer:  No
- 
+>
 > b. Cluster GS-11 to SES (PWD)
 >> Answer:  No
 
@@ -27,9 +27,9 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 
 > a. Cluster GS-1 to GS-10 (PWTD)
 >> Answer:  Yes
-
+>
 > b. Cluster GS-11 to SES (PWTD)
-> Answer: No
+>> Answer: No
 
 _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
 
@@ -115,42 +115,42 @@ _N/A_
       <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">thomas@access-board.gov</a></td>
+      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">Thomas@access-board.gov</a></td>
     </tr>
     <tr>
       <th scope="row">Answering questions from the public about hiring authorities that take disability into account</th>
       <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">thomas@access-board.gov</a></td>
+      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">Thomas@access-board.gov</a></td>
     </tr>
     <tr>
       <th scope="row">Processing reasonable accommodation requests from applicants and employees</th>
       <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">thomas@access-board.gov</a></td>
+      <td>India Thomas, Director of Administration <a href="mailto:thomas@access-baord.gov">Thomas@access-board.gov</a></td>
     </tr>
     <tr>
       <th scope="row">Section 508 Compliance</th>
       <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td>Alison Levy, Director OTIS <a href="mailto:levy@access-baord.gov">levy@access-baord.gov</a></td>
+      <td>Alison Levy, Director OTIS <a href="mailto:levy@access-baord.gov">Levy@access-baord.gov</a></td>
     </tr>
     <tr>
       <th scope="row">Architectural Barriers Act Compliance</th>
       <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td>Christopher Kuczynski, OGC <a href="mailto:kuczynski@access-board.gov"></a>kuczynski@access-board.gov</td>
+      <td>Christopher Kuczynski, OGC <a href="mailto:kuczynski@access-board.gov">Kuczynski@access-board.gov</a></td>
     </tr>
     <tr>
       <th scope="row">Special Emphasis Program for PWD and PWTD</th>
       <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>Drucilla Gordon, Chief of Staff / EEO Dir <a href="mailto:gordon@access-board.gov">gordon@access-board.gov</a></td>
+      <td>Drucilla Gordon, Chief of Staff / EEO Dir <a href="mailto:gordon@access-board.gov">Gordon@access-board.gov</a></td>
     </tr>
   </tbody>
 </table>
@@ -251,7 +251,7 @@ _The agency plans to identify and establish contacts with organizations that ass
 
 > a. New Hires for Permanent Workforce (PWD)
 >> Answer:  No
-
+>
 > b. New Hires for Permanent Workforce (PWTD)
 >> Answer:  No
 
@@ -308,7 +308,7 @@ _N/A_
 
 > a. New Hires for MCO (PWD)
 >> Answer: N/A
-
+>
 > b. New Hires for MCO (PWTD)
 >> Answer: N/A
 
@@ -342,7 +342,7 @@ _N/A_
 
 > a. Qualified Applicants for MCO (PWD)
 >> Answer: No
-
+>
 > b. Qualified Applicants for MCO (PWTD)
 >> Answer: No
 
@@ -351,10 +351,10 @@ _N/A_
 ##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Promotions for MCO (PWD)
->> Answer No
-
+>> Answer: No
+>
 > b. Promotions for MCO (PWTD)
->> Answer No   
+>> Answer: No   
 
 _N/A_
 
