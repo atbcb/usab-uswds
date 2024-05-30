@@ -308,7 +308,7 @@ Numerical Goal
 
 _N/A_
 
-##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Promotions for MCO (PWD)
 >> Answer No
@@ -634,31 +634,35 @@ _N/A_
 
 _N/A_
 
-### D. Promotions
+#### D. Promotions
 
-#### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. SES
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
-> b. Internal Selections (PWD)
+>
+>> ii. Internal Selections (PWD)
 >>> Answer: No
 
->b. Grade GS-15
+> b. Grade GS-15
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
 > c. Grade GS-14
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 > ii. Internal Selections (PWD)
 >>> Answer: No
 
 > d. Grade GS-13
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
+>
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
