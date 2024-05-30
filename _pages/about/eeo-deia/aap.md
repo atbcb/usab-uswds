@@ -16,25 +16,22 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 ##### 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
 
 > a. Cluster GS-1 to GS-10 (PWD)
->
-> Answer:  No
-> 
+>> Answer:  No
+ 
 > b. Cluster GS-11 to SES (PWD)
-> Answer:  No
+>> Answer:  No
 
 \* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
 
 ##### 2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
 
 > a. Cluster GS-1 to GS-10 (PWTD)
->
-> Answer:  Yes
->
+>> Answer:  Yes
+
 > b. Cluster GS-11 to SES (PWTD)
->
 > Answer: No
 
-Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
+_Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
 
 <table class="data usa-table" id="t12">
   <thead>
@@ -212,7 +209,8 @@ _The EEO Director has initiated discussions with the Access Board regarding the 
       <td>Fiscal Year</td>
       <td>&nbsp;</td>
       <td>Accomplishment</td>
-      <td colspan="4">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td colspan="2">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -249,12 +247,12 @@ _The agency plans to identify and establish contacts with organizations that ass
 
 #### C. Progression Towards Goals (Recruitment and Hiring)
 
-##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce? If “yes”, please describe the triggers below.
+##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce?&nbsp; If “yes”, please describe the triggers below.
 
-> a. New Hires for Permanent Workforce (PWD) Answer No
+> a. New Hires for Permanent Workforce (PWD)
 >> Answer:  No
 
-> b. New Hires for Permanent Workforce (PWTD) Answer No
+> b. New Hires for Permanent Workforce (PWTD)
 >> Answer:  No
 
 _N/A_
@@ -276,13 +274,13 @@ Temporary Workforce
 % of New Hires
 
 
-##### 2.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 2. Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
-New Hires for MCO (PWD)
-: Answer: N/A
+> a. New Hires for MCO (PWD)
+>> Answer: N/A
 
-New Hires for MCO (PWTD)
-: Answer: N/A
+> b. New Hires for MCO (PWTD)
+>> Answer: N/A
 
 _N/A_
 
@@ -312,9 +310,11 @@ _N/A_
 
 ##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
-    1.  Promotions for MCO (PWD) Answer No
+> a. Promotions for MCO (PWD)
+>> Answer No
 
-    2.  Promotions for MCO (PWTD) Answer No   
+> b. Promotions for MCO (PWTD)
+>> Answer No   
 
 _N/A_
 
@@ -334,8 +334,7 @@ _All opportunities at the Access Board are open to Schedule A applicants. In add
 
 _Developmental details are opened to employees.  All job vacancies are advertised internally whenever possible._
 
-
-##### 2. In the table below, please provide the data for career development opportunities that require competition and/or supervisory recommendation/ approval to participate.
+##### 2. In the table below, please provide the data for career development opportunities that require competition and/or supervisory recommendation / approval to participate.
 
 Career Development Opportunities
 Total Participants
@@ -361,17 +360,21 @@ Detail Programs
 100
 100
 
-##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
-1.  Applicants (PWD) Answer No
-        
-    2.  Selections (PWD) Answer No
-        
-3.  Do triggers exist for PWTD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    1.  Applicants (PWTD) Answer No
-        
-    2.  Selections (PWTD) Answer No
+> a. Applicants (PWD)
+>> Answer: No
+
+> b. Selections (PWD)
+>> Answer: No
+
+#### 4. Do triggers exist for PWTD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+
+> a. Applicants (PWTD)
+>> Answer: No
+
+> b. Selections (PWTD)
+>> Answer: No
 
 _N/A_
 
@@ -379,9 +382,11 @@ _N/A_
 
 ##### 1. Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for any level of the time-off awards, bonuses, or other incentives? If “yes”, please describe the trigger(s) in the text box.
 
-        1.  Awards, Bonuses, & Incentives (PWD) Answer No
-            
-        2.  Awards, Bonuses, & Incentives (PWTD) Answer No
+> a. Awards, Bonuses, & Incentives (PWD)
+>> Answer: No
+
+> b. Awards, Bonuses, & Incentives (PWTD)
+>> Answer: No
 
 _N/A_
 
@@ -591,17 +596,11 @@ Cash Awards: $5000 or more: Awards Given
 58.33
 46.15
 71.43
-
 40.00
-
 Cash Awards: $5000 or more: Total Amount
-
 159630
-
 808166.67
-
 418161.54
-
 1152228.57
 326480.00
 Cash Awards: $5000 or more: Average Amount
@@ -612,10 +611,12 @@ Cash Awards: $5000 or more: Average Amount
 \-45540.00
 
 ##### 2. Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for quality step increases or performance- based pay increases? If “yes”, please describe the trigger(s) in the text box.
-    
-    1.  Pay Increases (PWD) Answer No
-        
-    2.  Pay Increases (PWTD) Answer No
+
+> a. Pay Increases (PWD)
+>> Answer: No
+
+> b. Pay Increases (PWTD)
+>> Answer No
 
 _N/A_
 
@@ -627,105 +628,73 @@ Targeted Disability
 %
 Without Targeted Disability %
 
-##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities? (The appropriate benchmark is the inclusion rate.) If “yes”, describe the employee recognition program and relevant data in the text box.
+##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities?&nbsp; (The appropriate benchmark is the inclusion rate.)&nbsp; If “yes”, describe the employee recognition program and relevant data in the text box.
     
-    1.  Other Types of Recognition (PWD) Answer N/A
-        
-    2.  Other Types of Recognition (PWTD) Answer N/A
+> a. Other Types of Recognition (PWD)
+>> Answer N/A
+
+> b. Other Types of Recognition (PWTD)
+>> Answer: N/A
 
 _N/A_
 
 ### D. Promotions
 
-    
-    1.  Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-        
-        1.  SES
-            
-            1.  Qualified Internal Applicants (PWD) Answer No
-                
-            2.  Internal Selections (PWD) Answer No
-                
-        2.  Grade GS-15
-            
-            i. Qualified Internal Applicants (PWD)
-            
-            Answer
-            
-            No
-            
-            ii. Internal Selections (PWD)
-            
-            Answer
-            
-            No
-            
-        3.  Grade GS-14
-            
-            i. Qualified Internal Applicants (PWD)
-            
-            Answer
-            
-            No
-            
-            ii. Internal Selections (PWD)
-            
-            Answer
-            
-            No
-            
-        4.  Grade GS-13
-            
-            1.  Qualified Internal Applicants (PWD) Answer No
-                
-            2.  Internal Selections (PWD) Answer No
-                
-    2.  Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-        
-        1.  SES
-            
-            1.  Qualified Internal Applicants (PWTD) Answer No
-                
-            2.  Internal Selections (PWTD) Answer No
-                
-        2.  Grade GS-15
-            
-            i. Qualified Internal Applicants (PWTD)
-            
-            Answer
-            
-            No
-            
-            ii. Internal Selections (PWTD)
-            
-            Answer
-            
-            No
-            
-        3.  Grade GS-14
-            
-            i. Qualified Internal Applicants (PWTD)
-            
-            Answer
-            
-            No
-            
-            ii. Internal Selections (PWTD)
-            
-            Answer
-            
-            No
-            
-        4.  Grade GS-13
-            
-            1.  Qualified Internal Applicants (PWTD) Answer No
-                
-            2.  Internal Selections (PWTD) Answer No
-                
-                N/A
-                
+#### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
-1.  Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+> a. SES
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+> b. Internal Selections (PWD) Answer No
+>>> Answer: No
+
+>b. Grade GS-15
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+>> ii. Internal Selections (PWD)
+>>> Answer: No
+
+> c. Grade GS-14
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+> ii. Internal Selections (PWD)
+>>> Answer: No
+
+> d. Grade GS-13
+>> i. Qualified Internal Applicants (PWD) Answer No
+>>> Answer: No
+>> ii. Internal Selections (PWD) Answer No
+>>> Answer: No
+
+#### 2. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+
+> a. SES
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+> b. Internal Selections (PWD) Answer No
+>>> Answer: No
+
+>b. Grade GS-15
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+>> ii. Internal Selections (PWD)
+>>> Answer: No
+
+> c. Grade GS-14
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+> ii. Internal Selections (PWD)
+>>> Answer: No
+
+> d. Grade GS-13
+>> i. Qualified Internal Applicants (PWD) Answer No
+>>> Answer: No
+>> ii. Internal Selections (PWD) Answer No
+>>> Answer: No
+     
+_N/A_
+
+#### 3. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
     
     a. New Hires to SES (PWD)
     
