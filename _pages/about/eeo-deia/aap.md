@@ -34,9 +34,9 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 >
 > Answer: No
 
-_Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
+Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
 
-<table class="data usa-table" id="t12"">
+<table class="data usa-table" id="t12">
   <thead>
     <tr>
       <th rowspan="2" colspan="2" scope="col">Grade Level Cluster<br>
@@ -83,7 +83,7 @@ _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
 
 ##### 3. Describe how the agency has communicated the numerical goals to the hiring managers and/or recruiters.
 
-This information was shared and discussed during leadership meetings.
+_This information was shared and discussed during leadership meetings._
 
 ### Section II: Model Disability Program
 
@@ -91,7 +91,7 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
 
 #### A. Plan to provide sufficient & competent staffing for the disability program
 
-##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
+##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period?&nbsp; If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
 
 > Answer: Yes
 
@@ -99,7 +99,7 @@ _N/A_
 
 ##### 2. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
 
-<table class="data" id="t22">
+<table class="data usa-table" id="t22">
   <thead>
     <tr>
       <th rowspan="2" scope="col">Disability Program Task</th>
@@ -158,13 +158,13 @@ _N/A_
   </tbody>
 </table>
 
-##### 3.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
+##### 3. Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period?&nbsp; If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
 
 > Answer: Yes
 
 _The EEO Director will research and schedule disability training for the Access Board team._
 
-#### B Plan to ensure sufficient funding for the disability program
+#### B. Plan to ensure sufficient funding for the disability program
 
 Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period?  If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
 
@@ -174,41 +174,45 @@ _The EEO Director has initiated discussions with the Access Board regarding the 
 
 ### Section III: Program Deficiencies In The Disability Program
 
-<table id="t30" class="data">
+<table id="t30" class="data usa-table" id="t30">
   <tbody>
     <tr>
-      <td colspan="2">Brief Description of Program Deficiency</td>
-      <td colspan="2">D.1.c. Does the agency conduct exit interviews or surveys that include questions on how the agency could improve the recruitment, hiring, inclusion, retention and advancement of individuals with disabilities? [see 29 CFR §1614.203(d)(1) (iii)(C)]</td>
+      <th scope="row">Brief Description of Program Deficiency</th>
+      <td colspan="6">D.1.c. Does the agency conduct exit interviews or surveys that include questions on how the agency could improve the recruitment, hiring, inclusion, retention and advancement of individuals with disabilities? [see 29 CFR §1614.203(d)(1) (iii)(C)]</td>
     </tr>
     <tr>
-      <td colspan="2">Objective</td>
-      <td colspan="2">Update the Access Board Exit Clearance process, and ensure it&#39;s utilized.</td>
+      <th scope="row">Objective</th>
+      <td colspan="6">Update the Access Board Exit Clearance process, and ensure it's utilized.</td>
     </tr>
     <tr>
-      <td rowspan="4">&nbsp;</td>
+      <th>scope="row">Target Date</th>
+      <td colspan="3">Oct 1, 2024</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Completion Date</th>
+      <td colspan="3">&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th scope="row">Planned Activities</th>
       <td>Target Date</td>
-      <td>Oct 1, 2024</td>
-      <td rowspan="4">&nbsp;</td>
-    </tr>
-    <tr>
+      <td>&nbsp;</td>
       <td>Completion Date</td>
+      <td>&nbsp;</td>
+      <td>Planned Activity</td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td>Planned Activities</td>
-      <td>Target Date    Completion Date  Planned Activity</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>Accomplishments</td>
-      <td>Fiscal Year    Accomplishment</td>
-    </tr>
-    <tr>
-      <td colspan="2">&nbsp;</td>
-      <td colspan="2">&nbsp;</td>
+      <th scope="row">Accomplishments</th>
+      <td>Fiscal Year</td>
+      <td>&nbsp;</td>
+      <td>Accomplishment</td>
+      <td colspan="3">&nbsp;</td>
     </tr>
   </tbody>
 </table>
