@@ -5,15 +5,15 @@ toc: sidenav.html
 banner-title: "About the U.S. Access Board"
 permalink: /about/aap.html
 ---
-# {{ page.title }}
+## {{ page.title }}
 
 To capture agencies’ affirmative action plan for persons with disabilities (PWD) and persons with targeted disabilities (PWTD), EEOC regulations (29 C.F.R. § 1614.203(e)) and MD-715 require agencies to describe how their affirmative action plan will improve the recruitment, hiring, advancement, and retention of applicants and employees with disabilities.
 
-## Section I: Efforts to Reach Regulatory Goals
+### Section I: Efforts to Reach Regulatory Goals
 
 _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specific numerical goals for increasing the participation of persons with disabilities and persons with targeted disabilities in the federal government_
 
-1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+##### 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
 
     a. Cluster GS-1 to GS-10 (PWD)
 
@@ -25,7 +25,7 @@ _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specif
 
 \* For GS employees, please use two clusters: GS-1 to GS-10 and GS-11 to SES, as set forth in 29 C.F.R. § 1614.203(d)(7). For all other pay plans, please use the approximate grade clusters that are above or below GS-11 Step 1 in the Washington, DC metropolitan region.
 
-2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
+##### 2. Using the goal of 2% as the benchmark, does your agency have a trigger involving PWTD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
 
     a. Cluster GS-1 to GS-10 (PWTD)
 
@@ -35,7 +35,7 @@ _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specif
 
     > Answer: No
 
-**Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster.**
+_Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
 
 <table class="data" id="t12">
   <thead>
@@ -80,23 +80,23 @@ _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specif
   </tbody>
 </table>
 
-3. Describe how the agency has communicated the numerical goals to the hiring managers and/or recruiters.
+##### 3. Describe how the agency has communicated the numerical goals to the hiring managers and/or recruiters.
 
-**This information was shared and discussed during leadership meetings.**
+This information was shared and discussed during leadership meetings.
 
-## Section II: Model Disability Program
+### Section II: Model Disability Program
 
 Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, training and resources to recruit and hire persons with disabilities and persons with targeted disabilities, administer the reasonable accommodation program and special emphasis program, and oversee any other disability hiring and advancement program the agency has in place.
 
-### A. Plan to provide sufficient & competent staffing for the disability program
+#### A. Plan to provide sufficient & competent staffing for the disability program
 
-1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
+##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
 
 > Answer: Yes
 
-**N/A**
+_N/A_
 
-2. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
+##### 2. Identify all staff responsible for implementing the agency's disability employment program by the office, staff employment status, and responsible official.
 
 <table class="data" id="t22">
   <thead>
@@ -157,21 +157,21 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
   </tbody>
 </table>
 
-3.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
+##### 3.  Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
 
 > Answer: Yes
 
-**The EEO Director will research and schedule disability training for the Access Board team.**
+_The EEO Director will research and schedule disability training for the Access Board team._
 
-### B Plan to ensure sufficient funding for the disability program
+#### B Plan to ensure sufficient funding for the disability program
 
 Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period?  If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
 
 > Answer: Yes
 
-**The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs.**
+_The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs._
 
-## Section III: Program Deficiencies In The Disability Program
+### Section III: Program Deficiencies In The Disability Program
 
 <table id="t30" class="data">
   <tbody>
@@ -212,305 +212,149 @@ Has the agency provided sufficient funding and other resources to successfully i
   </tbody>
 </table>
 
-## Section IV: Plan to Recruit and Hire Individuals with Disabilities
+### Section IV: Plan to Recruit and Hire Individuals with Disabilities
 
 Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a plan to increase the recruitment and hiring of individuals with disabilities. The questions below are designed to identify outcomes of the agency’s recruitment program plan for PWD and PWTD.
 
-### A. Plan to Identify Job Applications with Disabilities
+#### A. Plan to Identify Job Applications with Disabilities
 
-1. Describe the programs and resources the agency uses to identify job applicants with disabilities, including individuals with targeted disabilities.
+##### 1. Describe the programs and resources the agency uses to identify job applicants with disabilities, including individuals with targeted disabilities.
 
-**The Access Board, in conjunction with the HR service provider maintain a list of Schedule A qualified applicants. In addition the Access Board uses the talent portal of USA Staffing to identify applicants.**
+_The Access Board, in conjunction with the HR service provider maintain a list of Schedule A qualified applicants. In addition the Access Board uses the talent portal of USA Staffing to identify applicants._
 
-2. Pursuant to 29 C.F.R. §1614.203(a)(3), describe the agency’s use of hiring authorities that take disability into account (e.g., Schedule A) to recruit PWD and PWTD for positions in the permanent workforce.
+##### 2. Pursuant to 29 C.F.R. §1614.203(a)(3), describe the agency’s use of hiring authorities that take disability into account (e.g., Schedule A) to recruit PWD and PWTD for positions in the permanent workforce.
 
-**The Access Board utilized Schedule A hiring authority to recruit recruit PWD and PWTD for positions in the permanent workforce.**
+_The Access Board utilized Schedule A hiring authority to recruit recruit PWD and PWTD for positions in the permanent workforce._
 
-4. When individuals apply for a position under a hiring authority that takes disability into account (e.g., Schedule A), explain how the agency (1) determines if the individual is eligible for appointment under such authority; and, (2) forwards the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed.
+##### 3. When individuals apply for a position under a hiring authority that takes disability into account (e.g., Schedule A), explain how the agency (1) determines if the individual is eligible for appointment under such authority; and, (2) forwards the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed.
+
+_The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline._
+
+##### 4. Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)?&nbsp; If “yes”, describe the type(s) of training and frequency.&nbsp; If “no”, describe the agency’s plan to provide this training.
     
-    The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline.
-    
+> Answer: Yes
 
-5.  Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
-    
-    Answer Yes
- 
-> This is training conducted annually during the monthly leadership meeting.
-    
+_This is training conducted annually during the monthly leadership meeting._
 
-### B. Plan to Establish Contacts with Disability Employment Organizations
+#### B. Plan to Establish Contacts with Disability Employment Organizations
 
 Describe the agency’s efforts to establish and maintain contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.
 
-**The agency plans to identify and establish contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment.**
+_The agency plans to identify and establish contacts with organizations that assist PWD, including PWTD, in securing and maintaining employment._
 
-### C. Progression Towards Goals (Recruitment and Hiring)
+#### C. Progression Towards Goals (Recruitment and Hiring)
 
-    1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce? If “yes”, please describe the triggers below.
-        
-        1.  New Hires for Permanent Workforce (PWD) Answer No
-            
-        2.  New Hires for Permanent Workforce (PWTD) Answer No
-            
-            N/A
-            
+##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce? If “yes”, please describe the triggers below.
 
+    a. New Hires for Permanent Workforce (PWD) Answer No
+    > Answer:  No
+
+    b. New Hires for Permanent Workforce (PWTD) Answer No
+    > Answer:  No
+
+_N/A_
+            
 New Hires
-
 Total (#)
-
 Reportable Disability
-
 Targeted Disability
-
 Permanent Workforce
-
 (%)
-
 Temporary Workforce
-
 (%)
-
 Permanent Workforce
-
 (%)
-
 Temporary Workforce
-
 (%)
-
 % of Total Applicants
-
- 
-
- 
-
- 
-
- 
-
- 
-
 % of Qualified Applicants
-
- 
-
- 
-
- 
-
- 
-
- 
-
 % of New Hires
 
- 
 
- 
-
- 
-
- 
-
- 
-
-1.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 2.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
     
     1.  New Hires for MCO (PWD) Answer N/A
         
     2.  New Hires for MCO (PWTD) Answer N/A
-        
-        N/A
-        
+
+_N/A_
 
 New Hires to Mission-Critical Occupations
-
 Total
-
 Reportable Disability
-
 Targetable Disability
-
 New Hires
-
 New Hires
-
 (#)
-
 (%)
-
 (%)
-
 Numerical Goal
-
 \--
-
 12%
-
 2%
 
-1.  Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
     
     1.  Qualified Applicants for MCO (PWD) Answer No
         
     2.  Qualified Applicants for MCO (PWTD) Answer No
-        
-        N/A
-        
 
-1.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+_N/A_
+
+##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
     
     1.  Promotions for MCO (PWD) Answer No
         
-    2.  Promotions for MCO (PWTD) Answer No
-        
+    2.  Promotions for MCO (PWTD) Answer No   
 
-N/A
+_N/A_
 
-## Section V: Plan to Ensure Advancement Opportunities for Employees with Disabilities
+### Section V: Plan to Ensure Advancement Opportunities for Employees with Disabilities
 
 Pursuant to 29 C.F.R. §1614.203(d)(1)(iii), agencies are required to provide sufficient advancement opportunities for employees with disabilities. Such activities might include specialized training and mentoring programs, career development opportunities, awards programs, promotions, and similar programs that address advancement. In this section, agencies should identify, and provide data on programs designed to ensure advancement opportunities for employees with disabilities.
 
-### A. Advancement Program Plan
-   
-    Describe the agency’s plan to ensure PWD, including PWTD, have sufficient opportunities for advancement.
-    
-    All opportunities at the Access Board are open to Schedule A applicants. In addition, the Access Board accepts resumes from any Schedule A applicants and maintains a roster of qualified employees.
-    
+#### A. Advancement Program Plan
 
-### B. Career Development Opportunites
+Describe the agency’s plan to ensure PWD, including PWTD, have sufficient opportunities for advancement.
     
-    1.  Please describe the career development opportunities that the agency provides to its employees.
-        
-        Developmental details are opened to employees. All job vacancies are advertised internally whenever possible.
-        
+_All opportunities at the Access Board are open to Schedule A applicants. In addition, the Access Board accepts resumes from any Schedule A applicants and maintains a roster of qualified employees._
 
-1.  In the table below, please provide the data for career development opportunities that require competition and/or supervisory recommendation/ approval to participate.
-    
-    Career Development Opportunities
-    
-    Total Participants
-    
-    PWD
-    
-    PWTD
-    
-    Applicants (#)
-    
-    Selectees (#)
-    
-    Applicants (%)
-    
-    Selectees (%)
-    
-    Applicants (%)
-    
-    Selectees (%)
-    
-    Internship Programs
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-    Fellowship Programs
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-    Mentoring Programs
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-    Coaching Programs
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-    Training Programs
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-    Other Career Development Programs
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-     
-    
-    Detail Programs
-    
-    1
-    
-    1
-    
-    0
-    
-    0
-    
-    100
-    
-    100
-    
-2.  Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your
-    
-    plan to provide the data in the text box.
-    
-    1.  Applicants (PWD) Answer No
+#### B. Career Development Opportunites
+
+##### 1. Please describe the career development opportunities that the agency provides to its employees.
+
+_Developmental details are opened to employees.  All job vacancies are advertised internally whenever possible._
+
+
+##### 2. In the table below, please provide the data for career development opportunities that require competition and/or supervisory recommendation/ approval to participate.
+
+Career Development Opportunities
+Total Participants
+PWD
+PWTD
+Applicants (#)
+Selectees (#)
+Applicants (%)
+Selectees (%)
+Applicants (%)
+Selectees (%)
+Internship Programs
+Fellowship Programs
+Mentoring Programs
+Coaching Programs
+Training Programs
+Other Career Development Programs
+Detail Programs
+1
+1
+0
+0
+100
+100
+
+##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+
+1.  Applicants (PWD) Answer No
         
     2.  Selections (PWD) Answer No
         
@@ -519,432 +363,224 @@ Pursuant to 29 C.F.R. §1614.203(d)(1)(iii), agencies are required to provide su
     1.  Applicants (PWTD) Answer No
         
     2.  Selections (PWTD) Answer No
-        
-        N/A
-        
 
-### C. Awards
+_N/A_
 
-        
-    1.  Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for any level of the time-off awards, bonuses, or other incentives? If “yes”, please describe the trigger(s) in the text box.
-        
+#### C. Awards
+
+##### 1. Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for any level of the time-off awards, bonuses, or other incentives? If “yes”, please describe the trigger(s) in the text box.
+
         1.  Awards, Bonuses, & Incentives (PWD) Answer No
             
         2.  Awards, Bonuses, & Incentives (PWTD) Answer No
-            
-            N/A
-            
+
+_N/A_
 
 Time-Off Awards
-
 Total (#)
-
 Reportable Disability %
-
 Without Reportable Disability %
-
 Targeted Disability
-
 %
-
 Without Targeted Disability %
-
 Time-Off Awards 1 - 10 hours: Awards Given
-
 3
-
 8.33
-
 15.38
-
 14.29
-
 0.00
-
 Time-Off Awards 1 - 10 Hours: Total Hours
-
 24
-
 66.67
-
 123.08
-
 114.29
-
 0.00
-
 Time-Off Awards 1 - 10 Hours: Average Hours
-
 8
-
 66.67
-
 61.54
-
 114.29
-
 0.00
-
 Time-Off Awards 11 - 20 hours: Awards Given
-
 6
-
 33.33
-
 15.38
-
 28.57
-
 40.00
-
 Time-Off Awards 11 - 20 Hours: Total Hours
-
 96
-
 533.33
-
 246.15
-
 457.14
-
 640.00
-
 Time-Off Awards 11 - 20 Hours: Average Hours
-
 16
-
 133.33
-
 123.08
-
 228.57
-
 0.00
-
 Time-Off Awards 21 - 30 hours: Awards Given
-
 1
-
 0.00
-
 7.69
-
 0.00
-
 0.00
-
 Time-Off Awards 21 - 30 Hours: Total Hours
-
 24
-
 0.00
-
 184.62
-
 0.00
-
 0.00
-
 Time-Off Awards 21 - 30 Hours: Average Hours
-
 24
-
 0.00
-
 184.62
-
 0.00
-
 0.00
-
 Time-Off Awards 31 - 40 hours: Awards Given
-
 1
-
 8.33
-
 0.00
-
 14.29
-
 0.00
-
 Time-Off Awards 31 - 40 Hours: Total Hours
-
 40
-
 333.33
-
 0.00
-
 571.43
-
 0.00
-
 Time-Off Awards 31 - 40 Hours: Average Hours
-
 40
-
 333.33
-
 0.00
-
 571.43
-
 0.00
-
 Time-Off Awards
-
 Total (#)
-
 Reportable Disability %
-
 Without Reportable Disability %
-
 Targeted Disability
-
 %
-
 Without Targeted Disability %
-
 Time-Off Awards 41 or more Hours: Awards Given
-
 0
-
 0.00
-
 0.00
-
 0.00
-
 0.00
-
 Time-Off Awards 41 or more Hours: Total Hours
-
 0
-
 0.00
-
 0.00
-
 0.00
-
 0.00
-
 Time-Off Awards 41 or more Hours: Average Hours
-
 0
-
 0.00
-
 0.00
-
 0.00
-
 0.00
-
 Cash Awards
-
 Total (#)
-
 Reportable Disability %
-
 Without Reportable Disability %
-
 Targeted Disability
-
 %
-
 Without Targeted Disability %
-
 Cash Awards: $501 - $999: Awards Given
-
 1
-
 0.00
-
 7.69
-
 0.00
-
 0.00
-
 Cash Awards: $501 - $999: Total Amount
-
 731
-
 0.00
-
 5623.08
-
 0.00
-
 0.00
-
 Cash Awards: $501 - $999: Average Amount
-
 731
-
 0.00
-
 5623.08
-
 0.00
-
 0.00
-
 Cash Awards: $1000 - $1999: Awards Given
-
 3
-
 8.33
-
 15.38
-
 0.00
-
 20.00
-
 Cash Awards: $1000 - $1999: Total Amount
-
 4312
-
 13533.33
-
 20676.92
-
 0.00
-
 32480.00
-
 Cash Awards: $1000 - $1999: Average Amount
-
 1437
-
 13533.33
-
 10338.46
-
 0.00
-
 32480.00
-
 Cash Awards: $2000 - $2999: Awards Given
-
 2
-
 0.00
-
 15.38
-
 0.00
-
 0.00
-
 Cash Awards: $2000 - $2999: Total Amount
-
 4574
-
 0.00
-
 35184.62
-
 0.00
-
 0.00
-
 Cash Awards: $2000 - $2999: Average Amount
-
 2287
-
 0.00
-
 17592.31
-
 0.00
-
 0.00
-
 Cash Awards: $3000 - $3999: Awards Given
-
 2
-
 8.33
-
 7.69
-
 0.00
-
 20.00
-
 Cash Awards: $3000 - $3999: Total Amount
-
 6771
-
 28675.00
-
 25615.38
-
 0.00
-
 68820.00
-
 Cash Awards: $3000 - $3999: Average Amount
-
 3385
-
 28675.00
-
 25615.38
-
 0.00
-
 68820.00
-
 Cash Awards: $4000 - $4999: Awards Given
-
 3
-
 25.00
-
 0.00
-
 42.86
-
 0.00
-
 Cash Awards: $4000 - $4999: Total Amount
-
 13450
-
 112083.33
-
 0.00
-
 192142.86
-
 0.00
-
 Cash Awards: $4000 - $4999: Average Amount
-
 4483
-
 37358.33
-
 0.00
-
 64042.86
-
 0.00
-
 Cash Awards: $5000 or more: Awards Given
-
 14
-
 58.33
-
 46.15
-
 71.43
 
 40.00
@@ -958,52 +594,38 @@ Cash Awards: $5000 or more: Total Amount
 418161.54
 
 1152228.57
-
 326480.00
-
 Cash Awards: $5000 or more: Average Amount
-
 11402
-
 115450.00
-
 69692.31
-
 230442.86
-
 \-45540.00
 
-1.  Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for quality step increases or performance- based pay increases? If “yes”, please describe the trigger(s) in the text box.
+##### 2. Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for quality step increases or performance- based pay increases? If “yes”, please describe the trigger(s) in the text box.
     
     1.  Pay Increases (PWD) Answer No
         
     2.  Pay Increases (PWTD) Answer No
-        
-        N/A
-        
+
+_N/A_
 
 Other Awards
-
 Total (#)
-
 Reportable Disability %
-
 Without Reportable Disability %
-
 Targeted Disability
-
 %
-
 Without Targeted Disability %
 
-1.  If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities? (The appropriate benchmark is the inclusion rate.) If “yes”, describe the employee recognition program and relevant data in the text box.
+##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities? (The appropriate benchmark is the inclusion rate.) If “yes”, describe the employee recognition program and relevant data in the text box.
     
     1.  Other Types of Recognition (PWD) Answer N/A
         
     2.  Other Types of Recognition (PWTD) Answer N/A
-        
-        N/A
-        
+
+_N/A_
+
 ### D. Promotions
 
     
