@@ -186,13 +186,13 @@ _The EEO Director has initiated discussions with the Access Board regarding the 
     </tr>
     <tr>
       <th scope="row">Target Date</th>
-      <td colspan="3">Oct 1, 2024</td>
-      <td colspan="3">&nbsp;</td>
+      <td>Oct 1, 2024</td>
+      <td colspan="5">&nbsp;</td>
     </tr>
     <tr>
       <th scope="row">Completion Date</th>
-      <td colspan="3">&nbsp;</td>
-      <td colspan="3">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td colspan="5">&nbsp;</td>
     </tr>
   </tbody>
   <tbody>
@@ -212,7 +212,7 @@ _The EEO Director has initiated discussions with the Access Board regarding the 
       <td>Fiscal Year</td>
       <td>&nbsp;</td>
       <td>Accomplishment</td>
-      <td colspan="3">&nbsp;</td>
+      <td colspan="4">&nbsp;</td>
     </tr>
   </tbody>
 </table>
