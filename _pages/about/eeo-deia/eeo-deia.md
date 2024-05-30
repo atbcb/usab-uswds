@@ -20,3 +20,4 @@ permalink: /about/eeo-deia/
 
 - [DEIA Strategic Plan 2022]({{ site.baseurl }}/deia-strategic-plan/)
 - [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html)
+- [Affirmative Action Plan]({{ site.baseurl }}/about/aap.html) for the Recruitment, Hiring, Advancement, and Retention of Persons with Disabilities
