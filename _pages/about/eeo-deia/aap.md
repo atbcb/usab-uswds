@@ -185,7 +185,7 @@ _The EEO Director has initiated discussions with the Access Board regarding the 
       <td colspan="6">Update the Access Board Exit Clearance process, and ensure it's utilized.</td>
     </tr>
     <tr>
-      <th>scope="row">Target Date</th>
+      <th scope="row">Target Date</th>
       <td colspan="3">Oct 1, 2024</td>
       <td colspan="3">&nbsp;</td>
     </tr>
