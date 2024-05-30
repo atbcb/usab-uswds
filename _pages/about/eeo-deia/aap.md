@@ -489,8 +489,6 @@ _N/A_
 
 _N/A_
 
-
-
 | Time-Off Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |Time-Off Awards    1 - 10 hours: Awards    Given|3|8.33|15.38|14.29|0.00|
@@ -510,121 +508,27 @@ _N/A_
 |Time-Off Awards    41 or more Hours: Average Hours|0|0.00|0.00|0.00|0.00|
 {: #t5c1 .data .usa-table }
 
-Cash Awards
-Total (#)
-Reportable Disability %
-Without Reportable Disability %
-Targeted Disability
-%
-Without Targeted Disability %
-Cash Awards: $501 - $999: Awards Given
-1
-0.00
-7.69
-0.00
-0.00
-Cash Awards: $501 - $999: Total Amount
-731
-0.00
-5623.08
-0.00
-0.00
-Cash Awards: $501 - $999: Average Amount
-731
-0.00
-5623.08
-0.00
-0.00
-Cash Awards: $1000 - $1999: Awards Given
-3
-8.33
-15.38
-0.00
-20.00
-Cash Awards: $1000 - $1999: Total Amount
-4312
-13533.33
-20676.92
-0.00
-32480.00
-Cash Awards: $1000 - $1999: Average Amount
-1437
-13533.33
-10338.46
-0.00
-32480.00
-Cash Awards: $2000 - $2999: Awards Given
-2
-0.00
-15.38
-0.00
-0.00
-Cash Awards: $2000 - $2999: Total Amount
-4574
-0.00
-35184.62
-0.00
-0.00
-Cash Awards: $2000 - $2999: Average Amount
-2287
-0.00
-17592.31
-0.00
-0.00
-Cash Awards: $3000 - $3999: Awards Given
-2
-8.33
-7.69
-0.00
-20.00
-Cash Awards: $3000 - $3999: Total Amount
-6771
-28675.00
-25615.38
-0.00
-68820.00
-Cash Awards: $3000 - $3999: Average Amount
-3385
-28675.00
-25615.38
-0.00
-68820.00
-Cash Awards: $4000 - $4999: Awards Given
-3
-25.00
-0.00
-42.86
-0.00
-Cash Awards: $4000 - $4999: Total Amount
-13450
-112083.33
-0.00
-192142.86
-0.00
-Cash Awards: $4000 - $4999: Average Amount
-4483
-37358.33
-0.00
-64042.86
-0.00
-Cash Awards: $5000 or more: Awards Given
-14
-58.33
-46.15
-71.43
-40.00
-Cash Awards: $5000 or more: Total Amount
-159630
-808166.67
-418161.54
-1152228.57
-326480.00
-Cash Awards: $5000 or more: Average Amount
-11402
-115450.00
-69692.31
-230442.86
-\-45540.00
+| Cash Awards | Total (#) |Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|Cash Awards: $501 - $999: Awards Given|1|0.00|7.69|0.00|0.00|
+|Cash Awards: $501 - $999: Total Amount|731|0.00|5623.08|0.00|0.00|
+|Cash Awards: $501 - $999:    Average Amount|731|0.00|5623.08|0.00|0.00|
+|Cash Awards: $1000 - $1999:    Awards Given|3|8.33|15.38|0.00|20.00|
+|Cash Awards: $1000 - $1999: Total Amount|4312|13533.33|20676.92|0.00|32480.00|
+|Cash Awards: $1000 - $1999:    Average Amount|1437|13533.33|10338.46|0.00|32480.00|
+|Cash Awards: $2000 - $2999:    Awards Given|2|0.00|15.38|0.00|0.00|
+|Cash Awards: $2000 - $2999: Total Amount|4574|0.00|35184.62|0.00|0.00|
+|Cash Awards: $2000 - $2999:    Average Amount|2287|0.00|17592.31|0.00|0.00|
+|Cash Awards: $3000 - $3999:    Awards Given|2|8.33|7.69|0.00|20.00|
+|Cash Awards: $3000 - $3999: Total Amount|6771|28675.00|25615.38|0.00|68820.00|
+|Cash Awards: $3000 - $3999:    Average Amount|3385|28675.00|25615.38|0.00|68820.00|
+|Cash Awards: $4000 - $4999:    Awards Given|3|25.00|0.00|42.86|0.00|
+|Cash Awards: $4000 - $4999: Total Amount|13450|112083.33|0.00|192142.86|0.00|
+|Cash Awards: $4000 - $4999:    Average Amount|4483|37358.33|0.00|64042.86|0.00|
+|Cash Awards: $5000 or more:    Awards Given|14|58.33|46.15|71.43|40.00|
+|Cash Awards: $5000 or more: Total Amount|159630|808166.67|418161.54|1152228.57|326480.00|
+|Cash Awards: $5000 or more:    Average Amount|11402|115450.00|69692.31|230442.86|-45540.00|
+{: #t5c2 .data .usa-table }
 
 ##### 2. Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for quality step increases or performance- based pay increases? If “yes”, please describe the trigger(s) in the text box.
 
