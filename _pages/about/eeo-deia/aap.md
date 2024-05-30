@@ -36,10 +36,10 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 
 _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
 
-<table class="data" id="t12">
+<table class="data usa-table" id="t12"">
   <thead>
     <tr>
-      <th rowspan="2" scope="col">Grade Level Cluster<br>
+      <th rowspan="2" colspan="2" scope="col">Grade Level Cluster<br>
       (GS or Alternate Pay Plan b)</th>
       <th scope="col">Total</th>
       <th colspan="2">Reportable Disability</th>
@@ -55,12 +55,13 @@ _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Numerical Goal</th>
+      <th colspan="2" scope="rowgroup">Numerical Goal</th>
       <td>--</td>
       <th colspan="2" scope="col">12%</th>
       <th colspan="2" scope="col">2%</th>
     </tr>
     <tr>
+      <td>&nbsp;</td>
       <th scope="row">Grades GS-11 to SES</th>
       <td>25</td>
       <td>12</td>
@@ -69,6 +70,7 @@ _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
       <td>28.00</td>
     </tr>
     <tr>
+      <td>&nbsp;</td>
       <th scope="row">Grades GS-1 to GS-10</th>
       <td>2</td>
       <td>0</td>
