@@ -631,7 +631,7 @@ Without Targeted Disability %
 ##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities?&nbsp; (The appropriate benchmark is the inclusion rate.)&nbsp; If “yes”, describe the employee recognition program and relevant data in the text box.
     
 > a. Other Types of Recognition (PWD)
->> Answer N/A
+>> Answer: N/A
 
 > b. Other Types of Recognition (PWTD)
 >> Answer: N/A
@@ -645,7 +645,7 @@ _N/A_
 > a. SES
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
-> b. Internal Selections (PWD) Answer No
+> b. Internal Selections (PWD)
 >>> Answer: No
 
 >b. Grade GS-15
@@ -661,226 +661,162 @@ _N/A_
 >>> Answer: No
 
 > d. Grade GS-13
->> i. Qualified Internal Applicants (PWD) Answer No
+>> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
->> ii. Internal Selections (PWD) Answer No
+>> ii. Internal Selections (PWD)
 >>> Answer: No
 
 #### 2. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. SES
->> i. Qualified Internal Applicants (PWD)
+>> i. Qualified Internal Applicants (PWTD)
 >>> Answer: No
-> b. Internal Selections (PWD) Answer No
+> b. Internal Selections (PWTD)
 >>> Answer: No
 
 >b. Grade GS-15
+>> i. Qualified Internal Applicants (PWTD)
+>>> Answer: No
+>> ii. Internal Selections (PWTD)
+>>> Answer: No
+
+> c. Grade GS-14
+>> i. Qualified Internal Applicants (PWTD)
+>>> Answer: No
+> ii. Internal Selections (PWTD)
+>>> Answer: No
+
+> d. Grade GS-13
+>> i. Qualified Internal Applicants (PWTD)
+>>> Answer: No
+>> ii. Internal Selections (PWD)
+>>> Answer: No
+
+_N/A_
+
+#### 3. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+  
+> a. New Hires to SES (PWD)
+>> Answer: No
+
+> b. New Hires to GS-15 (PWD)
+>> Answer: No
+
+> c. New Hires to GS-14 (PWD)
+>> Answer: No
+
+> d. New Hires to GS-13 (PWD)
+>> Answer: No
+
+_N/A_
+
+#### 4. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels?&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+  
+> a. New Hires to SES (PWTD)
+>> Answer: No
+
+> b. New Hires to GS-15 (PWTD)
+>> Answer: No
+
+> c. New Hires to GS-14 (PWTD)
+>> Answer: No
+
+> d. New Hires to GS-13 (PWTD)
+>> Answer: No
+
+_N/A_
+
+##### 5. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to supervisory positions?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+
+> a. Executives
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
-> c. Grade GS-14
+> b. Managers
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
-> ii. Internal Selections (PWD)
+>> ii. Internal Selections (PWD)
 >>> Answer: No
 
-> d. Grade GS-13
->> i. Qualified Internal Applicants (PWD) Answer No
+> c. Supervisors
+>> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
->> ii. Internal Selections (PWD) Answer No
+>> ii. Internal Selections (PWD)
 >>> Answer: No
-     
+
 _N/A_
 
-#### 3. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    a. New Hires to SES (PWD)
-    
-    Answer
-    
-    No
-    
-    b. New Hires to GS-15 (PWD)
-    
-    Answer
-    
-    No
-    
-    c. New Hires to GS-14 (PWD)
-    
-    Answer
-    
-    No
-    
-    d. New Hires to GS-13 (PWD)
-    
-    Answer
-    
-    No
-    
-    N/A
-    
-     
-    
-     
-    
-2.  Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-     
-    
-     
-    
-    Answer Answer Answer Answer
-    
-    No No No No
-    
-    N/A
-    
-     
-    
-     
-    
-     
-    
-    1.  New Hires to SES (PWTD)
-        
-    2.  New Hires to GS-15 (PWTD)
-        
-    3.  New Hires to GS-14 (PWTD)
-        
-    4.  New Hires to GS-13 (PWTD)
-        
-3.  Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to supervisory
-    
-    positions? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    1.  Executives
-        
-        1.  Qualified Internal Applicants (PWD) Answer No
-            
-        2.  Internal Selections (PWD) Answer No
-            
-    2.  Managers
-        
-        i. Qualified Internal Applicants (PWD)
-        
-        Answer
-        
-        No
-        
-        ii. Internal Selections (PWD)
-        
-        Answer
-        
-        No
-        
-    3.  Supervisors
-        
-        1.  Qualified Internal Applicants (PWD) Answer No
-            
-        2.  Internal Selections (PWD) Answer No
-            
-            N/A
-            
+##### 6. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to supervisory positions? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
-1.  Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to supervisory positions? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    1.  Executives
-        
-        i. Qualified Internal Applicants (PWTD)
-        
-        Answer
-        
-        No
-        
-        ii. Internal Selections (PWTD)
-        
-        Answer
-        
-        No
-        
-    2.  Managers
-        
-        i. Qualified Internal Applicants (PWTD)
-        
-        Answer
-        
-        No
-        
-        ii. Internal Selections (PWTD)
-        
-        Answer
-        
-        No
-        
-    3.  Supervisors
-        
-        1.  Qualified Internal Applicants (PWTD) Answer No
-            
-        2.  Internal Selections (PWTD) Answer No
-            
-            N/A
-            
+> a. Executives
+>> i. Qualified Internal Applicants (PWD)
+>>> Answer: No
+>> ii. Internal Selections (PWD)
+>>> Answer: No
 
-1.  Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the selectees for new hires to supervisory positions? If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    a. New Hires for Executives (PWD)
-    
-    Answer
-    
-    No
-    
-    b. New Hires for Managers (PWD)
-    
-    Answer
-    
-    No
-    
-    c. New Hires for Supervisors (PWD)
-    
-    Answer
-    
-    No
-    
-    N/A
-    
-     
-    
-     
-    
-2.  Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the selectees for new hires to supervisory positions? If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-    
-    1.  New Hires for Executives (PWTD) Answer No
-        
-    2.  New Hires for Managers (PWTD) Answer No
-        
-    3.  New Hires for Supervisors (PWTD) Answer No
-        
+> b. Managers
+>> i. Qualified Internal Applicants (PWTD)
+>>> Answer: No
+>> ii. Internal Selections (PWTD)
+>>> Answer: No
 
-N/A
+> c. Supervisors
+>> i. Qualified Internal Applicants (PWTD)
+>>> Answer: No
+>> ii. Internal Selections (PWTD)
+>>> Answer: No
 
-## Section VI: Plan to Improve Retention of Persons with Disabilities
+_N/A_
+
+##### 7. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the selectees for new hires to supervisory positions? If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+
+> a. New Hires for Executives (PWD)
+>> Answer: No
+
+> b. New Hires for Managers (PWD)
+>> Answer: No
+
+> c. New Hires for Supervisors (PWD)
+>> Answer: No
+
+_N/A_
+ 
+##### 8. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the selectees for new hires to supervisory positions? If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+
+> a. New Hires for Executives (PWTD)
+>> Answer: No
+
+> b. New Hires for Managers (PWTD)
+>> Answer: No
+
+> c. New Hires for Supervisors (PWTD)
+>> Answer: No
+
+_N/A_
+
+### Section VI: Plan to Improve Retention of Persons with Disabilities
 
 To be model employer for persons with disabilities, agencies must have policies and programs in place to retain employees with disabilities. In this section, agencies should: (1) analyze workforce separation data to identify barriers retaining employees with disabilities; (2) describe efforts to ensure accessibility of technology and facilities; and (3) provide information on the reasonable accommodation program and workplace assistance services.
 
-### A. Voluntary and Involuntary Separations
+#### A. Voluntary and Involuntary Separations
 
-    1.  In this reporting period, did the agency convert all eligible Schedule A employees with a disability into the competitive service after two years of satisfactory service (5 C.F.R. § 213.3102(u)(6)(i))? If “no”, please explain why the agency did not convert all eligible Schedule A employees.
-        
-        Answer N/A
-        
-        N/A
-        
+##### 1. In this reporting period, did the agency convert all eligible Schedule A employees with a disability into the competitive service after two years of satisfactory service (5 C.F.R. § 213.3102(u)(6)(i))? If “no”, please explain why the agency did not convert all eligible Schedule A employees.
 
-1.  Using the inclusion rate as the benchmark, did the percentage of PWD among voluntary and involuntary separations exceed that of persons without disabilities? If “yes”, describe the trigger below.
-    
-    1.  Voluntary Separations (PWD) Answer No
-        
-    2.  Involuntary Separations (PWD) Answer No
-        
-        N/A
+> Answer: N/A
+
+_N/A_
+
+##### 2. Using the inclusion rate as the benchmark, did the percentage of PWD among voluntary and involuntary separations exceed that of persons without disabilities? If “yes”, describe the trigger below.
+
+> a. Voluntary Separations (PWD)
+>> Answer: No
+
+> b. Involuntary Separations (PWD)
+>> Answer: No
+
+_N/A_
         
 
 Seperations
@@ -939,14 +875,16 @@ Permanent Workforce: Total Separations
 
 10.00
 
-1.  Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
+##### 3.  Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
     
-    1.  Voluntary Separations (PWTD) Answer No
-        
-    2.  Involuntary Separations (PWTD) Answer No
-        
-        N/A
-        
+> a. Voluntary Separations (PWDT)
+>> Answer: No
+
+> b. Involuntary Separations (PWDT)
+>> Answer: No
+
+_N/A_
+
 
 Seperations
 
@@ -1016,16 +954,15 @@ Permanent Workforce: Total Separations
 
 7.14
 
-1.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
+##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
     
-    N/A
-    
+_N/A_
 
-### B. Accessibility of Technology and Facilities
+#### B. Accessibility of Technology and Facilities
 
-    Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform applicants and employees of their rights under Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. § 794(b), concerning the accessibility of agency technology, and the Architectural Barriers Act of 1968 (42 U.S.C. § 4151-4157), concerning the accessibility of agency facilities. In addition, agencies are required to inform individuals where to file complaints if other agencies are responsible for a violation.
+Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform applicants and employees of their rights under Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. § 794(b), concerning the accessibility of agency technology, and the Architectural Barriers Act of 1968 (42 U.S.C. § 4151-4157), concerning the accessibility of agency facilities. In addition, agencies are required to inform individuals where to file complaints if other agencies are responsible for a violation.
     
-    1.  Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
+    1.Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
         
         <https://www.access-board.gov/about/policy/accessibility.html>
         
