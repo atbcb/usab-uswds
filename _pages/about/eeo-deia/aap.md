@@ -757,6 +757,7 @@ _N/A_
 |Permanent Workforce: Retirement|3|10.00|5.00|
 |Permanent Workforce: Other Separations|0|0.00|0.00|
 |Permanent Workforce: Total Separations|4|10.00|10.00|
+{: #t6a2 .data .usa-table }
 
 ##### 3. Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
     
@@ -776,7 +777,7 @@ _N/A_
 |Permanent Workforce: Retirement|3|16.67|3.57|
 |Permanent Workforce: Other Separations|0|0.00|0.00|
 |Permanent Workforce: Total Separations|4|16.67|7.14|
-{: #t6a2 .data .usa-table }
+{: #t6a3 .data .usa-table }
 
 ##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
     
@@ -788,79 +789,80 @@ Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform app
     
 ##### 1. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
 
-> <https://www.access-board.gov/about/policy/accessibility.html>
-
+> _https://www.access-board.gov/about/policy/accessibility.html_
 
 ###### 2. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under the Architectural Barriers Act, including a description of how to file a complaint.
 
-> <https://www.access-board.gov/enforcement/>
+> _https://www.access-board.gov/enforcement/_
 
 ##### 3. Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
 
 _The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.&nbsp; Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency.&nbsp; To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA._
 
-### C. Reasonable Accommodation Program
+#### C. Reasonable Accommodation Program
 
-    Pursuant to 29 C.F.R. § 1614.203(d)(3), agencies must adopt, post on their public website, and make available to all job applicants and employees, reasonable accommodation procedures.
-    
-    1.  Please provide the average time frame for processing initial requests for reasonable accommodations during the reporting period. (Please do not include previously approved requests with repetitive accommodations, such as interpreting services.)
-        
-        21 days
-        
+Pursuant to 29 C.F.R. § 1614.203(d)(3), agencies must adopt, post on their public website, and make available to all job applicants and employees, reasonable accommodation procedures.
 
-1.  Describe the effectiveness of the policies, procedures, or practices to implement the agency’s reasonable accommodation program. Some examples of an effective program include timely processing requests, timely providing approved accommodations, conducting training for managers and supervisors, and monitoring accommodation requests for trends.
-    
-    The Access Board ensure all reasonable accommodations requests and approved requests are processed timely. Managers and supervisor are provide training during the monthly leadership meetings.
-    
-### D. Personal Assistance Services Allowing Employees to Participate in the Workplace    
+##### 1. Please provide the average time frame for processing initial requests for reasonable accommodations during the reporting period. (Please do not include previously approved requests with repetitive accommodations, such as interpreting services.)
 
-Pursuant to 29 CFR §1614.203(d)(5), federal agencies, as an aspect of affirmative action, are required to provide personal assistance services (PAS) to employees who need them because of a targeted disability, unless doing so would impose an undue hardship on the agency.
+_21 days_
+
+##### 2. Describe the effectiveness of the policies, procedures, or practices to implement the agency’s reasonable accommodation program. Some examples of an effective program include timely processing requests, timely providing approved accommodations, conducting training for managers and supervisors, and monitoring accommodation requests for trends.
+
+_The Access Board ensure all reasonable accommodations requests and approved requests are processed timely. Managers and supervisor are provide training during the monthly leadership meetings._
+
+#### D. Personal Assistance Services Allowing Employees to Participate in the Workplace    
+
+**Pursuant to 29 CFR §1614.203(d)(5), federal agencies, as an aspect of affirmative action, are required to provide personal assistance services (PAS) to employees who need them because of a targeted disability, unless doing so would impose an undue hardship on the agency.**
 
 Describe the effectiveness of the policies, procedures, or practices to implement the PAS requirement. Some examples of an effective program include timely processing requests for PAS, timely providing approved services, conducting training for managers and supervisors, and monitoring PAS requests for trends.
 
-The Access Board processing requests for PAS, timely providing approved services, conducting training for managers and supervisors, and monitoring PAS requests for trends.
+_The Access Board processing requests for PAS, timely providing approved services, conducting training for managers and supervisors, and monitoring PAS requests for trends._
 
-## Section VII: EEO Complaint and Findings Data
+### Section VII: EEO Complaint and Findings Data
 
-### EEO Complaint Data Involving Harassment
+#### A. EEO Complaint Data Involving Harassment
 
-1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging harassment, as compared to the governmentwide average?
+1. During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging harassment, as compared to the governmentwide average?
 > Answer: No
 
 2.  During the last fiscal year, did any complaints alleging harassment based on disability status result in a finding of discrimination or a settlement agreement?
-> Answer No
-  
-3.  If the agency had one or more findings of discrimination alleging harassment based on disability status during the last fiscal year, please describe the corrective measures taken by the agency.
-> N/A
+> Answer: No
 
-### B. EEO Complaint Data Involving Reasonable Accommodation    
+3.  If the agency had one or more findings of discrimination alleging harassment based on disability status during the last fiscal year, please describe the corrective measures taken by the agency.
+
+_N/A_
+
+#### B. EEO Complaint Data Involving Reasonable Accommodation    
 
 1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging failure to provide a reasonable accommodation, as compared to the government-wide average?
 > Answer: No
 
 2.  During the last fiscal year, did any complaints alleging failure to provide reasonable accommodation result in a finding of discrimination or a settlement agreement?   
 > Answer: No
- 
+
 3.  If the agency had one or more findings of discrimination involving the failure to provide a reasonable accommodation during the last fiscal year, please describe the corrective measures taken by the agency.
 > N/A
 
-## Section VIII: Identification and Removal of Barriers
+### Section VIII: Identification and Removal of Barriers
 
-_Element D of MD-715 requires agencies to conduct a barrier analysis when a trigger suggests that a policy, procedure, or practice may be impeding the employment opportunities of a protected EEO group._
+**Element D of MD-715 requires agencies to conduct a barrier analysis when a trigger suggests that a policy, procedure, or practice may be impeding the employment opportunities of a protected EEO group.**
 
-### 1.  Has the agency identified any barriers (policies, procedures, and/or practices) that affect employment opportunities for PWD and/or PWTD?
+1. Has the agency identified any barriers (policies, procedures, and/or practices) that affect employment opportunities for PWD and/or PWTD?
+> Answer: No
 
-Answer: No
+2. Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
+> Answer: Yes
 
-### 2.  Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
+3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
 
-Answer Yes
+#### Source of the Trigger:
 
-### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
+Workforce Data (if so identify the table)
 
-**Source of the Trigger:**  Workforce Data (if so identify the table)
+#### Specific Workforce Data Table:
 
-**Specific Workforce Data Table:**  Workforce Data Table -- B1
+Workforce Data Table -- B1
 
 #### Statement of Condition that was a Trigger for a Potential Barrier:
 
@@ -868,8 +870,8 @@ Provide a brief narrative describing the condition at issue.
 
 How was the condition recognized as a potential barrier?
 
-> A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD gaok at the GS 1-10 grades.  The Access Board only has 2 positions at the GS 1-10 grades.  The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
-    
+_A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD gaok at the GS 1-10 grades.  The Access Board only has 2 positions at the GS 1-10 grades.  The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
+
 #### Statement of Barrier Groups:    
 
 ##### Barrier Group:
@@ -888,88 +890,51 @@ No
 
 Provide a succinct statement of the agency policy, procedure or practice that has been determined to be the barrier of the undesired condition.
 
-#### Barrier Name
+##### Barrier Name
 
-PWTD GS 1-10
+_PWTD GS 1-10_
 
-#### Description of Policy, Procedure, or Practice
+##### Description of Policy, Procedure, or Practice
 
-N/A
+_N/A_
 
 #### Objective(s) and Dates for EEO Plan
-    
-    Date Initiated
-    
-    Target Date
-    
-    Sufficient Funding / Staffing?
-    
-    Date Modified
-    
-    Date Completed
-    
-    Objective Description
-    
-    03/06/2024
-    
-    01/15/2026
-    
-    Yes
-      
-    Increase PWTD in grade cluster GS 1-10.
-    
-   The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
+
+| Date Initiated | Target Date | Sufficient Funding / Staffing? | Date Modified | Date Completed | Objective Description |
+| :--- | :---  | :---: | :---  | :---  | :--- |
+| 03/06/2024 | 01/15/2026 | Yes | &nbsp; | &nbsp; | Increase PWTD in grade cluster GS 1-10. |
+| &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; | The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified. |
+{: .usa-table }
     
 #### Responsible Official(s)
-    
-    Title
-    
-    Name
-    
-    Standards Address The Plan?
-    
-    Chief of Staff/EEO Director
-    
-    Drucilla Gordon
-    
-    Yes
+
+| Title | Name | Standards Address The Plan? |
+| :--- | :---  | :---: |
+| Chief of Staff / EEO Director | Drucilla Gordon | Yes |
+{: .usa-table }
     
 #### Planned Activities Toward Completion of Objective
-    
-    Target Date
-    
-    Planned Activities
-    
-    Sufficient Staffing & Funding?
-    
-    Modified Date
-    
-    Completion Date
-    
-    01/15/2025
-    
-    Connect with other small agencies and disability organizations.
-    
-    Yes
-    
-     
-    
-     
-    
-    Report of Accomplishments
-    
-    Fiscal Year
-    
-    Accomplishment
-    
-### 4.  Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
 
-Multiple retirements, and changes in agency leadership.
+| Target Date | Planned Activities | Sufficient Staffing & Funding? | Modified Date | Completion Date |
+| :--- | :---  | :---: | :---  | :---  |
+| 01/15/2025 | Connect with other small agencies and disability organizations. | Yes | &nbsp; | &nbsp; |
+{: .usa-table }
 
-### 5.  For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
+#### Report of Accomplishments
+    
+| Fiscal Year |Accomplishment |
+| :--- | :---  |
+| &nbsp; | &nbsp; |
+{: .usa-table }
+    
+\4.Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
 
-Planned activities are unknow at this time.
+_Multiple retirements, and changes in agency leadership._
 
-### 6.  If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
+\5. For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
 
-The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified.
+_Planned activities are unknow at this time._
+
+\6. If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
+
+_The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
