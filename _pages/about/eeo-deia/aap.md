@@ -541,7 +541,7 @@ _N/A_
 _N/A_
 
 | Other Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 {: #t4cx .data .usa-table }
 
@@ -749,64 +749,16 @@ _N/A_
 
 _N/A_
         
+| Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
+| :---: | :---: | :---: | :---: |
+|Permanent Workforce: Reduction in Force|0|0.00|0.00|
+|Permanent Workforce: Removal|1|0.00|5.00|
+|Permanent Workforce: Resignation|0|0.00|0.00|
+|Permanent Workforce: Retirement|3|10.00|5.00|
+|Permanent Workforce: Other Separations|0|0.00|0.00|
+|Permanent Workforce: Total Separations|4|10.00|10.00|
 
-Seperations
-
-Total #
-
-Reportable Disabilities %
-
-Without Reportable Disabilities %
-
-Permanent Workforce: Reduction in Force
-
-0
-
-0.00
-
-0.00
-
-Permanent Workforce: Removal
-
-1
-
-0.00
-
-5.00
-
-Permanent Workforce: Resignation
-
-0
-
-0.00
-
-0.00
-
-Permanent Workforce: Retirement
-
-3
-
-10.00
-
-5.00
-
-Permanent Workforce: Other Separations
-
-0
-
-0.00
-
-0.00
-
-Permanent Workforce: Total Separations
-
-4
-
-10.00
-
-10.00
-
-##### 3.  Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
+##### 3. Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
     
 > a. Voluntary Separations (PWDT)
 >> Answer: No
@@ -816,74 +768,15 @@ Permanent Workforce: Total Separations
 
 _N/A_
 
-
-Seperations
-
-Total #
-
-Targeted Disabilities %
-
-Without Targeted Disabilities
-
-%
-
-Permanent Workforce: Reduction in Force
-
-0
-
-0.00
-
-0.00
-
-Permanent Workforce: Removal
-
-1
-
-0.00
-
-3.57
-
-Seperations
-
-Total #
-
-Targeted Disabilities %
-
-Without Targeted Disabilities
-
-%
-
-Permanent Workforce: Resignation
-
-0
-
-0.00
-
-0.00
-
-Permanent Workforce: Retirement
-
-3
-
-16.67
-
-3.57
-
-Permanent Workforce: Other Separations
-
-0
-
-0.00
-
-0.00
-
-Permanent Workforce: Total Separations
-
-4
-
-16.67
-
-7.14
+| Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
+| :---: | :---: | :---: | :---: |
+|Permanent Workforce: Reduction in Force|0|0.00|0.00|
+|Permanent Workforce: Removal|1|0.00|5.00|
+|Permanent Workforce: Resignation|0|0.00|0.00|
+|Permanent Workforce: Retirement|3|10.00|5.00|
+|Permanent Workforce: Other Separations|0|0.00|0.00|
+|Permanent Workforce: Total Separations|4|10.00|10.00|
+{: #t6a2 .data .usa-table }
 
 ##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
     
@@ -893,22 +786,18 @@ _N/A_
 
 Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform applicants and employees of their rights under Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. § 794(b), concerning the accessibility of agency technology, and the Architectural Barriers Act of 1968 (42 U.S.C. § 4151-4157), concerning the accessibility of agency facilities. In addition, agencies are required to inform individuals where to file complaints if other agencies are responsible for a violation.
     
-    1.Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
-        
-        <https://www.access-board.gov/about/policy/accessibility.html>
-        
+##### 1. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
 
-1.  Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under the
-    
-    Architectural Barriers Act, including a description of how to file a complaint.
-    
-    <https://www.access-board.gov/enforcement/>
-    
+> <https://www.access-board.gov/about/policy/accessibility.html>
 
-1.  Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
-    
-    The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act. Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency. To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA.
-    
+
+###### 2. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under the Architectural Barriers Act, including a description of how to file a complaint.
+
+> <https://www.access-board.gov/enforcement/>
+
+##### 3. Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
+
+_The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.&nbsp; Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency.&nbsp; To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA._
 
 ### C. Reasonable Accommodation Program
 
