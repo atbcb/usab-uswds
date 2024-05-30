@@ -336,30 +336,89 @@ _Developmental details are opened to employees.  All job vacancies are advertise
 
 ##### 2. In the table below, please provide the data for career development opportunities that require competition and/or supervisory recommendation / approval to participate.
 
-Career Development Opportunities
-Total Participants
-PWD
-PWTD
-Applicants (#)
-Selectees (#)
-Applicants (%)
-Selectees (%)
-Applicants (%)
-Selectees (%)
-Internship Programs
-Fellowship Programs
-Mentoring Programs
-Coaching Programs
-Training Programs
-Other Career Development Programs
-Detail Programs
-1
-1
-0
-0
-100
-100
-
+<table id="t5b2" class="data usa-table">
+  <thead>
+    <tr>
+      <th rowspan="2" scope="col">Career Development Opportunities</th>
+      <th colspan="2" scope="col">Total Participants</th>
+      <th colspan="2" scope="col">PWD</th>
+      <th colspan="2" scope="col">PWTD</th>
+    </tr>
+    <tr>
+      <th scope="col">Applicants (#)</th>
+      <th scope="col">Selectees (#)</th>
+      <th scope="col">Applicants (%)</th>
+      <th scope="col">Selectees (%)</th>
+      <th scope="col">Applicants (%)</th>
+      <th scope="col">Selectees (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Internship Programs</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Fellowship Programs</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Mentoring Programs</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Coaching Programs</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Training Programs</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Other Career Development Programs</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Detail Programs</th>
+      <td>1 </td>
+      <td>1 </td>
+      <td>0 </td>
+      <td>0 </td>
+      <td>100 </td>
+      <td>100 </td>
+    </tr>
+  </tbody>
+</table>
 ##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Applicants (PWD)
