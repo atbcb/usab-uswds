@@ -256,23 +256,53 @@ _The agency plans to identify and establish contacts with organizations that ass
 >> Answer:  No
 
 _N/A_
-            
-New Hires
-Total (#)
-Reportable Disability
-Targeted Disability
-Permanent Workforce
-(%)
-Temporary Workforce
-(%)
-Permanent Workforce
-(%)
-Temporary Workforce
-(%)
-% of Total Applicants
-% of Qualified Applicants
-% of New Hires
 
+<table id="t4c1" class="data usa-table">
+  <thead>
+    <tr>
+      <td rowspan="2">New Hires</td>
+      <th scope="col" rowspan="2">Total (#) </th>
+      <th colspan="2" scope="col">Reportable Disability</th>
+      <th colspan="2" scope="col">Targeted Disability</th>
+    </tr>
+    <tr>
+      <th scope="col">Permanent Workforce 
+        (%) </th>
+      <th scope="col">Temporary Workforce 
+        (%) </th>
+      <th scope="col">Permanent Workforce 
+        (%) </th>
+      <th scope="col">Temporary Workforce 
+        (%) </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">% of Total Applicants</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">% of Qualified Applicants</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">% of New Hires</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 ##### 2. Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
@@ -284,19 +314,29 @@ Temporary Workforce
 
 _N/A_
 
-New Hires to Mission-Critical Occupations
-Total
-Reportable Disability
-Targetable Disability
-New Hires
-New Hires
-(#)
-(%)
-(%)
-Numerical Goal
-\--
-12%
-2%
+<table id="t4c2" class="data usa-table">
+  <thead>
+    <tr>
+      <td rowspan="2">New Hires to Mission-Critical Occupations</td>
+      <th rowspan="2" scope="col">Total <br>
+        (#) </th>
+      <th scope="col">Reportable Disability</th>
+      <th scope="col">Targetable Disability</th>
+    </tr>
+    <tr>
+      <th scope="col">New Hires (#)</th>
+      <th scope="col">New Hires (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Numerical Goal</th>
+      <td>--</td>
+      <td>12% </td>
+      <td>2% </td>
+    </tr>
+  </tbody>
+</table>
 
 ##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
