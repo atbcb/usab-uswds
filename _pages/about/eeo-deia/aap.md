@@ -789,11 +789,11 @@ Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform app
     
 ##### 1. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
 
-> _https://www.access-board.gov/about/policy/accessibility.html_
+_https://www.access-board.gov/about/policy/accessibility.html_
 
 ###### 2. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under the Architectural Barriers Act, including a description of how to file a complaint.
 
-> _https://www.access-board.gov/enforcement/_
+_https://www.access-board.gov/enforcement/_
 
 ##### 3. Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
 
@@ -848,13 +848,13 @@ _N/A_
 
 **Element D of MD-715 requires agencies to conduct a barrier analysis when a trigger suggests that a policy, procedure, or practice may be impeding the employment opportunities of a protected EEO group.**
 
-1. Has the agency identified any barriers (policies, procedures, and/or practices) that affect employment opportunities for PWD and/or PWTD?
+##### 1. Has the agency identified any barriers (policies, procedures, and/or practices) that affect employment opportunities for PWD and/or PWTD?
 > Answer: No
 
-2. Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
+##### 2. Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
 > Answer: Yes
 
-3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
+##### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
 
 #### Source of the Trigger:
 
@@ -927,14 +927,14 @@ _N/A_
 | &nbsp; | &nbsp; |
 {: .usa-table }
     
-\4.Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
+##### 4. Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
 
 _Multiple retirements, and changes in agency leadership._
 
-\5. For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
+##### 5. For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
 
 _Planned activities are unknow at this time._
 
-\6. If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
+##### 6. If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
 
 _The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
