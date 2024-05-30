@@ -771,11 +771,11 @@ _N/A_
 | Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
 | :---: | :---: | :---: | :---: |
 |Permanent Workforce: Reduction in Force|0|0.00|0.00|
-|Permanent Workforce: Removal|1|0.00|5.00|
+|Permanent Workforce: Removal|1|0.00|3.57|
 |Permanent Workforce: Resignation|0|0.00|0.00|
-|Permanent Workforce: Retirement|3|10.00|5.00|
+|Permanent Workforce: Retirement|3|16.67|3.57|
 |Permanent Workforce: Other Separations|0|0.00|0.00|
-|Permanent Workforce: Total Separations|4|10.00|10.00|
+|Permanent Workforce: Total Separations|4|16.67|7.14|
 {: #t6a2 .data .usa-table }
 
 ##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
