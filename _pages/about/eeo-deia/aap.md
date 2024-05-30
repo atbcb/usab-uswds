@@ -16,7 +16,9 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 ##### 1. Using the goal of 12% as the benchmark, does your agency have a trigger involving PWD by grade level cluster in the permanent workforce? If “yes”, describe the trigger(s) in the text box.
 
 > a. Cluster GS-1 to GS-10 (PWD)
+>
 > Answer:  No
+> 
 > b. Cluster GS-11 to SES (PWD)
 > Answer:  No
 
@@ -29,6 +31,7 @@ To capture agencies’ affirmative action plan for persons with disabilities (PW
 > Answer:  Yes
 >
 > b. Cluster GS-11 to SES (PWTD)
+>
 > Answer: No
 
 _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
