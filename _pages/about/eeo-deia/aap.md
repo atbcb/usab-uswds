@@ -449,110 +449,27 @@ _N/A_
 
 _N/A_
 
-Time-Off Awards
-Total (#)
-Reportable Disability %
-Without Reportable Disability %
-Targeted Disability
-%
-Without Targeted Disability %
-Time-Off Awards 1 - 10 hours: Awards Given
-3
-8.33
-15.38
-14.29
-0.00
-Time-Off Awards 1 - 10 Hours: Total Hours
-24
-66.67
-123.08
-114.29
-0.00
-Time-Off Awards 1 - 10 Hours: Average Hours
-8
-66.67
-61.54
-114.29
-0.00
-Time-Off Awards 11 - 20 hours: Awards Given
-6
-33.33
-15.38
-28.57
-40.00
-Time-Off Awards 11 - 20 Hours: Total Hours
-96
-533.33
-246.15
-457.14
-640.00
-Time-Off Awards 11 - 20 Hours: Average Hours
-16
-133.33
-123.08
-228.57
-0.00
-Time-Off Awards 21 - 30 hours: Awards Given
-1
-0.00
-7.69
-0.00
-0.00
-Time-Off Awards 21 - 30 Hours: Total Hours
-24
-0.00
-184.62
-0.00
-0.00
-Time-Off Awards 21 - 30 Hours: Average Hours
-24
-0.00
-184.62
-0.00
-0.00
-Time-Off Awards 31 - 40 hours: Awards Given
-1
-8.33
-0.00
-14.29
-0.00
-Time-Off Awards 31 - 40 Hours: Total Hours
-40
-333.33
-0.00
-571.43
-0.00
-Time-Off Awards 31 - 40 Hours: Average Hours
-40
-333.33
-0.00
-571.43
-0.00
-Time-Off Awards
-Total (#)
-Reportable Disability %
-Without Reportable Disability %
-Targeted Disability
-%
-Without Targeted Disability %
-Time-Off Awards 41 or more Hours: Awards Given
-0
-0.00
-0.00
-0.00
-0.00
-Time-Off Awards 41 or more Hours: Total Hours
-0
-0.00
-0.00
-0.00
-0.00
-Time-Off Awards 41 or more Hours: Average Hours
-0
-0.00
-0.00
-0.00
-0.00
+
+
+| Time-Off Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|Time-Off Awards    1 - 10 hours: Awards    Given|3|8.33|15.38|14.29|0.00|
+|Time-Off Awards    1 - 10 Hours: Total Hours|24|66.67|123.08|114.29|0.00|
+|Time-Off Awards    1 - 10 Hours: Average    Hours|8|66.67|61.54|114.29|0.00|
+|Time-Off Awards    11 - 20 hours: Awards    Given|6|33.33|15.38|28.57|40.00|
+|Time-Off Awards    11 - 20 Hours: Total Hours|96|533.33|246.15|457.14|640.00|
+|Time-Off Awards    11 - 20 Hours: Average    Hours|16|133.33|123.08|228.57|0.00|
+|Time-Off Awards    21 - 30 hours: Awards    Given|1|0.00|7.69|0.00|0.00|
+|Time-Off Awards    21 - 30 Hours: Total Hours|24|0.00|184.62|0.00|0.00|
+|Time-Off Awards    21 - 30 Hours: Average    Hours|24|0.00|184.62|0.00|0.00|
+|Time-Off Awards    31 - 40 hours: Awards    Given|1|8.33|0.00|14.29|0.00|
+|Time-Off Awards    31 - 40 Hours: Total Hours|40|333.33|0.00|571.43|0.00|
+|Time-Off Awards    31 - 40 Hours: Average    Hours|40|333.33|0.00|571.43|0.00|
+|Time-Off Awards    41 or more Hours: Awards Given|0|0.00|0.00|0.00|0.00|
+|Time-Off Awards    41 or more Hours: Total Hours|0|0.00|0.00|0.00|0.00|
+|Time-Off Awards    41 or more Hours: Average Hours|0|0.00|0.00|0.00|0.00|
+{: #t5c1 .data .usa-table }
+
 Cash Awards
 Total (#)
 Reportable Disability %
