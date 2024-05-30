@@ -300,11 +300,11 @@ Numerical Goal
 
 ##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
-\a. Qualified Applicants for MCO (PWD)
-Answer: No
-      
-\b. Qualified Applicants for MCO (PWTD)
-Answer: No
+> a. Qualified Applicants for MCO (PWD)
+>> Answer: No
+
+> b. Qualified Applicants for MCO (PWTD)
+>> Answer: No
 
 _N/A_
 
