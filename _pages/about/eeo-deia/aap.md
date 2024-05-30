@@ -656,7 +656,7 @@ _N/A_
 >> i. Qualified Internal Applicants (PWD)
 >>> Answer: No
 >
-> ii. Internal Selections (PWD)
+>> ii. Internal Selections (PWD)
 >>> Answer: No
 
 > d. Grade GS-13
