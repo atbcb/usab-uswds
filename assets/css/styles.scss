@@ -441,6 +441,7 @@ div.advisory p.last {
     margin: 0;
     color: #000;
     background-color: #fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 12pt;
   }
   //black text
@@ -455,7 +456,7 @@ div.advisory p.last {
     page-break-inside: avoid;
   }
   //do not print
-  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip {
+  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip, #ta-box {
     display: none !important;
   }
   //include URL after links
@@ -485,6 +486,20 @@ div.advisory p.last {
     max-width: 2rem;
     height: auto;
   }
+}
+//accordion alternative for EV TA
+details > summary {
+  padding: 4px;
+  width: 90%;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;	
+}
+
+details > p {
+  padding: 4px;
+  margin: 12px;
 }
 
 // Board member and staff profile cards
