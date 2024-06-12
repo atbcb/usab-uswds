@@ -4,7 +4,7 @@ first_name: Tim
 last_name: Creagan
 full_name: Tim Creagan
 pronouns: he, his, him
-image: /images/uploads/tim-creagan.png
+image: /images/uploads/tim-creagan.jpg
 job-title: Senior Accessibility Specialist
 office: Office of Technical and Information Services
 agency: ""
