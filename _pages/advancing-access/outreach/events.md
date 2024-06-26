@@ -16,19 +16,19 @@ The next meeting of the Board is scheduled for Wednesday, July 24, 2024 beginnin
 
 **Public Meeting of the U.S. Access Board**
 July 24, 2024\
-1:30 – 3:00 p.m. (ET)\
+1:30 – 3:00 p.m. (ET)
 
 ***In-Person Attendance Information***
 U.S. Access Board Conference Space\
 1331 F Street, NW, Suite 800\
 Washington, D.C. 20004\
-Note: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.\
+Note: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
 
 ***Virtual Attendance Information***
 Meeting link: [https://www.zoomgov.com/j/1607682142](https://www.zoomgov.com/j/1607682142)\
 Meeting ID: 160 768 2142\
 Dial in: 1-646-828-7666\
-Contact: [events@access-board.gov](events@access-board.gov)\
+Contact: [events@access-board.gov](events@access-board.gov)
 
 ***Agenda***
 - Introductory Remarks
