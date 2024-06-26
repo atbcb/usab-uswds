@@ -28,7 +28,7 @@ Note: For the comfort of all participants and to promote a [fragrance-free envir
 Meeting link: [https://www.zoomgov.com/j/1607682142](https://www.zoomgov.com/j/1607682142)\
 Meeting ID: 160 768 2142\
 Dial in: 1-646-828-7666\
-Contact: [events@access-board.gov](events@access-board.gov)
+Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
 ***Agenda***
 - Introductory Remarks
