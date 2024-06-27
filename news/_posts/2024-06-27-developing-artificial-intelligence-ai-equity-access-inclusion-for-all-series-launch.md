@@ -8,9 +8,7 @@ excerpt: Artificial Intelligence (AI) can increase accessibility, but without
   To address equity and accessibility, the Access Board was tasked with several
   actions in the Executive Order on the Safe, Secure, and Trustworthy
   Development and Use of Artificial Intelligence. The Board signed a Memorandum
-  of Understanding (MOU) in May of 2024, with the [American Association of
-  People with Disabilities (AAPD)](https://www.aapd.com/) and the [Center for
-  Democracy & Technology (CDT)](https://cdt.org/) to ensure . . .
+  of Understanding (MOU) in May of 2024 . . .
 image: /images/uploads/computer-with-wires.png
 image_alt_text: Minimalist graphic of a blue laptop with red wires spreading outwards from it.
 featured: true
