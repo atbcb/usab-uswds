@@ -13,7 +13,7 @@ image_alt_text: "Access Board Members and staff sit at a large conference table.
   Behind them is a screen with the following caption: Tari, good morning,
   everyone, thank you to the Academy for letting us be part of this. Thank you,
   Meredith, for welcoming us here. We're from the U.S. Access Board."
-featured: true
+featured: false
 ---
 Each year, the U.S. Access Board visits a city outside of Washington, D.C. to learn about the state of accessibility around the country. During the week of April 15th, the Access Board traveled to Los Angeles, where Members learned about the state of accessibility in the film and television industries, among other topics.
 
