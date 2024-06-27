@@ -11,7 +11,7 @@ excerpt: The U.S. Access Board seeks a Supervisory IT Program Manager
 image: /images/uploads/ab-seal.png
 image_alt_text: U.S. Access Board logo. A blue star with a folded red top point.
   The words, United States Access Board, wrap around the star.
-featured: true
+featured: false
 ---
 The U.S. Access Board seeks a Supervisory IT Program Manager GS-2210-15. A successful candidate will oversee and coordinate the Access Board's Information Technology (IT) program, policies, and projects. They will be responsible for policy, planning, development, implementation, and monitoring of all IT management, strategic plans, policy, and budget activities of the Board including development and issuance and award of IT contracts, review of deliverables, and providing overall project and fiscal management. More information about the position is in the [vacancy announcement](https://www.usajobs.gov/job/793146200).
 
