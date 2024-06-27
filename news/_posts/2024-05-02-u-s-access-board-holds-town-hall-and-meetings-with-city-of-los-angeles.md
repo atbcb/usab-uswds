@@ -9,7 +9,7 @@ excerpt: Each year, the U.S. Access Board visits a city outside of Washington,
   from residents, advocates, and local government leaders . . .
 image: /images/uploads/town-hall-audience.jpg
 image_alt_text: Over 100 attendees sit in rows while in attendance at the town hall.
-featured: true
+featured: false
 ---
 Each year, the U.S. Access Board visits a city outside of Washington, D.C. to learn about the state of accessibility around the country. During the week of April 15th, the Access Board traveled to Los Angeles for its 2024 out-of-town Board meeting with two main goals. First, the Board sought to hear from residents, advocates, and local government leaders regarding key accessibility issues in the region. A summary of these meetings follows below. Second, the Board sought to understand accessibility issues in entertainment—one of Los Angeles’s key industries. Details regarding those meetings will be provided in a subsequent release.
 
