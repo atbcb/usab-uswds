@@ -3,17 +3,18 @@ layout: post
 title: U.S. Access Board Meeting on July 24
 date: 2024-06-28
 excerpt: All are welcome to attend the public session of the next meeting of the
-  U.S. Access Board, which will be open to the public and take place on July 24
-  from 1:30 – 3:00 p.m. (ET). The agenda for the session includes election of
-  officers, brief reports from standing Board committees and the Executive
-  Director, federal agency updates . . .
+  U.S. Access Board, which will be open to the public and take place on **July
+  24** from **1:30 – 3:00 p.m. (ET)**. The agenda for the session includes
+  election of officers, brief reports from standing Board committees and the
+  Executive Director, federal agency updates, and a presentation by nine-time
+  Paralympian Candace Cable . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: Photo of Board meeting on laptop screen.
 featured: true
 ---
 All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **July 24** from **1:30 – 3:00 p.m. (ET)**. The agenda for the session includes election of officers, brief reports from standing Board committees and the Executive Director, federal agency updates, and a presentation by nine-time Paralympian Candace Cable.
 
-Members of the public may attend and listen to the session through the [Zoom.gov platform,](https://www.zoomgov.com/j/1607805452 "external link") by phone, or in person at the Board’s Washington D.C. Conference Space. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
+Members of the public may attend and listen to the session through the [Zoom.gov platform,](https://www.zoomgov.com/j/1607682142) by phone, or in person at the Board’s Washington D.C. Conference Space. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
 
 **Public Meeting of the U.S. Access Board**  \
 July 24, 2024 \
@@ -33,6 +34,7 @@ Dial in: 1-646-828-7666  \
 Contact: [events@access-board.gov](mailto:events@access-board.gov)    
 
 ***Agenda***
+
 * Introductory Remarks
 * Election of Officers
 * Executive Director’s Report
