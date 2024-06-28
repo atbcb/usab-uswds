@@ -12,7 +12,7 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for Wednesday, July 24, 2024 beginning at 1:30 p.m. (ET). The agenda for this session includes election of officers, brief reports from standing Board committees and the Executive Director, and federal agency updates. Members of the public may listen to the meeting [virtually via Zoom](https://www.zoomgov.com/j/1607682142), phone, or in person at the Board’s office at 1331 F Street NW, Suite 800, Washington, DC 20004.
+The next meeting of the Board is scheduled for Wednesday, July 24, 2024 beginning at 1:30 p.m. (ET). The agenda for this session includes election of officers, brief reports from standing Board committees and the Executive Director, federal agency updates, and a presentation by nine-time Paralympian Candace Cable. Members of the public may listen to the meeting [virtually via Zoom](https://www.zoomgov.com/j/1607682142), phone, or in person at the Board’s office at 1331 F Street NW, Suite 800, Washington, DC 20004.
 
 **Public Meeting of the U.S. Access Board**\
 July 24, 2024\
@@ -35,6 +35,7 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)
 - Election of Officers
 - Executive Director’s Report
 - Los Angeles Board Meeting Report
+- Accessibility at the Olympics and Paralympics (Candace Cable)
 - Standing Committee Reports
 - Election Assistance Commission
 - Federal Agency Updates
