@@ -35,7 +35,7 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)
 - Election of Officers
 - Executive Director’s Report
 - Los Angeles Board Meeting Report
-- Accessibility at the Olympics and Paralympics (Cadace Cable)
+- Accessibility at the Olympics and Paralympics (Candace Cable)
 - Standing Committee Reports
 - Election Assistance Commission
 - Federal Agency Updates
