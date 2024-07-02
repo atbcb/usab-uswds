@@ -6,9 +6,8 @@ excerpt: With great sadness, the U.S. Access Board mourns the passing of former
   Board Member and longtime disability advocate, Jan Tuck. Appointed by
   President George W. Bush in 2002, Tuck served as Chair of the Board twice
   during her term. Her remarkable legacy of disability advocacy was evident in
-  her service on the [Passenger Vessels Access Advisory
-  Committee](https://www.access-board.gov/advisory-committee-reports/passenger-vessels/pvaac-report-intro/),
-  where she . . .
+  her service on the Passenger Vessels Access Advisory Committee, where she . .
+  .
 image: /images/uploads/jan-tuck.jpg
 image_alt_text: Headshot of Jan Tuck wearing a white and pink floral shirt with
   a pink undershirt.
