@@ -15,7 +15,7 @@ image_alt_text: Access Board Executive Director Sachin Pavithran, President and
   sign the MOU. They sit at a table with a blue tablecloth that has the Access
   Board logo on it. Behind them is a banner with a repeating pattern of the
   Board's logo next to the flag of the United States.
-featured: true
+featured: false
 ---
 Artificial Intelligence (AI) can increase accessibility, but it can also create barriers for people with disabilities. To address equity and accessibility, the Access Board was tasked with several actions in the [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)*.* The U.S. Access Board signed a [Memorandum of Understanding (MOU)](https://www.access-board.gov/ai-mou/) today, Wednesday, May 15, 2024, with the American Association of People with Disabilities (AAPD) and the Center for Democracy & Technology (CDT) to ensure that the disability community is engaged and supported through education and resources related to AI. The signing took place at the Board’s office in Washington, D.C.
 
