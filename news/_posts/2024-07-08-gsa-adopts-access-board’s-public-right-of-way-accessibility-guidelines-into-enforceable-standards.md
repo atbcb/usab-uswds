@@ -8,7 +8,7 @@ excerpt: "On July 3, the General Services Administration (GSA) issued a final
   (PROWAG) as part of the Architectural Barriers Act Accessibility Standards
   (ABAAS). The Architectural Barriers Act (ABA) is a civil rights law that
   requires federally constructed or leased facilities, and certain facilities
-  constructed or leased with federal funds, to be accessible "
+  constructed or leased with federal funds, to be accessible . . . "
 image: /images/uploads/gsa-logo.png
 image_alt_text: Logo of the General Services Administration. A blue square with
   the letters GSA in white taking up the bottom two thirds. The center of the
