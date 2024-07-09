@@ -26,4 +26,5 @@ July 9, 2024, 3:00 PM – 4:00 PM (E.T.)\
 Zoom: <https://www.zoomgov.com/j/1611118384>\
 Meeting ID: 161 111 8384\
 Dial in: +1 646-828-7666\
-Livestream: <https://youtube.com/live/lmAZeyJAQFc?feature=share>
+Livestream: <https://youtube.com/live/lmAZeyJAQFc?feature=share>\
+Presentation is available for [download from Box.com](https://usa-accessboard.box.com/s/aovk8v7a0xe1peb5y02jpe1hbb0e7dj4) (pptx, 7mb)
