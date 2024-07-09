@@ -14,7 +14,7 @@ image_alt_text: Graphic of a desk microphone. The base of the stand has two
   prongs and a red button on each prong.
 featured: true
 ---
-As part of the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, the Access Board is holding public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. This series stems from the Board’s [Memorandum of Understanding](https://www.access-board.gov/news/2024/05/15/u-s-access-board-holds-signing-of-artificial-intelligence-memorandum-of-understanding-with-disability-and-technology-partners/) with the [American Association of People with Disabilities (AAPD)](https://www.aapd.com/) and the [Center for Democracy & Technology (](https://cdt.org/)[CDT](<>)). In total, three virtual hearing sessions will take place: two for the disability community (on August 8) and one for federal agency and AI industry practitioners (on August 22).
+As part of the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, the Access Board is holding public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. This series stems from the Board’s [Memorandum of Understanding](https://www.access-board.gov/news/2024/05/15/u-s-access-board-holds-signing-of-artificial-intelligence-memorandum-of-understanding-with-disability-and-technology-partners/) with the [American Association of People with Disabilities (AAPD)](https://www.aapd.com/) and the [Center for Democracy & Technology (CDT)](https://cdt.org/). In total, three virtual hearing sessions will take place: two for the disability community (on August 8) and one for federal agency and AI industry practitioners (on August 22).
 
 The hearings support the Access Board’s work in fulfilling the [Executive Order on the Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
 
@@ -25,7 +25,6 @@ The hearings support the Access Board’s work in fulfilling the [Executive Orde
   * August 8, 2024, at 10:00 – 12:00 PM and 2:00 – 4:00 PM ET
   * Link: <https://www.zoomgov.com/j/1600399391>
   * Meeting ID: 160 039 9391, No passcode
-
 * **Federal Agency and Industry Practitioner Hearing:**
 
   * August 22, 2024, at 2:00 – 4:00 PM ET
@@ -38,25 +37,27 @@ Real time captioning and sign language interpreting is provided online for all h
 
 **Speaker Registration for August 8, 2024, Disability Community Hearings:**
 
-* Email Speaker Registration Request to [events@access-board.gov](mailto:events@access-board.gov) [with](<>):
-* Subject Line: “8/8/24 Disability Community Speaker Registration
-* Hearing Session: Please note AM or PM session.
-* Your name
-* Organization
-* Specific AI Topic (Disability Perspectives on AI Equity, Access & Inclusion)
+* Email Speaker Registration Request to [events@access-board.gov](mailto:events@access-board.gov) with:
+
+  * Subject Line: “8/8/24 Disability Community Speaker Registration"
+  * Hearing Session: Please note AM or PM session.
+  * Your name
+  * Organization
+  * Specific AI Topic (Disability Perspectives on AI Equity, Access & Inclusion)
 
 **Speaker Registration for August 22, 2024, Practitioner Hearing:**
 
-* Email Speaker Registration Request to [events@access-board.gov](mailto:events@access-board.gov) [with](<>):
-* Subject Line: “8/22/24) AI Practitioner/Fed Agency Speaker Registration
-* Your name
-* Organization
-* Specific AI topic (Best practices in AI equity, access, and inclusion)
+* Email Speaker Registration Request to [events@access-board.gov](mailto:events@access-board.gov) with:
+
+  * Subject Line: “8/22/24 AI Practitioner/Fed Agency Speaker Registration"
+  * Your name
+  * Organization
+  * Specific AI topic (Best practices in AI equity, access, and inclusion)
 
 **Written public comments will be accepted until August 31, 2024:**
 
 * Email Public Comments to: [events@access-board.gov](mailto:events@access-board.gov)
-* Include "**AI Written Comment**" in the subject line.
+* Include "AI Written Comment" in the subject line.
 * Include your name, organization if applicable, and specific AI topic with your comment.
 * Written comments are limited to 300 words.
 
