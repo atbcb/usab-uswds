@@ -24,7 +24,7 @@ Every year, the Board elects officers, including a new Chair and Vice-Chair, whi
     <img src="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png" alt="Headshot of Katy Kale. Behind her is a white backdrop with an American flag. She is wearing a black blouse." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Katy Kale.</em>
+    <em>Katy Kale</em>
   </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Under the Obama Administration, Kale was a senior leader who served as Assistant
     <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Elver Ariza-Silva. Behind him is a bus. The photo is monochrome." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Elver Ariza-Silva.</em>
+    <em>Elver Ariza-Silva</em>
   </figcaption>
 </figure>
 
