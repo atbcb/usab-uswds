@@ -20,8 +20,8 @@ At its July meeting, the U.S. Access Board elected Katy Kale as its new Chair an
 Every year, the Board elects officers, including a new Chair and Vice-Chair, which alternate between a Public Member and a Federal Member. As Chair, Kale succeeds attorney and accessibility consultant Gregory S. Fehribach, and Ariza-Silva succeeds Kale as Vice-Chair.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/katy-kale-with-border.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/katy-kale-with-border.jpg" alt="Headshot of Katy Kale. Behind her is a white backdrop with an American flag. She is wearing a black blouse." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png" alt="Headshot of Katy Kale. Behind her is a white backdrop with an American flag. She is wearing a black blouse." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Katy Kale.</em>
@@ -37,8 +37,8 @@ Prior to serving as the Deputy Administrator and Acting Administrator of GSA, Ka
 Under the Obama Administration, Kale was a senior leader who served as Assistant to the President for Management and Administration, Director of White House Operations, and Chief of Staff of GSA. She also served 10 years in the United States Senate working on operational and legislative issues for several senators. Kale is a graduate of George Mason University.
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.jpg" alt="Headshot of Elver Ariza-Silva. Behind him is a bus. The photo is monochrome." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Elver Ariza-Silva. Behind him is a bus. The photo is monochrome." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Elver Ariza-Silva.</em>
