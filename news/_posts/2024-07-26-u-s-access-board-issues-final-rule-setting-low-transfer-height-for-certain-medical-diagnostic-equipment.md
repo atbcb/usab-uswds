@@ -5,15 +5,14 @@ title: U.S. Access Board Issues Final Rule Setting Low Transfer Height for
 date: 2024-07-26
 excerpt: On July 25, the U.S. Access board issued a final rule specifying a low
   transfer height of 17 inches for medical diagnostic equipment (MDE) used in
-  the supine, prone, side-lying, and the seated position. related to the low
-  height specifications for transfer surfaces. The rule removes the sunset
+  the supine, prone, side-lying, and the seated position. The rule removes the sunset
   provisions in the Board's existing 2017 accessibility standards for MDE, which
-  allowed for a low transfer height of between 17 and 19 inches . . .
+  allowed for a low transfer height of between 17 and 19 inches. The final rule, which amends 36 CFR part 1195, is effective September 23, 2024 . . .
 image: /images/uploads/diagnostic-room.jpg
 image_alt_text: Medical room with diagnostic equipment
 featured: true
 ---
-On July 25, the U.S. Access board issued a [final rule](https://www.federalregister.gov/documents/2024/07/25/2024-16266/standards-for-accessible-medical-diagnostic-equipment) specifying a low transfer height of 17 inches for medical diagnostic equipment (MDE) used in the supine, prone, side-lying, and the seated position. related to the low height specifications for transfer surfaces. The rule removes the sunset provisions in the Board's existing [2017 accessibility standards](https://www.regulations.gov/document/ATBCB-2012-0003-0077) for MDE, which allowed for a low transfer height of between 17 and 19 inches. The final rule, which amends [36 CFR part 1195](https://www.ecfr.gov/current/title-36/part-1195), is effective September 23, 2024.
+On July 25, the U.S. Access board issued a [final rule](https://www.federalregister.gov/documents/2024/07/25/2024-16266/standards-for-accessible-medical-diagnostic-equipment) specifying a low transfer height of 17 inches for medical diagnostic equipment (MDE) used in the supine, prone, side-lying, and the seated position. The rule removes the sunset provisions in the Board's existing [2017 accessibility standards](https://www.regulations.gov/document/ATBCB-2012-0003-0077) for MDE, which allowed for a low transfer height of between 17 and 19 inches. The final rule, which amends [36 CFR part 1195](https://www.ecfr.gov/current/title-36/part-1195), is effective September 23, 2024.
 
 “The Access Board is proud to issue these guidelines as a positive step toward equal access to healthcare for people with disabilities in America,” remarked Executive Director Sachin Pavithran. “Technical guidance on transfer heights of medical diagnostic equipment is crucial to ensure people with disabilities have timely and equitable access to diagnostic testing, exams, and critical medical services.”
 
