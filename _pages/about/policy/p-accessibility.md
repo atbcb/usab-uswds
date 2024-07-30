@@ -30,7 +30,7 @@ If you would like to file a Section 508 related complaint, please contact Dru Go
 
 Questions about accessibility of information and communication technologies may be directed to <508@access-board.gov>.
 
-### Related Policies and Procedues
+### Related Policies and procedures
 
 - Information about our [reasonable accommodations procedures]({{site.baserurl}}/about/policy/ra.html) for Federal employees and job applicants.
 - USAB has [other organizational policies]({{site.baseurl}}/about/policy/) and procedures which relate to digital accessibility.
