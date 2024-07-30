@@ -16,7 +16,7 @@ The Section 508 standards are the technical requirements and criteria that are u
 
 In addition to features necessary for supporting the Revised Section 508 Standards and WCAG 2.0 Level AA, section headings are used to organize the content, and all videos incorporate descriptive narration in addition to captioning. In developing our site, templates are subjected to automated and end-user testing. New content is subjected to expert inspection.  Content updates are checked for accessibility before being deployed.
 
-Our website content is provided primarly in HTML format.  Accessible PDF (Portable Document Format) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](https://get.adobe.com/reader/).  No endorsement is implied.
+Our website content is provided primarily in HTML format.  Accessible PDF (Portable Document Format) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](https://get.adobe.com/reader/).  No endorsement is implied.
 
 Our Section 508 coordinator and webmaster is Bruce Bailey.  If you have feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact Bruce at <bailey@access-board.gov>; phone 1-202-272-0024.  If applicable, please include the webpage URL and the specific problems you have encountered.
 
@@ -30,10 +30,16 @@ If you would like to file a Section 508 related complaint, please contact Dru Go
 
 Questions about accessibility of information and communication technologies may be directed to <508@access-board.gov>.
 
+### Related Policies and Procedues
+
+- Information about our [reasonable accommodations procedures]({{site.baserurl}}/about/policy/ra.html) for Federal employees and job applicants.
+- USAB has [other organizational policies]({{site.baseurl}}/about/policy/) and procedures which relate to digital accessibility.
+- Instead of making a voice call, one may use [telecommunications relay service](https://www.fcc.gov/consumers/guides/711-telecommunications-relay-service) (TRS) by dialing 711 from any TTY or voice telephone within the continental United States.
+
 ### Architectural Barriers Act of 1968 (42 U.S.C. §§ 4151-57)
 
-The Architectural Barriers Act of 1968 (ABA) requires facilities that are designed, constructed altered, or leased with federal funds to conform to accessibility standards promulgated pursuant to the ABA. The U.S. Access Board is the federal agency responsible for enforcement of the ABA and the issuance of accessibility guidelines that are subsequently adopted by agencies as ABA standards. Apart from its enforcement obligations, the Access Board is committed to ensuring that its own facilities conform to applicable accessibility standards, specifically the Architectural Barriers Act Accessibility Standards (ABAAS) adopted by the U.S. General Services Administration in [Federal Management Regulation §102-76.65](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation-fmr/i445613#i445698). The ABAAS is available on our [ABAAS webpage](http://www.access-board.gov/aba). For additional information on the ABA, or to file a complaint alleging violations of applicable ABA standards, visit our website at [access-board.gov/enforcement](https://www.access-board.gov/enforcement) or e-mail us at <enforce@access-board.gov>. 
+The Architectural Barriers Act of 1968 (ABA) requires facilities that are designed, constructed altered, or leased with federal funds to conform to accessibility standards promulgated pursuant to the ABA. The U.S. Access Board is the federal agency responsible for enforcement of the ABA and the issuance of accessibility guidelines that are subsequently adopted by agencies as ABA standards. Apart from its enforcement obligations, the Access Board is committed to ensuring that its own facilities conform to applicable accessibility standards, specifically the Architectural Barriers Act Accessibility Standards (ABAAS) adopted by the U.S. General Services Administration in [Federal Management Regulation §102-76.65](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation-fmr/i445613#i445698). The ABAAS is available on our [ABAAS webpage]({{site.baserurl}}/aba). For additional information on the ABA, or to file a complaint alleging violations of applicable ABA standards, visit our website at [access-board.gov/enforcement]({{site.baserurl}}/enforcement) or e-mail us at <enforce@access-board.gov>. 
 
 --- 
 
-Page reviewed and updated 12 February 2024.
+Page reviewed and updated 30 July 2024.
