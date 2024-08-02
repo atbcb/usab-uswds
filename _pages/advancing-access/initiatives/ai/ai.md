@@ -14,7 +14,7 @@ The [Center for Democracy & Technology (CDT)](https://cdt.org/) is a nonpartisan
 
 ### Memorandum of Understanding
 
-[The MOU]({{ site.baseurl }}/ai-mou/) will ensure that the Access Board collaborates with AAPD and CDT collaborate and implement three key activities within their partnership that include:
+[The MOU]({{ site.baseurl }}/ai-mou/) will ensure that the Access Board collaborates with AAPD and CDT to develop and implement three key activities within their partnership that include:
 
 - Establishing opportunities that promote solidarity, relationship-building and information sharing across disability and technology communities.
 - Identifying and developing possible solutions to potential or existing civil rights concerns, accessibility barriers, and risks of AI.
