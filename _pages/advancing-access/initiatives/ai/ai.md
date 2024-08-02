@@ -68,7 +68,7 @@ No pre-registration is required to attend any of the hearings. Individuals who w
 * Include your name, organization if applicable, and specific AI topic with your comment.
 * Written comments are limited to 300 words.
 
-Subscribe to “[Access Board News](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1)” to receive updates and reminders on the public hearings and other events. Press inquiries can be directed to Amy Nieves, Public Affairs Specialist at [news@access-board.gov](mailto:News@access-board.gov).
+Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1) to receive updates and reminders on the public hearings and other events. Press inquiries can be directed to Amy Nieves, Public Affairs Specialist at [news@access-board.gov](mailto:News@access-board.gov).
 
 ### Meeting Archives
 
