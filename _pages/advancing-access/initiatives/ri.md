@@ -37,16 +37,6 @@ In partnership with the Department of Transportation, the Access Board issued a 
 [Board’s Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
 the Board intends to publish a notice of proposed rulemaking (NPRM) on accessibility guidelines for EV charging stations.
 
-### Medical Diagnostic Equipment
-
-![adjustable exam table]({{ site.baseurl }}/images/uploads/exam-table-3d-render.png "adjustable exam table"){: .img-right }
-
-The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/d/2023-10827) regarding the low transfer surface height for certain types of medical diagnostic equipment used by patients.  Public comments for the NPRM were due by August 31, 2023.  Visit the Board's
-[May 23, 2023 news release]({{ site.baseurl }}/news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
-and
-[August 2, 2023 news release]({{ site.baseurl }}/news/2023/08/02/u-s-access-board-extends-public-comment-period-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
-for more information.
-
 ### Self-service Transaction Machines
 
 ![atm machine]({{ site.baseurl }}/images/uploads/sstm-small.png "atm machine"){: .img-right }
