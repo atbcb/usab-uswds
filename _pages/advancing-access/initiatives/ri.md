@@ -7,7 +7,7 @@ permalink: /ri/
 ---
 ## Rulemaking
 
-The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}/rulemaking/about/) to learn about the process, history, and active and upcoming rulemaking. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51) is also available on Office of Management and Budget's website. 
+The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}/rulemaking/about/) to learn about the process, history, and active and upcoming rulemaking. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014) is also available on Office of Management and Budget's website. 
 
 ## Initiatives
 
@@ -34,18 +34,8 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
 
 In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that covers existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  The Joint Office of Energy and Transportation also hosted the webinar ["Designing for Accessible EV Charging Stations"](https://driveelectric.gov/webinars/accessibility) where Access Board staff presented on the accessibility guidelines and best practices in the technical assistance document. Additionally, as indicated in the 
-[Board’s Spring 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
+[Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
 the Board intends to publish a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
-
-### Medical Diagnostic Equipment
-
-![adjustable exam table]({{ site.baseurl }}/images/uploads/exam-table-3d-render.png "adjustable exam table"){: .img-right }
-
-The U.S. Access Board has issued a [notice of proposed rulemaking (NPRM) on standards for accessible medical diagnostic equipment](https://www.federalregister.gov/d/2023-10827) regarding the low transfer surface height for certain types of medical diagnostic equipment used by patients.  Public comments for the NPRM are due by **August 31, 2023**.  Visit the Board's
-[May 23, 2023 news release]({{ site.baseurl }}/news/2023/05/23/u-s-access-board-seeks-public-comment-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
-and
-[August 2, 2023 news release]({{ site.baseurl }}/news/2023/08/02/u-s-access-board-extends-public-comment-period-on-final-specification-for-low-transfer-surface-height-of-medical-diagnostic-equipment/)
-for more information.
 
 ### Self-service Transaction Machines
 
