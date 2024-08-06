@@ -3,6 +3,7 @@ title: Subpart B-Buses, Vans and Systems
 toc-group: ada-vehicles
 order-number: 2.1
 ---
+{% include big-button.html link="/guidelines-standards/vehicles/update-buses-vans/guidelines-text/" text="View Updated Guidelines for Buses and Vans" %}
 
 ### §1192.21 General.
 
