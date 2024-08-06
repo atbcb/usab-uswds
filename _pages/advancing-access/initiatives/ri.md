@@ -1,6 +1,6 @@
 ---
 banner-title: Access Board Rulemaking and Initiatives
-title: Initiatives
+title: Rulemaking and Initiatives
 layout: page-right-sidenav
 right-sidenav: sidenav-initiatives.html
 permalink: /ri/
