@@ -19,9 +19,7 @@ Self-Service Transaction Machines (SSTMs) and self-service kiosks are now a comm
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
 
-In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that covers existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  The Joint Office of Energy and Transportation also hosted the webinar [Designing for Accessible EV Charging Stations](https://driveelectric.gov/webinars/accessibility) where Access Board staff presented on the accessibility guidelines and best practices in the technical assistance document.  Additionally, as indicated in the 
-[Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
-the Board intends to publish a Notice of Proposed Rulemaking on accessibility guidelines for EV charging stations.  More  will be posted on the Board's page for [EV Charging Stations]({{ site.baseurl }}/evse/) as information becomes available.
+In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  Visit the Access Board's page for [EV Charging Stations]({{ site.baseurl }}/evse/) for more information.
 
 ## Initiatives
 
