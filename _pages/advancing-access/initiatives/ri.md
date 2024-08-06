@@ -7,7 +7,10 @@ permalink: /ri/
 ---
 ## Rulemaking
 
-The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}/rulemaking/about/) to learn about the process, history, and active and upcoming rulemaking. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014) is also available on Office of Management and Budget's website. 
+The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards.  Visit [Access Board Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) to learn how the board develops guidelines and standards, some historical background, and a listing of final rules.
+
+Current Access Board rulemaking includes Self-Service Transaction Machines ([SSTM]({{ site.baseurl }}/sstm)) and [Electric Vehichle Charging Stations](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=3014-AA48). 
+The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014) is available from the Office of Management and Budget. 
 
 ## Initiatives
 
