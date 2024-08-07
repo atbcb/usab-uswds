@@ -15,4 +15,4 @@ In May 2023, the Joint Office of Energy and Transportation hosted a webinar on [
 The [Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014)
 includes a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
 
-More information [about the Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) and the [Administrative Procedure Act (APA)](https://www.archives.gov/federal-register/laws/administrative-procedure) is available.
+More information about the [Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) and the [Administrative Procedure Act (APA)](https://www.archives.gov/federal-register/laws/administrative-procedure) is available.
