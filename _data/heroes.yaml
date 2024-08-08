@@ -18,21 +18,14 @@
   description: NIH Vertical Logo on the left and RADx Accessibility Icon on the right
   linkto: /tad/radx/
   linktext: Learn More
-  
+
 - title: EV Charging Stations
   text: "Access Board issues technical assistance document on design recommendations for accessible electric vehicle charging stations."
   image: /images/stock/hero-ev2a.jpeg
   description: electric vehicle plugged into ev charger
   linkto: /tad/ev/
   linktext: Learn More
-    
-- title: Signs Guide to the ADA and ABA Accessibility Standards
-  text: "Access Board issues technical bulletin on signs in Chapter 7: Communication Elements and Features of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards as part of its collection on guidance documents."
-  image: /images/uploads/international-symbols-accessibility-tty.png
-  description: International Symobls of Accessibilty pictograms for Accessibility and TTY
-  linkto: /guidance.html
-  linktext: Learn More
-  
+
 - title: Equity and Accessibility in the Federal Workplace for Employees with Disabilities  
   text: "Resources for federal agencies to ensure equity and accessibility in promoting diversity, equity, inclusion, and accessibility (DEIA) in the federal workforce." 
   image: /images/uploads/people-around-desk.png
