@@ -1,9 +1,11 @@
 ---
-title: Self-service Transaction Machines
+title: Self-Service Transaction Machines
 layout: page-full
 sidenav: false
 permalink: /sstm/
---- 
+---
+![atm machine]({{ site.baseurl }}/images/uploads/sstm-small.png){: .img-right }
+
 ### Background
 
 In May 2021, the Access Board hosted a public forum on access to self-service transaction machines (SSTM) and self-service kiosks.&nbsp;
