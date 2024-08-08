@@ -6,7 +6,7 @@ permalink: /evse/
 --- 
 ### Background
 
-![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
+![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png){: .img-right }
 
 In July 2022, in partnership with the Department of Transportation, the Access Board published a [Technical Assistance Document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  An Access Board [news article]({{ site.baseurl }}/news/2022/07/21/u-s-access-board-issues-design-recommendations-for-accessible-electric-vehicle-charging-stations/) includes additional background information.
 
