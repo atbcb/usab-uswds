@@ -13,13 +13,13 @@ The Access Board takes on regulatory initiatives to develop accessibility guidel
 
 ![atm machine]({{ site.baseurl }}/images/uploads/sstm-small.png "atm machine"){: .img-right }
 
-Self-Service Transaction Machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities.  They allow customers to conduct an expanding range of transactions and functions independently.  However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision.  Visit the Access Board's [SSTM page]({{ site.baseurl }}/sstm/) for more information. 
+[Self-Service Transaction Machines]({{ site.baseurl }}/sstm/) (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities.  They allow customers to conduct an expanding range of transactions and functions independently.  However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision.
 
 ### Electric Vehicle Charging Stations
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
 
-In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  Visit the Access Board's page for [EV Charging Stations]({{ site.baseurl }}/evse/) for more information.
+[Electric Vehicle Charging Stations]({{ site.baseurl }}/evse/) are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles and it is expected that the installation and use of Electric Vechicle (EV) charging stations will continue to expand.  In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making EV charging stations accessible.
 
 ## Initiatives
 
