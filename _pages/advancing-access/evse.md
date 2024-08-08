@@ -12,7 +12,6 @@ In July 2022, in partnership with the Department of Transportation, the Access B
 
 In May 2023, the Joint Office of Energy and Transportation hosted a webinar on [Designing for Accessible EV Charging Stations](https://driveelectric.gov/webinars/accessibility) where Access Board staff presented on the accessibility guidelines and best practices in the Technical Assistance Document.
 
-The [Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=3014-AA48))
-includes a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
+The [Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=3014-AA48) includes a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
 
 More information about the [Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) and the [Administrative Procedure Act (APA)](https://www.archives.gov/federal-register/laws/administrative-procedure) is available.
