@@ -1,16 +1,25 @@
 ---
 banner-title: Access Board Rulemaking and Initiatives
-title: Initiatives
+title: Rulemaking and Initiatives
 layout: page-right-sidenav
 right-sidenav: sidenav-initiatives.html
 permalink: /ri/
 ---
 ## Rulemaking
 
-The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards.  Visit [Access Board Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) to learn how the board develops guidelines and standards, some historical background, and a listing of final rules.
+The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards.  Visit [Access Board Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) to learn how the board develops guidelines and standards, some historical background, and a listing of final rules.  The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014) is available from the Office of Management and Budget. 
 
-Current Access Board rulemaking includes Self-Service Transaction Machines ([SSTM]({{ site.baseurl }}/sstm)) and [Electric Vehichle Charging Stations](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=3014-AA48). 
-The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014) is available from the Office of Management and Budget. 
+### Self-Service Transaction Machines
+
+![atm machine]({{ site.baseurl }}/images/uploads/sstm-small.png "atm machine"){: .img-right }
+
+Self-Service Transaction Machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities.  They allow customers to conduct an expanding range of transactions and functions independently.  However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision.  Visit the Access Board's [SSTM page]({{ site.baseurl }}/sstm/) for more information. 
+
+### Electric Vehicle Charging Stations
+
+![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
+
+In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  Visit the Access Board's page for [EV Charging Stations]({{ site.baseurl }}/evse/) for more information.
 
 ## Initiatives
 
@@ -31,17 +40,3 @@ Artificial intelligence (AI) has the potential to advance accessibility, but it 
 ![autonomous bus]({{ site.baseurl }}/images/uploads/av-bus-small.png "autonomous bus"){: .img-right }
 
 Self-driving cars, shuttles, and other vehicles stand to revolutionize transportation and have the potential to dramatically expand transit options for people with disabilities. Their cutting-edge technologies and engineering innovations have the potential to significantly expand transit options for many people, including those with disabilities. It is important that autonomous vehicles (AVs) are designed to be inclusive of everyone. Visit the Access Board's [AV page]({{ site.baseurl }}/av/) for more information.
-
-### Electric Vehicle Charging Stations
-
-![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png "electric vehicle charging station"){: .img-right }
-
-In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that covers existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible.  The Joint Office of Energy and Transportation also hosted the webinar ["Designing for Accessible EV Charging Stations"](https://driveelectric.gov/webinars/accessibility) where Access Board staff presented on the accessibility guidelines and best practices in the technical assistance document. Additionally, as indicated in the 
-[Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014),
-the Board intends to publish a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
-
-### Self-service Transaction Machines
-
-![atm machine]({{ site.baseurl }}/images/uploads/sstm-small.png "atm machine"){: .img-right }
-
-Self-service transaction machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities. They allow customers to conduct an expanding range of transactions and functions independently. However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Visit the Access Board's [SSTMs page]({{ site.baseurl }}/sstm/) for more information. 

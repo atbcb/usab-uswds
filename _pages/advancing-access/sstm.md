@@ -34,4 +34,4 @@ For background and more information, access the [Regulations.gov docket](https:/
 
 For further information, contact Bruce Bailey at 1-202-272-0024 or <bailey@access-board.gov>, or Wendy Marshall at 1-202-272-0043 or <marshall@access-board.gov>.
 
-To learn more about the Board's rulemaking process, visit the Board's [rulemaking process page]({{ site.baseurl }}/rulemaking-process/) and the [Administrative Procedure Act](https://www.archives.gov/federal-register/laws/administrative-procedure) (APA).
+More information is availabe about the [Access Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html)) and the [Administrative Procedure Act](https://www.archives.gov/federal-register/laws/administrative-procedure) (APA).

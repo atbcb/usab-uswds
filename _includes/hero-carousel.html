@@ -11,8 +11,7 @@
                     aria-describedby="hero-described-{{ hero.title | slugify }}" 
                     title="Slide {{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }}"-->
                 <div class="swiper-slide swiper-slide-hero-carousel"
-                    style="background-image: url({{ site.baseurl }}{{ hero.image }});"
-                >
+                    style="background-image: url({{ site.baseurl }}{{ hero.image }});">
                     <div class="hero-container">
                         <div class="usa-hero__callout margin-x-auto bg-white border">
                             <h2 id="hero-{{ hero.title | slugify }}" class="usa-hero__heading"><em class="usa-hero__heading--alt text-black {% if hero.titlecolor %} {{ hero.titlecolor }} {% endif %}">{{ hero.title }}</em>
@@ -21,9 +20,9 @@
                             {{ hero.text }}
                             </p>
                             {% if hero.linkto %}
-                            <div class="margin-x-auto text-center">
+                              <div class="margin-x-auto text-center">
                                 <a href="{{ site.baseurl }}{{ hero.linkto }}" class="usa-button" aria-describedby="hero-{{ hero.title | slugify }} hero-described-{{ hero.title | slugify }}">{{ hero.linktext }}</a>
-                            </div>
+                              </div>
                             {% endif %}
                             <p id="hero-described-{{ hero.title | slugify }}" style="display: none;">(Topic {{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }})</p>
                         </div>
@@ -33,11 +32,9 @@
             </div>
             <!-- If we need pagination -->
             <div class="swiper-pagination"></div>
-
             <!-- If we need navigation buttons -->
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
-
             <!-- If we need scrollbar -->
             <!-- <div class="swiper-scrollbar"></div> -->
         </div>
