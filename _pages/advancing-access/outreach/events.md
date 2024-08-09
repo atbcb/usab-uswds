@@ -16,6 +16,8 @@ The next meeting of the Board is scheduled for Wednesday, October 30, 2024. The 
 
 ### Public Events Archives
 
+- [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
+- [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - AM Session)](https://www.youtube.com/watch?v=fokFx-nsL1o)
 - [Information Session: Foundation on Artificial Intelligence and Disability (July 9, 2024)](https://www.youtube.com/watch?v=lmAZeyJAQFc)
 - [Equity in Healthcare for People with Disabilities (January 12, 2022)](https://www.access-board.gov/news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/)
 - [Designing for Inclusion: Architectural Trends and Social Justice (November 10, 2021)](https://www.access-board.gov/news/2021/11/15/u-s-access-board-hosts-virtual-event-on-architectural-trends-and-social-justice/)
