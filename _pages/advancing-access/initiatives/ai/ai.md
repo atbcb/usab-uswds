@@ -74,7 +74,7 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
 
 - [Information Session: Foundation on Artificial Intelligence and Disability (July 9, 2024)](https://www.youtube.com/watch?v=lmAZeyJAQFc)
   - [Download the presentation](https://usa-accessboard.box.com/s/aovk8v7a0xe1peb5y02jpe1hbb0e7dj4)
-- [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - AM Session)]
+- [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - AM Session)](https://www.youtube.com/watch?v=fokFx-nsL1o)
   - [Download the presentation](https://usa-accessboard.box.com/s/ggkmshvjpk55b0qmd243d68w7eim0etf)
-- [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)]
+- [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
   - [Download the presentation](https://usa-accessboard.box.com/s/2acs1ptl0seco9dsiw4a80geqmvryhiu)
