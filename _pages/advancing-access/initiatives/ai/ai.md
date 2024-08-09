@@ -73,3 +73,4 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
 ### Meeting Archives
 
 - [Information Session: Foundation on Artificial Intelligence and Disability (July 9, 2024)](https://www.youtube.com/watch?v=lmAZeyJAQFc)
+  - Presentation is available for [download from Box.com](https://usa-accessboard.box.com/s/aovk8v7a0xe1peb5y02jpe1hbb0e7dj4) (pptx, 7mb)
