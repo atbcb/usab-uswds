@@ -13,7 +13,7 @@ image: /images/uploads/gsa-logo.png
 image_alt_text: Logo of the General Services Administration. A blue square with
   the letters GSA in white taking up the bottom two thirds. The center of the
   letter A is a star shape.
-featured: true
+featured: false
 ---
 On July 3, the General Services Administration (GSA) issued a final rule adopting the Access Board’s [Public Right-of-Way Accessibility Guidelines (PROWAG)](https://www.access-board.gov/prowag/) as part of the [Architectural Barriers Act Accessibility Standards (ABAAS)](https://www.access-board.gov/aba/). The Architectural Barriers Act (ABA) is a civil rights law that requires federally constructed or leased facilities, and certain facilities constructed or leased with federal funds, to be accessible to people with disabilities. GSA’s standard applies to all facilities subject to the ABA except for facilities belonging to the Department of Housing and Urban Development (HUD), Department of Defense (DOD), and United States Postal Service (USPS), as they have their own standards.
 
