@@ -2,8 +2,8 @@
 name: federal-gsa
 last-name: Kale
 full_name: Katy Kale
-chair: false
-vice-chair: true
+chair: true
+vice-chair: false
 member: federal
 status: current
 image: /images/uploads/katy-kale.png
