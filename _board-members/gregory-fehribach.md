@@ -2,7 +2,7 @@
 name: gregory-fehribach
 last-name: fehribach
 full_name: Gregory S. Fehribach
-chair: true
+chair: false
 vice-chair: false
 member: public
 status: current
