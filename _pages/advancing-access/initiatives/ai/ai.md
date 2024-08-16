@@ -30,28 +30,13 @@ The hearings support the Access Board’s work in fulfilling the Executive Order
 
 No pre-registration is required to attend any of the hearings. Individuals who want to make a public comment are required to register via the following instructions. Please note that space is limited. Registered speakers will each be allotted two minutes to present comments. Real time captioning and sign language interpreting is provided online for all hearings. Additional reasonable accommodation requests must be received by July 30, 2024, via [events@access-board.gov](mailto:events@access-board.gov). Please contact us with any questions about the hearings.
 
-#### Disability Community Hearings
-
-- August 8, 2024, at 10:00 - 12:00 PM and 2:00 - 4:00 PM ET
-- Link: <https://www.zoomgov.com/j/1600399391>
-- Meeting ID: 160 039 9391, No passcode
-
-#### Federal Agency and Industry Practitioner Hearing
+### Federal Agency and Industry Practitioner Hearing
 
 - August 22, 2024, at 2:00 – 4:00 PM ET
 - Link: <https://www.zoomgov.com/j/1605754619>
 - Meeting ID: 160 575 4619, No passcode
 
-### Speaker Registration for August 8, 2024, Disability Community Hearings
-
-- Email Speaker Registration Request to <events@access-board.gov> with:
-  * Subject Line: "8/8/24 Disability Community Speaker Registration"
-  * Hearing Session: Please note AM or PM session.
-  * Your name
-  * Organization
-  * Specific AI Topic (Disability Perspectives on AI Equity, Access & Inclusion)
-
-### Speaker Registration for August 22, 2024, Practitioner Hearing
+#### Speaker Registration for August 22, 2024, Practitioner Hearing
 
 - Email Speaker Registration Request to <events@access-board.gov> with:
   * Subject Line: “8/22/24 AI Practitioner/Fed Agency Speaker Registration"
@@ -59,7 +44,7 @@ No pre-registration is required to attend any of the hearings. Individuals who w
   * Organization
   * Specific AI topic (Best practices in AI equity, access, and inclusion)
 
-### Written public comments will be accepted until August 31, 2024
+### Written public comments will be accepted until October 31, 2024
 
 - Email Public Comments to: [events@access-board.gov](mailto:events@access-board.gov)
   * Include "AI Written Comment" in the subject line.
