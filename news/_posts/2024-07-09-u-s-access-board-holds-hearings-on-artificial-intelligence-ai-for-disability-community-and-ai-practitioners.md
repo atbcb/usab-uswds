@@ -54,7 +54,7 @@ Real time captioning and sign language interpreting is provided online for all h
   * Organization
   * Specific AI topic (Best practices in AI equity, access, and inclusion)
 
-**Written public comments will be accepted until August 31, 2024:**
+**Written public comments will be accepted until October 31, 2024:**
 
 * Email Public Comments to: [events@access-board.gov](mailto:events@access-board.gov)
 * Include "AI Written Comment" in the subject line.
