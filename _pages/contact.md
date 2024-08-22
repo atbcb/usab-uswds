@@ -28,6 +28,7 @@ If you have questions on these accessibility guidelines and standards call or em
 | contact us at...           | for... |
 | :---                       | :--- |
 | <508@access-board.gov>     | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
+| <ai@access-board.gov> | questions about artificial intelligence |
 | <enforce@access-board.gov> | filing a complaint about facility access under the Architectural Barriers Act |
 | <foia@access-board.gov>    | submitting a request under the Freedom Of Information Act |
 | <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
