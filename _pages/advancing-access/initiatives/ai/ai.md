@@ -44,4 +44,4 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
   - [Download the presentation](https://usa-accessboard.box.com/s/2acs1ptl0seco9dsiw4a80geqmvryhiu)
 - [Federal Agency and Industry Practitioner Hearing on Artificial Intelligence (August 22, 2024)](https://www.youtube.com/watch?v=AY2czzVU4JI&t=4102s)
-  - [Download the presentation](https://www.access-board.gov/ai/)
+  - [Download the presentation](https://usa-accessboard.box.com/s/x2sndkiz61k1stkpwk6cb7b1zpr7ao5r)
