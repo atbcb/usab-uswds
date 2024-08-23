@@ -31,7 +31,7 @@ The hearings supported the Access Board’s work in fulfilling the Executive Ord
 - Email Public Comments to: [events@access-board.gov](mailto:events@access-board.gov)
   * Include "AI Written Comment" in the subject line.
   * Include your name, organization if applicable, and specific AI topic with your comment.
-  * Written comments are limited to 300 words.
+  * Written comments are limited to **300 words**.
 
 ## Meeting Archives
 
