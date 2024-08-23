@@ -16,6 +16,7 @@ The next meeting of the Board is scheduled for Wednesday, October 30, 2024. The 
 
 ### Public Events Archives
 
+- [Federal Agency and Industry Practitioner Hearing on Artificial Intelligence (August 22, 2024)](https://www.youtube.com/watch?v=AY2czzVU4JI&t=4102s)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - AM Session)](https://www.youtube.com/watch?v=fokFx-nsL1o)
 - [Information Session: Foundation on Artificial Intelligence and Disability (July 9, 2024)](https://www.youtube.com/watch?v=lmAZeyJAQFc)
