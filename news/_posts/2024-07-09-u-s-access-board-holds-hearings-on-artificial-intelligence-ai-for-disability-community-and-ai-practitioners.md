@@ -12,7 +12,7 @@ excerpt: As part of the Developing Artificial Intelligence (AI) Equity, Access &
 image: /images/uploads/microphone.png
 image_alt_text: Graphic of a desk microphone. The base of the stand has two
   prongs and a red button on each prong.
-featured: true
+featured: false
 ---
 As part of the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, the Access Board is holding public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. This series stems from the Board’s [Memorandum of Understanding](https://www.access-board.gov/news/2024/05/15/u-s-access-board-holds-signing-of-artificial-intelligence-memorandum-of-understanding-with-disability-and-technology-partners/) with the [American Association of People with Disabilities (AAPD)](https://www.aapd.com/) and the [Center for Democracy & Technology (CDT)](https://cdt.org/). In total, three virtual hearing sessions will take place: two for the disability community (on August 8) and one for federal agency and AI industry practitioners (on August 22).
 

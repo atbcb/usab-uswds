@@ -22,34 +22,16 @@ The [Center for Democracy & Technology (CDT)](https://cdt.org/) is a nonpartisan
 
 ## Recent and Upcoming Events
 
-A key element of the MOU is launching an informative and collaborative AI series that will include information sessions, public hearings, and sharing best practices. The **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series** is the first step toward these goals. As part of this series, the Access Board is holding public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. In total, three virtual hearing sessions will take place: two for the disability community (on August 8) and one for federal agency and AI industry practitioners (on August 22).
+A key element of the MOU is launching an informative and collaborative AI series that will include information sessions, public hearings, and sharing best practices. The **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series** is the first step toward these goals. As part of this series, the Access Board held public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. In total, three virtual hearing sessions took place: two for the disability community (on August 8, 2024) and one for federal agency and AI industry practitioners (on August 22, 2024). Real time captioning and sign language interpreting were provided online for all hearings.
 
-The hearings support the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
+The hearings supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
 
-### Attending the Virtual Hearings
-
-No pre-registration is required to attend any of the hearings. Individuals who want to make a public comment are required to register via the following instructions. Please note that space is limited. Registered speakers will each be allotted two minutes to present comments. Real time captioning and sign language interpreting is provided online for all hearings. Additional reasonable accommodation requests must be received by July 30, 2024, via [events@access-board.gov](mailto:events@access-board.gov). Please contact us with any questions about the hearings.
-
-### Federal Agency and Industry Practitioner Hearing
-
-- August 22, 2024, at 2:00 – 4:00 PM ET
-- Link: <https://www.zoomgov.com/j/1605754619>
-- Meeting ID: 160 575 4619, No passcode
-
-#### Speaker Registration for August 22, 2024, Practitioner Hearing
-
-- Email Speaker Registration Request to <events@access-board.gov> with:
-  * Subject Line: “8/22/24 AI Practitioner/Fed Agency Speaker Registration"
-  * Your name
-  * Organization
-  * Specific AI topic (Best practices in AI equity, access, and inclusion)
-
-### Written public comments will be accepted until October 31, 2024
+### Written public comments will continue to be accepted until October 31, 2024
 
 - Email Public Comments to: [events@access-board.gov](mailto:events@access-board.gov)
   * Include "AI Written Comment" in the subject line.
   * Include your name, organization if applicable, and specific AI topic with your comment.
-  * Written comments are limited to 300 words.
+  * Written comments are limited to **300 words**.
 
 ## Meeting Archives
 
@@ -61,3 +43,5 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
   - [Download the presentation](https://usa-accessboard.box.com/s/ggkmshvjpk55b0qmd243d68w7eim0etf)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
   - [Download the presentation](https://usa-accessboard.box.com/s/2acs1ptl0seco9dsiw4a80geqmvryhiu)
+- [Federal Agency and Industry Practitioner Hearing on Artificial Intelligence (August 22, 2024)](https://www.youtube.com/watch?v=AY2czzVU4JI&t=4102s)
+  - [Download the presentation](https://usa-accessboard.box.com/s/x2sndkiz61k1stkpwk6cb7b1zpr7ao5r)
