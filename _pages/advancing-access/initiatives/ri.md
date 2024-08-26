@@ -33,7 +33,7 @@ The inability to use one’s wheelchair on airplanes makes air travel very diffi
 
 ![computer with branching wires]({{ site.baseurl }}/images/uploads/computer-with-wires.png){: .img-right }
 
-Artificial intelligence (AI) has the potential to advance accessibility, but it can also create barriers for people with disabilities. The [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) tasks the Access Board with several actions to help address equity and accessibility with respect to AI. Visit the Access Board's [AI page]({{ site.baseurl }}/ai/) for more information.
+Artificial intelligence (AI) has the potential to advance accessibility, but it can also create barriers for people with disabilities. The Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence tasks the Access Board with several actions to help address equity and accessibility with respect to AI. Visit the Access Board's [AI page]({{ site.baseurl }}/ai/) for more information.
 
 ### Autonomous Vehicles
 
