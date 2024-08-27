@@ -13,7 +13,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 #### Morning Session
 
 - [Download the presentation](https://www.access-board.gov/ai/) by **Dr. Jennifer Mankoff**, Founding Co-Director of the University of Washington's [Center for Research and Education on Accessible Technology and Experiences (CREATE)](https://create.uw.edu/)
-  - **Topic**: AI and Machine Learning Research and Potential Employment Discrimination in AI Hiring Tools for People with Disabilities
+  - Topic: _AI and Machine Learning Research and Potential Employment Discrimination in AI Hiring Tools for People with Disabilities_
 
 ##### Additional Resources
 
@@ -23,11 +23,11 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 #### Afternoon Session
 
 - [Download the presentation](https://www.access-board.gov/ai/) by **Theo Braddy**, Executive Director of the [National Council on Independent Living (NCIL)](https://ncil.org/)
-  - **Topic**: AI Benefits and Impacts to Independent Living
+  - Topic: _AI Benefits and Impacts to Independent Living_
 - [Download the presentation](https://www.access-board.gov/ai/) by **AnnMarie Killian** (Chief Executive Officer, [TDI for Access, Inc.](https://tdiforaccess.org/)) and **Jeffrey Shaul** (Software Developer, [GoSign.AI](https://www.gosign.ai/))
-  - **Topic**: Research and AI Impacts on Sign Language Interpretation
+  - Topic: _Research and AI Impacts on Sign Language Interpretation_
 - [Download the presentation](https://www.access-board.gov/ai/) by **Melanie Fontes Rainer**, Director of the [Office for Civil Rights](https://www.hhs.gov/ocr/index.html), U.S. Department of Health and Human Services (HHS)
-  - **Topic**: Access to Healthcare and Agency Services for the Public
+  - Topic: _Access to Healthcare and Agency Services for the Public_
 
 ##### Additional Resources
 
@@ -40,13 +40,13 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 ### Federal Agency and Industry Practitioner Hearing (August 22, 2024)
 
 - [Download the presentation](https://www.access-board.gov/ai/) by **Sarah DeCosse**, Assistant Legal Counsel for the ADA & GINA Division of the Office of Legal Counsel, [U.S. Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
-  - **Topic**: AI and Other Algorithmic Decision-Making Tools and Employment for People with Disabilities
+  - Topic: _AI and Other Algorithmic Decision-Making Tools and Employment for People with Disabilities_
 - [Download the presentation](https://www.access-board.gov/ai/) by **Rylin Rodgers**, Disability Advisor for [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility)
-  - **Topic**: AI and Accessibility at Microsoft
+  - Topic: _AI and Accessibility at Microsoft_
 
 ##### Additional Resources
 
 - Read the [Be My Eyes](https://www.bemyeyes.com/blog/microsoft) blog by Microsoft
-- Review Microsoft's [Accessibility Innovation Toolkit](https://aka.ms/InnovationToolkit)
+- Review Microsoft's [Accessibility Innovation Toolkit](https://aka.ms/InnovationToolkit) (updated March 2024)
 - Learn more about [Project We Count](https://wecount.inclusivedesign.ca)
 - Learn more about the Ontario College of Art & Design (OCAD) University's [Inclusive Design Research Centre](https://idrc.ocadu.ca)
