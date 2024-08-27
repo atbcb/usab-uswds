@@ -25,7 +25,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [Download the presentation](https://www.access-board.gov/ai/) by **Theo Braddy**, Executive Director of the [National Council on Independent Living (NCIL)](https://ncil.org/)
   - **Topic**: AI Benefits and Impacts to Independent Living
 - [Download the presentation](https://www.access-board.gov/ai/) by **AnnMarie Killian** (Chief Executive Officer, [TDI for Access, Inc.](https://tdiforaccess.org/)) and **Jeffrey Shaul** (Software Developer, [GoSign.AI](https://www.gosign.ai/))
-  - **Topic**: Emerging Technologies for Language Access
+  - **Topic**: Research and AI Impacts on Sign Language Interpretation
 - [Download the presentation](https://www.access-board.gov/ai/) by **Melanie Fontes Rainer**, Director of the [Office for Civil Rights](https://www.hhs.gov/ocr/index.html), U.S. Department of Health and Human Services (HHS)
   - **Topic**: Access to Healthcare and Agency Services for the Public
 
@@ -39,10 +39,10 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 
 ### Federal Agency and Industry Practitioner Hearing (August 22, 2024)
 
-- Presentation by PERSON from ORG
-- Presentation by PERSON from ORG
-- Presentation by PERSON from ORG
-- Presentation by PERSON from ORG
+- [Download the presentation](https://www.access-board.gov/ai/) by **Sarah DeCosse**, Assistant Legal Counsel for the ADA & GINA Division of the Office of Legal Counsel, [U.S. Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
+  - **Topic**: AI and Other Algorithmic Decision-Making Tools and Employment for People with Disabilities
+- [Download the presentation](https://www.access-board.gov/ai/) by **Rylin Rodgers**, Disability Advisor for [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility)
+  - **Topic**: AI and Accessibility at Microsoft
 
 ##### Additional Resources
 
