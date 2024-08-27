@@ -15,7 +15,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [Download the presentation](https://www.access-board.gov/ai/) by **Dr. Jennifer Mankoff**, Founding Co-Director of the University of Washington's [Center for Research and Education on Accessible Technology and Experiences (CREATE)](https://create.uw.edu/)
   - Topic: _AI and Machine Learning Research and Potential Employment Discrimination in AI Hiring Tools for People with Disabilities_
 
-##### Additional Resources
+###### Additional Resources
 
 - Learn more about [past research](https://www.afb.org/research-and-initiatives/research) conducted by the American Foundation for the Blind (AFB)
 - Read a [recent chapter](https://doi.org/10.4337/9781803926728.00022) written by **Dr. Damien P. Williams**, entitled "Disabling AI: Biases and Values Embedded in Artificial Intelligence"
@@ -29,7 +29,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [Download the presentation](https://www.access-board.gov/ai/) by **Melanie Fontes Rainer**, Director of the [Office for Civil Rights](https://www.hhs.gov/ocr/index.html), U.S. Department of Health and Human Services (HHS)
   - Topic: _Access to Healthcare and Agency Services for the Public_
 
-##### Additional Resources
+###### Additional Resources
 
 - [Submit a complaint](https://www.consumerfinance.gov) with the Consumer Financial Protection Bureau (CFPB)
 - Learn more about the [National Association of Councils on Developmental Disabilities (NACDD)](https://nacdd.org)
@@ -43,8 +43,12 @@ Several events have been held as part of the **Developing Artificial Intelligenc
   - Topic: _AI and Other Algorithmic Decision-Making Tools and Employment for People with Disabilities_
 - [Download the presentation](https://www.access-board.gov/ai/) by **Rylin Rodgers**, Disability Advisor for [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility)
   - Topic: _AI and Accessibility at Microsoft_
+- [Download the presentation](https://www.access-board.gov/ai/) by **Joe Devon** (Co-Founder, [Global Accessibility Awareness Day (GAAD) Foundation](https://gaad.foundation/)) and **Dr. Jennifer Mankoff** (Founding Co-Director, [UW CREATE](https://create.uw.edu/))
+  - Topic: _Accessibility, AI, and Public Policy_
+- [Download the presentation](https://www.access-board.gov/ai/) by **Dr. Jutta Treviranus**, Director of OCAD University's [Inclusive Design Research Centre](https://idrc.ocadu.ca)
+  - Topic: _Countering Digital Eugenics_
 
-##### Additional Resources
+###### Additional Resources
 
 - Read the [Be My Eyes](https://www.bemyeyes.com/blog/microsoft) blog by Microsoft
 - Review Microsoft's [Accessibility Innovation Toolkit](https://aka.ms/InnovationToolkit) (updated March 2024)
