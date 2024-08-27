@@ -6,7 +6,7 @@ permalink: /ai/resources/
 --- 
 ## Resources Shared During Events
 
-Several events have been held as part of the **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series**. During these sessions, both the Access Board and outside speakers have shared useful resources related to the emerging field of AI accessibility. Included below are some of these resources, which include presentations, reports, websites, and more. Please reach out to [AI@access-board.gov](mailto:AI@access-board.gov) with any questions related to the [Board's role]({{ site.baseurl }}/ai/) in artificial intelligence accessibility.
+Several events have been held as part of the **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series**. During these sessions, outside speakers have shared useful resources related to the emerging field of AI accessibility. Included below are some of these resources, which include presentations, reports, websites, and more. Please reach out to [AI@access-board.gov](mailto:AI@access-board.gov) with any questions related to the [Board's role]({{ site.baseurl }}/ai/) in artificial intelligence accessibility.
 
 ### Disability Community Hearings (August 8, 2024)
 
