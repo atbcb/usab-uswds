@@ -29,7 +29,7 @@ Below are links to the presentations provided by several of the morning session'
 ##### Additional Information
 
 - Learn more about [past research](www.afb.org/research) conducted by the American Foundation for the Blind (AFB)
-- Read a [recent chapter](https://doi.org/10.4337/9781803926728.00022) written by Dr. Damien P. Williams, entitled: "Disabling AI: Biases and Values Embedded in Artificial Intelligence"
+- Read a [recent chapter](https://doi.org/10.4337/9781803926728.00022) written by Dr. Damien P. Williams, entitled "Disabling AI: Biases and Values Embedded in Artificial Intelligence"
 
 #### Afternoon Session
 
@@ -42,4 +42,19 @@ Below are links to the presentations provided by several of the afternoon sessio
 
 ##### Additional Information
 
+- [Submit a complaint](consumerfinance.gov) with the Consumer Financial Protection Bureau (CFPB)
+- Learn more about the [National Association of Councils on Developmental Disabilities (NACDD)](https://nacdd.org)
+- Learn more about the work of [GoSign.AI](https://www.gosign.ai/)
+- Read the [#DeafSafeAI Report](safeaitf.org/deafsafeai) by the Advisory Group on AI and Sign Language Interpreting
+- Review the [SAFE AI Guidance](safeaitf.org/guidance) provided by the Advisory Group on AI and Sign Language Interpreting
+
 ### Federal Agency and Industry Practitioner Hearing (August 22, 2024)
+
+Below are links to the presentations provided by several of the session's panelists.
+
+- Presentation by PERSON from ORG
+- Presentation by PERSON from ORG
+- Presentation by PERSON from ORG
+- Presentation by PERSON from ORG
+
+##### Additional Information
