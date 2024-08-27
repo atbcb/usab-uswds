@@ -58,3 +58,8 @@ Below are links to the presentations provided by several of the session's paneli
 - Presentation by PERSON from ORG
 
 ##### Additional Information
+
+- Read the [be my eyes](bemyeyes.com/blog/microsoft) blog by Microsoft
+- Review Microsoft's [Accessiblity Innovation Toolkit](https://aka.ms/InnovationToolkit)
+- Learn more about [Project We Count](https://wecount.inclusivedesign.ca)
+- Learn more about the Ontario College of Art & Design (OCAD) University's [Inclusive Design Research Centre](https://idrc.ocadu.ca)
