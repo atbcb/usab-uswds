@@ -6,11 +6,11 @@ permalink: /ai/resources/
 --- 
 ## Resources Shared During Events
 
-Several events have been held as part of the **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series**. During these sessions, both the Access Board and outside speakers have shared useful resources related to the emerging field of AI accessibility. Included below are some of these resources. Please reach out to AI@access-board.gov with any questions related to the Board's role in artificial intelligence.
+Several events have been held as part of the **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series**. During these sessions, both the Access Board and outside speakers have shared useful resources related to the emerging field of AI accessibility. Included below are some of these resources, which include livestream and video recordings, documents, webpages, and more. Please reach out to AI@access-board.gov with any questions related to [the Board's role]({{ site.bareurl }}/ai) in artificial intelligence accessibility.
 
 ### Information Session: Foundation on Artificial Intelligence and Disability (July 9, 2024)
 
-Kicking off the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, this session provided foundational information on Artificial Intelligence, the Executive Order requirements, and the risks and benefits of AI for people with disabilities.
+Kicking off the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, this session provided foundational information on artificial intelligence, the [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) requirements, and the risks and benefits of AI for people with disabilities.
 
 - [Link to the recording on YouTube](https://youtube.com/live/lmAZeyJAQFc?feature=share)
 - [Link to the slideshow on Box.com](https://usa-accessboard.box.com/s/aovk8v7a0xe1peb5y02jpe1hbb0e7dj4)
