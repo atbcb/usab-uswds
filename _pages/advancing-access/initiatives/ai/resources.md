@@ -31,7 +31,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 
 ###### Additional Resources
 
-- [Submit a complaint](https://www.consumerfinance.gov) with the Consumer Financial Protection Bureau (CFPB).
+- [Submit a complaint](https://www.consumerfinance.gov/complaint/) with the Consumer Financial Protection Bureau (CFPB).
 - Learn more about the [National Association of Councils on Developmental Disabilities (NACDD)](https://nacdd.org).
 - Learn more about the work of [GoSign.AI](https://www.gosign.ai/).
 - Read the [#DeafSafeAI Report](https://safeaitf.org/deafsafeai) by the Advisory Group on AI and Sign Language Interpreting.
