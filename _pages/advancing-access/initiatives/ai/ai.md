@@ -32,7 +32,6 @@ The hearings supported the Access Board’s work in fulfilling the Executive Ord
   * Include "AI Written Comment" in the subject line.
   * Include your name, organization if applicable, and specific AI topic with your comment.
   * Written comments are limited to **300 words**.
-  * Please **do not** include personally identifiably information (such as email or phone number) in the body of your comment.
 - Public comments may also be submitted via the Access Board's [docket on Regulations.gov](https://www.regulations.gov/document/ATBCB-2024-0005-0001).
 
 ## Meeting Archives
