@@ -17,7 +17,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [Deaf Equality](https://www.deafequality.org/)
 - [American Foundation for the Blind (AFB)](https://www.afb.org/)
 - [University of North Carolina at Charlotte](https://www.charlotte.edu/)
-- [University of Washington Center for Research and Education on Accessible Technology and Experiences (CREATE)](https://create.uw.edu/)
+- [University of Washington Center for Research and Education on Accessible Technology and Experiences (UW CREATE)](https://create.uw.edu/)
 
 ###### Additional Resources
 
@@ -32,7 +32,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [National Association of Councils on Developmental Disabilities (NACDD)](https://nacdd.org/)
 - [TDI for Access](https://tdiforaccess.org/)
 - [GoSign.AI](https://www.gosign.ai/)
-- [U.S. Department of Health and Human Services Office of Civil Rights](https://www.hhs.gov/ocr/index.html)
+- [U.S. Department of Health and Human Services Office for Civil Rights (OCR)](https://www.hhs.gov/ocr/index.html)
 
 ###### Additional Resources
 
@@ -47,12 +47,12 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [General Services Administration (GSA)](https://www.gsa.gov/)
 - [Bazelon Center for Mental Health Law](https://www.bazelon.org/)
 - [U.S. Department of Labor Office of Disability Employment Policy (ODEP)](https://www.dol.gov/agencies/odep)
-- [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/)
+- [U.S. Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
 - [Federal Communications Commission Disability Rights Office](https://www.fcc.gov/accessibility)
 - [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility/)
 - [Global Accessibility Awareness Day (GAAD) Foundation](https://accessibility.day/)
-- [U.S. Department of Health and Human Services Office of Civil Rights](https://www.hhs.gov/ocr/index.html)
-- [Ontario College of Art & Design University's Inclusive Design Research Centre](https://idrc.ocadu.ca)
+- [U.S. Department of Health and Human Services Office for Civil Rights (OCR)](https://www.hhs.gov/ocr/index.html)
+- [Ontario College of Art & Design (OCAD) University Inclusive Design Research Centre](https://idrc.ocadu.ca)
 - [Accessibility Standards Canada](https://accessible.canada.ca/)
 
 ###### Additional Resources
