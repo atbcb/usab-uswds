@@ -3,9 +3,13 @@ title: No FEAR Act Report
 layout: page
 toc: sidenav.html
 banner-title: No Fear Act
-permalink: /about/no-fear-report.html
+permalink: /about/no-fear-report-fy2022.html
+file: nfa/usab-nfa-report-fy2022.pdf
+file-description: PDF version of USAB No FEAR ACT report for Fiscal Year 2022
 ---
-# Annual Report for Fiscal Year 2023 <br /> Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002
+<button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
+
+# Annual Report for Fiscal Year 2022 <br /> Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002
 
 **Report Prepared For:** \
 Speaker of the U.S. House of Representatives \

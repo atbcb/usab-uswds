@@ -16,7 +16,7 @@ For more detailed information on the No Fear Act, please read the Access Board's
 
 ### {{ page.title }} Annual Report
 
-Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities: the Access Board's [annual report]({{ site.baseurl }}/about/no-fear-report.html) for the past fiscal year.
+Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities.
 
 ### {{ page.title }} Data
 
@@ -25,8 +25,9 @@ Pursuant to Title III of the No FEAR Act and 29 CFR § 1614, federal agencies ar
 #### Fiscal Year 2024
 
 - [FY24 1st Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q1.xlsx) (.xlst)
+- [FY24 2nd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q2.xlsx) (.xlst)
+- [FY24 3rd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q3.xlsx) (.xlst)
 
 #### Fiscal Year 2023
 
-- [raw data for FY 2023]({{ site.baseurl }}/files/nfa/usab-nfa-raw-data-fy2023.csv) (.csv)
-- [FY23 4th Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2023q4.xlsx) (.xlst)
+- [FY23 Quarterly Reports]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2023.xlsx) (.xlst)
