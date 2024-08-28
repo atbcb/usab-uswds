@@ -3,7 +3,7 @@ title: No FEAR Act Report
 layout: page
 toc: sidenav.html
 banner-title: No Fear Act
-permalink: /about/no-fear-report.html
+permalink: /about/no-fear-report-fy2022.html
 file: nfa/usab-nfa-report-fy2022.pdf
 file-description: PDF version of USAB No FEAR ACT report for Fiscal Year 2022
 ---
