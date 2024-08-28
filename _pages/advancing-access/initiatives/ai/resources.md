@@ -6,7 +6,7 @@ permalink: /ai/resources/
 --- 
 ## Resources Shared During Events
 
-Several events have been held as part of the **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series**. During these sessions, outside speakers have shared useful resources related to the emerging field of AI accessibility. Included below are some of these resources, which include presentations, reports, websites, and more. Please reach out to [AI@access-board.gov](mailto:AI@access-board.gov) with any questions related to the [Board's role]({{ site.baseurl }}/ai/) in artificial intelligence accessibility.
+Several events have been held as part of the **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series**. During these sessions, outside speakers have shared useful resources related to the emerging field of AI accessibility. Included below are some of these resources, which include websites, reports, and more. Please reach out to [AI@access-board.gov](mailto:AI@access-board.gov) with any questions related to the [Board's role]({{ site.baseurl }}/ai/) in artificial intelligence accessibility.
 
 ### Disability Community Hearings (August 8, 2024)
 
@@ -22,7 +22,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 ###### Additional Resources
 
 - Learn more about [past research](https://www.afb.org/research-and-initiatives/research) conducted by the American Foundation for the Blind (AFB).
-- Read a [recent chapter](https://doi.org/10.4337/9781803926728.00022) written by **Dr. Damien P. Williams**, entitled "Disabling AI: Biases and Values Embedded in Artificial Intelligence".
+- Read a [recent chapter](https://doi.org/10.4337/9781803926728.00022) written by Dr. Damien P. Williams, entitled "Disabling AI: Biases and Values Embedded in Artificial Intelligence".
 
 #### Afternoon Session Speaker Organizations
 
@@ -37,8 +37,6 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 ###### Additional Resources
 
 - [Submit a complaint](https://www.consumerfinance.gov/complaint/) with the Consumer Financial Protection Bureau (CFPB).
-- Learn more about the [National Association of Councils on Developmental Disabilities (NACDD)](https://nacdd.org).
-- Learn more about the work of [GoSign.AI](https://www.gosign.ai/).
 - Read the [#DeafSafeAI Report](https://safeaitf.org/deafsafeai) by the Advisory Group on AI and Sign Language Interpreting.
 - Review the [SAFE AI Guidance](https://safeaitf.org/guidance) provided by the Advisory Group on AI and Sign Language Interpreting.
 
@@ -46,16 +44,16 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 
 #### Speaker Organizations
 
-- General Services Administration (GSA)
-- Bazelon Center for Mental Health Law
-- U.S. Department of Labor Office of Disability Employment Policy (ODEP)
-- U.S. Equal Employment Opportunity Commission
-- Federal Communications Commission Disability Rights Office
-- Microsoft Accessibility
-- Global Accessibility Awareness Day (GAAD) Foundation
-- U.S. Department of Health and Human Services Office of Civil Rights
-- Ontario College of Art & Design (OCAD) University's [Inclusive Design Research Centre](https://idrc.ocadu.ca).
-- Accessibility Standards Canada
+- [General Services Administration (GSA)](https://www.gsa.gov/)
+- [Bazelon Center for Mental Health Law](https://www.bazelon.org/)
+- [U.S. Department of Labor Office of Disability Employment Policy (ODEP)](https://www.dol.gov/agencies/odep)
+- [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/)
+- [Federal Communications Commission Disability Rights Office](https://www.fcc.gov/accessibility)
+- [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility/)
+- [Global Accessibility Awareness Day (GAAD) Foundation](https://accessibility.day/)
+- [U.S. Department of Health and Human Services Office of Civil Rights](https://www.hhs.gov/ocr/index.html)
+- [Ontario College of Art & Design University's Inclusive Design Research Centre](https://idrc.ocadu.ca)
+- [Accessibility Standards Canada](https://accessible.canada.ca/)
 
 ###### Additional Resources
 
