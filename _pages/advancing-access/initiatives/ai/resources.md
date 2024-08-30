@@ -16,7 +16,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [Center for Democracy and Technology (CDT)](https://cdt.org/)
 - [Deaf Equality](https://www.deafequality.org/)
 - [American Foundation for the Blind (AFB)](https://www.afb.org/)
-- [University of North Carolina at Charlotte](https://www.charlotte.edu/)
+- [University of North Carolina at Charlotte School of Data Science](https://sds.charlotte.edu/)
 - [University of Washington Center for Research and Education on Accessible Technology and Experiences (UW CREATE)](https://create.uw.edu/)
 
 ###### Additional Resources
