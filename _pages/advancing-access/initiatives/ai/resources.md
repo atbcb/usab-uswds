@@ -48,7 +48,7 @@ Several events have been held as part of the **Developing Artificial Intelligenc
 - [Bazelon Center for Mental Health Law](https://www.bazelon.org/)
 - [U.S. Department of Labor Office of Disability Employment Policy (ODEP)](https://www.dol.gov/agencies/odep)
 - [U.S. Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
-- [Federal Communications Commission Disability Rights Office](https://www.fcc.gov/accessibility)
+- [Federal Communications Commission (FCC) Disability Rights Office](https://www.fcc.gov/accessibility)
 - [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility/)
 - [Global Accessibility Awareness Day (GAAD) Foundation](https://accessibility.day/)
 - [U.S. Department of Health and Human Services Office for Civil Rights (OCR)](https://www.hhs.gov/ocr/index.html)
