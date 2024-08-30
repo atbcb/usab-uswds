@@ -68,7 +68,7 @@
 |   Average Number of Days in Investigation Stage    | 308 |   0   |   0   | 116 | 337 |
 |   Complaints pending _(for any length of time)_ during fiscal year where **hearing was requested**   |   1   |   0   |   0   |   0   |   0   |
 |   Average number of days in final action stage   |   0   |   0   |   0   |   1   |   0   |
-|   Complaints pending _(for any length of time)_ during fiscal year where **hearing was _not_ requested**   |   0   |   0   |   0   |   0   |   1   |
+|   Complaints pending _(for any length of time)_ during fiscal year where **hearing was _not_ requested**   |   0   |   0   |   0   |   0   |   0  |
 |   Average number of days in final action stage     |   0   |   0   |   0   |   46   |   0   |
 {: .usa-table }
 
