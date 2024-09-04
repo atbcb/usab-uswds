@@ -13,7 +13,7 @@ image: /images/uploads/katy-and-elver-headshots.png
 image_alt_text: Headshots of Katy Kale and Elver Ariza-Silva next to one
   another. Behind Kale is a white backdrop and an American flag. Behind
   Ariza-Silva is a bus; this photo is monochrome.
-featured: true
+featured: false
 ---
 At its July meeting, the U.S. Access Board elected Katy Kale as its new Chair and Elver Ariza-Silva as its new Vice-Chair. Kale is the Deputy Administrator of the U.S. General Services Administration (GSA) under the Biden-Harris Administration. Ariza-Silva is a disability community advocate based out of the District of Columbia. The Board approved both choices unanimously.
 
