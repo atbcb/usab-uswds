@@ -1,3 +1,10 @@
+- title: EV Charging Stations
+  text: "U.S. Access Board Seeks Public Comment on Proposed Rule for Electric Vehicle Charging Stations"
+  image: /images/stock/hero-ev2a.jpeg
+  description: electric vehicle plugged into ev charger
+  linkto: /news/2024/09/03/u-s-access-board-seeks-public-comment-on-proposed-rule-for-electric-vehicle-ev-charging-stations/
+  linktext: Learn More
+  
 - title: Artificial Intelligence (AI) Hearings
   text: "Access Board Hearings on Artificial Intelligence (AI) for Disability Community and AI Practitioners in August"
   image: /images/stock/hero-ict-icons.jpg
@@ -17,13 +24,6 @@
   image: /images/uploads/nih-logo-radx-accessibility-icon.png
   description: NIH Vertical Logo on the left and RADx Accessibility Icon on the right
   linkto: /tad/radx/
-  linktext: Learn More
-
-- title: EV Charging Stations
-  text: "Access Board issues technical assistance document on design recommendations for accessible electric vehicle charging stations."
-  image: /images/stock/hero-ev2a.jpeg
-  description: electric vehicle plugged into ev charger
-  linkto: /tad/ev/
   linktext: Learn More
 
 - title: Equity and Accessibility in the Federal Workplace for Employees with Disabilities  
