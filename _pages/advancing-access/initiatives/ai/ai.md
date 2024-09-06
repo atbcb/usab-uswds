@@ -46,3 +46,7 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
   - [Download the presentation](https://usa-accessboard.box.com/s/2acs1ptl0seco9dsiw4a80geqmvryhiu)
 - [Federal Agency and Industry Practitioner Hearing on Artificial Intelligence (August 22, 2024)](https://www.youtube.com/watch?v=AY2czzVU4JI&t=4102s)
   - [Download the presentation](https://usa-accessboard.box.com/s/x2sndkiz61k1stkpwk6cb7b1zpr7ao5r)
+
+### Additional Resources
+
+Additional resources on the intersection of artificial intelligence and accessibility have been shared during public sessions. Visit the Board's [AI Resources page]({{ site.baseurl }}/ai/resources/) for more information.
