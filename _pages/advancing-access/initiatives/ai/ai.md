@@ -49,4 +49,4 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
 
 ### Additional Resources
 
-Additional resources on the intersection of artificial intelligence and accessibility have been shared during public sessions. Visit the Board's [AI Resources page]({{ site.baseurl }}/ai-resources/) for more information.
+Additional resources on the intersection of artificial intelligence and accessibility have been shared during public sessions. Visit the Board's [AI Resources page]({{ site.baseurl }}/ai/resources/) for more information.
