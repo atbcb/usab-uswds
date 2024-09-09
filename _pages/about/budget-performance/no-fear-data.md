@@ -18,9 +18,9 @@ For more detailed information on the No Fear Act, please read the Access Board's
 
 Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities.
 
--[Fiscal Year 2023 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2023.html)
--[Fiscal Year 2022 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2022.html)
--[Fiscal Year 2021 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2021.html)
+- [Fiscal Year 2023 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2023.html)
+- [Fiscal Year 2022 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2022.html)
+- [Fiscal Year 2021 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2021.html)
 
 ### {{ page.title }} Data
 
