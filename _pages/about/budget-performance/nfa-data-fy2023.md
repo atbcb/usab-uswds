@@ -74,10 +74,10 @@
 
 ### V. Complaints Dismissed by Agency
 
-| &nbsp;                                       |  FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
-| :---                                         | ---:     | ---:    | ---:    | ---:    | ---:    |
-| Total Complaints Dismissed by Agency       |   0      |   0     |   0     |   0     |   0     |
-| Average days pending prior to dismissal    |   0      |   0     |   0     |   0     |   0     |
+| &nbsp;                                  |  FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
+| :---                                    | ---:     | ---:    | ---:    | ---:    | ---:    |
+| Total Complaints Dismissed by Agency    |   0      |   0     |   0     |   0     |   0     |
+| Average days pending prior to dismissal |   0      |   0     |   0     |   0     |   0     |
 {: .usa-table }
 
 ### VI.Complaints Withdrawn by Complainants
@@ -289,20 +289,20 @@
 
 ### X. Pending Complaints Filed in Previous Fiscal Years by Status
 
-| &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
-|   Total complaints from previous Fiscal Years   |   1   |   0   |   0   |   0   |   0   |
-|   Total Complainants    |   1   |   0   |   0   |   0   |   0   |
-|   Number Complainants Pending    |   1   |   1   |   0   |   0   |   0   |
-|   Investigation     |   1   |   1   |   0   |   0   |   0   |
-|   Hearing    |   0   |   0   |   0   |   0   |   0   |
-|   Final Agency Action    |   0   |   0   |   0   |   0   |   0   |
-|   Appeal with EEOC Office of Federal Operations     |   0   |   0   |   0   |   0   |   0   |
+| &nbsp;                                        | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
+| :---                                          | ---:    | ---:    | ---:    | ---:    | ---:    |
+| Total complaints from previous Fiscal Years   |    1    |    0    |    0    |    0    |    0    |
+| Total Complainants                            |    1    |    0    |    0    |    0    |    0    |
+| Number Complainants Pending                   |    1    |    1    |    0    |    0    |    0    |
+| Investigation                                 |    1    |    1    |    0    |    0    |    0    |
+| Hearing                                       |    0    |    0    |    0    |    0    |    0    |
+| Final Agency Action                           |    0    |    0    |    0    |    0    |    0    |
+| Appeal with EEOC Office of Federal Operations |    0    |    0    |    0    |    0    |    0    |
 {: .usa-table }
 
 ### XI. Complaint Investigation 
 
-| &nbsp;                      | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
-| :---                        | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Pending Completion Where Investigation Exceeds Required Time Frames |     0   |     1   |     0   |     0   |     0   |
+| &nbsp;                                                              | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
+| :---                                                                | ---:    | ---:    | ---:    | ---:    | ---:    |
+| Pending Completion Where Investigation Exceeds Required Time Frames |    0    |    1    |    0    |    0    |    0    |
 {: .usa-table }
