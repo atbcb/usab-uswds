@@ -43,7 +43,7 @@
 | Duty Hours                |   0     |   0     |    0    |    0    |    0    |
 | Evaluation Appraisal      |   0     |   0     |    0    |    0    |    1    |
 | Examination / Test        |   0     |   0     |    0    |    0    |    0    |
-| Harassment (Non-Sexual)   |   1     |   0     |    0    |    0    |    0    |
+| Harassment (Non-Sexual)   |   0     |   0     |    0    |    0    |    0    |
 | Harassment (Sexual)       |   0     |   0     |    0    |    0    |    0    |
 | Medical Examination       |   0     |   0     |    0    |    0    |    0    |
 | Pay (Including Overtime)  |   0     |   0     |    0    |    0    |    0    |
