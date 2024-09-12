@@ -21,8 +21,8 @@ tags:
   - ABA
   - Building & Sites
 closed: false
-webinar-start: ""
-webinar-end: September 12, 2024 2:33 PM
+webinar-start: October 3, 2024 2:30 PM
+webinar-end: October 3, 2024 4:00 PM
 registration-link: https://www.accessibilityonline.org/ADA-Audio/session?id=111137
 webinar: true
 ---
