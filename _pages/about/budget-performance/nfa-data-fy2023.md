@@ -102,17 +102,17 @@
 
 | &nbsp;              | FY 2019 (#%) | FY 2020 (#%) | FY 2021 (#%) | FY 2022 (#%) | FY 2023 (#%) |
 | :---                | ---:         | ---:         | ---:         | ---:         | ---:         |
-| Race                |    0         |    0         |   0          |    0         |    0         |
-| Color               |    0         |    0         |   0          |    0         |    0         |
-| Religion            |    0         |    0         |   0          |    0         |    0         |
-| Reprisal            |    0         |    0         |   0          |    0         |    0         |
-| Sex                 |    0         |    0         |   0          |    0         |    0         |
-| National Origin     |    0         |    0         |   0          |    0         |    0         |
-| Equal Pay Act       |    0         |    0         |   0          |    0         |    0         |
-| Age                 |    0         |    0         |   0          |    0         |    0         |
-| Disability          |    0         |    0         |   0          |    0         |    0         |
-| Genetic Information |    0         |    0         |   0          |    0         |    0         |
-| Non-EEO Basis       |    0         |    0         |   0          |    0         |    0         |
+| Race                |    0         |    0         |    0         |    0         |    0         |
+| Color               |    0         |    0         |    0         |    0         |    0         |
+| Religion            |    0         |    0         |    0         |    0         |    0         |
+| Reprisal            |    0         |    0         |    0         |    0         |    0         |
+| Sex                 |    0         |    0         |    0         |    0         |    0         |
+| National Origin     |    0         |    0         |    0         |    0         |    0         |
+| Equal Pay Act       |    0         |    0         |    0         |    0         |    0         |
+| Age                 |    0         |    0         |    0         |    0         |    0         |
+| Disability          |    0         |    0         |    0         |    0         |    0         |
+| Genetic Information |    0         |    0         |    0         |    0         |    0         |
+| Non-EEO Basis       |    0         |    0         |    0         |    0         |    0         |
 {: .usa-table }
 
 ## B. Findings After Hearing
@@ -127,26 +127,26 @@
 | National Origin     |    0          |   0     |   0     |    0    |    0    |
 | Equal Pay Act       |    0          |   0     |   0     |    0    |    0    |
 | Age                 |    0          |   0     |   0     |    0    |    0    |
-| Disability          |    0          |   0     |   0     |    1    |    0    |
+| Disability          |    0          |   0     |   0     |    0    |    0    |
 | Genetic Information |    0          |   0     |   0     |    0    |    0    |
 | Non-EEO Basis       |    0          |   0     |   0     |    0    |    0    |
 {: .usa-table }
 
 #### C. Findings Without Hearing
 
-| &nbsp;              | FY 2019 (#%)s | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
-| :---                | ---:          | ---:    | ---:    | ---:    | ---:    |
-| Race                |    0          |   0     |   0     |    0    |    0    |
-| Color               |    0          |   0     |   0     |    0    |    0    |
-| Religion            |    0          |   0     |   0     |    0    |    0    |
-| Reprisal            |    0          |   0     |   0     |    0    |    0    |
-| Sex                 |    0          |   0     |   0     |    0    |    0    |
-| National Origin     |    0          |   0     |   0     |    0    |    0    |
-| Equal Pay Act       |    0          |   0     |   0     |    0    |    0    |
-| Age                 |    0          |   0     |   0     |    0    |    0    |
-| Disability          |    0          |   0     |   0     |    1    |    0    |
-| Genetic Information |    0          |   0     |   0     |    0    |    0    |
-| Non-EEO Basis       |    0          |   0     |   0     |    0    |    0    |
+| &nbsp;              | FY 2019 (#%) | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
+| :---                | ---:         | ---:    | ---:    | ---:    | ---:    |
+| Race                |    0         |    0    |    0    |    0    |    0    |
+| Color               |    0         |    0    |    0    |    0    |    0    |
+| Religion            |    0         |    0    |    0    |    0    |    0    |
+| Reprisal            |    0         |    0    |    0    |    0    |    0    |
+| Sex                 |    0         |    0    |    0    |    0    |    0    |
+| National Origin     |    0         |    0    |    0    |    0    |    0    |
+| Equal Pay Act       |    0         |    0    |    0    |    0    |    0    |
+| Age                 |    0         |    0    |    0    |    0    |    0    |
+| Disability          |    0         |    0    |    0    |    0    |    0    |
+| Genetic Information |    0         |    0    |    0    |    0    |    0    |
+| Non-EEO Basis       |    0         |    0    |    0    |    0    |    0    |
 {: .usa-table }
 
 ### IX.Findings of Discrimination Rendereded By Issue
