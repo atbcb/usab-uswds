@@ -91,9 +91,9 @@
 
 | &nbsp;                     | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
 | :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Total Number Findings      |         |    0    |    0    |    0    |    0    |
+| Total Number Findings      |    0    |    0    |    0    |    0    |    0    |
 | Without Hearing            |    0    |    0    |    0    |    0    |    0    |
-| With Hearing               |         |    0    |    0    |    0    |    0    |
+| With Hearing               |    0    |    0    |    0    |    0    |    0    |
 {: .usa-table }
 
 ### VIII. Findings of Discrimination Rendered by Basis
