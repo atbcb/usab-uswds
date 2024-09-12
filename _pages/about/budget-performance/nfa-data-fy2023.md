@@ -62,8 +62,8 @@
 
 ### IV. Processing Time
 
-| &nbsp;                                                                                                   | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
-| :---                                                                                                     | ---:    | ---:    | ---:    | ---:    | ---:    |
+| &nbsp;                                                                                                 | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
+| :---                                                                                                   | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Complaints Pending _(for any length of time)_ During Fiscal Year                                       |    1    |    0    |    0    |    1    |    1    |
 | Average Number of Days in Investigation Stage                                                          |  308    |    0    |    0    |  116    |  337    |
 | Complaints pending _(for any length of time)_ during fiscal year where **hearing was requested**       |    1    |    0    |    0    |    0    |    0    |
@@ -89,11 +89,11 @@
 
 ### VII. Total Final Actions Finding Discrimination
 
-| &nbsp;                     | FY 2018 | FY 2019 | FY 2020 | FY 2021 | FY 2022 |
+| &nbsp;                     | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
 | :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Total Number Findings      |   0     |   0     |   0     |   0     |   0     |
-| Without Hearing            |   0     |   0     |   0     |   0     |   0     |
-| With Hearing               |   0     |   0     |   0     |   0     |   0     |
+| Total Number Findings      |         |    0    |    0    |    0    |    0    |
+| Without Hearing            |    0    |    0    |    0    |    0    |    0    |
+| With Hearing               |         |    0    |    0    |    0    |    0    |
 {: .usa-table }
 
 ### VIII. Findings of Discrimination Rendered by Basis
