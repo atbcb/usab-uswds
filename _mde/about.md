@@ -24,4 +24,4 @@ As issued by the Board, the standards are not mandatory on health care providers
 - February 3, 2022 -- The Board issues [Direct Final Rule](https://www.regulations.gov/docket/ATBCB-2022-0002) (DFR) extending the sunset provision regarding the specification for low transfer heights for three years.
 - May 23, 2023 -- The Board issues [Notice of Proposed Rulemaking](https://www.regulations.gov/docket/ATBCB-2023-0001) (NPRM) removing the sunset provision and provides specification for the low-transfer-height of medical diagnostic.
 - August 1, 2023 -- The Board issues [extension of comment period](https://www.federalregister.gov/d/2023-16218).
-- July 25, 2024 -- The Board publishes [Final Rule](https://www.federalregister.gov/d/2023-16218).
+- July 25, 2024 -- The Board publishes [Final Rule](https://www.federalregister.gov/d/2024-16266).
