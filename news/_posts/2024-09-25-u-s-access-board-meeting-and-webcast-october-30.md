@@ -24,7 +24,6 @@ Dial in: (646) 828-7666\
 Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
 _**Agenda**_
-
 * Introductory Remarks and Roll Call
 * Board vote on approval of draft July 2024 meeting minutes
 * Executive Director’s Report
