@@ -4,7 +4,7 @@ first_name: Josh
 last_name: Schorr
 full_name: Josh Schorr
 image: /images/uploads/josh-schorr.png
-job-title: Training Coordinator
+job-title: Technical Assistance Coordinator
 office: Office of Technical and Information Services
 agency: ""
 ---
