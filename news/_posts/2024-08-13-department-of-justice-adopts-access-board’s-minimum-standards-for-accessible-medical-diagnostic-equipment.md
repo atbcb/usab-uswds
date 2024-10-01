@@ -15,7 +15,7 @@ excerpt: On August 9, the U.S. Department of Justice (DOJ) issued a final
   consider future rulemaking . . .
 image: /images/uploads/doj-logo.png
 image_alt_text: Logo of Department of Justice
-featured: true
+featured: false
 ---
 On August 9, the U.S. Department of Justice (DOJ) [issued a final rule](https://www.federalregister.gov/documents/2024/08/09/2024-16889/nondiscrimination-on-the-basis-of-disability-accessibility-of-medical-diagnostic-equipment-of-state) on the accessibility of medical diagnostic equipment (MDE) under Title II of the Americans with Disabilities Act (ADA). This final rule establishes standards for MDE used by state and local government entities that are consistent with the standards issued by the Access Board [on January 9, 2017](https://www.regulations.gov/document/ATBCB-2012-0003-0077). The rule adopts a 17 to 19-inch low transfer height for MDE used in the supine, prone, side-lying, and the seated position, although DOJ indicated a willingness to consider future rulemaking in light of the Access Board’s adoption of its final rule on July 25, which set a low transfer height of 17 inches.
 
