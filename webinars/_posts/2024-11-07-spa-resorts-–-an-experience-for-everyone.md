@@ -39,7 +39,7 @@ Spas provide a variety of services for improving health, beauty, and relaxation.
 
 ### Speakers:
 
-[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Spa%20Resorts%20%E2%80%93%20An%20Experience%20for%20Everyone), Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Spa%20Resorts%20%E2%80%93%20An%20Experience%20for%20Everyone), Technical Assistance Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 ### Privacy Statement
 
