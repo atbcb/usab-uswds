@@ -6,7 +6,7 @@ excerpt: The WCAG2ICT Group Note has been a key resource for including WCAG in
   ICT accessibility regulation, legislation, and other standards around the
   world.  The updated WCAG2ICT now facilitates further adoption of WCAG 2.1 and
   WCAG 2.2 in non-web contexts.
-image: https://www.w3.org/cms-uploads/Hero-illustrations/groups.svg
+image: /images/uploads/w3c-groups.svg
 image_alt_text: Stylized graphic of W3C logo being assembled and lifted into
   place by three people.  A dark-skinned man in a red shirt sits on the left
   with a laptop.  In the middle, a medium skinned woman covered head to toe in
