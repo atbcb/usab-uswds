@@ -134,7 +134,7 @@ U.S. Access Board
 Washington, DC  20004
 
 > **Via Electronic Mail:**
->> If you would prefer to submit your Privacy Act request via e-mail, at privacy@access-board.gov, your request and verification of identity must be sent with encryption. Most e-mail applications offer a method of sending e-mails via encryption. Gmail refers to encryption as confidential mode. E-mail Privacy Act requests can be sent to <privacy@access-board.gov>.
+>> If you would prefer to submit your Privacy Act request via e-mail, at <privacy@access-board.gov>, your request and verification of identity must be sent with encryption. Most e-mail applications offer a method of sending e-mails via encryption. Gmail refers to encryption as confidential mode. E-mail Privacy Act requests can be sent to <privacy@access-board.gov>.
 
 ***Note:***  Access Board records that do not relate to a specific individual (either yourself or someone on whose behalf you are authorized to request them) should be obtained by submitting a Freedom of Information Act (FOIA) request to <foia@access-board.gov>. 
 
