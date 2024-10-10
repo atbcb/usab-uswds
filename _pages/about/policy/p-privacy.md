@@ -16,10 +16,10 @@ The Access Board's privacy program aims to preserve and enhance privacy protecti
 
 The [Privacy Act of 1974](http://www.gpo.gov/fdsys/pkg/USCODE-2015-title5/pdf/USCODE-2015-title5-partI-chap5-subchapII-sec552a.pdf), in essence, establishes a code of fair information practices that govern the collection, maintenance, use, and dissemination of personally identifiable information that is maintained in a system of records (i.e., a group of records controlled by the agency from which information is retrieved by a unique, personal identifier) by federal agencies.  The Privacy Act balances the government's need to collect or maintain personal information with the right of individuals to be protected against unwarranted invasions of their privacy.  Under the Privacy Act, federal agencies must:
 
--   inform you why personal information is being collected and how it is going to be used;
--   ensure that personal information is accurate, relevant, complete, and up-to-date before disclosing to others;
--   allow you to find out about disclosures of your records to other agencies or persons; and
--   provide you with an opportunity to correct inaccuracies in your records.
+- inform you why personal information is being collected and how it is going to be used;
+- ensure that personal information is accurate, relevant, complete, and up-to-date before disclosing to others;
+- allow you to find out about disclosures of your records to other agencies or persons; and
+- provide you with an opportunity to correct inaccuracies in your records.
 
 As technology has evolved, subsequent legislation (such as the [E-Government Act of 2002](http://www.gpo.gov/fdsys/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)) and Executive Branch guidance has expanded on these privacy protections for digital information and called on federal agencies to better integrate information security and privacy.
 
@@ -127,14 +127,14 @@ The Access Board very rarely maintains records that fall under the Privacy Act. 
 Make requests to:
 
 > **Via Mail:**
->> Office of General Counsel  
-Attn: Privacy Act   
-U.S. Access Board  
-1331 F Street NW, Suite 1000  
-Washington, DC  20004
+>> Office of General Counsel \
+Attn: Privacy Act \
+U.S. Access Board \
+1331 F Street NW, Suite 1000 \
+Washington, DC&nbsp; 20004
 
 > **Via Electronic Mail:**
->> If you would prefer to submit your Privacy Act request via e-mail, at <privacy@access-board.gov>, your request and verification of identity must be sent with encryption. Most e-mail applications offer a method of sending e-mails via encryption. Gmail refers to encryption as confidential mode. E-mail Privacy Act requests can be sent to <privacy@access-board.gov>.
+>> If you would prefer to submit your Privacy Act request via e-mail, your request and verification of identity must be sent with encryption.  Most e-mail applications offer a method of sending e-mails via encryption.  Gmail refers to encryption as confidential mode.  E-mail Privacy Act requests can be sent to <privacy@access-board.gov>. 
 
 ***Note:***  Access Board records that do not relate to a specific individual (either yourself or someone on whose behalf you are authorized to request them) should be obtained by submitting a Freedom of Information Act (FOIA) request to <foia@access-board.gov>. 
 
@@ -142,15 +142,16 @@ Washington, DC  20004
 
 If you have any questions or complaints about the Access Board's privacy program in general, please contact:
 
-**Agency Privacy Officer**  
-Wendy Marshall, Attorney Advisor  
-202-272-0043 (voice)  
-202-272-0082 (TTY)  
-<privacy@access-board.gov>
+### Agency Privacy Officer
 
-## Senior Agency Official for Privacy (SAOP)
+Wendy Marshall, Attorney Advisor \
+202-272-0043 (voice) \
+202-272-0082 (TTY) \
+<privacy@access-board.gov> 
 
-Christopher J. Kuczynski, General Counsel  
+### Senior Agency Official for Privacy (SAOP)
+
+Christopher J. Kuczynski, General Counsel \
 1-202-272-0042 (voice) \
 <kuczynski@access-board.gov> (email) 
 
@@ -164,11 +165,11 @@ Thank you for visiting the Access Board's website and reviewing our privacy poli
 
 You do not have to give us personal information to visit our site.  If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically.  This information does **not** identify you personally.  We automatically collect and store **only** the following information about your visit:
 
--   the Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
--   the type of browser (including brand and version) and operating system used to access our site;
--   the date and time you accessed our site and the amount of time spent on our site;
--   the pages you visited; and
--   if you linked to our website from another website or through a search engine, the address of that website or the name of search engine.
+- the Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
+- the type of browser (including brand and version) and operating system used to access our site;
+- the date and time you accessed our site and the amount of time spent on our site;
+- the pages you visited; and
+- if you linked to our website from another website or through a search engine, the address of that website or the name of search engine.
 
 We use this information to make our site more useful to visitors and to learn about the number of visitors to our site and the types of technology our visitors use.  We do **not** track or record information about individuals and their visits.
 
@@ -176,8 +177,8 @@ We use this information to make our site more useful to visitors and to learn ab
 
 Our website permits you to send us information through several on-line forms.  These forms allow you to:
 
--   sign up to receive our free newsletter;
--   file a complaint under the Architectural Barriers Act.
+- sign up to receive our free newsletter;
+- file a complaint under the Architectural Barriers Act.
 
 You have the option of signing up for email notification of important events or when new content is added to our site by providing us with your email address.  This information is not used for any other purpose.  This information is added to email distribution lists maintained by the Board (using GovDelivery) and used only for these purposes.  We do not request or store any information other than the mailing or email information requested in our forms.  The Board does not collect information for commercial marketing.
 
