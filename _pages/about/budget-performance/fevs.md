@@ -28,7 +28,7 @@ Number of items identified as **Challenges** (35% negative or higher): **17**
 
 ### Details
 
-### Performance Dimension: Goal-Oriented: Accountability
+#### Performance Dimension: Goal-Oriented: Accountability
 
 <table id="t-pdgoa" class="usa-table usa-table--striped">
   <caption>
@@ -118,7 +118,7 @@ Number of items identified as **Challenges** (35% negative or higher): **17**
   </tfoot>
 </table>
 
-### Survey Questions and Responses
+#### Survey Questions and Responses
 
 <table id="t-coreq" class="usa-table usa-table--striped">
   <caption>
