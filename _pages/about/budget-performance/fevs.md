@@ -20,7 +20,7 @@ This year, 20 out of 26 surveys were completed at the Board -- about a 77 percen
 
 ### Overview
 
-The survey consists of 90 questions.  Number of items identified as strengths and challenges are based on items 1-90, excluding item 16.  Item 16 is broken out separately.
+The survey consists of 90 questions.  Number of items identified as strengths and challenges are based on items 1-90, excluding item 16, which is listed separately.
 
 Number of items identified as **Strengths** (65% positive or higher):  **52**
 
