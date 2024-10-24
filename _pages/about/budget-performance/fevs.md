@@ -1,16 +1,14 @@
 ---
-title: Employee Survey Results 
+title: Federal Employee Viewpoint Survey 
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/fevs.html
 ---
 
-# {{ page.title }} (2024)
+## {{ page.title }} (2024)
 
 Each year the U.S. Access Board joins with other federal agencies in participating in the Federal Employee Viewpoint Survey (**FEVS**), as required by the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108-136, November 24, 2003, 117 STAT. 1641).  Congress established a requirement for agencies to conduct an annual survey of their employees to assess employee satisfaction as well as leadership and management practices that contribute to agency performance.
-
-## Overview
 
 ### Survey Process
 
@@ -20,7 +18,15 @@ The 2024 FEVS asks federal employees to provide their candid opinions on all asp
 
 This year, 20 out of 26 surveys were completed at the Board -- about a 77 percent response rate.
 
-## Details
+### Overview
+
+The survey consists of 90 questions.  Number of items identified as strengths and challenges are based on items 1-90, excluding item 16.  Item 16 is broken out separately.
+
+Number of items identified as **Strengths** (65% positive or higher):  **52**
+
+Number of items identified as **Challenges** (35% negative or higher): **17**
+
+### Details
 
 ### Performance Dimension: Goal-Oriented: Accountability
 
@@ -112,7 +118,7 @@ This year, 20 out of 26 surveys were completed at the Board -- about a 77 percen
   </tfoot>
 </table>
 
-### Survey Questions
+### Survey Questions and Responses
 
 <table id="t-coreq" class="usa-table usa-table--striped">
   <caption>
@@ -123,7 +129,7 @@ This year, 20 out of 26 surveys were completed at the Board -- about a 77 percen
       <th scope="col">Item</th>
       <th scope="col">Item Text</th>
       <th scope="col">Percent Positive</th>
-      <th scope="col">PercentNegative</th>
+      <th scope="col">Percent Negative</th>
       <th scope="col">Item Response Total** N</th>
       <th scope="col"> Do Not Know / No Basis to Judge / There have been no recent hires in my work unit / I do not have any accessibility needs N </th>
     </tr>
