@@ -10,6 +10,8 @@ permalink: /about/fevs.html
 
 Each year the U.S. Access Board joins with other federal agencies in participating in the Federal Employee Viewpoint Survey (**FEVS**), as required by the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108-136, November 24, 2003, 117 STAT. 1641).  Congress established a requirement for agencies to conduct an annual survey of their employees to assess employee satisfaction as well as leadership and management practices that contribute to agency performance.
 
+The FEVS results provide valuable insight into the strengths and challenges of the Access Board.  The Access Board leadership will use the FEVS results to develop meaningful action plans aimed at improving the day-to-day operations while also ensuring we continue to develop a culture designed to enrich and improve the Access Board workplace.
+
 ### Survey Process
 
 The 2024 FEVS asks federal employees to provide their candid opinions on all aspects of their federal employment -- their supervisors, their work experience, their agency and senior leaders.  The 2024 FEVS was administered by the Office of Personnel Management (OPM) from May 21st to July 5, 2024.
@@ -112,8 +114,14 @@ Number of items identified as **Challenges** (35% negative or higher): **17**
       <td>N/A</td>
     </tr>
     <tr>
-      <td colspan="7"><p> (percents will add to more than 100% because respondents could choose more than one response option) </p>
-        <p> Percentages are weighted to represent the Agency's population.</p></td>
+      <td colspan="7">
+        <p>
+          (percents will add to more than 100% because respondents could choose more than one response option)
+        </p>
+        <p>
+          Percentages are weighted to represent the Agency's population.
+        </p>
+      </td>
     </tr>
   </tfoot>
 </table>
@@ -852,7 +860,7 @@ Number of items identified as **Challenges** (35% negative or higher): **17**
     <tr>
       <td colspan="7"><p> * AES prescribed items as of 2017 (5 CFR Part 250, Subpart C)</p>
         <p> ** Unweighted count of responses excluding <q>Do Not Know</q>, <q>No Basis to Judge</q>, <q>There have been no recent hires in my work unit</q>, or <q>I do not have any accessibility needs.</q> </p>
-        <p> Percentages are weighted to represent the Agency's population. </p></td>
+        <p> Percentages are weighted to represent the Agency's population. </p> </td>
     </tr>
   </tfoot>
 </table>
