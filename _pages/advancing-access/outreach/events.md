@@ -12,28 +12,7 @@ permalink: /events/
 
 ## Public Events   
 
-The next meeting of the Board is scheduled for **Wednesday, October 30** from **1:30 – 3:00 p.m. (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
-
-Members of the public may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1616536186) or by phone (listen-only mode). **Please note that participation over Zoom will require the use of the passcode provided below**. For further information, contact Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov).
-
-**Meeting of the U.S. Access Board**\
-October 30, 2024, 1:30 PM – 3:00 PM (E.T.)\
-Zoom: [https://www.zoomgov.com/j/1616536186](https://www.zoomgov.com/j/1616536186)\
-Meeting ID: 161 653 6186\
-Passcode: 128200\
-Dial in: (646) 828-7666\
-Contact: [events@access-board.gov](mailto:events@access-board.gov)
-
-**_Agenda_**
-- Introductory Remarks and Roll Call
-- Board vote on approval of draft July 2024 meeting minutes
-- Executive Director’s Report
-- Standing Committee Reports
-- Election Assistance Commission
-- Ad Hoc Committee Reports
-- Federal Agency Updates
-- New Business
-- Adjourn
+The next meeting of the Board is scheduled for **Wednesday, January 29, 2025**. More details are forthcoming.
 
 ### Public Events Archives
 
@@ -54,7 +33,6 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- October 28 - 30, 2024, Virtual
 - January 27 - 29, 2025, Virtual
 - April 28 - 30, 2025, In-person, Washington, DC
 - July 8 - 10, 2025, In-person, New Orleans, LA
@@ -62,6 +40,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Board Meeting Archives
 
+- [October 30, 2024](https://www.youtube.com/live/Ixk98wNLldc)
 - [July 24, 2024](https://www.youtube.com/watch?v=JLJJ-LU2oUc&t=131s)
 - [January 24, 2024](https://www.youtube.com/watch?v=5xIJzszOph0&t=1017s)
 - [October 25, 2023](https://www.youtube.com/live/PTtRpkkejVg?si=anILhaJz1-tmkjgW&t=95)
