@@ -8,7 +8,6 @@ permalink: /ada/guides/animations/accessible-toilet-rooms.html
 ---
 <div class="text-center maxh-viewport">
     {% capture caption_path %}{{ page.caption-file }}{% endcapture %}
-    {% capture video_path %}{{  page.video-file }}{% endcapture %}
-    {% include video/video-file-player.html name= page.title  image= page.image video_path=video_path caption_path=caption_path %}
-    </div>
-    
+    {% capture video_path %}{{ page.video-file }}{% endcapture %}
+    {% include video/video-file-player.html name=page.title image= page.image video_path=video_path caption_path=caption_path %}
+</div>
