@@ -14,7 +14,7 @@ image: /images/uploads/ev_station.png
 image_alt_text: Graphic of an EV charging station with two pumps available. The
   station is vertical and there is a large screen and a set of buttons below it
   on the front.
-featured: true
+featured: false
 ---
 On September 3, the U.S. Access Board published a [notice of proposed rulemaking (NPRM)](https://www.federalregister.gov/documents/2024/09/03/2024-18820/americans-with-disabilities-act-and-architectural-barriers-act-accessibility-guidelines-ev-charging) to amend the accessibility guidelines for buildings and facilities covered by the Americans with Disabilities Act of 1990 (ADA) and the Architectural Barriers Act of 1968 (ABA) to specifically address the accessibility of electric vehicle (EV) charging stations. This proposed rule provides specifications for the accessibility of EV charging stations, to include the EV charger (including physical and communication access), EV charging space, access aisles, and accessible routes. The public can review the docket and read background documents or comments received on the [docket webpage](https://www.regulations.gov/docket/ATBCB-2024-0001).
 
