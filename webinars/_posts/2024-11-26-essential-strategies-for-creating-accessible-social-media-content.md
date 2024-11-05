@@ -8,11 +8,7 @@ excerpt: Every day, millions of Americans use social media to engage with their
   information, and provide essential services to all Americans, including
   individuals with disabilities. Among other requirements, Section 508 of the
   Rehabilitation Act mandates that federal agencies ensure equal access to
-  social media content, data, and platforms. Join us for an engaging session
-  where U.S. Access Board staff Amy Nieves, Public Affairs Specialist, and David
-  O’Keefe, Events and Communication Specialist, will present essential
-  strategies for federal social media managers and communication professionals
-  to ensure their content is accessible to all audiences. Participants will gain
+  social media content, data, and platforms. Join us for an engaging session where U.S. Access Board staff Amy Nieves, Public Affairs Specialist, and David O’Keefe, Events and Communication Specialist, along with Alex Lindeman, IT Specialist, Section 508 Program Coordinator with the National Park Service and Bryson Jones, National Social Media Manager with the U.S. Fish and Wildlife Service, will present essential strategies for federal social media managers and communication professionals to ensure their content is accessible to all audiences. Participants will gain
   a range of valuable techniques for crafting inclusive social media posts,
   writing effective alternative (alt) text, checking color contrast, using
   hashtags and emojis thoughtfully, and ensuring that video content is properly
@@ -32,7 +28,7 @@ webinar-end: November 26, 2024 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session?id=111139
 webinar: true
 ---
-Every day, millions of Americans use social media to engage with their favorite brands and influencers – including the federal government. Federal agencies have a crucial duty to engage the public effectively, share important information, and provide essential services to all Americans, including individuals with disabilities. Among other requirements, Section 508 of the Rehabilitation Act mandates that federal agencies ensure equal access to social media content, data, and platforms. Join us for an engaging session where U.S. Access Board staff Amy Nieves, Public Affairs Specialist, and David O’Keefe, Events and Communication Specialist, will present essential strategies for federal social media managers and communication professionals to ensure their content is accessible to all audiences. Participants will gain a range of valuable techniques for crafting inclusive social media posts, writing effective alternative (alt) text, checking color contrast, using hashtags and emojis thoughtfully, and ensuring that video content is properly captioned, among other important topics. Sign language interpreting and real time captioning will be provided. Participants can submit questions to the presenter during the registration process and at the end of the webinar.
+Every day, millions of Americans use social media to engage with their favorite brands and influencers – including the federal government. Federal agencies have a crucial duty to engage the public effectively, share important information, and provide essential services to all Americans, including individuals with disabilities. Among other requirements, Section 508 of the Rehabilitation Act mandates that federal agencies ensure equal access to social media content, data, and platforms. Join us for an engaging session where U.S. Access Board staff Amy Nieves, Public Affairs Specialist, and David O’Keefe, Events and Communication Specialist, along with Alex Lindeman, IT Specialist, Section 508 Program Coordinator with the National Park Service and Bryson Jones, National Social Media Manager with the U.S. Fish and Wildlife Service, will present essential strategies for federal social media managers and communication professionals to ensure their content is accessible to all audiences. Participants will gain a range of valuable techniques for crafting inclusive social media posts, writing effective alternative (alt) text, checking color contrast, using hashtags and emojis thoughtfully, and ensuring that video content is properly captioned, among other important topics. Sign language interpreting and real time captioning will be provided. Participants can submit questions to the presenter during the registration process and at the end of the webinar.
 
 ### Continuing Education Recognition Available
 
@@ -42,6 +38,10 @@ Every day, millions of Americans use social media to engage with their favorite 
 |     | Certificate of Attendance | 1.5              |
 
 ### Speakers:
+
+[Bryson Jones](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11109&ret=Essential%20Strategies%20for%20Creating%20Accessible%20Social%20Media%20Content), National Social Media Manager, **U.S. Fish and Wildlife Service**
+
+[Alex Lindeman](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11108&ret=Essential%20Strategies%20for%20Creating%20Accessible%20Social%20Media%20Content), IT Specialist, Section 508 Program Coordinator, **National Park Service**
 
 [Amy Nieves](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11099&ret=Essential%20Strategies%20for%20Creating%20Accessible%20Social%20Media%20Content), Public Affairs Specialist, **U.S. Access Board**
 
