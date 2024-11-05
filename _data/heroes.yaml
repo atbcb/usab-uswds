@@ -1,12 +1,12 @@
-- title: EV Charging Stations
-  text: "U.S. Access Board Seeks Public Comment on Proposed Rule for Electric Vehicle Charging Stations"
-  image: /images/stock/hero-ev2a.jpeg
-  description: electric vehicle plugged into ev charger
-  linkto: /news/2024/09/03/u-s-access-board-seeks-public-comment-on-proposed-rule-for-electric-vehicle-ev-charging-stations/
-  linktext: Learn More
+- title: 2024 IAAF, Nov 13 and 14
+  text: "The annual Interagency Accessibility Forum provides a venue for federal accessibility professionals including developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act."
+  image: /images/stock/hero-blue-world-crop.jpg
+  description: abstract digital blue globe
+  linkto: https://www.section508.gov/iaaf/
+  linktext: 2024 IAAF Information
   
 - title: Artificial Intelligence (AI) Hearings
-  text: "Access Board Hearings on Artificial Intelligence (AI) for Disability Community and AI Practitioners in August"
+  text: "Access Board Hearings on Artificial Intelligence (AI) for Disability Community and AI Practitioners"
   image: /images/stock/hero-ict-icons.jpg
   description: technology icons
   linkto: /ai/
