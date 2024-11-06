@@ -3,18 +3,18 @@ title: Performance and Accountability Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-banner-subtitle: Performance and Accountability Report Fiscal Year 2023
+banner-subtitle: Performance and Accountability Report Fiscal Year 2024
 permalink: /about/par.html
-file: usab-par-fy2023.pdf
-file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2023
+file: usab-par-fy2024.pdf
+file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2024
 ---
 <button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
 ## Performance and Accountability Report, Independent Auditor's Report, and Financial Statements
 
-### For the Fiscal Years Ended <br /> September 30, 2023 and 2022
+### For the Fiscal Years Ended <br /> September 30, 2024 and 2023
 
-#### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 13, 2023
+#### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 7, 2024
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -58,7 +58,7 @@ Executive Director
 
 --- 
 
-{% include_relative par-fy2023-10-mda.md %}
+{% include_relative par-fy2024/par-fy2024-10-mda.md %}
 
 --- 
 
