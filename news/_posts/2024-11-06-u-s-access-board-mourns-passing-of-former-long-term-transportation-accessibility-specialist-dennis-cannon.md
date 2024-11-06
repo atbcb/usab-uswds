@@ -8,10 +8,10 @@ excerpt: With great sadness, the U.S. Access Board mourns the passing of former
   the Transportation Accessibility Specialist for the Access board from
   1981-2010. As a long-time advocate for accessible transportation, his
   remarkable legacy of disability advocacy was evident in his service to the
-  Access Board. Cannon serviced on the [Passenger Vessels Access Advisory
-  Committee](https://www.access-board.gov/advisory-committee-reports/passenger-vessels/pvaac-report-intro/),
+  Access Board. Cannon serviced on the Passenger Vessels Access Advisory
+  Committee,
   where he supported efforts for accessible guidance and inclusive design for
-  passenger vessels. These efforts helped contribute to . . .
+  passenger vessels . . .
 image: /images/uploads/dennis-cannon.jpg
 image_alt_text: Dennis poses next to three other people. Dennis and two others
   are wheelchair users.
