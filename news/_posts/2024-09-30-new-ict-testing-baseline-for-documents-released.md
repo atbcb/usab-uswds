@@ -11,7 +11,7 @@ excerpt: On September 30, 2024, the ICT Testing Baseline Portfolio site
 image: /images/uploads/ictsection508key.jpg
 image_alt_text: "On a computer keyboard, the right shift button is replaced by a
   button that says: section 508."
-featured: true
+featured: false
 ---
 On September 30, 2024, the [ICT Testing Baseline Portfolio](https://ictbaseline.access-board.gov/document-baselines/) site published the new [ICT Testing Baseline for Documents](https://ictbaseline.access-board.gov/document-baselines/). This baseline establishes the minimum tests and evaluation guidance to determine if an electronic document meets Section 508 requirements. Federal agencies are encouraged to adopt this baseline when developing Section 508 conformance test processes for non-web electronic documents.
 
