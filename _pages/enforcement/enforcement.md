@@ -26,3 +26,22 @@ Do not file an ABA complaint if your concerns are related to something other tha
 4. Mail: U.S. Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004
 
 Complaints cannot be filed by phone, but if you are unable to file online or by e-mail due to a disability, call 202-272-0050 (voice).
+
+## Online ABA Complaint Form: Statement Concerning the Paperwork Reduction Act
+
+Pursuant to the Paperwork Reduction Act of 1995, and its implementing regulations at 5 CFR 1320.8(b)(3), note that the United States Access Board may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB Control Number. The Online ABA Complaint Form has OMB Control Number 3014-0012 (Expiration Date: 10/31/2026).
+
+## Online ABA Complaint Form: Privacy Act Statement
+
+### Authority
+The legal authority for collecting the information is 29 U.S.C. 792(b)(1); 42 U.S.C. 4151 et seq.; 36 CFR 1150; and 36 CFR 1191.   
+
+### Purpose
+The collection of contact information, which is voluntary, is to permit the agency to communicate with complainants throughout the investigative process.
+
+### Routine Uses 
+The information collected in the complaint form may be disclosed to a federal agency for the purpose of investigation and informal or formal resolution of the alleged violation of the ABA or if requested by another Federal agency pursuant to an administrative, civil, or criminal legal proceeding in which the Federal agency is a party. The identity of the complainant will only be shared if the complainant consents to disclosure.  The information collected may also be disclosed in accordance with the other routine uses listed in the SORN USAB.002 CTS. [Access Board Privacy Policy](https://www.access-board.gov/about/policy/privacy.html).
+
+### Disclosure
+Voluntary; however, failure to provide contact information will prevent the Access Board from keeping complainants up to date on the status of the investigation or any corrective action taken by the agency or department in question. 
+

@@ -24,15 +24,9 @@ The [Center for Democracy & Technology (CDT)](https://cdt.org/) is a nonpartisan
 
 A key element of the MOU is launching an informative and collaborative AI series that will include information sessions, public hearings, and sharing best practices. The **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series** is the first step toward these goals. As part of this series, the Access Board held public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. In total, three virtual hearing sessions took place: two for the disability community (on August 8, 2024) and one for federal agency and AI industry practitioners (on August 22, 2024). Real time captioning and sign language interpreting were provided online for all hearings.
 
-The hearings supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
+In addition to the virtual hearings, members of the public were invited to submit written comments via the [docket on Regulations.gov](https://www.regulations.gov/docket/ATBCB-2024-0005).
 
-### Written public comments will continue to be accepted until October 31, 2024
-
-- Email public comments to [events@access-board.gov](mailto:events@access-board.gov).
-  * Include "AI Written Comment" in the subject line.
-  * Include your name, organization if applicable, and specific AI topic with your comment.
-  * Written comments are limited to **300 words**.
-- Public comments may also be submitted via the Access Board's [docket on Regulations.gov](https://www.regulations.gov/document/ATBCB-2024-0005-0001).
+These hearings, and the comments that they generated, supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
 
 ## Meeting Archives
 

@@ -11,7 +11,7 @@ excerpt: Throughout the month of August, the U.S. Access Board held a series of
   artificial intelligence with respect to accessibility . . .
 image: /images/uploads/computer-with-wires.png
 image_alt_text: Minimalist graphic of a blue laptop with red wires spreading outwards from it.
-featured: true
+featured: false
 ---
 Throughout the month of August, the U.S. Access Board held a [series of public hearings](https://www.access-board.gov/news/2024/07/09/u-s-access-board-holds-hearings-on-artificial-intelligence-ai-for-disability-community-and-ai-practitioners/) on the impact of artificial intelligence (AI) on people with disabilities. On August 8, two hearings (in the morning and afternoon) were held to hear from members of the disability community. Additionally, a panel of speakers delivered remarks on the risks, benefits, and potential of artificial intelligence with respect to accessibility.
 
