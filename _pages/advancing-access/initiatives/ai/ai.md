@@ -28,6 +28,20 @@ In addition to the virtual hearings, members of the public were invited to submi
 
 These hearings, and the comments that they generated, supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
 
+### Preliminary Findings on the Risks and Benefits of AI
+
+As part of the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, the Access Board will present its preliminary findings on the risks and benefits of AI for people with disabilities. The findings are based on the outcomes of three recent AI hearings held in August 2024, independent research and engagements, as well as comments received from the public. The presentation will take place virtually on Thursday, December 12, 2024, from 2:00 – 3:30 p.m. (ET).
+
+**Attending the presentation of preliminary findings on AI:**
+* December 12, 2024, 2:00 – 3:30 p.m. (ET) 
+* Zoom Link: https://www.zoomgov.com/j/1601731944 
+* Meeting ID: 160 173 1944 
+* Passcode: 524293
+
+No pre-registration is required to attend the presentation. Real-time captioning and sign language interpreting will be provided during this session. Additional reasonable accommodation requests must be received by November 30, 2024, via [events@access-board.gov](mailto:events@access-board.gov). AI-specific questions can be directed to [ai@access-board.gov](mailto:ai@access-board.gov).
+
+Learn more about this session in the Access Board's [news release](https://www.access-board.gov/news/2024/11/07/u-s-access-board-presents-preliminary-findings-on-artificial-intelligence-ai-for-disability-community-and-ai-practitioners/).
+
 ## Meeting Archives
 
 Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1) to receive updates and reminders on the public hearings and other events. Press inquiries can be directed to Amy Nieves, Public Affairs Specialist at <news@access-board.gov>.
