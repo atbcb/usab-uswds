@@ -30,11 +30,11 @@ These hearings, and the comments that they generated, supported the Access Board
 
 ### Preliminary Findings on the Risks and Benefits of AI
 
-As part of the Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series, the Access Board will present its preliminary findings on the risks and benefits of AI for people with disabilities. The findings are based on the outcomes of three recent AI hearings held in August 2024, independent research and engagements, as well as comments received from the public. The presentation will take place virtually on Thursday, December 12, 2024, from 2:00 – 3:30 p.m. (ET).
+As part of the Developing AI Equity, Access & Inclusion for All Series, the Access Board will present its preliminary findings on the risks and benefits of AI for people with disabilities. The findings are based on the outcomes of the three recent AI hearings held in August 2024, independent research and engagements, as well as comments received from the public. The presentation will take place virtually on Thursday, December 12, 2024, from 2:00 – 3:30 p.m. (ET).
 
 **Attending the presentation of preliminary findings on AI:**
 * December 12, 2024, 2:00 – 3:30 p.m. (ET) 
-* Zoom Link: https://www.zoomgov.com/j/1601731944 
+* Zoom Link: [https://www.zoomgov.com/j/1601731944](https://www.zoomgov.com/j/1601731944)
 * Meeting ID: 160 173 1944 
 * Passcode: 524293
 
