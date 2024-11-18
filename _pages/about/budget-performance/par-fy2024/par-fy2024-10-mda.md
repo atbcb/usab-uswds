@@ -105,7 +105,7 @@ The Federal Information Security Act of 2002 (FISMA), as amended by the Federal 
 
 #### Performance Data Verification
 
-The Access Board requires accurate performance data to assess the agency's progress toward its strategic goals and make good management and program decisions.  The performance data reflected in Part Two of this report were compiled throughout the fiscal year during the normal course of agency business.  Although the information herein has not been subject to a formal validation process, it has been reviewed for accuracy by agency leadership.
+The Access Board requires accurate performance data to assess the agency's progress toward its strategic goals and make good management and program decisions.  The performance data reflected in Part Two of this report were compiled throughout the FY during the normal course of agency business.  Although the information herein has not been subject to a formal validation process, it has been reviewed for accuracy by agency leadership.
 
 ### Limitations on Financial Statements
 
