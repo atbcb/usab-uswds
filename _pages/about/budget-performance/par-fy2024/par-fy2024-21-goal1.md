@@ -34,7 +34,7 @@ However, kiosks and SSTMs have long posed accessibility barriers to people with 
 
 As part of its work for Objective 1.4, the Access Board has devoted attention to these emerging technologies and ubiquitous trends.  In FY 2023, the agency issued an advance notice of proposed rulemaking (ANPRM) on supplemental accessibility guidelines for SSTMs, seeking public comment on the Boards anticipated approach to accessibility guidelines for these devices. 
 
-In FY 2024, Board staff drafted an NPRM proposing technical accessibility specifications for SSTMs, as well as specific scoping for SSTMs in buildings and sites, public rights-of-way, and transportation vehicles. In addition, Board staff, with the assistance of a contractor, prepared the preliminary regulatory impact analysis for this rulemaking. The Board approved the rulemaking package for submission to OMB, where it is currently under review. The Access Board anticipates publication of the NPRM in December 2024..
+In FY 2024, Board staff drafted an NPRM proposing technical accessibility specifications for SSTMs, as well as specific scoping for SSTMs in buildings and sites, public rights-of-way, and transportation vehicles. In addition, Board staff, with the assistance of a contractor, prepared the preliminary regulatory impact analysis for this rulemaking. The Board approved the rulemaking package for submission to OMB, where it is currently under review.  The Access Board anticipates publication of the NPRM in December 2024.
 
 #### Electric Vehicle Charging Stations
 
@@ -44,30 +44,21 @@ In July 2022, the Access Board released the Technical Assistance Document “Des
 
 During FY 2023, the Access Board worked on a rulemaking to supplement the ADA and ABA Accessibility Guidelines to address access to EV charging stations, supporting Objective 1.1 and 1.4.  The Access Board entered into an interagency agreement with DOT’s Volpe Center, which has prepared a preliminary regulatory impact analysis (evaluating the costs and benefits of the proposed rule), and initial regulatory flexibility analysis (which considers the impact of the rule on small businesses).
 
-During FY 2024, the Access Board completed EO 12866 review and published the notice of proposed rulemaking on September 3, 2024 [89 FR 71215](https://www.federalregister.gov/d/2024-18820).  The public comment period ended on November 4, 2024
+During FY 2024, the Access Board completed EO 12866 review and published the notice of proposed rulemaking on September 3, 2024 [89 FR 71215](https://www.federalregister.gov/d/2024-18820).  The public comment period ended on November 4, 2024.
 
 #### Update of Existing ADA Accessibility Guidelines for Rail Vehicles
 
 The Access Board continues to work in the area of transportation and achieve Objective 1.1.  In FY 2022, the agency published an ANPRM to begin the process of updating its existing accessibility guidelines for rail vehicles covered by the ADA.  The Access Board received over 200 public comments, which were evaluated and analyzed in preparation for the proposed rule.
 
-ADA Accessibility Guidelines for Rail Vehicles will be addressed with an NPRM in 2023. The NPRM will address and incorporate comments received in response to the ANPRM and recommendations from the Access Board's Rail Vehicles Access Advisory Committee (RVAAC). The advisory committee, whose members included representatives from advocacy organizations, transit operators, rail car manufacturers, and other stakeholders, reviewed the existing rail car guidelines and identified areas that need to be updated because of accessibility issues, advances in technology, changes in car design, and other factors. Recommendations from the committee address rail car communications, boarding and alighting, on-board circulation, seating, and rooms and spaces. By taking seriously both the public's comments and RVAAC's recommendations for accessible rail vehicles, the Access Board contributes to the achievement of Objectives 1.3 and 1.4.
+ADA Accessibility Guidelines for Rail Vehicles will be addressed with an NPRM in 2023. The NPRM will address and incorporate comments received in response to the ANPRM and recommendations from the Access Board's Rail Vehicles Access Advisory Committee (RVAAC).  The advisory committee, whose members included representatives from advocacy organizations, transit operators, rail car manufacturers, and other stakeholders, reviewed the existing rail car guidelines and identified areas that need to be updated because of accessibility issues, advances in technology, changes in car design, and other factors.  Recommendations from the committee address rail car communications, boarding and alighting, on-board circulation, seating, and rooms and spaces.
 
-
-
-#### Advisory Guidelines for Onboard Wheelchairs
-
-As part of accomplishing Goal #1, the Access Board is developing voluntary, advisory guidelines for onboard wheelchairs used on commercial passenger aircraft to aid DOT in its separate rulemaking to improve access to air travel. DOT, as part of a negotiated rulemaking process, is undertaking rulemaking to supplement its regulations issued under the Air Carrier Access Act to improve access to lavatories for passengers with disabilities on single-aisle aircraft with over 125 seats. DOT's proposed rule, which was published in January 2020, included enhanced requirements to improve the safety and usability of onboard wheelchairs which enable passengers with mobility disabilities to access aircraft lavatories. Structured as performance standards, the requirements specify features and capabilities for onboard wheelchairs while allowing manufacturers flexibility in how to achieve them in the design of their products.
-
-At DOT's request, the Access Board drafted voluntary design guidelines for onboard wheelchairs that would assist air carriers and onboard wheelchair manufacturers by providing one example of how to satisfy DOT's performance standards. These non-binding guidelines, which the Access Board made available for public comment in FY 2019, would be optional; airlines would not be required to follow them and could use alternative designs that meet the level of accessibility specified by DOT's performance standards. The guidelines provide technical specifications (e.g., dimensions, features, and capabilities) for onboard wheelchairs.
-
-In FY 2021, the Access Board proceeded to finalize its guidelines based on its review of public comments on the proposed rule. It also coordinated with DOT on its rulemaking on aircraft lavatories. In December 2021, the Access Board and DOT held a joint public meeting to collect additional information needed to complete work on DOT's Final Rule and the Board's onboard wheelchair guidelines.
+The Access Board intends to publish an NPRM setting forth ADA Accessibility Guidelines for rail vehicles in June 2025.  The NPRM will address and incorporate comments received in response to the ANPRM and recommendations from the advisory committee.
 
 #### Board and Staff Participation in Development of Voluntary Consensus Standards
 
 To contribute to the achievement of Objectives 1.2, 1.4, and 1.5, Access Board staff also serve on numerous committees, technical working groups, and cooperative research panels to ensure that the agency's technical expertise and perspective are brought to bear on the development (or revision) of model codes and standards that affect accessibility in a wide range of settings, including such areas as: the built environment; recreational facilities; websites and web content; public transportation technologies; and traffic control devices.
 
-In FY 2022, staff served on, or worked with, the following model code groups, standard-setting organizations, and research cooperatives, including:
-
+In FY 2024, staff served on, or worked with, the following model code groups, standard-setting organizations, and research cooperatives, including:
 -   American Society of Testing and Materials (ASTM) Committee on Sports Equipment, Playing Surfaces, and Facilities;
 -   International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities (ANSI A117.1);
 -   National Committee on Uniform Traffic Control Devices (NCUTCD);
@@ -77,11 +68,18 @@ In FY 2022, staff served on, or worked with, the following model code groups, st
 -   Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility (CA);
 -   RESNA Standards Committee on Inclusive Fitness (IF);
 -   TRB Standing Committee on Innovative Public Transportation Services and Technologies;
--   RESNA Standards Committee for Assistive Technology for Air Travel (ATAT); and
--   World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) Accessibility Guidelines Working Group (AG WG).
+-   RESNA Standards Committee for Assistive Technology for Air Travel (ATAT);
+-   RESNA Standards Committee for Wheelchairs and Transportation; and
+-   World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) Liaison and Accessibility Guidelines Working Group (AG WG).
+-   Multimodal Accessible Transportation Standard Coordinating Committee
+-   National Collaboration on Bicycle, Pedestrian and Accessibility Infrastructure Data
 
-During FY 2022, Access Board leadership and staff also participated in several interagency committees and working groups that foster cooperation on accessibility-related issues. Among other things, the Access Board served on the National Institute of Standards and Technology (NIST)-sponsored Interagency Committee on Standards Policy (ICSP), which provides a forum for coordination of federal standards policies and promotion of standardization activities and reports to the Secretary of Commerce through the NIST Director. The Access Board also serves on the Artificial Intelligence Standards Coordination Working Group (AISCWG). The purpose of this working group is to facilitate the coordination of federal government agency activities related to the development and use of artificial intelligence (AI) standards, and to develop recommendations relating to AI standards  to the ICSP as appropriate. The AISCWG activities also support NIST's Federal Coordinator role for AI standards. The AISCWG reports to the Chair of the ICSP and advises the members of the ICSP on relevant issues.
-
-Access Board leadership (including the Executive Director, the General Counsel, and the OTIS Director) assist in the planning and participation in the Interagency Disability Senior Leadership Networking Group. Meeting monthly, the group serves as a collaborative forum for federal agencies (or components) with similar disability-related missions to share information and best practices and to establish new partnerships.
-
-Access Board staff also served on, and were actively involved with, the technically oriented Chief Information Officers Council's (CIOC) Accessibility Community of Practice (ACOP). Staff lead two of the three subcommittees of the ACOP, Best Practices and Education. Staff are also appointed to the Federal Communication Commission's (FCC) Disability Advisory Committee (DAC) as ex officio members.
+During FY 2024, Board staff also continued participating in numerous interagency committees and working groups that foster cooperation on accessibility-related issues, including the following:
+-  The OTIS Director assists in the planning and participates in the Interagency Disability Senior Disability Leadership Networking Group. Meeting quarterly, the group serves as a collaborative forum for federal agencies (or components) with similar disability-related missions to share information and best practices and to establish new partnerships.
+-  Board ICT staff are leaders in promoting understanding and compliance of the Section 508 standards through significant interagency contributions to the U.S. Federal Chief Information Officers Council’s (CIOC) Accessibility Community of Practice (ACOP). Board staff are active contributors to all three subcommittees, including Co-chairs for Education and Best Practices subcommittees and Project Lead for development of Accessibility Conformance Report evaluation guidance.
+-  Participation in developing interagency consensus guidance on accessible electronic documents.
+-  Co-leads of the interagency workgroup for the Section 508 ICT Testing Baseline Portfolio, which develops minimum testing requirements for Section 508 conformance and alignment validation.
+-  The Access Board is an ex officio member of the Federal Communication Commission (FCC) Disability Advisory Committee (DAC).
+-  National Institute of Standards and Technology (NIST)-sponsored Interagency Committee on Standards Policy (ICSP), which provides a forum for coordination of federal standards policies and promotion of standardization activities and reports to the Secretary of Commerce through the NIST Director.
+-  Artificial Intelligence Standards Coordination Working Group (AISCWG) that facilitates the coordination of federal government agency activities related to the development and use of artificial intelligence (AI) standards, and to develop recommendations relating to AI standards to the ICSP as appropriate. The AISCWG activities also support NIST’s Federal Coordinator role for AI standards. The AISCWG reports to the Chair of the ICSP and advises the members of the ICSP on relevant issues.
+-  Board staff meets quarterly with National Highway Traffic Safety Administration (NHTSA) staff to discuss research and advancements in accessible autonomous vehicles.
