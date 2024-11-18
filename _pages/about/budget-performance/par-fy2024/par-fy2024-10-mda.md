@@ -10,7 +10,7 @@ Today, the Access Board’s mission embraces frour main areas: development of ac
 ### Organizational Structure
 
 The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.&nbsp;
-Figure 1 depicts the agency's organizational structure in FY 2023.
+Figure 1 depicts the agency's organizational structure in FY 2024.
 
 <figure class="par">
   <figcaption>
@@ -29,17 +29,13 @@ Under the Access Board’s bylaws, the Board meets quarterly, with one of its Bo
 
 ### Staff Offices
 
-The Access Board's career staff is organized into four units/offices.  At the close of FY 2023, the agency had 27 full-time employees --- most of whom are professionals with subject-matter expertise in accessibility matters within the Access Board’s jurisdiction.  The agency’s physical office is in Washington, D.C. at 1331 F St. NW, Suite 1000.
+The Access Board's career staff is organized into four units/offices.  At the close of FY 2024, the agency had 26 full-time employees --- most of whom are professionals with subject-matter expertise in accessibility matters within the Access Board’s jurisdiction.  The agency’s physical office is in Washington, D.C. at 1331 F St. NW, Suite 1000.
 
 #### Office of the Executive Director
 
 The Office of the Executive Director (OED) is responsible for providing overall administrative leadership of the agency.  The Executive Director, who is appointed by the Governing Board, oversees the day-to-day operation of the agency by, among other things, setting agency-wide priorities and overseeing their performance, supervising agency personnel, ensuring that the budget is administered effectively and efficiently, coordinating Governing Board meetings, and representing the Access Board on inter-agency committees and other official events.
 
 In addition, the Rehabilitation Act of 1973 tasks the Executive Director with directing the Access Board’s ABA compliance and enforcement program, including, when needed, the issuance of formal citations (which initiate formal administrative proceedings when ABA complaints cannot be resolved voluntarily) and filing of civil actions to enforce final orders.  OED also directs the agency’s public affairs program, including managing its external communications, handling media relations, directing outreach activities and serving as point of contact for legislative affairs. 
-
-#### Office of Technical and Information Services
-
-The Office of Technical and Information Services (OTIS) leads the agency’s development of accessibility guidelines and standards for the built environment, public right-of-way, transportation vehicles, information and communication technology (ICT), and medical diagnostic equipment.  OTIS provides technical assistance and guidance to the public on these guidelines and standards.  It also conducts webinars and training on accessibility and manages some of the Access Board’s communication with the public, such as through the agency’s website.
 
 #### Office of General Counsel
 
@@ -48,6 +44,10 @@ The Office of General Counsel (OGC) provides legal expertise and counsel to Boar
 #### Office of Administration
 
 The Office of Administration (OA) coordinates and manages administrative support activities for the Access Board.  OA’s support includes the areas of human resources (HR), budget and finance, records management, and information technology (IT) operations and support.  Due to its small size, the Access Board has an inter-agency agreement with the Treasury Department’s Bureau of the Fiscal Service/Administrative Resource Center (BFS/ARC) for financial management, HR, procurement, and travel services.  OA is responsible for overseeing, and coordinating with, BFS/ARC as our shared services provider.  Although the Access Board is a “non-CFO” agency, OA employs a Financial Program Manager to oversee the agency’s finances and financial reports.
+
+#### Office of Technical and Information Services
+
+The Office of Technical and Information Services (OTIS) leads the agency’s development of accessibility guidelines and standards for the built environment, public right-of-way, transportation vehicles, information and communication technology (ICT), and medical diagnostic equipment.  OTIS provides technical assistance and guidance to the public on these guidelines and standards.  It also conducts webinars and training on accessibility and manages some of the Access Board’s communication with the public, such as through the agency’s website.
 
 ### Controls, Systems, and Legal Compliance
 
@@ -59,13 +59,13 @@ As a small, independent federal agency, Access Board leadership has found that i
 
 The objective of the Federal Managers’ Financial Integrity Act of 1982 (FMFIA) is to ensure that agencies have internal controls and financial systems in place that provide reasonable assurance of the effectiveness and efficiency of operations, reliability of financial reporting, and compliance with regulations and applicable laws. To that end, the FMFIA, as implemented, requires agencies to establish internal control processes consistent with guidelines established by OMB and the Comptroller General.  Agency heads must annually attest --- via a written assurance statement --- whether the agency does or does not comply with applicable FMFIA requirements.
 
-During FY 2023, the Access Board had several interagency agreements with other federal agencies for shared administrative services.  The Access Board contracted with BFS/ARC for financial management, HR, procurement, and travel services.  Other shared service included:  the General Services Administration (GSA) for internet, voice communication, Personal Identity Verification (PIV) card administration, and web hosting; the Department of Agriculture’s (USDA) National Financial Center (NFC) for payroll; the Department of the Interior’s (DOI) Interior Business Center for HR security and drug testing; the Office of Personnel Management (OPM) for employee relations consulting services, performance management program system; the Defense Counterintelligence and Security Agency (DCSA) for background investigations services; and the United States Postal Service (USPS) for EEO complaint investigation).
+During FY 2024, the Access Board had several interagency agreements with other federal agencies for shared administrative services.  The Access Board contracted with BFS/ARC for financial management, HR, procurement, and travel services.  Other shared service included:  the General Services Administration (GSA) for internet, voice communication, Personal Identity Verification (PIV) card administration, and web hosting; the Department of Agriculture’s (USDA) National Financial Center (NFC) for payroll; the Department of the Interior’s (DOI) Interior Business Center for HR security and drug testing; the Office of Personnel Management (OPM) for employee relations consulting services, performance management program system; the Defense Counterintelligence and Security Agency (DCSA) for background investigations services; and the United States Postal Service (USPS) for EEO complaint investigation).
 
 With respect to financial management and payroll systems, certain aspects of the Access Board’s financial management system are largely influenced by the controls, practices, and procedures employed by BFS/ARC and NFC.  Each has established practices and procedures that assure appropriate internal controls.
 
-BFS/ARC’s financial management system is audited annually for compliance with Statement on Standards for Attestation Engagements (SSAE) 18, and the Access Board receives quarterly SSAE 18 SOC 1 Type II Reports on the ongoing effectiveness of the system’s internal controls.  Likewise, NFC annually provides its customers/stakeholders with a written statement of assurance concerning the effectiveness of its financial reporting controls.
+BFS/ARC's financial management system is audited annually for compliance with Statement on Standards for Attestation Engagements (SSAE) 18, and the Access Board receives quarterly SSAE 18 SOC 1 Type II Reports on the ongoing effectiveness of the system’s internal controls.  Likewise, NFC annually provides its customers/stakeholders with a written statement of assurance concerning the effectiveness of its financial reporting controls.
 
-Moreover, the Access Board has implemented its own internal controls and procedures to complement the measures employed by its shared service providers. For example, the Access Board’s Finacial Program Manager reviews and reconciles financial reports from BFS/ARC quarterly to ensure that the agency’s obligations and disbursements have been properly recorded; additionally, year-end financial statements are reviewed to verify they are correct and accurate.  Agency procedure also requires the Finacial Program Manager to prospectively certify funds availability for all obligations.  In addition, the Finacial Program Manager and Director of OA conduct periodic reviews of internal systems, including travel, payroll, and procurement.  Lastly, the Access Board’s financial statements undergo annual audits by an independent accountant, which include review of the adequacy of its internal control systems.
+Moreover, the Access Board has implemented its own internal controls and procedures to complement the measures employed by its shared service providers.  For example, the Access Board's Finacial Program Manager reviews and reconciles financial reports from BFS/ARC quarterly to ensure that the agency’s obligations and disbursements have been properly recorded; additionally, year-end financial statements are reviewed to verify they are correct and accurate.  Agency procedure also requires the Finacial Program Manager to prospectively certify funds availability for all obligations.  In addition, the Finacial Program Manager and Director of OA conduct periodic reviews of internal systems, including travel, payroll, and procurement.  Lastly, the Access Board’s financial statements undergo annual audits by an independent accountant, which include review of the adequacy of its internal control systems.
 
 For these reasons, the Access Board can provide reasonable assurance that internal controls over financial reporting are operating effectively and that there are no material weaknesses relating to the design or operation of internal controls over financial reporting.
 
@@ -77,27 +77,27 @@ Under the Accountability of Tax Dollars Act of 2002 (codified at 31 U.S.C. § 35
 
 In 2020, the Payment Integrity Information Act of 2019 (PIIA) became law. The PIIA repealed the prior statutory regime and established new requirements concerning federal agency obligations to prevent, identify, and annually report on improper payments (e.g., payment of incorrect amount, duplicate payment). There are, however, some differences. For example, unlike its predecessors, the PIIA establishes a monetary threshold for “significance” determinations, requires agencies to post improper payment reports on their respective websites, tasks OMB with developing PIIA guidance for agencies, and requires OMB to create a centralized website for agencies’ improper payment reports concerning OMB-designated “high-priority” programs.
 
-Because OMB has not yet issued implementing guidance under the PIIA, the contours of agencies' reporting and/or assurance obligations remains unknown.  Nonetheless, the Access Board can definitively state that, based on the PIIA's statutory definition of "significance," the agency had no programs/activities at significant risk of improper payments in FY 2023.
+Because OMB has not yet issued implementing guidance under the PIIA, the contours of agencies' reporting and/or assurance obligations remains unknown.  Nonetheless, the Access Board can definitively state that, based on the PIIA's statutory definition of "significance," the agency had no programs/activities at significant risk of improper payments in FY 2024.
 
 #### Debt Collection Improvement Act of 1996 (DCIA)
 
-The Debt Collection Improvement Act of 1996 (DCIA), as amended, maximizes collection of delinquent debts owed to the federal government by facilitating timely action to collect outstanding debts and minimizing collection costs through use of centralized and/or cross-agency collection mechanisms for most non-tax debts.  Under the DCIA, federal agencies are required to refer non-tax debts that have been delinquent for more than 120 days to the Treasury Department for collection.
+The Debt Collection Improvement Act of 1996 (DCIA), as amended, maximizes collection of delinquent debts owed to the federal government by facilitating timely action to collect outstanding debts and minimizing collection costs using centralized and/or cross-agency collection mechanisms for most non-tax debts.  Under the DCIA, federal agencies are required to refer non-tax debts that have been delinquent for more than 120 days to the Treasury Department for collection.
 
 The Access Board pursues the collection of delinquent debt.  When it does have DCIA-covered accounts that have been past due for more than 120 days, these debts are referred to the U.S. Treasury for collection.
 
 #### Prompt Payment Act of 1982
 
-The Prompt Payment Act requires federal agencies to make timely payments to vendors for covered supplies and services, pay an interest penalty when payment is made after the due date, and take cash discounts when economically justified.  The Access Board always strives to maintain a 100% on-time payment rate and, in FY 2023, incurred $0 in interest penalties.  The agency will work to maintain 100% on-time vendor payments in future fiscal years.
+The Prompt Payment Act requires federal agencies to make timely payments to vendors for covered supplies and services, pay an interest penalty when payment is made after the due date, and take cash discounts when economically justified.  The Access Board always strives to maintain a 100% on-time payment rate and, in FY 2024, incurred $0 in interest penalties.  The agency will work to maintain 100% on-time vendor payments in future fiscal years.
 
 #### Digital Accountability and Transparency Act of 2014 (DATA Act)
 
 The Digital Accountability and Transparency Act of 2014 (the DATA Act) requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website [USAspending.gov](https://www.usaspending.gov/), the official open data source of federal spending information.
 
-BFS/ARC has implemented software that enables the Access Board to comply with DATA Act requirements. In FY 2023, the agency was compliant with applicable DATA Act requirements and timely submitted all certifications.
+BFS/ARC has implemented software that enables the Access Board to comply with DATA Act requirements.  In FY 2024, the agency was compliant with applicable DATA Act requirements and timely submitted all certifications timely.
 
 #### Anti-Deficiency Act
 
-The Anti-Deficiency Act prohibits federal employees from obligating more funds than are available under an appropriation, or before appropriated funds are available, or from volunteering their services to the federal government.  The Access Board had no anti-deficiency violations in FY 2023.  As required by this Act, the agency would notify appropriate authorities were such a violation to occur.
+The Anti-Deficiency Act prohibits federal employees from obligating more funds than are available under an appropriation, or before appropriated funds are available, or from volunteering their services to the federal government.  The Access Board had no anti-deficiency violations in FY 2024.  As required by this Act, the agency would notify appropriate authorities were such a violation to occur.
 
 #### Computer Information and Security Program
 
