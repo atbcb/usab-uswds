@@ -116,7 +116,7 @@ During FY 2024, a new, enforceable ABA standard went into effect with GSA’s Ju
 
 #### Raising Awareness of ABA Compliance and Enforcement
 
-Aside from ABA enforcement, Objective 3.1 also addresses enhancing awareness of the ABA and the Access Board’s enforcement role. For the benefit of other agencies and the public at-large, the Access Board continues to publicize results from its ABA enforcement program on its website and social media accounts. In FY 2024, the Access Board disseminated a YouTube video on the ABA, the Board’s enforcement role, and the process for complaint filing.
+Aside from ABA enforcement, Objective 3.1 also addresses enhancing awareness of the ABA and the Access Board’s enforcement role. For the benefit of other agencies and the public at-large, the Access Board continues to publicize results from its ABA enforcement program on its website and social media accounts.  In FY 2024, the Access Board disseminated a YouTube video on the ABA, the Board’s enforcement role, and the process for complaint filing.
 
 As a follow-up to its resource, "Recommendations and Resources to Assist Agencies in Identifying and Advancing Priorities for Facility Accessibility" (developed and disseminated to agencies government-wide by OPM in FY 2022), the Access Board planned to develop and disseminate a checklist federal agencies could use to assess the accessibility of their facilities, in FY 2024.  However, due to the exigencies of the ABA enforcement program (and the nearly 70% increase in complaint filings from the year prior), the Access Board was forced to delay the checklist project to focus on handling substantive ABA complaints. 
 
