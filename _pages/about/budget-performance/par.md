@@ -224,21 +224,20 @@ Other liabilities account balances as of September 30, 2023 were as follows:
 
 ##### Operating Leases
 
-Access Board occupies office space under a lease agreement that is accounted for as an operating lease.&nbsp;
-The lease term begins on January 1, 2022 and expires on December 31, 2036, which includes deferred rent.&nbsp;
-Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.&nbsp;
-The total operating lease expense for fiscal years 2023 and 2022 were $666,477 and $658,488, respectively.&nbsp;
+Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.  The lease term begins on January 1, 2022 and expires on December 31, 2036.  Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.  The total operating lease expense for fiscal years 2024 and 2023 were $720,475 and $666,477, respectively.
+
 Below is a schedule of future payments for the term of the lease.
 
-| Fiscal Year | Asset Category <br> Building |
-| :---        | ---:      |
-| 2024        |   726,168 |
-| 2025        |   735,207 |
-| 2026        |   744,516 |
-| 2027        |   765,119 |
-| 2028        |   778,774 |
-| Thereafter  | 6,899,114 |
-| **Total Future Lease Payments** | **$ 10,648,979** |
+| Fiscal Year | Office<br /> Space | Total<br /> Federal |
+| :---        | ---:      | ---:      |
+| 2025        | $ 735,207 | $ 735,207 |
+| 2026        |   744,516 |   744,516 |
+| 2027        |   765,119 |   765,119 |
+| 2028        |   778,774 |   778,774 |
+| 2029        |   788,946 |   788,946 |
+| 2030-2034   | 4,149,004 | 4,149,004 |
+| 2035-2037   | 1,961,164 | 1,961,164 |
+| **Total**   | **$ 9,922,810** | **$ 9,922,810** |
 {: .par-money }
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
@@ -252,58 +251,58 @@ Access Board recognizes as inter-entity costs the amount of accrued pension and 
 The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.&nbsp;
 For the periods ended September 30, 2023 and 2022, respectively, inter-entity costs were as follows:
 
-| &nbsp;                              | 2023          | 2022          |
-| :---                                | ---:          | ---:          |
-| Office of Personnel Management      | $ 324,703     | $ 221,092     |
-| **Total Imputed Financing Sources** | **$ 324,703** | **$ 221,092** |
+| &nbsp;                              |  2024   |  2023      |
+| :---                                | ---:    | ---:       |
+| Office of Personnel Management      | 413,500 | $ 324,703  |
+| **Total Imputed Financing Sources** | **$ 413,500** | **$ 324,703** |
 {: .par-money }
 
 #### NOTE 9. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
-As of September 30, 2023, budgetary resources obligated for undelivered orders were as follows.
+Budgetary resources obligated for undelivered orders as of September 30, 2024 and 2023 were as follows:
 
-| &nbsp;                       | Federal         | Non-Federal     | Total           |
+| 2024                         | Federal         | Non-Federal     | Total           |
+| :---                         | ---:            | ---:            | ---:            |
+| Paid Undelivered Orders      | $ 136,270       | $ -             | $ 309,000       |
+| Unpaid Undelivered Orders    | 1,014,427       |  973,974        | 3,275,070       |
+| **Total Undelivered Orders** | **$ 1,150,697** | **$ 2,257,408** | **$ 3,584,070** |
+{: .par-money }
+
+
+| 2023                         | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
 | Paid Undelivered Orders      | $ 133,000       | $ -             | $ 133,000       |
-| Unpaid Undelivered Orders    | 1,402,686       | 1,108,940       | 3,275,070       |
+| Unpaid Undelivered Orders    | 1,402,686       | 1,108,940       | 2,511,626       |
 | **Total Undelivered Orders** | **$ 1,536,088** | **$ 1,108,940** | **$ 2,645,028** |
 {: .par-money }
 
-As of September 30, 2022, budgetary resources obligated for undelivered orders were as follows:
-
-| &nbsp;                       | Federal         | Non-Federal     | Total           |
-| :---                         | ---:            | ---:            | ---:            |
-| Paid Undelivered Orders      | $ 309,000       | $ -             | $ 309,000       |
-| Unpaid Undelivered Orders    | 1,017,662       | 2,257,408       | 3,275,070       |
-| **Total Undelivered Orders** | **$ 1,326,662** | **$ 2,257,408** | **$ 3,584,070** |
-{: .par-money }
 
 #### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
 The President's Budget that will include fiscal year 2023 actual budgetary execution information has not yet been published.&nbsp;
-The President's Budget is scheduled for publication in February 2024 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.&nbsp;
-The 2024 Budget of the United States Government, with the "Actual" column completed for 2022, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+The President's Budget is scheduled for publication in February 2025 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.&nbsp;
+The fiscal yaer 2025 Budget of the United States Government, with the "Actual" column completed for 2023, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
-In Millions
+(In Millions)
 
 | &nbsp; | Budgetary<br /> Resources | New Obligations<br /> & Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
 | :---                                      | ---:     | ---:    | ---:    | ---:    |
-| Combined Statement of Budgetary Resources | $ 11     | $ 9     | &nbsp;  | $ 8     |
-| Difference -- Due to Rounding             | (1)      | -       | &nbsp;  | -       |
-| **Budget of the U.S. Government**         | **$ 10** | **$ 9** | &nbsp;  | **$ 8** |
+| Combined Statement of Budgetary Resources | $ 11     | $ 9     | $ -     | $ 9     |
+| Unobligated Balance Not Available         | (1)      | -       | -       | -       |
+| **Budget of the U.S. Government**         | **$ 10** | **$ 9** | -       | **$ 9** |
 {: .par-money }
 
 #### NOTE 11. RECONCILIATION OF NET COST TO NET OUTLAYS
 
 The reconciliation of net outlays, presented on a budgetary basis, and the net cost, presented on an accrual basis, provides an explanation of the relationship between budgetary and financial accounting information.
 
-##### Reconciliation of Net Costs to Net Outlays as September 30, 2023:
+##### Reconciliation of Net Costs to Net Outlays as September 30, 2024:
 
-{% include_relative par-fy2024/par-fy2024-61-note11-23.html %}
+{% include_relative par-fy2024/par-fy2024-61-note11-24.html %}
 
-##### Reconciliation of Net Cost to Net Outlays, as September 30, 2022:
+##### Reconciliation of Net Cost to Net Outlays, as September 30, 2023:
 
-{% include_relative par-fy2024/par-fy2024-62-note11-22.html %}
+{% include_relative par-fy2024/par-fy2024-62-note11-23.html %}
 
 --- 
 
