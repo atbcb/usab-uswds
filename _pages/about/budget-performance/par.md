@@ -78,12 +78,12 @@ Executive Director
 
 ## Independent Auditor's Report <br /> and <br /> Financial Statements
 
-### For the Fiscal Years Ended <br /> *September 30, 2023 and 2022*
+### For the Fiscal Years Ended <br /> *September 30, 2024 and 2023*
 
 ![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
 {: .img-grid }
 
-#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 13, 2023
+#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 13, 2024
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -105,7 +105,7 @@ Executive Director
 
 ### Balance Sheet
 
-**As of September 30, 2023 and 2022 <br /> (In Dollars)**
+**As of September 30, 2024 and 2023 <br /> (In Dollars)**
 
 {% include_relative par-fy2024/par-fy2024-41-bs.html %}
 
@@ -117,7 +117,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ### Statement of Net Cost
 
-**For the Years Ended September 30, 2023 and 2022 <br /> (In Dollars)**
+**For the Years Ended September 30, 2024 and 2023 <br /> (In Dollars)**
 
 {% include_relative par-fy2024/par-fy2024-42-snc.html %}
 
@@ -129,7 +129,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ### Statement of Changes in Net Position
 
-**As of September 30, 2023 and 2022 <br /> (In Dollars)**
+**As of September 30, 2024 and 2023 <br /> (In Dollars)**
 
 {% include_relative par-fy2024/par-fy2024-43-scnp.html %}
 
@@ -141,7 +141,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ### Statement of Budgetary Resources
 
-**For the Years Ended September 30, 2023 and 2022 <br /> (In Dollars)**
+**For the Years Ended September 30, 2024 and 2023 <br /> (In Dollars)**
 
 {% include_relative par-fy2024/par-fy2024-44-sbr.html %}
 
@@ -157,7 +157,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 #### NOTE 2. FUND BALANCE WITH TREASURY
 
-Fund Balance with Treasury account balances as of September 30, 2023 and 2022, respectively, are shown below.
+Fund Balance with Treasury account balances as of September 30, 2024 and 2023, respectively, are shown below.
 
 {% include_relative par-fy2024/par-fy2024-52-note2.html %}
 
@@ -173,24 +173,24 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 #### NOTE 3. ACCOUNTS RECEIVABLE, NET
 
-Accounts receivable balances as of September 30, 2023 and 2022, respectively, were as follows.
+Accounts receivable balances as of September 30, 2024 and 2023, respectively, were as follows.
 
 {% include_relative par-fy2024/par-fy2024-53-note3.html %}
 
 The accounts receivable is primarily made up of employee receivables and debt.
 
 Historical experience has indicated that the majority of the receivables are collectible.&nbsp;
-There are no material uncollectible accounts as of September 30, 2023 and 2022.
+There are no material uncollectible accounts as of September 30, 2024 and 2023.
 
 #### NOTE 4. PROPERTY, PLANT AND EQUIPMENT, NET
 
-Schedule of Property, Plant and Equipment, Net as of September 30, 2022:
+Schedule of Property, Plant and Equipment, Net as of September 30, 2024:
 
-{% include_relative par-fy2024/par-fy2024-54-note4-23.html %}
+{% include_relative par-fy2024/par-fy2024-54-note4-24.html %}
 
-Schedule of General Property, Plant and Equipment, Net as of September 30, 2022.
+Schedule of General Property, Plant and Equipment, Net as of September 30, 2023.
 
-{% include_relative par-fy2024/par-fy2024-55-note4-22.html %}
+{% include_relative par-fy2024/par-fy2024-55-note4-23.html %}
 
 #### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
@@ -212,13 +212,13 @@ Sick and other leave is expensed as taken.
 
 #### NOTE 6. OTHER LIABILITIES
 
+Other liabilities account balances as of September 30, 2024 were as follows:
+
+{% include_relative par-fy2024/par-fy2024-57-note6-24.html %}
+
 Other liabilities account balances as of September 30, 2023 were as follows:
 
-{% include_relative par-fy2024/par-fy2024-57-note6-23.html %}
-
-Other liabilities account balances as of September 30, 2022 were as follows:
-
-{% include_relative par-fy2024/par-fy2024-58-note6-22.html %}
+{% include_relative par-fy2024/par-fy2024-58-note6-23.html %}
 
 #### NOTE 7. LEASES
 
