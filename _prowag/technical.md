@@ -16,7 +16,7 @@ The technical requirements in Chapter 3 shall apply where required by Chapter 2 
 
 Except as provided in R302.2.1 and R302.2.2, the continuous clear width of *pedestrian access routes* shall be 48 inches (1220 mm) minimum, exclusive of the width of any *curb*.
 
-![continuous clear width](./images/R302-2_continuous_clear_width.png){: img-grid }
+![continuous clear width](./images/R302-2_continuous_clear_width.png){: .img-grid }
 
 ##### R302.2.1 Medians and Pedestrian Refuge Islands
 
@@ -94,9 +94,9 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%). Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
-![changes in level 1 of 2](./images/R302-6-2-a_changes_in_level.png){: img-grid }
+![changes in level 1 of 2](./images/R302-6-2-a_changes_in_level.png){: .img-left }
 
-![changes in level 2 of 2](./images/R302-6-2-b_changes_in_level.png){: img-grid }
+![changes in level 2 of 2](./images/R302-6-2-b_changes_in_level.png){: .img-rigth }
 
 ##### R302.6.3 Horizontal Openings
 
