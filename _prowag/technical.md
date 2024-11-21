@@ -16,6 +16,8 @@ The technical requirements in Chapter 3 shall apply where required by Chapter 2 
 
 Except as provided in R302.2.1 and R302.2.2, the continuous clear width of *pedestrian access routes* shall be 48 inches (1220 mm) minimum, exclusive of the width of any *curb*.
 
+![continuous clear width](./images/R302-2_continuous_clear_width.png){: img-grid }
+
 ##### R302.2.1 Medians and Pedestrian Refuge Islands
 
 The clear width of *pedestrian access routes* crossing *medians* and *pedestrian refuge islands* shall be 60 inches (1525 mm) minimum, except that where *shared use paths* cross *medians* and *pedestrian refuge islands* the clear width of the *pedestrian access route* shall be 60 inches (1525 mm) minimum or at least as wide as the *crosswalk,* whichever is greater.
@@ -39,9 +41,11 @@ Except as provided in R302.4.3, where a *pedestrian access route* is contained w
 EXCEPTION: Where the *grade* established for the adjacent *street* exceeds 1:20 (5.0%), the *grade* of the *pedestrian access route* shall not exceed the *grade* established for the adjacent *street*.
 
 ##### R302.4.2 Not Within Highway Right-of-Way
+
 Where a *pedestrian access route* is not contained within a *highway* right-of-way, the *grade* of the *pedestrian access route* shall not exceed 1:20 (5.0%).
 
 ##### R302.4.3 Within a Crosswalk
+
 Where a *pedestrian access route* is contained within a *crosswalk*, the *grade* of the *pedestrian access route* shall be 1:20 (5.0%) maximum.
 
 EXCEPTION: Where *roadway* design requires superelevation greater than 1:20 (5.0%) at the location of a *crosswalk*, the *grade* of the *pedestrian access route* within the *crosswalk* may be the same as the superelevation.
@@ -69,6 +73,7 @@ Where a *pedestrian access route* is contained within a *crosswalk* at an inters
 Where a *pedestrian access route* is contained within a *crosswalk* at an uncontrolled approach, the *cross slope* of the *pedestrian access route* shall be 1:20 (5.0%) maximum.
 
 ###### R302.5.2.3 Crosswalk with Traffic Control Signal or Pedestrian Hybrid Beacon
+
 Where a *pedestrian access route* is contained within a *crosswalk* at an intersection approach controlled by a traffic control signal or *pedestrian hybrid beacon*, the *cross slope* of the *pedestrian access route* shall be 1:20 (5.0%) maximum.
 
 ###### R302.5.2.4 Midblock and Roundabout Crosswalks
