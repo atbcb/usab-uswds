@@ -30,6 +30,8 @@ On *shared use paths*, the clear width of the *pedestrian access route* shall ex
 
 Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum. Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum. Passing spaces and *pedestrian access routes* are permitted to overlap.
 
+![passing spaces](./images/R302-3_passing_spaces.png)
+
 #### R302.4 Grade
 
 The *grade* of *pedestrian access routes* shall comply with R302.4, except the *grade* of *curb ramps* and *blended transitions* shall comply with R304 and the *grade* of *ramps* shall comply with R407.
@@ -91,6 +93,10 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 ##### R302.6.2 Changes in Level
 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%). Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
+
+![changes in level 1 of 2](./images/R302-6-2-a_changes_in_level.png)
+
+![changes in level 2 of 2](./images/R302-6-2-b_changes_in_level.png){: img-grid }
 
 ##### R302.6.3 Horizontal Openings
 
