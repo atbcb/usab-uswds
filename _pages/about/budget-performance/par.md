@@ -181,11 +181,9 @@ The accounts receivable is primarily made up of employee receivables and debt.  
 
 #### NOTE 4. PROPERTY, PLANT AND EQUIPMENT, NET
 
-Schedule of Property, Plant and Equipment, Net as of September 30, 2024:
+Schedule of Property, Plant and Equipment, Net as of September 30, 2024 and 2023:
 
 {% include_relative par-fy2024/par-fy2024-54-note4-24.html %}
-
-Schedule of General Property, Plant and Equipment, Net as of September 30, 2023.
 
 {% include_relative par-fy2024/par-fy2024-55-note4-23.html %}
 
