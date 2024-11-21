@@ -18,6 +18,8 @@ The financial statements have been prepared to report the financial position and
 
 The statements are a requirement of the Chief Financial Officers Act of 1990, the Government Management Reform Act of 1994 and the Accountability of Tax Dollars Act of 2002.  They have been prepared from, and are fully supported by, the books and records of the Access Board in accordance with the hierarchy of accounting principles generally accepted in the United States of America, standards issued by the Federal Accounting Standards Advisory Board (FASAB), Office of Management and Budget (OMB) Circular A-136, *Financial Reporting Requirements*, as amended, and the Access Board accounting policies which are summarized in this note.  These statements, with the exception of the Statement of Budgetary Resources, are different from financial management reports, which are also prepared pursuant to OMB directives that are used to monitor and control the Access Board's use of budgetary resources.  The financial statements and associated notes are presented on a comparative basis.  Unless specified otherwise, all amounts are presented in dollars.
 
+Starting in fiscal year 2024, Federal reporting entities are required to report a right-to-use lease asset and a lease liability for non-intragovernmental, non-short-term contracts or agreements, when the entity has the right to obtain and control access to economic benefits or services from an underlying property, plant, or equipment asset for a period of time in exchange for consideration under the terms of the contract or agreement. 
+
 ##### C. Basis of Accounting
 
 Transactions are recorded on both an accrual accounting basis and a budgetary basis.  Under the accrual method, revenues are recognized when earned, and expenses are recognized when a liability is incurred, without regard to receipt or payment of cash.  Budgetary accounting facilitates compliance with legal requirements on the use of federal funds.
@@ -69,7 +71,7 @@ The Federal Employees' Compensation Act (FECA) administered by the U.S. Departme
 
 ##### K. Retirement Plans
 
-The Access Board employees participate in either the CSRS or the FERS.  The employees who participate in CSRS are beneficiaries of the agency's matching contribution, equal to seven percent of pay, distributed to their annuity account in the Civil Service Retirement and Disability Fund.
+The Access Board employees participate in either the CSRS or the FERS.  The employees who participate in CSRS are beneficiaries of the Access Board matching contribution, equal to seven percent of pay, distributed to their annuity account in the Civil Service Retirement and Disability Fund.
 
 Prior to December 31, 1983, all employees were covered under the CSRS program.  From January 1, 1984 through December 31, 1986, employees had the option of remaining under CSRS or joining FERS and Social Security.  Employees hired as of January 1, 1987 are automatically covered by the FERS program.  Both CSRS and FERS employees may participate in the federal Thrift Savings Plan (TSP).  FERS employees receive an automatic agency contribution equal to one percent of pay and the Access Board matches any employee contribution up to an additional four percent of pay.  For FERS participants, the Access Board also contributes the employer's matching share of Social Security.
 
@@ -89,7 +91,7 @@ The preparation of the accompanying financial statements in accordance with gene
 
 ##### N. Reclassification
 
-Certain fiscal year 2021 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
+Certain fiscal year 2023 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
 
 ##### O. Classified Activities
 
