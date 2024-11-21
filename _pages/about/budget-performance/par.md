@@ -177,10 +177,7 @@ Accounts receivable balances as of September 30, 2024 and 2023, respectively, we
 
 {% include_relative par-fy2024/par-fy2024-53-note3.html %}
 
-The accounts receivable is primarily made up of employee receivables and debt.
-
-Historical experience has indicated that the majority of the receivables are collectible.&nbsp;
-There are no material uncollectible accounts as of September 30, 2024 and 2023.
+The accounts receivable is primarily made up of employee receivables and debt.  Historical experience has indicated that the majority of the receivables are collectible.  There are no material uncollectible accounts as of September 30, 2024 and 2023.
 
 #### NOTE 4. PROPERTY, PLANT AND EQUIPMENT, NET
 
