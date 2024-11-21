@@ -30,7 +30,7 @@ On *shared use paths*, the clear width of the *pedestrian access route* shall ex
 
 Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum. Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum. Passing spaces and *pedestrian access routes* are permitted to overlap.
 
-![passing spaces](./images/R302-3_passing_spaces.png)
+![passing spaces](./images/R302-3_passing_spaces.png){: .img-grid }
 
 #### R302.4 Grade
 
