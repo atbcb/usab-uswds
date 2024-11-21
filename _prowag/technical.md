@@ -96,11 +96,13 @@ Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. 
 
 ![changes in level 1 of 2](./images/R302-6-2-a_changes_in_level.png){: .img-left }
 
-![changes in level 2 of 2](./images/R302-6-2-b_changes_in_level.png){: .img-rigth }
+![changes in level 2 of 2](./images/R302-6-2-b_changes_in_level.png){: .img-right }
 
 ##### R302.6.3 Horizontal Openings
 
 Horizontal openings in ground surfaces, such as those in gratings and joints, other than flangeway gaps (see R302.6.4), shall not allow passage of a sphere larger than ½ inch (13 mm) in diameter. Except where multiple directions of travel intersect, elongated openings are permitted and shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
+
+![horizontal openings](./images/R302-6-3_horizontal_openings.png){: .img-grid }
 
 ##### R302.6.4 Surfaces at Pedestrian At-Grade Rail Crossings
 
