@@ -287,6 +287,8 @@ EXCEPTIONS:  1.  On-street parking spaces designated exclusively as residentia
 
 Where parking spaces are provided on a *block perimeter* and are metered or designated by signs or pavement markings, *accessible* parking spaces complying with R310 shall be provided in accordance with Table R211. Where parking is metered or designated by signs or pavement markings, but individual spaces are not marked, each 20 feet (6.1 m) of *block perimeter* where parking is designated shall be counted as one parking space.
 
+![parking on block perimeter](./images/R211-2_parking_on_block_perimeter.png)
+
 #### R211.3 Parking not on Block Perimeter
 
 Where parking spaces are provided on a section of a *street* that is not part of a *block perimeter*, *accessible* parking spaces complying with R310 shall be provided in accordance with Table R211. Where parking is metered or designated by signs or pavement markings, but individual spaces are not marked, each 20 feet (6.1 m) of *street* where parking is designated shall be counted as one parking space.
