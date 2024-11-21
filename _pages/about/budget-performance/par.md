@@ -205,11 +205,9 @@ Sick and other leave is expensed as taken.
 
 #### NOTE 6. OTHER LIABILITIES
 
-Other liabilities account balances as of September 30, 2024 were as follows:
+Other liabilities account balances as of September 30, 2024 and 2023, were as follows:
 
 {% include_relative par-fy2024/par-fy2024-57-note6-24.html %}
-
-Other liabilities account balances as of September 30, 2023 were as follows:
 
 {% include_relative par-fy2024/par-fy2024-58-note6-23.html %}
 
