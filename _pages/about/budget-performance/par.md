@@ -262,11 +262,10 @@ Budgetary resources obligated for undelivered orders as of September 30, 2024 an
 
 | 2023                         | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
-| Paid Undelivered Orders      | $ 133,000       | $ -             | $ 133,000       |
+| Paid Undelivered Orders      | $ 133,402       | $ -             | $ 133,000       |
 | Unpaid Undelivered Orders    | 1,402,686       | 1,108,940       | 2,511,626       |
 | **Total Undelivered Orders** | **$ 1,536,088** | **$ 1,108,940** | **$ 2,645,028** |
 {: .par-money }
-
 
 #### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
