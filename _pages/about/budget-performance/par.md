@@ -198,8 +198,6 @@ This was due to a new lease agreement entered into that had rent abatement provi
 
 {% include_relative par-fy2024/par-fy2024-56-note5.html %}
 
-FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on Access Board's name behalf and payable to the DOL.
-
 Unfunded leave represents a liability for earned leave and is reduced when leave is taken.&nbsp;
 The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.&nbsp;
 Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.&nbsp;
