@@ -94,7 +94,7 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%). Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
-![changes in level 1 of 2](./images/R302-6-2-a_changes_in_level.png)
+![changes in level 1 of 2](./images/R302-6-2-a_changes_in_level.png){: img-grid }
 
 ![changes in level 2 of 2](./images/R302-6-2-b_changes_in_level.png){: img-grid }
 
