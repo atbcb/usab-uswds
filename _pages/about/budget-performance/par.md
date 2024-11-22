@@ -207,7 +207,11 @@ Sick and other leave is expensed as taken.
 
 Other liabilities account balances as of September 30, 2024 and 2023, were as follows:
 
+##### 2024
+
 {% include_relative par-fy2024/par-fy2024-57-note6-24.html %}
+
+##### 2023
 
 {% include_relative par-fy2024/par-fy2024-58-note6-23.html %}
 
@@ -235,12 +239,9 @@ The operating lease amount does not include estimated payments for leases with a
 
 #### NOTE 8. INTER-ENTITY COSTS
 
-The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.&nbsp;
-Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.&nbsp;
-Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.&nbsp;
-Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.&nbsp;
-The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.&nbsp;
-For the periods ended September 30, 2023 and 2022, respectively, inter-entity costs were as follows:
+The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.  Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.  Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.  Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.
+
+The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.  For the fiscal years ended September 30, 2024 and 2023, respectively, inter-entity costs were as follows:
 
 | &nbsp;                              |  2024   |  2023      |
 | :---                                | ---:    | ---:       |
@@ -252,15 +253,18 @@ For the periods ended September 30, 2023 and 2022, respectively, inter-entity co
 
 Budgetary resources obligated for undelivered orders as of September 30, 2024 and 2023 were as follows:
 
-| 2024                         | Federal         | Non-Federal     | Total           |
+##### 2024
+
+| &nbsp;                       | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
 | Paid Undelivered Orders      | $ 136,270       | $ -             | $ 309,000       |
 | Unpaid Undelivered Orders    | 1,014,427       |  973,974        | 3,275,070       |
 | **Total Undelivered Orders** | **$ 1,150,697** | **$ 2,257,408** | **$ 3,584,070** |
 {: .par-money }
 
+##### 2023
 
-| 2023                         | Federal         | Non-Federal     | Total           |
+| &nbsp;                       | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
 | Paid Undelivered Orders      | $ 133,402       | $ -             | $ 133,000       |
 | Unpaid Undelivered Orders    | 1,402,686       | 1,108,940       | 2,511,626       |
