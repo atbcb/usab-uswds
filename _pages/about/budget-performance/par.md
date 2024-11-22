@@ -255,27 +255,25 @@ Budgetary resources obligated for undelivered orders as of September 30, 2024 an
 
 ##### 2024
 
-| &nbsp;                       | Federal         | Non-Federal     | Total           |
-| :---                         | ---:            | ---:            | ---:            |
-| Paid Undelivered Orders      | $ 136,270       | $ -             | $ 309,000       |
-| Unpaid Undelivered Orders    | 1,014,427       |  973,974        | 3,275,070       |
-| **Total Undelivered Orders** | **$ 1,150,697** | **$ 2,257,408** | **$ 3,584,070** |
+| &nbsp;                       | Federal         | Non-Federal    | Total           |
+| :---                         | ---:            | ---:           | ---:            |
+| Paid Undelivered Orders      | $  136,270      | $ -            | $  136,270      |
+| Unpaid Undelivered Orders    |  1,014,427      |   973,974      |  1,988,173      |
+| **Total Undelivered Orders** | **$ 1,150,697** | **$  973,974** | **$ 2,124,443** |
 {: .par-money }
 
 ##### 2023
 
 | &nbsp;                       | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
-| Paid Undelivered Orders      | $ 133,402       | $ -             | $ 133,000       |
-| Unpaid Undelivered Orders    | 1,402,686       | 1,108,940       | 2,511,626       |
+| Paid Undelivered Orders      | $  133,402      | $ -             | $  133,000      |
+| Unpaid Undelivered Orders    |  1,402,686      |   1,108,940     |  2,511,626      |
 | **Total Undelivered Orders** | **$ 1,536,088** | **$ 1,108,940** | **$ 2,645,028** |
 {: .par-money }
 
-#### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
+#### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE STATEMENT OF BUDGETARY RESOURCES AND THE BUDGET OF THE U.S. GOVERNMENT
 
-The President's Budget that will include fiscal year 2023 actual budgetary execution information has not yet been published.&nbsp;
-The President's Budget is scheduled for publication in February 2025 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.&nbsp;
-The fiscal yaer 2025 Budget of the United States Government, with the "Actual" column completed for 2023, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+The President's Budget that will include fiscal year 2024 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2025 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.  The fiscal yaer 2025 Budget of the United States Government, with the "Actual" column completed for 2023, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
 (In Millions)
 
