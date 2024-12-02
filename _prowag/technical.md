@@ -1,5 +1,8 @@
 ## Chapter 3:&nbsp; Technical Requirements
 
+**Advisory:** Figures are provided for informational purposes only.
+{: .advisory }
+
 ### R301 General
 
 #### R301.1 Scope
@@ -16,7 +19,10 @@ The technical requirements in Chapter 3 shall apply where required by Chapter 2 
 
 Except as provided in R302.2.1 and R302.2.2, the continuous clear width of *pedestrian access routes* shall be 48 inches (1220 mm) minimum, exclusive of the width of any *curb*.
 
-![continuous clear width](./images/R302-2_continuous_clear_width.png){: .img-grid }
+<figure>
+    <figcaption>R302.2 Continuous Clear Width</figcaption>
+    <img src="./images/R302-2_continuous_clear_width.png" alt="illustration of 48 inches min measured from back of curb and not face of curb.  PAR within width of sidewalk. ">
+</figure>
 
 ##### R302.2.1 Medians and Pedestrian Refuge Islands
 
