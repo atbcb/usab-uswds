@@ -98,15 +98,15 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 
 ##### R302.6.2 Changes in Level
 
-Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%). Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
+Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical.  Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%).  Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
 <figure class="img-left">
-    <figcaption>Figure R302.6.2(a)</figcaption>
+    <figcaption>Figure R302.6.2(a) Vertical change in leve of ¼ inch (6.4 mm) maximum</figcaption>
     <img src="./images/R302-6-2-a_changes_in_level.png" alt="Illustration of vertical change in level labeled as one quarter inch maximum.">
 </figure>
 <figure class="img-right">
-    <figcaption>Figure R302.6.2(b)</figcaption>
-    <img src="./images/R302-6-2-a_changes_in_level.png" alt="Illustration of beveled change in level labeled as one-to-two slope and one half inch maximum.">
+    <figcaption>Figure R302.6.2(b) Beveled change of level of between ¼ inch (6.4 mm) and ½ inch (13 mm)</figcaption>
+    <img src="./images/R302-6-2-b_changes_in_level.png" alt="Illustration of beveled change in level labeled as one-to-two slope and one half inch maximum.">
 </figure>
 
 ##### R302.6.3 Horizontal Openings
