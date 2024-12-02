@@ -51,26 +51,23 @@ Each type of content provided must be evaluated to determine how the content mus
 ### Tactile Signs
 
 <table class="img-right">
-	<tr>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png"
-					 alt="open doorway icon" />
-		</td>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png"
+  <tr>
+    <td>
+        <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png" alt="open doorway icon" />
+    </td>
+    <td>
+        <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png"
 					 alt="exit sign icon" />
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png"
-					 alt="elevator icon" />
-		</td>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png"
-					 alt="train icon" />
-		</td>
-	</tr>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png" alt="elevator icon" />
+    </td>
+    <td>
+        <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png" alt="train icon" />
+    </td>
+  </tr>
 </table>
 
 Tactile requirements apply to these types of signs: 
