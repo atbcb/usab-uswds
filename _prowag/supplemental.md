@@ -1,5 +1,8 @@
 ## Chapter 4:&nbsp; Supplemental Technical Requirements
 
+**Advisory:** Figures are provided for informational purposes only.
+{: .advisory }
+
 ### R401 General
 
 #### R401.1 Scope
