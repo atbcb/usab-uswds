@@ -48,7 +48,7 @@ Have you previously attended our webinars or reached out with questions and trai
 
 [Timothy Creagan]({{ site.baseurl }}/about/staff/tim-creagan/), Senior Accessibility Specialist, **U.S. Access Board**
 
-[Katherine Eng]({{ site.baseurl}}/about/staff/katherine-eng/), Senior ICT Accessibility Specialist, **U.S. Access Board**
+[Katherine Eng]({{ site.baseurl }}/about/staff/katherine-eng/), Senior ICT Accessibility Specialist, **U.S. Access Board**
 
 [Wendy Marshall]({{ site.baseurl }}/about/staff/wendy-marshall/), Attorney Advisor, **Office of General Counsel**
 
