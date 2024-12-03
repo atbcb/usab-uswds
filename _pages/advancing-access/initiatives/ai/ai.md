@@ -30,15 +30,15 @@ These hearings, and the comments that they generated, supported the Access Board
 
 ### Preliminary Findings on the Risks and Benefits of AI
 
-As part of the Developing AI Equity, Access & Inclusion for All Series, the Access Board will present its preliminary findings on the risks and benefits of AI for people with disabilities. The findings are based on the outcomes of the three recent AI hearings held in August 2024, independent research and engagements, as well as comments received from the public. The presentation will take place virtually on Thursday, December 12, 2024, from 2:00 – 3:30 p.m. (ET).
+As part of the Developing AI Equity, Access & Inclusion for All Series, the Access Board will present its preliminary findings on the risks and benefits of AI for people with disabilities. The findings are based on the outcomes of the three recent AI hearings held in August 2024, independent research and engagements, as well as comments received from the public. The presentation will take place virtually on **Tuesday, January 14, 2025, from 2:00 – 3:30 p.m. (ET)**. Please note that this session has been rescheduled from its original date in December.
 
 **Attending the presentation of preliminary findings on AI:**
-* December 12, 2024, 2:00 – 3:30 p.m. (ET) 
+* January 14, 2025, 2:00 – 3:30 p.m. (ET) 
 * Zoom Link: [https://www.zoomgov.com/j/1601731944](https://www.zoomgov.com/j/1601731944)
 * Meeting ID: 160 173 1944 
 * Passcode: 524293
 
-No pre-registration is required to attend the presentation. Real-time captioning and sign language interpreting will be provided during this session. Additional reasonable accommodation requests must be received by November 30, 2024, via [events@access-board.gov](mailto:events@access-board.gov). AI-specific questions can be directed to [ai@access-board.gov](mailto:ai@access-board.gov).
+No pre-registration is required to attend the presentation. Real-time captioning and sign language interpreting will be provided during this session. Additional reasonable accommodation requests must be received by December 31, 2024, via [events@access-board.gov](mailto:events@access-board.gov). AI-specific questions can be directed to [ai@access-board.gov](mailto:ai@access-board.gov).
 
 Learn more about this session in the Access Board's [news release](https://www.access-board.gov/news/2024/11/07/u-s-access-board-presents-preliminary-findings-on-artificial-intelligence-ai-for-disability-community-and-ai-practitioners/).
 
