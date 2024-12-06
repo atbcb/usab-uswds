@@ -7,4 +7,4 @@ job-title: IT Specialist
 office: Office of Information Technology
 agency: ""
 ---
-Edson Carneiro serves as IT Specialist in the Office of Administration at the Access Board. 
+Edson Carneiro serves as IT Specialist in the Office of Information Technology at the Access Board. 
