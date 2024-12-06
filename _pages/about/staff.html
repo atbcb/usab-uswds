@@ -10,8 +10,9 @@ title: Access Board Staff
       <p style="max-width: none;">
          The Board employs approximately 30 staff members across four units: Office of Executive Director, Office of Administration, Office of General Counsel, and Office of Technical and Information Services. Job openings are posted on <a href="https://www.usajobs.gov">USA jobs</a>.
       </p>
-      <br class="page-break">
-      <p style="max-width: none;"> &nbsp; </p>
+        <br class="page-break">
+      <p style="max-width: none;">
+      </p>
     </div>
   </div>
   {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last_name" %}
@@ -82,6 +83,38 @@ title: Access Board Staff
     </ul>
   </div>
   <br class="page-break">
+  <!-- Office of General Counsel -->
+  <div class="">
+    {% for person in ogc %}
+    {% if person.director == true %}
+    <h2 class="site-preview-heading">{{ person.office }}</h2>
+      <ul class="usa-card-group">
+        <li class="height-card-lg usa-card usa-card--flag">
+          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+            <div class="usa-card__container card-shadow gray-to-color">
+              <header class="usa-card__header">
+                <h3 class="usa-card__heading">{{ person.full_name }}</h3>
+              </header>
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  {% if person.image %}
+                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                  {% else %}
+                  <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
+                  {% endif %}
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p><b>{{ person.job-title }}</b></p>
+                 <h6 class=>Biography</h6>
+              </div>
+            </div>
+          </a>
+        </li>
+      </ul>
+    {% endif %}
+  {% endfor %}
+  </div>
   <div class="">
     <ul class="usa-card-group">
     {% for person in ogc %}
@@ -176,7 +209,7 @@ title: Access Board Staff
     </ul>
   </div>
   <br class="page-break">
-  <!-- Office Information Technology -->
+  <!-- Office of Information Technology -->
   <div class="">
     {% for person in oit %}
     {% if person.director == true %}
@@ -299,7 +332,7 @@ title: Access Board Staff
         </li>
         {% endif %}
       {% endfor %}
-      </ul>  
+      </ul>
     </div>
     <br class="page-break">
 </div>
