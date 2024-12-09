@@ -16,15 +16,12 @@ excerpt: Have you previously attended our webinars or reached out with questions
   can ask questions in advance during the registration process as well as ask
   questions during the live session.
 presenters:
+  - alison-levy
+  - josh-schorr
   - debra-martins
-  - katherine-eng
-  - wendy-marshall
-  - tim-creagan
 tags:
-  - "508"
   - ABA
   - ADA
-  - Rulemaking
 closed: false
 webinar-start: January 9, 2025 2:30 PM
 webinar-end: January 9, 2025 4:00 PM
