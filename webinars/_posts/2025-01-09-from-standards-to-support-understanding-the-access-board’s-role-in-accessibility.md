@@ -16,15 +16,12 @@ excerpt: Have you previously attended our webinars or reached out with questions
   can ask questions in advance during the registration process as well as ask
   questions during the live session.
 presenters:
+  - alison-levy
+  - josh-schorr
   - debra-martins
-  - katherine-eng
-  - wendy-marshall
-  - tim-creagan
 tags:
-  - "508"
   - ABA
   - ADA
-  - Rulemaking
 closed: false
 webinar-start: January 9, 2025 2:30 PM
 webinar-end: January 9, 2025 4:00 PM
@@ -46,13 +43,11 @@ Have you previously attended our webinars or reached out with questions and trai
 
 ### Speakers:
 
-[Timothy Creagan]({{ site.baseurl }}/about/staff/tim-creagan/), Senior Accessibility Specialist, **U.S. Access Board**
+[Alison Levy]({{ site.baseurl }}/about/staff/alison-levy/), Director, **Office of Technical and Information Services**
 
-[Katherine Eng]({{ site.baseurl }}/about/staff/katherine-eng/), Senior ICT Accessibility Specialist, **U.S. Access Board**
+[Josh Schorr]({{ site.baseurl }}/about/staff/josh-schorr/), Technical Assistance Coordinator, **U.S. Access Board**
 
-[Wendy Marshall]({{ site.baseurl }}/about/staff/wendy-marshall/), Attorney Advisor, **Office of General Counsel**
-
-[Debra Martins]({{ site.baseurl }}/about/staff/debra-martins/), Accessibility Specialist, **U.S. Access Board**
+[Debra Martins]({{ site.baseurl }}/about/staff/debra-martins/), Training Coordinator, **U.S. Access Board**
 
 ### Privacy Statement
 
