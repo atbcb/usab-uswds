@@ -290,9 +290,9 @@ Where parking spaces are provided on a *block perimeter* and are metered or desi
 **Advisory:** Figures are provided for informational purposes only.
 {: .advisory }
 
-<figure>
-  <img src="./images/R211-2_parking_on_block_perimeter.png" alt="Plan view highlighting perimeter surrounding city block with five buildings." />
+<figure class="center advisory">
   <figcaption>Figure R211.2 Example of block perimeter</figcaption>
+  <img src="./images/R211-2_parking_on_block_perimeter.png" alt="Plan view highlighting perimeter surrounding city block with five buildings." />
 </figure>
 
 #### R211.3 Parking not on Block Perimeter
