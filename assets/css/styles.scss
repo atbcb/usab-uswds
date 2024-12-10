@@ -140,30 +140,27 @@ ol li ol li ol li, ol.roman li {
 }
 
 figure.center {
-	caption-side:top;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 figure.left {
-	caption-side:top;
 	display: block;
 	float: left;
 	margin: 1rem 2rem 1rem 0rem;
 	max-width: 45%;
 }
 figure.right {
-	caption-side:top;
 	display: block;
 	float: right;
 	margin: 1rem 0rem 1rem 2rem;
 	max-width: 45%;
 }
 figure figcaption {
-	text-align:center;
-	font-weight:bolder;
-	font-size:smaller;
-	font-style:oblique;
+	text-align: center;
+	font-weight: bolder;
+	font-size: smaller;
+	font-style: oblique;
 }
 figure img {
 	display: block;
