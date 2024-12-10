@@ -400,5 +400,5 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 
 #### Figure R411 International Symbol of Accessibility
 
-![International Symbol of Accessibility]({{ site.baseurl }}/images/isa.jpg)
+![International Symbol of Accessibility](./images/R411_isa.png)
 {: .img-large }
