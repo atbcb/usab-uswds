@@ -21,7 +21,7 @@ Except as provided in R302.2.1 and R302.2.2, the continuous clear width of *pede
 
 <figure>
     <figcaption>Figure R302.2 Continuous Clear Width</figcaption>
-    <img class="img-grid" src="./images/R302-2_continuous_clear_width.png" alt="illustration of 48 inches min measured from back of curb and not face of curb.  PAR within width of sidewalk.">
+    <img src="./images/R302-2_continuous_clear_width.png" alt="Plan view of 48 inches min measured from back of curb and not face of curb.  PAR within width of sidewalk." />
 </figure>
 
 ##### R302.2.1 Medians and Pedestrian Refuge Islands
@@ -34,9 +34,12 @@ On *shared use paths*, the clear width of the *pedestrian access route* shall ex
 
 #### R302.3 Passing Spaces
 
-Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum. Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum. Passing spaces and *pedestrian access routes* are permitted to overlap.
+Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum.  Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.  Passing spaces and *pedestrian access routes* are permitted to overlap.
 
-![passing spaces](./images/R302-3_passing_spaces.png){: .img-grid }
+<figure>
+    <figcaption>Figure R302.3 Passing Spaces</figcaption>
+    <img src="./images/R302-3_passing_spaces.png" alt="Plan view highlighting passing spaces." />
+</figure>
 
 #### R302.4 Grade
 
@@ -100,13 +103,13 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical.  Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%).  Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
-<figure class="img-left">
-    <figcaption>Figure R302.6.2(a) Vertical change in leve of ¼ inch (6.4 mm) maximum</figcaption>
-    <img src="./images/R302-6-2-a_changes_in_level.png" alt="Illustration of vertical change in level labeled as one quarter inch maximum.">
+<figure class="left">
+    <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
+    <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevated view of vertical change in level labeled as one quarter inch maximum.">
 </figure>
-<figure class="img-right">
-    <figcaption>Figure R302.6.2(b) Beveled change of level of between ¼ inch (6.4 mm) and ½ inch (13 mm)</figcaption>
-    <img src="./images/R302-6-2-b_changes_in_level.png" alt="Illustration of beveled change in level labeled as one-to-two slope and one half inch maximum.">
+<figure class="right">
+    <figcaption>Figure R302.6.2(b) Beveled change of level</figcaption>
+    <img src="./images/R302-6-2-b_changes_in_level.png" alt="Elevated view of beveled change in level labeled as one-to-two slope and one half inch maximum.">
 </figure>
 
 ##### R302.6.3 Horizontal Openings
