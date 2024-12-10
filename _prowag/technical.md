@@ -708,3 +708,46 @@ Surfaces of vehicle pull-up spaces and the access aisles serving them shall comp
 Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* and *blended transition*s are used, they shall be provided in accordance with R203.6.1.4 and comply with R304, and shall not reduce the required width or length of access aisles. *Detectable warning surfaces* are not required on *curb ramps* and *blended transitions* used exclusively to connect access aisles to *pedestrian access routes*.
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
+
+<img src="./images/R302-6-4-2-1_flangeway_gaps_at_tracks_subject_to_FRA.png" alt="" />
+<img src="./images/R302-6-4-2-2_flangeway_gaps_at_tracks_not_subject_to_FRA.png" alt="" />
+<img src="./images/R303-6_detectable_edging_of_channelizing_devices.png" alt="" />
+<img src="./images/R304-2-4-a_clear_area.png" alt="" />
+<img src="./images/R304-2-4-b_clear_area.png" alt="" />
+<img src="./images/R304-2-5_landing.png" alt="" />
+<img src="./images/R304-2-6-a_side_treatments.png" alt="" />
+<img src="./images/R304-2-6-b_side_treatments.png" alt="" />
+<img src="./images/R304-3-3_grade_breaks.png" alt="" />
+<img src="./images/R304-3-4_landings.png" alt="" />
+<img src="./images/R304-4-1_running_slope.png" alt="" />
+<img src="./images/R304-4-3_blended_transition_bypass.png" alt="" />
+<img src="./images/R304-5-1-1_curb_ramps_and_blended_transitions_not_on_shared_use_paths.png" alt="" />
+<img src="./images/R304-5-2-A_change_of_grade.png" alt="" />
+<img src="./images/R304-5-2-B_change_of_grade.png" alt="" />
+<img src="./images/R305-1-1_dome_size.png" alt="" />
+<img src="./images/R305-1-2_dome_spacing.png" alt="" />
+<img src="./images/R305-1-4-a_surface_size.png" alt="" />
+<img src="./images/R305-1-4-b_surface_size.png" alt="" />
+<img src="./images/R305-1-4-c_surface_size.png" alt="" />
+<img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="" />
+<img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="" />
+<img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="" />
+<img src="./images/R305-2-2_parallel_curb_ramps.png" alt="" />
+<img src="./images/R305-2-3_blended_transitions.png" alt="" />
+<img src="./images/R305-2-3-a_blended_transitions.png" alt="" />
+<img src="./images/R305-2-3-b_blended_transitions.png" alt="" />
+<img src="./images/R305-2-4_pedestrian_refuge_islands.png" alt="" />
+<img src="./images/R305-2-4-a_pedestrian_refuge_islands.png" alt="" />
+<img src="./images/R305-2-4-b_pedestrian_refuge_islands.png" alt="" />
+<img src="./images/R305-2-4-c_pedestrian_refuge_islands.png" alt="" />
+<img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="" />
+<img src="./images/R309-1-1-1_dimensions.png" alt="" />
+<img src="./images/R309-2-1_connection_to_boarding_and_alighting_areas.png" alt="" />
+<img src="./images/R310-2-1_dimensions.png" alt="" />
+<img src="./images/R310-2-1-x1_dimensions.png" alt="" />
+<img src="./images/R310-2-1-x2_dimensions.png" alt="" />
+<img src="./images/R310-2-4_clearance_adjacent_to_parking_spaces.png" alt="" />
+<img src="./images/R310-3_perpendicular_parking_spaces.png" alt="" />
+<img src="./images/R310-4_angled_parking_spaces.png" alt="" />
+<img src="./images/R311-1_passenger_loading_zone.png" alt="" />
+
