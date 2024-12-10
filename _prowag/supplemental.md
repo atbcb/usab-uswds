@@ -401,7 +401,7 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 #### Figure R411 -- International Symbol of Accessibility
 
 ![International Symbol of Accessibility](./images/R411_isa.png)
-{: .img-medium }
+{: .center .img-medium }
 
 <img src="./images/R402-2_protrusion_limits.png" alt="" />
 <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="" />
