@@ -141,6 +141,7 @@ ol li ol li ol li, ol.roman li {
 
 figure figcaption {
 	text-align:center;
+	font-weight:bolder;
 	font-size:smaller;
 	font-style:oblique;
 }
@@ -148,6 +149,7 @@ figure img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 80%;
 }
 
 ul.check {
