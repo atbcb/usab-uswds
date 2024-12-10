@@ -19,7 +19,7 @@ The technical requirements in Chapter 3 shall apply where required by Chapter 2 
 
 Except as provided in R302.2.1 and R302.2.2, the continuous clear width of *pedestrian access routes* shall be 48 inches (1220 mm) minimum, exclusive of the width of any *curb*.
 
-<figure>
+<figure class="center">
     <figcaption>Figure R302.2 Continuous Clear Width</figcaption>
     <img src="./images/R302-2_continuous_clear_width.png" alt="Plan view of 48 inches min measured from back of curb and not face of curb.  PAR within width of sidewalk." />
 </figure>
@@ -36,7 +36,7 @@ On *shared use paths*, the clear width of the *pedestrian access route* shall ex
 
 Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum.  Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.  Passing spaces and *pedestrian access routes* are permitted to overlap.
 
-<figure>
+<figure class="center">
     <figcaption>Figure R302.3 Passing Spaces</figcaption>
     <img src="./images/R302-3_passing_spaces.png" alt="Plan view highlighting passing spaces." />
 </figure>
@@ -116,7 +116,10 @@ Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. 
 
 Horizontal openings in ground surfaces, such as those in gratings and joints, other than flangeway gaps (see R302.6.4), shall not allow passage of a sphere larger than ½ inch (13 mm) in diameter. Except where multiple directions of travel intersect, elongated openings are permitted and shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
 
-![horizontal openings](./images/R302-6-3_horizontal_openings.png){: .img-grid }
+<figure class="center advisory">
+    <figcaption>Figure R302.6.3 Horizontal Openings</figcaption>
+    <img src="./images/R302-6-3_horizontal_openings.png" alt="Plan view of sidewalk grate." />
+</figure>
 
 ##### R302.6.4 Surfaces at Pedestrian At-Grade Rail Crossings
 
