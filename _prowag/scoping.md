@@ -1,7 +1,7 @@
 ## Chapter 2:&nbsp; Scoping Requirements
 
 **Advisory:** Unless specifically stated otherwise, figures are provided for informational purposes only.
-{: advisory }
+{: .advisory }
 
 ### R201 General
 
