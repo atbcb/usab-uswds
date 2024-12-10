@@ -401,4 +401,32 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 #### Figure R411 International Symbol of Accessibility
 
 ![International Symbol of Accessibility](./images/R411_isa.png)
-{: .img-large }
+{: .img-medium }
+
+<img src="./images/R402-2_protrusion_limits.png" alt="" />
+<img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="" />
+<img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="" />
+<img src="./images/R402-3-2_objects_mounted_betweeen_posts_or_pylons.png" alt="" />
+<img src="./images/R402-4_vertical_clearance.png" alt="" />
+<img src="./images/R405-2_toe_clearance-elevation.png" alt="" />
+<img src="./images/R405-2_toe_clearance-plan-a.png" alt="" />
+<img src="./images/R405-2_toe_clearance-plan-b.png" alt="" />
+<img src="./images/R405-3_knee_clearance-elevation.png" alt="" />
+<img src="./images/R405-3_knee_clearance-plan.png" alt="" />
+<img src="./images/R406-2_reach_range_limits_front.png" alt="" />
+<img src="./images/R406-2_reach_range_limits_side.png" alt="" />
+<img src="./images/R406-3-2_side_reach.png" alt="" />
+<img src="./images/R407-6_landings.png" alt="" />
+<img src="./images/R407-6-4_change_in_direction.png" alt="" />
+<img src="./images/R407-9-1_extended_ramp_surface.png" alt="" />
+<img src="./images/R409-4-ramp_height.png" alt="" />
+<img src="./images/R409-4-stairs_height.png" alt="" />
+<img src="./images/R409-4-walking-surface_height.png" alt="" />
+<img src="./images/R409-7-2_non_circular_cross_section.png" alt="" />
+<img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="" />
+<img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="" />
+<img src="./images/R409-10-1_top_and_bottom_extension_at_ramps.png" alt="" />
+<img src="./images/R409-10-2_top_extension_at_stairs.png" alt="" />
+<img src="./images/R409-10-3_bottom_extension_at_stairs.png" alt="" />
+
+
