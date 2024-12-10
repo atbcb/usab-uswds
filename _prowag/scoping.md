@@ -1,8 +1,5 @@
 ## Chapter 2:&nbsp; Scoping Requirements
 
-**Advisory:** Unless specifically stated otherwise, figures are provided for informational purposes only.
-{: .advisory }
-
 ### R201 General
 
 #### R201.1 Scope
@@ -135,7 +132,7 @@ EXCEPTION:  If establishing or maintaining an alternate *pedestrian access route
 
 #### R204.2 Alternate Transit Stops
 
-Where *accessible* *transit stops* are temporarily not *accessible* due to construction, maintenance operations, or other similar conditions, alternate *transit stops* complying with R309 shall be provided.
+Where *accessible transit stops* are temporarily not *accessible* due to construction, maintenance operations, or other similar conditions, alternate *transit stops* complying with R309 shall be provided.
 
 #### R204.3 Alternate Passenger Loading Zones
 
@@ -288,9 +285,15 @@ EXCEPTIONS:  1.  On-street parking spaces designated exclusively as residentia
 
 #### R211.2 Parking on Block Perimeter
 
-Where parking spaces are provided on a *block perimeter* and are metered or designated by signs or pavement markings, *accessible* parking spaces complying with R310 shall be provided in accordance with Table R211. Where parking is metered or designated by signs or pavement markings, but individual spaces are not marked, each 20 feet (6.1 m) of *block perimeter* where parking is designated shall be counted as one parking space.
+Where parking spaces are provided on a *block perimeter* and are metered or designated by signs or pavement markings, *accessible* parking spaces complying with R310 shall be provided in accordance with Table R211.  Where parking is metered or designated by signs or pavement markings, but individual spaces are not marked, each 20 feet (6.1 m) of *block perimeter* where parking is designated shall be counted as one parking space.
 
-![parking on block perimeter](./images/R211-2_parking_on_block_perimeter.png){: img-grid }
+**Advisory:** Figures are provided for informational purposes only.
+{: .advisory }
+
+<figure>
+  <img src="./images/R211-2_parking_on_block_perimeter.png" alt="Plan view highlighting perimeter surrounding city block with five buildings." />
+  <figcaption>Figure R211.2 Example of block perimeter</figcaption>
+</figure>
 
 #### R211.3 Parking not on Block Perimeter
 
