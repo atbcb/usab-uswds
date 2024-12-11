@@ -104,7 +104,7 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical.  Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%).  Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
 <div class="advisory">
-    <figure class="center advisory">
+    <figure class="center">
         <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
         <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevated view of vertical change in level labeled as one quarter inch maximum.">
     </figure>
@@ -135,12 +135,12 @@ Where a *pedestrian access route* crosses rails at grade, the *pedestrian access
 
 Flangeway gaps shall comply with R302.6.4.2.
 
-###### R302.6.4.2.1 Flangeway Gaps at Tracks *Subject to FRA Safety Regulations
+###### R302.6.4.2.1 Flangeway Gaps at Tracks Subject to FRA Safety Regulations
 
 At *pedestrian* at-grade rail crossings that cross tracks that are subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 3 inches (75 mm) wide maximum.
 
-###### R302.6.4.2.2 Flangeway Gaps at Tracks *Not Subject to FRA Safety Regulations*
-At *pedestrian* at-grade rail crossings that cross tracks that are not subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 2 1/2 inches (64 mm) wide maximum.
+###### R302.6.4.2.2 Flangeway Gaps at Tracks _Not_ Subject to FRA Safety Regulations
+At *pedestrian* at-grade rail crossings that cross tracks that are not subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 2½ inches (64 mm) wide maximum.
 
 ### R303 Alternate Pedestrian Access Routes
 
