@@ -6,7 +6,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/doc-pelter.jpg
+image: /images/uploads/doc-pelter-cropped.jpg
 job-title: null
 agency: Department of Commerce
 ---
