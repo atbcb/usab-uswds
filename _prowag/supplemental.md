@@ -403,8 +403,10 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 ![International Symbol of Accessibility](./images/R411_isa.png)
 {: .center .img-medium }
 
+<figure class="advisory">
   <figcaption>Figure R402.2 Protrusion limits</figcaption>
-  <img src="./images/R402-2_protrusion_limits.png" alt="Elevation front view of person walking with cane and identified minimum vertical clearances and maximum protrusions from the wall." /> </figure>
+  <img src="./images/R402-2_protrusion_limits.png" alt="Elevation front view of person walking with cane and identified minimum vertical clearances and maximum protrusions from the wall." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
   <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." /> </figure>
