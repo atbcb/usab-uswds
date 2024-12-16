@@ -709,45 +709,129 @@ Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* an
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
 
-<img src="./images/R302-6-4-2-1_flangeway_gaps_at_tracks_subject_to_FRA.png" alt="" />
-<img src="./images/R302-6-4-2-2_flangeway_gaps_at_tracks_not_subject_to_FRA.png" alt="" />
-<img src="./images/R303-6_detectable_edging_of_channelizing_devices.png" alt="" />
-<img src="./images/R304-2-4-a_clear_area.png" alt="" />
-<img src="./images/R304-2-4-b_clear_area.png" alt="" />
-<img src="./images/R304-2-5_landing.png" alt="" />
-<img src="./images/R304-2-6-a_side_treatments.png" alt="" />
-<img src="./images/R304-2-6-b_side_treatments.png" alt="" />
-<img src="./images/R304-3-3_grade_breaks.png" alt="" />
-<img src="./images/R304-3-4_landings.png" alt="" />
-<img src="./images/R304-4-1_running_slope.png" alt="" />
-<img src="./images/R304-4-3_blended_transition_bypass.png" alt="" />
-<img src="./images/R304-5-1-1_curb_ramps_and_blended_transitions_not_on_shared_use_paths.png" alt="" />
-<img src="./images/R304-5-2-A_change_of_grade.png" alt="" />
-<img src="./images/R304-5-2-B_change_of_grade.png" alt="" />
-<img src="./images/R305-1-1_dome_size.png" alt="" />
-<img src="./images/R305-1-2_dome_spacing.png" alt="" />
-<img src="./images/R305-1-4-a_surface_size.png" alt="" />
-<img src="./images/R305-1-4-b_surface_size.png" alt="" />
-<img src="./images/R305-1-4-c_surface_size.png" alt="" />
-<img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="" />
-<img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="" />
-<img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="" />
-<img src="./images/R305-2-2_parallel_curb_ramps.png" alt="" />
-<img src="./images/R305-2-3_blended_transitions.png" alt="" />
-<img src="./images/R305-2-3-a_blended_transitions.png" alt="" />
-<img src="./images/R305-2-3-b_blended_transitions.png" alt="" />
-<img src="./images/R305-2-4_pedestrian_refuge_islands.png" alt="" />
-<img src="./images/R305-2-4-a_pedestrian_refuge_islands.png" alt="" />
-<img src="./images/R305-2-4-b_pedestrian_refuge_islands.png" alt="" />
-<img src="./images/R305-2-4-c_pedestrian_refuge_islands.png" alt="" />
-<img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="" />
-<img src="./images/R309-1-1-1_dimensions.png" alt="" />
-<img src="./images/R309-2-1_connection_to_boarding_and_alighting_areas.png" alt="" />
-<img src="./images/R310-2-1_dimensions.png" alt="" />
-<img src="./images/R310-2-1-x1_dimensions.png" alt="" />
-<img src="./images/R310-2-1-x2_dimensions.png" alt="" />
-<img src="./images/R310-2-4_clearance_adjacent_to_parking_spaces.png" alt="" />
-<img src="./images/R310-3_perpendicular_parking_spaces.png" alt="" />
-<img src="./images/R310-4_angled_parking_spaces.png" alt="" />
-<img src="./images/R311-1_passenger_loading_zone.png" alt="" />
-
+<figure class="advisory">
+  <figcaption>Figure R103 Conventions</figcaption>
+  <img src="./images/R103_conventions.png" alt="Examples of each of the graphic conventions used in figures and descriptions of those conventions." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R211.2 Parking on Block Perimeter</figcaption>
+  <img src="./images/R211-2_parking_on_block_perimeter.png" alt="City block with multiple buildings and sidewalk adjacent to each roadway.  The block perimeter is indicated around the entire block." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.2 Continuous Clear Width</figcaption>
+  <img src="./images/R302-2_continuous_clear_width.png" alt="Pedestrian Access Route highlighted within width of sidewalk measured to back of curb" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.3 Passing Spaces</figcaption>
+  <img src="./images/R302-3_passing_spaces.png" alt="Passing spaces highlighted with two hundred foot maximum separation" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
+  <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevation view of vertical change in level" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.6.2(b) Beveled change in level</figcaption>
+  <img src="./images/R302-6-2-b_changes_in_level.png" alt="Elevation view of beveled change in level" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.6.3 Horizontal Openings</figcaption>
+  <img src="./images/R302-6-3_horizontal_openings.png" alt="Grate with arrow indicating dominant direction of travel and ½ inch maximum width openings.  The opening perpendicular to dominant direction of travel does not have a maximum or minimum length." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.6.4.2.1 Flangeway gap at tracks subject to FRA</figcaption>
+  <img src="./images/R302-6-4-2-1_flangeway_gaps_at_tracks_subject_to_FRA.png" alt="Elevation view of three inch maximum flangeway gaps between rail and roadway surface." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R302.6.4.2.2 Flangeway gap at tracks <i>not</i> subject to FRA</figcaption>
+  <img src="./images/R302-6-4-2-2_flangeway_gaps_at_tracks_not_subject_to_FRA.png" alt="Elevation view of two and one half inch maximum flangeway gaps between rail and roadway surface." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R303.6 Detectable edging of channelizing devices </figcaption>
+  <img src="./images/R303-6_detectable_edging_of_channelizing_devices.png" alt="Elevation view of pedestrian longitudinal channelizing device." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.2.4(a) Clear area for perpendicular curb ramp</figcaption>
+  <img src="./images/R304-2-4-a_clear_area.png" alt="Street corner with two perpendicular curb ramps with lower landings entirely between the marked crosswalk lines." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.2.4(b) Clear area for angled curb ramp</figcaption>
+  <img src="./images/R304-2-4-b_clear_area.png" alt="Street corner with two angled curb ramps with lower landings entirely between the marked crosswalk lines." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.2.5 Landing</figcaption>
+  <img src="./images/R304-2-5_landing.png" alt="Street corner with two perpendicular curb ramps with upper landings within the pedestrian access route" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.2.6(a) Side treatment</figcaption>
+  <img src="./images/R304-2-6-a_side_treatments.png" alt=" Street corner with two perpendicular curb ramps identifying flared sides of curb ramps." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.3.3 Grade breaks</figcaption>
+  <img src="./images/R304-3-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.3.4 Landings</figcaption>
+  <img src="./images/R304-3-4_landings.png" alt="Street corner with two parallel curb ramps indicating travel direction and minimum width at the lower landing between curb ramps" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.4.1 Running slope</figcaption>
+  <img src="./images/R304-4-1_running_slope.png" alt="Street corner blended transition with identified with maximum running slope" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.4.3 Blended transition bypass</figcaption>
+  <img src="./images/R304-4-3_blended_transition_bypass.png" alt="Street corner blended transition with bypass behind blended transition identified with maximum cross slope if running slope of blended transition is greater than two point one percent" /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.5.1.1 Curb ramps and blended transitions not on shared use paths</figcaption>
+  <img src="./images/R304-5-1-1_curb_ramps_and_blended_transitions_not_on_shared_use_paths.png" alt="Street corner with perpendicular curb ramps with returned sides with identified minimum width.  Note on image:, `curb ramps and blended transitions on shared use paths must be as wide as the shared use path’." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.5.2(a) Change of grade, maximum slope</figcaption>
+  <img src="./images/R304-5-2-A_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to a transition or gutter to the street.  The maximum slopes of the curb ramp or blended transition and the transition or gutter and street is identified with the combination of slopes not exceeding thirteen point three percent." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R304.5.2(b) Change of grade, transition space</figcaption>
+  <img src="./images/R304-5-2-B_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to transitional space to the street.  The transitional space is identified as twenty four inches minimum." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.1.1 Dome size</figcaption>
+  <img src="./images/R305-1-1_dome_size.png" alt="Elevation view of truncated dome identifying the base diameter, top diameter, and height." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.1.2 Dome spacing</figcaption>
+  <img src="./images/R305-1-2_dome_spacing.png" alt="Plan view of detectable warning identifying the distance between centerlines of truncated domes and the distance between bases of truncated domes." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.1.4(a) Surface size, perpendicular curb ramp</figcaption>
+  <img src="./images/R305-1-4-a_surface_size.png" alt="Plan view of perpendicular curb ramp with flared sides and the detectable warning surface identified with minimum depth and width." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.1.4(b) Surface size, minimum parallel curb ramp</figcaption>
+  <img src="./images/R305-1-4-b_surface_size.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified with minimum depth and width." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.1(a) Perpendicular curb ramp</figcaption>
+  <img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp with returned sides identifying the location of both ends of the bottom grade break are in front of the back of curb and the maximum offset of the detectable warning surface from the back of curb." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.1(b) Perpendicular curb ramp </figcaption>
+  <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.1(c) Perpendicular curb ramp </figcaption>
+  <img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with back of curb (diagonal to grade break) when either end of the bottom grade break is more than 60 inches from the back of curb." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.2 Parallel curb ramps</figcaption>
+  <img src="./images/R305-2-2_parallel_curb_ramps.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified at bottom landing between curb ramps located along the back of curb." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.3 (a) Blended transition, street corner</figcaption>
+  <img src="./images/R305-2-3-a_blended_transitions.png" alt="Street corner with blended transition identifying location of detectable warning surface at the back of curb or no greater than six inches from the edge of pavement where there is no curb." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.3(b) Blended transition, mid-block crossing</figcaption>
+  <img src="./images/R305-2-3-b_blended_transitions.png" alt="Mid-block crossing with raised crossing and detectable warning surface located along the entire transition from sidewalk to crosswalk." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.4 Pedestrian refuge islands</figcaption>
+  <img src="./images/R305-2-4_pedestrian_refuge_islands.png" alt="Plan view of pedestrian refuge island with identified minimum width of pedestrian access routes, minimum distance between detectable warning surfaces and minimum distance between front of curbs." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R305.2.5 Pedestrian at grade rail crossings</figcaption>
+  <img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="Plan view of pedestrian access route with intersecting rail crossing.  To one side of the rail crossing, the detectable warning surface is seventy two through one hundred eighty inches from centerline of rail.  To other side of the rail crossing is a pedestrian gate between the detectable warning surface and the rail crossing." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R309.1.1.1 Dimensions</figcaption>
+  <img src="./images/R309-1-1-1_dimensions.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R309.2.1 Connection to boarding and alighting areas</figcaption>
+  <img src="./images/R309-2-1_connection_to_boarding_and_alighting_areas.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge.  A clear floor space within a bus shelter connects to the boarding and alighting area via a pedestrian access route." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R310.2.1 Dimensions</figcaption>
+  <img src="./images/R310-2-1_dimensions.png" alt="On street parking space with pedestrian access route connection and dimensions identifying the minimum vehicle space size." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R310.2.1 Exception 1</figcaption>
+  <img src="./images/R310-2-1-x1_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R310.2.1 Exception 2</figcaption>
+  <img src="./images/R310-2-1-x2_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces.  The sidewalk parallel to the parking space is identified as a nine foot maximum depth." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R310.2.4 Clearance adjacent to parking spaces</figcaption>
+  <img src="./images/R310-2-4_clearance_adjacent_to_parking_spaces.png" alt=" On street parking space with fifty percent of the adjacent sidewalk clear of obstructions centered on the vehicle space." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R310.3 Perpendicular parking spaces</figcaption>
+  <img src="./images/R310-3_perpendicular_parking_spaces.png" alt="Plan view of perpendicular parking spaces with an access aisle between the spaces connected to a perpendicular curb ramp.  The minimum width of the access aisle is identified." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R310.4 Angled parking spaces</figcaption>
+  <img src="./images/R310-4_angled_parking_spaces.png" alt="Plan view of angled parking spaces with an access aisle on passenger side of each space connected to a perpendicular curb ramp.  The minimum widths of the vehicle space and access aisle are identified." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R311.1 Passenger loading zone</figcaption>
+  <img src="./images/R311-1_passenger_loading_zone.png" alt="Bus at passenger loading zone with identified minimum dimensions for the vehicle space and access aisle.  Fifty percent of the adjacent sidewalk is clear of obstructions centered on the vehicle space and a curb ramp run connects the sidewalk to the access aisle." /> </figure>
