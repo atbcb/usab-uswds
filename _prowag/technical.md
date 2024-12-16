@@ -710,12 +710,6 @@ Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* an
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
 
 <figure class="advisory">
-  <figcaption>Figure R103 Conventions</figcaption>
-  <img src="./images/R103_conventions.png" alt="Examples of each of the graphic conventions used in figures and descriptions of those conventions." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R211.2 Parking on Block Perimeter</figcaption>
-  <img src="./images/R211-2_parking_on_block_perimeter.png" alt="City block with multiple buildings and sidewalk adjacent to each roadway.  The block perimeter is indicated around the entire block." /> </figure>
-<figure class="advisory">
   <figcaption>Figure R302.2 Continuous Clear Width</figcaption>
   <img src="./images/R302-2_continuous_clear_width.png" alt="Pedestrian Access Route highlighted within width of sidewalk measured to back of curb" /> </figure>
 <figure class="advisory">
