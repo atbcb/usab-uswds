@@ -34,6 +34,14 @@ In late 2022, Congress enacted the Consolidated Appropriations Act, Section 752,
 | --- | ------------------------- | ---------------- |
 |     | Certificate of Attendance | 1.5              |
 
+### Speakers:
+
+[**Andrew Nielson**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10823&ret=Highlights%20from%20the%20Fiscal%20Year%202024%20Government-wide%20Section%20508%20Assessment), Director of the Government-wide IT Accessibility Program, Office of Government-wide Policy, **General Services Administration**
+
+[**Kristen Smith-O'Connor**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11038&ret=Highlights%20from%20the%20Fiscal%20Year%202024%20Government-wide%20Section%20508%20Assessment), Senior ICT Accessibility Specialist, Office of Government-wide IT Accessibility Program, **Office of Government-wide Policy, General Services Administration**
+
+[**Alex Wilson**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11114&ret=Highlights%20from%20the%20Fiscal%20Year%202024%20Government-wide%20Section%20508%20Assessment), Program Analyst, **General Services Administration**
+
 ### Privacy Statement
 
 In order to register for this webinar you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted 2 days after the live session. You can access our previously recorded webinars at this [link.](https://www.accessibilityonline.org/archives/) Be advised that in order to obtain continuing education credits you must register and create an account. See [Continuing Education Recognition Request Policy.](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx)
