@@ -290,6 +290,11 @@ The *cross slope* of the *curb ramp* run shall be 1:48 (2.1%) maximum.
 
 Landings shall be provided at the bottom of *parallel curb ramps*. Landings shall be 48 inches (1220 mm) wide minimum by 48 inches (1220 mm) long minimum.  The slope of the landing, measured parallel to the direction of travel on the *curb ramp* run, shall be permitted to be equal to or less than the slope of the *roadway* or the *cross slope* of the *crosswalk* as specified by R302.5. The *cross slope* of the landing shall be 1:48 (2.1%) maximum measured perpendicular to the direction of travel on the *curb ramp* run.
 
+<figure class="advisory">
+  <figcaption>Figure R304.3.4 Landings</figcaption>
+  <img src="./images/R304-3-4_landings.png" alt="Street corner with two parallel curb ramps indicating travel direction and minimum width at the lower landing between curb ramps." />
+</figure>
+
 #### R304.4 Blended Transitions
 
 *Blended transition*s shall comply with R304.4 and R304.5.
@@ -298,6 +303,11 @@ Landings shall be provided at the bottom of *parallel curb ramps*. Landings shal
 
 The *running slope* of *blended transition*s shall be 1:20 (5.0%) maximum.
 
+<figure class="advisory">
+  <figcaption>Figure R304.4.1 Running slope</figcaption>
+  <img src="./images/R304-4-1_running_slope.png" alt="Street corner blended transition with identified with maximum running slope" />
+</figure>
+
 ##### R304.4.2 Cross Slope
 
 The *cross slope* of *blended transition*s shall be equal to or less than the *cross slope* of the *crosswalk* as specified by R302.5.
@@ -305,6 +315,11 @@ The *cross slope* of *blended transition*s shall be equal to or less than the *c
 ##### R304.4.3 Bypass
 
 Where a *blended transition* serving more than one *pedestrian circulation path* has a *running slope* greater than 1:48 (2.1%), a *pedestrian access route* shall be provided so that a *pedestrian* not crossing the *street* may bypass the *blended transition*.
+
+<figure class="advisory">
+  <figcaption>Figure R304.4.3 Blended transition bypass</figcaption>
+  <img src="./images/R304-4-3_blended_transition_bypass.png" alt="Street corner blended transition with bypass behind blended transition identified with maximum cross slope if running slope of blended transition is greater than two point one percent." />
+</figure>
 
 #### R304.5 Common Requirements
 
@@ -318,6 +333,11 @@ The width of *curb ramp* runs (excluding any flared sides) and *blended transiti
 
 The clear width of *curb ramp* runs (excluding any flared sides) and *blended transition*s not on *shared use paths* shall be 48 inches (1220 mm) minimum.
 
+<figure class="advisory">
+  <figcaption>Figure R304.5.1.1 Curb ramps and blended transitions not on shared use paths</figcaption>
+  <img src="./images/R304-5-1-1_curb_ramps_and_blended_transitions_not_on_shared_use_paths.png" alt="Street corner with perpendicular curb ramps with returned sides with identified minimum width.  Note on image: &ldquo;curb ramps and blended transitions on shared use paths must be as wide as the shared use path&rdquo;." />
+</figure>
+
 ###### R304.5.1.2 Curb Ramps and Blended Transitions on Shared Use Paths
 
 On *shared use paths*, the width of *curb ramp* runs (excluding any flared sides) and *blended transition*s shall be equal to the width of the *shared use path*.
@@ -329,6 +349,17 @@ At gutters and *streets* where a change of *grade* occurs adjacent to *curb ramp
 > A.  The change of *grade* shall not exceed 13.3 percent, or
 >
 > B.  A transitional space shall be provided at the bottom of the *running slope* of the *curb ramp* run or *blended transition*. The transitional space shall extend 24 inches (610 mm) minimum in the direction of *pedestrian* travel and the full width of the *curb ramp* run or *blended transition*. Transitional spaces shall have *running slopes* of 1:48 (2.1%) maximum and *cross slopes* no greater than the *cross slope* of the *crosswalk* as specified by R302.5.
+
+<div class="advisory">
+  <figure class="advisory">
+    <figcaption>Figure R304.5.2(a) Change of grade, maximum slope</figcaption>
+    <img src="./images/R304-5-2-A_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to a transition or gutter to the street.  The maximum slopes of the curb ramp or blended transition and the transition or gutter and street is identified with the combination of slopes not exceeding thirteen point three percent." />
+  </figure>
+  <figure>
+    <figcaption>Figure R304.5.2(b) Change of grade, transition space</figcaption>
+    <img src="./images/R304-5-2-B_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to transitional space to the street.  The transitional space is identified as twenty four inches minimum." />
+  </figure>
+</div>
 
 ##### R304.5.3 Crosswalks
 
@@ -348,6 +379,11 @@ Surfaces of *curb ramps* and *blended transitions* shall comply with R302.6 exce
 
 The truncated domes shall have a base diameter of 0.9 inches (23 mm) minimum and 1.4 inches (36 mm) maximum, a top diameter of 50 percent of the base diameter minimum and 65 percent of the base diameter maximum, and a height of 0.2 inches (5.1 mm). When *detectable warning surface* tiles are cut to fit, partial domes are permitted along the cut edges.
 
+<figure class="advisory">
+  <figcaption>Figure R305.1.1 Dome size</figcaption>
+  <img src="./images/R305-1-1_dome_size.png" alt="Elevation view of truncated dome identifying the base diameter, top diameter, and height." />
+</figure>
+
 ##### R305.1.2 Dome Spacing
 
 The truncated domes shall have a center-to-center spacing of 1.6 inches (41 mm) minimum and 2.4 inches (61 mm) maximum, and a base-to-base spacing of 0.65 inches (17 mm) minimum, measured between the most adjacent domes.
@@ -355,6 +391,11 @@ The truncated domes shall have a center-to-center spacing of 1.6 inches (41 mm) 
 EXCEPTIONS: 1. When *detectable warning surfaces* are cut to fit, center-to-center spacing measured between domes adjacent to cut edges shall not exceed twice the normal spacing between domes not adjacent to cut edges.
 
 2\. Dome spacing requirements do not apply at a gap in a *detectable warning surface* at an expansion joint provided that the *detectable warning surface* aligns with both edges of the expansion joint.
+
+<figure class="advisory">
+  <figcaption>Figure R305.1.2 Dome spacing</figcaption>
+  <img src="./images/R305-1-2_dome_spacing.png" alt="Plan view of detectable warning identifying the distance between centerlines of truncated domes and the distance between bases of truncated domes." />
+</figure>
 
 ##### R305.1.3 Contrast
 
@@ -374,6 +415,17 @@ EXCEPTIONS: 1. When *detectable warning surfaces* are cut to fit, center-to-cent
 >
 > E. At boarding and alighting areas at *sidewalk* or *street* level *transit stops* for rail vehicles, detectable warning surfaces shall extend the full length of the unprotected area of the *transit stop*.
 
+<div class="advisory">
+  <figure class="advisory">
+    <figcaption>Figure R305.1.4(a) Surface size, perpendicular curb ramp</figcaption>
+    <img src="./images/R305-1-4-a_surface_size.png" alt="Plan view of perpendicular curb ramp with flared sides and the detectable warning surface identified with minimum depth and width." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.1.4(b) Surface size, minimum parallel curb ramp</figcaption>
+    <img src="./images/R305-1-4-b_surface_size.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified with minimum depth and width." />
+  </figure>
+</div>
+
 #### R305.2 Location
 
 The location of *detectable warning surfaces* shall comply with R305.2.  Where a concrete border is required for proper installation of a *detectable warning surface*, a concrete border not exceeding 2 inches (51 mm) shall be permitted on all sides of the *detectable warning surface* except between the *detectable warning surface* and the edge of pavement where a setback is already permitted.
@@ -388,21 +440,62 @@ On *perpendicular curb ramps*, *detectable warning surfaces* shall be located as
 >
 >C.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from either end of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is more than 60 inches (1525 mm), the *detectable warning surface* shall be placed on the clear area so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
 
+<div class="advisory">
+  <figure">
+    <figcaption>Figure R305.2.1(a) Perpendicular curb ramp</figcaption>
+    <img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp with returned sides identifying the location of both ends of the bottom grade break are in front of the back of curb and the maximum offset of the detectable warning surface from the back of curb." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.2.1(b) Perpendicular curb ramp </figcaption>
+    <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.2.1(c) Perpendicular curb ramp </figcaption>
+    <img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with back of curb (diagonal to grade break) when either end of the bottom grade break is more than 60 inches from the back of curb." />
+  </figure>
+</div>
+
 ##### R305.2.2 Parallel Curb Ramps
 
 On *parallel curb ramps*, *detectable warning surfaces* shall be located on the landing at either the back of *curb* or the edge of pavement where there is no *curb*.
+
+<figure class="advisory">
+  <figcaption>Figure R305.2.2 Parallel curb ramps</figcaption>
+  <img src="./images/R305-2-2_parallel_curb_ramps.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified at bottom landing between curb ramps located along the back of curb." />
+</figure>
 
 ##### R305.2.3 Blended Transitions
 
 On *blended transition*s, *detectable warning surfaces* shall be located on the *blended transition* so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge pavement where there is no *curb*.
 
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R305.2.3(a) Blended transition, street corner</figcaption>
+    <img src="./images/R305-2-3-a_blended_transitions.png" alt="Street corner with blended transition identifying location of detectable warning surface at the back of curb or no greater than six inches from the edge of pavement where there is no curb." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.2.3(b) Blended transition, mid-block crossing</figcaption>
+    <img src="./images/R305-2-3-b_blended_transitions.png" alt="Mid-block crossing with raised crossing and detectable warning surface located along the entire transition from sidewalk to crosswalk." />
+  </figure>
+</div>
+
 ##### R305.2.4 Pedestrian Refuge Islands
 
 At cut-through *pedestrian refuge islands*, *detectable warning surfaces* shall be located no greater than 6 inches (150 mm) from the edges of the *pedestrian refuge island* or at back of *curb* and shall be separated by a 24 inch (610 mm) minimum length of surface in the direction of travel without *detectable warning surfaces*.
 
+<figure class="advisory">
+  <figcaption>Figure R305.2.4 Pedestrian refuge islands</figcaption>
+  <img src="./images/R305-2-4_pedestrian_refuge_islands.png" alt="Plan view of pedestrian refuge island with identified minimum width of pedestrian access routes, minimum distance between detectable warning surfaces and minimum distance between front of curbs." />
+</figure>
+
 ##### R305.2.5 Pedestrian At-Grade Rail Crossings
 
 At *pedestrian* at-grade rail crossings not located within a *street*, *detectable warning* *surfaces* shall be located on each side of the rail crossing. The edge of the *detectable warning surface* nearest the rail crossing shall be 6 feet (1.8 m) minimum and 15 feet (4.6 m) maximum from the centerline of the nearest rail. Where *pedestrian* gates are provided, *detectable warning surfaces* shall be located on the side of the gate opposite the rail. *Pedestrian* gates shall not overlap *detectable warning surfaces*.
+
+<figure class="advisory">
+  <figcaption>Figure R305.2.5 Pedestrian at-grade rail crossings</figcaption>
+  <img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="Plan view of pedestrian access route with intersecting rail crossing.  To one side of the rail crossing, the detectable warning surface is seventy two through one hundred eighty inches from centerline of rail.  To other side of the rail crossing is a pedestrian gate between the detectable warning surface and the rail crossing." />
+</figure>
 
 ##### R305.2.6 Boarding Platforms
 
@@ -417,6 +510,7 @@ At boarding and alighting areas at *sidewalk* or *street*-level *transit stops* 
 ##### R305.2.8 Driveways
 
 Where driveways are controlled with yield or stop control devices or traffic signals, *detectable warning surfaces* shall be provided on the *pedestrian circulation path* where the *pedestrian circulation path* meets the driveway.
+
 
 ### R306 Crosswalks
 
@@ -771,78 +865,6 @@ Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* an
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
 
-<figure class="advisory">
-  <figcaption>Figure R304.3.4 Landings</figcaption>
-  <img src="./images/R304-3-4_landings.png" alt="Street corner with two parallel curb ramps indicating travel direction and minimum width at the lower landing between curb ramps." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.4.1 Running slope</figcaption>
-  <img src="./images/R304-4-1_running_slope.png" alt="Street corner blended transition with identified with maximum running slope" />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.4.3 Blended transition bypass</figcaption>
-  <img src="./images/R304-4-3_blended_transition_bypass.png" alt="Street corner blended transition with bypass behind blended transition identified with maximum cross slope if running slope of blended transition is greater than two point one percent." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.5.1.1 Curb ramps and blended transitions not on shared use paths</figcaption>
-  <img src="./images/R304-5-1-1_curb_ramps_and_blended_transitions_not_on_shared_use_paths.png" alt="Street corner with perpendicular curb ramps with returned sides with identified minimum width.  Note on image: &ldquo;curb ramps and blended transitions on shared use paths must be as wide as the shared use path&rdquo;." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.5.2(a) Change of grade, maximum slope</figcaption>
-  <img src="./images/R304-5-2-A_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to a transition or gutter to the street.  The maximum slopes of the curb ramp or blended transition and the transition or gutter and street is identified with the combination of slopes not exceeding thirteen point three percent." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.5.2(b) Change of grade, transition space</figcaption>
-  <img src="./images/R304-5-2-B_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to transitional space to the street.  The transitional space is identified as twenty four inches minimum." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.1.1 Dome size</figcaption>
-  <img src="./images/R305-1-1_dome_size.png" alt="Elevation view of truncated dome identifying the base diameter, top diameter, and height." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.1.2 Dome spacing</figcaption>
-  <img src="./images/R305-1-2_dome_spacing.png" alt="Plan view of detectable warning identifying the distance between centerlines of truncated domes and the distance between bases of truncated domes." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.1.4(a) Surface size, perpendicular curb ramp</figcaption>
-  <img src="./images/R305-1-4-a_surface_size.png" alt="Plan view of perpendicular curb ramp with flared sides and the detectable warning surface identified with minimum depth and width." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.1.4(b) Surface size, minimum parallel curb ramp</figcaption>
-  <img src="./images/R305-1-4-b_surface_size.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified with minimum depth and width." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.1(a) Perpendicular curb ramp</figcaption>
-  <img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp with returned sides identifying the location of both ends of the bottom grade break are in front of the back of curb and the maximum offset of the detectable warning surface from the back of curb." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.1(b) Perpendicular curb ramp </figcaption>
-  <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.1(c) Perpendicular curb ramp </figcaption>
-  <img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with back of curb (diagonal to grade break) when either end of the bottom grade break is more than 60 inches from the back of curb." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.2 Parallel curb ramps</figcaption>
-  <img src="./images/R305-2-2_parallel_curb_ramps.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified at bottom landing between curb ramps located along the back of curb." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.3 (a) Blended transition, street corner</figcaption>
-  <img src="./images/R305-2-3-a_blended_transitions.png" alt="Street corner with blended transition identifying location of detectable warning surface at the back of curb or no greater than six inches from the edge of pavement where there is no curb." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.3(b) Blended transition, mid-block crossing</figcaption>
-  <img src="./images/R305-2-3-b_blended_transitions.png" alt="Mid-block crossing with raised crossing and detectable warning surface located along the entire transition from sidewalk to crosswalk." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.4 Pedestrian refuge islands</figcaption>
-  <img src="./images/R305-2-4_pedestrian_refuge_islands.png" alt="Plan view of pedestrian refuge island with identified minimum width of pedestrian access routes, minimum distance between detectable warning surfaces and minimum distance between front of curbs." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R305.2.5 Pedestrian at grade rail crossings</figcaption>
-  <img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="Plan view of pedestrian access route with intersecting rail crossing.  To one side of the rail crossing, the detectable warning surface is seventy two through one hundred eighty inches from centerline of rail.  To other side of the rail crossing is a pedestrian gate between the detectable warning surface and the rail crossing." />
-</figure>
 <figure class="advisory">
   <figcaption>Figure R310.2.1 Dimensions</figcaption>
   <img src="./images/R310-2-1_dimensions.png" alt="On street parking space with pedestrian access route connection and dimensions identifying the minimum vehicle space size." />
