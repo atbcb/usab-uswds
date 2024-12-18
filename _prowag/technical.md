@@ -1,6 +1,6 @@
 ## Chapter 3:&nbsp; Technical Requirements
 
-**Advisory:** Figures are provided for informational purposes only.
+**_Advisory:_ Figures are provided for informational purposes only.**
 {: .advisory }
 
 ### R301 General
@@ -104,14 +104,15 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical.  Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%).  Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
 <div class="advisory">
-<figure class="center">
-  <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
-  <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevation view of vertical change in level." />
-</figure>
-<figure class="center">
-  <figcaption>Figure R302.6.2(b) Beveled change in level</figcaption>
-  <img src="./images/R302-6-2-b_changes_in_level.png" alt="Elevation view of beveled change in level." />
-</figure>
+  <figure class="center">
+    <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
+    <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevation view of vertical change in level." />
+  </figure>
+  <figure>
+    <figcaption>Figure R302.6.2(b) Beveled change in level</figcaption>
+    <img src="./images/R302-6-2-b_changes_in_level.png" alt="Elevation view of beveled change in level." />
+  </figure>
+</div>
 
 ##### R302.6.3 Horizontal Openings
 
@@ -182,6 +183,11 @@ Where a channelizing device is used to delineate an alternate *pedestrian access
 
 EXCEPTION: Where *pedestrians* or vehicles turn or cross, gaps in the detectable edging are permitted.
 
+<figure class="advisory">
+  <figcaption>Figure R303.6 Detectable edging of channelizing devices</figcaption>
+  <img src="./images/R303-6_detectable_edging_of_channelizing_devices.png" alt="Elevation view of pedestrian longitudinal channelizing device." />
+</figure>
+
 ##### R303.6.1 Top
 
 The top of the top detectable edging shall be no lower than 32 inches (815 mm) above the walking surface and be free of sharp or abrasive surfaces.
@@ -224,13 +230,34 @@ EXCEPTION: At *crosswalks*, the *cross slope* of the *curb ramp* run shall be pe
 
 A clear area 48 inches (1220 mm) wide minimum by 48 inches long (1220 mm) minimum shall be provided beyond the bottom *grade break* of the *perpendicular curb ramp* run and within the width of the *crosswalk*. At *shared use paths*, the clear area shall be as wide as *the shared use path*. The clear area shall be located wholly outside the vehicle travel lanes, including bicycle lanes, that run parallel to the *crosswalk*. The *running slope* of the clear area shall be 1:20 (5.0%) maximum. The *cross slope* of the clear area shall be as specified by R302.5.
 
+<div class="advisory">
+  <figure class="center">
+    <figcaption>Figure R304.2.4(a) Clear area for perpendicular curb ramp</figcaption>
+    <img src="./images/R304-2-4-a_clear_area.png" alt="Street corner with two perpendicular curb ramps with lower landings entirely between the marked crosswalk lines." />
+  </figure>
+  <figure>
+    <figcaption>Figure R304.2.4(b) Clear area for angled curb ramp</figcaption>
+    <img src="./images/R304-2-4-b_clear_area.png" alt="Street corner with two angled curb ramps with lower landings entirely between the marked crosswalk lines." />
+  </figure>
+</div>
+
 ##### R304.2.5 Landing
 
 When a change in direction is necessary to access a *curb ramp* from a *pedestrian access route*, a landing shall be provided at the top of the *curb ramp*. The landing shall be 48 inches (1220 mm) wide minimum by 48 inches (1220 mm) long minimum. At *shared use paths*, the landing shall be as wide as the *shared use path*. Where a landing serves only one *curb* ramp, the landing slope measured perpendicular to the *curb ramp* run shall be equal to or less than the *cross slope* of the *curb ramp* run, and the landing slope measured parallel to the *curb ramp* run shall be 1:48 (2.1%) maximum. Where a landing serves two *curb ramps*, the landing slope in either direction of travel shall not exceed the *cross slope* of the *crosswalk* parallel to the direction of travel as specified by R302.5.
 
+<figure class="advisory">
+  <figcaption>Figure R304.2.5 Landing</figcaption>
+  <img src="./images/R304-2-5_landing.png" alt="Street corner with two perpendicular curb ramps with upper landings within the pedestrian access route." />
+</figure>
+
 ##### R304.2.6 Side Treatments
 
 Where a *pedestrian circulation path* crosses the side of a *curb ramp*, the side of the *curb ramp* shall be flared. The slope of the flared side shall be 1:10 (10.0%) maximum, measured parallel to the adjacent *curb line*.
+
+<figure class="advisory">
+  <figcaption>Figure R304.2.6 Side treatment</figcaption>
+  <img src="./images/R304-2-6-a_side_treatments.png" alt="Street corner with two perpendicular curb ramps identifying flared sides of curb ramps." />
+</figure>
 
 ##### R304.2.7 Connection to Pedestrian Facilities
 
@@ -722,26 +749,6 @@ Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* an
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
 
-<figure class="advisory">
-  <figcaption>Figure R303.6 Detectable edging of channelizing devices </figcaption>
-  <img src="./images/R303-6_detectable_edging_of_channelizing_devices.png" alt="Elevation view of pedestrian longitudinal channelizing device." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.2.4(a) Clear area for perpendicular curb ramp</figcaption>
-  <img src="./images/R304-2-4-a_clear_area.png" alt="Street corner with two perpendicular curb ramps with lower landings entirely between the marked crosswalk lines." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.2.4(b) Clear area for angled curb ramp</figcaption>
-  <img src="./images/R304-2-4-b_clear_area.png" alt="Street corner with two angled curb ramps with lower landings entirely between the marked crosswalk lines." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.2.5 Landing</figcaption>
-  <img src="./images/R304-2-5_landing.png" alt="Street corner with two perpendicular curb ramps with upper landings within the pedestrian access route." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R304.2.6(a) Side treatment</figcaption>
-  <img src="./images/R304-2-6-a_side_treatments.png" alt=" Street corner with two perpendicular curb ramps identifying flared sides of curb ramps." />
-</figure>
 <figure class="advisory">
   <figcaption>Figure R304.3.3 Grade breaks</figcaption>
   <img src="./images/R304-3-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" />
