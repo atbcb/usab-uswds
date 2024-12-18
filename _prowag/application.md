@@ -30,10 +30,11 @@ Equivalent facilitation is not permitted for *pedestrian facilities* in the *pub
 
 ### R103 Conventions
 
-**Advisory:** Figures are provided for informational purposes only.
+**_Advisory:_ Figures are provided for informational purposes only.**
 {: .advisory }
 
 ![Dimension lines show English units above the line (in inches unless otherwise noted) and the SI units (in millimeters unless otherwise noted).  Small measurements show the dimension with an arrow pointing to the dimension line.  Dimension ranges are shown above the line in inches and below the line in millimeters.  “Min” refers to minimum, and “max” refers to the maximum.  Mathematical symbols indicate greater than, greater than or equal to, less than, and less than or equal to.  A dashed line identifies the boundary of clear floor space or maneuvering space.  A line with alternating shot and long dashes with a “C” and “L” at the end indicate the centerline.  A dashed line with longer spaces indicates a permitted element or its extension.  An arrow is to identify the direction of travel or approach.  A thick black line is used to represent a wall, floor, ceiling or other element cut in section or plan.  Gray shading is used to show an element in elevation or plan.  Hatching is used to show the location zone of elements, controls, or features.  Terms defined by this document are shown in italics.](./images/R103_conventions.png)
+{: .advisory :}
 
 #### R103.1 Conventional Industry Tolerances
 
