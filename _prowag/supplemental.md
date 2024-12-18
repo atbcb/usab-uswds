@@ -38,10 +38,12 @@ Where objects are mounted on a single post or pylon and the objects are more tha
 
 <figure class="advisory">
   <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
-  <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." /> </figure>
+  <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R402.3.1(b) Objects mounted on single post or pylon</figcaption>
-  <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." /> </figure>
+  <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." />
+</figure>
 
 ##### R402.3.2 Objects Mounted Between Posts or Pylons
 
@@ -51,7 +53,8 @@ EXCEPTION: Objects mounted with the lowest edge greater than 27 inches (685 mm) 
 
 <figure class="advisory">
   <figcaption>Figure R402.3.2 Objects mounted between posts or pylons</figcaption>
-  <img src="./images/R402-3-2_objects_mounted_between_posts_or_pylons.png" alt="Two signs mounted between posts separated by more than twelve inches.  The low sign bottom edge is less than twenty-seven inches above the ground. The high sign bottom edge is more than eighty inches above the ground." /> </figure>
+  <img src="./images/R402-3-2_objects_mounted_between_posts_or_pylons.png" alt="Two signs mounted between posts separated by more than twelve inches.  The low sign bottom edge is less than twenty-seven inches above the ground. The high sign bottom edge is more than eighty inches above the ground." />
+</figure>
 
 #### R402.4 Vertical Clearance
 
@@ -59,7 +62,8 @@ Vertical clearance shall be 80 inches (2030 mm) high minimum. Guards or other ba
 
 <figure class="advisory">
   <figcaption>Figure R402.4 Vertical Clearance</figcaption>
-  <img src="./images/R402-4_vertical_clearance.png" alt="Elevation view of person approaching underside of staircase with barrier rail preventing the person from proceeding where the vertical clearance is less than eighty inches." /> </figure>
+  <img src="./images/R402-4_vertical_clearance.png" alt="Elevation view of person approaching underside of staircase with barrier rail preventing the person from proceeding where the vertical clearance is less than eighty inches." />
+</figure>
 
 #### R402.5 Required Clear Width
 
@@ -128,9 +132,27 @@ The clear space and additional maneuvering clearance shall be 60 inches (1525 mm
 
 Where space beneath an *element* is included as part of a clear space, the space shall comply with R405. Additional space shall not be prohibited beneath an *element* but shall not be considered as part of the clear space.
 
+<figure class="advisory">
+  <figcaption>Figure R405.1 General</figcaption>
+  <img src="./images/R405-1_general.png" alt="Elevation view combining knee and toe clearances identified with dimensions required by r four oh five point two and four oh five point three." />
+</figure>
+
 #### R405.2 Toe Clearance
 
 Toe clearance shall comply with R405.2.
+
+<figure class="advisory">
+  <figcaption>Figure R405.2(a) Toe clearance, elevation view</figcaption>
+  <img src="./images/R405-2_toe_clearance-elevation.png" alt="Elevation view of toe space under and obstruction identifying minimum height and depth." />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R405.2(b) Toe clearance, plan view 1 of 2</figcaption>
+  <img src="./images/R405-2_toe_clearance-plan-a.png" alt="Plan view of obstruction over a clear floor space identifying the maximum depth of the obstruction." />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R405.2(c) Toe clearance, plan view 2 of 2</figcaption>
+  <img src="./images/R405-2_toe_clearance-plan-b.png" alt="Plan view of obstruction over a clear floor space identifying the minimum depth of the obstruction when toe clearance is required at an element." />
+</figure>
 
 ##### R405.2.1 General
 
@@ -140,13 +162,28 @@ Space under an *element* between the ground surface and 9 inches (230 mm) above 
 
 Toe clearance shall extend 25 inches (635 mm) maximum under an *element*.
 
+<figure class="advisory">
+  <figcaption>Figure R405.2.2 Maximum Depth</figcaption>
+  <img src="./images/R405-2-2_maximum_depth.png" alt="Elevation view of toe clearance identifying height and maximum depth relative to the leading edge of an obstruction." />
+</figure>
+
 ##### R405.2.3 Minimum Required Depth
 
 Where toe clearance is required at an *element* as part of a clear space, the toe clearance shall extend 17 inches (430 mm) minimum under the *element*.
 
+<figure class="advisory">
+  <figcaption>Figure R405.2.3 Minimum Required Depth</figcaption>
+  <img src="./images/R405-2-3_minimum_required_depth.png" alt="Elevation view of toe clearance identifying the minimum depth relative to the leading edge of an obstruction where toe clearance is required at an element as part of a clear space." />
+</figure>
+
 ##### R405.2.4 Additional Clearance
 
 Space extending greater than 6 inches (150 mm) beyond the available knee clearance at 9 inches above the ground surface shall not be considered toe clearance.
+
+<figure class="advisory">
+  <figcaption>Figure R405.2.4 Additional Clearance</figcaption>
+  <img src="./images/R405-2-4_additional_clearance.png" alt="Elevation view of toe clearance identifying the maximum depth relative to the knee clearance" />
+</figure>
 
 ##### R405.2.5 Width
 
@@ -156,6 +193,15 @@ Toe clearance shall be 30 inches (760 mm) wide minimum.
 
 Knee clearance shall comply with R405.3.
 
+<figure class="advisory">
+  <figcaption>Figure R405.3(a) Knee clearance, elevation view</figcaption>
+  <img src="./images/R405-3_knee_clearance-elevation.png" alt="" />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R405.3(b) Knee clearance, plan view</figcaption>
+  <img src="./images/R405-3_knee_clearance-plan.png" alt="" />
+</figure>
+
 ##### R405.3.1 General
 
 Space under an *element* between 9 inches (230 mm) and 27 inches (685 mm) above the ground surface shall be considered knee clearance and shall comply with R405.3.
@@ -164,17 +210,28 @@ Space under an *element* between 9 inches (230 mm) and 27 inches (685 mm) above 
 
 Knee clearance shall extend 25 inches (635 mm) maximum under an *element* at 9 inches (230 mm) above the ground surface.
 
+<figure class="advisory">
+  <figcaption>Figure R405.3.2 Maximum Depth</figcaption>
+  <img src="./images/R405-3-2_maximum_depth.png" alt="Elevation view of knee clearance identifying the height range and the maximum depth relative to the leading edge of an obstruction." />
+</figure>
+
 ##### R405.3.3 Minimum Required Depth
 
 Where knee clearance is required under an *element* as part of a clear space, the knee clearance shall be 11 inches (280 mm) deep minimum at 9 inches (230 mm) above the ground surface, and 8 inches (205 mm) deep minimum at 27 inches (685 mm) above the ground surface.
 
 <figure class="advisory">
-  <figcaption>Figure R405.3.3 Minimum required depth</figcaption>
-  <img src="./images/R405-3-3_minimum_required_depth.png" alt="Elevation view of knee space under and obstruction identifying the minimum depth when knee clearance is required under an element as part of a clear space." /> </figure>
+  <figcaption>Figure R405.3.3 Minimum Required Depth</figcaption>
+  <img src="./images/R405-3-3_minimum_required_depth.png" alt="Elevation view of knee clearance showing minimum depth relative to the leading edge of an obstruction where knee clearance is required at an element as part of a clear space." />
+</figure>
 
 ##### R405.3.4 Clearance Reduction
 
 Between 9 inches (230 mm) and 27 inches (685mm) above the ground surface, the knee clearance shall be permitted to reduce at a rate of 1 inch (25 mm) in depth for each 6 inches (150 mm) in height.
+
+<figure class="advisory">
+  <figcaption>Figure R405.3.4 Clearance Reduction</figcaption>
+  <img src="./images/R405-3-4_clearance_reduction.png" alt="Elevation view of knee clearance identifying the slope of the transition from twenty seven inches above the finish floor to nine inches above the finish floor." />
+</figure>
 
 ##### R405.3.5 Width
 
@@ -190,6 +247,15 @@ Reach ranges shall comply with R406.
 
 For forward and parallel approaches, the high reach shall be 48 inches (1220 mm) maximum and the low reach shall be 15 inches (380 mm) minimum above the ground surface.
 
+<figure class="advisory">
+  <figcaption>Figure R406.2(a) Forward reach range limits</figcaption>
+  <img src="./images/R406-2_reach_range_limits_front.png" alt="Elevation view of person in wheelchair reaching forward at both the maximum and minimum reach heights." />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R406.2(b) Side reach range limits</figcaption>
+  <img src="./images/R406-2_reach_range_limits_side.png" alt="Elevation view of person in wheelchair reaching sideways at both the maximum and minimum reach heights." />
+</figure>
+
 #### R406.3 Obstructions
 
 Obstructed reach shall comply with R406.3.
@@ -199,6 +265,7 @@ Obstructed reach shall comply with R406.3.
 Where the clear space is configured solely for a forward approach to an *element*, obstructions shall not be permitted between the clear space and the *element* for a forward reach.
 
 ##### R406.3.2 Side Reach
+
 Where a clear space is configured for a parallel approach to an *element*, an obstruction shall be permitted between the clear space and the *element* where the depth of the obstruction is 10 inches (255 mm) maximum and the height of the obstruction is 34 inches (865 mm) maximum.
 
 ### R407 Ramps
@@ -238,6 +305,7 @@ Landing slopes shall be 1:48 (2.1%) maximum parallel and perpendicular to the *r
 The landing clear width shall be at least as wide as the widest *ramp* run leading to the landing.
 
 ##### R407.6.3 Length
+
 The landing clear length shall be 60 inches (1525 mm) long minimum.
 
 ##### R407.6.4 Change in Direction
@@ -426,99 +494,60 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 
 #### Figure R411 -- International Symbol of Accessibility
 
+<figure>
+  <figcaption>Figure R411 International Symbol of Accessibility</figcaption>
+  <img src="./images/R411_isa.png" alt="International Symbol of Accessibility" />
+</figure>
+
 ![International Symbol of Accessibility](./images/R411_isa.png)
 {: .center .img-medium }
 
-<figure class="advisory">
-  <figcaption>Figure R405.1 General</figcaption>
-  <img src="./images/ R405-1_general.png" alt="Elevation view combining knee and toe clearances identified with dimensions required by r four oh five point two and four oh five point three." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2.2 Maximum Depth</figcaption>
-  <img src="./images/R405-2-2_maximum_depth.png" alt="Elevation view of toe clearance identifying height and maximum depth relative to the leading edge of an obstruction." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2.3 Minimum Required Depth</figcaption>
-  <img src="./images/R405-2-3_minimum_required_depth.png" alt="Elevation view of toe clearance identifying the minimum depth relative to the leading edge of an obstruction where toe clearance is required at an element as part of a clear space." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2.4 Additional Clearance</figcaption>
-  <img src="./images/R405-2-4_additional_clearance.png" alt="Elevation view of toe clearance identifying the maximum depth relative to the knee clearance" /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3.2 Maximum Depth</figcaption>
-  <img src="./images/R405-3-2_maximum_depth.png" alt="Elevation view of knee clearance identifying the height range and the maximum depth relative to the leading edge of an obstruction." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3.3 Minimum Required Depth</figcaption>
-  <img src="./images/R405-3-3_minimum_required_depth.png" alt="Elevation view of knee clearance showing minimum depth relative to the leading edge of an obstruction where knee clearance is required at an element as part of a clear space." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3.4 Clearance Reduction</figcaption>
-  <img src="./images/R405-3-4_clearance_reduction.png" alt="Elevation view of knee clearance identifying the slope of the transition from twenty seven inches above the finish floor to nine inches above the finish floor." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2 Toe clearance, elevation view</figcaption>
-  <img src="./images/R405-2_toe_clearance-elevation.png" alt="Elevation view of toe space under and obstruction identifying minimum height and depth." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2(a) Toe clearance, plan view 1 of 2</figcaption>
-  <img src="./images/R405-2_toe_clearance-plan-a.png" alt="Plan view of obstruction over a clear floor space identifying the maximum depth of the obstruction." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2 Toe clearance, plan view 2 of 2</figcaption>
-  <img src="./images/R405-2_toe_clearance-plan-b.png" alt="Plan view of obstruction over a clear floor space identifying the minimum depth of the obstruction when toe clearance is required at an element." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3.3 Minimum required depth</figcaption>
-  <img src="./images/R405-3-3_minimum_required_depth.png" alt="Elevation view of knee space under and obstruction identifying the minimum depth when knee clearance is required under an element as part of a clear space." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R406.2(a) Forward reach range limits</figcaption>
-  <img src="./images/R406-2_reach_range_limits_front.png" alt="Elevation view of person in wheelchair reaching forward at both the maximum and minimum reach heights." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R406.2(b) Side reach range limits</figcaption>
-  <img src="./images/R406-2_reach_range_limits_side.png" alt="Elevation view of person in wheelchair reaching sideways at both the maximum and minimum reach heights." /> </figure>
+
 <figure class="advisory">
   <figcaption>Figure R406.3.2 Obstructed side reach</figcaption>
-  <img src="./images/R406-3-2_side_reach.png" alt="Elevation view of person in wheelchair reaching sideways over an obstruction." /> </figure>
+  <img src="./images/R406-3-2_side_reach.png" alt="Elevation view of person in wheelchair reaching sideways over an obstruction." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R407.6 Ramp landings</figcaption>
-  <img src="./images/R407-6_landings.png" alt="Plan view of ramp run with upper and lower landings and identifying the minimum length and width of the landings." /> </figure>
+  <img src="./images/R407-6_landings.png" alt="Plan view of ramp run with upper and lower landings and identifying the minimum length and width of the landings." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R407.6.4 Change_in_direction</figcaption>
-  <img src="./images/R407-6-4_change_in_direction.png" alt="Plan view of landing between two ramp runs with running slopes in different directions." /> </figure>
+  <img src="./images/R407-6-4_change_in_direction.png" alt="Plan view of landing between two ramp runs with running slopes in different directions." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R407.9.1 Extended ramp surface </figcaption>
-  <img src="./images/R407-9-1_extended_ramp_surface.png" alt="Elevation view of minimum extension of ramp surface beyond the grab bars." /> </figure>
+  <img src="./images/R407-9-1_extended_ramp_surface.png" alt="Elevation view of minimum extension of ramp surface beyond the grab bars." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.4(a) Ramp handrail height</figcaption>
-  <img src="./images/R409-4-ramp_height.png" alt="Elevation view of handrail serving sloped surface with identified maximum height to top of gripping surface." /> </figure>
+  <img src="./images/R409-4-ramp_height.png" alt="Elevation view of handrail serving sloped surface with identified maximum height to top of gripping surface." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.4(b) Stairway handrail height</figcaption>
-  <img src="./images/R409-4-stairs_height.png" alt="Elevation view of handrail serving stairs identified maximum height from the stair nosing to the top of the gripping surface." /> </figure>
+  <img src="./images/R409-4-stairs_height.png" alt="Elevation view of handrail serving stairs identified maximum height from the stair nosing to the top of the gripping surface." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.4(c) Handrail gripping surface height</figcaption>
-  <img src="./images/R409-4-walking-surface_height.png" alt="Elevation view of handrail serving walking surface with identified maximum height to top of gripping surface." /> </figure>
+  <img src="./images/R409-4-walking-surface_height.png" alt="Elevation view of handrail serving walking surface with identified maximum height to top of gripping surface." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.7.2(a) Rectangular handrail cross section</figcaption>
-  <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." /> </figure>
+  <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.7.2(b) Elliptical handrail cross section</figcaption>
-  <img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="Cross section of elliptical non-circular handrail identifying the maximum width and perimeter length range." /> </figure>
+  <img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="Cross section of elliptical non-circular handrail identifying the maximum width and perimeter length range." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.10.1 Ramp handrail, top and bottom extension</figcaption>
-  <img src="./images/R409-10-1_top_and_bottom_extension_at_ramps.png" alt="Elevation view of ramp handrail with minimum extension length identified." /> </figure>
+  <img src="./images/R409-10-1_top_and_bottom_extension_at_ramps.png" alt="Elevation view of ramp handrail with minimum extension length identified." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.10.2 Stair handrail top extension</figcaption>
-  <img src="./images/R409-10-2_top_extension_at_stairs.png" alt="Elevation view of handrail extension at the top of stairs with minimum extension length identified." /> </figure>
+  <img src="./images/R409-10-2_top_extension_at_stairs.png" alt="Elevation view of handrail extension at the top of stairs with minimum extension length identified." />
+</figure>
 <figure class="advisory">
   <figcaption>Figure R409.10.3 Stair handrail bottom extension</figcaption>
-  <img src="./images/R409-10-3_bottom_extension_at_stairs.png" alt="Elevation view of handrail extension at the bottom of stairs with minimum extension length identified." /> </figure>
-<figure>
-  <figcaption>Figure R411 International Symbol of Accessibility</figcaption>
-  <img src="./images/R411_isa.png" alt="International Symbol of Accessibility" /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2 Toe clearance, elevation view</figcaption>
-  <img src="./images/R405-2_toe_clearance-elevation.png" alt="Elevation view of toe space under and obstruction identifying minimum height and depth." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2(a) Toe clearance, plan view 1 of 2</figcaption>
-  <img src="./images/R405-2_toe_clearance-plan-a.png" alt="Plan view of obstruction over a clear floor space identifying the maximum depth of the obstruction." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2 Toe clearance, plan view 2 of 2</figcaption>
-  <img src="./images/R405-2_toe_clearance-plan-b.png" alt="Plan view of obstruction over a clear floor space identifying the minimum depth of the obstruction when toe clearance is required at an element." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3 Knee clearance, elevation view</figcaption>
-  <img src="./images/R405-3_knee_clearance-elevation.png" alt="" /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3 Knee clearance, plan view</figcaption>
-  <img src="./images/R405-3_knee_clearance-plan.png" alt="" /> </figure>
+  <img src="./images/R409-10-3_bottom_extension_at_stairs.png" alt="Elevation view of handrail extension at the bottom of stairs with minimum extension length identified." />
+</figure>
