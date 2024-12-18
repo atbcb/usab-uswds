@@ -590,6 +590,11 @@ Boarding and alighting areas at *sidewalk* or *street*-level *transit stops* mus
 
 Boarding and alighting areas shall have a clear length of 96 inches (2440 mm) minimum, measured perpendicular to the face of the *curb* or *street* edge, and a clear width of 60 inches (1525 mm) minimum, measured parallel to the *street*.
 
+<figure class="advisory">
+  <figcaption>Figure R309.1.1.1 Dimensions</figcaption>
+  <img src="./images/R309-1-1-1_dimensions.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge." />
+</figure>
+
 ###### R309.1.1.2 Slope
 
 The slope of boarding and alighting areas measured parallel to the *street* shall be the same as the *grade* of the *street*. The slope of boarding and alighting areas measured perpendicular to the *street* shall be 1:48 (2.1%) maximum.
@@ -625,6 +630,11 @@ In *alterations,* boarding and alighting areas and *boarding platform*s shall be
 ##### R309.2.1 Connection to Boarding and Alighting Areas
 
 *Transit shelters* shall be connected by *pedestrian access routes* complying with R302 to boarding and alighting areas complying with R309.1.1 or *boarding platform*s complying with R309.1.2.
+
+<figure class="advisory">
+  <figcaption>Figure R309.2.1 Connection to boarding and alighting areas</figcaption>
+  <img src="./images/R309-2-1_connection_to_boarding_and_alighting_areas.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge.  A clear floor space within a bus shelter connects to the boarding and alighting area via a pedestrian access route." />
+</figure>
 
 ##### R309.2.2 Clear Space
 
@@ -730,6 +740,11 @@ Parking meters and parking pay stations that serve *accessible* parking spaces s
 
 *Accessible* *passenger loading zones* shall comply with R311.
 
+<figure class="advisory">
+  <figcaption>Figure R311.1 Passenger loading zone</figcaption>
+  <img src="./images/R311-1_passenger_loading_zone.png" alt="Bus at passenger loading zone with identified minimum dimensions for the vehicle space and access aisle.  Fifty percent of the adjacent sidewalk is clear of obstructions centered on the vehicle space and a curb ramp run connects the sidewalk to the access aisle." />
+</figure>
+
 #### R311.2 Vehicle Pull-Up Space
 
 *Accessible* *passenger loading zones* shall provide a vehicular pull-up space that is 96 inches (2440 mm) wide minimum and 20 feet (6.1 m) long minimum.
@@ -829,14 +844,6 @@ EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedest
   <img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="Plan view of pedestrian access route with intersecting rail crossing.  To one side of the rail crossing, the detectable warning surface is seventy two through one hundred eighty inches from centerline of rail.  To other side of the rail crossing is a pedestrian gate between the detectable warning surface and the rail crossing." />
 </figure>
 <figure class="advisory">
-  <figcaption>Figure R309.1.1.1 Dimensions</figcaption>
-  <img src="./images/R309-1-1-1_dimensions.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R309.2.1 Connection to boarding and alighting areas</figcaption>
-  <img src="./images/R309-2-1_connection_to_boarding_and_alighting_areas.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge.  A clear floor space within a bus shelter connects to the boarding and alighting area via a pedestrian access route." />
-</figure>
-<figure class="advisory">
   <figcaption>Figure R310.2.1 Dimensions</figcaption>
   <img src="./images/R310-2-1_dimensions.png" alt="On street parking space with pedestrian access route connection and dimensions identifying the minimum vehicle space size." />
 </figure>
@@ -859,8 +866,4 @@ EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedest
 <figure class="advisory">
   <figcaption>Figure R310.4 Angled parking spaces</figcaption>
   <img src="./images/R310-4_angled_parking_spaces.png" alt="Plan view of angled parking spaces with an access aisle on passenger side of each space connected to a perpendicular curb ramp.  The minimum widths of the vehicle space and access aisle are identified." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R311.1 Passenger loading zone</figcaption>
-  <img src="./images/R311-1_passenger_loading_zone.png" alt="Bus at passenger loading zone with identified minimum dimensions for the vehicle space and access aisle.  Fifty percent of the adjacent sidewalk is clear of obstructions centered on the vehicle space and a curb ramp run connects the sidewalk to the access aisle." />
 </figure>
