@@ -438,19 +438,19 @@ On *perpendicular curb ramps*, *detectable warning surfaces* shall be located as
 >
 > B.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from both ends of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is 60 inches (1525 mm) or less, the *detectable warning surface* shall be placed on the *ramp* run at the bottom *grade break*.
 >
->C.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from either end of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is more than 60 inches (1525 mm), the *detectable warning surface* shall be placed on the clear area so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
+> C.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from either end of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is more than 60 inches (1525 mm), the *detectable warning surface* shall be placed on the clear area so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
 
 <div class="advisory">
   <figure">
-    <figcaption>Figure R305.2.1(a) Perpendicular curb ramp</figcaption>
+    <figcaption>Figure R305.2.1(a) A. Perpendicular curb ramp</figcaption>
     <img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp with returned sides identifying the location of both ends of the bottom grade break are in front of the back of curb and the maximum offset of the detectable warning surface from the back of curb." />
   </figure>
   <figure>
-    <figcaption>Figure R305.2.1(b) Perpendicular curb ramp </figcaption>
+    <figcaption>Figure R305.2.1(b) B. Perpendicular curb ramp</figcaption>
     <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." />
   </figure>
   <figure>
-    <figcaption>Figure R305.2.1(c) Perpendicular curb ramp </figcaption>
+    <figcaption>Figure R305.2.1(c) C. Perpendicular curb ramp</figcaption>
     <img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with back of curb (diagonal to grade break) when either end of the bottom grade break is more than 60 inches from the back of curb." />
   </figure>
 </div>
@@ -510,7 +510,6 @@ At boarding and alighting areas at *sidewalk* or *street*-level *transit stops* 
 ##### R305.2.8 Driveways
 
 Where driveways are controlled with yield or stop control devices or traffic signals, *detectable warning surfaces* shall be provided on the *pedestrian circulation path* where the *pedestrian circulation path* meets the driveway.
-
 
 ### R306 Crosswalks
 
@@ -758,7 +757,22 @@ Parallel on-street parking spaces shall be 24 feet (7.3 m) long minimum and 13 f
 
 EXCEPTIONS: 1. Where parallel on-street parking spaces are *altered* but the adjacent *pedestrian circulation path* is not, any *accessible* parallel on-street parking spaces provided may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
 
-2\.  In *alterations,* where providing parallel on-street parking spaces with the dimensions specified in R310.2.1 would result in an available right-of-way width less than or equal to 9 feet (2.7 m), measured from the *curb line* to the right-of-way line, the *accessible* parallel on-street parking spaces may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
+2\.  In *alterations*, where providing parallel on-street parking spaces with the dimensions specified in R310.2.1 would result in an available right-of-way width less than or equal to 9 feet (2.7 m), measured from the *curb line* to the right-of-way line, the *accessible* parallel on-street parking spaces may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
+
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R310.2.1(a) Dimensions</figcaption>
+    <img src="./images/R310-2-1_dimensions.png" alt="On street parking space with pedestrian access route connection and dimensions identifying the minimum vehicle space size." />
+  </figure>
+  <figure>
+    <figcaption>Figure R310.2.1(b) Exception 1</figcaption>
+    <img src="./images/R310-2-1-x1_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces." />
+  </figure>
+  <figure>
+    <figcaption>Figure R310.2.1(c) Exception 2</figcaption>
+    <img src="./images/R310-2-1-x2_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces.  The sidewalk parallel to the parking space is identified as a nine foot maximum depth." />
+  </figure>
+</div>
 
 ##### R310.2.2 Pedestrian Access Route Connection
 
@@ -774,6 +788,11 @@ Surfaces of parking spaces shall comply with R302.6, except that changes in leve
 
 The center 50 percent of the length of the *sidewalk*, or other surface, adjacent to an *accessible* parallel parking space shall be free of obstructions, including parking identification signs, parking pay meters, and parking pay stations, and shall comply with R302.6.
 
+<figure class="advisory">
+  <figcaption>Figure R310.2.4 Clearance adjacent to parking spaces</figcaption>
+  <img src="./images/R310-2-4_clearance_adjacent_to_parking_spaces.png" alt=" On street parking space with fifty percent of the adjacent sidewalk clear of obstructions centered on the vehicle space." />
+</figure>
+
 ##### R310.2.5 Identification
 
 Parallel on-street parking spaces shall be identified by signs displaying the International Symbol of Accessibility complying with R411. Signs shall be 60 inches (1525 mm) minimum above the ground surface measured to the bottom of the sign.
@@ -782,6 +801,11 @@ Parallel on-street parking spaces shall be identified by signs displaying the In
 
 Perpendicular parking spaces shall comply with R310.3.
 
+<figure class="advisory">
+  <figcaption>Figure R310.3 Perpendicular parking spaces</figcaption>
+  <img src="./images/R310-3_perpendicular_parking_spaces.png" alt="Plan view of perpendicular parking spaces with an access aisle between the spaces connected to a perpendicular curb ramp.  The minimum width of the access aisle is identified." />
+</figure>
+
 ##### R310.3.1 Access Aisles
 
 Perpendicular on-street parking spaces shall have adjacent access aisles 96 inches (2440 mm) wide minimum extending the full length of the parking space. One access aisle shall be permitted to serve two parking spaces where front and rear entry parking are both permitted. Where an access aisle serves only one parking space and parking is restricted to either front entry or rear entry orientation, the access aisle shall be located on the passenger side of the vehicle.
@@ -789,6 +813,11 @@ Perpendicular on-street parking spaces shall have adjacent access aisles 96 inch
 #### R310.4 Angled Parking Spaces
 
 *Accessible* angled parking spaces shall comply with R310.4.
+
+<figure class="advisory">
+  <figcaption>Figure R310.4 Angled parking spaces</figcaption>
+  <img src="./images/R310-4_angled_parking_spaces.png" alt="Plan view of angled parking spaces with an access aisle on passenger side of each space connected to a perpendicular curb ramp.  The minimum widths of the vehicle space and access aisle are identified." />
+</figure>
 
 ##### R310.4.1 Width
 
@@ -864,28 +893,3 @@ Surfaces of vehicle pull-up spaces and the access aisles serving them shall comp
 Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* and *blended transition*s are used, they shall be provided in accordance with R203.6.1.4 and comply with R304, and shall not reduce the required width or length of access aisles. *Detectable warning surfaces* are not required on *curb ramps* and *blended transitions* used exclusively to connect access aisles to *pedestrian access routes*.
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
-
-<figure class="advisory">
-  <figcaption>Figure R310.2.1 Dimensions</figcaption>
-  <img src="./images/R310-2-1_dimensions.png" alt="On street parking space with pedestrian access route connection and dimensions identifying the minimum vehicle space size." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R310.2.1 Exception 1</figcaption>
-  <img src="./images/R310-2-1-x1_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R310.2.1 Exception 2</figcaption>
-  <img src="./images/R310-2-1-x2_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces.  The sidewalk parallel to the parking space is identified as a nine foot maximum depth." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R310.2.4 Clearance adjacent to parking spaces</figcaption>
-  <img src="./images/R310-2-4_clearance_adjacent_to_parking_spaces.png" alt=" On street parking space with fifty percent of the adjacent sidewalk clear of obstructions centered on the vehicle space." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R310.3 Perpendicular parking spaces</figcaption>
-  <img src="./images/R310-3_perpendicular_parking_spaces.png" alt="Plan view of perpendicular parking spaces with an access aisle between the spaces connected to a perpendicular curb ramp.  The minimum width of the access aisle is identified." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R310.4 Angled parking spaces</figcaption>
-  <img src="./images/R310-4_angled_parking_spaces.png" alt="Plan view of angled parking spaces with an access aisle on passenger side of each space connected to a perpendicular curb ramp.  The minimum widths of the vehicle space and access aisle are identified." />
-</figure>
