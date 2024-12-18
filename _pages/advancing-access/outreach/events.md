@@ -26,7 +26,7 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
 _**Agenda**_
 - Introductory Remarks and Roll Call
-- Board vote on approval of draft July 2024 meeting minutes
+- Board vote on approval of draft October 2024 meeting minutes
 - Executive Director’s Report
 - Standing Committee Reports
 - Election Assistance Commission
