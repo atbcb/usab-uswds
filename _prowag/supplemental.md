@@ -21,6 +21,11 @@ Objects with leading edges more than 27 inches (685 mm) and less than 80 inches 
 
 EXCEPTION: Handrails shall be permitted to protrude 4 ½ inches (115 mm) maximum.
 
+<figure class="advisory">
+  <figcaption>Figure R402.2 Protrusion limits</figcaption>
+  <img src="./images/R402-2_protrusion_limits.png" alt="Elevation front view of person walking with cane and identified minimum vertical clearances and maximum protrusions from the wall." />
+</figure>
+
 #### R402.3 Post-Mounted Objects
 
 Where objects are mounted on posts or pylons, they shall comply with R402.3.
@@ -31,15 +36,30 @@ EXCEPTION:  The sloping portions of handrails serving *stairs* and *ramps* shal
 
 Where objects are mounted on a single post or pylon and the objects are more than 27 inches (685 mm) and less than 80 inches (2030 mm) above the walking surface, the objects shall not protrude into the *pedestrian circulation path* more than 4 inches (100 mm) measured horizontally from the post or pylon or more than 4 inches (100mm) measured horizontally from the outside edge of the base where the base height is 2 ½ inches (64 mm) minimum.
 
+<figure class="advisory">
+  <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
+  <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." /> </figure>
+<figure class="advisory">
+  <figcaption>Figure R402.3.1(b) Objects mounted on single post or pylon</figcaption>
+  <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." /> </figure>
+
 ##### R402.3.2 Objects Mounted Between Posts or Pylons
 
 Where objects are mounted between posts or pylons and the clear distance between the posts or pylons is greater than 12 inches (305 mm), the lowest edge of the object shall be 27 inches (685 mm) maximum or 80 inches (2030 mm) minimum above the walking surface.
 
 EXCEPTION: Objects mounted with the lowest edge greater than 27 inches (685 mm) and less than 80 inches (2030 mm) above the walking surface are permitted if a barrier with its lowest edge at 27 inches (685 mm) maximum above the walking surface is provided between the posts or pylons.
 
+<figure class="advisory">
+  <figcaption>Figure R402.3.2 Objects mounted between posts or pylons</figcaption>
+  <img src="./images/R402-3-2_objects_mounted_between_posts_or_pylons.png" alt="Two signs mounted between posts separated by more than twelve inches.  The low sign bottom edge is less than twenty-seven inches above the ground. The high sign bottom edge is more than eighty inches above the ground." /> </figure>
+
 #### R402.4 Vertical Clearance
 
 Vertical clearance shall be 80 inches (2030 mm) high minimum. Guards or other barriers to prohibit *pedestrian* travel shall be provided where the vertical clearance is less than 80 inches (2030 mm) high above the walking surface. The lowest edge of the guard or barrier shall be located 27 inches (685 mm) maximum above the walking surface.
+
+<figure class="advisory">
+  <figcaption>Figure R402.4 Vertical Clearance</figcaption>
+  <img src="./images/R402-4_vertical_clearance.png" alt="Elevation view of person approaching underside of staircase with barrier rail preventing the person from proceeding where the vertical clearance is less than eighty inches." /> </figure>
 
 #### R402.5 Required Clear Width
 
@@ -59,6 +79,7 @@ A clear space complying with R404 shall be provided at *operable parts*.
 *Operable parts* shall be placed within one or more of the reach ranges specified in R406.
 
 #### R403.4 Operation
+
 *Operable parts* shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate *operable parts* shall be 5 pounds (22.2 N) maximum.
 
 ### R404 Clear Spaces
@@ -147,7 +168,12 @@ Knee clearance shall extend 25 inches (635 mm) maximum under an *element* at 9 i
 
 Where knee clearance is required under an *element* as part of a clear space, the knee clearance shall be 11 inches (280 mm) deep minimum at 9 inches (230 mm) above the ground surface, and 8 inches (205 mm) deep minimum at 27 inches (685 mm) above the ground surface.
 
+<figure class="advisory">
+  <figcaption>Figure R405.3.3 Minimum required depth</figcaption>
+  <img src="./images/R405-3-3_minimum_required_depth.png" alt="Elevation view of knee space under and obstruction identifying the minimum depth when knee clearance is required under an element as part of a clear space." /> </figure>
+
 ##### R405.3.4 Clearance Reduction
+
 Between 9 inches (230 mm) and 27 inches (685mm) above the ground surface, the knee clearance shall be permitted to reduce at a rate of 1 inch (25 mm) in depth for each 6 inches (150 mm) in height.
 
 ##### R405.3.5 Width
@@ -404,22 +430,6 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 {: .center .img-medium }
 
 <figure class="advisory">
-  <figcaption>Figure R402.2 Protrusion limits</figcaption>
-  <img src="./images/R402-2_protrusion_limits.png" alt="Elevation front view of person walking with cane and identified minimum vertical clearances and maximum protrusions from the wall." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
-  <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R402.3.1(b) Objects mounted on single post or pylon</figcaption>
-  <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R402.3.2 Objects mounted between posts or pylons</figcaption>
-  <img src="./images/R402-3-2_objects_mounted_betweeen_posts_or_pylons.png" alt="Two signs mounted between posts separated by more than twelve inches.  The low sign bottom edge is less than twenty-seven inches above the ground. The high sign bottom edge is more than eighty inches above the ground." /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R402.4 Vertical Clearance</figcaption>
-  <img src="./images/R402-4_vertical_clearance.png" alt="Elevation view of person approaching underside of staircase with barrier rail preventing the person from proceeding where the vertical clearance is less than eighty inches." /> </figure>
-<figure class="advisory">
   <figcaption>Figure R405.1 General</figcaption>
   <img src="./images/ R405-1_general.png" alt="Elevation view combining knee and toe clearances identified with dimensions required by r four oh five point two and four oh five point three." /> </figure>
 <figure class="advisory">
@@ -512,6 +522,3 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 <figure class="advisory">
   <figcaption>Figure R405.3 Knee clearance, plan view</figcaption>
   <img src="./images/R405-3_knee_clearance-plan.png" alt="" /> </figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3.3 Minimum required depth</figcaption>
-  <img src="./images/R405-3-3_minimum_required_depth.png" alt="Elevation view of knee space under and obstruction identifying the minimum depth when knee clearance is required under an element as part of a clear space." /> </figure>
