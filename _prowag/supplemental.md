@@ -342,6 +342,11 @@ Edge protection complying with R407.9.1 or R407.9.2 shall be provided on each si
 
 The surface of the *ramp* run or landing shall extend 12 inches (305 mm) minimum beyond the inside face of a handrail complying with R409.  
 
+<figure class="advisory">
+  <figcaption>Figure R407.9.1 Extended ramp surface</figcaption>
+  <img src="./images/R407-9-1_extended_ramp_surface.png" alt="Elevation view of minimum extension of ramp surface beyond the grab bars." />
+</figure>
+
 ##### R407.9.2 Curb or Barrier
 
 A *curb* that is 4 inches (100 mm) high minimum, or a barrier that prevents the passage of a 4-inch (100 mm) diameter sphere, where any portion of the sphere is within 4 inches (100 mm) of the surface of the *ramp run* or landing, shall be provided.
@@ -396,6 +401,19 @@ Handrails shall be continuous within the full length of each *ramp* run or *stai
 
 The top of gripping surfaces of handrails shall be 34 inches (865 mm) minimum and 38 inches (965 mm) maximum vertically above walking surfaces, *ramp* surfaces, and *stair* nosings. Handrails shall be at a consistent height above walking surfaces, *ramp* surfaces, and *stair* nosings.
 
+<figure class="advisory">
+  <figcaption>Figure R409.4(a) Ramp handrail height</figcaption>
+  <img src="./images/R409-4-ramp_height.png" alt="Elevation view of handrail serving sloped surface with identified maximum height to top of gripping surface." />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R409.4(b) Stairway handrail height</figcaption>
+  <img src="./images/R409-4-stairs_height.png" alt="Elevation view of handrail serving stairs identified maximum height from the stair nosing to the top of the gripping surface." />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R409.4(c) Handrail gripping surface height</figcaption>
+  <img src="./images/R409-4-walking-surface_height.png" alt="Elevation view of handrail serving walking surface with identified maximum height to top of gripping surface." />
+</figure>
+
 #### R409.5 Clearance
 
 Clearance between handrail gripping surfaces and adjacent surfaces shall be 1½ inches (38 mm) minimum.
@@ -416,6 +434,15 @@ Handrail gripping surfaces with a circular cross section shall have an outside d
 
 Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 6¼ inches (160 mm) maximum, and a cross-section dimension of 2¼ inches (57 mm) maximum.
 
+<figure class="advisory">
+  <figcaption>Figure R409.7.2(a) Rectangular handrail cross section</figcaption>
+  <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." />
+</figure>
+<figure class="advisory">
+  <figcaption>Figure R409.7.2(b) Elliptical handrail cross section</figcaption>
+  <img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="Cross section of elliptical non-circular handrail identifying the maximum width and perimeter length range." />
+</figure>
+
 #### R409.8 Surfaces
 
 Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive *elements* and shall have rounded edges.
@@ -434,13 +461,28 @@ EXCEPTION: Extensions shall not be required for continuous handrails at the insi
 
 *Ramp* handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beyond the top and bottom of *ramp* runs. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent *ramp* run.
 
+<figure class="advisory">
+  <figcaption>Figure R409.10.1 Ramp handrail, top and bottom extension</figcaption>
+  <img src="./images/R409-10-1_top_and_bottom_extension_at_ramps.png" alt="Elevation view of ramp handrail with minimum extension length identified." />
+</figure>
+
 ##### R409.10.2 Top Extension at Stairs
 
 At the top of a *stair* flight, handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beginning directly above the first riser nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent *stair* flight.
 
+<figure class="advisory">
+  <figcaption>Figure R409.10.2 Stair handrail top extension</figcaption>
+  <img src="./images/R409-10-2_top_extension_at_stairs.png" alt="Elevation view of handrail extension at the top of stairs with minimum extension length identified." />
+</figure>
+
 ##### R409.10.3 Bottom Extension at Stairs
 
 At the bottom of a *stair* flight, handrails shall extend at the slope of the *stair* flight for a horizontal distance at least equal to one tread depth beyond the last riser nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent *stair* flight.
+
+<figure class="advisory">
+  <figcaption>Figure R409.10.3 Stair handrail bottom extension</figcaption>
+  <img src="./images/R409-10-3_bottom_extension_at_stairs.png" alt="Elevation view of handrail extension at the bottom of stairs with minimum extension length identified." />
+</figure>
 
 ### R410 Visual Characters on Signs
 
@@ -509,44 +551,7 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 
 #### Figure R411 -- International Symbol of Accessibility
 
-<figure class="center img-medium>
+<figure class="center img-medium">
   <figcaption>Figure R411 International Symbol of Accessibility</figcaption>
   <img src="./images/R411_isa.png" alt="International Symbol of Accessibility" />
-</figure>
-
-<figure class="advisory">
-  <figcaption>Figure R407.9.1 Extended ramp surface </figcaption>
-  <img src="./images/R407-9-1_extended_ramp_surface.png" alt="Elevation view of minimum extension of ramp surface beyond the grab bars." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.4(a) Ramp handrail height</figcaption>
-  <img src="./images/R409-4-ramp_height.png" alt="Elevation view of handrail serving sloped surface with identified maximum height to top of gripping surface." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.4(b) Stairway handrail height</figcaption>
-  <img src="./images/R409-4-stairs_height.png" alt="Elevation view of handrail serving stairs identified maximum height from the stair nosing to the top of the gripping surface." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.4(c) Handrail gripping surface height</figcaption>
-  <img src="./images/R409-4-walking-surface_height.png" alt="Elevation view of handrail serving walking surface with identified maximum height to top of gripping surface." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.7.2(a) Rectangular handrail cross section</figcaption>
-  <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.7.2(b) Elliptical handrail cross section</figcaption>
-  <img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="Cross section of elliptical non-circular handrail identifying the maximum width and perimeter length range." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.10.1 Ramp handrail, top and bottom extension</figcaption>
-  <img src="./images/R409-10-1_top_and_bottom_extension_at_ramps.png" alt="Elevation view of ramp handrail with minimum extension length identified." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.10.2 Stair handrail top extension</figcaption>
-  <img src="./images/R409-10-2_top_extension_at_stairs.png" alt="Elevation view of handrail extension at the top of stairs with minimum extension length identified." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.10.3 Stair handrail bottom extension</figcaption>
-  <img src="./images/R409-10-3_bottom_extension_at_stairs.png" alt="Elevation view of handrail extension at the bottom of stairs with minimum extension length identified." />
 </figure>
