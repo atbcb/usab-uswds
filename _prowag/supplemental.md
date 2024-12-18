@@ -268,6 +268,11 @@ Where the clear space is configured solely for a forward approach to an *element
 
 Where a clear space is configured for a parallel approach to an *element*, an obstruction shall be permitted between the clear space and the *element* where the depth of the obstruction is 10 inches (255 mm) maximum and the height of the obstruction is 34 inches (865 mm) maximum.
 
+<figure class="advisory">
+  <figcaption>Figure R406.3.2 Obstructed side reach</figcaption>
+  <img src="./images/R406-3-2_side_reach.png" alt="Elevation view of person in wheelchair reaching sideways over an obstruction." />
+</figure>
+
 ### R407 Ramps
 
 #### R407.1 General
@@ -296,6 +301,11 @@ The rise for any *ramp* run shall be 30 inches (760 mm) maximum.
 
 *Ramps* shall have landings at the top and the bottom of each *ramp* run. Landings shall comply with R407.6.
 
+<figure class="advisory">
+  <figcaption>Figure R407.6 Ramp landings</figcaption>
+  <img src="./images/R407-6_landings.png" alt="Plan view of ramp run with upper and lower landings and identifying the minimum length and width of the landings." />
+</figure>
+
 ##### R407.6.1 Slope
 
 Landing slopes shall be 1:48 (2.1%) maximum parallel and perpendicular to the *ramp* *running slope*.
@@ -311,6 +321,11 @@ The landing clear length shall be 60 inches (1525 mm) long minimum.
 ##### R407.6.4 Change in Direction
 
 *Ramps* that change direction between runs at landings shall have a clear landing 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.
+
+<figure class="advisory">
+  <figcaption>Figure R407.6.4 Change_in_direction</figcaption>
+  <img src="./images/R407-6-4_change_in_direction.png" alt="Plan view of landing between two ramp runs with running slopes in different directions." />
+</figure>
 
 #### R407.7 Surfaces
 
@@ -494,27 +509,11 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 
 #### Figure R411 -- International Symbol of Accessibility
 
-<figure>
+<figure class="center img-medium>
   <figcaption>Figure R411 International Symbol of Accessibility</figcaption>
   <img src="./images/R411_isa.png" alt="International Symbol of Accessibility" />
 </figure>
 
-![International Symbol of Accessibility](./images/R411_isa.png)
-{: .center .img-medium }
-
-
-<figure class="advisory">
-  <figcaption>Figure R406.3.2 Obstructed side reach</figcaption>
-  <img src="./images/R406-3-2_side_reach.png" alt="Elevation view of person in wheelchair reaching sideways over an obstruction." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R407.6 Ramp landings</figcaption>
-  <img src="./images/R407-6_landings.png" alt="Plan view of ramp run with upper and lower landings and identifying the minimum length and width of the landings." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R407.6.4 Change_in_direction</figcaption>
-  <img src="./images/R407-6-4_change_in_direction.png" alt="Plan view of landing between two ramp runs with running slopes in different directions." />
-</figure>
 <figure class="advisory">
   <figcaption>Figure R407.9.1 Extended ramp surface </figcaption>
   <img src="./images/R407-9-1_extended_ramp_surface.png" alt="Elevation view of minimum extension of ramp surface beyond the grab bars." />
