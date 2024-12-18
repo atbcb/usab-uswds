@@ -1,6 +1,6 @@
 ## Chapter 4:&nbsp; Supplemental Technical Requirements
 
-**Advisory:** Figures are provided for informational purposes only.
+**_Advisory:_ Figures are provided for informational purposes only.**
 {: .advisory }
 
 ### R401 General
@@ -36,14 +36,16 @@ EXCEPTION:  The sloping portions of handrails serving *stairs* and *ramps* shal
 
 Where objects are mounted on a single post or pylon and the objects are more than 27 inches (685 mm) and less than 80 inches (2030 mm) above the walking surface, the objects shall not protrude into the *pedestrian circulation path* more than 4 inches (100 mm) measured horizontally from the post or pylon or more than 4 inches (100mm) measured horizontally from the outside edge of the base where the base height is 2 ½ inches (64 mm) minimum.
 
-<figure class="advisory">
-  <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
-  <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R402.3.1(b) Objects mounted on single post or pylon</figcaption>
-  <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." />
-</figure>
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
+    <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." />
+  </figure>
+  <figure>
+    <figcaption>Figure R402.3.1(b) Objects mounted on single post or pylon</figcaption>
+    <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." />
+  </figure>
+</div>
 
 ##### R402.3.2 Objects Mounted Between Posts or Pylons
 
@@ -141,18 +143,20 @@ Where space beneath an *element* is included as part of a clear space, the space
 
 Toe clearance shall comply with R405.2.
 
-<figure class="advisory">
-  <figcaption>Figure R405.2(a) Toe clearance, elevation view</figcaption>
-  <img src="./images/R405-2_toe_clearance-elevation.png" alt="Elevation view of toe space under and obstruction identifying minimum height and depth." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2(b) Toe clearance, plan view 1 of 2</figcaption>
-  <img src="./images/R405-2_toe_clearance-plan-a.png" alt="Plan view of obstruction over a clear floor space identifying the maximum depth of the obstruction." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R405.2(c) Toe clearance, plan view 2 of 2</figcaption>
-  <img src="./images/R405-2_toe_clearance-plan-b.png" alt="Plan view of obstruction over a clear floor space identifying the minimum depth of the obstruction when toe clearance is required at an element." />
-</figure>
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R405.2(a) Toe clearance, elevation view</figcaption>
+    <img src="./images/R405-2_toe_clearance-elevation.png" alt="Elevation view of toe space under and obstruction identifying minimum height and depth." />
+  </figure>
+  <figure>
+    <figcaption>Figure R405.2(b) Toe clearance, plan view 1 of 2</figcaption>
+    <img src="./images/R405-2_toe_clearance-plan-a.png" alt="Plan view of obstruction over a clear floor space identifying the maximum depth of the obstruction." />
+  </figure>
+  <figure>
+    <figcaption>Figure R405.2(c) Toe clearance, plan view 2 of 2</figcaption>
+    <img src="./images/R405-2_toe_clearance-plan-b.png" alt="Plan view of obstruction over a clear floor space identifying the minimum depth of the obstruction when toe clearance is required at an element." />
+  </figure>
+</div>
 
 ##### R405.2.1 General
 
@@ -551,7 +555,5 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 
 #### Figure R411 -- International Symbol of Accessibility
 
-<figure class="center img-medium">
-  <figcaption>Figure R411 International Symbol of Accessibility</figcaption>
-  <img src="./images/R411_isa.png" alt="International Symbol of Accessibility" />
-</figure>
+![./images/R411_isa.png](International Symbol of Accessibility)
+{: .img-medium }
