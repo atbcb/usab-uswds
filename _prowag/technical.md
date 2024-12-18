@@ -104,7 +104,7 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical.  Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%).  Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
 
 <div class="advisory">
-  <figure class="center">
+  <figure>
     <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
     <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevation view of vertical change in level." />
   </figure>
@@ -231,7 +231,7 @@ EXCEPTION: At *crosswalks*, the *cross slope* of the *curb ramp* run shall be pe
 A clear area 48 inches (1220 mm) wide minimum by 48 inches long (1220 mm) minimum shall be provided beyond the bottom *grade break* of the *perpendicular curb ramp* run and within the width of the *crosswalk*. At *shared use paths*, the clear area shall be as wide as *the shared use path*. The clear area shall be located wholly outside the vehicle travel lanes, including bicycle lanes, that run parallel to the *crosswalk*. The *running slope* of the clear area shall be 1:20 (5.0%) maximum. The *cross slope* of the clear area shall be as specified by R302.5.
 
 <div class="advisory">
-  <figure class="center">
+  <figure>
     <figcaption>Figure R304.2.4(a) Clear area for perpendicular curb ramp</figcaption>
     <img src="./images/R304-2-4-a_clear_area.png" alt="Street corner with two perpendicular curb ramps with lower landings entirely between the marked crosswalk lines." />
   </figure>
@@ -280,6 +280,11 @@ The *cross slope* of the *curb ramp* run shall be 1:48 (2.1%) maximum.
 ##### R304.3.3 Grade Breaks
 
 *Grade breaks* at the top and bottom of a *curb ramp* run shall be perpendicular to the direction of the *curb ramp* run.  *Grade breaks* shall not be permitted on the surfaces of *curb ramp* runs or landings.  Surface slopes that meet at *grade breaks* shall be flush.
+
+<figure class="advisory">
+  <figcaption>Figure R304.3.3 Grade breaks</figcaption>
+  <img src="./images/R304-3-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" />
+</figure>
 
 ##### R304.3.4 Landings
 
@@ -348,9 +353,11 @@ The truncated domes shall have a base diameter of 0.9 inches (23 mm) minimum and
 The truncated domes shall have a center-to-center spacing of 1.6 inches (41 mm) minimum and 2.4 inches (61 mm) maximum, and a base-to-base spacing of 0.65 inches (17 mm) minimum, measured between the most adjacent domes.
 
 EXCEPTIONS: 1. When *detectable warning surfaces* are cut to fit, center-to-center spacing measured between domes adjacent to cut edges shall not exceed twice the normal spacing between domes not adjacent to cut edges.
-> 2\. Dome spacing requirements do not apply at a gap in a *detectable warning surface* at an expansion joint provided that the *detectable warning surface* aligns with both edges of the expansion joint.
+
+2\. Dome spacing requirements do not apply at a gap in a *detectable warning surface* at an expansion joint provided that the *detectable warning surface* aligns with both edges of the expansion joint.
 
 ##### R305.1.3 Contrast
+
 *Detectable warning surfaces* shall contrast visually with adjacent walking surfaces, either light-on-dark or dark-on-light.
 
 ##### R305.1.4 Surface Size
@@ -647,7 +654,7 @@ Parallel on-street parking spaces shall be 24 feet (7.3 m) long minimum and 13 f
 
 EXCEPTIONS: 1. Where parallel on-street parking spaces are *altered* but the adjacent *pedestrian circulation path* is not, any *accessible* parallel on-street parking spaces provided may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
 
-> 2\.  In *alterations,* where providing parallel on-street parking spaces with the dimensions specified in R310.2.1 would result in an available right-of-way width less than or equal to 9 feet (2.7 m), measured from the *curb line* to the right-of-way line, the *accessible* parallel on-street parking spaces may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
+2\.  In *alterations,* where providing parallel on-street parking spaces with the dimensions specified in R310.2.1 would result in an available right-of-way width less than or equal to 9 feet (2.7 m), measured from the *curb line* to the right-of-way line, the *accessible* parallel on-street parking spaces may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
 
 ##### R310.2.2 Pedestrian Access Route Connection
 
@@ -749,10 +756,6 @@ Access aisles shall connect to *pedestrian access routes.* Where *curb ramps* an
 
 EXCEPTION: In *alterations*, the access aisle may connect to an existing *pedestrian circulation path* in accordance with R202.2.
 
-<figure class="advisory">
-  <figcaption>Figure R304.3.3 Grade breaks</figcaption>
-  <img src="./images/R304-3-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" />
-</figure>
 <figure class="advisory">
   <figcaption>Figure R304.3.4 Landings</figcaption>
   <img src="./images/R304-3-4_landings.png" alt="Street corner with two parallel curb ramps indicating travel direction and minimum width at the lower landing between curb ramps." />
