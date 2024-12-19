@@ -140,11 +140,11 @@ Flangeway gaps shall comply with R302.6.4.2.
 At *pedestrian* at-grade rail crossings that cross tracks that are subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 3 inches (75 mm) wide maximum.
 
 <figure class="advisory">
-  <figcaption>Figure R302.6.4.2.1 Flangeway gap at tracks subject to FRA</figcaption>
+  <figcaption>Figure R302.6.4.2.1 Flangeway gap at tracks subject to FRA safety regulations</figcaption>
   <img src="./images/R302-6-4-2-1_flangeway_gaps_at_tracks_subject_to_FRA.png" alt="Elevation view of three inch maximum flangeway gaps between rail and roadway surface." />
 </figure>
 
-###### R302.6.4.2.2 Flangeway Gaps at Tracks _Not_ Subject to FRA Safety Regulations
+###### R302.6.4.2.2 Flangeway Gaps at Tracks _Not_ Subject to FRA Safety Regulations safety regulations
 
 At *pedestrian* at-grade rail crossings that cross tracks that are not subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 2½ inches (64 mm) wide maximum.
 
@@ -351,7 +351,7 @@ At gutters and *streets* where a change of *grade* occurs adjacent to *curb ramp
 > B.  A transitional space shall be provided at the bottom of the *running slope* of the *curb ramp* run or *blended transition*. The transitional space shall extend 24 inches (610 mm) minimum in the direction of *pedestrian* travel and the full width of the *curb ramp* run or *blended transition*. Transitional spaces shall have *running slopes* of 1:48 (2.1%) maximum and *cross slopes* no greater than the *cross slope* of the *crosswalk* as specified by R302.5.
 
 <div class="advisory">
-  <figure class="advisory">
+  <figure>
     <figcaption>Figure R304.5.2(a) Change of grade, maximum slope</figcaption>
     <img src="./images/R304-5-2-A_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to a transition or gutter to the street.  The maximum slopes of the curb ramp or blended transition and the transition or gutter and street is identified with the combination of slopes not exceeding thirteen point three percent." />
   </figure>
@@ -416,7 +416,7 @@ EXCEPTIONS: 1. When *detectable warning surfaces* are cut to fit, center-to-cent
 > E. At boarding and alighting areas at *sidewalk* or *street* level *transit stops* for rail vehicles, detectable warning surfaces shall extend the full length of the unprotected area of the *transit stop*.
 
 <div class="advisory">
-  <figure class="advisory">
+  <figure>
     <figcaption>Figure R305.1.4(a) Surface size, perpendicular curb ramp</figcaption>
     <img src="./images/R305-1-4-a_surface_size.png" alt="Plan view of perpendicular curb ramp with flared sides and the detectable warning surface identified with minimum depth and width." />
   </figure>
@@ -441,12 +441,12 @@ On *perpendicular curb ramps*, *detectable warning surfaces* shall be located as
 > C.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from either end of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is more than 60 inches (1525 mm), the *detectable warning surface* shall be placed on the clear area so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
 
 <div class="advisory">
-  <figure">
-    <figcaption>Figure R305.2.1(a) A. Perpendicular curb ramp</figcaption>
+  <figure>
+    <figcaption>Figure R305.2.1(a) A. Perpendicular curb ramp with returned sides</figcaption>
     <img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp with returned sides identifying the location of both ends of the bottom grade break are in front of the back of curb and the maximum offset of the detectable warning surface from the back of curb." />
   </figure>
   <figure>
-    <figcaption>Figure R305.2.1(b) B. Perpendicular curb ramp</figcaption>
+    <figcaption>Figure R305.2.1(b) B. Perpendicular curb ramp at street corner</figcaption>
     <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." />
   </figure>
   <figure>
