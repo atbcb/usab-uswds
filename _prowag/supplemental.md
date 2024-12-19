@@ -143,6 +143,7 @@ Where space beneath an *element* is included as part of a clear space, the space
 
 Toe clearance shall comply with R405.2.
 
+{% comment %}
 <div class="advisory">
   <figure>
     <figcaption>Figure R405.2(a) Toe clearance, elevation view</figcaption>
@@ -157,6 +158,7 @@ Toe clearance shall comply with R405.2.
     <img src="./images/R405-2_toe_clearance-plan-b.png" alt="Plan view of obstruction over a clear floor space identifying the minimum depth of the obstruction when toe clearance is required at an element." />
   </figure>
 </div>
+{% endcomment %}
 
 ##### R405.2.1 General
 
@@ -197,14 +199,18 @@ Toe clearance shall be 30 inches (760 mm) wide minimum.
 
 Knee clearance shall comply with R405.3.
 
-<figure class="advisory">
-  <figcaption>Figure R405.3(a) Knee clearance, elevation view</figcaption>
-  <img src="./images/R405-3_knee_clearance-elevation.png" alt="" />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R405.3(b) Knee clearance, plan view</figcaption>
-  <img src="./images/R405-3_knee_clearance-plan.png" alt="" />
-</figure>
+{% comment %}
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R405.3(a) Knee clearance, elevation view</figcaption>
+    <img src="./images/R405-3_knee_clearance-elevation.png" alt="" />
+  </figure>
+  <figure>
+    <figcaption>Figure R405.3(b) Knee clearance, plan view</figcaption>
+    <img src="./images/R405-3_knee_clearance-plan.png" alt="" />
+  </figure>
+</div>
+{% endcomment %}
 
 ##### R405.3.1 General
 
@@ -555,5 +561,5 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 
 #### Figure R411 -- International Symbol of Accessibility
 
-![./images/R411_isa.png](International Symbol of Accessibility)
+![International Symbol of Accessibility](./images/R411_isa.png)
 {: .img-medium }
