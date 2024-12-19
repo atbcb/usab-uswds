@@ -11,7 +11,7 @@ excerpt: The U.S. Access Board is the sole Federal agency responsible for
   grant or loan . . .
 image: /images/uploads/us-courthouse-sioux-city.jpg
 image_alt_text: Exterior of the Sioux City Federal Building and United States Courthouse.
-featured: true
+featured: false
 ---
 The U.S. Access Board is the sole Federal agency responsible for enforcing the [Architectural Barriers Act of 1968 (ABA)](https://www.access-board.gov/about/law/aba.html), which it accomplishes by investigating complaints filed by the public. The ABA requires buildings or facilities designed, built, altered, or leased by the Federal Government, as well as certain nongovernment buildings constructed with funds from a federal grant or loan, to be accessible to and usable by people with disabilities.
 
