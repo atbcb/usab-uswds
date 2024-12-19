@@ -257,14 +257,16 @@ Reach ranges shall comply with R406.
 
 For forward and parallel approaches, the high reach shall be 48 inches (1220 mm) maximum and the low reach shall be 15 inches (380 mm) minimum above the ground surface.
 
-<figure class="advisory">
-  <figcaption>Figure R406.2(a) Forward reach range limits</figcaption>
-  <img src="./images/R406-2_reach_range_limits_front.png" alt="Elevation view of person in wheelchair reaching forward at both the maximum and minimum reach heights." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R406.2(b) Side reach range limits</figcaption>
-  <img src="./images/R406-2_reach_range_limits_side.png" alt="Elevation view of person in wheelchair reaching sideways at both the maximum and minimum reach heights." />
-</figure>
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R406.2(a) Forward reach range limits</figcaption>
+    <img src="./images/R406-2_reach_range_limits_front.png" alt="Elevation view of person in wheelchair reaching forward at both the maximum and minimum reach heights." />
+  </figure>
+  <figure>
+    <figcaption>Figure R406.2(b) Side reach range limits</figcaption>
+    <img src="./images/R406-2_reach_range_limits_side.png" alt="Elevation view of person in wheelchair reaching sideways at both the maximum and minimum reach heights." />
+  </figure>
+</div>
 
 #### R406.3 Obstructions
 
