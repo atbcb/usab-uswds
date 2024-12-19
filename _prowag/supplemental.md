@@ -335,7 +335,7 @@ The landing clear length shall be 60 inches (1525 mm) long minimum.
 *Ramps* that change direction between runs at landings shall have a clear landing 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.
 
 <figure class="advisory">
-  <figcaption>Figure R407.6.4 Change_in_direction</figcaption>
+  <figcaption>Figure R407.6.4 Change in direction</figcaption>
   <img src="./images/R407-6-4_change_in_direction.png" alt="Plan view of landing between two ramp runs with running slopes in different directions." />
 </figure>
 
