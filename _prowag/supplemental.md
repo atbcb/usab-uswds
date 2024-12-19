@@ -413,18 +413,20 @@ Handrails shall be continuous within the full length of each *ramp* run or *stai
 
 The top of gripping surfaces of handrails shall be 34 inches (865 mm) minimum and 38 inches (965 mm) maximum vertically above walking surfaces, *ramp* surfaces, and *stair* nosings. Handrails shall be at a consistent height above walking surfaces, *ramp* surfaces, and *stair* nosings.
 
-<figure class="advisory">
-  <figcaption>Figure R409.4(a) Ramp handrail height</figcaption>
-  <img src="./images/R409-4-ramp_height.png" alt="Elevation view of handrail serving sloped surface with identified maximum height to top of gripping surface." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.4(b) Stairway handrail height</figcaption>
-  <img src="./images/R409-4-stairs_height.png" alt="Elevation view of handrail serving stairs identified maximum height from the stair nosing to the top of the gripping surface." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.4(c) Handrail gripping surface height</figcaption>
-  <img src="./images/R409-4-walking-surface_height.png" alt="Elevation view of handrail serving walking surface with identified maximum height to top of gripping surface." />
-</figure>
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R409.4(a) Ramp handrail height</figcaption>
+    <img src="./images/R409-4-ramp_height.png" alt="Elevation view of handrail serving sloped surface with identified maximum height to top of gripping surface." />
+  </figure>
+  <figure>
+    <figcaption>Figure R409.4(b) Stairway handrail height</figcaption>
+    <img src="./images/R409-4-stairs_height.png" alt="Elevation view of handrail serving stairs identified maximum height from the stair nosing to the top of the gripping surface." />
+  </figure>
+  <figure>
+    <figcaption>Figure R409.4(c) Handrail gripping surface height</figcaption>
+    <img src="./images/R409-4-walking-surface_height.png" alt="Elevation view of handrail serving walking surface with identified maximum height to top of gripping surface." />
+  </figure>
+</div>
 
 #### R409.5 Clearance
 
@@ -446,14 +448,16 @@ Handrail gripping surfaces with a circular cross section shall have an outside d
 
 Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 6¼ inches (160 mm) maximum, and a cross-section dimension of 2¼ inches (57 mm) maximum.
 
-<figure class="advisory">
-  <figcaption>Figure R409.7.2(a) Rectangular handrail cross section</figcaption>
-  <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." />
-</figure>
-<figure class="advisory">
-  <figcaption>Figure R409.7.2(b) Elliptical handrail cross section</figcaption>
-  <img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="Cross section of elliptical non-circular handrail identifying the maximum width and perimeter length range." />
-</figure>
+<div class=""advisory">
+  <figure>
+    <figcaption>Figure R409.7.2(a) Rectangular handrail cross section</figcaption>
+    <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." />
+  </figure>
+  <figure>
+    <figcaption>Figure R409.7.2(b) Elliptical handrail cross section</figcaption>
+    <img src="./images/R409-7-2-b_non_circular_cross_section.png" alt="Cross section of elliptical non-circular handrail identifying the maximum width and perimeter length range." />
+  </figure>
+</div>
 
 #### R409.8 Surfaces
 
@@ -564,4 +568,4 @@ The symbol and its background shall have a non-glare finish. The symbol shall co
 #### Figure R411 -- International Symbol of Accessibility
 
 ![International Symbol of Accessibility](./images/R411_isa.png)
-{: .img-medium }
+{: .center .img-medium }
