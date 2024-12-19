@@ -448,7 +448,7 @@ Handrail gripping surfaces with a circular cross section shall have an outside d
 
 Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 6¼ inches (160 mm) maximum, and a cross-section dimension of 2¼ inches (57 mm) maximum.
 
-<div class=""advisory">
+<div class="advisory">
   <figure>
     <figcaption>Figure R409.7.2(a) Rectangular handrail cross section</figcaption>
     <img src="./images/R409-7-2-a_non_circular_cross_section.png" alt="Cross section of rectangular non-circular handrail identifying the maximum width and perimeter length range." />
