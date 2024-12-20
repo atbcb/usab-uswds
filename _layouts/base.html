@@ -6,10 +6,21 @@ The home page uses wide.html layout, since it extends full width of page
 <html lang="en">
 {%- include meta.html -%}
 <body>
-  {%- include header.html -%}
-  {%- include menu.html primary_navigation=site.primary_navigation secondary_navigation=site.secondary_navigation -%}
-  {{ content }}
-  {%- include footer.html -%}
-  {%- include scripts.html -%}
+{%- include header.html -%}
+{%- comment -%}
+Section following is an example site alert.  To enable, move % endcomment % up to the line after this line.
+{%- endcomment -%}
+<section class="usa-site-alert usa-site-alert--warning aria-label="Site alert,,">
+  <div class="usa-alert">
+    <div class="usa-alert__body">
+      <h3 class="usa-alert__heading">Access Board Shutdown</h3>
+      <p class="usa-alert__text">Due to the lack of appropriations, all Access Board services are suspended.  For a brief summary of significant agency activities that are ceased during a lapse, please see our<a href="{{ site.baseur }}/about/policy/shutdown.html">shutdown plan</a>.</p>
+    </div>
+  </div>
+</section>
+{%- include menu.html primary_navigation=site.primary_navigation secondary_navigation=site.secondary_navigation -%}
+{{ content }}
+{%- include footer.html -%}
+{%- include scripts.html -%}
 </body>
 </html>
