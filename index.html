@@ -27,7 +27,9 @@ manage in the long term.
     link='/news/2021/05/04/u-s-access-board-to-host-panel-discussions-on-self-service-transaction-machines-may-19/'
 %}
 {% endcomment %}
-<-- {% comment %} -->
+{% comment %}
+    Section following is an example site alert.  To enable, move % endcomment % up to line after this line.
+{% endcomment %}
 <section class="usa-site-alert usa-site-alert--emergency" aria-label="Site alert,,">
   <div class="usa-alert">
     <div class="usa-alert__body">
@@ -38,7 +40,6 @@ manage in the long term.
     </div>
   </div>
 </section>
-<-- {% endcomment %} -->
 {% include hero-carousel.html %}
 {% include_cached highlights.html %}
 {% include_cached tagline.html %}
