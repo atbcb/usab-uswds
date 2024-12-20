@@ -18,13 +18,12 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 **Meeting of the U.S. Access Board**\
 January 29, 2025, 1:30 PM – 3:00 PM (E.T.)\
 Zoom: <https://www.zoomgov.com/j/1616597065>\
-Meeting ID: 161 659 7065
+Meeting ID: 161 659 7065\
 Passcode: 141719\
 Dial in: (646) 828-7666\
 Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
-*Agenda*
-
+_**Agenda**_
 * Introductory Remarks and Roll Call
 * Board vote on approval of draft October 2024 meeting minutes
 * Executive Director’s Report
