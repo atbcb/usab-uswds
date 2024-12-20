@@ -2,7 +2,6 @@
 To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml
 where we provide an easy way to manage your navigation system
 {% endcomment %}
-
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
     {% include logo.html %}
@@ -33,7 +32,6 @@ where we provide an easy way to manage your navigation system
           <ul role="menu" hidden id="{{ sub_id }}" class="usa-nav__submenu bg-primary">
             {% for subnav_item in nav_item.children %}
             {% assign subitem_id = submenunav_item | append: forloop.index %}
-            
             <li class="usa-nav__submenu-item">
               <a role="menuitem" id="{{ subitem_id }}" href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name | escape }}</a>
             </li>
@@ -56,3 +54,14 @@ where we provide an easy way to manage your navigation system
     </div>
   </nav>
 </header>
+{%- comment -%}
+Section following is an example site alert.  To enable, move % endcomment % up to the line after this line.
+{%- endcomment -%}
+<section aria-label="Site alert,,">
+  <div class="usa-alert usa-alert--warning">
+    <div class="usa-alert__body">
+      <h3 class="usa-alert__heading">Access Board Shutdown</h3>
+      <p class="usa-alert__text">Due to the lack of appropriations, all Access Board services are suspended.  For a brief summary of significant agency activities that are ceased during a lapse, please see our<a href="{{ site.baseurl }}/about/policy/shutdown.html">shutdown plan</a>.</p>
+    </div>
+  </div>
+</section>
