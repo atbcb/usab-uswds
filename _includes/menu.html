@@ -2,10 +2,9 @@
 To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml
 where we provide an easy way to manage your navigation system
 {% endcomment %}
-
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
-    {% include logo.html %}
+    {%- include logo.html -%}
     <button class="usa-menu-btn">Menu</button>
   </div>
   <nav id="nav1" role="navigation" class="usa-nav">
@@ -33,7 +32,6 @@ where we provide an easy way to manage your navigation system
           <ul role="menu" hidden id="{{ sub_id }}" class="usa-nav__submenu bg-primary">
             {% for subnav_item in nav_item.children %}
             {% assign subitem_id = submenunav_item | append: forloop.index %}
-            
             <li class="usa-nav__submenu-item">
               <a role="menuitem" id="{{ subitem_id }}" href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name | escape }}</a>
             </li>
@@ -51,7 +49,7 @@ where we provide an easy way to manage your navigation system
           </li>
           {% endfor %}
         </ul>
-        {% include searchgov/form.html searchgov=site.searchgov %}
+        {%- include searchgov/form.html searchgov=site.searchgov -%}
       </div>
     </div>
   </nav>

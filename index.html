@@ -5,7 +5,6 @@ title: U.S. Access Board - Home
 redirect_from:
     - /guidelines-and-standards/
 ---
-
 {% comment %}
 Welcome to official Federalist Jekyll template for the U.S Web Design System 2.0
 
@@ -18,7 +17,7 @@ We recommend splitting apart your site's components into their own smaller secti
 manage in the long term.
 {% endcomment %}
 {% comment %}
-<!-- we are not using include hero by default but are swapping out as needed -->
+<!-- USAB is not using the default hero, but a fancy carousel instead -->
 <!-- please use Jekyll comment syntax to hide hero include when not in use -->
 <!-- html comment syntax is be avoided, always -->
 {% include_cached hero.html 
@@ -28,20 +27,19 @@ manage in the long term.
 %}
 {% endcomment %}
 {% comment %}
-<section class="usa-site-alert usa-site-alert--emergency" aria-label="Site alert,,">
+    Section following is an example site alert for the home page (only).  To enable, move % endcomment % up to line after this line.
+<section class="usa-site-alert usa-site-alert--warning usa-alert-slim" aria-label="Site alert,,">
   <div class="usa-alert">
     <div class="usa-alert__body">
-      <h3 class="usa-alert__heading">Architectural Barriers Act Online Complaint Form is temporarily unavailable.</h3>
+      <h3 class="usa-alert__heading">Access Board Shutdown</h3>
       <p class="usa-alert__text">
-        If you need to file an ABA complaint, please use email:&nbsp;
-        <a class="usa-link" href="mailto:enforce@access-board.gov">enforce@access-board.gov</a>.
+        Due to the lack of appropriations, all Access Board services are suspended.  For a brief summary of significant agency activities that are ceased during a lapse, please see our <a href="{{ site.baseur }}/about/policy/shutdown.html">shutdown plan</a>.
       </p>
     </div>
   </div>
 </section>
 {% endcomment %}
-{% include hero-carousel.html %}
-{% include_cached highlights.html %}
-{% include_cached tagline.html %}
-{% include animations-swiper.html %}
-
+{%- include hero-carousel.html -%}
+{%- include_cached highlights.html -%}
+{%- include_cached tagline.html -%}
+{%- include animations-swiper.html -%}
