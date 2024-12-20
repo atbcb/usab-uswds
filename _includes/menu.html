@@ -4,9 +4,20 @@ where we provide an easy way to manage your navigation system
 {% endcomment %}
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
-    {% include logo.html %}
+    {%- include logo.html -%}
     <button class="usa-menu-btn">Menu</button>
   </div>
+{%- comment -%}
+Section following is an example site alert.  To enable, move % endcomment % up to the line after this line.
+{%- endcomment -%}
+<section aria-label="Site alert,,">
+  <div class="usa-alert usa-alert--warning">
+    <div class="usa-alert__body">
+      <h3 class="usa-alert__heading">Access Board Shutdown</h3>
+      <p class="usa-alert__text">Due to the lack of appropriations, all Access Board services are suspended.  For a brief summary of significant agency activities that are ceased during a lapse, please see our <a href="{{ site.baseurl }}/about/policy/shutdown.html">shutdown plan</a>.</p>
+    </div>
+  </div>
+</section>
   <nav id="nav1" role="navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
@@ -49,19 +60,8 @@ where we provide an easy way to manage your navigation system
           </li>
           {% endfor %}
         </ul>
-        {% include searchgov/form.html searchgov=site.searchgov %}
+        {%- include searchgov/form.html searchgov=site.searchgov -%}
       </div>
     </div>
   </nav>
 </header>
-{%- comment -%}
-Section following is an example site alert.  To enable, move % endcomment % up to the line after this line.
-{%- endcomment -%}
-<section aria-label="Site alert,,">
-  <div class="usa-alert usa-alert--warning">
-    <div class="usa-alert__body">
-      <h3 class="usa-alert__heading">Access Board Shutdown</h3>
-      <p class="usa-alert__text">Due to the lack of appropriations, all Access Board services are suspended.  For a brief summary of significant agency activities that are ceased during a lapse, please see our<a href="{{ site.baseurl }}/about/policy/shutdown.html">shutdown plan</a>.</p>
-    </div>
-  </div>
-</section>
