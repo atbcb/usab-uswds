@@ -47,7 +47,7 @@ Learn more about this session in the Access Board's [news release](https://www.a
 Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1) to receive updates and reminders on the public hearings and other events. Press inquiries can be directed to Amy Nieves, Public Affairs Specialist at <news@access-board.gov>.
 
 - [Information Session: Foundation on Artificial Intelligence and Disability (July 9, 2024)](https://www.youtube.com/watch?v=lmAZeyJAQFc)
-  - [Download the presentation](https://usa-accessboard.box.com/s/aovk8v7a0xe1peb5y02jpe1hbb0e7dj4)
+  - [Download the presentation](https://usa-accessboard.box.com/s/0h666m55e083iw1hjdjdbzyuaig3g5vk)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - AM Session)](https://www.youtube.com/watch?v=fokFx-nsL1o)
   - [Download the presentation](https://usa-accessboard.box.com/s/ggkmshvjpk55b0qmd243d68w7eim0etf)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
