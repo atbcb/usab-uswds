@@ -161,4 +161,3 @@ permalink: /about/members-past.html
 * Tina Guenette Pedersen (2023-present)
 * Madeline Rose Ruvolo (2022-present)
 * Betty R. Siegel (2024-present)
-* Bradley Warren Snyder (2024-present)
