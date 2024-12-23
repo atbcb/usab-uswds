@@ -1,5 +1,8 @@
 ## Chapter 3:&nbsp; Technical Requirements
 
+**_Advisory:_ Figures are provided for informational purposes only.**
+{: .advisory }
+
 ### R301 General
 
 #### R301.1 Scope
@@ -16,6 +19,11 @@ The technical requirements in Chapter 3 shall apply where required by Chapter 2 
 
 Except as provided in R302.2.1 and R302.2.2, the continuous clear width of *pedestrian access routes* shall be 48 inches (1220 mm) minimum, exclusive of the width of any *curb*.
 
+<figure class="advisory">
+  <figcaption>Figure R302.2 Continuous Clear Width</figcaption>
+  <img src="./images/R302-2_continuous_clear_width.png" alt="Pedestrian Access Route highlighted within width of sidewalk measured to back of curb." />
+</figure>
+
 ##### R302.2.1 Medians and Pedestrian Refuge Islands
 
 The clear width of *pedestrian access routes* crossing *medians* and *pedestrian refuge islands* shall be 60 inches (1525 mm) minimum, except that where *shared use paths* cross *medians* and *pedestrian refuge islands* the clear width of the *pedestrian access route* shall be 60 inches (1525 mm) minimum or at least as wide as the *crosswalk,* whichever is greater.
@@ -26,7 +34,12 @@ On *shared use paths*, the clear width of the *pedestrian access route* shall ex
 
 #### R302.3 Passing Spaces
 
-Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum. Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum. Passing spaces and *pedestrian access routes* are permitted to overlap.
+Where the clear width of *pedestrian access routes* is less than 60 inches (1525 mm), passing spaces shall be provided at intervals of 200 feet (61 m) maximum.  Passing spaces shall be 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.  Passing spaces and *pedestrian access routes* are permitted to overlap.
+
+<figure class="advisory">
+  <figcaption>Figure R302.3 Passing Spaces</figcaption>
+  <img src="./images/R302-3_passing_spaces.png" alt="Passing spaces highlighted with two hundred foot maximum separation." />
+</figure>
 
 #### R302.4 Grade
 
@@ -39,9 +52,11 @@ Except as provided in R302.4.3, where a *pedestrian access route* is contained w
 EXCEPTION: Where the *grade* established for the adjacent *street* exceeds 1:20 (5.0%), the *grade* of the *pedestrian access route* shall not exceed the *grade* established for the adjacent *street*.
 
 ##### R302.4.2 Not Within Highway Right-of-Way
+
 Where a *pedestrian access route* is not contained within a *highway* right-of-way, the *grade* of the *pedestrian access route* shall not exceed 1:20 (5.0%).
 
 ##### R302.4.3 Within a Crosswalk
+
 Where a *pedestrian access route* is contained within a *crosswalk*, the *grade* of the *pedestrian access route* shall be 1:20 (5.0%) maximum.
 
 EXCEPTION: Where *roadway* design requires superelevation greater than 1:20 (5.0%) at the location of a *crosswalk*, the *grade* of the *pedestrian access route* within the *crosswalk* may be the same as the superelevation.
@@ -69,6 +84,7 @@ Where a *pedestrian access route* is contained within a *crosswalk* at an inters
 Where a *pedestrian access route* is contained within a *crosswalk* at an uncontrolled approach, the *cross slope* of the *pedestrian access route* shall be 1:20 (5.0%) maximum.
 
 ###### R302.5.2.3 Crosswalk with Traffic Control Signal or Pedestrian Hybrid Beacon
+
 Where a *pedestrian access route* is contained within a *crosswalk* at an intersection approach controlled by a traffic control signal or *pedestrian hybrid beacon*, the *cross slope* of the *pedestrian access route* shall be 1:20 (5.0%) maximum.
 
 ###### R302.5.2.4 Midblock and Roundabout Crosswalks
@@ -85,11 +101,27 @@ The walking surfaces of *pedestrian access routes*, *elements*, and spaces that 
 
 ##### R302.6.2 Changes in Level
 
-Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical. Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%). Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
+Changes in level of ¼ inch (6.4 mm) maximum shall be permitted to be vertical.  Changes in level between ¼ inch (6.4 mm) and ½ inch (13 mm) shall be beveled with a slope not steeper than 1:2 (50.0%).  Changes in level greater than ½ inch (13 mm) up to 6 inches shall have a 1:12 (8.3%) maximum slope. Changes in level greater than 6 inches (150 mm) shall comply with R407.
+
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R302.6.2(a) Vertical change in level</figcaption>
+    <img src="./images/R302-6-2-a_changes_in_level.png" alt="Elevation view of vertical change in level." />
+  </figure>
+  <figure>
+    <figcaption>Figure R302.6.2(b) Beveled change in level</figcaption>
+    <img src="./images/R302-6-2-b_changes_in_level.png" alt="Elevation view of beveled change in level." />
+  </figure>
+</div>
 
 ##### R302.6.3 Horizontal Openings
 
 Horizontal openings in ground surfaces, such as those in gratings and joints, other than flangeway gaps (see R302.6.4), shall not allow passage of a sphere larger than ½ inch (13 mm) in diameter. Except where multiple directions of travel intersect, elongated openings are permitted and shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
+
+<figure class="advisory">
+  <figcaption>Figure R302.6.3 Horizontal Openings</figcaption>
+  <img src="./images/R302-6-3_horizontal_openings.png" alt="Grate with arrow indicating dominant direction of travel and ½ inch maximum width openings.  The opening perpendicular to dominant direction of travel does not have a maximum or minimum length." />
+</figure>
 
 ##### R302.6.4 Surfaces at Pedestrian At-Grade Rail Crossings
 
@@ -103,12 +135,23 @@ Where a *pedestrian access route* crosses rails at grade, the *pedestrian access
 
 Flangeway gaps shall comply with R302.6.4.2.
 
-###### R302.6.4.2.1 Flangeway Gaps at Tracks *Subject to FRA Safety Regulations
+###### R302.6.4.2.1 Flangeway Gaps at Tracks Subject to FRA Safety Regulations
 
 At *pedestrian* at-grade rail crossings that cross tracks that are subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 3 inches (75 mm) wide maximum.
 
-###### R302.6.4.2.2 Flangeway Gaps at Tracks *Not Subject to FRA Safety Regulations*
-At *pedestrian* at-grade rail crossings that cross tracks that are not subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 2 1/2 inches (64 mm) wide maximum.
+<figure class="advisory">
+  <figcaption>Figure R302.6.4.2.1 Flangeway gap at tracks subject to FRA safety regulations</figcaption>
+  <img src="./images/R302-6-4-2-1_flangeway_gaps_at_tracks_subject_to_FRA.png" alt="Elevation view of three inch maximum flangeway gaps between rail and roadway surface." />
+</figure>
+
+###### R302.6.4.2.2 Flangeway Gaps at Tracks _Not_ Subject to FRA Safety Regulations safety regulations
+
+At *pedestrian* at-grade rail crossings that cross tracks that are not subject to safety regulations at 49 CFR part 213, issued by the Federal Railroad Administration, flangeway gaps shall be 2½ inches (64 mm) wide maximum.
+
+<figure class="advisory">
+  <figcaption>Figure R302.6.4.2.2 Flangeway gap at tracks <i>not</i> subject to FRA</figcaption>
+  <img src="./images/R302-6-4-2-2_flangeway_gaps_at_tracks_not_subject_to_FRA.png" alt="Elevation view of two and one half inch maximum flangeway gaps between rail and roadway surface." />
+</figure>
 
 ### R303 Alternate Pedestrian Access Routes
 
@@ -140,13 +183,21 @@ Where a channelizing device is used to delineate an alternate *pedestrian access
 
 EXCEPTION: Where *pedestrians* or vehicles turn or cross, gaps in the detectable edging are permitted.
 
+<figure class="advisory">
+  <figcaption>Figure R303.6 Detectable edging of channelizing devices</figcaption>
+  <img src="./images/R303-6_detectable_edging_of_channelizing_devices.png" alt="Elevation view of pedestrian longitudinal channelizing device." />
+</figure>
+
 ##### R303.6.1 Top
+
 The top of the top detectable edging shall be no lower than 32 inches (815 mm) above the walking surface and be free of sharp or abrasive surfaces.
 
 ##### R303.6.2 Bottom
+
 The bottom of the bottom detectable edging shall be 2 inches (51 mm) maximum above the walking surface.
 
 #### R303.7 Pedestrian Signal Heads
+
 Where temporary *pedestrian* *signal heads* are provided at a *crosswalk* that is part of an alternate *pedestrian access route*, pedestrian pushbuttons or passive detection devices shall be provided and shall comply with R307.
 
 ### R304 Curb Ramps and Blended Transitions
@@ -179,13 +230,34 @@ EXCEPTION: At *crosswalks*, the *cross slope* of the *curb ramp* run shall be pe
 
 A clear area 48 inches (1220 mm) wide minimum by 48 inches long (1220 mm) minimum shall be provided beyond the bottom *grade break* of the *perpendicular curb ramp* run and within the width of the *crosswalk*. At *shared use paths*, the clear area shall be as wide as *the shared use path*. The clear area shall be located wholly outside the vehicle travel lanes, including bicycle lanes, that run parallel to the *crosswalk*. The *running slope* of the clear area shall be 1:20 (5.0%) maximum. The *cross slope* of the clear area shall be as specified by R302.5.
 
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R304.2.4(a) Clear area for perpendicular curb ramp</figcaption>
+    <img src="./images/R304-2-4-a_clear_area.png" alt="Street corner with two perpendicular curb ramps with lower landings entirely between the marked crosswalk lines." />
+  </figure>
+  <figure>
+    <figcaption>Figure R304.2.4(b) Clear area for angled curb ramp</figcaption>
+    <img src="./images/R304-2-4-b_clear_area.png" alt="Street corner with two angled curb ramps with lower landings entirely between the marked crosswalk lines." />
+  </figure>
+</div>
+
 ##### R304.2.5 Landing
 
 When a change in direction is necessary to access a *curb ramp* from a *pedestrian access route*, a landing shall be provided at the top of the *curb ramp*. The landing shall be 48 inches (1220 mm) wide minimum by 48 inches (1220 mm) long minimum. At *shared use paths*, the landing shall be as wide as the *shared use path*. Where a landing serves only one *curb* ramp, the landing slope measured perpendicular to the *curb ramp* run shall be equal to or less than the *cross slope* of the *curb ramp* run, and the landing slope measured parallel to the *curb ramp* run shall be 1:48 (2.1%) maximum. Where a landing serves two *curb ramps*, the landing slope in either direction of travel shall not exceed the *cross slope* of the *crosswalk* parallel to the direction of travel as specified by R302.5.
 
+<figure class="advisory">
+  <figcaption>Figure R304.2.5 Landing</figcaption>
+  <img src="./images/R304-2-5_landing.png" alt="Street corner with two perpendicular curb ramps with upper landings within the pedestrian access route." />
+</figure>
+
 ##### R304.2.6 Side Treatments
 
 Where a *pedestrian circulation path* crosses the side of a *curb ramp*, the side of the *curb ramp* shall be flared. The slope of the flared side shall be 1:10 (10.0%) maximum, measured parallel to the adjacent *curb line*.
+
+<figure class="advisory">
+  <figcaption>Figure R304.2.6 Side treatment</figcaption>
+  <img src="./images/R304-2-6-a_side_treatments.png" alt="Street corner with two perpendicular curb ramps identifying flared sides of curb ramps." />
+</figure>
 
 ##### R304.2.7 Connection to Pedestrian Facilities
 
@@ -209,9 +281,19 @@ The *cross slope* of the *curb ramp* run shall be 1:48 (2.1%) maximum.
 
 *Grade breaks* at the top and bottom of a *curb ramp* run shall be perpendicular to the direction of the *curb ramp* run.  *Grade breaks* shall not be permitted on the surfaces of *curb ramp* runs or landings.  Surface slopes that meet at *grade breaks* shall be flush.
 
+<figure class="advisory">
+  <figcaption>Figure R304.3.3 Grade breaks</figcaption>
+  <img src="./images/R304-3-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" />
+</figure>
+
 ##### R304.3.4 Landings
 
 Landings shall be provided at the bottom of *parallel curb ramps*. Landings shall be 48 inches (1220 mm) wide minimum by 48 inches (1220 mm) long minimum.  The slope of the landing, measured parallel to the direction of travel on the *curb ramp* run, shall be permitted to be equal to or less than the slope of the *roadway* or the *cross slope* of the *crosswalk* as specified by R302.5. The *cross slope* of the landing shall be 1:48 (2.1%) maximum measured perpendicular to the direction of travel on the *curb ramp* run.
+
+<figure class="advisory">
+  <figcaption>Figure R304.3.4 Landings</figcaption>
+  <img src="./images/R304-3-4_landings.png" alt="Street corner with two parallel curb ramps indicating travel direction and minimum width at the lower landing between curb ramps." />
+</figure>
 
 #### R304.4 Blended Transitions
 
@@ -221,6 +303,11 @@ Landings shall be provided at the bottom of *parallel curb ramps*. Landings shal
 
 The *running slope* of *blended transition*s shall be 1:20 (5.0%) maximum.
 
+<figure class="advisory">
+  <figcaption>Figure R304.4.1 Running slope</figcaption>
+  <img src="./images/R304-4-1_running_slope.png" alt="Street corner blended transition with identified with maximum running slope" />
+</figure>
+
 ##### R304.4.2 Cross Slope
 
 The *cross slope* of *blended transition*s shall be equal to or less than the *cross slope* of the *crosswalk* as specified by R302.5.
@@ -228,6 +315,11 @@ The *cross slope* of *blended transition*s shall be equal to or less than the *c
 ##### R304.4.3 Bypass
 
 Where a *blended transition* serving more than one *pedestrian circulation path* has a *running slope* greater than 1:48 (2.1%), a *pedestrian access route* shall be provided so that a *pedestrian* not crossing the *street* may bypass the *blended transition*.
+
+<figure class="advisory">
+  <figcaption>Figure R304.4.3 Blended transition bypass</figcaption>
+  <img src="./images/R304-4-3_blended_transition_bypass.png" alt="Street corner blended transition with bypass behind blended transition identified with maximum cross slope if running slope of blended transition is greater than two point one percent." />
+</figure>
 
 #### R304.5 Common Requirements
 
@@ -241,6 +333,11 @@ The width of *curb ramp* runs (excluding any flared sides) and *blended transiti
 
 The clear width of *curb ramp* runs (excluding any flared sides) and *blended transition*s not on *shared use paths* shall be 48 inches (1220 mm) minimum.
 
+<figure class="advisory">
+  <figcaption>Figure R304.5.1.1 Curb ramps and blended transitions not on shared use paths</figcaption>
+  <img src="./images/R304-5-1-1_curb_ramps_and_blended_transitions_not_on_shared_use_paths.png" alt="Street corner with perpendicular curb ramps with returned sides with identified minimum width.  Note on image: &ldquo;curb ramps and blended transitions on shared use paths must be as wide as the shared use path&rdquo;." />
+</figure>
+
 ###### R304.5.1.2 Curb Ramps and Blended Transitions on Shared Use Paths
 
 On *shared use paths*, the width of *curb ramp* runs (excluding any flared sides) and *blended transition*s shall be equal to the width of the *shared use path*.
@@ -249,9 +346,20 @@ On *shared use paths*, the width of *curb ramp* runs (excluding any flared sides
 
 At gutters and *streets* where a change of *grade* occurs adjacent to *curb ramps* and *blended transition*s, the change of *grade* shall comply with the requirements contained in (A) or (B) below:
 
-A.  The change of *grade* shall not exceed 13.3 percent, or
+> A.  The change of *grade* shall not exceed 13.3 percent, or
+>
+> B.  A transitional space shall be provided at the bottom of the *running slope* of the *curb ramp* run or *blended transition*. The transitional space shall extend 24 inches (610 mm) minimum in the direction of *pedestrian* travel and the full width of the *curb ramp* run or *blended transition*. Transitional spaces shall have *running slopes* of 1:48 (2.1%) maximum and *cross slopes* no greater than the *cross slope* of the *crosswalk* as specified by R302.5.
 
-B.  A transitional space shall be provided at the bottom of the *running slope* of the *curb ramp* run or *blended transition*. The transitional space shall extend 24 inches (610 mm) minimum in the direction of *pedestrian* travel and the full width of the *curb ramp* run or *blended transition*. Transitional spaces shall have *running slopes* of 1:48 (2.1%) maximum and *cross slopes* no greater than the *cross slope* of the *crosswalk* as specified by R302.5.
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R304.5.2(a) Change of grade, maximum slope</figcaption>
+    <img src="./images/R304-5-2-A_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to a transition or gutter to the street.  The maximum slopes of the curb ramp or blended transition and the transition or gutter and street is identified with the combination of slopes not exceeding thirteen point three percent." />
+  </figure>
+  <figure>
+    <figcaption>Figure R304.5.2(b) Change of grade, transition space</figcaption>
+    <img src="./images/R304-5-2-B_change_of_grade.png" alt="Elevation view of transition from sidewalk to a curb ramp or blended transition to transitional space to the street.  The transitional space is identified as twenty four inches minimum." />
+  </figure>
+</div>
 
 ##### R304.5.3 Crosswalks
 
@@ -271,6 +379,11 @@ Surfaces of *curb ramps* and *blended transitions* shall comply with R302.6 exce
 
 The truncated domes shall have a base diameter of 0.9 inches (23 mm) minimum and 1.4 inches (36 mm) maximum, a top diameter of 50 percent of the base diameter minimum and 65 percent of the base diameter maximum, and a height of 0.2 inches (5.1 mm). When *detectable warning surface* tiles are cut to fit, partial domes are permitted along the cut edges.
 
+<figure class="advisory">
+  <figcaption>Figure R305.1.1 Dome size</figcaption>
+  <img src="./images/R305-1-1_dome_size.png" alt="Elevation view of truncated dome identifying the base diameter, top diameter, and height." />
+</figure>
+
 ##### R305.1.2 Dome Spacing
 
 The truncated domes shall have a center-to-center spacing of 1.6 inches (41 mm) minimum and 2.4 inches (61 mm) maximum, and a base-to-base spacing of 0.65 inches (17 mm) minimum, measured between the most adjacent domes.
@@ -279,22 +392,39 @@ EXCEPTIONS: 1. When *detectable warning surfaces* are cut to fit, center-to-cent
 
 2\. Dome spacing requirements do not apply at a gap in a *detectable warning surface* at an expansion joint provided that the *detectable warning surface* aligns with both edges of the expansion joint.
 
+<figure class="advisory">
+  <figcaption>Figure R305.1.2 Dome spacing</figcaption>
+  <img src="./images/R305-1-2_dome_spacing.png" alt="Plan view of detectable warning identifying the distance between centerlines of truncated domes and the distance between bases of truncated domes." />
+</figure>
+
 ##### R305.1.3 Contrast
+
 *Detectable warning surfaces* shall contrast visually with adjacent walking surfaces, either light-on-dark or dark-on-light.
 
 ##### R305.1.4 Surface Size
 
 *Detectable warning surfaces* shall extend 24 inches (610 mm) minimum in the direction of *pedestrian* travel. The width of *detectable warning surfaces* shall be as follows:
 
-A. At *curb ramps* and *blended transition*s, *detectable warning surfaces* shall extend the full width of the *curb ramp* run (excluding any flared sides), *blended transition*, or landing.
+> A. At *curb ramps* and *blended transition*s, *detectable warning surfaces* shall extend the full width of the *curb ramp* run (excluding any flared sides), *blended transition*, or landing.
+>
+> B. At cut-through *pedestrian refuge islands*, *detectable warning surfaces* shall extend the full width of the *pedestrian circulation path* opening.
+>
+> C. At *pedestrian* at-grade rail crossings not located within a *street*, *detectable warning surfaces* shall extend the full width of the *pedestrian circulation path*.
+>
+> D. Where required at *boarding platform*s, *detectable warning surfaces* shall extend the full length of the unprotected areas of the platform.
+>
+> E. At boarding and alighting areas at *sidewalk* or *street* level *transit stops* for rail vehicles, detectable warning surfaces shall extend the full length of the unprotected area of the *transit stop*.
 
-B. At cut-through *pedestrian refuge islands*, *detectable warning surfaces* shall extend the full width of the *pedestrian circulation path* opening.
-
-C. At *pedestrian* at-grade rail crossings not located within a *street*, *detectable warning surfaces* shall extend the full width of the *pedestrian circulation path*.
-
-D. Where required at *boarding platform*s, *detectable warning surfaces* shall extend the full length of the unprotected areas of the platform.
-
-E.  At boarding and alighting areas at *sidewalk* or *street* level *transit stops* for rail vehicles, detectable warning surfaces shall extend the full length of the unprotected area of the *transit stop*.
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R305.1.4(a) Surface size, perpendicular curb ramp</figcaption>
+    <img src="./images/R305-1-4-a_surface_size.png" alt="Plan view of perpendicular curb ramp with flared sides and the detectable warning surface identified with minimum depth and width." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.1.4(b) Surface size, minimum parallel curb ramp</figcaption>
+    <img src="./images/R305-1-4-b_surface_size.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified with minimum depth and width." />
+  </figure>
+</div>
 
 #### R305.2 Location
 
@@ -304,27 +434,68 @@ The location of *detectable warning surfaces* shall comply with R305.2.  Where 
 
 On *perpendicular curb ramps*, *detectable warning surfaces* shall be located as follows:
 
-A.   Where the ends of the bottom *grade break* are in front of the back of *curb* or at the edge of pavement where there is no *curb*, the *detectable warning surface* shall be placed at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
+> A.   Where the ends of the bottom *grade break* are in front of the back of *curb* or at the edge of pavement where there is no *curb*, the *detectable warning surface* shall be placed at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
+>
+> B.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from both ends of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is 60 inches (1525 mm) or less, the *detectable warning surface* shall be placed on the *ramp* run at the bottom *grade break*.
+>
+> C.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from either end of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is more than 60 inches (1525 mm), the *detectable warning surface* shall be placed on the clear area so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
 
-B.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from both ends of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is 60 inches (1525 mm) or less, the *detectable warning surface* shall be placed on the *ramp* run at the bottom *grade break*.
-
-C.   Where the ends of the bottom *grade break* are behind the back of *curb* or edge of pavement where there is no *curb* and the distance from either end of the bottom *grade break* to the back of *curb* or edge of pavement where there is no *curb* is more than 60 inches (1525 mm), the *detectable warning surface* shall be placed on the clear area so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge of pavement where there is no *curb*.
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R305.2.1(a) A. Perpendicular curb ramp with returned sides</figcaption>
+    <img src="./images/R305-2-1-A_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp with returned sides identifying the location of both ends of the bottom grade break are in front of the back of curb and the maximum offset of the detectable warning surface from the back of curb." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.2.1(b) B. Perpendicular curb ramp at street corner</figcaption>
+    <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.2.1(c) C. Perpendicular curb ramp</figcaption>
+    <img src="./images/R305-2-1-C_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with back of curb (diagonal to grade break) when either end of the bottom grade break is more than 60 inches from the back of curb." />
+  </figure>
+</div>
 
 ##### R305.2.2 Parallel Curb Ramps
 
 On *parallel curb ramps*, *detectable warning surfaces* shall be located on the landing at either the back of *curb* or the edge of pavement where there is no *curb*.
 
+<figure class="advisory">
+  <figcaption>Figure R305.2.2 Parallel curb ramps</figcaption>
+  <img src="./images/R305-2-2_parallel_curb_ramps.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified at bottom landing between curb ramps located along the back of curb." />
+</figure>
+
 ##### R305.2.3 Blended Transitions
 
 On *blended transition*s, *detectable warning surfaces* shall be located on the *blended transition* so that both front corners of the *detectable warning surfaces* are at the back of *curb* or no greater than 6 inches (150 mm) from the edge pavement where there is no *curb*.
+
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R305.2.3(a) Blended transition, street corner</figcaption>
+    <img src="./images/R305-2-3-a_blended_transitions.png" alt="Street corner with blended transition identifying location of detectable warning surface at the back of curb or no greater than six inches from the edge of pavement where there is no curb." />
+  </figure>
+  <figure>
+    <figcaption>Figure R305.2.3(b) Blended transition, mid-block crossing</figcaption>
+    <img src="./images/R305-2-3-b_blended_transitions.png" alt="Mid-block crossing with raised crossing and detectable warning surface located along the entire transition from sidewalk to crosswalk." />
+  </figure>
+</div>
 
 ##### R305.2.4 Pedestrian Refuge Islands
 
 At cut-through *pedestrian refuge islands*, *detectable warning surfaces* shall be located no greater than 6 inches (150 mm) from the edges of the *pedestrian refuge island* or at back of *curb* and shall be separated by a 24 inch (610 mm) minimum length of surface in the direction of travel without *detectable warning surfaces*.
 
+<figure class="advisory">
+  <figcaption>Figure R305.2.4 Pedestrian refuge islands</figcaption>
+  <img src="./images/R305-2-4_pedestrian_refuge_islands.png" alt="Plan view of pedestrian refuge island with identified minimum width of pedestrian access routes, minimum distance between detectable warning surfaces and minimum distance between front of curbs." />
+</figure>
+
 ##### R305.2.5 Pedestrian At-Grade Rail Crossings
 
 At *pedestrian* at-grade rail crossings not located within a *street*, *detectable warning* *surfaces* shall be located on each side of the rail crossing. The edge of the *detectable warning surface* nearest the rail crossing shall be 6 feet (1.8 m) minimum and 15 feet (4.6 m) maximum from the centerline of the nearest rail. Where *pedestrian* gates are provided, *detectable warning surfaces* shall be located on the side of the gate opposite the rail. *Pedestrian* gates shall not overlap *detectable warning surfaces*.
+
+<figure class="advisory">
+  <figcaption>Figure R305.2.5 Pedestrian at-grade rail crossings</figcaption>
+  <img src="./images/R305-2-5_pedestrian_at_grade_rail_crossings.png" alt="Plan view of pedestrian access route with intersecting rail crossing.  To one side of the rail crossing, the detectable warning surface is seventy two through one hundred eighty inches from centerline of rail.  To other side of the rail crossing is a pedestrian gate between the detectable warning surface and the rail crossing." />
+</figure>
 
 ##### R305.2.6 Boarding Platforms
 
@@ -436,11 +607,11 @@ Pedestrian *push button locator tones* shall be intensity responsive to ambien
 
 Where audible beaconing is used, the volume of the *push button locator tone* during the *pedestrian change interval* of the called *pedestrian* phase shall be increased and operated in one of the following ways:
 
-A. The louder audible walk indication and louder locator tone comes from the far end of the *crosswalk*, as *pedestrians* cross the *street*;
-
-B. The louder locator tone comes from both ends of the *crosswalk*; or
-
-C. The louder locator tone comes from an additional speaker that is aimed at the center of the *crosswalk* and that is mounted on a *pedestrian signal head*.
+> A. The louder audible walk indication and louder locator tone comes from the far end of the *crosswalk*, as *pedestrians* cross the *street*;
+>
+> B. The louder locator tone comes from both ends of the *crosswalk*; or
+>
+> C. The louder locator tone comes from an additional speaker that is aimed at the center of the *crosswalk* and that is mounted on a *pedestrian signal head*.
 
 ##### R307.8.4 Locator Tone and Traffic Control Signal in Flashing Mode
 
@@ -512,6 +683,11 @@ Boarding and alighting areas at *sidewalk* or *street*-level *transit stops* mus
 
 Boarding and alighting areas shall have a clear length of 96 inches (2440 mm) minimum, measured perpendicular to the face of the *curb* or *street* edge, and a clear width of 60 inches (1525 mm) minimum, measured parallel to the *street*.
 
+<figure class="advisory">
+  <figcaption>Figure R309.1.1.1 Dimensions</figcaption>
+  <img src="./images/R309-1-1-1_dimensions.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge." />
+</figure>
+
 ###### R309.1.1.2 Slope
 
 The slope of boarding and alighting areas measured parallel to the *street* shall be the same as the *grade* of the *street*. The slope of boarding and alighting areas measured perpendicular to the *street* shall be 1:48 (2.1%) maximum.
@@ -548,6 +724,11 @@ In *alterations,* boarding and alighting areas and *boarding platform*s shall be
 
 *Transit shelters* shall be connected by *pedestrian access routes* complying with R302 to boarding and alighting areas complying with R309.1.1 or *boarding platform*s complying with R309.1.2.
 
+<figure class="advisory">
+  <figcaption>Figure R309.2.1 Connection to boarding and alighting areas</figcaption>
+  <img src="./images/R309-2-1_connection_to_boarding_and_alighting_areas.png" alt="Plan view of bus with identified boarding and alighting area at open doors aligned with front of curb edge.  A clear floor space within a bus shelter connects to the boarding and alighting area via a pedestrian access route." />
+</figure>
+
 ##### R309.2.2 Clear Space
 
 *Transit shelters* shall provide a minimum clear space complying with R404 entirely within the shelter. Where seating is provided within *transit shelters*, the clear space shall be located either at one end of a seat or so as to not overlap the area within 18 inches (455 mm) from the front edge of the seat.
@@ -576,7 +757,22 @@ Parallel on-street parking spaces shall be 24 feet (7.3 m) long minimum and 13 f
 
 EXCEPTIONS: 1. Where parallel on-street parking spaces are *altered* but the adjacent *pedestrian circulation path* is not, any *accessible* parallel on-street parking spaces provided may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
 
-2\.  In *alterations,* where providing parallel on-street parking spaces with the dimensions specified in R310.2.1 would result in an available right-of-way width less than or equal to 9 feet (2.7 m), measured from the *curb line* to the right-of-way line, the *accessible* parallel on-street parking spaces may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
+2\.  In *alterations*, where providing parallel on-street parking spaces with the dimensions specified in R310.2.1 would result in an available right-of-way width less than or equal to 9 feet (2.7 m), measured from the *curb line* to the right-of-way line, the *accessible* parallel on-street parking spaces may have the same dimensions as the adjacent parallel on-street parking spaces if they are provided nearest the *crosswalk* at the end of the block face or nearest a midblock *crosswalk*, and a *curb ramp* or *blended transition* is provided serving the *crosswalk*.
+
+<div class="advisory">
+  <figure>
+    <figcaption>Figure R310.2.1(a) Dimensions</figcaption>
+    <img src="./images/R310-2-1_dimensions.png" alt="On street parking space with pedestrian access route connection and dimensions identifying the minimum vehicle space size." />
+  </figure>
+  <figure>
+    <figcaption>Figure R310.2.1(b) Exception 1</figcaption>
+    <img src="./images/R310-2-1-x1_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces." />
+  </figure>
+  <figure>
+    <figcaption>Figure R310.2.1(c) Exception 2</figcaption>
+    <img src="./images/R310-2-1-x2_dimensions.png" alt="On street parking with vehicle space located at street corner just beyond a blended transition with detectable warning surfaces.  The sidewalk parallel to the parking space is identified as a nine foot maximum depth." />
+  </figure>
+</div>
 
 ##### R310.2.2 Pedestrian Access Route Connection
 
@@ -592,6 +788,11 @@ Surfaces of parking spaces shall comply with R302.6, except that changes in leve
 
 The center 50 percent of the length of the *sidewalk*, or other surface, adjacent to an *accessible* parallel parking space shall be free of obstructions, including parking identification signs, parking pay meters, and parking pay stations, and shall comply with R302.6.
 
+<figure class="advisory">
+  <figcaption>Figure R310.2.4 Clearance adjacent to parking spaces</figcaption>
+  <img src="./images/R310-2-4_clearance_adjacent_to_parking_spaces.png" alt=" On street parking space with fifty percent of the adjacent sidewalk clear of obstructions centered on the vehicle space." />
+</figure>
+
 ##### R310.2.5 Identification
 
 Parallel on-street parking spaces shall be identified by signs displaying the International Symbol of Accessibility complying with R411. Signs shall be 60 inches (1525 mm) minimum above the ground surface measured to the bottom of the sign.
@@ -600,6 +801,11 @@ Parallel on-street parking spaces shall be identified by signs displaying the In
 
 Perpendicular parking spaces shall comply with R310.3.
 
+<figure class="advisory">
+  <figcaption>Figure R310.3 Perpendicular parking spaces</figcaption>
+  <img src="./images/R310-3_perpendicular_parking_spaces.png" alt="Plan view of perpendicular parking spaces with an access aisle between the spaces connected to a perpendicular curb ramp.  The minimum width of the access aisle is identified." />
+</figure>
+
 ##### R310.3.1 Access Aisles
 
 Perpendicular on-street parking spaces shall have adjacent access aisles 96 inches (2440 mm) wide minimum extending the full length of the parking space. One access aisle shall be permitted to serve two parking spaces where front and rear entry parking are both permitted. Where an access aisle serves only one parking space and parking is restricted to either front entry or rear entry orientation, the access aisle shall be located on the passenger side of the vehicle.
@@ -607,6 +813,11 @@ Perpendicular on-street parking spaces shall have adjacent access aisles 96 inch
 #### R310.4 Angled Parking Spaces
 
 *Accessible* angled parking spaces shall comply with R310.4.
+
+<figure class="advisory">
+  <figcaption>Figure R310.4 Angled parking spaces</figcaption>
+  <img src="./images/R310-4_angled_parking_spaces.png" alt="Plan view of angled parking spaces with an access aisle on passenger side of each space connected to a perpendicular curb ramp.  The minimum widths of the vehicle space and access aisle are identified." />
+</figure>
 
 ##### R310.4.1 Width
 
@@ -643,6 +854,7 @@ Surfaces of parking spaces and access aisles serving them shall comply with R302
 Perpendicular or angled on-street parking spaces shall be identified by signs displaying the International Symbol of Accessibility complying with R411. The signs shall be located at the head of the parking space. Signs shall be 60 inches (1525 mm) minimum above the ground surface measured to the bottom of the sign.
 
 #### R310.6 Parking Meters and Parking Pay Stations
+
 Parking meters and parking pay stations that serve *accessible* parking spaces shall provide *operable parts* complying with R403. The clear space required by R403.2 shall be located so that displays and information on parking meters and pay stations are visible from a point located 40 inches (1015 mm) maximum above the center of the clear space in front of the parking meter or parking pay station.
 
 ### R311 Passenger Loading Zones
@@ -650,6 +862,11 @@ Parking meters and parking pay stations that serve *accessible* parking spaces s
 #### R311.1 General
 
 *Accessible* *passenger loading zones* shall comply with R311.
+
+<figure class="advisory">
+  <figcaption>Figure R311.1 Passenger loading zone</figcaption>
+  <img src="./images/R311-1_passenger_loading_zone.png" alt="Bus at passenger loading zone with identified minimum dimensions for the vehicle space and access aisle.  Fifty percent of the adjacent sidewalk is clear of obstructions centered on the vehicle space and a curb ramp run connects the sidewalk to the access aisle." />
+</figure>
 
 #### R311.2 Vehicle Pull-Up Space
 
