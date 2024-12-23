@@ -142,7 +142,7 @@ permalink: /about/members-past.html
 * Dr. Victor Santiago Pineda (2015-2023)
 * Karen Tamley (2015-2023)
 * Shelley Siegel, FASID (2016-2022)
-* Gregory S. Fehribach (2016-present)
+* Gregory S. Fehribach (2016-2024)
 
 <img src="{{ site.baseurl }}/images/biden.png" alt="President Joseph Biden">
 
@@ -154,9 +154,11 @@ permalink: /about/members-past.html
 * Stephanie L. Enyart (2023-present)
 * Mozhdeh Amelia Hamraie (2022-present)
 * Hannah Raissa Ibañez (2022-present)
-* Carmen Daniels Jones (2023-present)
+* Carmen Daniels Jones (2023-2024)
 * Alexis Ander Kashar (2022-present)
 * KR Liu (2022-present)
 * Benjamin William Julian Nadolsky (2022-present)
 * Tina Guenette Pedersen (2023-present)
 * Madeline Rose Ruvolo (2022-present)
+* Betty R. Siegel (2024-present)
+* Bradley Warren Snyder (2024-present)

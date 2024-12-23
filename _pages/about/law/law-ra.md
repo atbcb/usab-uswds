@@ -8,9 +8,6 @@ redirect_from:
     - /the-board/laws/rehabilitation-act-of-1973/
     - /law/ra.html
 ---
-https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology
-
-
 # {{ page.title }} of 1973
 
 The Rehabilitation Act of 1973 requires access to programs and activities that are funded by Federal agencies and to Federal employment.&nbsp;

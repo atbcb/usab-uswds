@@ -15,7 +15,7 @@ excerpt: With great sadness, the U.S. Access Board mourns the passing of former
 image: /images/uploads/dennis-cannon.jpg
 image_alt_text: Dennis poses next to three other people. Dennis and two others
   are wheelchair users.
-featured: true
+featured: false
 ---
 With great sadness, the U.S. Access Board mourns the passing of former staff member and lifelong disability advocate, Dennis Cannon. Cannon served as the Transportation Accessibility Specialist for the Access board from 1981-2010. As a long-time advocate for accessible transportation, his remarkable legacy of disability advocacy was evident in his service to the Access Board. Cannon serviced on the [Passenger Vessels Access Advisory Committee](https://www.access-board.gov/advisory-committee-reports/passenger-vessels/pvaac-report-intro/), where he supported efforts for accessible guidance and inclusive design for passenger vessels. These efforts helped contribute to the Board’s [proposed Passenger Vessels Accessibility Guidelines](https://www.access-board.gov/pvag/) under the Americans with Disabilities Act (ADA). Cannon also greatly contributed to the Board’s [Public Right-of-Way Accessibility Guidelines](https://www.access-board.gov/prowag/) (PROWAG) under the ADA and the Architectural Barriers Act (ABA) that address access to streets and sidewalks, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of the public right-of-way. 
 

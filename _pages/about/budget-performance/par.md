@@ -207,7 +207,11 @@ Sick and other leave is expensed as taken.
 
 Other liabilities account balances as of September 30, 2024 and 2023, were as follows:
 
+##### 2024
+
 {% include_relative par-fy2024/par-fy2024-57-note6-24.html %}
+
+##### 2023
 
 {% include_relative par-fy2024/par-fy2024-58-note6-23.html %}
 
@@ -235,12 +239,9 @@ The operating lease amount does not include estimated payments for leases with a
 
 #### NOTE 8. INTER-ENTITY COSTS
 
-The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.&nbsp;
-Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.&nbsp;
-Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.&nbsp;
-Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.&nbsp;
-The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.&nbsp;
-For the periods ended September 30, 2023 and 2022, respectively, inter-entity costs were as follows:
+The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.  Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.  Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.  Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.
+
+The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.  For the fiscal years ended September 30, 2024 and 2023, respectively, inter-entity costs were as follows:
 
 | &nbsp;                              |  2024   |  2023      |
 | :---                                | ---:    | ---:       |
@@ -252,26 +253,27 @@ For the periods ended September 30, 2023 and 2022, respectively, inter-entity co
 
 Budgetary resources obligated for undelivered orders as of September 30, 2024 and 2023 were as follows:
 
-| 2024                         | Federal         | Non-Federal     | Total           |
-| :---                         | ---:            | ---:            | ---:            |
-| Paid Undelivered Orders      | $ 136,270       | $ -             | $ 309,000       |
-| Unpaid Undelivered Orders    | 1,014,427       |  973,974        | 3,275,070       |
-| **Total Undelivered Orders** | **$ 1,150,697** | **$ 2,257,408** | **$ 3,584,070** |
+##### 2024
+
+| &nbsp;                       | Federal         | Non-Federal    | Total           |
+| :---                         | ---:            | ---:           | ---:            |
+| Paid Undelivered Orders      | $  136,270      | $ -            | $  136,270      |
+| Unpaid Undelivered Orders    |  1,014,427      |   973,974      |  1,988,173      |
+| **Total Undelivered Orders** | **$ 1,150,697** | **$  973,974** | **$ 2,124,443** |
 {: .par-money }
 
+##### 2023
 
-| 2023                         | Federal         | Non-Federal     | Total           |
+| &nbsp;                       | Federal         | Non-Federal     | Total           |
 | :---                         | ---:            | ---:            | ---:            |
-| Paid Undelivered Orders      | $ 133,402       | $ -             | $ 133,000       |
-| Unpaid Undelivered Orders    | 1,402,686       | 1,108,940       | 2,511,626       |
+| Paid Undelivered Orders      | $  133,402      | $ -             | $  133,000      |
+| Unpaid Undelivered Orders    |  1,402,686      |   1,108,940     |  2,511,626      |
 | **Total Undelivered Orders** | **$ 1,536,088** | **$ 1,108,940** | **$ 2,645,028** |
 {: .par-money }
 
-#### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
+#### NOTE 10. EXPLANATION OF DIFFERENCES BETWEEN THE STATEMENT OF BUDGETARY RESOURCES AND THE BUDGET OF THE U.S. GOVERNMENT
 
-The President's Budget that will include fiscal year 2023 actual budgetary execution information has not yet been published.&nbsp;
-The President's Budget is scheduled for publication in February 2025 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.&nbsp;
-The fiscal yaer 2025 Budget of the United States Government, with the "Actual" column completed for 2023, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+The President's Budget that will include fiscal year 2024 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2025 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.  The fiscal yaer 2025 Budget of the United States Government, with the "Actual" column completed for 2023, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
 (In Millions)
 

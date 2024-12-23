@@ -16,7 +16,7 @@ image_alt_text: Stylized graphic of W3C logo being assembled and lifted into
 tags:
   - Communication & IT
   - "508"
-featured: true
+featured: false
 ---
 On October 8th, 2024, the W3C Accessibility Guidelines Working Group ([AGWG](https://www.w3.org/groups/wg/ag/)) published [Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies](https://www.w3.org/TR/wcag2ict/) (WCAG2ICT) as a completed W3C Group Note.  WCAG2ICT describes how Web Content Accessibility Guidelines (WCAG) principles, guidelines, and success criteria can be applied to non-web information and communications technologies (ICT), specifically to non-web documents and software.  The Note includes guidance for WCAG 2.0, 2.1, and 2.2 success criteria and glossary terms. For an introduction, see: [WCAG2ICT Overview](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
 

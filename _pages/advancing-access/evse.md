@@ -12,6 +12,8 @@ In July 2022, in partnership with the Department of Transportation, the Access B
 
 In May 2023, the Joint Office of Energy and Transportation hosted a webinar on [Designing for Accessible EV Charging Stations](https://driveelectric.gov/webinars/accessibility) where Access Board staff presented on the accessibility guidelines and best practices in the Technical Assistance Document.
 
-The [Board’s Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=3014-AA48) includes a notice of proposed rulemaking on accessibility guidelines for EV charging stations.
+On September 3, 2024, the U.S. Access Board published a [notice of proposed rulemaking (NPRM)](https://www.federalregister.gov/d/2024-18820) to amend the accessibility guidelines for buildings and facilities covered by the Americans with Disabilities Act of 1990 (ADA) and the Architectural Barriers Act of 1968 (ABA) to specifically address the accessibility of electric vehicle (EV) charging stations.  This proposed rule provides specifications for the accessibility of EV charging stations, to include the EV charger (including physical and communication access), EV charging space, access aisles, and accessible routes.  The public can review the docket and read background documents or comments received on the [Regulations.gov docket](https://www.regulations.gov/docket/ATBCB-2024-0001).
+
+Public comments for the NPRM were due by November 4, 2024.
 
 More information about the [Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) and the [Administrative Procedure Act (APA)](https://www.archives.gov/federal-register/laws/administrative-procedure) is available.

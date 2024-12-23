@@ -32,8 +32,6 @@ Individuals may submit comments via any of the following methods:
 
 {% endcomment %}
 
-For background and more information, access the [Regulations.gov docket](https://www.regulations.gov/docket/ATBCB-2022-0004) or [browse the comments](https://www.regulations.gov/document/ATBCB-2022-0004-0001/comment).  The next steps in this rulemaking include analysing comments and developing a preliminary regulatory impact analysis (RIA).
+For background and more information, access the [Regulations.gov docket](https://www.regulations.gov/docket/ATBCB-2022-0004) or [browse the comments](https://www.regulations.gov/document/ATBCB-2022-0004-0001/comment).  The next steps in this rulemaking include analysing comments and developing a preliminary regulatory impact analysis (PRIA) and Initial Regulatory Flexibility Analysis (IRFA).
 
-For further information, contact Bruce Bailey at 1-202-272-0024 or <bailey@access-board.gov>, or Wendy Marshall at 1-202-272-0043 or <marshall@access-board.gov>.
-
-More information is availabe about the [Access Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html)) and the [Administrative Procedure Act](https://www.archives.gov/federal-register/laws/administrative-procedure) (APA).
+More information about the [Board's Rulemaking Process]({{ site.baseurl }}/about/rulemaking.html) and the [Administrative Procedure Act (APA)](https://www.archives.gov/federal-register/laws/administrative-procedure) is available.

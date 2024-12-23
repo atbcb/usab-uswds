@@ -11,7 +11,7 @@ excerpt: This year’s annual Interagency Accessibility Forum (IAAF) will be hel
 image: /images/uploads/iaaf-2024-web-banner2.jpg
 image_alt_text: "Annual Interagency Accessibility Forum. November 13 - 14, 2024.
   Beyond Compliance: Building a Culture of Digital Accessibility"
-featured: true
+featured: false
 ---
 This year’s annual Interagency Accessibility Forum (IAAF) will be held virtually on November 13 and 14. IAAF will feature a mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic, and other sectors. Presentation topics include best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
 

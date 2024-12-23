@@ -39,7 +39,6 @@ Presented in Table 1 are ABA caseload statistics for FY 2024, as well as compara
 {: .par-prose }
 
 In summary, the 85 ABA complaints closed in FY 2024 on the basis of completed corrective action can be broken down into four broad categories by facility type:
-Of the 167 ABA cases closed in FY 2023, about 32% (54 cases) were closed after the federal agency (or other facility owner/leaseholder) took corrective action to remedy building elements or features determined by the Access Board’s investigative findings to be ABA violations under the applicable accessibility standard.
 
 ##### Defense-related and Veterans Facilities
 
