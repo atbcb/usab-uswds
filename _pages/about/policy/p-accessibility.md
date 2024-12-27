@@ -18,7 +18,9 @@ In addition to features necessary for supporting the Revised Section 508 Standar
 
 Our website content is provided primarily in HTML format.  Accessible PDF (Portable Document Format) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](https://get.adobe.com/reader/).  No endorsement is implied.
 
+{% comment %}
 Our Section 508 coordinator and webmaster is Bruce Bailey.  If you have feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact Bruce at <bailey@access-board.gov>; phone 1-202-272-0024.  If applicable, please include the webpage URL and the specific problems you have encountered.
+{% endcomment %}
 
 If you would like to file a Section 508 related complaint, please contact Dru Gordon, Chief of Staff at <gordon@access-board.gov> or phone 1-202-272-0022.  Letters should be addressed to: 
 > Dru Gordon \
@@ -42,4 +44,4 @@ The Architectural Barriers Act of 1968 (ABA) requires facilities that are design
 
 --- 
 
-Page reviewed and updated 30 July 2024.
+Page reviewed and updated 27 December 2024.
