@@ -16,6 +16,15 @@ featured: true
 ---
 On December 6, 2024, President Joe Biden appointed a new member to the U.S. Access Board: Betty R. Siegel, of Virginia. Betty as a newly appointed member brings a diverse range of knowledge and experiences—spanning the arts and culture, emerging assistive technology, inclusive customer service, and disability rights.
 
+<figure class="img-right">
+  <a href="{{ site.baseurl }}/images/uploads/betty-siegel-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/betty-siegel-border.png" alt="Headshot of Betty Siegel." class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Betty R. Siegel</em>
+  </figcaption>
+</figure>
+
 Betty Siegel is Director of the Office of Accessibility and VSA at the John F. Kennedy Center for the Performing Arts. A recognized leader and expert in disability and accessibility practices within the arts and culture sectors, she has worked nationally and internationally to support the rights of individuals with disabilities of all ages and backgrounds to engage fully in theaters, museums and other public spaces. Read more about Betty in [her biography](https://www.access-board.gov/about/board-members/betty-siegel/).
 
 Betty succeeds Public Board Member Greg Fehribach. Greg was first appointed by President Obama in 2016. Additionally, from 2020 to 2024, Greg served [alternating one-year terms](https://www.access-board.gov/about/board-chairs-and-vice-chairs.html) as Chair and Vice-Chair of the Access Board. Along with Greg, Public Board Member Carmen Daniels Jones is also closing out her term with the agency; President Biden appointed Carmen to the Access Board in 2023.
