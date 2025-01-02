@@ -11,7 +11,7 @@ excerpt: On December 18, the Department of Transportation (DOT) issued a final
   design that serve as the basis of DOT and the U.S. Department of Justice’s (DOJ) enforceable ADA Accessibility Standards . . .
 image: /images/uploads/dot-logo.svg
 image_alt_text: Logo of the U.S. Department of Transportation.
-featured: true
+featured: false
 ---
 On December 18, the Department of Transportation (DOT) issued a final rule adopting the Access Board’s [Public Right-of-Way Accessibility Guidelines (PROWAG)](https://www.access-board.gov/prowag/) as part of its Americans with Disability Act (ADA) standards for new construction and alterations of transit stops in the public right-of-way. The ADA directs the Access Board to issue technical guidelines for accessible design that serve as the basis of DOT and the U.S. Department of Justice’s (DOJ) enforceable ADA Accessibility Standards.
 
