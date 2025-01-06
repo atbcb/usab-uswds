@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Standards to Support: Understanding the Access Board’s Role in Accessibility (CANCELLED)"
+title: "From Standards to Support: Understanding the Access Board’s Role in Accessibility"
 date: 2025-01-09
 excerpt: NOTICE: This session has been cancelled due to the fact that January 9
   is a National Day of Mourning for President Carter and federal offices will be closed.
