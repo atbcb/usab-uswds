@@ -2,7 +2,7 @@
 layout: post
 title: "From Standards to Support: Understanding the Access Board’s Role in Accessibility (CANCELLED)"
 date: 2025-01-09
-excerpt: **NOTICE: This session has been cancelled due to the fact that January 9 is a National Day of Mourning for President Carter and federal offices will be closed.** Have you previously attended our webinars or reached out with questions
+excerpt: NOTICE: This session has been cancelled due to the fact that January 9 is a National Day of Mourning for President Carter and federal offices will be closed. Have you previously attended our webinars or reached out with questions
   and training about accessibility? You might be surprised to learn that some
   questions may be outside the scope of the U.S. Access Board’s Office of
   Information and Technical Services (OTIS). Join us for this informative
