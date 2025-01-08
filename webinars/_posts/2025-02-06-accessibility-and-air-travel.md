@@ -41,6 +41,8 @@ Leaving on a jet plane and want to ensure an accessible experience? This webinar
 
 [Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Accessibility%20and%20Air%20Travel), Training Coordinator, **U.S. Access Board**
 
+[Elisha Luyeho](https://www.accessibilityonline.org/ao/speakers/10690/?ret=speakers), Lead Airport Accessibility Compliance Specialist, **Federal Aviation Administration**
+
 ### Privacy Statement
 
 In order to register for this webinar you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted 2 days after the live session. You can access our previously recorded webinars at this [link.](https://www.accessibilityonline.org/archives/) Be advised that in order to obtain continuing education credits you must register and create an account. See [Continuing Education Recognition Request Policy.](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx)
