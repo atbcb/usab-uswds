@@ -226,6 +226,11 @@ EXCEPTION: At *crosswalks*, the *cross slope* of the *curb ramp* run shall be pe
 
 *Grade breaks* at the top and bottom of a *curb ramp* run shall be perpendicular to the direction of the *curb ramp* run. *Grade breaks* shall not be permitted on the surfaces of *curb ramp* runs and landings. Surface slopes that meet at *grade breaks* shall be flush.
 
+<figure class="advisory">
+  <figcaption>Figure R304.2.3 Grade breaks</figcaption>
+  <img src="./images/R304-2-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" />
+</figure>
+
 ##### R304.2.4 Clear Area
 
 A clear area 48 inches (1220 mm) wide minimum by 48 inches long (1220 mm) minimum shall be provided beyond the bottom *grade break* of the *perpendicular curb ramp* run and within the width of the *crosswalk*. At *shared use paths*, the clear area shall be as wide as *the shared use path*. The clear area shall be located wholly outside the vehicle travel lanes, including bicycle lanes, that run parallel to the *crosswalk*. The *running slope* of the clear area shall be 1:20 (5.0%) maximum. The *cross slope* of the clear area shall be as specified by R302.5.
@@ -280,11 +285,6 @@ The *cross slope* of the *curb ramp* run shall be 1:48 (2.1%) maximum.
 ##### R304.3.3 Grade Breaks
 
 *Grade breaks* at the top and bottom of a *curb ramp* run shall be perpendicular to the direction of the *curb ramp* run.  *Grade breaks* shall not be permitted on the surfaces of *curb ramp* runs or landings.  Surface slopes that meet at *grade breaks* shall be flush.
-
-<figure class="advisory">
-  <figcaption>Figure R304.3.3 Grade breaks</figcaption>
-  <img src="./images/R304-3-3_grade_breaks.png" alt="Street corner with two perpendicular curb ramps identifying grade breaks at the top and bottom of the curb ramps perpendicular to the running slope direction" />
-</figure>
 
 ##### R304.3.4 Landings
 
