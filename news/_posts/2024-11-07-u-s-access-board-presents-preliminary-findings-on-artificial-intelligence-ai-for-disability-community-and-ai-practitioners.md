@@ -28,6 +28,8 @@ Attending the presentation of preliminary findings on AI: 
 * Meeting ID: 160 173 1944 
 * Passcode: 524293 
 
+The presentation file for this session can be [found on Box.com](https://usa-accessboard.box.com/s/hgdrseyq4u40ucn9xngdzsdmge6lql56).
+
 No pre-registration is required to attend the presentation. Real-time captioning and sign language interpreting will be provided during this session. Additional reasonable accommodation requests must be received by December 31, 2024, via [events@access-board.gov](mailto:events@access-board.gov). AI-specific questions can be directed to [ai@access-board.gov](mailto:ai@access-board.gov). 
 
 Subscribe to “[Access Board News](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1)” to receive updates and reminders on the AI Series and other events. Press inquiries can be directed to Amy Nieves, Public Affairs Specialist at [news@access-board.gov](mailto:News@access-board.gov).
