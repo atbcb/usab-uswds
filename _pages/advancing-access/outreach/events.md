@@ -37,6 +37,7 @@ _**Agenda**_
 
 ### Public Events Archives
 
+- [Preliminary Findings on the Risks and Benefits of AI (January 14, 2025)](https://www.youtube.com/watch?v=6QJ5w3fVA8w)
 - [Federal Agency and Industry Practitioner Hearing on Artificial Intelligence (August 22, 2024)](https://www.youtube.com/watch?v=AY2czzVU4JI&t=4102s)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - PM Session)](https://www.youtube.com/watch?v=udi5eXFSUiM&t=5361s)
 - [Disability Community Hearing on Artificial Intelligence (August 8, 2024 - AM Session)](https://www.youtube.com/watch?v=fokFx-nsL1o)
