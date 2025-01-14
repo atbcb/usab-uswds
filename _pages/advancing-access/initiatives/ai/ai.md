@@ -26,23 +26,9 @@ A key element of the MOU is launching an informative and collaborative AI series
 
 In addition to the virtual hearings, members of the public were invited to submit written comments via the [docket on Regulations.gov](https://www.regulations.gov/docket/ATBCB-2024-0005).
 
-These hearings, and the comments that they generated, supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all.
+These hearings, and the comments that they generated, supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all. Additionally, on January 14, 2025, the Board presented its preliminary findings on the risks and benefits of AI for people with disabilities. The findings were based on the outcomes of the three AI hearings, independent research and engagements, as well as the comments received from the public.
 
-### Preliminary Findings on the Risks and Benefits of AI
-
-As part of the Developing AI Equity, Access & Inclusion for All Series, the Access Board will present its preliminary findings on the risks and benefits of AI for people with disabilities. The findings are based on the outcomes of the three recent AI hearings held in August 2024, independent research and engagements, as well as comments received from the public. The presentation will take place virtually on **Tuesday, January 14, 2025, from 2:00 – 3:30 p.m. (ET)**. Please note that this session has been rescheduled from its original date in December.
-
-**Attending the presentation of preliminary findings on AI:**
-* January 14, 2025, 2:00 – 3:30 p.m. (ET) 
-* Zoom Link: [https://www.zoomgov.com/j/1601731944](https://www.zoomgov.com/j/1601731944)
-* Meeting ID: 160 173 1944 
-* Passcode: 524293
-
-If you cannot join via Zoom, then [watch the session live on YouTube](https://www.youtube.com/watch?v=6QJ5w3fVA8w). The presentation file for this session can be [found on Box.com](https://usa-accessboard.box.com/s/hgdrseyq4u40ucn9xngdzsdmge6lql56).
-
-No pre-registration is required to attend the presentation. Real-time captioning and sign language interpreting will be provided during this session. Additional reasonable accommodation requests must be received by December 31, 2024, via [events@access-board.gov](mailto:events@access-board.gov). AI-specific questions can be directed to [ai@access-board.gov](mailto:ai@access-board.gov).
-
-Learn more about this session in the Access Board's [news release](https://www.access-board.gov/news/2024/11/07/u-s-access-board-presents-preliminary-findings-on-artificial-intelligence-ai-for-disability-community-and-ai-practitioners/).
+Archives of all previous sessions, including an introductory presentation on July 9, 2024, can be found below.
 
 ## Meeting Archives
 
@@ -59,6 +45,8 @@ Subscribe to [Access Board News](https://public.govdelivery.com/accounts/USACCES
 - [Federal Agency and Industry Practitioner Hearing on Artificial Intelligence (August 22, 2024)](https://www.youtube.com/watch?v=AY2czzVU4JI&t=4102s)
   - [Download the agenda](https://usa-accessboard.box.com/s/v7j50eb3f03kwcgbrstsxu8k9c6oqppz)
   - [Download the presentation](https://usa-accessboard.box.com/s/x2sndkiz61k1stkpwk6cb7b1zpr7ao5r)
+- [Preliminary Findings on the Risks and Benefits of AI (January 14, 2025)](https://www.youtube.com/watch?v=6QJ5w3fVA8w)
+  - [Download the presentation](https://usa-accessboard.box.com/s/hgdrseyq4u40ucn9xngdzsdmge6lql56)
 
 ### Additional Resources
 
