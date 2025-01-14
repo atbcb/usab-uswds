@@ -26,9 +26,9 @@ Attending the presentation of preliminary findings on AI: 
 * January 14, 2025, 2:00 – 3:30 p.m. (ET) 
 * Zoom Link: <https://www.zoomgov.com/j/1601731944> 
 * Meeting ID: 160 173 1944 
-* Passcode: 524293 
+* Passcode: 524293
 
-The presentation file for this session can be [found on Box.com](https://usa-accessboard.box.com/s/hgdrseyq4u40ucn9xngdzsdmge6lql56).
+If you cannot join via Zoom, then [watch the session live on YouTube](https://www.youtube.com/watch?v=6QJ5w3fVA8w). The presentation file for this session can be [found on Box.com](https://usa-accessboard.box.com/s/hgdrseyq4u40ucn9xngdzsdmge6lql56).
 
 No pre-registration is required to attend the presentation. Real-time captioning and sign language interpreting will be provided during this session. Additional reasonable accommodation requests must be received by December 31, 2024, via [events@access-board.gov](mailto:events@access-board.gov). AI-specific questions can be directed to [ai@access-board.gov](mailto:ai@access-board.gov). 
 
