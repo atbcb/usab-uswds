@@ -2,7 +2,6 @@
 name: alexis-ander-kashar
 last-name: kashar
 full_name: Alexis Ander Kashar
-pronouns: She/Her
 chair: false
 vice-chair: false
 member: public
