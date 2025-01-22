@@ -2,7 +2,6 @@
 name: benjamin-nadolsky
 last-name: nadolsky
 full_name: Benjamin Nadolsky
-pronouns: He/Him/His
 chair: false
 vice-chair: false
 member: public

@@ -2,7 +2,6 @@
 name: madeline-rose-ruvolo
 last-name: ruvolo
 full_name: Madeline Ruvolo
-pronouns: She/Her
 chair: false
 vice-chair: false
 member: public
