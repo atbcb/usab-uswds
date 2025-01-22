@@ -1,1 +1,1 @@
-Subfolder for EEO and DEIA materials
+Subfolder for EEO materials
