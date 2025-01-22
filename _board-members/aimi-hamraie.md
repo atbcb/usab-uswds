@@ -2,7 +2,6 @@
 name: aimi-hamraie
 last-name: hamraie
 full_name: Dr. Aimi Hamraie
-pronouns: They/Them
 chair: false
 vice-chair: false
 member: public
