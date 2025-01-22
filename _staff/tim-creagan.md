@@ -3,7 +3,6 @@ name: tim-creagan
 first_name: Tim
 last_name: Creagan
 full_name: Timothy P. Creagan
-pronouns: he, his, him
 image: /images/uploads/tim-creagan.jpg
 job-title: Senior Compliance Specialist
 office: Office of General Counsel
