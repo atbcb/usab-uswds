@@ -5,7 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/foia-report.html
 ---
-# {{ page.title }} (FY 2023)
+# {{ page.title }} (FY 2024)
 
 ## Section I: Basic Information Regarding Report
 
