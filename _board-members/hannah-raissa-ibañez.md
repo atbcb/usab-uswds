@@ -2,7 +2,6 @@
 name: hannah-raissa-ibañez
 last-name: ibañez
 full_name: Hannah Raissa Ibañez, Esquire
-pronouns: She/Her
 chair: false
 vice-chair: false
 member: public

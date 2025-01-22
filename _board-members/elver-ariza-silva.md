@@ -2,7 +2,6 @@
 name: elver-ariza-silva
 last-name: ariza-silva
 full_name: Elver Ariza-Silva
-pronouns: He/Him
 chair: false
 vice-chair: true
 member: public

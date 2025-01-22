@@ -2,7 +2,6 @@
 name: heather-dowdy
 last-name: dowdy
 full_name: Heather Dowdy
-pronouns: She/Her
 chair: false
 vice-chair: false
 member: public
