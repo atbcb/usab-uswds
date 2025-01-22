@@ -3,7 +3,6 @@ name: "sachin-pavithran "
 first_name: Sachin
 last_name: "Dev Pavithran "
 full_name: "Sachin Dev Pavithran "
-pronouns: he/him/his
 image: /images/uploads/sachin-pavithran.png
 job-title: Executive Director
 office: Office of Executive Director
