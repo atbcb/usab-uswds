@@ -5,8 +5,7 @@ date: 2024-06-06
 excerpt: The Americans with Disabilities Act (ADA) has five “Titles”, that
   provide different protections for people with disabilities. Title II of the
   ADA specifically covers Public Services provided by any state or local
-  government. As a tax funded entity, there are more accessibility requirements
-  than expected of private entities or businesses. Access Board Accessibility
+  government. Access Board Accessibility
   Specialists will review what the different accessibility laws are, how they
   apply, and compare how the requirements for state or local government entities
   differ than those in the private sector. In addition to these concepts, the
@@ -28,7 +27,7 @@ webinar-end: June 6, 2024 4:00 PM
 registration-link: https://www.accessibilityonline.org/ao/session/?id=111117
 webinar: true
 ---
-The Americans with Disabilities Act (ADA) has five “Titles”, that provide different protections for people with disabilities. Title II of the ADA specifically covers Public Services provided by any state or local government. As a tax funded entity, there are more accessibility requirements than expected of private entities or businesses. Access Board Accessibility Specialists will review what the different accessibility laws are, how they apply, and compare how the requirements for state or local government entities differ than those in the private sector. In addition to these concepts, the accessibility specialists will cover a broad overview of key components that are likely to apply to government funded spaces, such as accessible routes, toilet rooms, and counters. This session will have real time captioning and sign language interpreters available. Individuals are able to submit questions for the speakers in advance through the on-line registration process.
+The Americans with Disabilities Act (ADA) has five “Titles”, that provide different protections for people with disabilities. Title II of the ADA specifically covers Public Services provided by any state or local government. Access Board Accessibility Specialists will review what the different accessibility laws are, how they apply, and compare how the requirements for state or local government entities differ than those in the private sector. In addition to these concepts, the accessibility specialists will cover a broad overview of key components that are likely to apply to government funded spaces, such as accessible routes, toilet rooms, and counters. This session will have real time captioning and sign language interpreters available. Individuals are able to submit questions for the speakers in advance through the on-line registration process.
 
 ### Continuing Education Recognition Available
 
