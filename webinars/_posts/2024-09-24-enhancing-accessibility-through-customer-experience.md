@@ -7,9 +7,8 @@ excerpt: How does Customer Experience (CX) improve accessibility? How can
   Deputy Director for Customer Experience at DHS and his team will discuss the
   importance of building human-centric products and services through customer
   experience best practices and accessibility guidelines. They will walk through
-  key steps for inclusive design, cover the benefits of Customer Experience (CX)
-  and talk about how to build accessible products beyond the Section 508
-  standards. Sign Language and Real Time Captioning will be available. Questions
+  key steps for design, cover the benefits of Customer Experience (CX)
+  and talk about how to build accessible products. Sign Language and Real Time Captioning will be available. Questions
   for the presenter can be submitted during the registration process.
 tags:
   - "508"
@@ -20,7 +19,7 @@ webinar-end: September 24, 2024 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session?id=111132
 webinar: true
 ---
-How does Customer Experience (CX) improve accessibility? How can agencies effectively support the needs of their customers? Nicshan Floyd, Deputy Director for Customer Experience at DHS and his team will discuss the importance of building human-centric products and services through customer experience best practices and accessibility guidelines. They will walk through key steps for inclusive design, cover the benefits of Customer Experience (CX) and talk about how to build accessible products beyond the Section 508 standards. Sign Language and Real Time Captioning will be available. Questions for the presenter can be submitted during the registration process.
+How does Customer Experience (CX) improve accessibility? How can agencies effectively support the needs of their customers? Nicshan Floyd, Deputy Director for Customer Experience at DHS and his team will discuss the importance of building human-centric products and services through customer experience best practices and accessibility guidelines. They will walk through key steps for design, cover the benefits of Customer Experience (CX) and talk about how to build accessible products. Sign Language and Real Time Captioning will be available. Questions for the presenter can be submitted during the registration process.
 
 ### Continuing Education Recognition Available
 
