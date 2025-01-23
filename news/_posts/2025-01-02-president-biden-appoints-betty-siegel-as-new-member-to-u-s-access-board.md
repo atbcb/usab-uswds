@@ -12,7 +12,7 @@ excerpt: "On December 6, 2024, President Joe Biden appointed a new member to the
   culture sectors . . ."
 image: /images/uploads/betty-siegel-border.png
 image_alt_text: Betty R. Siegel headshot.
-featured: true
+featured: false
 ---
 On December 6, 2024, President Joe Biden appointed a new member to the U.S. Access Board: Betty R. Siegel, of Virginia. Betty as a newly appointed member brings a diverse range of knowledge and experiences—spanning the arts and culture, emerging assistive technology, inclusive customer service, and disability rights.
 
