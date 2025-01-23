@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S. Access Board Meeting and Webcast (January 29)
+title: POSTPONED - U.S. Access Board Meeting and Webcast (January 29)
 date: 2024-12-23
 excerpt: The Access Board's upcoming Board meeting scheduled for Wednesday, January 29 has been postponed. An announcement will be made as soon as a new date has been set . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
