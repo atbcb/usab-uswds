@@ -19,7 +19,7 @@ The Access Board provides both virtual and in-person training on its accessibili
 
 The Board tailors its training to the particular needs, timeframe, and interests of each audience. Board trainings are of particular interest to design professionals and architects, facility operators and managers, the transportation industry, the disability community, and members of other professions and groups that work with any of the Board’s guidelines and standards. Training sessions include time for question-and-answer participation. This kind of interaction is particularly helpful in gauging the information needs of the Board’s various audiences.
 
-Many training sessions are held at the request of, or in partnership with, organizations or groups holding conferences and seminars that include accessibility and inclusion of persons with disabilities on the agenda. The Board also has a [conference space]({{ site.baseurl }}/about/venue.html) at its offices in Washington, D.C. that is sometimes used for trainings.
+Many training sessions are held at the request of, or in partnership with, organizations or groups holding conferences and seminars that include accessibility of persons with disabilities on the agenda. The Board also has a [conference space]({{ site.baseurl }}/about/venue.html) at its offices in Washington, D.C. that is sometimes used for trainings.
 
 *Board policy requires that its in-person training sessions be conducted in accessible facilities and be communicated, upon request by attendees, in accessible formats. It is also imperative that those hosting remote training sessions ensure their digital platforms are accessible to all attendees.*
 
