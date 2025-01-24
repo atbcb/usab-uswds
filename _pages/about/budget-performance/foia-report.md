@@ -698,7 +698,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
   </tbody>
 </table>
 
-### B. Consultations On FOIA Requests - Received, Processed, And Pending
+### B. Consultations On FOIA Requests - Received, Processed, And Pending Consultations
 
 <table class="usa-table">
   <thead>
@@ -733,7 +733,15 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 #### USAB
 
 | USAB | 10th Oldest Consultation | 9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Consultation |
-| :---               | ---: | ---:  | ---: |  ---:  | ---: | ---:  | ---: | ---: | ---:  | ---: | 
+| :--- | ---: | ---:  | ---: |  ---:  | ---: | ---:  | ---: | ---: | ---:  | ---: | 
+| Date | N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
+| Number of Days | 0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |
+{: .usa-table }
+
+#### Agency Overall
+
+| Agency Overall | 10th Oldest Consultation | 9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Consultation |
+| :---  | ---: | ---:  | ---: |  ---:  | ---: | ---:  | ---: | ---: | ---:  | ---: | 
 | Date | N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
 | Number of Days | 0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |
 {: .usa-table }
@@ -743,99 +751,51 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (1). Comparison Of Numbers Of Requests From Previous And Current Annual Report - Requests Received And Processed
 
-#### Number of Requests Received XXXXXXXXX
+#### Number of Requests Received
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th rowspan="2" scope="col">Agency / Component</th>
-      <th colspan="2" scope="col">NUMBER OF REQUESTS <em>RECEIVED</em></th>
-      <th colspan="2" scope="col">NUMBER OF REQUESTS <em>PROCESSED</em></th>
-    </tr>
-    <tr>
-      <th style="font-weight: normal;" scope="col">Number Received During Fiscal Year from Last Year's Annual Report</th>
-      <th style="font-weight: normal;" scope="col">Number Received During Fiscal Year from Current Annual Report</th>
-      <th style="font-weight: normal;" scope="col">Number Processed During Fiscal Year from Last Year's Annual Report</th>
-      <th style="font-weight: normal;" scope="col">Number Processed During Fiscal Year from Current Annual Report</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 24 </td>
-      <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 31 </td>
-      <td style="text-align: center;"> 8 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 24 </td>
-      <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 31 </td>
-      <td style="text-align: center;"> 8 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency/Component | Number Received During Fiscal Year from Last Year's Annual Report | Number Received During Fiscal Year from Current Annual Report |
+| :---  | ---: | ---:  |
+| USAB | 20 | 42 |
+| Agency Overall | 20 | 42 |
+{: .usa-table }
 
-### XII.D.(2).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- BACKLOGGED REQUESTS
+#### Number of Requests Processed
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col"> Agency / Component </th>
-      <th scope="col">Number of Backlogged Requests as of End of the Fiscal Year from Previous Annual Report</th>
-      <th scope="col">Number of Backlogged Requests as of End of the Fiscal Year from Current Annual Report</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 1 </td>
-    </tr>
-    <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 1 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency/Component | Number Received During Fiscal Year from Last Year's Annual Report | Number Received During Fiscal Year from Current Annual Report |
+| :---  | ---: | ---:  |
+| USAB | 19 | 41 |
+| Agency Overall | 19 | 41 |
+{: .usa-table }
 
-### XII.E.(1).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- APPEALS RECEIVED AND PROCESSED
+#### (2). Comparison of Numbers of Requests From Previous and Current Annual Report - Backlogged Requests
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th rowspan="2" scope="col"> Agency / Component </th>
-      <th colspan="2" scope="col"> NUMBER OF APPEALS <em>RECEIVED</em> </th>
-      <th colspan="2" scope="col"> NUMBER OF APPEALS <em>PROCESSED</em> </th>
-    </tr>
-    <tr>
-      <th style="font-weight: normal;" scope="col">Number Received During Fiscal Year from Last Year's Annual Report</th>
-      <th style="font-weight: normal;" scope="col">Number Received During Fiscal Year from Current Annual Report</th>
-      <th style="font-weight: normal;" scope="col">Number Processed During Fiscal Year from Last Year's Annual Report</th>
-      <th style="font-weight: normal;" scope="col">Number Processed During Fiscal Year from Current Annual Report</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency/Component | Number of Backlogged Requests as of End of the Fiscal Year from Previous Annual Report | Number of Backlogged Requests as of End of the Fiscal Year from Current Annual Report |
+| :---  | ---: | ---:  |
+| USAB | 1 | 0 |
+| Agency Overall | 1 | 0 |
+{: .usa-table }
 
-### XII.E.(2).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- BACKLOGGED APPEALS
+### E. Comparison of Administrative Appeals
+
+#### (1) Comparison of Numbers of Administrative Appeals From Previous and Current Annual Report - Appeals Received and Processed
+
+##### Number of Appeals Received
+
+| Agency/Component | Number Received During Fiscal Year from Last Year's Annual Report | Number received During Fiscal Year from Current Annual Report |
+| :---  | ---: | ---:  |
+| USAB | 0 | 0 |
+| Agency Overall | 0 | 0 |
+{: .usa-table }
+
+##### Number of Appeals Processed
+
+| Agency/Component | Number Received During Fiscal Year from Last Year's Annual Report | Number received During Fiscal Year from Current Annual Report |
+| :---  | ---: | ---:  |
+| USAB | 0 | 0 |
+| Agency Overall | 0 | 0 |
+{: .usa-table }
+
+#### (2). Comparison of Numbers of Administrative Appeals From Previous and Current Annual Report - Backlogged Appeals
 
 | Agency / Component | Number of Backlogged Appeals as of End of the Fiscal Year from Previous Annual Report | Number of Backlogged Appeals as of End of the Fiscal Year from Current Annual Report |
 | --- | :-: | :-: |
