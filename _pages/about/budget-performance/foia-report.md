@@ -22,7 +22,7 @@ Email:&nbsp; <foia@access-board.gov>
 Provide an electronic link for access to the report on the agency Web site:
 
 - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2023.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2023.xml) formats.
+- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2024.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2024.xml) formats.
 
 Explain how to obtain a copy of the report in paper form.
 
@@ -96,7 +96,7 @@ The following is a concise description of the nine FOIA exemptions referenced in
 
 | Statute | Type of Information Withheld | Case Citation | Agency / Component | Number of Times Relied upon by Agency / Component | Total Number of Times Relied upon by Agency Overall |
 | :--- | :--- | :--- | :--- | ---: | ---: |
-| 42 U.S.C. §§ 2000e 5(b), 2000e 8(e)   | Information pertaining to charges of unlawful employment practices; information obtained by the EEOC in investigating charges of unlawful employment practices  | Frito-Lay v. EEOC, 964 F. Supp. 236, 240-43 (W.D. Ky. 1997)); Am. Centennial Ins. Co. v. EEOC, 722 F. Supp. 180, 184 (D.N.J. 1989).   | USAB |    1 |    1 |
+| 42 U.S.C. §§ 2000e 5(b), 2000e 8(e)   | Information pertaining to charges of unlawful employment practices; information obtained by the EEOC in investigating charges of unlawful employment practices  | Frito-Lay v. EEOC, 964 F. Supp. 236, 240-43 (W.D. Ky. 1997); Am. Centennial Ins. Co. v. EEOC, 722 F. Supp. 180, 184 (D.N.J. 1989).   | USAB |    1 |    1 |
 {: .usa-table }
 
 ## V. FOIA Requests
@@ -113,7 +113,7 @@ The following is a concise description of the nine FOIA exemptions referenced in
 
 #### (1) All Processed Requests
 
-| Agency / Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions | Number of Full Denials Based on Reasons other than Exemptions* | TOTAL |
+| Agency / Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions | Number of Full Denials Based on Reasons other than Exemptions* | Total |
 | :---           | ---: | ---: | ---: | ---: | ---: |
 | USAB           |  9   |  6   |   2  |  24  | 41 |
 | Agency Overall |  9   |  6   |   2  |  24  | 41 |
@@ -121,16 +121,51 @@ The following is a concise description of the nine FOIA exemptions referenced in
 
 _*Number of Full Denials Based on Reasons Other than Exemptions._
 
-| No Records | All Records Referred to Another Component or Agency | Request Withdrawn | Fee-Related Reason | Records not Reasonably Described | Improper FOIA Request for Other Reason | Not Agency Record | Duplicate Request | Other *Explain in Chart Below |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|    24 |   0  |    0 |    0 |    0 |    0 |    0 |    0 |    0 |
-|    24 |   0  |    0 |    0 |    0 |    0 |    0 |    0 |    0 |
-{: .usa-table }
-
+<div class="usa-table-container--scrollable">
+<table class="usa-table">
+  <thead>
+    <tr>
+      <th style="text-align: right">No Records</th>
+      <th style="text-align: right">All Records Referred to Another Component or Agency</th>
+      <th style="text-align: right">Request Withdrawn</th>
+      <th style="text-align: right">Fee-Related Reason</th>
+      <th style="text-align: right">Records not Reasonably Described</th>
+      <th style="text-align: right">Improper FOIA Request for Other Reason</th>
+      <th style="text-align: right">Not Agency Record</th>
+      <th style="text-align: right">Duplicate Request</th>
+      <th style="text-align: right">Other *Explain in Chart Below</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">24</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">24</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 #### (2) "Other" Reasons for "Full Denials Based on Reasons Other Than Exemptions"
 
-| Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
+| Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | Total |
 | :---               | :---: | :---: | :---: |
 | USAB               |  N/A  |   0   |   0   |
 | Agency Overall     |       |       |   0   |
@@ -138,11 +173,65 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (3) Number of Times Exemptions Applied
 
-| Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
-| :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
-| USAB               |    0  |    0  |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-| Agency Overall     |    0  |    0  |    1  |    1  |    0  |    4  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table }
+<div class="usa-table-container--scrollable">
+<table class="usa-table">
+  <thead>
+    <tr>
+      <th style="text-align: left">Agency / Component</th>
+      <th style="text-align: right">Ex. 1</th>
+      <th style="text-align: right">Ex. 2</th>
+      <th style="text-align: right">Ex. 3</th>
+      <th style="text-align: right">Ex. 4</th>
+      <th style="text-align: right">Ex. 5</th>
+      <th style="text-align: right">Ex. 6</th>
+      <th style="text-align: right">Ex. 7(A)</th>
+      <th style="text-align: right">Ex. 7(B)</th>
+      <th style="text-align: right">Ex. 7(C)</th>
+      <th style="text-align: right">Ex. 7(D)</th>
+      <th style="text-align: right">Ex. 7(E)</th>
+      <th style="text-align: right">Ex. 7(F)</th>
+      <th style="text-align: right">Ex. 8</th>
+      <th style="text-align: right">Ex. 9</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">USAB</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">4</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Agency Overall</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">4</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Section VI. Administrative Appeals Of Initial Determinations of FOIA Requests
 
@@ -156,7 +245,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### B. Disposition OF Administrative Appeals - All Processed Appeals
 
-| Agency / Component | Number Affirmed on Appeal | Number Partially Affirmed & Partially Reversed / Remanded on Appeal | Number Completely Reversed / Remanded on Appeal |Number of Appeals Closed for Other Reasons | TOTAL|
+| Agency / Component | Number Affirmed on Appeal | Number Partially Affirmed & Partially Reversed / Remanded on Appeal | Number Completely Reversed / Remanded on Appeal |Number of Appeals Closed for Other Reasons | Total|
 | :---           | ---: | ---: | ---: | ---: | ---: |
 | USAB           |   0  |   0  |   0  |   0  |   0  |
 | Agency Overall |   0  |   0  |   0  |   0  |   0  |
@@ -166,15 +255,69 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (1). Number Of Times Exemptions Applied
 
-| Agency / Component | Ex. 1 | Ex. 2 | Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
-| :---               | ---:  | ---:  | ---:  | ---:  | ---:  | ---:  | ---:     | ---:     | ---:     | ---:     | ---:     | ---:     | ---:  | ---:  |
-| USAB               |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-| Agency Overall     |    0  |    0  |    0  |    0  |    0  |    0  |    0     |    0     |    0     |    0     |    0     |    0     |    0  |    0  |
-{: .usa-table }
+<div class="usa-table-container--scrollable">
+<table class="usa-table">
+  <thead>
+    <tr>
+      <th style="text-align: left">Agency / Component</th>
+      <th style="text-align: right">Ex. 1</th>
+      <th style="text-align: right">Ex. 2</th>
+      <th style="text-align: right">Ex. 3</th>
+      <th style="text-align: right">Ex. 4</th>
+      <th style="text-align: right">Ex. 5</th>
+      <th style="text-align: right">Ex. 6</th>
+      <th style="text-align: right">Ex. 7(A)</th>
+      <th style="text-align: right">Ex. 7(B)</th>
+      <th style="text-align: right">Ex. 7(C)</th>
+      <th style="text-align: right">Ex. 7(D)</th>
+      <th style="text-align: right">Ex. 7(E)</th>
+      <th style="text-align: right">Ex. 7(F)</th>
+      <th style="text-align: right">Ex. 8</th>
+      <th style="text-align: right">Ex. 9</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">USAB</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Agency Overall</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 #### (2). Reasons Other Than Exemptions
 
-<div class="wide">
+<div class="usa-table-container--scrollable">
   <table class="usa-table">
     <colgroup>
       <col>
@@ -231,7 +374,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (3). "Other" Reasons
 
-| Agency / Component | Description of “Other” Reasons for Denial on Appeal from Chart C(2) | Number of Times “Other” Reason Was Relied Upon | TOTAL |
+| Agency / Component | Description of “Other” Reasons for Denial on Appeal from Chart C(2) | Number of Times “Other” Reason Was Relied Upon | Total |
 | :---               | :---: | :---: | :---: |
 | USAB               |  N/A  |   0   |   0   |
 | Agency Overall     |       |       |   0   |
@@ -322,7 +465,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (1). Processed Simple Requests
 
-<div class="wide">
+<div class="usa-table-container--scrollable">
   <table class="usa-table">
     <colgroup>
       <col>
@@ -367,7 +510,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
         <td> 41 </td>
       </tr>
       <tr>
-        <th scope="row">AGENCY OVERALL</th>
+        <th scope="row">Agency Overall</th>
         <td> 28 </td>
         <td> 6 </td>
         <td> 2 </td>
@@ -389,7 +532,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (2) Processed Complex Requests
 
-<div class="wide">
+<div class="usa-table-container--scrollable">
   <table class="usa-table">
     <colgroup>
       <col>
@@ -412,7 +555,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
         <th scope="col">201-300 Days</th>
         <th scope="col">301-400 Days</th>
         <th scope="col">401+ Days</th>
-        <th scope="col">TOTAL</th>
+        <th scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -434,7 +577,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
         <td> 0 </td>
       </tr>
       <tr>
-        <th scope="row"> AGENCY OVERALL </th>
+        <th scope="row"> Agency Overall </th>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
@@ -456,7 +599,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 #### (3) Processed Requests Granted Expedited Processing
 
-<div class="wide">
+<div class="usa-table-container--scrollable">
   <table class="usa-table">
     <colgroup>
       <col>
@@ -479,7 +622,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
         <th scope="col">201-300 Days</th>
         <th scope="col">301-400 Days</th>
         <th scope="col">401+ Days</th>
-        <th scope="col">TOTAL</th>
+        <th scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -501,7 +644,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
         <td> 0 </td>
       </tr>
       <tr>
-        <th scope="row"> AGENCY OVERALL </th>
+        <th scope="row"> Agency Overall </th>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
@@ -619,7 +762,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: center;"> 0.00 </td>
     </tr>
     <tr>
-      <td scope="row"> AGENCY OVERALL </td>
+      <td scope="row"> Agency Overall </td>
       <td style="text-align: center;"> 0.0000 </td>
       <td style="text-align: center;"> 0.0000 </td>
     </tr>
@@ -643,7 +786,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
-      <td scope="row"> AGENCY OVERALL </td>
+      <td scope="row"> Agency Overall </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
@@ -666,7 +809,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
-      <td scope="row">AGENCY OVERALL</td>
+      <td scope="row">Agency Overall</td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
@@ -691,7 +834,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
-      <td scope="row"> AGENCY OVERALL </td>
+      <td scope="row"> Agency Overall </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
@@ -719,7 +862,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
-      <td scope="row"> AGENCY OVERALL </td>
+      <td scope="row"> Agency Overall </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 2 </td>
       <td style="text-align: center;"> 2 </td>
