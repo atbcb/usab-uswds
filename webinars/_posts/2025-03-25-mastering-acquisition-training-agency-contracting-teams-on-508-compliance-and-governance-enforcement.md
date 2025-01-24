@@ -6,7 +6,7 @@ date: 2025-03-25
 excerpt: Learn how you can design your own accessibility vendor monitoring
   program from the group up and the most effective ways to work with vendors to
   create the best digital experience possible. This session will go over
-  everything from getting buy-in from internal stakeholders to navigating tough
+  everything from getting support from internal stakeholders to navigating
   discussions with vendors about digital accessibility. Human Generated
   Captioning and Sign Language Interpreters available. Individuals may submit
   questions in advance during the registration process. Questions will also be
@@ -20,7 +20,7 @@ webinar-end: March 25, 2025 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session?id=111156
 webinar: true
 ---
-Learn how you can design your own accessibility vendor monitoring program from the group up and the most effective ways to work with vendors to create the best digital experience possible. This session will go over everything from getting buy-in from internal stakeholders to navigating tough discussions with vendors about digital accessibility. Human Generated Captioning and Sign Language Interpreters available. Individuals may submit questions in advance during the registration process. Questions will also be taken during the live session.
+Learn how you can design your own accessibility vendor monitoring program from the group up and the most effective ways to work with vendors to create the best digital experience possible. This session will go over everything from getting support from internal stakeholders to navigating discussions with vendors about digital accessibility. Human Generated Captioning and Sign Language Interpreters available. Individuals may submit questions in advance during the registration process. Questions will also be taken during the live session.
 
 ### Continuing Education Recognition Available
 

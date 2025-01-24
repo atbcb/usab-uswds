@@ -10,7 +10,7 @@ excerpt: With great sadness, the U.S. Access Board mourns the passing of former
   Georgia, where he served from 1971 to 1975 . . .
 image: /images/uploads/jimmy-carter.webp
 image_alt_text: Official White House portrait of President Jimmy Carter.
-featured: true
+featured: false
 ---
 With great sadness, the U.S. Access Board mourns the passing of former President James Earl “Jimmy” Carter Jr., who served as the 39th President of the United States from 1977 to 1981. A native Georgian, President Carter began his public career in the Georgia State Senate, where he served for two terms from 1963 to 1967. He would later go on to be elected the 76th Governor of Georgia, where he served from 1971 to 1975.
 

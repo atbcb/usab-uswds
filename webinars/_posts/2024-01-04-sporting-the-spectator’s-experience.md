@@ -4,7 +4,7 @@ title: "Sporting: The Spectator’s Experience"
 date: 2024-01-04
 excerpt: For thousands of years, people have been gathering at stadiums to watch
   sports. The Americans with Disabilities Act (ADA) and Architectural Barriers
-  Act (ABA) Standards specify accessibility requirements to ensure inclusion for
+  Act (ABA) Standards specify accessibility requirements for
   all spectators and enabling everyone to experience one of civilization’s
   oldest pastimes. The presenters of this webinar will cover the spectator’s
   experience at sporting events from a youth soccer game to the World Cup.
@@ -27,7 +27,7 @@ webinar-end: January 4, 2024 4:00 PM
 registration-link: https://www.accessibilityonline.org/ao/session/?id=111097
 webinar: true
 ---
-For thousands of years, people have been gathering at stadiums to watch sports. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Standards specify accessibility requirements to ensure inclusion for all spectators and enabling everyone to experience one of civilization’s oldest pastimes. The presenters of this webinar will cover the spectator’s experience at sporting events from a youth soccer game to the World Cup. Seating, assistive listening systems, ticketing/concessions, and access to areas of sport activity will all be addressed. Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
+For thousands of years, people have been gathering at stadiums to watch sports. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Standards specify accessibility requirements for all spectators and enabling everyone to experience one of civilization’s oldest pastimes. The presenters of this webinar will cover the spectator’s experience at sporting events from a youth soccer game to the World Cup. Seating, assistive listening systems, ticketing/concessions, and access to areas of sport activity will all be addressed. Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
 
 ### Continuing Education Recognition Available
 

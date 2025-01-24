@@ -2,14 +2,10 @@
 layout: post
 title: U.S. Access Board Meeting and Webcast (January 29)
 date: 2024-12-23
-excerpt: All are welcome to attend the next meeting of the U.S. Access Board,
-  which will be open to the public and take place virtually on January 29 from
-  1:30 – 3:00 p.m. (ET). The agenda for the meeting includes brief reports from
-  standing and ad hoc Board committees, federal agency updates, and a report by
-  Executive Director Sachin Pavithran . . .
+excerpt: All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on January 29 from 1:30 – 3:00 p.m. (ET). The agenda for the meeting includes brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: An Access Board meeting takes place within a window on the screen of a laptop.
-featured: true
+featured: false
 ---
 All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on **January 29** from **1:30 – 3:00 p.m. (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
 
