@@ -1,24 +1,3 @@
-- title: Artificial Intelligence (AI) Preliminary Findings
-  text: "Access Board presented preliminary findings on the risks and benefits of AI on January 14, 2025."
-  image: /images/stock/hero-ict-icons.jpg
-  description: technology icons
-  linkto: /ai/
-  linktext: Learn More
-
-- title: Public Right-of-Way Accessibility Guidelines
-  text: "Access Board issues final rule on accessibility guidelines for pedestrian facilities in the public right-of-way. These guidelines address how to make pedestrian facilities, such as sidewalks, crosswalks, shared use paths, and on-street parking, accessible to people with disabilities."
-  image: /images/uploads/crosswalk-hero.png
-  description: Wheelchair user crossing the street through the crosswalk
-  linkto: /news/2023/08/08/u-s-access-board-issues-final-rule-on-public-right-of-way-accessibility-guidelines/
-  linktext: Learn More
-
-- title: Best Practices for the Design of Accessible COVID-19 Home Tests
-  text: "Access Board hosts June 2023 report on best practices for the design of accessible COVID-19 home tests. Report captures and publicizes learnings from the National Institutes of Health (NIH) RADx® Tech accessibility program. "
-  image: /images/uploads/nih-logo-radx-accessibility-icon.png
-  description: NIH Vertical Logo on the left and RADx Accessibility Icon on the right
-  linkto: /tad/radx/
-  linktext: Learn More
-
 - title: Public Events
   text: "Learn more about upcoming events and access archived event recordings of the Board."
   image: /images/stock/hero-microphone.png
