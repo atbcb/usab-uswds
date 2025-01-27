@@ -1,3 +1,10 @@
+- title: Webinars & Trainings
+  text: "Learn more about upcoming webinars and trainings, and explore archives of past sessions."
+  image: /images/stock/hero-ict-icons.jpg
+  description: technology icons
+  linkto: /webinars/
+  linktext: Learn More
+
 - title: Public Events
   text: "Learn more about upcoming events and access archived event recordings of the Board."
   image: /images/stock/hero-microphone.png
