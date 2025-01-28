@@ -6,7 +6,7 @@ permalink: /outreach/tribal-nations/
 ---
 
 ## U.S. Access Board Plans of Action
-On January 26, 2021, President Biden issued a [Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/). The Memorandum directs federal agencies to ensure that “Tribal sovereignty and self-governance, commitment to fulfilling Federal trust and treaty responsibilities to Tribal Nations, and regular, meaningful, and robust consultation with Tribal Nations are the cornerstones of Federal Indian policy.” 
+On January 26, 2021, the [Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships](https://www.federalregister.gov/documents/2021/01/29/2021-02075/tribal-consultation-and-strengthening-nation-to--nation-relationships) was published in the Federal Register. The Memorandum directs federal agencies to ensure that “Tribal sovereignty and self-governance, commitment to fulfilling Federal trust and treaty responsibilities to Tribal Nations, and regular, meaningful, and robust consultation with Tribal Nations are the cornerstones of Federal Indian policy.” 
 
 The Access Board's October 22, 2021 Progress Report included the following completed actions:
 
