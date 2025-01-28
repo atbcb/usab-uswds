@@ -87,15 +87,16 @@ If you have questions or concerns about the status or processing of your request
 
 ## FOIA Reporting
 
-- Most recent [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html)
+- [Most recent FOIA Annual Report (HTML)]({{ site.baseurl }}/about/foia-report.html)
+- [FOIA Annual Report FY 2024 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2024.pdf)
 - [FOIA Annual Report FY 2023 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2023.pdf)
 - [FOIA Annual Report FY 2022 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2022.pdf)
 - [FOIA Annual Report FY 2021 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2021.pdf)
 - [FOIA Annual Report FY 2020 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2020.pdf)
 - [FOIA Annual Report FY 2019 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2019.pdf)
-- [FOIA Annual Report FY 2018 (PDF)]({{ site.baseurl }}/usab-foia-fy2019.pdf)
-- [FOIA Annual Report FY 2017 (PDF)]({{ site.baseurl }}/usab-foia-fy2019.pdf)
+- [FOIA Annual Report FY 2018 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2018.pdf)
+- [FOIA Annual Report FY 2017 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2017.pdf)
 
 ---
 
-Updated Jan 2024
+Updated Jan 2025
