@@ -16,7 +16,7 @@ permalink: /about/policy/
 - [Information Quality]({{ site.baseurl }}/about/policy/iq.html)
 - [No FEAR Act Notice]({{ site.baseurl }}/about/policy/no-fear-notice.html)
 - [Personal Assistance Services Policy]({{ site.baseurl }}/about/policy/pas.html)
-- [Plain Language (PWA)]({ site.baseurl }}/about/policy/plain.html)
+- [Plain Language (PWA)]({{ site.baseurl }}/about/policy/plain.html)
 - [Privacy Policy and Program]({{ site.baseurl }}/about/policy/privacy.html)
 - [Reasonable Accommodation Procedures]({{ site.baseurl }}/about/policy/ra.html)
 - [Shutdown Plan]({{ site.baseurl }}/about/policy/shutdown.html)
