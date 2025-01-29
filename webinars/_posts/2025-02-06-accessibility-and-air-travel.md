@@ -1,18 +1,8 @@
 ---
 layout: post
-title: Accessibility and Air Travel
+title: POSTPONED - Accessibility and Air Travel
 date: 2025-02-06
-excerpt: Leaving on a jet plane and want to ensure an accessible experience?
-  This webinar will have you ready for departure! Join the U.S. Access Board and
-  the Federal Aviation Administration for a presentation reviewing accessibility
-  and air travel logistics starting from arrival to the airport to boarding and
-  deplaning. We will also cover the laws that pertain to airport terminals and
-  air travel, along with common access issues and solutions. So, fasten your
-  seat belts and turn off your electronic devices, your knowledge of airport
-  accessibility is about to take off! Human generated real-time captioning
-  provided along with video sign language interpreters. Participants can ask
-  questions in advance during the registration process as well as ask questions
-  during the live session.
+excerpt: This webinar has been postponed. An announcement will be made as soon as a new date has been set.
 presenters:
   - debra-martins
 tags:
@@ -24,7 +14,9 @@ webinar-end: February 6, 2025 4:00 PM
 registration-link: https://www.accessibilityonline.org/ao/session?id=111153
 webinar: true
 ---
-Leaving on a jet plane and want to ensure an accessible experience? This webinar will have you ready for departure! Join the U.S. Access Board and the Federal Aviation Administration for a presentation reviewing accessibility and air travel logistics starting from arrival to the airport to boarding and deplaning. We will also cover the laws that pertain to airport terminals and air travel, along with common access issues and solutions. So, fasten your seat belts and turn off your electronic devices, your knowledge of airport accessibility is about to take off! Human generated real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
+NOTICE: This webinar has been postponed. An announcement will be made as soon as a new date has been set.
+
+Original description: Leaving on a jet plane and want to ensure an accessible experience? This webinar will have you ready for departure! Join the U.S. Access Board and the Federal Aviation Administration for a presentation reviewing accessibility and air travel logistics starting from arrival to the airport to boarding and deplaning. We will also cover the laws that pertain to airport terminals and air travel, along with common access issues and solutions. So, fasten your seat belts and turn off your electronic devices, your knowledge of airport accessibility is about to take off! Human generated real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
 ### Continuing Education Recognition Available
 
