@@ -17,7 +17,7 @@ The Access Board takes on regulatory initiatives to develop accessibility guidel
 
 ### Electric Vehicle Charging Stations
 
-![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png){: .img-right }
+![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png){: .img-left }
 
 [Electric Vehicle Charging Stations]({{ site.baseurl }}/evse/) are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles and it is expected that the installation and use of Electric Vechicle (EV) charging stations will continue to expand.  In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making EV charging stations accessible.
 
@@ -31,7 +31,7 @@ The inability to use one’s wheelchair on airplanes makes air travel very diffi
 
 ### Artificial Intelligence
 
-![computer with branching wires]({{ site.baseurl }}/images/uploads/computer-with-wires.png){: .img-right }
+![computer with branching wires]({{ site.baseurl }}/images/uploads/computer-with-wires.png){: .img-left }
 
 Artificial intelligence (AI) has the potential to advance accessibility, but it can also create barriers for people with disabilities. The Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence tasks the Access Board with several actions to help address equity and accessibility with respect to AI. Visit the Access Board's [AI page]({{ site.baseurl }}/ai/) for more information.
 
