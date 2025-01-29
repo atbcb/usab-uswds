@@ -9,4 +9,4 @@ office: Office of Administration
 agency: ""
 director: true
 ---
-India Thomas serves as Financial Program Manager in the Office of Administration. She administers and manages the full scope of fiscal services for the agency and serves as the lead agency official in the preparation of Office of Management and Budget and Congressional Budget Justifications.
+India Thomas serves as Director of the Office of Administration at the Access Board. She is responsible for overseeing and coordinating all administrative activities of the Board, including budget management, fiscal accounting, personnel, payroll services, contracts management, procurement, information technology, travel management, space and property management, records administration, policy development, and employee services.
