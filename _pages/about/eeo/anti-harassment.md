@@ -27,7 +27,7 @@ This policy applies to all Access Board employees, public board members, former 
 
 ## 3. AUTHORITIES
 
-- [29 C.F.R. §1614](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614)
+- [29 C.F.R. §1614](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614).
 - Title VII of the Civil Rights Act ([42 U.S.C. §2000e et seq.](https://uscode.house.gov/view.xhtml?req=(title%3A42%20section%3A2000e-2%20edition%3Aprelim))).
 - Age Discrimination in Employment Act ([29 U.S.C. §621 et seq.](https://uscode.house.gov/view.xhtml?path=/prelim%40title29/chapter14&edition=prelim)).
 - Section 501 of the Rehabilitation Act ([29 U.S.C. §791.](https://www.govinfo.gov/content/pkg/USCODE-2010-title29/pdf/USCODE-2010-title29-chap16-subchapV.pdf)).
