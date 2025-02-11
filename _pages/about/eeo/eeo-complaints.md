@@ -31,7 +31,7 @@ This directive sets forth the Access Board's policies and procedures for process
 - Age Discrimination in Employment Act of 1967, § 2 et seq., as amended (codified at [29 U.S.C. § 621 et seq.](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)).
 - Americans with Disabilities Act, Titles I & V, §§ 101 through 107, 501, 503, and 510 -- 512, as amended (codified at [42 U.S.C. §§ 12101 – 12117, 12201, 12203, & 12210 -- 12212](https://www.ada.gov/pubs/adastatute08.htm)).
 - Civil Rights Act of 1964, Title VII, § 701 et seq., as amended (codified at [42 U.S.C. § 2000e](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) et seq.).
-- Genetic Information Nondiscrimination Act of 2008, Title II, §§ 201 – 213 (codified at [42 U.S.C. §§ 2000ff – 2000ff-11](https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title42-chapter21F&saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0Mi1zZWN0aW9uMjAwMGZm%7C%7C%7C0%7Cfalse%7Cprelim&edition=prelim))
+- Genetic Information Nondiscrimination Act of 2008, Title II, §§ 201 – 213 (codified at [42 U.S.C. §§ 2000ff – 2000ff-11](https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title42-chapter21F&saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0Mi1zZWN0aW9uMjAwMGZm%7C%7C%7C0%7Cfalse%7Cprelim&edition=prelim)).
 - Notification and Federal Employee Anti-discrimination and Retaliation (NOFEAR) Act of 2002, § 1(a) (codified at [5 U.S.C. § 2301 note](https://www.govinfo.gov/content/pkg/USCODE-2019-title5/pdf/USCODE-2019-title5-partIII-subpartA-chap23-sec2301.pdf)).
 - Pregnant Workers Fairness Act of 2022, [42 U.S.C. §2000gg](https://www.eeoc.gov/statutes/pregnant-workers-fairness-act).
 - Rehabilitation Act of 1973, §§ 501 and 505, as amended (codified at [29 U.S.C. §§ 791, 794a](https://www.eeoc.gov/statutes/rehabilitation-act-1973)).
@@ -43,22 +43,22 @@ This directive sets forth the Access Board's policies and procedures for process
 - Regulations to Implement the Genetic Information Nondiscrimination Act, [29 C.F.R. Part 1635](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1635?toc=1).
 - Regulations to Implement the Pregnant Workers Fairness Act, [29 C.F.R. Part 1636](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1636).
 - U.S. Equal Employment Opportunity Commission, [EEO MD-110: Federal Sector Complaint Processing Manual](https://www.eeoc.gov/federal-sector/management-directive/management-directive-110) (Revision Date: Aug. 5, 2015).
-- U.S. Equal Employment Opportunity Commission, [EEO MD-715: EEO Reporting Requirements for Federal Agencies](https://www.eeoc.gov/federal-sector/management-directive/section-717-title-vii) (Oct. 1, 2003)under the EEO laws
+- U.S. Equal Employment Opportunity Commission, [EEO MD-715: EEO Reporting Requirements for Federal Agencies](https://www.eeoc.gov/federal-sector/management-directive/section-717-title-vii) (Oct. 1, 2003) under the EEO laws.
 
 ### 3.3. ACCESS BOARD POLICIES
 
 - U.S. Access Board, _Anti-Harassment Policy_ (October 13, 2022)
 - U.S. Access Board, _Disciplinary and Adverse Actions_ (Revision: 1.1: July 26, 2018)
 
-##  4.APPLICABILITY
+##  4. APPLICABILITY
 
 This directive applies to applicants for employment with the Access Board, current Access Board employees, or former Access Board employees who believe they have been subjected to unlawful discrimination as defined by the EEO laws (including as interpreted in EEOC regulations and Supreme Court decisions) with respect to any term or condition of employment (e.g., hiring, compensation, denial of promotion, demotion, discipline, job assignments and duties). For purposes of this directive, unlawful discrimination consists of employment discrimination on the basis of race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities. Throughout this policy, references to employees include current employees, as well as applicants and former employees.
 
-## 5.POLICY
+## 5. POLICY
 
 It is the policy of the Access Board to promote equal opportunity in employment for all persons and to prohibit discrimination in employment on the basis of race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities. Complaints of unlawful discrimination shall be handled fairly and promptly in accordance with applicable legal requirements.
 
-## 6.PROCEDURES
+## 6. PROCEDURES
 
 The Access Board’s procedures for processing complaints of employment discrimination on the basis of race, color, religion, sex, national origin, age, disability, genetic information, or reprisal for protected EEO activities are set forth in this directive.
 
