@@ -91,11 +91,11 @@ Additionally, the agency will not tolerate retaliation against any employee for 
 
 ## 7. PROCEDURES
    
-### 7.1. REPORTING WORKPLACE HARASSMENT
+### 7.1. REPORTING WORKPLACE HARASSMENT.
 
 This policy provides multiple avenues through which any person to whom this policy applies may report harassing conduct. Access Board employees, supervisors, contractors, or applicants for employment who believe they have been subject to harassing conduct in the workplace, or who have observed workplace harassment, should report these incidents to any of the following agency officials: their first-line supervisor; another supervisor; the EEO Director; the General Counsel; or the Executive Director. Reports of alleged harassing conduct can be made in-person, by telephone, by an online communication platform (e.g., Microsoft Teams), or via email.
 
-### 7.2. INVESTIGATION AND INTERIM RELIEF
+### 7.2. INVESTIGATION AND INTERIM RELIEF.
 
 Supervisors or other agency officials who observe or receive reports of allegedly harassing conduct (or who themselves witness such conduct) should immediately inform the General Counsel. Upon receiving an allegation of harassing conduct, the General Counsel shall promptly:
 
@@ -168,23 +168,33 @@ Examples of types of proportionate preventive and/or corrective action for haras
 
 Appropriate corrective action, up to and including removal, shall be taken against any management official who fails to perform his/her obligations as set forth in this Policy regarding harassing conduct that the official knew or should have known about. Conversely, appropriate positive reinforcement, up to and including awards and positive feedback on performance appraisals, shall be provided to any management official who responds to harassing conduct in an exemplary manner. 7.3.4. Monitoring. After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 7.3.5. Recording. Once corrective and/or preventative action is implemented, the investigation report described in Section 7.2.9 shall be amended to describe the action taken. 7.4. INFORMING THE PARTIES. Throughout the investigative process, the General Counsel shall be the point of contact for the alleged victim and alleged harasser regarding the status of the investigation. Once complete, the alleged victim and alleged harasser shall be informed of the outcome of the investigation, in writing, along with any corrective or preventative action taken.
 
+#### 7.3.4. Monitoring.
+
+After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 
+
+#### 7.3.5. Recording.
+
+Once corrective and/or preventative action is implemented, the investigation report described in Section 7.2.9 shall be amended to describe the action taken.
+
+### 7.4. INFORMING THE PARTIES.
+
+Throughout the investigative process, the General Counsel shall be the point of contact for the alleged victim and alleged harasser regarding the status of the investigation. Once complete, the alleged victim and alleged harasser shall be informed of the outcome of the investigation, in writing, along with any corrective or preventative action taken.
+
 ## 8. CONFIDENTIALITY, RECORDKEEPING, AND OTHER ADMINISTRATIVE MATTERS
 
-### 8.1. CONFIDENTIALITY AND PRIVACY
+### 8.1. CONFIDENTIALITY AND PRIVACY.
 
 Information related to incidents of alleged workplace harassment or retaliation covered by this Policy (i.e., reported incidents of harassing conduct, investigative reports, witness interviews, corrective or disciplinary action) must remain confidential to the greatest extent possible, except as necessary to: conduct a fair and thorough investigation and carry out related procedures specified in this Policy; defend the agency in administrative or legal proceedings in which the information may be relevant; or comply with federal law or regulation.
 
-### 8.2. INFORMING THE PARTIES
+### 8.2. INFORMING THE PARTIES.
 
 Upon completion of the investigation, the General Counsel should inform the parties, in writing, of the determination and any corrective action that will be taken.
 
-### 8.3. RECORDKEEPING
+### 8.3. RECORDKEEPING.
 
-Reports of alleged workplace harassment and any related documents must be maintained in a secure manner using appropriate physical controls (e.g., locked file cabinet) or administrative controls (e.g., password protection, limited access network or file location) to ensure confidentiality and privacy.
+Reports of alleged workplace harassment and any related documents must be maintained in a secure manner using appropriate physical controls (e.g., locked file cabinet) or administrative controls (e.g., password protection, limited access network or file location) to ensure confidentiality and privacy. Records shall be retained by the Office of General Counsel pursuant to applicable Access Board or National Archives and Records Administration retention schedule(s).
 
-Records shall be retained by the Office of General Counsel pursuant to applicable Access Board or National Archives and Records Administration retention schedule(s).
-
-### 8.4. POLICY DISSEMINATION AND TRAINING
+### 8.4. POLICY DISSEMINATION AND TRAINING.
 
 Copies of this policy shall be distributed to all Access Board staff and posted on the Access Board SharePoint/Teams Folder for Policies. Agency staff shall also receive anti-harassment training appropriately tailored to their roles and responsibilities under this Policy. The agency shall provide such initial training for new employees and board members within 90 days of onboarding. The agency shall also provide recurring training periodically, but not less than every two years.
 
@@ -192,10 +202,7 @@ Copies of this policy shall be distributed to all Access Board staff and posted 
 
 This Anti-Harassment Policy is intended to supplement, not replace or supersede, other complaint processes that permit employees to pursue complaints of alleged harassment. As such, the procedures in this Policy are separate and apart from the Equal Employment Opportunity (EEO) complaint process, the Merit Systems Protection Board (MSPB) appeal process, or any other statutory complaint process that provides remedial relief for allegations of harassment that violate federal law. Further, because the purpose of this policy is to prevent and correct harassing conduct before it becomes severe or pervasive, any supervisor who is notified of an allegation of harassment must follow the procedures set forth in this Policy, even if the complaining employee also files an EEO complaint, an MSPB appeal, or other like charge regarding the alleged incident. The Access Board’s liability for alleged harassment may depend on how quickly and thoroughly it addresses the (mis)conduct of which it becomes aware.
 
-Reporting harassment under this policy does not satisfy or delay the applicable time limits for initiating an EEO complaint, an MSPB appeal, or other statutory complaint process. For example, in the case of an EEO complaint, an employee who has made a report of harassment under this Policy, but also
-wishes to pursue a claim of discriminatory harassment through the EEO process, must also contact an EEO
-
-counselor within 45 days of the most recent incident of alleged harassment or personnel action, if applicable. For more information on how to file an EEO complaint, see the USAB EEO Policies and Procedures.
+Reporting harassment under this policy does not satisfy or delay the applicable time limits for initiating an EEO complaint, an MSPB appeal, or other statutory complaint process. For example, in the case of an EEO complaint, an employee who has made a report of harassment under this Policy, but also wishes to pursue a claim of discriminatory harassment through the EEO process, must also contact an EEO counselor within 45 days of the most recent incident of alleged harassment or personnel action, if applicable. For more information on how to file an EEO complaint, see the USAB EEO Policies and Procedures.
 
 ## 10. APPROVALS
 
@@ -212,10 +219,6 @@ Equal Employment Opportunity Director \
 Sachin Pavithran \
 Executive Director \
 / s / &nbsp; Date: 2/11/25
-
-## 9. REVISION HISTORY
-
-The “Revision History” table below should be used to capture revisions or updates to this EEO Complaint Procedures directive. All columns are mandatory.
 
 | Date    | Revision Summary | Version <br /> Number | Author / Owner Name
 | :---    | :---             | :---:               | :---
