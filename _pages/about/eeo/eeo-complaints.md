@@ -12,40 +12,43 @@ file-description: PDF version of USAB EEO Complaint Procedures
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; February 12, 2024 \
-Version:&nbsp; Version 2.01
+Approval Date:&nbsp; February 10, 2025 \
+Version:&nbsp; Version 2.1
 
 ## 1. INTRODUCTION
 
-This is a reissuance of the Access Board’s Employment Discrimination Complaints directive, which was originally issued in April 1993 and subsequently revised in July 1997.  These Procedures are being reissued to (1) conform with updated legal requirements for federal agencies’ respective equal employment opportunity (EEO) programs (including a provision relating to alternative dispute resolution), (2) ensure that the Procedures reflect current agency complaint-handling processes, and (3) modify the section numbering so that it is consistent with current formatting conventions for agency policies.
+This is a revision of the Access Board’s Employment Discrimination Complaints directive, which was originally issued in April 1993, subsequently revised in July 1997, and re-issued in October 2022. Slight revisions have been made to the October 2022 version of the procedures to reflect (1) enactment of the Pregnant Workers Fairness Act (PWFA) of 2022; (2) issuance by the U.S. Equal Employment Opportunity Commission (EEOC) of regulations to implement the PWFA; (3) addition of a citation, in the “Authorities” section, to the regulations implementing Title II of the Genetic Information Nondiscrimination Act; (4) conformance with recently issued executive orders; and (5) substitution of Dru Gordon, Chief of Staff to the Executive Director, as the Access Board’s EEO Director.
 
 ## 2. PURPOSE
 
-This directive sets forth the Access Board's policies and procedures for processing complaints by agency employees, or applicants for employment, related to allegations of unlawful employment discrimination on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities.
+This directive sets forth the Access Board's policies and procedures for processing complaints by agency employees, or applicants for employment, related to allegations of unlawful employment discrimination on the basis of race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities.
 
 ## 3. AUTHORITIES
 
 ### 3.1. STATUTES
 
-- Administrative Dispute Resolution Act of 1996, as amended (codified at 5 U.S.C. §§ 571 - 84).
-- Age Discrimination in Employment Act of 1967, § 2 et seq., as amended (codified at 29 U.S.C. §621 et seq.).
-- Americans with Disabilities Act, Titles I & V, §§ 101 through 107, 501, 503, and 510 -- 512, asamended (codified at 42 U.S.C. §§ 12101 – 12117, 12201, 12203, & 12210 -- 12212).
-- Civil Rights Act of 1964, Title VII, § 701 et seq., as amended (codified at 42 U.S.C. § 2000e etseq.).
-- Genetic Information Nondiscrimination Act of 2008, Title II, §§ 201 – 213 (codified at 42 U.S.C.§§2000ff – 2000ff-11)
-- Notification and Federal Employee Anti-discrimination and Retaliation (NOFEAR) Act of 2002,§1(a) (codified at 5 U.S.C. § 2301 note).
-- Rehabilitation Act of 1973, §§ 501 and 505, as amended (codified at 29 U.S.C. §§ 791, 794a).
+- Administrative Dispute Resolution Act of 1996, as amended (codified at [5 U.S.C. §§ 571 - 84](https://www.adr.gov/pdf/adra.pdf)).
+- Age Discrimination in Employment Act of 1967, § 2 et seq., as amended (codified at [29 U.S.C. § 621 et seq.](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)).
+- Americans with Disabilities Act, Titles I & V, §§ 101 through 107, 501, 503, and 510 -- 512, as amended (codified at [42 U.S.C. §§ 12101 – 12117, 12201, 12203, & 12210 -- 12212](https://www.ada.gov/pubs/adastatute08.htm)).
+- Civil Rights Act of 1964, Title VII, § 701 et seq., as amended (codified at [42 U.S.C. § 2000e](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) et seq.).
+- Genetic Information Nondiscrimination Act of 2008, Title II, §§ 201 – 213 (codified at [42 U.S.C. §§ 2000ff – 2000ff-11](https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title42-chapter21F&saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0Mi1zZWN0aW9uMjAwMGZm%7C%7C%7C0%7Cfalse%7Cprelim&edition=prelim))
+- Notification and Federal Employee Anti-discrimination and Retaliation (NOFEAR) Act of 2002, § 1(a) (codified at [5 U.S.C. § 2301 note](https://www.govinfo.gov/content/pkg/USCODE-2019-title5/pdf/USCODE-2019-title5-partIII-subpartA-chap23-sec2301.pdf)).
+- Pregnant Workers Fairness Act of 2022, [42 U.S.C. §2000gg](https://www.eeoc.gov/statutes/pregnant-workers-fairness-act).
+- Rehabilitation Act of 1973, §§ 501 and 505, as amended (codified at [29 U.S.C. §§ 791, 794a](https://www.eeoc.gov/statutes/rehabilitation-act-1973)).
 
 ### 3.2. REGULATIONS AND GUIDANCE
 
-- Federal Sector Equal Employment Opportunity, 29 C.F.R. Part 1614.
-- Regulations to Implement the Equal Employment Provisions of the Americans with DisabilitiesAct, 29 C.F.R. Part 1630.
-- U.S. Equal Employment Opportunity Commission, EEO MD-110: Federal Sector ComplaintProcessing Manual (Revision Date: Aug. 5, 2015).
-- U.S. Equal Employment Opportunity Commission, EEO MD-715: EEO Reporting Requirementsfor Federal Agencies (Oct. 1, 2003)
+- Federal Sector Equal Employment Opportunity, [29 C.F.R. Part 1614](https://www.govinfo.gov/content/pkg/CFR-2020-title29-vol4/pdf/CFR-2020-title29-vol4-part1614.pdf).
+- Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act, [29 C.F.R. Part 1630](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630?toc=1).
+- Regulations to Implement the Genetic Information Nondiscrimination Act, [29 C.F.R. Part 1635](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1635?toc=1).
+- Regulations to Implement the Pregnant Workers Fairness Act, [29 C.F.R. Part 1636](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1636).
+- U.S. Equal Employment Opportunity Commission, [EEO MD-110: Federal Sector Complaint Processing Manual](https://www.eeoc.gov/federal-sector/management-directive/management-directive-110) (Revision Date: Aug. 5, 2015).
+- U.S. Equal Employment Opportunity Commission, [EEO MD-715: EEO Reporting Requirements for Federal Agencies](https://www.eeoc.gov/federal-sector/management-directive/section-717-title-vii) (Oct. 1, 2003)under the EEO laws
 
 ### 3.3. ACCESS BOARD POLICIES
 
-- U.S. Access Board, _Anti-Harassment Policy_ (October 13, 2022)
-- U.S. Access Board, _Disciplinary and Adverse Actions_ (Revision: 1.1: July 26, 2018)
+- U.S. Access Board, Anti-Harassment Policy (October 13, 2022)
+- U.S. Access Board, Disciplinary and Adverse Actions (Revision: 1.1: July 26, 2018)
 
 ##  4.APPLICABILITY
 
