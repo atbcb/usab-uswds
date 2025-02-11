@@ -10,7 +10,9 @@ permalink: /about/policy/
 
 - [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html)
 - [Affirmative Action Plan]({{ site.baseurl }}/about/aap.html)
+- [Anti-Harassment Policy]({{ site.baseurl }}/about/anti-harassment.html)
 - [Equal Employment Opportunity Policy Statement]({{ site.baseurl }}/about/eeo-policy.html)
+- [Equal Employment Opportunity Complaint Procedures]({{ site.baseurl }}/about/eeo-complaints.html)
 - [Fragrance-Free Environment]({{ site.baseurl }}/about/policy/ffe.html)
 - [Freedom of Information Act (FOIA)]({{ site.baseurl }}/about/policy/foia.html)
 - [Information Quality]({{ site.baseurl }}/about/policy/iq.html)
