@@ -12,54 +12,55 @@ file-description: PDF version of USAB EEO Complaint Procedures
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; February 12, 2024 \
-Version:&nbsp; Version 2.01
+Approval Date:&nbsp; February 10, 2025 \
+Version:&nbsp; Version 2.1
 
 ## 1. INTRODUCTION
 
-This is a reissuance of the Access Board’s Employment Discrimination Complaints directive, which was originally issued in April 1993 and subsequently revised in July 1997.  These Procedures are being reissued to (1) conform with updated legal requirements for federal agencies’ respective equal employment opportunity (EEO) programs (including a provision relating to alternative dispute resolution), (2) ensure that the Procedures reflect current agency complaint-handling processes, and (3) modify the section numbering so that it is consistent with current formatting conventions for agency policies.
+This is a revision of the Access Board’s Employment Discrimination Complaints directive, which was originally issued in April 1993, subsequently revised in July 1997, and re-issued in October 2022. Slight revisions have been made to the October 2022 version of the procedures to reflect (1) enactment of the Pregnant Workers Fairness Act (PWFA) of 2022; (2) issuance by the U.S. Equal Employment Opportunity Commission (EEOC) of regulations to implement the PWFA; (3) addition of a citation, in the “Authorities” section, to the regulations implementing Title II of the Genetic Information Nondiscrimination Act; (4) conformance with recently issued executive orders; and (5) substitution of Dru Gordon, Chief of Staff to the Executive Director, as the Access Board’s EEO Director.
 
 ## 2. PURPOSE
 
-This directive sets forth the Access Board's policies and procedures for processing complaints by agency employees, or applicants for employment, related to allegations of unlawful employment discrimination on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities.
+This directive sets forth the Access Board's policies and procedures for processing complaints by agency employees, or applicants for employment, related to allegations of unlawful employment discrimination on the basis of race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities.
 
 ## 3. AUTHORITIES
 
 ### 3.1. STATUTES
 
-- Administrative Dispute Resolution Act of 1996, as amended (codified at 5 U.S.C. §§ 571 - 84).
-- Age Discrimination in Employment Act of 1967, § 2 et seq., as amended (codified at 29 U.S.C. §621 et seq.).
-- Americans with Disabilities Act, Titles I & V, §§ 101 through 107, 501, 503, and 510 -- 512, asamended (codified at 42 U.S.C. §§ 12101 – 12117, 12201, 12203, & 12210 -- 12212).
-- Civil Rights Act of 1964, Title VII, § 701 et seq., as amended (codified at 42 U.S.C. § 2000e etseq.).
-- Genetic Information Nondiscrimination Act of 2008, Title II, §§ 201 – 213 (codified at 42 U.S.C.§§2000ff – 2000ff-11)
-- Notification and Federal Employee Anti-discrimination and Retaliation (NOFEAR) Act of 2002,§1(a) (codified at 5 U.S.C. § 2301 note).
-- Rehabilitation Act of 1973, §§ 501 and 505, as amended (codified at 29 U.S.C. §§ 791, 794a).
+- Administrative Dispute Resolution Act of 1996, as amended (codified at [5 U.S.C. §§ 571 - 84](https://www.adr.gov/pdf/adra.pdf)).
+- Age Discrimination in Employment Act of 1967, § 2 et seq., as amended (codified at [29 U.S.C. § 621 et seq.](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)).
+- Americans with Disabilities Act, Titles I & V, §§ 101 through 107, 501, 503, and 510 -- 512, as amended (codified at [42 U.S.C. §§ 12101 – 12117, 12201, 12203, & 12210 -- 12212](https://www.ada.gov/pubs/adastatute08.htm)).
+- Civil Rights Act of 1964, Title VII, § 701 et seq., as amended (codified at [42 U.S.C. § 2000e](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) et seq.).
+- Genetic Information Nondiscrimination Act of 2008, Title II, §§ 201 – 213 (codified at [42 U.S.C. §§ 2000ff – 2000ff-11](https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title42-chapter21F&saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0Mi1zZWN0aW9uMjAwMGZm%7C%7C%7C0%7Cfalse%7Cprelim&edition=prelim)).
+- Notification and Federal Employee Anti-discrimination and Retaliation (NOFEAR) Act of 2002, § 1(a) (codified at [5 U.S.C. § 2301 note](https://www.govinfo.gov/content/pkg/USCODE-2019-title5/pdf/USCODE-2019-title5-partIII-subpartA-chap23-sec2301.pdf)).
+- Pregnant Workers Fairness Act of 2022, [42 U.S.C. §2000gg](https://www.eeoc.gov/statutes/pregnant-workers-fairness-act).
+- Rehabilitation Act of 1973, §§ 501 and 505, as amended (codified at [29 U.S.C. §§ 791, 794a](https://www.eeoc.gov/statutes/rehabilitation-act-1973)).
 
 ### 3.2. REGULATIONS AND GUIDANCE
 
-- Federal Sector Equal Employment Opportunity, 29 C.F.R. Part 1614.
-- Regulations to Implement the Equal Employment Provisions of the Americans with DisabilitiesAct, 29 C.F.R. Part 1630.
-- U.S. Equal Employment Opportunity Commission, EEO MD-110: Federal Sector ComplaintProcessing Manual (Revision Date: Aug. 5, 2015).
-- U.S. Equal Employment Opportunity Commission, EEO MD-715: EEO Reporting Requirementsfor Federal Agencies (Oct. 1, 2003)
+- Federal Sector Equal Employment Opportunity, [29 C.F.R. Part 1614](https://www.govinfo.gov/content/pkg/CFR-2020-title29-vol4/pdf/CFR-2020-title29-vol4-part1614.pdf).
+- Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act, [29 C.F.R. Part 1630](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630?toc=1).
+- Regulations to Implement the Genetic Information Nondiscrimination Act, [29 C.F.R. Part 1635](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1635?toc=1).
+- Regulations to Implement the Pregnant Workers Fairness Act, [29 C.F.R. Part 1636](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1636).
+- U.S. Equal Employment Opportunity Commission, [EEO MD-110: Federal Sector Complaint Processing Manual](https://www.eeoc.gov/federal-sector/management-directive/management-directive-110) (Revision Date: Aug. 5, 2015).
+- U.S. Equal Employment Opportunity Commission, [EEO MD-715: EEO Reporting Requirements for Federal Agencies](https://www.eeoc.gov/federal-sector/management-directive/section-717-title-vii) (Oct. 1, 2003) under the EEO laws.
 
 ### 3.3. ACCESS BOARD POLICIES
 
 - U.S. Access Board, _Anti-Harassment Policy_ (October 13, 2022)
 - U.S. Access Board, _Disciplinary and Adverse Actions_ (Revision: 1.1: July 26, 2018)
 
-##  4.APPLICABILITY
+##  4. APPLICABILITY
 
-This directive applies to applicants for employment with the Access Board, current Access Board employees, or former Access Board employees who believe they have been subjected to unlawful discrimination with respect to any term or condition of employment (e.g., hiring, compensation, denial of promotion, demotion, discipline, job assignments and duties). For purposes of this directive, unlawful discrimination consists of employment discrimination on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities. Throughout this policy, references to employees include current employees, as well as applicants and former employees.
+This directive applies to applicants for employment with the Access Board, current Access Board employees, or former Access Board employees who believe they have been subjected to unlawful discrimination as defined by the EEO laws (including as interpreted in EEOC regulations and Supreme Court decisions) with respect to any term or condition of employment (e.g., hiring, compensation, denial of promotion, demotion, discipline, job assignments and duties). For purposes of this directive, unlawful discrimination consists of employment discrimination on the basis of race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities. Throughout this policy, references to employees include current employees, as well as applicants and former employees.
 
-## 5.POLICY
+## 5. POLICY
 
-It is the policy of the Access Board to promote equal opportunity in employment for all persons and to prohibit discrimination in employment on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities. Complaints of unlawful discrimination shall be handled fairly and promptly in accordance with applicable legal requirements.
+It is the policy of the Access Board to promote equal opportunity in employment for all persons and to prohibit discrimination in employment on the basis of race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), or reprisal for protected EEO activities. Complaints of unlawful discrimination shall be handled fairly and promptly in accordance with applicable legal requirements.
 
-## 6.PROCEDURES
+## 6. PROCEDURES
 
 The Access Board’s procedures for processing complaints of employment discrimination on the basis of race, color, religion, sex, national origin, age, disability, genetic information, or reprisal for protected EEO activities are set forth in this directive.
-USAB EEO Complaint Procedures
-October 13, 2022 (Version 2.0) 3
 
 ### 6.1. GENERAL
 
@@ -69,7 +70,7 @@ Complaints of employment discrimination in violation of the EEO Laws shall be pr
 
 #### 6.2.1. EEO Director
 
-The Chief of Staff serves as EEO Director.  However, if the complaint contains allegations against the EEO Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
+The Director of the Office of Technical and Information Services (OTIS) serves as EEO Director. However, if the complaint contains allegations against the OTIS Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
 
 #### 6.2.2. EEO Counselor, EEO Officer, and EEO Investigator
 
@@ -79,25 +80,26 @@ The Access Board contracts with trained, neutral third parties (i.e., other fede
 
 #### 6.3.1. Initiation of EEO Counselling
 
-The EEO process begins when an individual claiming to have been aggrieved, contacts an EEO Counselor. The employee must consult with an EEO Counselor prior to filing a complaint, to try to informally resolve the matter. The aggrieved person must contact an EEO Counselor within 45 days of the date of the incident alleged to be discriminatory (or in the case of a personnel action, within 45 days of the effective date of the action), unless the time period is extended in accordance with 29 C.F.R. § 1614.105(a)(2). Contact can be effectuated by contacting a person in the agency logically connected to the EEO Process and exhibiting intent to file an EEO complaint. The Access Board has contracted with the United States Postal Service’s (USPS) National EEO Investigative Services office to provide agency-wide EEO services. To initiate EEO counseling employees should contact Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813) 739-2028.
+The EEO process begins when an individual claiming to have been aggrieved, contacts an EEO Counselor. The employee must consult with an EEO Counselor prior to filing a complaint, to try to informally resolve the matter. The aggrieved person must contact an EEO Counselor within 45 days of the date of the incident alleged to be discriminatory (or in the case of a personnel action, within 45 days of the effective date of the action), unless the time period is extended in accordance with 29 C.F.R. § 1614.105(a)(2). Contact can be effectuated by contacting a person in the agency logically connected to the EEO Process and exhibiting intent to file an EEO complaint. The Access Board has contracted with the United States Postal Service’s (USPS) National EEO Investigative Services office to provide agency-wide EEO services. To initiate EEO counseling employees should contact Janine Lewis, EEO Services Analyst, [janine.h.lewis@usps.gov](mailto:janine.h.lewis@usps.gov) or (813) 739-2028.
 
 #### 6.3.2. EEO Counseling Process
 
-The EEO Counselor must provide counseling in accordance with 29 C.F.R. § 1614.105 and EEO-MD-110, which includes: (1) advising the employee about the EEO complaint process; (2) determining the claim(s) and base(s) raised by the employee; (3) conducting a limited inquiry during the initial interview with the employee to resolve jurisdictional questions; (4) seeking to resolve the employment dispute at the lowest possible level, unless the agency offers EEO ADR and the employee agrees to participate in the EEO ADR program; (5) advising the employee of the right to file a formal complaint if the dispute is not resolved through EEO counseling or EEO ADR; (6) preparing an EEO counseling report; and (7) advising the employee that the employee’s identity will not be revealed unless the employee authorizes such disclosure or a formal complaint is filed with the agency.
+The EEO Counselor must provide counseling in accordance with 29 C.F.R. § 1614.105 and EEO-MD- 110, which includes: (1) advising the employee about the EEO complaint process; (2) determining the claim(s) and base(s) raised by the employee; (3) conducting a limited inquiry during the initial interview with the employee to resolve jurisdictional questions; (4) seeking to resolve the employment dispute at the lowest possible level, unless the agency offers EEO ADR and the employee agrees to participate in the EEO ADR program; (5) advising the employee of the right to file a formal complaint if the dispute is not resolved through EEO counseling or EEO ADR; (6) preparing an EEO counseling report; and (7) advising the employee that the employee’s identity will not be revealed unless the employee authorizes such disclosure or a formal complaint is filed with the agency.
 
 Absent extension, the EEO counseling period lasts 30 days. The EEO Counselor must conduct a final interview with the aggrieved employee within 30 days of the date on which the employee contacted the agency’s EEO office to request counseling. Any agreement to extend the counseling period must be approved by both parties in writing and specify an additional period of no more than 60 days.
 
 #### 6.3.3. EEO Alternative Dispute Resolution (ADR) Program
 
-At the initial counseling session, the EEO Counselor must inquire whether the employee is interested in participating in the Access Board’s EEO ADR program. If so, then within a reasonable time, the Access Board will decide whether it will offer EEO ADR to the employee. The Access Board’s EEO ADR process is administered by the neutral third-party contracted to provide EEO services. An employee who is offered EEO ADR must decide whether to proceed with the EEO ADR or with EEO Counseling. Once an employee elects EEO ADR, the EEO Counselor must complete the intake functions of counseling and refer the case to the EEO ADR process.  Once the intake functions are complete, the EEO Counselor ceases involvement with the matter until the EEO ADR process is complete.
+At the initial counseling session, the EEO Counselor must inquire whether the employee is interested in participating in the Access Board’s EEO ADR program. If so, then within a reasonable time, the Access Board will decide whether it will offer EEO ADR to the employee. The Access Board’s EEO ADR process is administered by the neutral third-party contracted to provide EEO services. An employee who is offered EEO ADR must decide whether to proceed with the EEO ADR or with EEO Counseling. Once an employee elects EEO ADR, the EEO Counselor must complete the intake functions of counseling and refer the case to the EEO ADR process. Once the intake functions are complete, the EEO Counselor ceases involvement with the matter until the EEO ADR process is complete.
 
-If the EEO ADR is successful, the EEO Counselor shall follow the process for informal resolution.  (_See_ [section 6.3.4](#ir) below).  If the EEO ADR is unsuccessful or the employee withdraws, the EEO Counselor must provide the employee with the final interview and Notice of Right to File a Formal Complaint. (_See_ [section 6.4](#formal) below).  In addition, the EEO Counselor must prepare the EEO Counselor’s Report and note that the parties attempted EEO ADR, but not reveal any other information about the EEO ADR process.
+If the EEO ADR is successful, the EEO Counselor shall follow the process for informal resolution. (_See_ section 6.3.5 below). If the EEO ADR is unsuccessful or the employee withdraws, the EEO Counselor must provide the employee with the final interview and Notice of Right to File a Formal Complaint. (_See_ section 6.3.5 below). In addition, the EEO Counselor must prepare the EEO Counselor’s Report and note that the parties attempted EEO ADR, but not reveal any other information about the EEO ADR process.
 
-#### 6.3.4. Conclusion of Counseling Period: Informal Resolution or Notice of Rights {#ir}
+#### 6.3.4. Conclusion of Counseling Period: Informal Resolution or Notice of Rights
 
-When a dispute is informally resolved during the EEO counseling process or EEO ADR, the parties’ agreement shall be reduced to writing. This written document must, at minimum, specify the agreed-upon terms, clearly identify the claims resolved, and be signed by both parties (i.e., Access Board and complainant). The EEO Counselor, with the knowledge and guidance of the agency’s EEO Director, should set forth the agreed-upon terms of the parties’ informal resolution in a settlement agreement transmitted to both parties. The EEO Counselor shall transmit a signed and dated copy of the settlement agreement to the EEO Director.
+When a dispute is informally resolved during the EEO counseling process or EEO ADR, the parties’ agreement shall be reduced to writing. This written document must, at minimum, specify the agreed- upon terms, clearly identify the claims resolved, and be signed by both parties (i.e., Access Board and complainant). The EEO Counselor, with the knowledge and guidance of the agency’s EEO Director, should set forth the agreed-upon terms of the parties’ informal resolution in a settlement agreement transmitted to both parties. The EEO Counselor shall transmit a signed and dated copy of the settlement agreement to the EEO Director.
 
-For any matter not informally resolved during the counseling period, the EEO Counselor must hold a final interview with the employee and issue a notice of the right to pursue the claim further through the formal complaint process. Unless the counseling has been extended by written agreement, the EEO Counselor must conduct the final interview and issue a “Notice of Right to File a Discrimination Complaint” within 30 days of the date the employee contacted an EEO Counselor or effectuated contact by contacting a person in the agency logically connected to the EEO Process and exhibiting intent to file an EEO complaint. When the counseling period has been extended, the EEO Counselor is required to take these same actions prior to the expiration of the extended counseling period. If the parties are participating in EEO ADR, the final interview must be conducted, and Notice of Right to File a Discrimination Complaint must be provided, within 90 days of the date of contact with an EEO Counselor.
+For any matter not informally resolved during the counseling period, the EEO Counselor must hold a final interview with the employee and issue a notice of the right to pursue the claim further through the formal complaint process. Unless the counseling has been extended by written agreement, the EEO Counselor must conduct the final interview and issue a “Notice of Right to File a Discrimination Complaint” within 30 days of the date the employee contacted an EEO Counselor or effectuated contact by contacting a person in the agency logically connected to the EEO Process and exhibiting intent to file an EEO complaint. When the counseling period has been extended, the EEO Counselor is required to take these same actions prior to the expiration of the extended counseling period. If the parties are participating in EEO ADR, the final interview must be conducted and Notice of Right to File a Discrimination Complaint must be provided, within 90 days of the date of contact with an EEO Counselor.
+
 The Notice of Right to File a Discrimination Complaint must be in writing and must inform the complainant of: the right, within 15 days of receipt of the notice, to file a discrimination complaint; who to file the complaint with; the duty of an employee who retains counsel or a representative to inform the agency immediately; and the complainant’s duty to inform the agency of a change of address during the pendency of the EEO process.
 
 #### 6.3.5. Confidentiality During EEO Counseling
@@ -120,7 +122,7 @@ After receiving notice that a formal complaint has been filed, the EEO Counselor
 
 #### 6.4.4. Agency Acceptance Letter
 
-Within a reasonable time after receipt of the EEO Counselor’s report, the Access Board (through USPS National EEO Investigative Services) shall send the complainant a second letter (acceptance letter) setting forth the discrimination claim(s) asserted and the claim(s) to be investigated. If some of the asserted claims will not be investigated, the acceptance letter must explain the reason, including whether the Access Board is dismissing a portion of the complaint. Since partial dismissals are not subject to immediate appeal, the letter should inform the complainant that once the investigation has been completed and the complainant has either requested a hearing before an EEOC Administrative Judge or an immediate agency decision pursuant to [section 6.5.4](#immediate) below, the partial dismissal may be reviewed by the Administrative Judge (if a hearing has been requested) or by the EEOC on appeal of the final agency decision or action. For additional discussion of, or guidance on, partial dismissals, see 29 C.F.R. § 1614.107(b) and EEO-MD-110, Chapter 5, Section IV.
+Within a reasonable time after receipt of the EEO Counselor’s report, the Access Board (through USPS National EEO Investigative Services) shall send the complainant a second letter (acceptance letter) setting forth the discrimination claim(s) asserted and the claim(s) to be investigated. If some of the asserted claims will not be investigated, the acceptance letter must explain the reason, including whether the Access Board is dismissing a portion of the complaint. Since partial dismissals are not subject to immediate appeal, the letter should inform the complainant that once the investigation has been completed and the complainant has either requested a hearing before an EEOC Administrative Judge or an immediate agency decision pursuant to section 6.5.4 below, the partial dismissal may be reviewed by the Administrative Judge (if a hearing has been requested) or by the EEOC on appeal of the final agency decision or action. For additional discussion of, or guidance on, partial dismissals, _see_ 29 C.F.R. § 1614.107(b) and EEO-MD-110, Chapter 5, Section IV.
 
 #### 6.4.5. Provision of Other Information and Notice of Rights
 
@@ -146,7 +148,7 @@ Absent written extension of the parties or complaint amendment, investigations m
 
 #### 6.5.4. Provision of Investigation File and Notification of Complainant Rights {#immediate}
 
-Upon completion of the investigation, the EEO Investigator shall provide the EEO Director with a copy of the investigative file and summary within 180 days of the filing of a complaint, unless the complaint has been amended or there has been a written agreement to extend the investigation period, in which case the time frames specified in 29 C.F.R. § 1614.108(f) apply. The EEO Director or USPS National EEO Investigative Services shall provide copies of the investigative file and summary to both the Access Board and complainant, along with notification to the complainant of the right to request a hearing before an Administrative Judge (as discussed in [section 6.6](#judge) below) or an immediate final decision from the agency (as discussed in [section 6.7](#fad) below).
+Upon completion of the investigation, the EEO Investigator shall provide the EEO Director with a copy of the investigative file and summary within 180 days of the filing of a complaint, unless the complaint has been amended or there has been a written agreement to extend the investigation period, in which case the time frames specified in 29 C.F.R. § 1614.108(f) apply. The EEO Director or USPS National EEO Investigative Services shall provide copies of the investigative file and summary to both the Access Board and complainant, along with notification to the complainant of the right to request a hearing before an Administrative Judge (as discussed in section 6.6 below) or an immediate final decision from the agency (as discussed in section 6.7 below).
 
 ### 6.6. HEARING BEFORE AN ADMINISTRATIVE JUDGE {#judge}
 
@@ -177,7 +179,7 @@ The Executive Director shall issue the final agency order, unless the complaint 
 The Access Board will issue a final decision, including appropriate relief where discrimination is found, within 60 days of any of the following events:
 
 - The Access Board receives notice that the complainant requests an immediate final decision; or
-- The 30-day period for the Complainant to reply to the notice providing the right to either request a hearing or an immediate final decision has ended, and the complainant has failed to respond. (_See_ [section 6.5.4](#immediate) above and 29 C.F.R. §1614.108(f)).
+- The 30-day period for the Complainant to reply to the notice providing the right to either request a hearing or an immediate final decision has ended, and the complainant has failed to respond. (_See_ section 6.5.4 above and 29 C.F.R. §1614.108(f)).
 
 The Access Board’s final decision shall consist of findings on the merits of each issue in the complaint, or the rationale for dismissing any of the claims from the complaint and, when discrimination is found, appropriate remedies and relief in accordance with Subpart E of 29 C.F.R §1614. The final decision shall include a notice of the right to appeal the decision to the EEOC or to file a civil action in Federal district court, and the other information required by 29 C.F.R. § 1614.110.
 
@@ -209,7 +211,7 @@ The Access Board will not retaliate against any employee for asserting EEO right
 
 A complainant has the right to be accompanied, represented, and advised by a person of the complainant’s choice, unless the designated representative is an Access Board employee whose representational services would (a) pose a conflict of interest or position, or (b) unduly compromise agency priorities or interests. Representative designations must be made in writing and submitted to an Access Board EEO Officer. Absent unusual circumstances, employees must use the Access Board’s “Personal Representative Designation” form (USAB Form PER-02). Copies of this form are available on the USAB shared network, as well as from the Offices of Administration and General Counsel. This form contains all the needed information, authorizations, and signatures for representative designations.
 
-Representatives, in any event, may only access case files and other privacy-protected information once appropriate written consent has been submitted by the employee.
+Representatives, in any event, may only access case files and other privacy-protected information once appropriate written consent have been submitted by the employee.
 
 ### 6.12. OFFICIAL TIME
 
@@ -218,6 +220,7 @@ A Complainant and the complainant’s personal representative (if an Access Boar
 When reviewing requests for official time, supervisors should consider the nature and complexity of the complaint and the mission of the agency and need to have the employees perform their normal duties on a regular basis. The complainant and the supervisor should arrive at a mutual understanding as to the amount of official time to be used prior to the complainant’s use of such time.
 
 In addition to official time to prepare a case, the complainant and representative (if an Access Board employee), who are on active duty and in pay status, shall be on official time when their presence is authorized or required during the processing of a complaint.
+
 Approval for official time for both preparation purposes and attendance at meetings and hearings for personal representatives that are Access Board employees, may be restricted to a certain percentage of the representative’s duty hours in any given month. Such restrictions will be determined prior to the use of such time and will be based on the nature of the position occupied by the representative, the relationship of that position to the mission of the agency, and the degree of hardship imposed on the mission of the agency by the representative’s absence from normal duties.
 
 If the supervisor denies a request for official time, either in whole or in part, the supervisor must prepare a written statement for the complaint file noting the reasons for the denial.
@@ -227,10 +230,10 @@ If the supervisor denies a request for official time, either in whole or in part
 ### 7.1. AGE DISCRIMINATION COMPLAINTS
 
 An employee may file a complaint pursuant to 29 C.F.R. Part 1614 and these procedures for age discrimination. An employee who elects to file an EEO complaint must exhaust administrative remedies before filing a civil action in U.S. District Court. Exhaustion of administrative remedies occurs when the Access Board takes final action or 180 days after filing the complaint if no action is taken.
+
 In the alternative, an employee may bypass the administrative complaint process described in this Policy and file a civil action directly in the U.S. District Court. However, prior to filing suit, the complainant must provide the EEOC with a written notice of intent to sue under the ADEA. The notice to the Commission must be filed within 180 days of the date of the alleged discriminatory action, and after providing timely notice, the complainant must wait at least thirty (30) days before filing a civil action.
 
-Specific information on how to file a Notice of Intent to Sue, including where to send the notice and what should be included can be found in
-MD-110, Chapter 4, Section IV.
+Specific information on how to file a Notice of Intent to Sue, including where to send the notice and what should be included can be found in [MD-110, Chapter 4, Section IV](https://www.eeoc.gov/federal-sector/management-directive/chapter-4-procedures-related-processes).
 
 ### 7.2. EQUAL PAY ACT COMPLAINTS
 
@@ -242,11 +245,11 @@ This Access Board directive on EEO Complaint Procedures is effective upon signat
 
 Dru Gordon, Chief of Staff \
 Equal Employment Opportunity Director \
-/ s / &nbsp; Date: 2/12/24
+/ s / &nbsp; Date: 2/10/25
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 2/12/24
+/ s / &nbsp; Date: 2/10/25
 
 ## 9. REVISION HISTORY
 
@@ -254,6 +257,6 @@ The “Revision History” table below should be used to capture revisions or up
 
 | Date    | Revision Summary | Version <br /> Number | Author / Owner Name
 | :---    | :---             | :---:               | :---
-| 2/12/24 | Update POC       | 2.01                | Dru Gordon
+| 2/10/2025 | Minor edits to comply with Executive Order | 2.1 | OGC
 | &nbsp;  | &nbsp;           | &nbsp;              | &nbsp;
 {: .usa-table }
