@@ -31,7 +31,7 @@ The inability to use one’s wheelchair on airplanes makes air travel very diffi
 
 ### Artificial Intelligence
 
-![computer with branching wires]({{ site.baseurl }}/images/uploads/computer-with-wires.png){: .img-left }
+![computer with branching wires]({{ site.baseurl }}/images/uploads/computer-with-wires.png){: .img-right }
 
 Artificial intelligence (AI) has the potential to advance accessibility, but it can also create barriers for people with disabilities. Visit the Access Board's [AI page]({{ site.baseurl }}/ai/) for more information.
 
