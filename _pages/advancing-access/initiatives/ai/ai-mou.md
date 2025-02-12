@@ -1,9 +1,13 @@
 ---
-title: Memorandum of Understanding on Artificial Intelligence
+title: Former Memorandum of Understanding on Artificial Intelligence
 layout: page-full
 sidenav: false
 permalink: /ai-mou/
 --- 
+## Notice
+
+Former [EO 14110](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence), Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, tasked the Access Board with several actions to help address equity and accessibility with respect to AI. To aid in these goals, the Access Board signed a Memorandum of Understanding (MOU) on Wednesday, May 15, 2024, with the [American Association of People with Disabilities (AAPD)](https://www.aapd.com/) and the [Center for Democracy & Technology (CDT)](https://cdt.org/). As EO 14110 has been rescinded by [EO 14148](https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions), Initial Rescissions of Harmful Executive Orders and Actions, the MOU was ended on February 12, 2024, by the Access Board. Below is the original text of the MOU.
+
 ## U.S. Access Board Memorandum of Understanding with American Association of People with Disabilities (AAPD) and Center for Democracy & Technology (CDT)
 
 ### The Partners
