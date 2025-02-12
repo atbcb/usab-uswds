@@ -6,29 +6,13 @@ permalink: /ai/
 --- 
 ## Background
 
-The [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) tasks the Access Board with several actions to help address equity and accessibility with respect to AI. To aid in these goals, the Access Board signed a [Memorandum of Understanding (MOU)]({{ site.baseurl }}/ai-mou/) on Wednesday, May 15, 2024, with the American Association of People with Disabilities (AAPD) and the Center for Democracy & Technology (CDT). This collaborative partnership seeks to help ensure that people with disabilities benefit from AI while being protected from its risks. For questions regarding the Access Board's work in artificial intelligence, please reach out to <AI@access-board.gov>.
+Former [EO 14110](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence), Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, tasked the Access Board with several actions to help address equity and accessibility with respect to AI. To aid in these goals, the Access Board signed a [Memorandum of Understanding (MOU)]({{ site.baseurl }}/ai-mou/) on Wednesday, May 15, 2024, with the [American Association of People with Disabilities (AAPD)](https://www.aapd.com/) and the [Center for Democracy & Technology (CDT)](https://cdt.org/). As EO 14110 has been rescinded by [EO 14148](https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions), Initial Rescissions of Harmful Executive Orders and Actions, the MOU was ended on February 12, 2024, by the Access Board.
 
-The [American Association of People with Disabilities (AAPD)](https://www.aapd.com/) is a national disability-led and cross-disability rights organization, promoting equal opportunity, economic power, independent living, and political participation for over 60 million Americans with disabilities.
+## Past Events
 
-The [Center for Democracy & Technology (CDT)](https://cdt.org/) is a nonpartisan, nonprofit organization leading the advancement of civil rights and civil liberties in the digital age. CDT is at the forefront of discussions with policymakers and companies about responsible technology practices and conducts research and public advocacy to ensure artificial intelligence and other technology develops in a manner that is consistent with human rights and democratic values.
+A key element of the MOU was launching an informative and collaborative AI series that included information sessions, public hearings, and sharing best practices. As part of this series, the Access Board held public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. In total, three virtual hearing sessions took place: two for the disability community (on August 8, 2024) and one for federal agency and AI industry practitioners (on August 22, 2024).
 
-### Memorandum of Understanding
-
-[The MOU]({{ site.baseurl }}/ai-mou/) ensures that the Access Board collaborates with AAPD and CDT to develop and implement three key activities within their partnership that include:
-
-- Establishing opportunities that promote solidarity, relationship-building and information sharing across disability and technology communities.
-- Identifying and developing possible solutions to potential or existing civil rights concerns, accessibility barriers, and risks of AI.
-- Providing information, technical assistance, and access to resources that will enable disability and technology communities to promote and create safe, equitable, and accessible artificial intelligence.
-
-## Recent and Upcoming Events
-
-A key element of the MOU is launching an informative and collaborative AI series that will include information sessions, public hearings, and sharing best practices. The **Developing Artificial Intelligence (AI) Equity, Access & Inclusion for All Series** is the first step toward these goals. As part of this series, the Access Board held public hearings with members of the disability community, Federal Agency AI leaders, and AI practitioners. In total, three virtual hearing sessions took place: two for the disability community (on August 8, 2024) and one for federal agency and AI industry practitioners (on August 22, 2024). Real time captioning and sign language interpreting were provided online for all hearings.
-
-In addition to the virtual hearings, members of the public were invited to submit written comments via the [docket on Regulations.gov](https://www.regulations.gov/docket/ATBCB-2024-0005).
-
-These hearings, and the comments that they generated, supported the Access Board’s work in fulfilling the Executive Order on the Use of Artificial Intelligence to engage with disability community members and AI practitioners to learn about the risks and benefits of AI, and to issue recommendations and technical assistance to promote equity, accessibility, and inclusion for all. Additionally, on January 14, 2025, the Board presented its preliminary findings on the risks and benefits of AI for people with disabilities. The findings were based on the outcomes of the three AI hearings, independent research and engagements, as well as the comments received from the public.
-
-Archives of all previous sessions, including an introductory presentation on July 9, 2024, can be found below.
+In addition to the virtual hearings, members of the public were invited to submit written comments via the [docket on Regulations.gov](https://www.regulations.gov/docket/ATBCB-2024-0005). Archives of all previous sessions, including an introductory presentation on July 9, 2024 and a closing session on January 14, 2025, can be found below.
 
 ## Meeting Archives
 
