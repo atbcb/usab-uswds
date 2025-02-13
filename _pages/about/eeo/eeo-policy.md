@@ -2,7 +2,7 @@
 title: Equal Employment Opportunity Policy Statement
 layout: page
 toc: sidenav.html
-banner-title: About the U.S. Access Board
+banner-title: "About the U.S. Access Board <br /> Equal Employment Opportunity Program"
 permalink: /about/eeo-policy.html
 file: usab-eeo-statement.pdf
 file-description: PDF version of USAB EEO Policy Statement
