@@ -9,7 +9,7 @@ file-description: PDF version of USAB EEO Policy Statement
 ---
 <button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
-## {{ page.title }}
+# {{ page.title }}
 
 For more than fifty years, the Access Board has been dedicated to promoting equality for persons with disabilities through accessible design, education, and enforcement. That same passion for equal opportunity must also be a part of all that we do in the workplace. As Executive Director, I am committed to fostering a work environment that upholds the principles of fairness, equality, and respect for differences.
 
