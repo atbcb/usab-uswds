@@ -1,16 +1,9 @@
 ---
 layout: post
-title: "Mastering Acquisition: Training Agency Contracting Teams on 508
+title: "POSTPONED - Mastering Acquisition: Training Agency Contracting Teams on 508
   Compliance and Governance Enforcement"
 date: 2025-03-25
-excerpt: Learn how you can design your own accessibility vendor monitoring
-  program from the group up and the most effective ways to work with vendors to
-  create the best digital experience possible. This session will go over
-  everything from getting support from internal stakeholders to navigating
-  discussions with vendors about digital accessibility. Human Generated
-  Captioning and Sign Language Interpreters available. Individuals may submit
-  questions in advance during the registration process. Questions will also be
-  taken during the live session.
+excerpt: This webinar has been postponed. An announcement will be made as soon as a new date has been set.
 tags:
   - "508"
   - Communication & IT
@@ -20,7 +13,9 @@ webinar-end: March 25, 2025 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session?id=111156
 webinar: true
 ---
-Learn how you can design your own accessibility vendor monitoring program from the group up and the most effective ways to work with vendors to create the best digital experience possible. This session will go over everything from getting support from internal stakeholders to navigating discussions with vendors about digital accessibility. Human Generated Captioning and Sign Language Interpreters available. Individuals may submit questions in advance during the registration process. Questions will also be taken during the live session.
+NOTICE: This webinar has been postponed. An announcement will be made as soon as a new date has been set.
+
+Original description: Learn how you can design your own accessibility vendor monitoring program from the group up and the most effective ways to work with vendors to create the best digital experience possible. This session will go over everything from getting support from internal stakeholders to navigating discussions with vendors about digital accessibility. Human Generated Captioning and Sign Language Interpreters available. Individuals may submit questions in advance during the registration process. Questions will also be taken during the live session.
 
 ### Continuing Education Recognition Available
 
