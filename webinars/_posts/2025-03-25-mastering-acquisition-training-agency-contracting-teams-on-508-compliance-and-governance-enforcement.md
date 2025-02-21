@@ -3,7 +3,7 @@ layout: post
 title: "POSTPONED - Mastering Acquisition: Training Agency Contracting Teams on 508
   Compliance and Governance Enforcement"
 date: 2025-03-25
-excerpt: NOTICE: This webinar has been postponed. An announcement will be made as soon as a new date has been set.
+excerpt: This webinar has been postponed. An announcement will be made as soon as a new date has been set.
 tags:
   - "508"
   - Communication & IT
