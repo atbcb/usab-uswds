@@ -19,10 +19,10 @@ I expect all managers and supervisors to ensure that our employees and applicant
 
 Employees and applicants have the right to report incidents of discrimination or harassment without fear of retaliation. We will take swift and appropriate corrective and/or disciplinary action when any manager, supervisor, or other staff member is found to have engaged in discrimination, retaliation, or harassment – including sexual harassment – that is prohibited by Access Board policies, regardless of whether their actions also violate federal law.
 
-Employees or applicants who believe they have been subjected to unlawful discrimination or retaliation should contact an EEO Counselor within 45 calendar days of when the alleged harm occurred. The Access Board contracts with the United States Postal Service’s National EEO Investigative Services Office for EEO services. To initiate EEO counselling, contact Janine Lewis, EEO Services Analyst ([Janine.h.lewis@usps.gov](mailto:Janine.h.lewis@usps.gov)) or (813) 739-2028. The Access Board supports the use of alternative dispute resolution (ADR) to resolve EEO complaints, where appropriate, and requires management participation when ADR is approved for use.
+Employees or applicants who believe they have been subjected to unlawful discrimination or retaliation should contact an EEO Counselor within 45 calendar days of when the alleged harm occurred. The Access Board contracts with the United States Postal Service’s National EEO Investigative Services Office for EEO services. To initiate EEO counselling, email [UspsExtCounselMedReq@usps.gov](mailto:UspsExtCounselMedReq@usps.gov). The Access Board supports the use of alternative dispute resolution (ADR) to resolve EEO complaints, where appropriate, and requires management participation when ADR is approved for use.
 
 Equal employment opportunity is not only the law, but a fundamentally sound business practice that helps the Access Board achieve its mission of promoting equality for people with disabilities. Our success in advancing full access and inclusion for all persons relies upon the contributions of every Access Board employee on a daily basis. Every employee is responsible for upholding these principles and cooperating fully in its enforcement.
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 2/13/25
+/ s / &nbsp; Date: 2/21/25
