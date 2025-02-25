@@ -12,8 +12,8 @@ file-description: PDF version of USAB EEO Complaint Procedures
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; February 10, 2025 \
-Version:&nbsp; Version 2.1
+Approval Date:&nbsp; February 21, 2025 \
+Version:&nbsp; Version 2.2
 
 ## 1. INTRODUCTION
 
@@ -245,11 +245,11 @@ This Access Board directive on EEO Complaint Procedures is effective upon signat
 
 Dru Gordon, Chief of Staff \
 Equal Employment Opportunity Director \
-/ s / &nbsp; Date: 2/10/25
+/ s / &nbsp; Date: 2/21/25
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 2/10/25
+/ s / &nbsp; Date: 2/21/25
 
 ## 9. REVISION HISTORY
 
@@ -258,5 +258,6 @@ The “Revision History” table below should be used to capture revisions or up
 | Date    | Revision Summary | Version <br /> Number | Author / Owner Name
 | :---    | :---             | :---:               | :---
 | 2/10/2025 | Minor edits to comply with Executive Order | 2.1 | OGC
+| 2/11/2025 | Addition of new EEO counseling email box | 2.2 | DSG
 | &nbsp;  | &nbsp;           | &nbsp;              | &nbsp;
 {: .usa-table }
