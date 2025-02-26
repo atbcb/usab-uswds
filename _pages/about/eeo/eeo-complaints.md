@@ -92,7 +92,7 @@ Absent extension, the EEO counseling period lasts 30 days. The EEO Counselor mus
 
 At the initial counseling session, the EEO Counselor must inquire whether the employee is interested in participating in the Access Board’s EEO ADR program. If so, then within a reasonable time, the Access Board will decide whether it will offer EEO ADR to the employee. The Access Board’s EEO ADR process is administered by the neutral third-party contracted to provide EEO services. An employee who is offered EEO ADR must decide whether to proceed with the EEO ADR or with EEO Counseling. Once an employee elects EEO ADR, the EEO Counselor must complete the intake functions of counseling and refer the case to the EEO ADR process. Once the intake functions are complete, the EEO Counselor ceases involvement with the matter until the EEO ADR process is complete.
 
-If the EEO ADR is successful, the EEO Counselor shall follow the process for informal resolution. (_See_ section 6.3.5 below). If the EEO ADR is unsuccessful or the employee withdraws, the EEO Counselor must provide the employee with the final interview and Notice of Right to File a Formal Complaint. (_See_ section 6.3.5 below). In addition, the EEO Counselor must prepare the EEO Counselor’s Report and note that the parties attempted EEO ADR, but not reveal any other information about the EEO ADR process.
+If the EEO ADR is successful, the EEO Counselor shall follow the process for informal resolution. (_See_ [section 6.3.5]{#confidentiality} below). If the EEO ADR is unsuccessful or the employee withdraws, the EEO Counselor must provide the employee with the final interview and Notice of Right to File a Formal Complaint. (_See_ [section 6.3.5]{#confidentiality} below). In addition, the EEO Counselor must prepare the EEO Counselor’s Report and note that the parties attempted EEO ADR, but not reveal any other information about the EEO ADR process.
 
 #### 6.3.4. Conclusion of Counseling Period: Informal Resolution or Notice of Rights
 
@@ -102,7 +102,7 @@ For any matter not informally resolved during the counseling period, the EEO Cou
 
 The Notice of Right to File a Discrimination Complaint must be in writing and must inform the complainant of: the right, within 15 days of receipt of the notice, to file a discrimination complaint; who to file the complaint with; the duty of an employee who retains counsel or a representative to inform the agency immediately; and the complainant’s duty to inform the agency of a change of address during the pendency of the EEO process.
 
-#### 6.3.5. Confidentiality During EEO Counseling
+#### 6.3.5. Confidentiality During EEO Counseling {#confidentiality}
 
 The EEO Counselor must keep the identity of the aggrieved employee confidential unless the employee consents to disclosure or files a formal EEO complaint.
 
