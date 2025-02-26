@@ -172,7 +172,7 @@ Appropriate corrective action, up to and including removal, shall be taken again
 
 After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 
 
-#### 7.3.5. Recording. {#recording)
+#### 7.3.5. Recording. {#recording}
 
 Once corrective and/or preventative action is implemented, the investigation report described in [Section 7.2.9](#written) shall be amended to describe the action taken.
 
