@@ -58,7 +58,7 @@ While the Access Board expects and encourages all employees to comport themselve
 ### 5.1. SUPERVISORS.
 
 - Supervisors shall act promptly and appropriately to prevent harassing conduct and retaliation against those who complain of harassing conduct.
-- Supervisors are responsible for reporting, pursuant to Section 7.1 of this Policy, any incident of harassing conduct that they witness or is brought to their attention to the General Counsel.
+- Supervisors are responsible for reporting, pursuant to [Section 7.1](#reporting) of this Policy, any incident of harassing conduct that they witness or is brought to their attention to the General Counsel.
 - Supervisors will work with the General Counsel to determine if an allegation should be referred for investigation. For example, the supervisor may be able to resolve an alleged incident of harassing behavior by simply asking the individuals involved what happened and directing the employee under his or her supervision to refrain from engaging in the conduct that the coworker found offensive.
 - If an allegation is resolved without referral for investigation, the supervisor shall document the incident in writing, including any action taken.
 - Supervisors must also work with the Executive Director and General Counsel to provide any interim relief or corrective action to alleged victims deemed appropriate by the Executive Director.
@@ -91,7 +91,7 @@ Additionally, the agency will not tolerate retaliation against any employee for 
 
 ## 7. PROCEDURES
    
-### 7.1. REPORTING WORKPLACE HARASSMENT.
+### 7.1. REPORTING WORKPLACE HARASSMENT. {#reporting}
 
 This policy provides multiple avenues through which any person to whom this policy applies may report harassing conduct. Access Board employees, supervisors, contractors, or applicants for employment who believe they have been subject to harassing conduct in the workplace, or who have observed workplace harassment, should report these incidents to any of the following agency officials: their first-line supervisor; another supervisor; the EEO Director; the General Counsel; or the Executive Director. Reports of alleged harassing conduct can be made in-person, by telephone, by an online communication platform (e.g., Microsoft Teams), or via email.
 
@@ -101,7 +101,7 @@ Supervisors or other agency officials who observe or receive reports of allegedl
 
 #### 7.2.1. Resolution of Complaints Without Investigation.
 
-The General Counsel shall work with the appropriate supervisor to promptly determine whether an investigation is necessary, or if the matter can be dealt with in a more informal manner. For example, situations in which the conduct is clear, and the supervisor can correct the behavior with verbal counseling, or the conduct does not fall within the purview of this policy may not necessitate initiating an investigation. If the allegation is settled without initiating an investigation, then the supervisor shall document the incident and actions taken and provide the written report to the General Counsel to be maintained in accordance with Section 7.3.5 of this Policy.
+The General Counsel shall work with the appropriate supervisor to promptly determine whether an investigation is necessary, or if the matter can be dealt with in a more informal manner. For example, situations in which the conduct is clear, and the supervisor can correct the behavior with verbal counseling, or the conduct does not fall within the purview of this policy may not necessitate initiating an investigation. If the allegation is settled without initiating an investigation, then the supervisor shall document the incident and actions taken and provide the written report to the General Counsel to be maintained in accordance with [Section 7.3.5](#recording) of this Policy.
 
 #### 7.2.2. Initiating an Investigation.
 
@@ -109,7 +109,7 @@ The General Counsel shall refer for investigation any complaint of harassing con
 
 #### 7.2.3. Informing the Alleged Victim.
 
-The investigator shall inform the alleged victim about the procedural steps that will follow pursuant to this Policy. This includes an assurance that the investigation will be conducted as timely as possible and that the alleged conduct and all related information will be maintained on a confidential basis to the greatest extent possible, except as necessary to conduct a thorough and fair investigation, or except as required by law in accordance with Section 9 of this Policy.
+The investigator shall inform the alleged victim about the procedural steps that will follow pursuant to this Policy. This includes an assurance that the investigation will be conducted as timely as possible and that the alleged conduct and all related information will be maintained on a confidential basis to the greatest extent possible, except as necessary to conduct a thorough and fair investigation, or except as required by law in accordance with [Section 9](#relationship) of this Policy.
 
 #### 7.2.4. Other Avenues of Redress.
 
@@ -140,9 +140,9 @@ In conducting the investigation, the investigator must:
 
 All parties, including the complainant, target of the conduct if different from the complainant, the alleged harasser, and any others involved, will be expected to cooperate with an investigation so that it can be conducted in a prompt, thorough, and fair manner.
 
-#### 7.2.9. Written Report of Investigation.
+#### 7.2.9. Written Report of Investigation. {#written}
 
-At the conclusion of the investigation, the investigator shall prepare a written summary of the investigation and submit it to the General Counsel. This report shall include the individuals and conduct involved, a description of the collected evidence, the steps taken to conduct the investigation, and any other relevant information. The report of the investigation and other documentation prepared or collected shall be kept confidential to the maximum extent possible in accordance with Section 9 of this Policy.
+At the conclusion of the investigation, the investigator shall prepare a written summary of the investigation and submit it to the General Counsel. This report shall include the individuals and conduct involved, a description of the collected evidence, the steps taken to conduct the investigation, and any other relevant information. The report of the investigation and other documentation prepared or collected shall be kept confidential to the maximum extent possible in accordance with [Section 9](#relationship) of this Policy.
 
 #### 7.2.10. Review by General Counsel.
 
@@ -166,15 +166,15 @@ Examples of types of proportionate preventive and/or corrective action for haras
 
 #### 7.3.3. Management Official’s Failure to Perform Obligations Under Policy.
 
-Appropriate corrective action, up to and including removal, shall be taken against any management official who fails to perform his/her obligations as set forth in this Policy regarding harassing conduct that the official knew or should have known about. Conversely, appropriate positive reinforcement, up to and including awards and positive feedback on performance appraisals, shall be provided to any management official who responds to harassing conduct in an exemplary manner. 7.3.4. Monitoring. After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 7.3.5. Recording. Once corrective and/or preventative action is implemented, the investigation report described in Section 7.2.9 shall be amended to describe the action taken. 7.4. INFORMING THE PARTIES. Throughout the investigative process, the General Counsel shall be the point of contact for the alleged victim and alleged harasser regarding the status of the investigation. Once complete, the alleged victim and alleged harasser shall be informed of the outcome of the investigation, in writing, along with any corrective or preventative action taken.
+Appropriate corrective action, up to and including removal, shall be taken against any management official who fails to perform his/her obligations as set forth in this Policy regarding harassing conduct that the official knew or should have known about. Conversely, appropriate positive reinforcement, up to and including awards and positive feedback on performance appraisals, shall be provided to any management official who responds to harassing conduct in an exemplary manner. 7.3.4. Monitoring. After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 7.3.5. Recording. Once corrective and/or preventative action is implemented, the investigation report described in [Section 7.2.9](#written) shall be amended to describe the action taken. 7.4. INFORMING THE PARTIES. Throughout the investigative process, the General Counsel shall be the point of contact for the alleged victim and alleged harasser regarding the status of the investigation. Once complete, the alleged victim and alleged harasser shall be informed of the outcome of the investigation, in writing, along with any corrective or preventative action taken.
 
 #### 7.3.4. Monitoring.
 
 After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 
 
-#### 7.3.5. Recording.
+#### 7.3.5. Recording. {#recording)
 
-Once corrective and/or preventative action is implemented, the investigation report described in Section 7.2.9 shall be amended to describe the action taken.
+Once corrective and/or preventative action is implemented, the investigation report described in [Section 7.2.9](#written) shall be amended to describe the action taken.
 
 ### 7.4. INFORMING THE PARTIES.
 
@@ -198,7 +198,7 @@ Reports of alleged workplace harassment and any related documents must be mainta
 
 Copies of this policy shall be distributed to all Access Board staff and posted on the Access Board SharePoint/Teams Folder for Policies. Agency staff shall also receive anti-harassment training appropriately tailored to their roles and responsibilities under this Policy. The agency shall provide such initial training for new employees and board members within 90 days of onboarding. The agency shall also provide recurring training periodically, but not less than every two years.
 
-## 9. RELATIONSHIP TO OTHER PROCESSESS
+## 9. RELATIONSHIP TO OTHER PROCESSESS {#relationship}
 
 This Anti-Harassment Policy is intended to supplement, not replace or supersede, other complaint processes that permit employees to pursue complaints of alleged harassment. As such, the procedures in this Policy are separate and apart from the Equal Employment Opportunity (EEO) complaint process, the Merit Systems Protection Board (MSPB) appeal process, or any other statutory complaint process that provides remedial relief for allegations of harassment that violate federal law. Further, because the purpose of this policy is to prevent and correct harassing conduct before it becomes severe or pervasive, any supervisor who is notified of an allegation of harassment must follow the procedures set forth in this Policy, even if the complaining employee also files an EEO complaint, an MSPB appeal, or other like charge regarding the alleged incident. The Access Board’s liability for alleged harassment may depend on how quickly and thoroughly it addresses the (mis)conduct of which it becomes aware.
 
