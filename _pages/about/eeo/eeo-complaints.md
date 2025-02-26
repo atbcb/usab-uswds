@@ -114,7 +114,7 @@ An employee who elects to pursue a formal complaint of discrimination must file 
 
 #### 6.4.2. Agency Acknowledgement of Receipt
 
-Upon receipt of a formal complaint, USPS National EEO Investigative Services shall promptly prepare a written acknowledgment informing the employee of the filing date of the complaint and the EEOC office and its address where a request for hearing following an investigation (see Section 6.6 below) can be sent. (Note: If the complaint was mailed, the filing date is the postmark date, not the date of receipt.)
+Upon receipt of a formal complaint, USPS National EEO Investigative Services shall promptly prepare a written acknowledgment informing the employee of the filing date of the complaint and the EEOC office and its address where a request for hearing following an investigation (see [Section 6.6](#judge) below) can be sent. (Note: If the complaint was mailed, the filing date is the postmark date, not the date of receipt.)
 
 #### 6.4.3. EEO Counselor’s Report
 
@@ -122,7 +122,7 @@ After receiving notice that a formal complaint has been filed, the EEO Counselor
 
 #### 6.4.4. Agency Acceptance Letter
 
-Within a reasonable time after receipt of the EEO Counselor’s report, the Access Board (through USPS National EEO Investigative Services) shall send the complainant a second letter (acceptance letter) setting forth the discrimination claim(s) asserted and the claim(s) to be investigated. If some of the asserted claims will not be investigated, the acceptance letter must explain the reason, including whether the Access Board is dismissing a portion of the complaint. Since partial dismissals are not subject to immediate appeal, the letter should inform the complainant that once the investigation has been completed and the complainant has either requested a hearing before an EEOC Administrative Judge or an immediate agency decision pursuant to section 6.5.4 below, the partial dismissal may be reviewed by the Administrative Judge (if a hearing has been requested) or by the EEOC on appeal of the final agency decision or action. For additional discussion of, or guidance on, partial dismissals, _see_ 29 C.F.R. § 1614.107(b) and EEO-MD-110, Chapter 5, Section IV.
+Within a reasonable time after receipt of the EEO Counselor’s report, the Access Board (through USPS National EEO Investigative Services) shall send the complainant a second letter (acceptance letter) setting forth the discrimination claim(s) asserted and the claim(s) to be investigated. If some of the asserted claims will not be investigated, the acceptance letter must explain the reason, including whether the Access Board is dismissing a portion of the complaint. Since partial dismissals are not subject to immediate appeal, the letter should inform the complainant that once the investigation has been completed and the complainant has either requested a hearing before an EEOC Administrative Judge or an immediate agency decision pursuant to [section 6.5.4](#immediate) below, the partial dismissal may be reviewed by the Administrative Judge (if a hearing has been requested) or by the EEOC on appeal of the final agency decision or action. For additional discussion of, or guidance on, partial dismissals, _see_ 29 C.F.R. § 1614.107(b) and EEO-MD-110, Chapter 5, Section IV.
 
 #### 6.4.5. Provision of Other Information and Notice of Rights
 
@@ -148,7 +148,7 @@ Absent written extension of the parties or complaint amendment, investigations m
 
 #### 6.5.4. Provision of Investigation File and Notification of Complainant Rights {#immediate}
 
-Upon completion of the investigation, the EEO Investigator shall provide the EEO Director with a copy of the investigative file and summary within 180 days of the filing of a complaint, unless the complaint has been amended or there has been a written agreement to extend the investigation period, in which case the time frames specified in 29 C.F.R. § 1614.108(f) apply. The EEO Director or USPS National EEO Investigative Services shall provide copies of the investigative file and summary to both the Access Board and complainant, along with notification to the complainant of the right to request a hearing before an Administrative Judge (as discussed in section 6.6 below) or an immediate final decision from the agency (as discussed in section 6.7 below).
+Upon completion of the investigation, the EEO Investigator shall provide the EEO Director with a copy of the investigative file and summary within 180 days of the filing of a complaint, unless the complaint has been amended or there has been a written agreement to extend the investigation period, in which case the time frames specified in 29 C.F.R. § 1614.108(f) apply. The EEO Director or USPS National EEO Investigative Services shall provide copies of the investigative file and summary to both the Access Board and complainant, along with notification to the complainant of the right to request a hearing before an Administrative Judge (as discussed in [section 6.6](#immediate) below) or an immediate final decision from the agency (as discussed in [section 6.7](#fad) below).
 
 ### 6.6. HEARING BEFORE AN ADMINISTRATIVE JUDGE {#judge}
 
@@ -179,7 +179,7 @@ The Executive Director shall issue the final agency order, unless the complaint 
 The Access Board will issue a final decision, including appropriate relief where discrimination is found, within 60 days of any of the following events:
 
 - The Access Board receives notice that the complainant requests an immediate final decision; or
-- The 30-day period for the Complainant to reply to the notice providing the right to either request a hearing or an immediate final decision has ended, and the complainant has failed to respond. (_See_ section 6.5.4 above and 29 C.F.R. §1614.108(f)).
+- The 30-day period for the Complainant to reply to the notice providing the right to either request a hearing or an immediate final decision has ended, and the complainant has failed to respond. (_See_ [section 6.5.4](#immediate) above and 29 C.F.R. §1614.108(f)).
 
 The Access Board’s final decision shall consist of findings on the merits of each issue in the complaint, or the rationale for dismissing any of the claims from the complaint and, when discrimination is found, appropriate remedies and relief in accordance with Subpart E of 29 C.F.R §1614. The final decision shall include a notice of the right to appeal the decision to the EEOC or to file a civil action in Federal district court, and the other information required by 29 C.F.R. § 1614.110.
 
