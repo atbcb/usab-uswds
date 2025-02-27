@@ -7,7 +7,7 @@
 
 - title: Webinars & Trainings
   text: "Learn more about upcoming webinars and trainings, and explore archives of past sessions."
-  image: /images/stock/hero-ict-icons.jpg
+  image: /images/stock/hero-training.jpeg
   description: Technology icons
   linkto: /webinars/
   linktext: Learn More
@@ -20,7 +20,7 @@
   linktext: Learn More
 
 - title: Public Events
-  text: "Learn more about upcoming events and access archived event recordings of the Access Board."
+  text: "Learn more about upcoming events and access archived event recordings of the Board."
   image: /images/stock/hero-boardmeeting.jpeg
   description: A group attends a Board meeting
   linkto: /events/
@@ -28,7 +28,7 @@
 
 - title: News
   text: "Read the latest stories from the Access Board and subscribe for news updates."
-  image: /images/stock/hero-news.jpeg
-  description: Newspapers
+  image: /images/stock/hero-microphone.png
+  description: Black microphone
   linkto: /news/
   linktext: Learn More
