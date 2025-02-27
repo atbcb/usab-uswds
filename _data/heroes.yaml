@@ -1,20 +1,34 @@
+- title: Technical Assistance
+  text: "The Access Board provides confidential technical assistance on its accessibility guidelines and standards."
+  image: /images/stock/hero-blue-world-crop.jpg
+  description: Interconnected blue lines form a globe
+  linkto: /ta/
+  linktext: Learn More
+
 - title: Webinars & Trainings
   text: "Learn more about upcoming webinars and trainings, and explore archives of past sessions."
   image: /images/stock/hero-ict-icons.jpg
-  description: technology icons
+  description: Technology icons
   linkto: /webinars/
   linktext: Learn More
 
 - title: File an ABA Complaint
-  text: Learn how to file an Architectural Barriers Act complaint with the Access Board.
+  text: "Learn how to file an Architectural Barriers Act (ABA) complaint with the Access Board."
   image: /images/stock/hero-abacomplaint.jpeg
-  description: complaint form
+  description: Complaint form
   linkto: /enforcement/
   linktext: Learn More
 
 - title: Public Events
-  text: "Learn more about upcoming events and access archived event recordings of the Board."
+  text: "Learn more about upcoming events and access archived event recordings of the Access Board."
   image: /images/stock/hero-boardmeeting.jpeg
-  description: Black microphone
+  description: A group attends a Board meeting
   linkto: /events/
+  linktext: Learn More
+
+- title: News
+  text: "Read the latest stories from the Access Board and subscribe for news updates."
+  image: /images/stock/hero-news.jpeg
+  description: Newspapers
+  linkto: /news/
   linktext: Learn More
