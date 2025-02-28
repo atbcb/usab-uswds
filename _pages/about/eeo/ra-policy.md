@@ -317,7 +317,7 @@ The “Resolution of Request” Form (Appendix B) provides information to indivi
 An individual who chooses to pursue statutory remedies for denial of reasonable accommodation must:
 
 EEO Complaint.
-: Contact the EEO Counselor, Janine Lewis, EEO Services Analyst, <janine.h.lewis@usps.gov> or (813)739-2028, within 45 days from the date of receipt of the written resolution notice which must be provided within three days of the supervisor notifying the employee of the denial.  An applicant or employee who claims that the Access Board has unreasonably delayed making a decision on a request for reasonable accommodation may contact an EEO counselor prior to receiving written or verbal notification of a decision.
+: Contact the United States Postal Service’s National EEO Investigative Services Office, [UspsExtCounselMedReq@usps.gov](mailto:UspsExtCounselMedReq@usps.gov), within 45 days from the date of receipt of the written resolution notice which must be provided within three days of the supervisor notifying the employee of the denial.  An applicant or employee who claims that the Access Board has unreasonably delayed making a decision on a request for reasonable accommodation may contact an EEO counselor prior to receiving written or verbal notification of a decision.
 
 MSPB Appeal.
 : For adverse actions over which the Merit Systems Protection Board has jurisdiction: initiate an appeal to the MSPB within 30 days of the appealable adverse action as defined in [5 C.F.R. §1201.3](https://www.ecfr.gov/current/title-5/chapter-II/subchapter-A/part-1201/subpart-A/section-1201.3).
