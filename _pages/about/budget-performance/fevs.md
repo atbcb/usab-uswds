@@ -12,6 +12,8 @@ Each year the U.S. Access Board joins with other federal agencies in participati
 
 The FEVS results provide valuable insight into the strengths and challenges of the Access Board.  The Access Board leadership will use the FEVS results to develop meaningful action plans aimed at improving the day-to-day operations while also ensuring we continue to develop a culture designed to enrich and improve the Access Board workplace.
 
+Please note that the Access Board's 2022-2024 FEVS reports contain content that is inconsistent with Executive Order (EO) 14151 [_Ending Radical and Wasteful Government DEI Programs and Preferencing_](https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing), and EO 14168 [_Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government_](https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal).
+
 ### Survey Process
 
 The 2024 FEVS asks federal employees to provide their candid opinions on all aspects of their federal employment -- their supervisors, their work experience, their agency and senior leaders.  The 2024 FEVS was administered by the Office of Personnel Management (OPM) from May 21st to July 5, 2024.
