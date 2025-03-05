@@ -34,9 +34,13 @@ Understanding and applying accessible design standards to provide access to muse
 
 [Michelle Cook](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10547&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Accessibility Specialist, **National Center on Accessibility, Indiana University**
 
+[Tera Lynn Gray](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11123&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Accessibility Program Specialist, **National Park Service**
+
 [Michele Hartley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10552&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Media Accessibility Coordinator, **Harpers Ferry Center, National Park Service**
 
 [Jan Majewski](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10904&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Director, Inclusive Cultural and Educational Projects, **Institute for Human Centered Design (IHCD)**
+
+[Elizabeth Ziebarth](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11124&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Director, **Smithsonian’s Office of Visitor Accessibility**
 
 ### Privacy Statement
 
