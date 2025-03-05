@@ -32,7 +32,7 @@ Understanding and applying accessible design standards to provide access to muse
 
 ### Speakers:
 
-[Michelle Cook](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10547&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Accessibility Specialist, **National Center on Accessibility, Indiana University**
+[Michelle Cook](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10547&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Inclusive Design Specialist, **Smithsonian Institution**
 
 [Tera Lynn Gray](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11123&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Accessibility Program Specialist, **National Park Service**
 
