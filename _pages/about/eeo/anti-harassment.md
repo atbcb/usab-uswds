@@ -2,7 +2,7 @@
 title: Anti-Harassment Policy
 layout: page
 toc: sidenav.html
-banner-title: "About the U.S. Access Board <br /> Anti-Harassment Policy"
+banner-title: "About the U.S. Access Board"
 permalink: /about/anti-harassment.html
 file: usab-anti-harassment-policy.pdf
 file-description: PDF version of USAB Anti-Harassment Policy
