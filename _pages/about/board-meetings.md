@@ -6,7 +6,7 @@ banner-title: About the U.S. Access Board
 permalink: /about/meetings.html
 ---
 
-## {{ page.title }}
+# {{ page.title }}
 
 [Members of the U.S. Access Board]({{ site.baseurl }}/about/board-members/) meet quarterly over the course of three days. At the Board meetings, a public session is slated and open for members of the public to attend. Since the COVID-19 pandemic, some of the Board meetings are held virtually. **Communication Access Realtime Translation (CART) and sign language interpreters are available at all Board meetings and events.** 
 
