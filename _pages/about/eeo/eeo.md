@@ -6,9 +6,7 @@ banner-title: About the U.S. Access Board
 permalink: /about/eeo/
 ---
 
-# {{ page.title }} at the Access Board
-
-## Equal Employment Opportunity (EEO) 
+# Equal Employment Opportunity ({{ page.title }}) at the Access Board
 
 - [EEO Policy Statement]({{ site.baseurl }}/about/eeo-policy.html)
 - [EEO Complaint Procedures]({{ site.baseurl }}/about/eeo-complaints.html)

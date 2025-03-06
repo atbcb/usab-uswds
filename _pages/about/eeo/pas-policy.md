@@ -2,7 +2,7 @@
 title: Procedures for Providing Personal Assistance Services
 layout: page
 toc: sidenav.html
-banner-title: "About the U.S. Access Board <br /> Personal Assistant Services Policy"
+banner-title: "About the U.S. Access Board"
 permalink: /about/policy/pas.html
 file: usab-pas-policy.pdf
 file-description: PDF version of USAB Procedures for 
