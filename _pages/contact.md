@@ -102,7 +102,7 @@ Metro Center is the closest metro station and has entrances/exits at:&nbsp; 12th
 
 ### Directions from Metro
 
-Metro Stop: [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
+Metro Stop: [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, blue, orange, and silver lines).
 Use exit at:
 
 - 12th &amp; G Streets (go 1 block south to F Street, turn right and go 1½ blocks west);
