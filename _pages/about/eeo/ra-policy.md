@@ -2,7 +2,7 @@
 title: Reasonable Accommodation Procedures
 layout: page
 toc: sidenav.html
-banner-title: "About the U.S. Access Board <br /> Reasonable Accommodation Procedures"
+banner-title: "About the U.S. Access Board"
 permalink: /about/policy/ra.html
 ---
 
