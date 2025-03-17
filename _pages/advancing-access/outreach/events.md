@@ -14,6 +14,8 @@ permalink: /events/
 
 Join the U.S. Access Board on **Wednesday, April 2, 2025, from 3:00 – 4:30 pm (ET)**, for a memorial event in honor of our late friend and colleague Mario Damiani, and his contributions to the disability community. Attendees are invited to share their memories of Mario. The memorial event will be held in-person at the Access Board’s conference room at 1331 F Street NW, Suite 800, Washington, DC 20004. Please email [events@access-board.gov](mailto:events@access-board.gov) with any questions.
 
+Learn more in the Access Board's [news release](https://www.access-board.gov/news/2025/03/17/u-s-access-board-mourns-passing-of-senior-compliance-specialist-mario-damiani/).
+
 ### Public Events Archives
 
 - [Preliminary Findings on the Risks and Benefits of AI (January 14, 2025)](https://www.youtube.com/watch?v=6QJ5w3fVA8w)
