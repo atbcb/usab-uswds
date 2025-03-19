@@ -447,7 +447,7 @@ On *perpendicular curb ramps*, *detectable warning surfaces* shall be located as
   </figure>
   <figure>
     <figcaption>Figure R305.2.1(b) B. Perpendicular curb ramp at street corner</figcaption>
-    <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when either end of the bottom grade break is less than sixty inches from the back of curb." />
+    <img src="./images/R305-2-1-B_perpendicular_curb_ramps.png" alt="Plan view of perpendicular curb ramp at street corner with detectable warning surface aligned with grade break when both ends of the bottom grade break are less than sixty inches from the back of curb." />
   </figure>
   <figure>
     <figcaption>Figure R305.2.1(c) C. Perpendicular curb ramp</figcaption>
