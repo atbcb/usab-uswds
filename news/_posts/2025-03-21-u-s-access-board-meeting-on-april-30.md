@@ -32,7 +32,7 @@ Meeting ID: 161 247 7358\
 Passcode: 987219\
 Dial in: 1-646-828-7666  \
 Contact: [events@access-board.gov](mailto:events@access-board.gov)\
-Livestream link: <https://www.youtube.com/live/OVOau4Z9BGU?si=9n6DHJ8fJYRNCc3i>
+[Livestream link](https://www.youtube.com/live/OVOau4Z9BGU?si=9n6DHJ8fJYRNCc3i)
 
 ***Agenda***
 
