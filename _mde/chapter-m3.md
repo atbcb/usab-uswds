@@ -16,13 +16,11 @@ A transfer surface shall be provided and shall comply with M301.2.
 ##### M301.2.1  Adjustability
 
 Transfer surfaces shall be adjustable in height measured from the floor to the top of the uncompressed transfer surface and shall provide the following:
-A. A low transfer position at a height of 17 inches (430 mm) minimum and 19 inches (485 mm) maximum;
+A. A low transfer position at a height of 17 inches (430 mm);
 B. A high transfer position at 25 inches (635 mm); and
 C. At least 4 additional transfer positions located between the low and high transfer positions and separated by 1 inch (25 mm) minimum.
 
-##### M301.2.2  Sunset
-
-The low transfer position height, Item A of M301.2.1, shall cease to have effect on [Insert date 5 years after date of publication in the Federal Register].
+##### M301.2.2  [RESERVED]
 
 ##### M301.2.3  Size
 
@@ -88,13 +86,11 @@ A transfer surface shall be provided and shall comply with M302.2.
 ##### M302.2.1  Adjustability
 
 Transfer surfaces shall be adjustable in height measured from the floor to the top of the uncompressed transfer surface and shall provide the following:
-A. A low transfer position at a height of 17 inches (430 mm) minimum and 19 inches (485 mm) maximum;
+A. A low transfer position at a height of 17 inches (430 mm);
 B. A high transfer position at 25 inches (635 mm); and
 C. At least 4 additional transfer positions located between the low and high transfer positions and separated by 1 inch (25 mm) minimum.
 
-##### M302.2.2  Sunset
-
-The low transfer position height, Item A of M302.2.1, shall cease to have effect on [Insert date 5 years after date of publication in the Federal Register].
+##### M302.2.2  [RESERVED]
 
 ##### M302.2.3  Size
 
