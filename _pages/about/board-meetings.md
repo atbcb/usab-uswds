@@ -12,7 +12,7 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **Wednesday, April 30 from 1:30 – 3:00 PM (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
+All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **Wednesday, April 30 from 1:30 – 3:00 PM (ET)**. The agenda for the meeting includes the election of officers, brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
 
 Members of the public may attend and listen to the session through the [Zoom.gov platform,](https://www.zoomgov.com/j/1612477358 "external link") by phone, [via livestream](https://www.youtube.com/live/OVOau4Z9BGU?si=9n6DHJ8fJYRNCc3i), or in person at the Board’s Washington D.C. Conference Space. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
 
@@ -39,6 +39,7 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)\
 
 * Introductory Remarks and Roll Call
 * Board vote on approval of draft October 2024 meeting minutes
+* Election of Officers
 * Executive Director’s Report
 * Standing Committee Reports
 * Election Assistance Commission
