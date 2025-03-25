@@ -4,7 +4,7 @@ title: U.S. Access Board Meeting on April 30
 date: 2025-03-21
 excerpt: All are welcome to attend the public session of the next meeting of the
   U.S. Access Board, which will be open to the public and take place on April 30
-  from 1:30 – 3:00 PM (ET). The agenda for the meeting includes brief reports
+  from 1:30 – 3:00 PM (ET). The agenda for the meeting includes the election of officers, brief reports
   from standing and ad hoc Board committees, federal agency updates, and a
   report by Executive Director Sachin Pavithran . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
