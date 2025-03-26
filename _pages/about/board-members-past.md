@@ -150,6 +150,7 @@ permalink: /about/members-past.html
 
 * Elver Ariza-Silva (2022-present)
 * Olivia Mae M. Asuncion (2023-present)
+* Muffy Davis (2025-present)
 * Heather Dowdy (2022-present)
 * Stephanie L. Enyart (2023-present)
 * Mozhdeh Amelia Hamraie (2022-present)
