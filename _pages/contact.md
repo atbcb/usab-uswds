@@ -21,7 +21,7 @@ If you have questions on these accessibility guidelines and standards call or em
 - 202-272-0080, extension 3 (voice)
 - <ta@access-board.gov>
 
-*Technical assistance is available 10:00 -- 5:00 ET weekdays.*
+*Technical assistance is available 10:00 -- 4:00 ET weekdays.*
 
 ## E-mail Directory
 
