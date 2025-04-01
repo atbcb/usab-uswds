@@ -41,10 +41,6 @@ The presenters will address pre-submitted questions as well as respond to partic
 | Certificate of Attendance | 1.5              |
 
 ### Speakers:
-[Randy Abramson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10888), Product Manager, **U.S. Department of Justice / Civil Rights Division**
-
-[Bill Laughman](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10890), Complaint Portal Administrator / Product Owner, **U.S. Department of Justice / Civil Rights Division**
-
 [Jacklynn Pham](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10887), User Researcher/Designer, **Previously with 18F, GSA**
 
 [Terri Youngblood](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10889), President and owner, Accessible Systems, Inc., **508 SME USDOJ**
