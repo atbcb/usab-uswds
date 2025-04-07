@@ -20,7 +20,7 @@ The Access Board hosts various public events, including hearings, briefings, tow
 
 ![IAAF logo]({{ site.baseurl }}/images/logos/iaaf-logo.png "IAAF logo"){: .img-left}
 
-The annual [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973.
+The annual [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership, and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973.
 
 The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the [General Services Administration (GSA)](https://www.gsa.gov/). The Access Board co-sponsors the event alongside the Accessibility Community of Practice (ACOP) at the [Federal CIO Council](https://www.cio.gov/), in collaboration with other federal agencies.
 
