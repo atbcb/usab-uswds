@@ -28,6 +28,8 @@ Access Board staff regularly presented at IAAF on a plethora of accessibility to
 
 ### Accessible Social Media Guidance
 
+![IAAF logo]({{ site.baseurl }}/images/uploads/gsa-logo.png "IAAF logo"){: .img-left}
+
 In 2024, Board staff collaborated with the General Services Administration (GSA) on updates to the [accessible social media guidance](https://www.section508.gov/create/social-media/) on Section508.gov. Much of this guidance was informed by the Board's current social media strategies. These social media best practices and the updated guidance have been the topic of multiple webinars led by Access Board staff, often alongside collaborators from the [National Park Service (NPS)](https://www.nps.gov/index.htm) and the [U.S. Fish & Wildlife Service (USFWS)](https://www.fws.gov/). These sessions have been held for attendees at IAAF, the Board's [Section 508 Best Practices Webinar Series]({{ site.baseurl }}/webinars/), and the [National Archives and Records Administration (NARA)](https://www.archives.gov/).
 
 ## Tribal Nations
