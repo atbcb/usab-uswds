@@ -46,6 +46,10 @@ The [International Visitor Leadership Program (IVLP)](https://exchanges.state.go
 
 Through IVLP, the Access Board has been pleased to host representatives from nations all around the world, including the Central African Republic, Germany, Indonesia, Moldova, and South Korea.
 
-### Annual Conferences
+### Conference of States Parties to the CRPD
+
+The 17th session of the United Nations' [Conference of States Parties to the Convention on the Rights of Persons with Disabilities (COSP17)](https://social.desa.un.org/issues/disability/cosp) took place in June 2024. Access Board Executive Director Sachin Pavithran and Director of the Office of Technical and Information Services (OTIS) Alison Levy served as official members of the State Department delegation. Collectively, they participated in multiple engagements reaching dozens of country delegates, including the Association of Southeast Asian Nations (ASEAN), C5+1, and accessibility partners from Austria, Israel, Japan, and Kenya.
+
+## Annual Conferences
 
 Access Board staff regularly attend national and international conferences that allow the agency to promote accessible design and build connections with other organizations. Some events that staff regularly attend include the annual [California State University-Northridge (CSUN) Assistive Technology Conference](https://www.csun.edu/cod/conference), [Global Disability Summit](https://www.globaldisabilitysummit.org/), [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/), [M-Enabling Summit](https://m-enabling.com/), [National ADA Symposium](https://gpadacenter.org/national-ada-symposium/), [National Title VI Training & Technical Assistance Conference](https://olderindians.acl.gov/events#gsc.tab=0), and [Zero Project Conference](https://zeroproject.org/).
