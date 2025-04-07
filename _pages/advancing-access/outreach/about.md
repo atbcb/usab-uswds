@@ -18,6 +18,8 @@ The Access Board hosts various public events, including hearings, briefings, tow
 
 ### Interagency Accessibility Forum
 
+![microphone]({{ site.baseurl }}/images/logos/iaaf-logo.png "microphone"){: .img-left}
+
 The annual [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the [General Services Administration (GSA)](https://www.gsa.gov/). The Access Board co-sponsors the event alongside the Accessibility Community of Practice (ACOP) at the [Federal CIO Council](https://www.cio.gov/), in collaboration with other federal agencies.
 
 Access Board staff regularly presented at IAAF on a plethora of accessibility topics. [View archives](https://www.section508.gov/iaaf/archives/) from past years on Section508.gov.
@@ -29,6 +31,8 @@ In 2024, Board staff collaborated with the General Services Administration (GSA)
 ## Tribal Nations
 
 ### Title VI Program
+
+![microphone]({{ site.baseurl }}/images/logos/oaa-title-vi-logo.png "microphone"){: .img-right}
 
 Access Board staff collaborate with the Administration on Community Living’s (ACL) [Older Americans Act Title VI](https://olderindians.acl.gov/home#gsc.tab=0) grant program that provides nutrition and other support to elders on tribal lands. ACL staff have identified disability access to ceremonial spaces as a key quality of life issue for older tribal members. The [National Congress of American Indians](https://www.ncai.org/) passed a resolution in 2023 encouraging tribes to enhance accessibility of ceremonial spaces and naming the Access Board as a resource for technical assistance.
 
@@ -45,6 +49,8 @@ On January 26, 2021, the [Memorandum on Tribal Consultation and Strengthening Na
 In addition to the engagements listed below, Access Board guidance and consultation are frequently sought by European and Canadian accessibility partners.
 
 ### International Visitor Leadership Program
+
+![microphone]({{ site.baseurl }}/images/logos/dos-seal.png "microphone"){: .img-left}
 
 The [International Visitor Leadership Program (IVLP)](https://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp) is the U.S. Department of State’s premier professional exchange program. Through short-term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts. Professional meetings reflect the participants’ professional interests and support the foreign policy goals of the United States.
 
