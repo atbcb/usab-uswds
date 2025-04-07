@@ -28,7 +28,7 @@ Access Board staff regularly presented at IAAF on a plethora of accessibility to
 
 ### Accessible Social Media Guidance
 
-![IAAF logo]({{ site.baseurl }}/images/uploads/gsa-logo.png "IAAF logo"){: .img-left}
+![GSA logo]({{ site.baseurl }}/images/logos/gsa-logo-small.png "GSA logo"){: .img-right}
 
 In 2024, Board staff collaborated with the General Services Administration (GSA) on updates to the [accessible social media guidance](https://www.section508.gov/create/social-media/) on Section508.gov. Much of this guidance was informed by the Board's current social media strategies. These social media best practices and the updated guidance have been the topic of multiple webinars led by Access Board staff, often alongside collaborators from the [National Park Service (NPS)](https://www.nps.gov/index.htm) and the [U.S. Fish & Wildlife Service (USFWS)](https://www.fws.gov/). These sessions have been held for attendees at IAAF, the Board's [Section 508 Best Practices Webinar Series]({{ site.baseurl }}/webinars/), and the [National Archives and Records Administration (NARA)](https://www.archives.gov/).
 
@@ -36,7 +36,7 @@ In 2024, Board staff collaborated with the General Services Administration (GSA)
 
 ### Title VI Program
 
-![Title VI program logo]({{ site.baseurl }}/images/logos/oaa-title-vi-logo.png "Title VI program logo"){: .img-right}
+![Title VI program logo]({{ site.baseurl }}/images/logos/oaa-title-vi-logo.png "Title VI program logo"){: .img-left}
 
 Access Board staff collaborate with the Administration on Community Living’s (ACL) [Older Americans Act Title VI grant program](https://olderindians.acl.gov/home#gsc.tab=0) that provides nutrition and other support to elders on tribal lands. ACL staff have identified disability access to ceremonial spaces as a key quality of life issue for older tribal members. The [National Congress of American Indians](https://www.ncai.org/) passed a resolution in 2023 encouraging tribes to enhance accessibility of ceremonial spaces and naming the Access Board as a resource for technical assistance.
 
@@ -54,13 +54,15 @@ In addition to the engagements listed below, Access Board guidance and consultat
 
 ### International Visitor Leadership Program
 
-![Department of State seal]({{ site.baseurl }}/images/logos/dos-seal.png "Department of State seal"){: .img-left}
+![Department of State seal]({{ site.baseurl }}/images/logos/dos-seal.png "Department of State seal"){: .img-right}
 
 The [International Visitor Leadership Program (IVLP)](https://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp) is the U.S. Department of State’s premier professional exchange program. Through short-term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts. Professional meetings reflect the participants’ professional interests and support the foreign policy goals of the United States.
 
 Through IVLP, the Access Board has been pleased to host representatives from nations all around the world, including the Central African Republic, Germany, Indonesia, Moldova, and South Korea.
 
 ### Conference of States Parties to the CRPD
+
+![COSP logo]({{ site.baseurl }}/images/logos/COSP-logo.png "COSP logo"){: .img-left}
 
 The 17th Session of the United Nations Conference of States Parties to the Convention on the Rights of Persons with Disabilities [(COSP17)](https://social.desa.un.org/issues/disability/cosp) took place in June 2024. Access Board Executive Director Sachin Pavithran and Director of the Office of Technical and Information Services (OTIS) Alison Levy served as official members of the State Department delegation. Collectively, they participated in multiple engagements reaching dozens of country delegates, including the Association of Southeast Asian Nations (ASEAN), C5+1, and accessibility partners from Austria, Israel, Japan, and Kenya.
 
