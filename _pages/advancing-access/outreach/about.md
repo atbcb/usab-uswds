@@ -18,7 +18,7 @@ The Access Board hosts various public events, including hearings, briefings, tow
 
 ### Interagency Accessibility Forum
 
-![IAAF logo]({{ site.baseurl }}/images/logos/iaaf-logo.png "IAAF logo"){: .img-right}
+![IAAF logo]({{ site.baseurl }}/images/logos/iaaf-logo.png "IAAF logo"){: .img-left}
 
 The annual [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership, and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973.
 
@@ -36,7 +36,7 @@ In 2024, Board staff collaborated with the General Services Administration (GSA)
 
 ### Title VI Program
 
-![Title VI program logo]({{ site.baseurl }}/images/logos/oaa-title-vi-logo.png "Title VI program logo"){: .img-right}
+![Title VI program logo]({{ site.baseurl }}/images/logos/oaa-title-vi-logo.png "Title VI program logo"){: .img-left}
 
 Access Board staff collaborate with the Administration on Community Living’s (ACL) [Older Americans Act Title VI grant program](https://olderindians.acl.gov/home#gsc.tab=0) that provides nutrition and other support to elders on tribal lands. ACL staff have identified disability access to ceremonial spaces as a key quality of life issue for older tribal members. The [National Congress of American Indians](https://www.ncai.org/) passed a resolution in 2023 encouraging tribes to enhance accessibility of ceremonial spaces and naming the Access Board as a resource for technical assistance.
 
@@ -62,7 +62,7 @@ Through IVLP, the Access Board has been pleased to host representatives from nat
 
 ### Conference of States Parties to the CRPD
 
-![COSP logo]({{ site.baseurl }}/images/logos/COSP-logo.png "COSP logo"){: .img-right}
+![COSP logo]({{ site.baseurl }}/images/logos/COSP-logo.png "COSP logo"){: .img-left}
 
 The 17th Session of the United Nations Conference of States Parties to the Convention on the Rights of Persons with Disabilities [(COSP17)](https://social.desa.un.org/issues/disability/cosp) took place in June 2024. Access Board Executive Director Sachin Pavithran and Director of the Office of Technical and Information Services (OTIS) Alison Levy served as official members of the State Department delegation. Collectively, they participated in multiple engagements reaching dozens of country delegates, including the Association of Southeast Asian Nations (ASEAN), C5+1, and accessibility partners from Austria, Israel, Japan, and Kenya.
 
