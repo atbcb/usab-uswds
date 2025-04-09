@@ -42,11 +42,13 @@ Access Board staff collaborate with the Administration on Community Living’s (
 
 Board technical staff continue to engage in better understanding the range of accessibility barriers presented in these spaces, so that the agency can provide appropriate technical assistance upon request; this has included virtual and in-person observations of ceremonial spaces, including powwow locations. The Board also works with ACL staff to provide technical assistance for the accessibility of Title VI program offices and connections to additional resources.
 
-Access Board staff annually attend the [National Title VI Training & Technical Assistance Conference](https://olderindians.acl.gov/events#gsc.tab=0) to connect with ACL partners, Tribal Nation representatives, and others.
+Access Board staff annually attend the National Title VI Training & Technical Assistance Conference to connect with ACL partners, Tribal Nation representatives, and others.
 
 ### Memorandum on Tribal Consultation
 
 On January 26, 2021, the [Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships](https://www.federalregister.gov/documents/2021/01/29/2021-02075/tribal-consultation-and-strengthening-nation-to--nation-relationships) was published in the Federal Register. The Memorandum directs federal agencies to ensure that “Tribal sovereignty and self-governance, commitment to fulfilling Federal trust and treaty responsibilities to Tribal Nations, and regular, meaningful, and robust consultation with Tribal Nations are the cornerstones of Federal Indian policy.” In 2021, the Access Board developed a [plan of actions]({{ site.baseurl }}/outreach/tribal-nations/) in its outreach to Tribal Nations.
+
+Since the plan of actions was developed, the Board has continued to provide technical assistance to the Title VI grant program, including presentations at the [National Title VI Training & Technical Assistance Conference](https://olderindians.acl.gov/events#gsc.tab=0) in 2024 and 2025. Access Board staff also attended and actively engaged in the 2024 Department of Health and Human Services (HHS) [Traditional Healing Summit](https://www.nihb.org/reports/tribal-healers-and-leaders-gather-in-washington-dc-for-the-hhs-traditional-healing-summit/).
 
 ## International Outreach
 
@@ -58,7 +60,7 @@ In addition to the engagements listed below, Access Board guidance and consultat
 
 The [International Visitor Leadership Program (IVLP)](https://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp) is the U.S. Department of State’s premier professional exchange program. Through short-term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts. Professional meetings reflect the participants’ professional interests and support the foreign policy goals of the United States.
 
-Through IVLP, the Access Board has been pleased to host representatives from nations all around the world, including the Central African Republic, Germany, Indonesia, Moldova, and South Korea.
+Through IVLP, the Access Board has been pleased to host representatives from nations all around the world, including the Central African Republic, Germany, Indonesia, Moldova, and South Korea among other nations. The Board looks forward to hosting additional countries in the future.
 
 ### Conference of States Parties to the CRPD
 
