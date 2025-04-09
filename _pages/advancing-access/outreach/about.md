@@ -62,7 +62,7 @@ Through IVLP, the Access Board has been pleased to host representatives from nat
 
 ### Conference of States Parties to the CRPD
 
-![COSP logo]({{ site.baseurl }}/images/logos/COSP-logo.png "COSP logo"){: .img-right}
+![COSP logo]({{ site.baseurl }}/images/logos/COSP-logo.png "COSP logo"){: .img-left}
 
 The 17th Session of the United Nations Conference of States Parties to the Convention on the Rights of Persons with Disabilities [(COSP17)](https://social.desa.un.org/issues/disability/cosp) took place in June 2024. Access Board Executive Director Sachin Pavithran and Director of the Office of Technical and Information Services (OTIS) Alison Levy served as official members of the State Department delegation. Collectively, they participated in multiple engagements reaching dozens of country delegates, including the Association of Southeast Asian Nations (ASEAN), C5+1, and accessibility partners from Austria, Israel, Japan, and Kenya.
 
