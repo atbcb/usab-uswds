@@ -1,7 +1,7 @@
 ---
 name: federal-va
 last-name: Brennan
-full_name: Dr. Michael Brennan
+full_name: Dr. Michael D. Brennan
 chair: false
 vice-chair: false
 member: federal
