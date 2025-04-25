@@ -8,7 +8,7 @@ excerpt: With great sadness, the U.S. Access Board mourns our friend and
   his honor. In addition to sharing a memory through the Kudoboard, please join the Access Board today, Wednesday, April 2, 2025, from 3:00 – 4:30 pm (ET), for a memorial event in honor of Mario’s contributions to the disability community. Attendees are invited to share their memories of Mario . . .
 image: /images/uploads/qr-code-xn0kupmb.png
 image_alt_text: QR code for Mario Damiani Kudoboard.
-featured: true
+featured: false
 ---
 With great sadness, the U.S. Access Board mourns our friend and colleague Mario Damiani, who passed away on Sunday, March 9, 2025. Those who would like to share a memory of Mario can do so using [the Kudoboard created in his honor](https://www.kudoboard.com/boards/xN0KuPMb).
 
