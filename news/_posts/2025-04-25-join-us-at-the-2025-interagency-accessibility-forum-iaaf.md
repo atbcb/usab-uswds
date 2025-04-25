@@ -3,8 +3,8 @@ layout: post
 title: Join Us at the 2025 Interagency Accessibility Forum (IAAF)
 date: 2025-04-25
 excerpt: "This year’s annual Interagency Accessibility Forum (IAAF) will be held
-  virtually on May 20 and 21. The event will be built on the theme Accessible by
-  Design: Enhancing Efficiency in Federal ICT and will take place over Zoom for
+  virtually on May 20 and 21. The event will be built on the theme "Accessible by
+  Design: Enhancing Efficiency in Federal ICT" and will take place over Zoom for
   Government. IAAF will feature a blend of presentations, workshops, and
   discussions led by accessibility professionals in the federal, private, and
   other sectors. Presentation topics include . . ."
