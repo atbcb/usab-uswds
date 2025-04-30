@@ -32,21 +32,13 @@ Access Board staff regularly present at IAAF on a plethora of accessibility topi
 
 In 2024, Board staff collaborated with the General Services Administration (GSA) on updates to the [accessible social media guidance](https://www.section508.gov/create/social-media/) on Section508.gov. Much of this guidance was informed by the Board's current social media strategies. These social media best practices and the updated guidance have been the topic of multiple webinars led by Access Board staff, often alongside collaborators from the [National Park Service (NPS)](https://www.nps.gov/index.htm) and the [U.S. Fish & Wildlife Service (USFWS)](https://www.fws.gov/). These sessions have been held for attendees at IAAF, the Board's [Section 508 Best Practices Webinar Series]({{ site.baseurl }}/webinars/), and the [National Archives and Records Administration (NARA)](https://www.archives.gov/).
 
-## Tribal Nations
-
-### Title VI Program
+## Title VI Program
 
 ![Title VI program logo]({{ site.baseurl }}/images/logos/oaa-title-vi-logo.png "Title VI program logo"){: .img-left}
 
-Access Board staff collaborate with the Administration on Community Living’s (ACL) [Older Americans Act Title VI grant program](https://olderindians.acl.gov/home#gsc.tab=0) that provides nutrition and other support to elders on tribal lands. ACL staff have identified disability access to ceremonial spaces as a key quality of life issue for older tribal members. The [National Congress of American Indians](https://www.ncai.org/) passed a resolution in 2023 encouraging tribes to enhance accessibility of ceremonial spaces and naming the Access Board as a resource for technical assistance.
+Access Board staff collaborate with the Administration on Community Living’s (ACL) [Older Americans Act Title VI grant program](https://olderindians.acl.gov/home#gsc.tab=0) that provides nutrition and other support to elders on tribal lands. ACL staff have identified disability access to ceremonial spaces as a key quality of life issue for older tribal members. The [National Congress of American Indians](https://www.ncai.org/) passed a resolution in 2023 encouraging tribes to enhance accessibility of ceremonial spaces and naming the Access Board as a resource for technical assistance. Through this collaboration, the Board has continued to provide technical assistance to the Title VI grant program, including presentations at the [National Title VI Training & Technical Assistance Conference](https://olderindians.acl.gov/events#gsc.tab=0) in 2023 and 2025. Access Board staff also attended and actively engaged in the 2024 Department of Health and Human Services (HHS) [Traditional Healing Summit](https://www.nihb.org/reports/tribal-healers-and-leaders-gather-in-washington-dc-for-the-hhs-traditional-healing-summit/).
 
 Board technical staff continue to engage in better understanding the range of accessibility barriers presented in these spaces, so that the agency can provide appropriate technical assistance upon request; this has included virtual and in-person observations of ceremonial spaces. The Board also works with ACL staff to provide technical assistance for the accessibility of Title VI program offices and connections to additional resources.
-
-### Memorandum on Tribal Consultation
-
-On January 26, 2021, the [Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships](https://www.federalregister.gov/documents/2021/01/29/2021-02075/tribal-consultation-and-strengthening-nation-to--nation-relationships) was published in the Federal Register. The Memorandum directs federal agencies to ensure that “Tribal sovereignty and self-governance, commitment to fulfilling Federal trust and treaty responsibilities to Tribal Nations, and regular, meaningful, and robust consultation with Tribal Nations are the cornerstones of Federal Indian policy.” In 2021, the Access Board developed a [plan of actions]({{ site.baseurl }}/outreach/tribal-nations/) in its outreach to Tribal Nations.
-
-Since the plan of actions was developed, the Board has continued to provide technical assistance to the Title VI grant program, including presentations at the [National Title VI Training & Technical Assistance Conference](https://olderindians.acl.gov/events#gsc.tab=0) in 2024 and 2025. Access Board staff also attended and actively engaged in the 2024 Department of Health and Human Services (HHS) [Traditional Healing Summit](https://www.nihb.org/reports/tribal-healers-and-leaders-gather-in-washington-dc-for-the-hhs-traditional-healing-summit/).
 
 ## International Outreach
 
