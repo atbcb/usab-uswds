@@ -7,8 +7,7 @@ excerpt: At its April meeting, the U.S. Access Board elected Elver Ariza-Silva
   as its new Chair and Dr. Michael Brennan as its new Vice-Chair. Ariza-Silva is
   a disability community advocate based out of the District of Columbia. Dr.
   Brennan is Executive Director for the Office of Construction and Facilities
-  Management (CFM) at the Department of Veterans Affairs (VA). The Board
-  approved both choices unanimously . . .
+  Management (CFM) at the Department of Veterans Affairs (VA) . . .
 image: /images/uploads/elver-and-brennan-headshots.png
 image_alt_text: Headshots of Elver Ariza-Silva and Michael Brennan.
 featured: true
