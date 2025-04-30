@@ -9,7 +9,7 @@ excerpt: All are welcome to attend the public session of the next meeting of the
   report by Executive Director Sachin Pavithran . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: An Access Board meeting takes place within a window on the screen of a laptop.
-featured: true
+featured: false
 ---
 All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **Wednesday, April 30 from 1:30 – 3:00 PM (ET)**. The agenda for the meeting includes the election of officers, brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
 
