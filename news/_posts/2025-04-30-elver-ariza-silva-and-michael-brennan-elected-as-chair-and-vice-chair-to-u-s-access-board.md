@@ -18,8 +18,8 @@ At its [April meeting](https://www.access-board.gov/news/2025/03/21/u-s-access-b
 Every year, the Board elects officers, including a new Chair and Vice-Chair, which alternate between a Public Member and a Federal Member. As Chair, Ariza-Silva assumes the office previously held by former Deputy Administrator of the General Services Administration (GSA) Katy Kale, and Dr. Brennan succeeds Ariza-Silva as Vice-Chair.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png">
-    <img src="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png" alt="Headshot of Elver Ariza-Silva." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Elver Ariza-Silva." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Elver Ariza-Silva</em>
@@ -33,8 +33,8 @@ Ariza-Silva is active in advocacy efforts for all people with disabilities in th
 Ariza-Silva was appointed by District of Columbia Mayors Vincent C. Gray and Muriel Bowser to serve as Chairman on the Statewide Independent Living Council. He also served as Vice-Chair of the Accessibility Advisory Committee Board of the Washington Metropolitan Area Transit Authority, advising Metro on ways to improve Metro Rail, Metro Bus, and Metro Access.
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png">
-    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Michael Brennan." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/michael-brennan-with-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/michael-brennan-with-border.png" alt="Headshot of Michael Brennan." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Dr. Michael Brennan</em>
