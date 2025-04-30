@@ -17,11 +17,29 @@ At its [April meeting](https://www.access-board.gov/news/2025/03/21/u-s-access-b
 
 Every year, the Board elects officers, including a new Chair and Vice-Chair, which alternate between a Public Member and a Federal Member. As Chair, Ariza-Silva assumes the office previously held by former Deputy Administrator of the General Services Administration (GSA) Katy Kale, and Dr. Brennan succeeds Ariza-Silva as Vice-Chair.
 
+<figure class="img-right">
+  <a href="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/katy-kale-with-border.png" alt="Headshot of Elver Ariza-Silva." class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Elver Ariza-Silva</em>
+  </figcaption>
+</figure>
+
 “It is not about the disability, but the ABILITY, remarked Ariza-Silva. “It is not about nah, you cannot, but HOW you can. It is not about the opportunities, but the ACCESSIBILITY to get them.”
 
 Ariza-Silva is active in advocacy efforts for all people with disabilities in the District of Columbia. Originally from the Republic of Colombia, Ariza-Silva is a polio survivor and a professional with more than 20 years combined experience in human and social services and in the food industry. He has served as a research assistant for a Johns Hopkins University study that focused on preventing child trafficking from Latin America and has held leadership roles in the food industry.
 
 Ariza-Silva was appointed by District of Columbia Mayors Vincent C. Gray and Muriel Bowser to serve as Chairman on the Statewide Independent Living Council. He also served as Vice-Chair of the Accessibility Advisory Committee Board of the Washington Metropolitan Area Transit Authority, advising Metro on ways to improve Metro Rail, Metro Bus, and Metro Access.
+
+<figure class="img-left">
+  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png">
+    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Michael Brennan." class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Dr. Michael Brennan</em>
+  </figcaption>
+</figure>
 
 Ariza-Silva’s position as Vice-Chair over the last year will be filled by CFM’s Executive Director Dr. Michael Brennan. “It is an honor to have been elected Vice-Chair of the U.S. Access Board, and I look forward to working alongside Chair Elver Ariza-Silva, our Board colleagues, and the dedicated staff at the agency,” remarked Dr. Brennan. “I am proud to represent the Secretary of Veterans Affairs in removing barriers to the care, benefits and services our nation’s veterans have earned, and now to work with the Board to help ensure that the government is accessible to the millions of Americans with disabilities – including our nation’s disabled veterans.”
 
