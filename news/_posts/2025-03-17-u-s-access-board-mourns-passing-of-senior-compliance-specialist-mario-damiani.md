@@ -11,7 +11,7 @@ excerpt: With deep sorrow, the U.S. Access Board announces the passing of staff
   and Mario played a lead role through . . .
 image: /images/uploads/mario-damiani.png
 image_alt_text: Mario Damiani headshot.
-featured: true
+featured: false
 ---
 With deep sorrow, the U.S. Access Board announces the passing of staff member Mario Damiani, who had served at the agency since 2014. As a Senior Compliance Specialist in the Office of General Counsel, Mario investigated complaints filed under the Architectural Barriers Act of 1968 (ABA). The law requires that facilities designed, built, altered, or leased with federal funds be accessible. The Access Board is responsible for enforcing the ABA, and Mario played a lead role through making legal determinations on jurisdiction and applicable standards and working with agencies to ensure that violations were remediated through corrective action.
 
