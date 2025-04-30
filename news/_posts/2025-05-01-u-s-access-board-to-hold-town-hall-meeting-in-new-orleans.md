@@ -8,7 +8,7 @@ excerpt: The U.S. Access Board will hold a public town hall meeting on
   Board members and representatives from other federal member agencies will be
   present to hear from the local community about the state of accessibility in
   Louisiana. Representatives from . . .
-image: /images/uploads/new-orleans-skyline.jpg
+image: /images/uploads/new-orleans-skyline-border.jpg
 image_alt_text: Skyline of New Orleans with light seeping through the clouds.
 featured: true
 ---
