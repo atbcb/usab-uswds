@@ -2,8 +2,8 @@
 name: elver-ariza-silva
 last-name: ariza-silva
 full_name: Elver Ariza-Silva
-chair: false
-vice-chair: true
+chair: true
+vice-chair: false
 member: public
 status: current
 president: Biden
