@@ -13,6 +13,7 @@ The Access Board is structured to function as a coordinating body among federal 
 
 | Year | Chair | Vice-Chair |
 | :---:   | :---: | :---: | 
+| 2025-2026 | Elver Ariza-Silva | Michael D. Brennan (VA) | 
 | 2024-2025 | Katy Kale (GSA) | Elver Ariza-Silva | 
 | 2023-2024 | Gregory S. Fehribach | Katy Kale (GSA) | 
 | 2022-2023 | Taryn Mackenzie Williams (DOL) | Gregory S. Fehribach |
