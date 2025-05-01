@@ -12,9 +12,9 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for Wednesday, July 9, 2025 in New Orleans at 9:00 a.m. (CT) at the New Orleans Marriott, Acadia and Bissonnet Ballrooms, 3rd floor (555 Canal Street, New Orleans, LA 70130). This meeting will be a town hall meeting where Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in New Orleans. For further information, contact Rose Marie Bunales at <events@access-board.gov>.
+The next meeting of the Board is scheduled for **Wednesday, July 9, 2025** in New Orleans at 9:00 a.m. (CT) at the New Orleans Marriott, Acadia and Bissonnet Ballrooms, 3rd floor (555 Canal Street, New Orleans, LA 70130). This meeting will be a town hall meeting where Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in New Orleans. For further information, contact Rose Marie Bunales at <events@access-board.gov>.
 
-U.S. Access Board Town Hall Meeting\
+**U.S. Access Board Town Hall Meeting**\
 July 9, 2025, 9:00 – 11:30 a.m. (CT)\
 New Orleans Marriott\
 Acadia and Bissonnet Ballrooms (3rd floor)\
