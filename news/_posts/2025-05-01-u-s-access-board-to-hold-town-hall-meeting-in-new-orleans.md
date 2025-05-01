@@ -3,7 +3,7 @@ layout: post
 title: U.S. Access Board to Hold Town Hall Meeting in New Orleans
 date: 2025-05-01
 excerpt: The U.S. Access Board will hold a public town hall meeting on
-  Wednesday, July 9 from 9:00 – 11:30 p.m. (CT) at the New Orleans Marriott
+  Wednesday, July 9 from 9:00 – 11:30 a.m. (CT) at the New Orleans Marriott
   Hotel, 555 Canal Street, New Orleans, LA. Presidentially appointed Access
   Board members and representatives from other federal member agencies will be
   present to hear from the local community about the state of accessibility in
