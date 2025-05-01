@@ -50,12 +50,20 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)\
 
 ## Future Board Meetings
 
-- April 28 - 30, 2025, In-person, Washington, DC
 - July 8 - 10, 2025, In-person, New Orleans, LA
 - October 27 - 29, 2025, Virtual
+- January 26 - 28, 2026, Virtual
+- May 4 - 8, 2026, In-person, Providence, RI
+- July 27 - 29, 2026, In-person, Washington, DC
+- October 26 - 28, 2026, Virtual
+- January 25 - 27, 2027, Virtual
+- April 12 - 16, 2027, In-person, Nashville, TN
+- July 26 - 28, 2027, In-person, Washington, DC
+- October 25 - 27, 2027, Virtual
 
 ## Board Meeting Archives
 
+- [April 30, 2025](https://www.youtube.com/watch?v=OVOau4Z9BGU&t=1753s)
 - [October 30, 2024](https://www.youtube.com/live/Ixk98wNLldc)
 - [July 24, 2024](https://www.youtube.com/watch?v=JLJJ-LU2oUc&t=131s)
 - [January 24, 2024](https://www.youtube.com/watch?v=5xIJzszOph0&t=1017s)
