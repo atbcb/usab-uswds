@@ -4,7 +4,7 @@ layout: universal
 permalink: /sitemap.html
 ---
 
-Looking for a specific page on our website? See the list of webpages below, or email us for more information
+Looking for a specific page on our website? See the list of webpages below, or email us for more information.
 
 {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
 {% for collection in collections %}
