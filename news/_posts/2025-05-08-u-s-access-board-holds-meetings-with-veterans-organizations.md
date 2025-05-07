@@ -7,15 +7,15 @@ excerpt: During the latest meeting of the U.S. Access Board, Public and Federal
   several of which focused on veterans organizations and issues affecting
   veterans with disabilities. On Monday, April 28, following a series of
   meetings at the Access Board’s office in Washington, DC . . .
-image: /images/uploads/WWI-group-photo.jpg
+image: /images/uploads/WWI-group-photo.JPG
 image_alt_text: Access Board Members and staff stand in front of the WWI Memorial.
 featured: true
 ---
 During the [latest meeting](https://www.access-board.gov/news/2025/04/30/elver-ariza-silva-and-michael-brennan-elected-as-chair-and-vice-chair-to-u-s-access-board/) of the U.S. Access Board, Public and Federal Members, along with staff, attended various sessions throughout the week, several of which focused on veterans organizations and issues affecting veterans with disabilities.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png">
-    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Elver Ariza-Silva." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/WWI-map-demo.JPG">
+    <img src="{{ site.baseurl }}/images/uploads/WWI-map-demo.JPG" alt="Headshot of Elver Ariza-Silva." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Elver Ariza-Silva</em>
@@ -27,8 +27,8 @@ On Monday, April 28, following a series of meetings at the Access Board’s offi
 These accessibility features provide visitors with disabilities the opportunity to experience the full emotional breadth of the memorial. From the Belvedere, the conceptual center of the memorial, visitors can view Sabin Howard’s sculpture *A Soldier’s Journey*, the John J. Pershing Memorial, and the flagstaff with a quote from President Woodrow Wilson. Throughout the memorial, visitors can also find quotes by Librarian of Congress and WWI veteran Archibald MacLeish, author Willa Cather, and Alta May Andrews of the Army Nurse Corps.
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/michael-brennan-with-border.png">
-    <img src="{{ site.baseurl }}/images/uploads/michael-brennan-with-border.png" alt="Headshot of Michael Brennan." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/WWI-doughboys-performance.JPG">
+    <img src="{{ site.baseurl }}/images/uploads/WWI-doughboys-performance.JPG" alt="Headshot of Michael Brennan." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Dr. Michael Brennan</em>
@@ -40,8 +40,8 @@ The memorial honors all Americans who served in the Great War, including the Ame
 Later, on Tuesday, April 29, the Access Board attended a series of meetings with [Paralyzed Veterans of America (PVA)](https://pva.org/) in Washington, DC. PVA is a Congressionally chartered veterans service organization that focuses on veterans of the armed forces who have experienced spinal cord injury or dysfunction. The organization advocates on behalf of its members for quality health care, veterans benefits, and civil rights and opportunities that maximize the independence of members. PVA also advocates for research and education addressing spinal cord injury and dysfunction.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png">
-    <img src="{{ site.baseurl }}/images/uploads/elver-ariza-silva-with-border.png" alt="Headshot of Elver Ariza-Silva." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/PVA-group-photo.JPG">
+    <img src="{{ site.baseurl }}/images/uploads/PVA-group-photo.JPG" alt="Headshot of Elver Ariza-Silva." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Elver Ariza-Silva</em>
@@ -53,8 +53,8 @@ Access Board Members had the opportunity to observe the new national headquarter
 Following its sessions with PVA, the Board met with Collie Turner, who is the Founder and Executive Director of [Heroic Gardens](https://heroicgardens.org/), a nonprofit organization serving veterans with disabilities through adaptive gardening. Turner provided Board Members with a demonstration of one of the organization’s programs, which involved therapeutic horticulture and teambuilding activities. Heroic Gardens has received a commendation from the [Department of Veterans Affairs (VA)](https://www.va.gov/) through its [National Community Partnership Challenge (CPC)](https://www.va.gov/HEALTHPARTNERSHIPS/cpc/index.asp).
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/michael-brennan-with-border.png">
-    <img src="{{ site.baseurl }}/images/uploads/michael-brennan-with-border.png" alt="Headshot of Michael Brennan." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/PVA-heroic-gardens-demo.JPG">
+    <img src="{{ site.baseurl }}/images/uploads/PVA-heroic-gardens-demo.JPG" alt="Headshot of Michael Brennan." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Dr. Michael Brennan</em>
