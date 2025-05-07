@@ -50,8 +50,6 @@ Later, on Tuesday, April 29, the Access Board attended a series of meetings with
 
 Access Board Members had the opportunity to observe the new national headquarters of PVA on I Street. The new office space includes expanded restrooms with lowered switch entrances and showers, accessible height counters and common areas with amenities, kitchen appliances with adaptive features, working areas equipped with adjustable height desks, widened pathways, and many other accessibility features. Following this observation, the Board met with PVA leadership, including CEO Carl Blake, to discuss the mission and goals of the organization.
 
-Following its sessions with PVA, the Board met with Collie Turner, who is the Founder and Executive Director of [Heroic Gardens](https://heroicgardens.org/), a nonprofit organization serving veterans with disabilities through adaptive gardening. Turner provided Board Members with a demonstration of one of the organization’s programs, which involved therapeutic horticulture and teambuilding activities. Heroic Gardens has received a commendation from the [Department of Veterans Affairs (VA)](https://www.va.gov/) through its [National Community Partnership Challenge (CPC)](https://www.va.gov/HEALTHPARTNERSHIPS/cpc/index.asp).
-
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/PVA-heroic-gardens-demo.JPG">
     <img src="{{ site.baseurl }}/images/uploads/PVA-heroic-gardens-demo.JPG" alt="Headshot of Michael Brennan." class="center">
@@ -60,5 +58,7 @@ Following its sessions with PVA, the Board met with Collie Turner, who is the Fo
     <em>Collie Turner from Heroic Gardens led a therapeutic horticulture lesson.</em>
   </figcaption>
 </figure>
+
+Following its sessions with PVA, the Board met with Collie Turner, who is the Founder and Executive Director of [Heroic Gardens](https://heroicgardens.org/), a nonprofit organization serving veterans with disabilities through adaptive gardening. Turner provided Board Members with a demonstration of one of the organization’s programs, which involved therapeutic horticulture and teambuilding activities. Heroic Gardens has received a commendation from the [Department of Veterans Affairs (VA)](https://www.va.gov/) through its [National Community Partnership Challenge (CPC)](https://www.va.gov/HEALTHPARTNERSHIPS/cpc/index.asp).
 
 The Access Board was proud to honor America’s veterans during the week of its Board meeting. These engagements allowed the agency to learn more about the issues affecting the millions of veterans with disabilities in the United States. To stay up to date on the Board and be notified when Board meetings, webinars, and other events are scheduled, [sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1) for the agency’s email list.
