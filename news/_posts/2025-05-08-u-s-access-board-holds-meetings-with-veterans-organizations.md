@@ -7,7 +7,7 @@ excerpt: During the latest meeting of the U.S. Access Board, Public and Federal
   several of which focused on veterans organizations and issues affecting
   veterans with disabilities. On Monday, April 28, following a series of
   meetings at the Access Board’s office in Washington, DC . . .
-image: /images/uploads/wwi-group-photo.jpg
+image: ""
 image_alt_text: Access Board Members and staff stand in front of the WWI Memorial.
 featured: true
 ---
