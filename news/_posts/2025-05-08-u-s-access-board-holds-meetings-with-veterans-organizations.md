@@ -18,7 +18,7 @@ During the [latest meeting](https://www.access-board.gov/news/2025/04/30/elver-a
     <img src="{{ site.baseurl }}/images/uploads/WWI-map-demo.JPG" alt="Headshot of Elver Ariza-Silva." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Elver Ariza-Silva</em>
+    <em>NPS staff explained the memorial's accessibility features.</em>
   </figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ These accessibility features provide visitors with disabilities the opportunity 
     <img src="{{ site.baseurl }}/images/uploads/WWI-doughboys-performance.JPG" alt="Headshot of Michael Brennan." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Dr. Michael Brennan</em>
+    <em>A bugle player from the Doughboy Foundation performed "Taps."</em>
   </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Later, on Tuesday, April 29, the Access Board attended a series of meetings with
     <img src="{{ site.baseurl }}/images/uploads/PVA-group-photo.JPG" alt="Headshot of Elver Ariza-Silva." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Elver Ariza-Silva</em>
+    <em>Access Board Members and staff visited the national headquarters of PVA.</em>
   </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Following its sessions with PVA, the Board met with Collie Turner, who is the Fo
     <img src="{{ site.baseurl }}/images/uploads/PVA-heroic-gardens-demo.JPG" alt="Headshot of Michael Brennan." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Dr. Michael Brennan</em>
+    <em>Collie Turner from Heroic Gardens led a therapeutic horticulture lesson.</em>
   </figcaption>
 </figure>
 
