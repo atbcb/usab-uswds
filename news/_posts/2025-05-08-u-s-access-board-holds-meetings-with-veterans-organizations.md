@@ -18,7 +18,7 @@ During the [latest meeting](https://www.access-board.gov/news/2025/04/30/elver-a
     <img src="{{ site.baseurl }}/images/uploads/WWI-map-demo.JPG" alt="An NPS staff member explains the features on a tactile map." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>NPS staff explained the memorial's accessibility features.</em>
+    <em>NPS staff explained the WWI Memorial's accessibility features.</em>
   </figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ These accessibility features provide visitors with disabilities the opportunity 
     <img src="{{ site.baseurl }}/images/uploads/WWI-doughboys-performance.JPG" alt="A bugle player from the Doughboy Foundation performs Taps in a WWI-era uniform." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A bugle player from the Doughboy Foundation performed "Taps."</em>
+    <em>A bugle player from the Doughboy Foundation performed "Taps".</em>
   </figcaption>
 </figure>
 
