@@ -2,7 +2,7 @@
 name: alison-levy
 first_name: Alison
 last_name: Levy
-full_name: Alison Levy
+full_name: Alison Sutton Levy
 image: /images/uploads/alison-levy.png
 job-title: Director
 agency: ""
