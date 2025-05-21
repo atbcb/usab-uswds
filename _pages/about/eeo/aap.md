@@ -60,11 +60,11 @@ _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
     <tr>
       <td>&nbsp;</td>
       <th scope="row">Grades GS-11 to SES</th>
-      <td>25</td>
-      <td>12</td>
-      <td>48.00</td>
-      <td>7</td>
-      <td>28.00</td>
+      <td>22</td>
+      <td>10</td>
+      <td>45.45</td>
+      <td>6</td>
+      <td>27.27</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
