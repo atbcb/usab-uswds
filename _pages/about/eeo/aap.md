@@ -459,7 +459,7 @@ _Developmental details are opened to employees.  All job vacancies are advertise
     </tr>
   </tbody>
 </table>
-##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Applicants (PWD)
 >> Answer: No
@@ -467,7 +467,7 @@ _Developmental details are opened to employees.  All job vacancies are advertise
 > b. Selections (PWD)
 >> Answer: No
 
-#### 4. Do triggers exist for PWTD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+#### 4. Do triggers exist for PWTD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Applicants (PWTD)
 >> Answer: No
