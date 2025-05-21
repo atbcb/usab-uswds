@@ -60,11 +60,11 @@ _Currently, the Access Board is at 0% for the GS-1 to GS-10 cluster._
     <tr>
       <td>&nbsp;</td>
       <th scope="row">Grades GS-11 to SES</th>
-      <td>25</td>
-      <td>12</td>
-      <td>48.00</td>
-      <td>7</td>
-      <td>28.00</td>
+      <td>22</td>
+      <td>10</td>
+      <td>45.45</td>
+      <td>6</td>
+      <td>27.27</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -88,7 +88,7 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
 
 #### A. Plan to provide sufficient & competent staffing for the disability program
 
-##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period?&nbsp; If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
+##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
 
 > Answer: Yes
 
@@ -155,7 +155,7 @@ _N/A_
   </tbody>
 </table>
 
-##### 3. Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period?&nbsp; If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
+##### 3. Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
 
 > Answer: Yes
 
@@ -163,57 +163,13 @@ _The EEO Director will research and schedule disability training for the Access 
 
 #### B. Plan to ensure sufficient funding for the disability program
 
-Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period?  If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
+Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period? If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
 
 > Answer: Yes
 
 _The EEO Director has initiated discussions with the Access Board regarding the need for funding for disability training and the related programs._
 
 ### Section III: Program Deficiencies In The Disability Program
-
-<table id="t30" class="data usa-table" id="t30">
-  <tbody>
-    <tr>
-      <th scope="row">Brief Description of Program Deficiency</th>
-      <td colspan="6">D.1.c. Does the agency conduct exit interviews or surveys that include questions on how the agency could improve the recruitment, hiring, inclusion, retention and advancement of individuals with disabilities? [see 29 CFR §1614.203(d)(1) (iii)(C)]</td>
-    </tr>
-    <tr>
-      <th scope="row">Objective</th>
-      <td colspan="6">Update the Access Board Exit Clearance process, and ensure it's utilized.</td>
-    </tr>
-    <tr>
-      <th scope="row">Target Date</th>
-      <td>Oct 1, 2024</td>
-      <td colspan="5">&nbsp;</td>
-    </tr>
-    <tr>
-      <th scope="row">Completion Date</th>
-      <td>&nbsp;</td>
-      <td colspan="5">&nbsp;</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th scope="row">Planned Activities</th>
-      <td>Target Date</td>
-      <td>&nbsp;</td>
-      <td>Completion Date</td>
-      <td>&nbsp;</td>
-      <td>Planned Activity</td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th scope="row">Accomplishments</th>
-      <td>Fiscal Year</td>
-      <td>&nbsp;</td>
-      <td>Accomplishment</td>
-      <td>&nbsp;</td>
-      <td colspan="2">&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
 
 ### Section IV: Plan to Recruit and Hire Individuals with Disabilities
 
@@ -233,7 +189,7 @@ _The Access Board utilized Schedule A hiring authority to recruit recruit PWD an
 
 _The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline._
 
-##### 4. Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)?&nbsp; If “yes”, describe the type(s) of training and frequency.&nbsp; If “no”, describe the agency’s plan to provide this training.
+##### 4. Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
     
 > Answer: Yes
 
@@ -247,7 +203,7 @@ _The agency plans to identify and establish contacts with organizations that ass
 
 #### C. Progression Towards Goals (Recruitment and Hiring)
 
-##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce?&nbsp; If “yes”, please describe the triggers below.
+##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce? If “yes”, please describe the triggers below.
 
 > a. New Hires for Permanent Workforce (PWD)
 >> Answer:  No
@@ -304,7 +260,7 @@ _N/A_
   </tbody>
 </table>
 
-##### 2. Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 2. Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. New Hires for MCO (PWD)
 >> Answer: N/A
@@ -338,7 +294,7 @@ _N/A_
   </tbody>
 </table>
 
-##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Qualified Applicants for MCO (PWD)
 >> Answer: No
@@ -348,7 +304,7 @@ _N/A_
 
 _N/A_
 
-##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission-critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Promotions for MCO (PWD)
 >> Answer: No
@@ -459,7 +415,7 @@ _Developmental details are opened to employees.  All job vacancies are advertise
     </tr>
   </tbody>
 </table>
-##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 3. Do triggers exist for PWD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Applicants (PWD)
 >> Answer: No
@@ -467,7 +423,7 @@ _Developmental details are opened to employees.  All job vacancies are advertise
 > b. Selections (PWD)
 >> Answer: No
 
-#### 4. Do triggers exist for PWTD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+#### 4. Do triggers exist for PWTD among the applicants and/or selectees for any of the career development programs? (The appropriate benchmarks are the relevant applicant pool for the applicants and the applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Applicants (PWTD)
 >> Answer: No
@@ -491,43 +447,46 @@ _N/A_
 
 | Time-Off Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|Time-Off Awards    1 - 10 hours: Awards    Given|3|8.33|15.38|14.29|0.00|
-|Time-Off Awards    1 - 10 Hours: Total Hours|24|66.67|123.08|114.29|0.00|
-|Time-Off Awards    1 - 10 Hours: Average    Hours|8|66.67|61.54|114.29|0.00|
-|Time-Off Awards    11 - 20 hours: Awards    Given|6|33.33|15.38|28.57|40.00|
-|Time-Off Awards    11 - 20 Hours: Total Hours|96|533.33|246.15|457.14|640.00|
-|Time-Off Awards    11 - 20 Hours: Average    Hours|16|133.33|123.08|228.57|0.00|
-|Time-Off Awards    21 - 30 hours: Awards    Given|1|0.00|7.69|0.00|0.00|
-|Time-Off Awards    21 - 30 Hours: Total Hours|24|0.00|184.62|0.00|0.00|
-|Time-Off Awards    21 - 30 Hours: Average    Hours|24|0.00|184.62|0.00|0.00|
-|Time-Off Awards    31 - 40 hours: Awards    Given|1|8.33|0.00|14.29|0.00|
-|Time-Off Awards    31 - 40 Hours: Total Hours|40|333.33|0.00|571.43|0.00|
-|Time-Off Awards    31 - 40 Hours: Average    Hours|40|333.33|0.00|571.43|0.00|
-|Time-Off Awards    41 or more Hours: Awards Given|0|0.00|0.00|0.00|0.00|
-|Time-Off Awards    41 or more Hours: Total Hours|0|0.00|0.00|0.00|0.00|
-|Time-Off Awards    41 or more Hours: Average Hours|0|0.00|0.00|0.00|0.00|
+|Time-Off Awards    1 - 10 hours: Awards    Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    1 - 10 Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    1 - 10 Hours: Average    Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    11 - 20 hours: Awards    Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    11 - 20 Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    11 - 20 Hours: Average    Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    21 - 30 hours: Awards    Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    21 - 30 Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    21 - 30 Hours: Average    Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    31 - 40 hours: Awards    Given|2.00|50.0000|50.0000|50.0000|50.0000|
+|Time-Off Awards    31 - 40 Hours: Total Hours|72.00|55.5556|44.4444|55.5556|44.4444|
+|Time-Off Awards    31 - 40 Hours: Average    Hours|36.00|40.0000|32.0000|40.0000|32.0000|
+|Time-Off Awards    41 or more Hours: Awards Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    41 or more Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    41 or more Hours: Average Hours|0.00|0.0000|0.0000|0.0000|0.0000|
 {: #t5c1 .data .usa-table }
 
 | Cash Awards | Total (#) |Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|Cash Awards: $501 - $999: Awards Given|1|0.00|7.69|0.00|0.00|
-|Cash Awards: $501 - $999: Total Amount|731|0.00|5623.08|0.00|0.00|
-|Cash Awards: $501 - $999:    Average Amount|731|0.00|5623.08|0.00|0.00|
-|Cash Awards: $1000 - $1999:    Awards Given|3|8.33|15.38|0.00|20.00|
-|Cash Awards: $1000 - $1999: Total Amount|4312|13533.33|20676.92|0.00|32480.00|
-|Cash Awards: $1000 - $1999:    Average Amount|1437|13533.33|10338.46|0.00|32480.00|
-|Cash Awards: $2000 - $2999:    Awards Given|2|0.00|15.38|0.00|0.00|
-|Cash Awards: $2000 - $2999: Total Amount|4574|0.00|35184.62|0.00|0.00|
-|Cash Awards: $2000 - $2999:    Average Amount|2287|0.00|17592.31|0.00|0.00|
-|Cash Awards: $3000 - $3999:    Awards Given|2|8.33|7.69|0.00|20.00|
-|Cash Awards: $3000 - $3999: Total Amount|6771|28675.00|25615.38|0.00|68820.00|
-|Cash Awards: $3000 - $3999:    Average Amount|3385|28675.00|25615.38|0.00|68820.00|
-|Cash Awards: $4000 - $4999:    Awards Given|3|25.00|0.00|42.86|0.00|
-|Cash Awards: $4000 - $4999: Total Amount|13450|112083.33|0.00|192142.86|0.00|
-|Cash Awards: $4000 - $4999:    Average Amount|4483|37358.33|0.00|64042.86|0.00|
-|Cash Awards: $5000 or more:    Awards Given|14|58.33|46.15|71.43|40.00|
-|Cash Awards: $5000 or more: Total Amount|159630|808166.67|418161.54|1152228.57|326480.00|
-|Cash Awards: $5000 or more:    Average Amount|11402|115450.00|69692.31|230442.86|-45540.00|
+|Cash Awards: $500 and Under: Awards Given|1.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $500 and Under: Total Amount|365.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $500 and Under:    Average Amount|365.00|365.0000|0.0000|365.0000|0.0000|
+|Cash Awards: $501 - $999: Awards Given|7.00|57.1429|42.8571|42.8571|57.1429|
+|Cash Awards: $501 - $999: Total Amount|5118.00|57.1512|42.8488|42.8683|57.1317|
+|Cash Awards: $501 - $999:    Average Amount|731.14|731.2500|731.0000|731.3333|731.0000|
+|Cash Awards: $1000 - $1999:    Awards Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $1000 - $1999: Total Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $1000 - $1999:    Average Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $2000 - $2999:    Awards Given|3.00|0.0000|100.0000|0.0000|100.0000|
+|Cash Awards: $2000 - $2999: Total Amount|6796.00|0.0000|100.0000|0.0000|100.0000|
+|Cash Awards: $2000 - $2999:    Average Amount|2265.33|0.0000|2265.3333|0.0000|2265.3333|
+|Cash Awards: $3000 - $3999:    Awards Given|1.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $3000 - $3999: Total Amount|3656.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $3000 - $3999:    Average Amount|3656.00|3656.0000|0.0000|3656.0000|0.0000|
+|Cash Awards: $4000 - $4999:    Awards Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $4000 - $4999: Total Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $4000 - $4999:    Average Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $5000 or more:    Awards Given|14.00|57.1429|42.8571|42.8571|57.1429|
+|Cash Awards: $5000 or more: Total Amount|136871.00|66.2200|33.7800|55.9680|44.0320|
+|Cash Awards: $5000 or more:    Average Amount|9776.50|11329.5000|7705.8333|12767.3333|7533.3750|
 {: #t5c2 .data .usa-table }
 
 ##### 2. Using the inclusion rate as the benchmark, does your agency have a trigger involving PWD and/or PWTD for quality step increases or performance- based pay increases? If “yes”, please describe the trigger(s) in the text box.
@@ -545,7 +504,7 @@ _N/A_
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 {: #t4cx .data .usa-table }
 
-##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities?&nbsp; (The appropriate benchmark is the inclusion rate.)&nbsp; If “yes”, describe the employee recognition program and relevant data in the text box.
+##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities? (The appropriate benchmark is the inclusion rate.) If “yes”, describe the employee recognition program and relevant data in the text box.
     
 > a. Other Types of Recognition (PWD)
 >> Answer: N/A
@@ -557,7 +516,7 @@ _N/A_
 
 #### D. Promotions
 
-##### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. SES
 >> i. Qualified Internal Applicants (PWD)
@@ -587,7 +546,7 @@ _N/A_
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
-#### 2. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+#### 2. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. SES
 >> i. Qualified Internal Applicants (PWTD)
@@ -635,7 +594,7 @@ _N/A_
 
 _N/A_
 
-#### 4. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels?&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+#### 4. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
   
 > a. New Hires to SES (PWTD)
 >> Answer: No
@@ -651,7 +610,7 @@ _N/A_
 
 _N/A_
 
-##### 5. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to supervisory positions?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 5. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to supervisory positions? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Executives
 >> i. Qualified Internal Applicants (PWD)
@@ -752,11 +711,11 @@ _N/A_
 | Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
 | :---: | :---: | :---: | :---: |
 |Permanent Workforce: Reduction in Force|0|0.00|0.00|
-|Permanent Workforce: Removal|1|0.00|5.00|
+|Permanent Workforce: Removal|0|0.00|0.00|
 |Permanent Workforce: Resignation|0|0.00|0.00|
-|Permanent Workforce: Retirement|3|10.00|5.00|
-|Permanent Workforce: Other Separations|0|0.00|0.00|
-|Permanent Workforce: Total Separations|4|10.00|10.00|
+|Permanent Workforce: Retirement|1|5.00|0.00|
+|Permanent Workforce: Other Separations|2|0.00|10.53|
+|Permanent Workforce: Total Separations|3|5.00|10.53|
 {: #t6a2 .data .usa-table }
 
 ##### 3. Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
@@ -772,11 +731,11 @@ _N/A_
 | Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
 | :---: | :---: | :---: | :---: |
 |Permanent Workforce: Reduction in Force|0|0.00|0.00|
-|Permanent Workforce: Removal|1|0.00|3.57|
+|Permanent Workforce: Removal|0|0.00|0.00|
 |Permanent Workforce: Resignation|0|0.00|0.00|
-|Permanent Workforce: Retirement|3|16.67|3.57|
-|Permanent Workforce: Other Separations|0|0.00|0.00|
-|Permanent Workforce: Total Separations|4|16.67|7.14|
+|Permanent Workforce: Retirement|1|0.00|3.85|
+|Permanent Workforce: Other Separations|2|0.00|7.69|
+|Permanent Workforce: Total Separations|3|0.00|11.54|
 {: #t6a3 .data .usa-table }
 
 ##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
@@ -797,7 +756,7 @@ _https://www.access-board.gov/enforcement/_
 
 ##### 3. Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
 
-_The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.&nbsp; Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency.&nbsp; To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA._
+_The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act. Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency. To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA._
 
 #### C. Reasonable Accommodation Program
 
@@ -854,7 +813,7 @@ _N/A_
 ##### 2. Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
 > Answer: Yes
 
-##### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
+##### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments.
 
 #### Source of the Trigger:
 
@@ -870,7 +829,7 @@ Provide a brief narrative describing the condition at issue.
 
 How was the condition recognized as a potential barrier?
 
-_A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD gaok at the GS 1-10 grades.  The Access Board only has 2 positions at the GS 1-10 grades.  The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
+_A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD goal at the GS 1-10 grades. The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
 
 #### Statement of Barrier Groups:    
 
@@ -933,7 +892,7 @@ _Multiple retirements, and changes in agency leadership._
 
 ##### 5. For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
 
-_Planned activities are unknow at this time._
+_Planned activities are unknown at this time._
 
 ##### 6. If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
 
