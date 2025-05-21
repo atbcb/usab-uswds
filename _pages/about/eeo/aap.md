@@ -233,7 +233,7 @@ _The Access Board utilized Schedule A hiring authority to recruit recruit PWD an
 
 _The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline._
 
-##### 4. Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)?&nbsp; If “yes”, describe the type(s) of training and frequency.&nbsp; If “no”, describe the agency’s plan to provide this training.
+##### 4. Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
     
 > Answer: Yes
 
@@ -247,7 +247,7 @@ _The agency plans to identify and establish contacts with organizations that ass
 
 #### C. Progression Towards Goals (Recruitment and Hiring)
 
-##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce?&nbsp; If “yes”, please describe the triggers below.
+##### 1.  Using the goals of 12% for PWD and 2% for PWTD as the benchmarks, do triggers exist for PWD and/or PWTD among the new hires in the permanent workforce? If “yes”, please describe the triggers below.
 
 > a. New Hires for Permanent Workforce (PWD)
 >> Answer:  No
@@ -304,7 +304,7 @@ _N/A_
   </tbody>
 </table>
 
-##### 2. Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 2. Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the new hires for any of the mission- critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. New Hires for MCO (PWD)
 >> Answer: N/A
@@ -338,7 +338,7 @@ _N/A_
   </tbody>
 </table>
 
-##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 3. Using the relevant applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among the qualified internal applicants for any of the mission-critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Qualified Applicants for MCO (PWD)
 >> Answer: No
@@ -348,7 +348,7 @@ _N/A_
 
 _N/A_
 
-##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission-critical occupations (MCO)?&nbsp; If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 4.  Using the qualified applicant pool as the benchmark, do triggers exist for PWD and/or PWTD among employees promoted to any of the mission-critical occupations (MCO)? If “yes”, please describe the triggers below. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Promotions for MCO (PWD)
 >> Answer: No
