@@ -171,50 +171,6 @@ _The EEO Director has initiated discussions with the Access Board regarding the 
 
 ### Section III: Program Deficiencies In The Disability Program
 
-<table id="t30" class="data usa-table" id="t30">
-  <tbody>
-    <tr>
-      <th scope="row">Brief Description of Program Deficiency</th>
-      <td colspan="6">D.1.c. Does the agency conduct exit interviews or surveys that include questions on how the agency could improve the recruitment, hiring, inclusion, retention and advancement of individuals with disabilities? [see 29 CFR §1614.203(d)(1) (iii)(C)]</td>
-    </tr>
-    <tr>
-      <th scope="row">Objective</th>
-      <td colspan="6">Update the Access Board Exit Clearance process, and ensure it's utilized.</td>
-    </tr>
-    <tr>
-      <th scope="row">Target Date</th>
-      <td>Oct 1, 2024</td>
-      <td colspan="5">&nbsp;</td>
-    </tr>
-    <tr>
-      <th scope="row">Completion Date</th>
-      <td>&nbsp;</td>
-      <td colspan="5">&nbsp;</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th scope="row">Planned Activities</th>
-      <td>Target Date</td>
-      <td>&nbsp;</td>
-      <td>Completion Date</td>
-      <td>&nbsp;</td>
-      <td>Planned Activity</td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th scope="row">Accomplishments</th>
-      <td>Fiscal Year</td>
-      <td>&nbsp;</td>
-      <td>Accomplishment</td>
-      <td>&nbsp;</td>
-      <td colspan="2">&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
-
 ### Section IV: Plan to Recruit and Hire Individuals with Disabilities
 
 Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a plan to increase the recruitment and hiring of individuals with disabilities. The questions below are designed to identify outcomes of the agency’s recruitment program plan for PWD and PWTD.
@@ -752,11 +708,11 @@ _N/A_
 | Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
 | :---: | :---: | :---: | :---: |
 |Permanent Workforce: Reduction in Force|0|0.00|0.00|
-|Permanent Workforce: Removal|1|0.00|5.00|
+|Permanent Workforce: Removal|0|0.00|0.00|
 |Permanent Workforce: Resignation|0|0.00|0.00|
-|Permanent Workforce: Retirement|3|10.00|5.00|
-|Permanent Workforce: Other Separations|0|0.00|0.00|
-|Permanent Workforce: Total Separations|4|10.00|10.00|
+|Permanent Workforce: Retirement|1|5.00|0.00|
+|Permanent Workforce: Other Separations|2|0.00|10.53|
+|Permanent Workforce: Total Separations|3|5.00|10.53|
 {: #t6a2 .data .usa-table }
 
 ##### 3. Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
@@ -772,11 +728,11 @@ _N/A_
 | Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
 | :---: | :---: | :---: | :---: |
 |Permanent Workforce: Reduction in Force|0|0.00|0.00|
-|Permanent Workforce: Removal|1|0.00|3.57|
+|Permanent Workforce: Removal|0|0.00|0.00|
 |Permanent Workforce: Resignation|0|0.00|0.00|
-|Permanent Workforce: Retirement|3|16.67|3.57|
-|Permanent Workforce: Other Separations|0|0.00|0.00|
-|Permanent Workforce: Total Separations|4|16.67|7.14|
+|Permanent Workforce: Retirement|1|0.00|3.85|
+|Permanent Workforce: Other Separations|2|0.00|7.69|
+|Permanent Workforce: Total Separations|3|0.00|11.54|
 {: #t6a3 .data .usa-table }
 
 ##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
@@ -797,7 +753,7 @@ _https://www.access-board.gov/enforcement/_
 
 ##### 3. Describe any programs, policies, or practices that the agency has undertaken, or plans on undertaking over the next fiscal year, designed to improve accessibility of agency facilities and/or technology.
 
-_The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.&nbsp; Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency.&nbsp; To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA._
+_The U.S. Access Board is committed to making its information and communication technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act. Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency. To meet this commitment, our web pages have been designed to meet or exceed the Section 508 standards and conform to the W3C Web Content Accessibility Guidelines (WCAG) 2.0, Level AA._
 
 #### C. Reasonable Accommodation Program
 
@@ -854,7 +810,7 @@ _N/A_
 ##### 2. Has the agency established a plan to correct the barrier(s) involving PWD and/or PWTD?
 > Answer: Yes
 
-##### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments
+##### 3. Identify each trigger and plan to remove the barrier(s), including the identified barrier(s), objective(s), responsible official(s), planned activities, and, where applicable, accomplishments.
 
 #### Source of the Trigger:
 
@@ -870,7 +826,7 @@ Provide a brief narrative describing the condition at issue.
 
 How was the condition recognized as a potential barrier?
 
-_A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD gaok at the GS 1-10 grades.  The Access Board only has 2 positions at the GS 1-10 grades.  The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
+_A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD goal at the GS 1-10 grades. The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
 
 #### Statement of Barrier Groups:    
 
@@ -933,7 +889,7 @@ _Multiple retirements, and changes in agency leadership._
 
 ##### 5. For the planned activities that were completed, please describe the actual impact of those activities toward eliminating the barrier(s).
 
-_Planned activities are unknow at this time._
+_Planned activities are unknown at this time._
 
 ##### 6. If the planned activities did not correct the trigger(s) and/or barrier(s), please describe how the agency intends to improve the plan for the next fiscal year.
 
