@@ -88,7 +88,7 @@ Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff, 
 
 #### A. Plan to provide sufficient & competent staffing for the disability program
 
-##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period?&nbsp; If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
+##### 1. Has the agency designated sufficient qualified personnel to implement its disability program during the reporting period? If “no”, describe the agency’s plan to improve the staffing for the upcoming year.
 
 > Answer: Yes
 
@@ -155,7 +155,7 @@ _N/A_
   </tbody>
 </table>
 
-##### 3. Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period?&nbsp; If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
+##### 3. Has the agency provided disability program staff with sufficient training to carry out their responsibilities during the reporting period? If “yes”, describe the training that disability program staff have received. If “no”, describe the training planned for the upcoming year.
 
 > Answer: Yes
 
@@ -163,7 +163,7 @@ _The EEO Director will research and schedule disability training for the Access 
 
 #### B. Plan to ensure sufficient funding for the disability program
 
-Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period?  If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
+Has the agency provided sufficient funding and other resources to successfully implement the disability program during the reporting period? If “no”, describe the agency’s plan to ensure all aspects of the disability program have sufficient funding and other resources.
 
 > Answer: Yes
 
