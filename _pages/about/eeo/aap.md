@@ -447,43 +447,43 @@ _N/A_
 
 | Time-Off Awards | Total (#) | Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|Time-Off Awards    1 - 10 hours: Awards    Given|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    1 - 10 Hours: Total Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    1 - 10 Hours: Average    Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    11 - 20 hours: Awards    Given|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    11 - 20 Hours: Total Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    11 - 20 Hours: Average    Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    21 - 30 hours: Awards    Given|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    21 - 30 Hours: Total Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    21 - 30 Hours: Average    Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    31 - 40 hours: Awards    Given|2.00|50.00|50.00|50.00|50.00|
+|Time-Off Awards    1 - 10 hours: Awards    Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    1 - 10 Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    1 - 10 Hours: Average    Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    11 - 20 hours: Awards    Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    11 - 20 Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    11 - 20 Hours: Average    Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    21 - 30 hours: Awards    Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    21 - 30 Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    21 - 30 Hours: Average    Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    31 - 40 hours: Awards    Given|2.00|50.0000|50.0000|50.0000|50.0000|
 |Time-Off Awards    31 - 40 Hours: Total Hours|72.00|55.5556|44.4444|55.5556|44.4444|
-|Time-Off Awards    31 - 40 Hours: Average    Hours|36.00|40.00|32.00|40.00|32.00|
-|Time-Off Awards    41 or more Hours: Awards Given|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    41 or more Hours: Total Hours|0.00|0.00|0.00|0.00|0.00|
-|Time-Off Awards    41 or more Hours: Average Hours|0.00|0.00|0.00|0.00|0.00|
+|Time-Off Awards    31 - 40 Hours: Average    Hours|36.00|40.0000|32.0000|40.0000|32.0000|
+|Time-Off Awards    41 or more Hours: Awards Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    41 or more Hours: Total Hours|0.00|0.0000|0.0000|0.0000|0.0000|
+|Time-Off Awards    41 or more Hours: Average Hours|0.00|0.0000|0.0000|0.0000|0.0000|
 {: #t5c1 .data .usa-table }
 
 | Cash Awards | Total (#) |Reportable Disability % | Without Reportable Disability % | Targeted Disability % | Without Targeted Disability % |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|Cash Awards: $500 and Under: Awards Given|1.00|100.00|0.00|100.00|0.00|
-|Cash Awards: $500 and Under: Total Amount|365.00|100.00|0.00|100.00|0.00|
-|Cash Awards: $500 and Under:    Average Amount|365.00|365.00|0.00|365.00|0.00|
+|Cash Awards: $500 and Under: Awards Given|1.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $500 and Under: Total Amount|365.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $500 and Under:    Average Amount|365.00|365.0000|0.0000|365.0000|0.0000|
 |Cash Awards: $501 - $999: Awards Given|7.00|57.1429|42.8571|42.8571|57.1429|
 |Cash Awards: $501 - $999: Total Amount|5118.00|57.1512|42.8488|42.8683|57.1317|
-|Cash Awards: $501 - $999:    Average Amount|731.14|731.2500|731.00|731.3333|731.00|
-|Cash Awards: $1000 - $1999:    Awards Given|0.00|0.00|0.00|0.00|0.00|
-|Cash Awards: $1000 - $1999: Total Amount|0.00|0.00|0.00|0.00|0.00|
-|Cash Awards: $1000 - $1999:    Average Amount|0.00|0.00|0.00|0.00|0.00|
-|Cash Awards: $2000 - $2999:    Awards Given|3.00|0.00|100.00|0.00|100.00|
-|Cash Awards: $2000 - $2999: Total Amount|6796.00|0.00|100.00|0.00|100.00|
-|Cash Awards: $2000 - $2999:    Average Amount|2265.33|0.00|2265.3333|0.00|2265.3333|
-|Cash Awards: $3000 - $3999:    Awards Given|1.00|100.00|0.00|100.00|0.00|
-|Cash Awards: $3000 - $3999: Total Amount|3656.00|100.00|0.00|100.00|0.00|
-|Cash Awards: $3000 - $3999:    Average Amount|3656.00|3656.00|0.00|3656.00|0.00|
-|Cash Awards: $4000 - $4999:    Awards Given|0.00|0.00|0.00|0.00|0.00|
-|Cash Awards: $4000 - $4999: Total Amount|0.00|0.00|0.00|0.00|0.00|
-|Cash Awards: $4000 - $4999:    Average Amount|0.00|0.00|0.00|0.00|0.00|
+|Cash Awards: $501 - $999:    Average Amount|731.14|731.2500|731.0000|731.3333|731.0000|
+|Cash Awards: $1000 - $1999:    Awards Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $1000 - $1999: Total Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $1000 - $1999:    Average Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $2000 - $2999:    Awards Given|3.00|0.0000|100.0000|0.0000|100.0000|
+|Cash Awards: $2000 - $2999: Total Amount|6796.00|0.0000|100.0000|0.0000|100.0000|
+|Cash Awards: $2000 - $2999:    Average Amount|2265.33|0.0000|2265.3333|0.0000|2265.3333|
+|Cash Awards: $3000 - $3999:    Awards Given|1.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $3000 - $3999: Total Amount|3656.00|100.0000|0.0000|100.0000|0.0000|
+|Cash Awards: $3000 - $3999:    Average Amount|3656.00|3656.0000|0.0000|3656.0000|0.0000|
+|Cash Awards: $4000 - $4999:    Awards Given|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $4000 - $4999: Total Amount|0.00|0.0000|0.0000|0.0000|0.0000|
+|Cash Awards: $4000 - $4999:    Average Amount|0.00|0.0000|0.0000|0.0000|0.0000|
 |Cash Awards: $5000 or more:    Awards Given|14.00|57.1429|42.8571|42.8571|57.1429|
 |Cash Awards: $5000 or more: Total Amount|136871.00|66.2200|33.7800|55.9680|44.0320|
 |Cash Awards: $5000 or more:    Average Amount|9776.50|11329.5000|7705.8333|12767.3333|7533.3750|
