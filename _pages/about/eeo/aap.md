@@ -545,7 +545,7 @@ _N/A_
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 {: #t4cx .data .usa-table }
 
-##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities?&nbsp; (The appropriate benchmark is the inclusion rate.)&nbsp; If “yes”, describe the employee recognition program and relevant data in the text box.
+##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities? (The appropriate benchmark is the inclusion rate.) If “yes”, describe the employee recognition program and relevant data in the text box.
     
 > a. Other Types of Recognition (PWD)
 >> Answer: N/A
@@ -557,7 +557,7 @@ _N/A_
 
 #### D. Promotions
 
-##### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 1. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. SES
 >> i. Qualified Internal Applicants (PWD)
@@ -587,7 +587,7 @@ _N/A_
 >> ii. Internal Selections (PWD)
 >>> Answer: No
 
-#### 2. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+#### 2. Does your agency have a trigger involving PWTD among the qualified internal applicants and/or selectees for promotions to the senior grade levels? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. SES
 >> i. Qualified Internal Applicants (PWTD)
@@ -635,7 +635,7 @@ _N/A_
 
 _N/A_
 
-#### 4. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels?&nbsp; For non-GS pay plans, please use the approximate senior grade levels.&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+#### 4. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
   
 > a. New Hires to SES (PWTD)
 >> Answer: No
@@ -651,7 +651,7 @@ _N/A_
 
 _N/A_
 
-##### 5. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to supervisory positions?&nbsp; (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.)&nbsp; If “yes”, describe the trigger(s) in the text box.&nbsp; Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
+##### 5. Does your agency have a trigger involving PWD among the qualified internal applicants and/or selectees for promotions to supervisory positions? (The appropriate benchmarks are the relevant applicant pool for qualified internal applicants and the qualified applicant pool for selectees.) If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. Executives
 >> i. Qualified Internal Applicants (PWD)
