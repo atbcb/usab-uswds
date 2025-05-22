@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Biden
-image: /images/uploads/alexis-kashar.png
+image: /images/uploads/alexis-kashar-white.png
 ---
 Alexis Kashar is an attorney, entrepreneur, and producer with a focus on the intersection of accessibility in technology and sports. She grew up in a multi-generational Deaf family that encouraged her interest in civil rights and accessibility from an early age. Alexis graduated from the University of Texas School of Business and the University of Texas Law School.
 
