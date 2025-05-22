@@ -12,7 +12,7 @@ image: /images/uploads/iaaf-banner-2025.jpg
 image_alt_text: "Annual Interagency Accessibility Forum. Accessible by Design:
   Enhancing Efficiency in Federal ICT. Logo and Seals for GSA, IAAF, and U.S.
   Access Board."
-featured: true
+featured: false
 ---
 This year’s annual Interagency Accessibility Forum (IAAF) will be held virtually on May 20 and 21. The event will be built on the theme **Accessible by Design: Enhancing Efficiency in Federal ICT** and will take place over Zoom for Government. IAAF will feature a blend of presentations, workshops, and discussions led by accessibility professionals in the federal, private, and other sectors. Presentation topics include best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 
