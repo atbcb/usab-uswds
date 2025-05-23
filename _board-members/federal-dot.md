@@ -1,12 +1,12 @@
 ---
 name: federal-dot
-last-name: "[Currently Vacant]"
-full_name: "[Currently Vacant]"
+last-name: "Smith"
+full_name: "Loren Smith"
 chair: false
 vice-chair: false
 member: federal
 status: current
 image: /images/uploads/vacant.svg
-job-title: ""
+job-title: "Deputy Assistant Secretary for Transportation Policy"
 agency: Department of Transportation
 ---
