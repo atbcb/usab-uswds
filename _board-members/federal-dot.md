@@ -6,7 +6,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/loren-smith-dot.JPEG
+image: /images/uploads/loren-smith-dot.jpeg
 job-title: "Deputy Assistant Secretary for Policy"
 agency: Department of Transportation
 ---
