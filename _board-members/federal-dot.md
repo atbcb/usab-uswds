@@ -1,7 +1,7 @@
 ---
 name: federal-dot
 last-name: "Smith"
-full_name: "Loren Smith"
+full_name: "Loren A. Smith, Jr."
 chair: false
 vice-chair: false
 member: federal
