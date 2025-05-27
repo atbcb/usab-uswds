@@ -18,4 +18,4 @@ Loren previously worked at the U.S. Department of Transportation from 2017-2021,
 
 From 2009-2016, Loren was an analyst for Capital Alpha Partners, a D.C.-based research firm that studies public policy for investors. He specialized in transportation policy, particularly relating to autos and infrastructure, and published more than 500 research notes.
 
-Loren previously served at the U.S. Department of Labor and as a legislative aide on Capitol Hill. Before that, he worked for several public-policy-focused non-profit organizations. He is a graduate of Boston College, and lives in Virginia with his wife and their nine fantastic children.
+Loren previously served at the U.S. Department of Labor and as a legislative aide on Capitol Hill. Before that, he worked for several public policy-focused non-profit organizations. He is a graduate of Boston College, and lives in Virginia with his wife and their nine fantastic children.
