@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Biden
-image: /images/uploads/muffy-davis.jpg
+image: /images/uploads/muffy-davis-white.jpg
 ---
 Muffy Davis is a 7-time Paralympic Medalist in alpine skiing and cycling, a three-time World Champion, Guinness World Record Holder, and a member of both the USOPC Hall of Fame and the US Ski and SnowBoard Hall of Fame. After a life-changing ski racing accident at 16 left her paralyzed, Muffy has committed her life to public service and advocating for accessibility and expanding opportunities for people with disabilities in sports and all aspects of life.
 
