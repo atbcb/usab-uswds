@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Biden
-image: /images/uploads/betty-siegel.jpg
+image: /images/uploads/betty-siegel-white.jpg
 ---
 Betty Siegel is Director of the Office of Accessibility and VSA at the John F. Kennedy Center for the Performing Arts. A recognized leader and expert in disability and accessibility practices within the arts and culture sectors, she has worked nationally and internationally to support the rights of individuals with disabilities of all ages and backgrounds to engage fully in theaters, museums and other public spaces.
 
