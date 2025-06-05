@@ -31,7 +31,9 @@
           .concat("{{ site_baseurl }}")
           .concat(image || '')
           .concat(title ? " \""
-          .concat(title.replace(/"/g, '\\"'), "\"") : '', ")");
+          .concat(title.replace(/["\\]/g, function (match) {
+            return match === '"' ? '\\"' : '\\\\';
+          }), "\"") : '', ")");
       },
       toPreview: function (opts, getAsset, fields) {
         var alt = opts.alt;
