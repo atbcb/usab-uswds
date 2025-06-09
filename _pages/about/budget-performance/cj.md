@@ -792,7 +792,7 @@ Expenditures in this category include postage, overnight shipping, and in-town d
 
 #### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles &ndash; Update (rail vehicles).
 
-This rulemaking would update the Board&rsquo;s existing accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, and intercity rail) covered by the ADA. The existing rail vehicles guidelines were initially promulgated in 1991, and need an update to, among other things, keep pace with newer accessibility-related technologies, harmonize with recently developed national and international consensus standards, and incorporate recommendations from the Board&rsquo;s Rail Vehicles Access Advisory Committee&rsquo;s report. Past and recent efforts related to this regulatory initiative include:
+This rulemaking would update the Board’s existing accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, and intercity rail) covered by the ADA. The existing rail vehicles guidelines were initially promulgated in 1991, and need an update to, among other things, keep pace with newer accessibility-related technologies, harmonize with recently developed national and international consensus standards, and incorporate recommendations from the Board’s Rail Vehicles Access Advisory Committee’s report. Past and recent efforts related to this regulatory initiative include:
 
 <ul>
   <li> notice of intent to establish advisory committee: February 14, 2013</li>
@@ -804,31 +804,27 @@ This rulemaking would update the Board&rsquo;s existing accessibility guidelines
   <li> notice of extension of comment period: April 10, 2020</li>
 </ul>
 
-#### Guidelines for Self-Service Transaction Machines and Kiosk.
+#### Guidelines for Self-Service Transaction Machines and Kiosks.
 
 SSTMs and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities. They allow customers to conduct an expanding range of transactions and functions independently. SSTMs serve as point-of-sales machines for self-checkout in a growing number of retail facilities, grocery stores, and drug stores. SSTMs and self-service kiosks also allow customers to check-in at airports and hotels and to place orders in restaurants and retail facilities.
 
-SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Robust speech output is necessary to provide access for users unable to see display screens. They also can pose barriers for users who are deaf or hard of hearing if lacking captioning and text equivalents for audible information. Further, these devices must be accessible to people with physical impairments, including those who use wheelchairs and other mobility devices, have limited dexterity, or who are of short stature. In FY 2022, the Board published an ANPRM in which it sought information from the public to inform its development of these guidelines. The Board received approximately 80 comments to the ANPRM.
-
-<ul>
-  <li> Advance notice of proposed rulemaking: September 21, 2022</li>
-</ul>
+SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Robust speech output is necessary to provide access for users unable to see display screens. They also can pose barriers for users who are deaf or hard of hearing if lacking captioning and text equivalents for audible information. Further, these devices must be accessible to people with physical impairments, including those who use wheelchairs and other mobility devices, have limited dexterity, or who are of short stature. In FY 2022, the Board published an ANPRM in which it sought information from the public to inform its development of these guidelines. The Board received approximately 80 comments to the September 21, 2022 ANPRM.
 
 #### Electric Vehicle Charging Stations.
 
-EV charging stations are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles. According to the U.S. Department of Energy, there are nearly 50,000 public EV charging stations with almost 127,000 charging ports across the country. The &ldquo;Infrastructure Investment and Jobs Act,&rdquo; which President Biden signed into law in November 2021, allocates $7.5 billion to build out a national network of 500,000 EV chargers to accelerate the adoption of EVs. In July 2022, the Board issued a technical assistance document on the accessibility of EV charging stations and is now developing an NPRM to include accessibility guidelines for EV charging stations as a supplement to the ADA and ABA Accessibility Guidelines. The Board intends to publish the NPRM in early 2024.
+EV charging stations are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles. According to the U.S. Department of Energy, there are nearly 50,000 public EV charging stations with almost 127,000 charging ports across the country. In July 2022, the Board issued a technical assistance document on the accessibility of EV charging stations and is now developing an NPRM to include accessibility guidelines for EV charging stations as a supplement to the ADA and ABA Accessibility Guidelines. The Board published the NPRM on September 3, 2024.
 
 #### Passenger Vessels.
 
 This rulemaking will address access to ferries, cruise ships, excursion boats, and other vessels. In 1994, the Board and DOT funded a research project to assess the feasibility and impact of providing access to a variety of vessels. This project was completed in July 1996 and provided valuable information for rulemaking. The Board and DOT also held an information meeting with organizations representing people with disabilities and the marine industry to determine the scope and complexity of the rulemaking.
 
-In August 1998, the Board created a 22-member Passenger Vessel Access Advisory Committee to provide recommendations for a proposed rule addressing accessibility guidelines for newly constructed and altered passenger vessels covered by the ADA. The committee presented its report to the Board in November 2000.
+In August 1998, the Board created a 22-member Passenger Vessel Access Advisory Committee to provide recommendations for a proposed rule addressing accessibility guidelines for newly constructed and altered passenger vessels covered by the ADA. The committee presented its report to the Board in November 2000. 
 
-The Board held public meetings in New Orleans (August 2003) and Seattle (September 2003) to gather information and input on viable access solutions that will allow persons with disabilities independent access onto and off of large vessels. Over 150 vessel designers and operators, pier operators, persons with disabilities, and others attended the meetings. In advance of the meetings, the Board toured vessels and boarding facilities at area ports. In November 2004, the Board published for public comment an ANPRM on access to and in smaller passenger vessels and a notice of availability releasing draft guidelines on access to and in larger passenger vessels.
+The Board held public meetings in New Orleans (August 2003) and Seattle (September 2003) to gather information and input on viable access solutions that will allow persons with disabilities, independent access onto and off of large vessels. Over 150 vessel designers and operators, pier operators, persons with disabilities, and others attended the meetings. In advance of the meetings, the Board toured vessels and boarding facilities at area ports. In November 2004, the Board published for public comment an ANPRM on access to and in smaller passenger vessels and a notice of availability releasing draft guidelines on access to and in larger passenger vessels.
 
-In July 2006, the Board made available for public comment revised draft accessibility guidelines for passenger vessels. It received approximately 175 comments on the draft guidelines. Passenger vessel operators, individuals with disabilities, and organizations representing the various interest groups commented that a provision in the draft guidelines, which required emergency alarm systems to comply with &ldquo;principles of best practice&rdquo;, was vague and requested additional guidance. The Board agreed that additional guidance would be helpful and in August 2007 created a Passenger Vessel Emergency Alarms Advisory Committee to assist in this matter. The committee&rsquo;s membership included representatives from disability organizations, the vessel and cruise ship industry and trade groups, and the National Fire Protection Association, among others. The committee presented its report to the Board in October 2008. In June 2008, the Board published revised draft guidelines to collect data necessary for a regulatory assessment. Meetings were held in August 2008 to collect this data.
+In July 2006, the Board made available for public comment revised draft accessibility guidelines for passenger vessels. It received approximately 175 comments on the draft guidelines. Passenger vessel operators, individuals with disabilities, and organizations representing the various interest groups commented that a provision in the draft guidelines, which required emergency alarm systems to comply with “principles of best practice”, was vague and requested additional guidance. The Board agreed that additional guidance would be helpful and in August 2007 created a Passenger Vessel Emergency Alarms Advisory Committee to assist in this matter. The committee’s membership included representatives from disability organizations, the vessel and cruise ship industry and trade groups, and the National Fire Protection Association, among others. The committee presented its report to the Board in October 2008. In June 2008, the Board published revised draft guidelines to collect data necessary for a regulatory assessment. Meetings were held in August 2008 to collect this data.
 
-In June 2013, the Board released for public comment proposed guidelines for passenger vessels. The comment period ended in January 2014. The next step for this rulemaking is a final rule. The Board suspended work on this rule in 2017 in light of the requirements of Executive Order 13777 <em>Enforcing the Regulatory Reform Agenda</em>. After not having included this rulemaking on its regulatory agenda for several years, the Board has identified this rulemaking as a long-term priority on its Fall 2023 is Semi-Annual Regulatory Agenda.
+In June 2013, the Board released for public comment proposed guidelines for passenger vessels. The comment period ended in January 2014. The next step for this rulemaking is a final rule. The Board suspended work on this rule in 2017 in light of the requirements of Executive Order 13777 Enforcing the Regulatory Reform Agenda. After not having included this rulemaking on its regulatory agenda for several years, the Board has identified this rulemaking as a long-term priority on its Fall 2023 Semi-Annual Regulatory Agenda.
 
 <ul>
   <li> information meeting: April 15, 1996</li>
@@ -848,36 +844,11 @@ In June 2013, the Board released for public comment proposed guidelines for pass
   <li> notice of proposed rulemaking: June 25, 2013 </li>
 </ul>
 
-#### Medical Diagnostic Equipment.
-
-Section 510 of the Rehabilitation Act required the Board to issue accessibility standards for medical diagnostic equipment, including examination tables and chairs, weight scales, radiological equipment, and mammography equipment in consultation with the Food and Drug Administration. The standards were required to address independent access to, and use of, equipment by people with disabilities to the maximum extent possible.
-
-In July 2010, the Board held a public information meeting on this rulemaking to gather information from stakeholders with an interest in the new standards. A proposed rule was published in February 2012 and two public hearings were held. The comment period closed in June 2012; 53 comments were received. In March 2012, the Board created a 24-member Medical Diagnostic Equipment Accessibility Standards federal advisory committee to advise the Board on matters associated with the comments the Board received and information it requested in proposing the standards. The committee issued its final report in December 2013.
-
-A final rule was published in January 2017; however, there are two technical provisions relating to the adjustability of transfer height surfaces that were made provisional to provide time for completion of additional research or other means of acquiring additional, needed data. That is, sections M301.2.1 and M302.2.1 of the MDE Standards establish a range of 17 - 19 inches maximum from the floor (rather than a single-height specification) for the low-side transfer position, with these low-height specifications &ldquo;sunsetting&rdquo; five years after the rule&rsquo;s effective date (i.e., January 2022). The Board published a direct final rule in FY 2022 that extended the sunset date for M301.2.1 and M302.2.1. On May 12, 2022, the Board conducted an information meeting to solicit public comments to inform development of an NPRM to replace the sunset provision for M301.2.1 and M302.2.2. The results of a Board-sponsored study that considered the effects of low transfer heights of from 17 to 19 inches on individuals who use manual and powered wheelchairs were presented as part of the information meeting. The Board received more than 100 comments in response to the information meeting.
-
-On May 23, 2023, the board issued an NPRM proposing a low transfer height of 17 inches, rather than a range of 17 to 19 inches. The Board received more than 70 comments on the NPRM. A draft final rule was submitted to the Board, which the Board voted to send to OMB for coordination under E.O. 12866.
-
-<ul>
-  <li> information meeting: July 29, 2010</li>
-  <li> notice of proposed rulemaking: February 9, 2012</li>
-  <li> public hearings: March 14, 2012; May 8, 2012</li>
-  <li> notice of intent to establish advisory committee: March 13, 2012</li>
-  <li> notice establishing advisory committee: July 5, 2012</li>
-  <li> full committee meetings: September 27-28, 2012; December 3-4, 2012; January 22-23, 2013; February 26-27, 2013; March 26-27, 2013; May 7-8, 2013; June 17, 2013</li>
-  <li> committee presented draft recommendations to the Board - July 10, 2013</li>
-  <li> committee report completed: December 6, 2013</li>
-  <li> final rule: January 9, 2017</li>
-  <li> Notice extending sunset provision on low transfer heights for an additional three years: February 2, 2022</li>
-  <li> Information meeting: May 12, 2022</li>
-  <li> Notice of proposed rulemaking: May 23, 2023</li>
-</ul>
-
 ### Completed Access Board Rulemakings
 
 #### ADAAG for Buildings and Facilities (Sections 1-9).
 
-The ADA Accessibility Guidelines (ADAAG) initially consisted of nine sections. Sections 1 through 4 include general sections, scoping provisions, and technical specifications applicable to all types of buildings and facilities. The scoping provisions specify which and how many elements and spaces of a building or facility must be accessible (e.g., parking spaces, entrances, toilet rooms). The technical specifications describe how to design the elements and spaces covered by the scoping provisions, so they are accessible to and usable by individuals with disabilities. Sections 5 through&nbsp;9 contain additional scoping provisions and technical specifications for the following facilities: restaurants and cafeterias (section&nbsp;5); medical care facilities (section 6); mercantile establishments (section&nbsp;7); libraries (section&nbsp;8); and hotels, motels, and transient lodging (section&nbsp;9).
+The ADA Accessibility Guidelines (ADAAG) initially consisted of nine sections. Sections 1 through 4 include general sections, scoping provisions, and technical specifications applicable to all types of buildings and facilities. The scoping provisions specify which and how many elements and spaces of a building or facility must be accessible (e.g., parking spaces, entrances, toilet rooms). The technical specifications describe how to design the elements and spaces covered by the scoping provisions, so they are accessible to and usable by individuals with disabilities. Sections 5 through 9 contain additional scoping provisions and technical specifications for the following facilities: restaurants and cafeterias (section 5); medical care facilities (section 6); mercantile establishments (section 7); libraries (section 8); and hotels, motels, and transient lodging (section 9).
 
 <ul>
   <li> advance notice of proposed rulemaking: August 31, 1990</li>
@@ -1009,7 +980,7 @@ The Board created a 17-member Play Areas Regulatory Negotiation Committee to ach
 
 In August 1998, the Workforce Investment Act of 1998, which includes the Rehabilitation Act Amendments of 1998, was signed into law. Section 508 of the Rehabilitation Act Amendments requires that when federal departments or agencies develop, procure, maintain, or use electronic and information technology, they shall ensure that the technology is accessible to people with disabilities, unless an undue burden would be imposed on the department or agency.
 
-Section 508 required the Board to publish standards setting forth a definition of electronic and information technology and the technical and functional performance criteria for such technology. The Board and GSA were required to provide technical assistance to individuals and federal departments and agencies concerning the requirements of section 508.
+Section 508 required the Board to publish standards setting forth a definition of electronic and information technology and the technical and functional performance criteria for such technology. The Board and GSA were required to provide technical assistance to individuals and federal departments and agencies concerning the requirements of Section 508.
 
 In developing its standards, the Board was required to consult with various federal agencies, the electronic and information technology industry, and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities. The Board convened a 27-member Electronic and Information Technology Access Advisory Committee to assist in developing its standards. The Committee presented its report to the Board in May 1999. The Board issued a notice of proposed rulemaking on access to electronic and information technology in March 2000. A final rule was published in December&nbsp;2000. In April 2001, the Federal Acquisition Regulatory Council incorporated the Board&rsquo;s standards into revisions to the Federal Acquisition Regulations.
 
@@ -1126,8 +1097,6 @@ In July 2006, the Board created an advisory committee to update and revise the S
 
 On January 22, 2018, the Board issued a correction to its updated accessibility requirements for ICT to restore provisions on TTY access that were inadvertently omitted. The original Section 508 standards and Section 255 guidelines required that devices with two-way voice communication support use of TTY devices which provide text communication across phone connections for persons with hearing or speech impairments. In its ICT refresh, the Board had proposed replacing this provision with a requirement for real-time text (RTT) functionality, a new technology with significant advantages over TTYs. In finalizing the rule, however, the Board chose to reserve the RTT requirement because the Federal Communications Commission had initiated its own rulemaking to address RTT functionality. In doing so, the Board intended to add the original TTY provision back into the rule, but the necessary language was unintentionally omitted. The correction notice restored the TTY requirement with minor editorial changes for consistency with the new format and terminology of the updated requirements and corrected two typographical errors in other sections of the rule.
 
-Corrections to the ICT Final Standards and Guidelines Direct final rule; request for comments
-
 <ul>
   <li> notice of intent to establish advisory committee: April 18, 2006</li>
   <li> notice establishing advisory committee: July 6, 2006</li>
@@ -1148,13 +1117,13 @@ When the Board issued final rules for state and local governments in 1998, it de
 
 Following this outreach, the Board decided to reinitiate rulemaking by convening a federal advisory committee to develop recommendations for the guidelines. In October 1999, the Board created a 31-member Public Rights-of-Way Access Advisory Committee. Representatives of a wide range of stakeholders, including transportation industry organizations and disability and pedestrian advocates developed recommendations for scoping and technical provisions addressing access to sidewalks, street crossings, and related pedestrian facilities. The committee presented its report to the Board in January 2001.
 
-In June 2002, the Board released for public comment draft guidelines based on the committee&rsquo;s recommendations. A public meeting on the draft guidelines was held in Portland, OR in October 2002.
+In June 2002, the Board released draft guidelines for public comment based on the committee’s recommendations. A public meeting on the draft guidelines was held in Portland, OR in October 2002.
 
 In November 2005, the Board revised the draft guidelines based on public comments on the initial draft and released them as a notice of availability. This action was done to assist the Board in preparing a regulatory assessment of the impacts of the rule. A proposed rule was published for public comment in July 2011; two hearings were held, and the comment period closed in February 2012.
 
-When the Board approved draft final accessibility guidelines for trails, coverage of shared use paths was deferred to a future rulemaking. Commenters on the outdoor developed areas rule had previously raised concerns about the need for differing guidelines for shared use paths. Commenters noted that shared use paths differ from trails and typically are in more developed outdoor areas, as opposed to the more primitive trail settings. Unlike trails, shared use paths are designed to serve both bicyclists and pedestrians and are used for transportation and recreation purposes.
+When the Board approved draft final accessibility guidelines for trails, coverage of shared use paths was deferred to future rulemaking. Commenters on the outdoor developed areas rule had previously raised concerns about the need for differing guidelines for shared use paths. Commenters noted that shared use paths differ from trails and typically are in more developed outdoor areas, as opposed to the more primitive trail settings. Unlike trails, shared use paths are designed to serve both bicyclists and pedestrians and are used for transportation and recreation purposes.
 
-As a result, the Board initiated rulemaking to cover shared use paths. In September 2010, it held a public information meeting in conjunction with the ProWalk/ProBike 2010 Conference. This meeting provided an opportunity for individuals with disabilities, designers of shared use paths, and others with expertise in this area to share information with the Board to assist in the development of new accessibility guidelines. It then published an ANPRM for shared use paths in March 2011. In February 2013, the Board published a Supplemental Notice of Proposed Rulemaking to include requirements for shared use paths as part of the public rights-of-way rule. The Board suspended action on this rule in 2017 in light of Executive Order 13777 <em>Enforcing the Regulatory Reform Agenda</em>, which was rescinded in January 2021. The next step for this rulemaking is a final rule, planned for FY 2022.
+As a result, the Board initiated rulemaking to cover shared use paths. In September 2010, it held a public information meeting in conjunction with the ProWalk/ProBike 2010 Conference. This meeting provided an opportunity for individuals with disabilities, designers of shared use paths, and others with expertise in this area to share information with the Board to assist in the development of new accessibility guidelines. It then published an ANPRM for shared use paths in March 2011. In February 2013, the Board published a Supplemental Notice of Proposed Rulemaking to include requirements for shared use paths as part of the public rights-of-way rule. The Board suspended action on this rule in 2017 in light of Executive Order 13777 _Enforcing the Regulatory Reform Agenda_, which was rescinded in January 2021. 
 
 <ul>
   <li> notice of proposed rulemaking: December 21, 1992</li>
@@ -1171,7 +1140,10 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
   <li> information meeting on shared use paths: September 13, 2010</li>
   <li> advance notice of proposed rulemaking on shared use paths: March 28, 2011</li>
   <li> supplemental notice of proposed rulemaking on shared use paths: February 14, 2013</li>
-  <li> Final rule published: August 8, 2023 </li>
+  <li> Final rule published: August 8, 2023</li>
+  <li> FGSA Adopted PROWAG Under ABA: July 3, 2024</li>
+  <li> FDOT Adopted PROWAG Under ADA: December 18, 2024 </li>
+
 </ul>
 
 ## Appendix C
