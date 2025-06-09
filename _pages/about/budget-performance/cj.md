@@ -698,89 +698,93 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 
 ### Cost Discussion
 
-The Board is requesting a total budget authority in FY 2025 of $9,955,000. As of date, Congress has not completed action on any FY 2024 appropriations bills. The FY 2024 funding amounts shown are based on the FY2024 Budget request level.
+The Board is requesting a total budget authority in FY 2026 of $9,955,000.
 
 #### Personnel
 
-FY 2024: $5,947,100
+FY 2025: $6,066,000 
 
-FY 2025: $6,066,000
+FY 2026: $5,241,500
 
-The Board anticipates it will use 30 FTE in FY 2025. The Board plans on five days of pay per Public Board member (Presidentially appointed) for one in-person Board meeting in D.C. and five days for one out-of-town meeting. Two of its regular board meetings will be held virtually, and members will receive three days of pay for each of those meetings.
-
-In addition, the Board has included funds for salaries for a total of ten additional days for information meetings where some of its Public Board members participate in ad-hoc meetings or represent the agency in other meetings (such as meetings of the EAC).
-
-The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for Public Board members include only the Social Security and Medicare allotment from the employer.
-
-Personnel staff salary line includes a performance award amount equal to approximately 4 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted.
+The Board anticipates funding at its current FTE staff level of 23 in FY 2026. There are currently 7 vacancies at the Access Board.  This amount also includes salaries for 13 intermittent Public Board Members. The Board plans on five days of pay per Public Board Member (Presidentially appointed) for one in-person Board meeting in D.C. and five days for one out-of-town meeting. Two of its regular board meetings will be held virtually, and members will receive three days of pay for each of those meetings.
+ 
+In addition, the Board has included funds for salaries for a total of ten additional days for information meetings where some of its Public Board Members participate in ad-hoc meetings or represent the agency in other meetings (such as meetings of the EAC). 
+ 
+The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for Public Board Members include only the Social Security and Medicare allotment from the employer. 
+ 
+Personnel staff salary line includes a performance award amount equal to approximately 3 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted.
 
 #### Board Meetings / Public Hearings
 
-FY 2024: $215,100
-
 FY 2025: $200,000
 
-This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART), and sign language interpreters for all board and other public meetings.
+FY 2026: $250,000
 
-In FY 2023, the Board revised its contract requirements, reducing the number of scheduled board meetings from six per year to four per year. The reduction in the number of meetings will result in a decreased funding requirement.
+This budget line includes all costs related to its Board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART), and sign language interpreters for all board and other public meetings. 
+ 
+In FY 2023, the Board revised its contract requirements, reducing the number of scheduled Board meetings from six per year to four per year. The reduction in the number of meetings  resulted in a decreased funding requirement for all future FYs.
 
 #### Travel
 
-FY 2024: $40,000
-
 FY 2025: $40,000
 
-The Board&rsquo;s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board staff conduct site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line.
+FY 2026: $40,000
 
-Other travel expenses are for the purpose of conducting accessibility training, which is a core part of the Board&rsquo;s mission. The Board also participates in international government consortiums to share information on accessibility policy.
+The Board’s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. 
+ 
+Other travel expenses are for the purpose of conducting accessibility training, which is a core part of the Board’s mission. The Board also participates in international government consortiums to share information on accessibility policy.
 
 #### Space Management
 
-FY 2024: $742,000
-
 FY 2025: $763,000
 
-The Board&rsquo;s rent is set by GSA. The Board entered into a new occupancy agreement, effective January 1, 2022. The amount included reflects the estimate provided by GSA. The amount on this line also includes other costs related to its space, such as maintenance and security.
+FY 2026: $786,000
+
+The Board’s rent is set by GSA. The Board entered into a new occupancy agreement, effective January 1, 2022. The amount included reflects the estimate provided by GSA. The amount on this line also includes other costs related to its space, such as maintenance and security. 
 
 #### Research
 
-FY 2024: $350,000
-
 FY 2025: $250,000
 
-Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board&rsquo;s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines.
+FY 2026: $20,000
+
+Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board’s mission. Funds are usually also used to conduct required regulatory assessments for its rulemaking. The Board anticipates a reduction in rulemaking efforts in FY 2026.  
+
+The research funds requested will allow the Board to move forward with its the issuance of new guidelines and updating existing guidelines. 
 
 #### Administrative Support Services
 
-FY 2024: $1,025,700
-
 FY 2025: $1,027,200
 
-The Board has an interagency agreement with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. The Board also has agreements with various other federal agencies for administrative support. Approximately $790,000 of its costs are for services the Board receives from BFS. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and has another contract for GovDelivery, which supports its public outreach initiative.
+FY 2026: $1,480,000
+
+The Board has an interagency agreement with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and human resources services. The Board also has agreements with various other federal agencies for administrative support. Approximately $800,000 of its costs are for services the Board receives from BFS. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and has another contract for GovDelivery, which supports its public outreach initiative. 
 
 #### Information Technology Support Services
 
-FY 2024 $1,482,900
-
 FY 2025 $1,460,300
 
-This is the yearly cost of the Board&rsquo;s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board&rsquo;s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, &ldquo;Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.&rdquo; This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board&rsquo;s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service&rsquo;s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program.
+FY 2026 $2,000,000 
+
+This is the yearly cost of the Board’s IT Infrastructure and desktop computing needs, including computers, assistive technology, local area network servers and hardware, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board’s network. This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. 
+
+The Modernizing Government Technology Act delivers a clear mandate to federal agencies to look for ways to increase efficiency and effectiveness and improve service to the public.  The increased amount will support the Board’s efforts in meeting this mandate.
 
 #### Printing
 
-FY 2024 $60,000
-
 FY 2025 $60,000
+
+FY 2026 $40,000
 
 Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements.
 
 #### Miscellaneous Operating Expenses
 
-FY 2024 $92,200
+FY 2024 $88,500
 
-FY 2025 $88,500
+FY 2025 $87,500 
 
-Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with accessible design materials, staff training, office supplies, and equipment purchases.
+Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with accessible design materials, staff training, office supplies, and equipment purchases. 
 
 ## Appendix B
 
