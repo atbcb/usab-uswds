@@ -12,7 +12,7 @@ Submitted to: \
 United States House Appropriations Committee \
 Subcommittees on Transportation, Housing and Urban Development, and Related Agencies
 
-February 2024
+April 2025
 
 ## Contents
 
@@ -58,27 +58,27 @@ February 2024
 
 # Fiscal Year 2025 Budget Justification
 
-This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2025. The Board is requesting a total budget authority of $9,955,000 (see [Appendix A](#appendix-a)).
+This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2026. The Board is requesting a total budget authority of $9,955,000 (see [Appendix A](#appendix-a)).
 
 ## Introduction
 
-The Access Board (hereinafter &ldquo;the Board&rdquo;) was established in 1973 under section 502 of the Rehabilitation Act and is the only federal agency whose primary mission is accessibility for people with disabilities. Broadly stated, the Board has three main functions: (1) to create accessibility guidelines and standards for the built environment, transit systems, information and communication technology, and medical diagnostic equipment; (2) to provide technical assistance and training to the public on these accessibility requirements; and (3) to enforce the Architectural Barriers Act of 1968, which is the law that requires federal buildings and facilities be accessible to persons with disabilities.
+The Access Board (hereinafter “the Board”) was established in 1973 under Section 502 of the Rehabilitation Act and is the only federal agency whose primary mission is accessibility for people with disabilities. Broadly stated, the Board has three main functions: (1) to create accessibility guidelines and standards for the built environment, transit systems, information and communication technology, and medical diagnostic equipment; (2) to provide technical assistance and training to the public on these accessibility guidelines and standards; and (3) to enforce the Architectural Barriers Act of 1968, which is the law that requires federal buildings and facilities be accessible to persons with disabilities.
 
 With respect to the development of technical specifications for physical and digital accessibility, the Board is responsible for developing guidelines under the Americans with Disabilities Act (ADA), the Architectural Barriers Act of 1968 (ABA), and the Communications Act for ensuring that buildings and facilities, transportation vehicles, and telecommunications equipment covered by these laws are readily accessible to and usable by people with disabilities. The Board is also responsible for developing standards under the Rehabilitation Act of 1973 for accessible information and communication technology developed, procured, maintained, or used by federal agencies and establishing standards for accessible medical diagnostic equipment.
 
-The second main function of the Board is to regularly provide technical assistance on these guidelines and standards. The Board responds to technical inquiries daily through its helpline and by email. It also issues guides, manuals, and animations to clarify provisions in the guidelines and standards and other aspects of accessible design. The Board provides training on these requirements upon request and conducts two free webinar series on physical and digital accessibility. Additionally, it manages a program that develops technical assistance materials and provides information and data needed for rulemaking.
+The second main function of the Board is to regularly provide technical assistance on these guidelines and standards. The Board responds to technical inquiries daily through its helpline and by email. It also issues guides, manuals, and animations to clarify provisions in the guidelines and standards and other aspects of accessible design. The Board provides training on these guidelines and standards upon request and conducts two free webinar series on physical and digital accessibility. Additionally, it manages a program that develops technical assistance materials and provides information and data needed for rulemaking.
 
-The Board&rsquo;s third main function is ensuring that federal buildings and facilities are accessible to people with disabilities by enforcing the ABA. The Board investigates submitted complaints regarding accessibility barriers encountered in federal spaces and works collaboratively with the appropriate federal agencies to ensure that violations of the ABA are remediated.
+The Board’s third main function is ensuring that federal buildings and facilities are accessible to people with disabilities by enforcing the ABA. The Board investigates complaints regarding accessibility barriers encountered in federal spaces and works collaboratively with the appropriate federal agencies to ensure that violations of the ABA are remediated. 
 
-The Board&rsquo;s services and programs advance accessibility in buildings and facilities, transportation vehicles, medical diagnostic equipment, telecommunications equipment, and information and communication technology across the country and, ultimately, the full economic and social integration of people with disabilities into society. However, achievement of these results depends not only on the Board&rsquo;s activities, but also on the level of commitment and action taken by other federal agencies, State and local governments, and businesses that are required to comply with or enforce the various laws that guarantee the civil rights of people with disabilities.
+The Board’s services and programs advance accessibility in buildings and facilities, transportation vehicles, medical diagnostic equipment, telecommunications equipment, and information and communication technology across the country and, ultimately, the full economic and social integration of people with disabilities into society. However, achievement of these results depends not only on the Board’s activities, but also on the level of commitment and action taken by other federal agencies, state and local governments, and businesses that are required to comply with or enforce the various laws that guarantee the civil rights of people with disabilities.
 
 ### Other Duties
 
-In addition to developing technical specifications under the ADA and ABA, the Board also completes other duties as assigned by Congress. Under the Help America Vote Act (HAVA), two Board Members serve on the Election Assistance Commission&rsquo;s (EAC) Board of Advisors and Technical Guidelines Development Committee, which assist the EAC in developing voluntary guidelines for voting systems, including accessibility for people with disabilities. In addition, under the Food and Drug Administration Safety and Innovation Act, the Board developed best practices on providing accessible information on prescription drug container labels for individuals who are blind or have low vision. Finally, in October 2018, the Federal Aviation Administration Reauthorization Act was signed into law. A provision in the law required the Board to conduct a study to determine the feasibility of in-cabin wheelchair restraint systems and, if feasible, the ways in which individuals with significant disabilities using wheelchairs, including power wheelchairs, can be accommodated with those systems.
+In addition to developing technical specifications under the ADA and ABA, the Board also completes other duties as assigned by Congress. Under the Help America Vote Act (HAVA), two Board Members serve on the Election Assistance Commission’s (EAC) Board of Advisors and Technical Guidelines Development Committee, which assist the EAC in developing voluntary guidelines for voting systems, including accessibility for people with disabilities. In addition, under the Food and Drug Administration Safety and Innovation Act, the Board developed best practices on providing accessible information on prescription drug container labels for individuals who are blind or have low vision.
 
 ### FY 2022-2026 Strategic Plan
 
-The Board&rsquo;s FY 2022-2026 Strategic Plan includes a vision statement (A nation that is fully accessible to and inclusive of all people with disabilities) and mission statement (To advance accessibility and inclusion by developing guidelines and standards, providing technical assistance, education, enforcement, and outreach). The plan includes four goals and a stewardship objective: 
+The Board’s FY 2022-2026 Strategic Plan includes four goals and a stewardship objective:
 
 <ul>
   <li> Establish technical specifications for accessible design</li>
@@ -88,11 +88,11 @@ The Board&rsquo;s FY 2022-2026 Strategic Plan includes a vision statement (A nat
   <li> Improve agency systems and modernize operations </li>
 </ul>
 
-The Board established long- and short-range goals and annual objectives that describe the strategies it will implement to achieve the goals. In developing the objectives and strategies, the Board is implementing the Administration&rsquo;s priorities to ensure the equitable provision of government services as specified by Executive Order 13985, consultation with Tribal Nations to strengthen nation-to-nation relationships as specified by Executive Order 13175, and the advancement of diversity, equity, inclusion, and accessibility in the federal workplace as specified by Executive Order 14035.
+The Board established long- and short-range goals and annual objectives that describe the strategies it will implement to achieve the goals. 
 
 ## Establish Technical Specifications for Accessible Design
 
-The Board will continue to develop and update accessibility guidelines and standards, and work cooperatively with organizations that develop codes and standards affecting accessibility. It has developed the following objectives for this program area:
+The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility. It has developed the following objectives for this program area:
 
 <ul>
   <li> Develop and update technical specifications to achieve accessibility standards that will be enforceable under the ABA as to the ABA standard-setting agencies &ndash; The United States Postal Service (USPS), the General Services Administration (GSA), the Department of Defense (DOD), and the Department of Housing and Urban Development (HUD), and &ndash; that adopts them.</li>
@@ -102,123 +102,114 @@ The Board will continue to develop and update accessibility guidelines and stand
   <li> Collaborate with organizations to encourage research on accessibility </li>
 </ul>
 
-### FY 2023 Results: Rulemaking
-
-In FY 2023, the Board was active in developing new accessibility guidelines in three areas: public rights-of-way and shared use paths, self-service transaction machines and kiosks, and accessible electrical vehicle (EV) charging stations.
-
-#### Public Rights-of-Way and Shared Use Paths
-
-On August 8, 2023, the Board published new guidelines that address access to public rights-of-way and shared use paths, including sidewalks and streets, crosswalks, curb ramps, street furnishings, pedestrian signals, on-street parking, and other components of public rights-of-way. These guidelines address access for pedestrians with disabilities, including those with mobility impairments and those who are blind or have low vision. They cover various constraints unique to public rights-of-way, such as space limitations, roadway design practices, slope, and terrain.
-
-The guidelines apply to public entities subject to Title II of the ADA and to any public rights-of-way subject to the ABA. They will become enforceable standards under the ADA once adopted by the Department of Justice (DOJ) and the Department of Transportation (DOT). They will become enforceable under the ABA as to any of the standard-setting agencies &ndash; USPS, GSA, DOD, and HUD &ndash; that adopts them.
+### FY 2024 Results: Rulemaking
 
 #### Medical Diagnostic Equipment
 
-Pursuant to Section 510 of the Rehabilitation Act, 29 U.S.C. &sect; 794f, the Board issued its accessibility standards for medical diagnostic equipment (MDE) in 2017. These standards address access to examination tables and chairs, weight scales, radiological equipment, and other equipment used by health care providers for diagnostic purposes. The standards specify that MDE transfer surfaces be adjustable across a specified range so that they can be aligned with a seat of a patient&rsquo;s wheelchair to facilitate transfer to the equipment. The Board proposed that transfer surfaces be adjustable from a low height of 17 inches to a high height of 25 inches based on a major study it helped sponsor on measures of people who use wheeled mobility aids. There was strong disagreement among commenters and stakeholders on what the low transfer height should be. Disability advocates supported the 17-inch minimum recommended by the anthropometric study, while MDE manufactures alleged that this height would be difficult and expensive to meet and that low height from 17 inches to 19 inches should be allowed, consistent with existing access standards and industry practice. The Board specified a temporary low transfer surface height of 17 to 19 inches pending the collection of further information and research. This provision expired in January 2022.
+Pursuant to Section 510 of the Rehabilitation Act, 29 U.S.C. § 794f, the Board issued its accessibility standards for medical diagnostic equipment (MDE) in 2017. These standards address access to examination tables and chairs, weight scales, radiological equipment, and other equipment used by health care providers for diagnostic purposes. The standards specify that MDE transfer surfaces be adjustable across a specified range so that they can be aligned with a seat of a patient’s wheelchair to facilitate transfer to the equipment. The Board proposed that transfer surfaces be adjustable from a low height of 17 inches to a high height of 25 inches based on a major study, it helped sponsor, on measures of people who use wheeled mobility aids. There was strong disagreement among commenters and stakeholders on what the low transfer height should be. Disability advocates supported the 17-inch minimum recommended by the anthropometric study, while MDE manufacturers alleged that this height would be difficult and expensive to meet and that low height from 17 inches to 19 inches should be allowed, consistent with existing access standards and industry practice. The Board specified a temporary low transfer surface height of 17 to 19 inches pending the collection of further information and research. This provision expired in January 2022. 
 
-In February 2022, the Board issued a direct final rule extending this provision for an additional three years. Meanwhile, the Board has been developing a notice of proposed rulemaking (NPRM) to address the low transfer height for MDE. In May 2022, the Board conducted an information meeting for the public, which focused on the results of an updated Board-sponsored study that considered the effects of various low transfer heights on individuals who use manual and powered wheelchairs. The Board received more than 100 comments in response to the information meeting.
+In February 2022, the Board issued a direct final rule extending this provision for an additional three years. In May 2022, the Board conducted an information meeting for the public, which focused on the results of an updated Board-sponsored study that considered the effects of various low transfer heights on individuals who use manual and powered wheelchairs. The Board received more than 100 comments in response to the information meeting.
 
-On May 23, 2023, the Board published an NPRM proposing a low transfer height of 17 inches for examination tables and chairs, rather than a range of from 17 to 19 inches. In response to the NPRM, the Board received more than 70 comments from individuals with disabilities, organizations of or for individuals with disabilities, manufacturers of MDE, and the health care industry. The Board intends to issue a final rule in early 2024.
-
-#### Guidelines for Self-Service Transaction Machines and Kiosks
-
-Self-service transaction machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities. They allow customers to conduct an expanding range of transactions and functions independently. SSTMs serve as point-of-sales machines for self-checkout in a growing number of retail facilities, grocery stores, and drug stores. SSTMs and self-service kiosks also allow customers to check in at airports and hotels and to place orders in restaurants and retail facilities.
-
-SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Robust speech output is necessary to provide access for users unable to see display screens. SSTMs also can pose barriers for users who are deaf or hard of hearing if lacking captioning and text equivalents for audible information. Further, these devices must be accessible to people with physical disabilities, including those who use wheelchairs and other mobility devices, have limited dexterity, or who are of short stature. In FY 2022, the Board published an advance notice of proposed rulemaking (ANPRM) in which it sought information from the public to inform its development of these guidelines. The Board received approximately 80 comments to the ANPRM. In FY 2023, the Board began developing an NPRM that it anticipates publishing in June 2024.
-
-#### Accessibility Guidelines for Electric Vehicle (EV) Charging Stations
-
-Electric Vehicle (EV) charging stations are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles. According to the U.S. Department of Energy (DOE), there are nearly 50,000 public EV charging stations with almost 127,000 charging ports across the country. The Infrastructure Investment and Jobs Act, which President Biden signed into law in November 2021, allocates $7.5 billion to build out a national network of 500,000 EV chargers to accelerate the adoption of EVs. In July 2022, the Board issued a technical assistance document on the accessibility of EV charging stations and is now developing an NPRM to include accessibility guidelines for EV charging stations as a supplement to the ADA and ABA Accessibility Standards. In the last quarter of FY 2022, the Board entered into an interagency agreement with DOT&rsquo;s Volpe Center to conduct a preliminary regulatory impact analysis (PRIA) to accompany the NPRM. During FY 2023, Access Board staff developed an NPRM package for submission to the Board in early FY 2024.
-
-### FY 2024 Planned Activities: Rulemaking
-
-The Board is working on the following regulatory initiatives in FY 2024:
+On May 23, 2023, the Board published a Notice of Proposed Rulemaking (NPRM) proposing a low transfer height of 17 inches for examination tables and chairs, rather than a range of 17 to 19 inches. In response to the NPRM, the Board received more than 70 comments from individuals with disabilities, organizations of or for individuals with disabilities, manufacturers of MDE, and the health care industry. On July 25, 2024, the Board issued a final rule setting the low transfer height at 17 inches.
 
 #### Self-Service Transaction Machines and Kiosks
 
-In September 2022, the Board issued an ANPRM to address access to SSTMs and self-service kiosks. The ANPRM sought feedback from the public on the planned approach to supplementing the ADA and ABA Accessibility Standards to include scoping and technical requirements for these devices so that they are fully accessible to all users, including those who are blind or have low vision, who are deaf or hard of hearing, who have a physical disability, or who are of small stature. This regulatory initiative, once complete, will provide technical specifications for the accessibility of point-of-sale machines, self-checkout machines, check-in kiosks, and other SSTMs and scoping for built-in self-service transaction machines that fall under the Board&rsquo;s regulatory jurisdiction. The Board intends to issue an NPRM on accessible SSTMs and self-service kiosks in June 2024.
-
-#### Medical Diagnostic Equipment
-
-The Board issued a proposed rule setting a 17-inch low transfer height for MDE on May 23, 2023. and received more than 70 public comments. On January 24, 2024, the Board voted to send a draft final rule to the Office of Management and Budget (OMB) for coordination under E.O. 12866. The Board intends to publish a final rule in early 2024.
+In September 2022, the Board issued an Advance Notice of Proposed Rulemaking (ANPRM) to address access to SSTMs and self-service kiosks. The ANPRM sought feedback from the public on the planned approach to supplementing the ADA and ABA Accessibility Standards to include scoping and technical requirements for these devices so that they are fully accessible to all users, including those who are blind or have low vision, who are deaf or hard of hearing, who have a physical disability, or who are of small stature. This regulatory initiative would provide technical specifications for the accessibility of point-of-sale machines, self-checkout machines, check-in kiosks, and other SSTMs and scoping for built-in self-service transaction machines that fall under the Board’s regulatory jurisdiction. A draft NPRM, a preliminary regulatory impact analysis (PRIA), and an initial regulatory impact analysis (IRIA) were submitted to OMB for coordination under E.O. 12866 but were withdrawn shortly after the beginning of the current administration.
 
 #### Electric Vehicle Charging Stations
 
-On November 14, 2023, the Board voted to send a draft NPRM to OMB for interagency coordination under E.O. 12866. The Board anticipates publishing the NPRM in the first quarter of 2024.
+On September 3, 2024, the Board published an NPRM setting forth proposed guidelines for the accessibility of electric vehicle charging stations. The proposed guidelines include specifications for the size of the spaces, for operable parts and communication features of chargers, for accessible routes from charging spaces to facilities at which they are located, and scoping provisions that prescribe the number of accessible charging spaces that must be provided. The Access Board received approximately 140 public comments on the proposed rule from individuals, organizations of and for people with disabilities, state and local government entities, manufacturers of electric vehicles and electric vehicle chargers, and industry groups representing entities that operate places of public accommodation (e.g., the hospitality industry).
 
 #### ADA Accessibility Guidelines for Transportation Vehicles
 
-The Board is undertaking rulemaking to revise requirements for rail vehicles in the ADA Accessibility Guidelines for Transportation Vehicles. These requirements have not been modified or updated since they were issued in 1991. In February 2020, the Board published an ANPRM to initiate the regulatory process for potentially updating its accessibility guidelines for rail vehicles. The Board received over 200 public comments in response to this notice. The Board intends to develop an NPRM, including a preliminary regulatory impact analysis and initial regulatory flexibility analysis, for publication in October 2024.
+This rulemaking would revise requirements for rail vehicles in the ADA Accessibility Guidelines for Transportation Vehicles. These requirements have not been modified or updated since they were issued in 1991. In February 2020, the Board published an ANPRM to initiate the regulatory process for potentially updating its accessibility guidelines for rail vehicles. The Board received over 200 public comments in response to this notice. The Board began developing an NPRM in FY 2024.
 
-### FY 2025 Objectives: Rulemaking
+### FY 2025 Planned Activities: Rulemaking
 
-In FY 2025, the Board aims to publish the following rulemaking documents:
+Consistent with the administration’s deregulatory priorities, the Board plans to propose moving its rulemakings on self-service transaction machines, electric vehicle charging stations, transportation vehicles, and passenger vessels to long-term or inactive status on its Spring 2025 Regulatory Agenda.
+
+The Board plans to propose the following regulatory actions that it considers required by statute or outside the scope of E.O. 14192:
+
+#### Guidelines for Universal (or Adult) Changing Tables:
+
+The FAA Reauthorization Act of 2024 requires that mid-sized and large airports seeking certain federal funds, beginning in 2030, provide at least one universal changing table in each terminal building. The legislation directs the Access Board to issue comprehensive accessible design standards for universal changing tables, as well as standards addressing their privacy, accessibility, and sanitation, by May 2026. The Access Board intends to seek approval to publish an ANPRM seeking public input on the guidelines early in FY 2026. 
+
+The Board also proposes to issue direct final rules that would (1) update the agency’s procedures under Section 504 of the Rehabilitation Act with respect to non-discrimination on the basis of disability in its federally-conducted programs and activities, and Section 508 of the Rehabilitation Act, requiring that all information and communication technology procured, developed, maintained, or used by the Board be readily accessible to and usable by individuals with disabilities; and (2) update its regulations for handling requests under the Freedom of Information Act. As these regulations govern only agency organization, management, or personnel, they are not subject to the deregulatory requirements of E.O. 14192.
+
+### FY 2026 Objectives: Rulemaking
+
+In FY 2026, the Board aims to publish the following rulemaking documents, if approved:
 
 <ul>
-  <li> A final rule on accessibility of self-service transaction machines and self-service kiosks</li>
-  <li> A final rule on the accessibility of EV charging stations</li>
-  <li> A proposed and final rule revising the guidelines for accessible rail vehicles in the ADA Accessibility Guidelines for Transportation Vehicles </li>
+  <li> An ANPRM and perhaps an NPRM seeking information from the public on guidelines for universal changing tables at airports subject to certain requirements in the FAA Reauthorization Act</li>
+  <li> A direct final rule setting forth Access Board obligations and procedures under Section 504 and 508 of the Rehabilitation Act</li>
+  <li> A direct final rule on processing requests under the Freedom of Information Act </li>
 </ul>
 
-### FY 2023 Results: Codes and Standards
+### FY 2024 Results: Codes and Standards
 
 #### Adoption of Board Guidelines as Enforceable Standards
 
-For the Board&rsquo;s accessibility guidelines to become enforceable, other federal agencies must generally complete rulemaking to adopt the guidelines as standards. HUD, DOD, GSA, and the USPS use the Board&rsquo;s guidelines to develop enforceable standards under the ABA. DOJ and DOT use the Board&rsquo;s guidelines to develop enforceable standards under the ADA and Section 504 of the Rehabilitation Act. USPS, GSA, DOD, DOJ, and DOT have adopted the Board&rsquo;s guidelines as enforceable standards. HUD has not acted yet, although HUD has announced, in its Fall 2023 Semi-Annual Unified Agenda of Regulatory and Deregulatory Actions, its intent to adopt the Board&rsquo;s ABA Accessibility Guidelines as standards applicable to HUD facilities subject to the ABA.
+For the Board’s accessibility guidelines to become enforceable, other federal agencies must generally complete rulemaking to adopt the guidelines as standards. HUD, DOD, GSA, and the USPS use the Board’s guidelines to develop enforceable standards under the ABA. The Department of Justice (DOJ) and the Department of Transportation (DOT) use the Board’s guidelines to develop enforceable standards under the ADA and Section 504 of the Rehabilitation Act. USPS, GSA, DOD, DOJ, and DOT have adopted the Board’s guidelines as enforceable standards.  Most recently, on July 3, 2024, GSA adopted, as enforceable standards under the ABA, the Public Right-of-Way Accessibility Guidelines (PROWAG) that the Board published on August 8, 2023. 
 
 #### Voluntary Consensus Standards
 
-The Board&rsquo;s long-range goal is to take a leadership role in the development of codes and standards for accessibility. The Board works with model codes organizations and voluntary consensus standards groups that develop and periodically revise codes and standards affecting accessibility. The Board has voting membership in several codes and standards organizations and monitors or is actively involved in the development or revision of dozens of other codes and standards affecting accessibility.
+The Board’s long-range goal is to take a leadership role in the development of codes and standards for accessibility. The Board works with model codes organizations and voluntary consensus standards groups that develop and periodically revise codes and standards affecting accessibility. The Board has voting membership in several codes and standards organizations and monitors or is actively involved in the development or revision of dozens of other codes and standards affecting accessibility.
 
 The Board believes this goal enhances its credibility as a knowledgeable source of information regarding technical aspects of accessibility. Additionally, by working cooperatively with model codes organizations and voluntary consensus standards groups, federal and private codes and standards will become more similar, or harmonized, and the Board will be more alert to non-federal influences affecting its constituencies. Harmonization between federal and private requirements will make it more likely that buildings and facilities will be accessible, thus reducing the necessity for complaints and litigation.
 
 #### International Code Council (ICC) and The American National Standards Institute (ANSI)
 
-Exemplifying the Board&rsquo;s collaboration with voluntary consensus standards groups is its membership in the ICC A117.1 Standard for Accessible and Usable Buildings and Facilities Committee. The ICC A117.1 Standard, which is a key counterpart to the Board&rsquo;s ADA and ABA Accessibility Guidelines, is referenced by the International Building Code (IBC).
+Exemplifying the Board’s collaboration with voluntary consensus standards groups, is its membership in the ICC A117.1 Standard for Accessible and Usable Buildings and Facilities Committee. The ICC A117.1 Standard, which is a key counterpart to the Board’s ADA and ABA Accessibility Guidelines, is referenced by the International Building Code (IBC). 
 
-In FY 2023, the Board participated in task groups organized by the A117 Committee to develop provisions on adult changing tables and assisted-use toilet and bathing facilities for the A117.1 Standard. This resulted in the addition of adult changing table scoping requirements into the upcoming new International Building Code (IBC) and the approved an addendum to the 2017 ICC/ANSI A117.1 that contains the technical requirements for those adult changing tables.
+In FY 2024, the Board participated in task groups organized by the A117 Committee to develop requirements for visual contrast and the method for calculating visual contrast. 
+The Board also participated in editorial and scoping task groups to ensure consistency throughout the ANSI A117.1 with the adoption of proposed requirements. 
 
-This work also advanced proposals for corresponding requirements in the IBC.
+In FY 2025, a Board staff member was appointed to the A118 Acoustics Accessibility Committee (IS-ABEC) by the ICC Board of Directors. This is a joint effort between ICC and Accessibility Standards Canada to develop new standards related to the built environment acoustics accessibility. Several Board staff serve as committee members of the Rehabilitation Engineering Society of North America (RESNA) to collaborate and promote consensus with accessibility requirements. Committee memberships include Cognitive Accessibility ISO/TC 173/SC/WG10, Inclusive Fitness, Assistive Technology for Air Travel (ATAT), and Wheelchairs and Transportation. 
 
-Several Access Board staff serve as members of Rehabilitation Engineering Society of North America (RESNA) committees to collaborate and promote consensus with accessibility requirements. Committee membership includes Cognitive Accessibility ISO/TC 173/SC/WG10, Inclusive Fitness, Assistive Technology for Air Travel (ATAT), andWheelchairs and Transportation.
-
-Two Access Board Members serve in statutorily defined roles with the U.S. Election Assistance Commission (EAC)&rsquo;s Technical Guidelines Development Committee (TGDC) and the Board of Advisors. These committees provide security and accessibility recommendations to the EAC in the development of Voluntary Voting System Guidelines (VVSG) for voting systems. States which adopt the VVSG ensure equal opportunities for individuals with disabilities to vote privately and independently. During FY 2023, EAC, with oversight and input from the committees, developed the VVSG Lifecycle Policy to facilitate migration from 1.1 to 2.0, as well as VVSG testing methods, accreditation, and supporting materials.
+Two Board Members serve in statutorily defined roles with the U.S. Election Assistance Commission (EAC)’s Technical Guidelines Development Committee (TGDC) and the Board of Advisors.  These committees provide security and accessibility recommendations to the EAC in the development of Voluntary Voting System Guidelines (VVSG) for voting systems. States which adopt the VVSG ensure equal opportunities for individuals with disabilities to vote privately and independently. During FY 2024, EAC drafted the Voluntary Election Night Reporting Requirements with plans to distribute for review in FY 2025.
 
 #### Harmonization of International Information and Communication Technology (ICT) Accessibility Standards
 
-The Board continues working with three European accessibility standardization organizations: European Telecommunications Standards Institute, European Committee for Standardization, and the European Committee for Electrotechnical Standardization. Although the first accessibility specifications for public ICT procurements, [EN 301 549](https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility), were largely harmonized with the Board&rsquo;s January 2017 final rule that updated the Board&rsquo;s ICT Standards and Guidelines, Europe has now surpassed the U.S. requirements. Subsequent publications by the European Joint Working Group on eAccessibility adopted the Web Content Accessibility Guidelines&nbsp;(WCAG) 2.1. The Board will continue working to further harmonize the U.S. and European standards during FY 2024 through participation in EU meetings as the EU revises EN 301 549 in accordance with the [European Accessibility Act](https://ec.europa.eu/social/main.jsp?catId=1202).
+The Board continues working with three European accessibility standardization organizations: European Telecommunications Standards Institute, European Committee for Standardization, and the European Committee for Electrotechnical Standardization. Although the first accessibility specifications for public ICT procurements, [EN 301 549](https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility), were largely harmonized with the Board’s January 2017 final rule that updated the Board’s ICT Standards and Guidelines, Europe has now surpassed the U.S. requirements. Subsequent publications by the European Joint Working Group on eAccessibility adopted the Web Content Accessibility Guidelines (WCAG) 2.1. The Board will continue working to further harmonize the U.S. and European standards during FY 2025 through participation in EU meetings as the EU revises EN 301 549 in accordance with the [European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en).  
 
 #### Codes and Standards Work
 
 The Board participates in the following list of codes and standards groups:
 
-<ul>
-  <li> International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities, ICC (ASC A117)</li>
-  <li> American Society of Mechanical Engineers (ASME) A18 Platform Lift and Stairway Chair Lift Committee</li>
-  <li> National Fire Protection Association (NFPA), Disability Access Review Advisory Committee</li>
-  <li> National Instructional Materials Accessibility Standard</li>
-  <li> World Wide Web Consortium (W3C) Web Accessibility Initiative Accessibility Guidelines Working Group (AG WG)</li>
-  <li> ASTM (formerly known as American Society for Testing and Materials) Committee on Playground Surfacing Systems</li>
-  <li> Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility and Assistive Technology for Air Travel</li>
-  <li> Transportation Research Board</li>
-  <li> National Cooperative Highway Research Program</li>
-  <li> National Committee on Uniform Traffic Control Devices</li>
-  <li> Federal Communications Commission (FCC) Disability Advisory Committee</li>
-  <li> Federal Chief Information Officers Council&rsquo;s Accessibility Community of Practice</li>
-  <li> Telecommunications Industry Association</li>
-  <li> National Institutes of Standards and Technology (NIST)&rsquo;s Interagency Committee on Standards Policy</li>
-</ul>
+* International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities, ICC (ASC A117)
+* International Code Council in collaboration with Accessibility Standards Canada on Acoustics Accessibility Committee (IS-ABEC) A118
+* American Society of Mechanical Engineers (ASME) A18 Platform Lift and Stairway Chair Lift Committee
+* National Fire Protection Association (NFPA), Disability Access Review Advisory Committee
+* National Instructional Materials Accessibility Standard
+* World Wide Web Consortium (W3C) Web Accessibility Initiative Accessibility Guidelines Working Group (AG WG)
+* ASTM (formerly known as American Society for Testing and Materials) Committee on Playground Surfacing Systems
+* Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committees on Inclusive Fitness, Cognitive Accessibility, Assistive Technology for Air Travel, and Wheelchairs and Transportation
+* Transportation Research Board’s National Cooperative Highway Research Project (NCHRP)
+* Standing Committee on Innovative Public Transportation Services and Technologies, and the Transportation Cooperative Research Project (TCRP)
+* Multimodal Accessible Transportation Standard Coordinating Committee
+* National Fire Protection Association (NFPA)
+* National Committee on Uniform Traffic Control Devices
+* Federal Communications Commission (FCC) Disability Advisory Committee
+* Federal Chief Information Officers Council’s Accessibility Community of Practice
+* Telecommunications Industry Association
+* National Institutes of Standards and Technology (NIST)’s Interagency Committee on Standards Policy
+* National Collaboration on Bicycle, Pedestrian and Accessibility Infrastructure Data
+* National Institutes of Standards and Technology Artificial Intelligence Standards Coordination Working Group (AISCWG)
+* National Institute of Standards and Technology (NIST) -sponsored Interagency Committee on Standards Policy (ICSP)
+* World Wide Web Consortium (W3C) Web Accessibility Initiative and Accessibility Guidelines Working Group
 
-### FY 2024 Planned Activities: Codes and Standards
+### FY 2025 Planned Activities: Codes and Standards
 
-The Board will continue to work with the aforementioned private sector codes and standards organizations, to harmonize the Board&rsquo;s guidelines with model codes and standards domestically and internationally.
+The Board will continue to work with the aforementioned private sector codes and standards organizations, and interagency work groups to harmonize the Board’s guidelines with model codes and standards domestically and internationally.   
 
-### FY 2025 Objectives: Codes and Standards
+### FY 2026 Objectives: Codes and Standards
 
-The Board will continue to develop and update accessibility guidelines and standards, and work cooperatively with organizations that develop codes and standards affecting accessibility
+The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility.   
+
 ## Provide Education and Information on the Importance and Implementation of Accessible Design
 
-The Board provides training and technical assistance on accessibility guidelines and standards to a wide variety of individuals in addition to both public and private entities, including architects, builders, designers, technology companies, manufacturers, people with disabilities, state and local governments, and federal agencies. The Board&rsquo;s long-range goal is to be known as a leading source of information on accessible design.
+The Board provides training and technical assistance on accessibility guidelines and standards to a wide variety of individuals in addition to both public and private entities, including architects, builders, designers, technology companies, manufacturers, people with disabilities, disabled veterans, state and local governments, and federal agencies. The Board’s long-range goal is to be known as a leading source of information on accessible design.
 
 The Board maintains the following objectives to provide education and information on the importance and implementation of accessible design:
 
@@ -230,7 +221,7 @@ The Board maintains the following objectives to provide education and informatio
   <li> Conduct and sponsor research on accessible design and technical innovations</li>
 </ul>
 
-The Board&rsquo;s technical assistance program is comprised of five components:
+The Board’s technical assistance program comprises five components:
 
 1. <strong>Responding to technical inquiries.</strong> The Board responds to 4,000 &ndash; 5,000 inquiries each year via the agency&rsquo;s technical assistance helpline and email accounts. Customers request accurate, reliable, and timely advice, and the Board&rsquo;s Accessibility Specialists dedicate extensive time providing responses in real time and engaging with stakeholders.
 
@@ -242,73 +233,65 @@ The Board&rsquo;s technical assistance program is comprised of five components:
 
 5. <strong>USAB&rsquo;s YouTube Channel.</strong> The Board posts play lists of descriptive animations and trainings via the [Access Board YouTube Channel](https://www.youtube.com/channel/UC5tRWTtV5eSw68N3tSpmyWw) by topic. Leveraging this technology enables live streaming of Board Meetings and posting more robust training content.&nbsp;
 
-Based on prior experience, as the Board continues developing new rules, standards and guidelines, increased demand for technical assistance and training is anticipated. To assist in this effort, the Board maintains informal partnerships with organizations such as the National Association of ADA Coordinators and The ADA National Network to further market and distribute Board guidance and standards throughout the nation. The Board provides regular, reoccurring training updates and high-level technical assistance to these and other entities to leverage cost efficiencies and to further expand its reach to broader audiences.&nbsp;
+As the Board continues developing new rules, standards, and guidelines, increased demand for technical assistance and training is anticipated. To assist in this effort, the Board maintains informal partnerships with organizations such as the National Association of ADA Coordinators and The ADA National Network to further market and distribute Board guidance and standards throughout the nation. The Board provides regular, reoccurring training updates and high-level technical assistance to these and other entities to leverage cost efficiencies and to further expand its reach to broader audiences.  
 
-### FY 2023 Results
+### FY 2024 Results
 
-In FY 2023, the Board prioritized a robust rulemaking agenda over development of new guides of former rules. Training, technical assistance, and interagency collaborations continued to expand.
+In FY 2024, the Board prioritized a robust rulemaking agenda over the development of new guides of former rules. Training, technical assistance, and interagency collaborations continued to expand. 
 
-The Board conducted over 127 training sessions, reaching more than 20,300 participants on its guidelines and standards via in-person, online meeting platforms, and webinars. In addition, the Board continued presenting its two very successful webinar series through a partnership with the ADA National Network.
+The Board conducted over 117 training sessions, reaching more than 24,500 participants on its guidelines and standards via in-person, online meeting platforms, and webinars. In addition, the Board continued presenting its two very successful webinar series through a partnership with the ADA National Network. 
 
-The Board conducts sessions monthly on built environment issues and bi-monthly on ICT issues (in conjunction with the Chief Information Officers Council Accessibility Community of Practice). Each 90-minute webinar provides opportunities for participants to earn CEUs for a fee, but general attendance is free.
+The Board conducts sessions monthly on built environment issues and bi-monthly on ICT issues (in conjunction with the Federal Chief Information Officers Council (CIOC) Accessibility Community of Practice). Each 90-minute webinar provides opportunities for participants to earn CEUs for a fee, but general attendance is free.
 
-In FY 2023, as part of its monthly <em>AccessibilityOnline</em> and bi-monthly <em>Section 508 Best Practices</em> series, the Board conducted the following well-attended webinars:
+In FY 2024, as part of its monthly <em>AccessibilityOnline</em> and bi-monthly <em>Section 508 Best Practices</em> series, the Board conducted the following well-attended webinars:
 
-<ul>
-  <li> Maps for All: Building Accessible Maps</li>
-  <li> Accessible Residential Housing</li>
-  <li> Designing for Children</li>
-  <li> A Tale of Three Agencies: The Section 508 Playbook</li>
-  <li> Accessible Transient Lodging</li>
-  <li> Accessible Toilet Rooms</li>
-  <li> Accessibility and Accommodations in the Federal Workplace: Driving Success in Employment and Performance</li>
-  <li> Questions and Answers on the ADA and ABA Accessibility Standards</li>
-  <li> Beyond the Alt Tag: Accessible Name</li>
-  <li> Accessible Parking and Passenger Loading Zones</li>
-  <li> Accessible Retail Spaces and Restaurants</li>
-  <li> Strengthening and Maturing Accessibility Training and Testing Programs within the Federal Government</li>
-  <li> Accessible Detention and Correctional Facilities</li>
-  <li> Automatic and Power-Assisted Doors</li>
-  <li> Diversity, Equity, Inclusion and Accessibility (DEIA): What Does It Mean to Have Accessibility in the Federal Workplace?</li>
-  <li> Accessing the Past: Accessibility in Historic Buildings and Facilities</li>
-  <li> Accessible Amusement Rides</li>
-</ul>
+#### Accessibility Online (Built Environment):  
 
-In FY 2023, the Board&rsquo;s Accessibility Specialists responded to well over 5,000 technical assistance requests to the public through the helpline or by email. The Board conducted a total of 127 training sessions and webinars, reaching over 20,000 people.
+* Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
+* Accessible Bathing Rooms
+* Emergency Transportable Housing
+* Sporting: The Spectator’s Experience
+* Designing Accessible Crosswalks
+* Employee Work Areas and Break Rooms
+* Vertical Access: Elevators, Lifts, and Stairs
+* Doors and Gates
+* Title II – Accessibility for State and Local Government Funded Facilities
+* Picture This! Identifying Non-Compliant Elements & Spaces
+* Access to Medical Care Facilities, Exam Rooms, and Long-Term Care Facilities
+* Medical Diagnostic Equipment Final Rule
 
-The Board&rsquo;s website continues to provide a robust volume of information and resources on accessibility guidelines, standards, and answers to frequently asked questions. In FY 2023, the site welcomed approximately 98,000 visitors per month and about 1.18 million visitors for the year. These visits included over 2.9 million page views.
+#### Section 508 Best Practices Webinar Series (ICT): 
 
-In the last quarter of FY 2023, the Board expanded its use of the agency&rsquo;s YouTube channel to reach an even broader audience with highly technical training on the newly published Public Rights-of-Way Accessibility Guidelines.
+* Highlights from the new Government-wide Section 508 Assessment
+* Demystifying the Procurement Process
+* Building and Sustaining an Accessible Federal Technology Environment | Section 508 and Section 508 Best Practices
+* Beyond Section 508 Digital Accessibility Requirements: An Overview of Web Accessibility Requirements from WCAG 2.1 and 2.2
+* Enhancing Accessibility Through Customer Experience
 
-### FY 2024 Planned Activities
+In FY 2024, the Board responded to nearly 6,000 technical assistance requests to the public through the helpline and via email. 
+
+The Board’s website continues to provide a robust volume of information and resources on accessibility guidelines, standards, and answers to frequently asked questions. In FY 2024, the site welcomed approximately 100,000 visitors per month and about 1.2 million visitors for the year. These visits included over 3.5 million page views.
+
+The Board’s YouTube channel continues to be a useful resource. During FY 2024, over 56,600 views were tracked. The animations received almost 40,000 views and the Public Right-of-Way Accessibility Guidelines training tracked 8,600 views.    
+
+### FY 2025 Planned Activities
 
 #### Online Guides, Webinars, and Website
 
-The Board will continue developing materials for the online guide to the ADA and ABA accessibility standards and as new rules and regulations are published. Technical guides covering Chapter 7 of the standards are in progress. These guides will address communication elements and features, including fire alarm systems, telephones, detectable warnings, assistive listening systems, ATMs and fare machines, and two-way communication systems. Future installments to the guides will be released and announced through Board email subscribers as they become available.
+The Board will continue developing materials for the online guides to the ADA and ABA accessibility standards, as new rules and regulations are published. Technical guides covering Chapter 7: Communication Elements and Features of the standards are in progress. These guides will address fire alarm systems, telephones, detectable warnings, assistive listening systems, ATMs and fare machines, and two-way communication systems. Future installments to the guides will be released and announced through Board email subscribers as they become available. 
 
-The Board continues to offer its very successful webinar series for the built environment and on Section 508. In FY 2024, Board webinars will reflect the updated guides and most recent rulemaking activities.
+In FY 2025, the Board will continue to offer its webinar series for the built environment and information and communication technology. Which will reflect the updated guides, most recent rulemaking activities, and best practices. 
 
 #### Technical Assistance and Projects
 
-The following technical assistance activities are planned for FY 2024:
+The following technical assistance activities are planned for FY 2025:
 
-<ul>
-  <li> Draft technical assistance document on accessible autonomous vehicles</li>
-  <li> Complete preliminary and final regulatory impact analyses and initial and final regulatory flexibility analyses for the Electric Vehicle Charging Stations Supplemental Rule</li>
-  <li> Complete the preliminary regulatory impact analysis for the Self-Service Transaction Machines Supplemental Rule</li>
-  <li> Contract for and complete the preliminary regulatory impact analysis and initial regulatory flexibility analysis for the updated ADA Accessibility Guidelines for Rail Vehicles</li>
-</ul>
+* Develop and issue City of New Orleans accessibility report
+* Continue developing guides for the ADA and ABA Standards with the goal of completing the remaining guides for Chapter 7: Communication Elements and Features
 
-### FY 2025 Objectives
+### FY 2026 Objectives
 
-The Board will continue to improve its website, including releasing additional modules for the web-based guide for the ADA and ABA standards.
-
-The following technical assistance projects are planned for FY 2025:
-
-<ul>
-  <li> Complete final regulatory impact analysis and regulatory flexibility analysis for updated ADA Accessibility Guidelines for Rail Vehicles</li>
-  <li> Complete final Regulatory analysis and regulatory flexibility analysis for supplementary guidelines on self-service transaction machines</li>
-</ul>
+The Board will continue to improve its website, responding to information and training requests from a range of stakeholders (to include business, government, and individual consumers).  
 
 ## Improve the Accessibility of the Federal Government
 
@@ -317,7 +300,7 @@ The Board is committed to improving the accessibility of the federal government 
 <ul>
   <li> Improve the accessibility of federal buildings and facilities through enhanced awareness and robust enforcement of the Architectural Barriers Act</li>
   <li> Improve accessibility of federal information and communication technology through collaboration with other federal agencies</li>
-  <li> Be a model employer of persons with disabilities</li>
+  <li> Be a model employer of persons with disabilities </li>
 </ul>
 
 The Board was established in 1973 with the primary purpose of enforcing the ABA. The ABA requires that most buildings designed, constructed, altered, or leased by the federal government and certain other federally financed facilities be accessible to people with disabilities. The Board enforces the ABA by investigating complaints received from members of the public or federal employees.
