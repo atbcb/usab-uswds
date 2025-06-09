@@ -6,7 +6,7 @@ banner-title: About the U.S. Access Board
 permalink: /cj/
 ---
 
-# Fiscal Year 2026 {{ page.title }}
+# Fiscal Year 2026 {{ page.title }} & Agency Performance Plan
 
 Submitted to: \
 United States House Appropriations Committee \
@@ -1231,11 +1231,6 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
       <td>212</td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="5">&Dagger; In contrast to FY 2022 and years prior, beginning with FY 2023 we are no longer including in our counts of received and closed complaints those matters which we closed for administrative reasons, ranging from unintelligibility or &ldquo;spam&rdquo; filings to complaints that provided insufficient detail to discern the nature of the allegations or to allow enforcement staff to contact the complainant to gather additional/clarifying information. This explains the lack of complaints closed for administrative reasons in FY 2023 and later. We had also expected this procedural change to lead to an overall decrease in the number of received and closed complaints, but we instead have seen an appreciable influx of new complaints, which we attribute to greater public awareness about the Board and our ABA enforcement program (fomented by our DEIA efforts and outreach to underserved and Tribal communities, as well as a reinvigorated public affairs and social media effort).</td>
-    </tr>
-  </tfoot>
 </table>
 
 ## Appendix D
