@@ -1243,68 +1243,57 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
 ### Technical Assistance Data
 
 <table class="usa-table usa-table--striped">
-	<caption>Technical Assistance Data, calls and website</caption>
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <th scope="col">FY 2021</th>
       <th scope="col">FY 2022</th>
       <th scope="col">FY 2023</th>
-      <th scope="col">FY 2024 (est.)</th>
+      <th scope="col">FY 2024</th>
+      <th scope="col">FY 2025 (est.)</th>
     </tr>
     <tr>
       <th scope="row">Technical Assistance (Calls and Faxes)</th>
-      <td>4,401</td>
       <td>4,582</td>
-      <td>5,352</td>
+      <td>4,352</td>
       <td>6,000</td>
+      <td>5,500</td>
     </tr>
     <tr>
       <td>Website User Sessions</td>
-      <td>1,125,471</td>
       <td>1,256,718</td>
       <td>2,330,559</td>
+      <td>2,600,000</td>
       <td>2,600,000</td>
     </tr>
   </tbody>
 </table>
+
+### Training Data
+
 <table class="usa-table usa-table--striped">
-	<caption>Technical Assistance Data, training</caption>
   <thead>
     <tr>
       <td>&nbsp;</td>
-      <th scope="col">FY21 In-Person</th>
-      <th scope="col">FY21 Virtual / Webinar</th>
-      <th scope="col">FY22 In-Person</th>
-      <th scope="col">FY22 Virtual / Webinar</th>
-      <th scope="col">FY23 In-Person</th>
-      <th scope="col">FY23 Virtual / Webinar</th>
-      <th scope="col">FY24 (est.) In-Person</th>
-      <th scope="col">FY24 (est.) Virtual / Webinar</th>
+      <th scope="col">FY 2022</th>
+      <th scope="col">FY 2023</th>
+      <th scope="col">FY 2024</th>
+      <th scope="col">FY 2025 (est.)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Training Sessions</th>
-      <td>0</td>
-      <td>85</td>
-      <td>12</td>
-      <td>76</td>
-      <td>29</td>
-      <td>98</td>
-      <td>35</td>
-      <td>110</td>
+      <td>88</td>
+      <td>127</td>
+      <td>117</td>
+      <td>75</td>
     </tr>
     <tr>
       <th scope="row">Training Participants</th>
-      <td>0</td>
-      <td>19,085</td>
-      <td>379</td>
-      <td>21,249</td>
-      <td>773</td>
-      <td>19,609</td>
-      <td>900</td>
-      <td>22,000</td>
+      <td>21,628</td>
+      <td>20,382</td>
+      <td>24,894</td>
+      <td>16,000</td>
     </tr>
   </tbody>
 </table>
