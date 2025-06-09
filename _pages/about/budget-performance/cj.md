@@ -511,15 +511,15 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
   <thead>
     <tr>
       <td>&nbsp;</td>
-      <th scope="col">FY 2023 Enacted </th>
       <th scope="col">FY 2024 Request </th>
       <th scope="col">FY 2025 Request </th>
+      <th scope="col">FY 2026 Request </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Budget Total</th>
-      <td><strong>9,850,000</strong></td>
+      <td><strong>9,955,000</strong></td>
       <td><strong>9,955,000</strong></td>
       <td><strong>9,955,000</strong></td>
     </tr>
@@ -527,41 +527,41 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 	<tbody>
 	  <tr>
       <th scope="rowgroup">Personnel (total)</th>
-      <td><strong>5,724,600</strong></td>
       <td><strong>5,947,100</strong></td>
       <td><strong>6,066,000</strong></td>
+      <td><strong>5,241,500</strong></td>
     </tr>
     <tr>
       <th scope="row">Salary (subtotal)</th>
-      <td>4,325,300</td>
       <td>4,493,700</td>
       <td>4,583,500</td>
+      <td>3,966,500</td>
     </tr>
     <tr>
       <th scope="row">Salary (Staff)</th>
-      <td>4,097,200</td>
       <td>4,256,500</td>
       <td>4,341,600</td>
+      <td>3,766,500</td>
     </tr>
     <tr>
       <th scope="row">Salary (Board)</th>
-      <td>228,100</td>
       <td>237,200</td>
       <td>241,900</td>
+      <td>200,000</td>
     </tr>
     <tr>
       <th scope="row">Benefits</th>
-      <td>1,399,300</td>
       <td>1,453,400</td>
       <td>1,560,000</td>
+      <td>1,275,000</td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="row">Board Meetings / Public Hearings</th>
-      <td><strong>238,800</strong></td>
       <td><strong>215,100</strong></td>
       <td><strong>200,000</strong></td>
+      <td><strong>250,000</strong></td>
     </tr>
 	</tbody>
 	<tbody>
@@ -569,7 +569,7 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
       <th scope="rowgroup">Travel (total)</th>
       <td><strong>40,000</strong></td>
       <td><strong>40,000</strong></td>
-      <td><strong>40,000</strong></td>
+      <td><strong>50,000</strong></td>
     </tr>
     <tr>
       <th scope="row">Travel (Committee Meetings)</th>
@@ -581,53 +581,53 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
       <th scope="row">Travel (Training / Site Visits / Other)</th>
       <td>40,000</td>
       <td>40,000</td>
-      <td>40,000</td>
+      <td>50,000</td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="row">Space Management</th>
-      <td><strong>789,500</strong></td>
       <td><strong>742,000</strong></td>
       <td><strong>763,000</strong></td>
+      <td><strong>786,000</strong></td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="rowgroup">Research (total)</th>
-      <td><strong>325,000</strong></td>
       <td><strong>350,000</strong></td>
       <td><strong>250,000</strong></td>
+      <td><strong>20,000</strong></td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="row">Technical Research</th>
-      <td>25,000</td>
       <td>0</td>
       <td>25,000</td>
+      <td>20,000</td>
     </tr>
     <tr>
       <th scope="row">Cost Assessments / RIA</th>
-      <td>300,000</td>
       <td>350,000</td>
       <td>225,000</td>
+      <td>0</td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="rowgroup">Admin Support Services</th>
-      <td><strong>1,039,700</strong></td>
       <td><strong>1,025,700</strong></td>
       <td><strong>1,027,200</strong></td>
+      <td><strong>1,480,000</strong></td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="rowgroup">It Support Services</th>
-      <td><strong>1,540,700</strong></td>
       <td><strong>1,482,900</strong></td>
       <td><strong>1,460,300</strong></td>
+      <td><strong>2,000,000</strong></td>
     </tr>
 	</tbody>
 	<tbody>
@@ -635,27 +635,27 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
       <th scope="rowgroup">Printing</th>
       <td><strong>60,000</strong></td>
       <td><strong>60,000</strong></td>
-      <td><strong>60,000</strong></td>
+      <td><strong>40,000</strong></td>
     </tr>
 	</tbody>
 	<tbody>
     <tr>
       <th scope="rowgroup">Misc Operating Expenses (total)</th>
-      <td><strong>91,700</strong></td>
       <td><strong>92,200</strong></td>
       <td><strong>88,500</strong></td>
+      <td><strong>87,500</strong></td>
     </tr>
     <tr>
       <th scope="row">Postage / Courier / Mailing Services</th>
       <td>5,000</td>
       <td>5,000</td>
-      <td>5,000</td>
+      <td>3,000</td>
     </tr>
     <tr>
       <th scope="row">Staff Training</th>
       <td>20,000</td>
-      <td>20,000</td>
       <td>18,000</td>
+      <td>20,000</td>
     </tr>
     <tr>
       <th scope="row">Equipment</th>
@@ -666,32 +666,32 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
     <tr>
       <th scope="row">Supplies</th>
       <td>10,000</td>
-      <td>10,000</td>
       <td>8,000</td>
+      <td>10,000</td>
     </tr>
     <tr>
       <th scope="row">Drug Testing</th>
-      <td>900</td>
       <td>1,300</td>
+      <td>1,500</td>
       <td>1,500</td>
     </tr>
     <tr>
       <th scope="row">Audits</th>
-      <td>35,800</td>
       <td>35,900</td>
+      <td>36,000</td>
       <td>36,000</td>
     </tr>
     <tr>
       <th scope="row">Books</th>
       <td>5,000</td>
       <td>5,000</td>
-      <td>5,000</td>
+      <td>2,000</td>
     </tr>
     <tr>
       <th scope="row">Other</th>
       <td>10,000</td>
       <td>10,000</td>
-      <td>10,000</td>
+      <td>3,000</td>
     </tr>
   </tbody>
 </table>
@@ -1153,82 +1153,82 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
   <thead>
     <tr>
       <td>&nbsp;</td>
-      <th scope="col">FY 2022</th>
       <th scope="col">FY 2023</th>
-      <th scope="col">FY 2024 (est.)</th>
+      <th scope="col">FY 2024</th>
       <th scope="col">FY 2025 (est.)</th>
+      <th scope="col">FY 2026 (est.)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Complaints pending at start of the fiscal year</td>
-      <td>83</td>
       <td>127</td>
       <td>161</td>
       <td>192</td>
+      <td>212</td>
     </tr>
     <tr>
       <td>Complaints received during the fiscal year</td>
-      <td>241</td>
       <td>201</td>
       <td>288</td>
-      <td>290&Dagger;</td>
+      <td>300</td>
+      <td>290</td>
     </tr>
     <tr>
       <td>Total complaints closed during the fiscal year &hellip;</td>
-      <td>174</td>
       <td>197</td>
       <td>257</td>
-      <td>270&Dagger;</td>
+      <td>325</td>
+      <td>285</td>
     </tr>
     <tr>
       <td>After our investigation resulted in completed corrective action</td>
-      <td>45</td>
       <td>54</td>
       <td>77</td>
-      <td>80</td>
+      <td>101</td>
+      <td>85</td>
     </tr>
     <tr>
       <td>After our investigation resulted in a determination that we did not have jurisdiction</td>
-      <td>9</td>
       <td>22</td>
       <td>31</td>
       <td>30</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>After our investigation resulted in a determination that there was no violation of the standards</td>
-      <td>13</td>
       <td>17</td>
       <td>24</td>
       <td>20</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>After the issuance of a waiver or modification by the standard-setting agency</td>
-      <td>0</td>
       <td>1</td>
       <td>1</td>
-      <td>0</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>After a referral absent an investigation</td>
-      <td>72</td>
       <td>73</td>
       <td>124</td>
+      <td>170</td>
       <td>140</td>
     </tr>
     <tr>
       <td>For administrative reasons</td>
-      <td>58</td>
+      <td>0&Dagger;</td>
       <td>0&Dagger;</td>
       <td>0&Dagger;</td>
       <td>0&Dagger;</td>
     </tr>
     <tr>
       <td>Complaints pending at end of the fiscal year</td>
-      <td>127</td>
       <td>161</td>
       <td>192</td>
       <td>212</td>
+      <td>217</td>
     </tr>
   </tbody>
 </table>
