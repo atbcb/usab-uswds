@@ -74,7 +74,7 @@ The Board’s services and programs advance accessibility in buildings and facil
 
 ### Other Duties
 
-In addition to developing technical specifications under the ADA and ABA, the Board also completes other duties as assigned by Congress. Under the Help America Vote Act (HAVA), two Board Members serve on the Election Assistance Commission’s (EAC) Board of Advisors and Technical Guidelines Development Committee, which assist the EAC in developing voluntary guidelines for voting systems, including accessibility for people with disabilities. In addition, under the Food and Drug Administration Safety and Innovation Act, the Board developed best practices on providing accessible information on prescription drug container labels for individuals who are blind or have low vision.
+In addition to developing technical specifications under the ADA and ABA, the Board also completes other duties as assigned by Congress. Under the Help America Vote Act (HAVA), two Board Members serve on the Election Assistance Commission’s (EAC) Board of Advisors and Technical Guidelines Development Committee, which assist the EAC in developing voluntary guidelines for voting systems, including accessibility for people with disabilities. In addition, under the Food and Drug Administration Safety and Innovation Act, the Board developed  on providing accessible information on prescription drug container labels for individuals who are blind or have low vision.
 
 ### FY 2022-2026 Strategic Plan
 
@@ -264,7 +264,7 @@ In FY 2024, as part of its monthly <em>AccessibilityOnline</em> and bi-monthly <
 
 * Highlights from the new Government-wide Section 508 Assessment
 * Demystifying the Procurement Process
-* Building and Sustaining an Accessible Federal Technology Environment | Section 508 and Section 508 Best Practices
+* Building and Sustaining an Accessible Federal Technology Environment: Section 508 and Section 508 Best Practices
 * Beyond Section 508 Digital Accessibility Requirements: An Overview of Web Accessibility Requirements from WCAG 2.1 and 2.2
 * Enhancing Accessibility Through Customer Experience
 
@@ -320,9 +320,9 @@ Of the 265 ABA cases closed in FY 2024, 85 cases (32%) were closed after the fed
 In brief, the 85 ABA complaints closed in FY 2024 on the basis of completed corrective action can be broken down into four broad categories by facility type:
 
 * **Defense-related and Veterans Facilities:** The Board successfully resolved 17 ABA complaints against the DOD and Veterans Affairs (VA), including cases relating to: Joseph M. Cleland Atlanta VA Medical Center, Decatur, Georgia (VA restored access to the Medical Center’s main building entrance ramp); Hill Air Force Base – Building 590, Hill AFB, Utah (Department of the Air Force installed a van accessible parking space, two entrance ramps and four power-assisted doors); Ohio Army National Guard, North Canton, Ohio (Ohio Army National Guard installed new accessible parking spaces); and Marine Corps Base Quantico – Little Hall, Quantico, Virginia (The Marine Corps installed alternative accessible entrances to address a significant construction project that limited access to certain entrances).
-* **Post Offices: **The Board successfully resolved 59 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed at post offices in: Waltham, Massachusetts (removed an existing, non-compliant entrance ramp and replaced it with a new ramp conforming to the standards); Iowa City, Iowa (reconfigured and brought into compliance the accessible parking spaces and the accessible route to the entrance); Knickbocker Station, New York, New York (repaired and replaced a wheelchair lift); and Ft. Collins Old Town, Colorado (added compliant van accessible parking spaces).
+* **Post Offices:** The Board successfully resolved 59 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed at post offices in: Waltham, Massachusetts (removed an existing, non-compliant entrance ramp and replaced it with a new ramp conforming to the standards); Iowa City, Iowa (reconfigured and brought into compliance the accessible parking spaces and the accessible route to the entrance); Knickbocker Station, New York, New York (repaired and replaced a wheelchair lift); and Ft. Collins Old Town, Colorado (added compliant van accessible parking spaces).
 * **General Services Administration Facilities:** The Board successfully resolved 7 ABA complaints relating to facilities owned or leased by GSA, including: the Sioux City Federal Building and U.S. Courthouse, Sioux City, Iowa (created an accessible single-user toilet room on the third floor of the courthouse; constructed a ramp at the rear entrance; added a compliant employee entrance with automatic door opener at the rear of the building and installed a compliant van accessible parking space); Hemenway Office Building, Alexandria, Louisiana (repaired elevator to restore access to upper floors housing GSA leased space); Social Security Administration Field Office, Minneapolis, Minnesota (repaired automatic door at public entrance and improve access to card reader at employee entrance).
-* **Other ABA-Covered Facilities: ** In addition, significant corrective action projects were completed at 2 other ABA-covered facilities, including: United States Penitentiary, Leavenworth, Kansas (Bureau of Prisons replaced an inclined platform lift serving the main visitor entrance); and Building 2714 Complex, Oak Ridge, Tennessee (Department of Energy completed a variety of corrective actions to bring ramps and exterior accessible routes serving the building into compliance with the ABA standards).
+* **Other ABA-Covered Facilities:** In addition, significant corrective action projects were completed at 2 other ABA-covered facilities, including: United States Penitentiary, Leavenworth, Kansas (Bureau of Prisons replaced an inclined platform lift serving the main visitor entrance); and Building 2714 Complex, Oak Ridge, Tennessee (Department of Energy completed a variety of corrective actions to bring ramps and exterior accessible routes serving the building into compliance with the ABA standards).
 
 The balance of ABA cases closed in FY 2024 —180 out of 265, or 68% were concluded for a range of technical or legal reasons. 27 of our investigations revealed that we lacked jurisdiction (for example, the building was built prior to 1968 and not altered since, and so not covered by the ABA); 29 of our investigations revealed that the complaint allegations did not constitute an ABA violation (for example, a building inspection revealed that the element at issue did in fact meet the minimum scoping requirements or technical specifications in the ABA standards); 1 where the standard-setting agency (USPS) issued a waiver; and 123 where we referred the matter directly to another entity (usually a federal enforcement agency) since we determined, without an investigation, that the ABA did not apply to the complainant’s concerns but that another disability civil rights law, such as the Americans with Disabilities Act or the Fair Housing Act, did.
 
@@ -762,9 +762,9 @@ The Board has an interagency agreement with the Bureau of the Fiscal Service (BF
 
 #### Information Technology Support Services
 
-FY 2025 $1,460,300
+FY 2025: $1,460,300
 
-FY 2026 $2,000,000 
+FY 2026: $2,000,000 
 
 This is the yearly cost of the Board’s IT Infrastructure and desktop computing needs, including computers, assistive technology, local area network servers and hardware, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board’s network. This also includes support of the Privacy Program, to include training, contractor support and automation. These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. 
 
@@ -772,17 +772,17 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 
 #### Printing
 
-FY 2025 $60,000
+FY 2025: $60,000
 
-FY 2026 $40,000
+FY 2026: $40,000
 
 Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements.
 
 #### Miscellaneous Operating Expenses
 
-FY 2024 $88,500
+FY 2024: $88,500
 
-FY 2025 $87,500 
+FY 2025: $87,500 
 
 Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in DOI to provide services for the mandatory drug testing program. Other expenditures are for miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with accessible design materials, staff training, office supplies, and equipment purchases. 
 
@@ -1295,7 +1295,7 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
 
 ## Appendix E
 
-### AGENCY PERFORMANCE PLAN
+### Agency Performance Plan
 
 The Board’s FY 2022-2026 Strategic Plan includes four goals and a stewardship objective:
 
@@ -1307,7 +1307,7 @@ The Board’s FY 2022-2026 Strategic Plan includes four goals and a stewardship 
 
 The Board established long- and short-range goals and annual objectives that describe the strategies it will implement to achieve the goals. 
 
-### ESTABLISH TECHNICAL SPECIFICATIONS FOR ACCESSIBLE DESIGN
+### Establish Technical Specifications for Accessible Design
 
 The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility. It has developed the following objectives for this program area:
 
@@ -1345,7 +1345,7 @@ The Board will continue to work with private sector codes and standards organiza
 
 The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility.   
 
-### PROVIDE EDUCATION AND INFORMATION ON THE IMPORTANCE AND IMPLEMENTATION OF ACCESSIBLE DESIGN
+### Provide Education and Information on the Importance and Implementation of Accessible Design
 
 The Board provides training and technical assistance on accessibility guidelines and standards to a wide variety of individuals in addition to both public and private entities, including architects, builders, designers, technology companies, manufacturers, people with disabilities, disabled veterans, state and local governments, and federal agencies. The Board’s long-range goal is to be known as a leading source of information on accessible design.
 
@@ -1376,7 +1376,7 @@ The following technical assistance activities are planned for FY 2025:
 
 The Board will continue to improve its website, responding to information and training requests from a range of stakeholders (to include business, government, and individual consumers).  
 
-### IMPROVE THE ACCESSIBILITY OF THE FEDERAL GOVERNMENT
+### Improve the Accessibility of the Federal Government
 
 The Board is committed to improving the accessibility of the federal government and has the following objectives in this program area:
 
@@ -1430,7 +1430,7 @@ The Board plans to continue its efforts and practices for hiring people with dis
 
 The Board continually seeks to improve its ability to prevent and address disability discrimination. Additionally, the Board is working towards providing workforce training in the next fiscal year, to include general EEO training for employees and management.
 
-### PROMOTE ACCESSIBILITY THROUGHOUT SOCIETY
+### Promote Accessibility Throughout Society
  
 As noted above, the Board’s technical assistance and ABA enforcement program contribute to promoting accessibility in various segments of society. The Board also promotes accessibility in the public sphere in other ways, apprising various audiences about accessible design, disability-related issues, and its programs and services. The Board has two primary objectives in this program area:
 
@@ -1460,7 +1460,7 @@ At the July Board meeting, the Board voted for the 2026 out-of-town meeting and 
  
 FY 2026 Board meetings will take place in October 2025, January, May, and July 2026. The October and January meetings will be virtual. The out-of-town meeting in Providence, RI will take place in May. The July 2026 meeting will be held in-person in Washington, D.C. 
 
-### IMPROVE AGENCY SYSTEMS AND MODERNIZE OPERATIONS
+### Improve Agency Systems and Modernize Operations
 
 For FY 2023 through FY 2026, the Board added a stewardship objective to its strategic plan to improve agency systems and modernize operations. The Board has embarked on the creation of a multi-year Information Technology Strategic plan and roadmap to guide its current and future IT investments and objectives including software, hardware, data center operations, and the mandated cyber security initiatives. The Board has set the following objectives:
 
