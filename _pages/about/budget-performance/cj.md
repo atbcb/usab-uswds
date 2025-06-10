@@ -17,18 +17,18 @@ April 2025
 ## Contents
 
 * [Introduction](#introduction)
-* [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design)
+* [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design-1)
     -   [FY 2024 Results: Rulemaking](#fy-2024-results-rulemaking)
     -   [FY 2025 Planned Activities: Rulemaking](#fy-2025-planned-activities-rulemaking)
     -   [FY 2026 Objectives: Rulemaking](#fy-2026-objectives-rulemaking)
     -   [FY 2024 Results: Codes and Standards](#fy-2024-results-codes-and-standards)
     -   [FY 2025 Planned Activities: Codes and Standards](#fy-2025-planned-activities-codes-and-standards)
     -   [FY 2026 Objectives: Codes and Standards](#fy-2026-objectives-codes-and-standards)
-* [Provide Education and Information on the Importance and Implementation of Accessible Design](#provide-education-and-information-on-the-importance-and-implementation-of-accessible-design)
+* [Provide Education and Information on the Importance and Implementation of Accessible Design](#provide-education-and-information-on-the-importance-and-implementation-of-accessible-design-1)
     -   [FY 2024 Results](#fy-2024-results)
     -   [FY 2025 Planned Activities](#fy-2025-planned-activities)
     -   [FY 2026 Objectives](#fy-2026-objectives)
-* [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government)
+* [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government-1)
     -   [FY 2024 Results: ABA Enforcement and Awareness](#fy-2024-results-aba-enforcement-and-awareness)
     -   [FY 2025 Planned Activities: ABA Enforcement and Awareness](#fy-2025-planned-activities-aba-enforcement-and-awareness)
     -   [FY 2026 Objectives: ABA Enforcement and Awareness](#fy-2026-objectives-aba-enforcement-and-awareness)
@@ -38,12 +38,12 @@ April 2025
     -   [FY 2024 Results: Model Employer of Persons with Disabilities](#fy-2024-results-model-employer-of-persons-with-disabilities)
     -   [FY 2025 Planned Activities: Model Employer of Persons with Disabilities](#fy-2025-planned-activities-model-employer-of-persons-with-disabilities)
     -   [FY 2026 Objectives: Model Employer of Persons with Disabilities](#fy-2026-objectives-model-employer-of-persons-with-disabilities)
-* [Promote Accessibility throughout Society](#promote-accessibility-throughout-society)
+* [Promote Accessibility throughout Society](#promote-accessibility-throughout-society-1)
     -   [FY 2024 Results](#fy-2024-results-1)
     -   [FY 2024 Public Events](#fy-2024-public-events)
     -   [FY 2025 Planned Activities](#fy-2025-planned-activities-1)
     -   [FY 2026 Objectives](#fy-2026-objectives-1)
-* [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
+* [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations-1)
 * Appendix A
     -   [Access Board Budget](#access-board-budget)
     -   [Cost Discussion](#cost-discussion)
@@ -57,25 +57,25 @@ April 2025
     -   [Training Data](#training-data)
 * Appendix E
     -   [Agency Performance Plan](#agency-performance-plan)
-    -   [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design)
+    -   [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design-2)
         -   [FY 2025: Rulemaking](#fy-2025-rulemaking)
         -   [FY 2026: Rulemaking](#fy-2026-rulemaking)
         -   [FY 2025: Codes and Standards](#fy-2025-codes-and-standards)
         -   [FY 2026: Codes and Standards](#fy-2026-codes-and-standards)
-    -   [Provide Education and Information on the Importance and Implementation of Accessible Design](#provide-education-and-information-on-the-importance-and-implementation-of-accessible-design)
-        -   [FY 2025: Training & Technical Assistance](#fy-2025-training-&-technical-assistance)
-        -   [FY 2026: Training & Technical Assistance](#fy-2025-training-&-technical-assistance)
-    -   [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government)
+    -   [Provide Education and Information on the Importance and Implementation of Accessible Design](#provide-education-and-information-on-the-importance-and-implementation-of-accessible-design-2)
+        -   [FY 2025: Training & Technical Assistance](#fy-2025-training-and-technical-assistance)
+        -   [FY 2026: Training & Technical Assistance](#fy-2026-training-and-technical-assistance)
+    -   [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government-2)
         -   [FY 2025: ABA Enforcement and Awareness](#fy-2025-aba-enforcement-and-awareness)
         -   [FY 2026: ABA Enforcement and Awareness](#fy-2026-aba-enforcement-and-awareness)
         -   [FY 2025: Accessible Federal Information and Communication Technology](#fy-2025-accessible-federal-information-and-communication-technology)
         -   [FY 2026: Accessible Federal Information and Communication Technology](#fy-2026-accessible-federal-information-and-communication-technology)
         -   [FY 2025: Model Employer of Persons with Disabilities](#fy-2025-model-employer-of-persons-with-disabilities)
         -   [FY 2026: Model Employer of Persons with Disabilities](#fy-2026-model-employer-of-persons-with-disabilities)
-    -   [Promote Accessibility Throughout Society](#promote-accessibility-throughout-society)
+    -   [Promote Accessibility Throughout Society](#promote-accessibility-throughout-society-2)
         -   [FY 2025](#fy-2025)
         -   [FY 2026](#fy-2026)
-    -   [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
+    -   [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations-2)
 
 * * *
 
@@ -1380,7 +1380,7 @@ The Board maintains the following objectives to provide education and informatio
 * Use stakeholders’ feedback to improve information services
 * Conduct and sponsor research on accessible design and technical innovations
 
-#### FY 2025: Training & Technical Assistance 
+#### FY 2025: Training and Technical Assistance 
 
 ##### Online Guides, Webinars, and Website
 
@@ -1395,7 +1395,7 @@ The following technical assistance activities are planned for FY 2025:
 * Develop and issue City of New Orleans accessibility report
 * Continue developing guides for the ADA and ABA Standards with the goal of completing the remaining guides for Chapter 7: Communication Elements and Features
  
-#### FY 2026: Training & Technical Assistance
+#### FY 2026: Training and Technical Assistance
 
 The Board will continue to improve its website, responding to information and training requests from a range of stakeholders (to include business, government, and individual consumers).  
 
@@ -1464,10 +1464,10 @@ As noted above, the Board’s technical assistance and ABA enforcement program c
  
 Thus far in FY 2025, the Board continues to promote awareness of its work, programs, and service. The Board also plans to execute the following activities in FY 2025: 
  
-5.	From October 2024 to April 2025, the Access Board engaged in various international accessibility efforts. In December, staff met with a delegation from the Central African Republic to discuss rulemaking processes, public engagement, and improving access to government facilities, highlighting the ABA. In March, the Executive Director attended the Zero Project Conference in Vienna, moderating a session on disability in civil service alongside international experts. In April, staff participated in the Global Disability Summit in Berlin, where the Executive Director led a panel discussion on bridging the digital divide and fostering an accessible digital future. At the summit, the Board engaged with delegations, organizations, and individuals from around the world to collaborate and strengthen global accessibility efforts.
-6.	In July 2025, the Board will host a town hall in New Orleans, Louisiana to learn about the state of accessibility in the region directly from residents, as well as to share information about the Board’s rulemaking agenda and services. The Board will meet with City of New Orleans officials to promote accessibility in local government services, as well as provide training directly to municipal staff.  The Board will also meet with various representatives from the local transit authority, the National Park Service (NPS), and local disability advocates to promote accessibility and increase awareness of the Access Board’s technical assistance services.
-7.	A pre-meeting visit to Providence, RI to plan and prepare for the May 2026 Board meeting will take place late in FY 2025. Planned meetings will take place with local and federal government leadership, accessibility focused organizations, and residents.
-8.	The October 2025 Board meeting will be virtual and largely focus on next steps and debriefing of the July out-of-town meeting.
+1. From October 2024 to April 2025, the Access Board engaged in various international accessibility efforts. In December, staff met with a delegation from the Central African Republic to discuss rulemaking processes, public engagement, and improving access to government facilities, highlighting the ABA. In March, the Executive Director attended the Zero Project Conference in Vienna, moderating a session on disability in civil service alongside international experts. In April, staff participated in the Global Disability Summit in Berlin, where the Executive Director led a panel discussion on bridging the digital divide and fostering an accessible digital future. At the summit, the Board engaged with delegations, organizations, and individuals from around the world to collaborate and strengthen global accessibility efforts.
+2. In July 2025, the Board will host a town hall in New Orleans, Louisiana to learn about the state of accessibility in the region directly from residents, as well as to share information about the Board’s rulemaking agenda and services. The Board will meet with City of New Orleans officials to promote accessibility in local government services, as well as provide training directly to municipal staff.  The Board will also meet with various representatives from the local transit authority, the National Park Service (NPS), and local disability advocates to promote accessibility and increase awareness of the Access Board’s technical assistance services.
+3. A pre-meeting visit to Providence, RI to plan and prepare for the May 2026 Board meeting will take place late in FY 2025. Planned meetings will take place with local and federal government leadership, accessibility focused organizations, and residents.
+4. The October 2025 Board meeting will be virtual and largely focus on next steps and debriefing of the July out-of-town meeting.
  
 ##### Outreach
 
