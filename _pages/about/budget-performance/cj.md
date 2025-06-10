@@ -40,6 +40,7 @@ April 2025
     -   [FY 2025 Objectives: Model Employer of Persons with Disabilities](#fy-2025-objectives-model-employer-of-persons-with-disabilities)
 * [Promote Accessibility throughout Society](#promote-accessibility-throughout-society)
     -   [FY 2023 Results](#fy-2023-results-1)
+    -   [FY 2024 Public Events](#fy-2024-public-events)
     -   [FY 2024 Planned Activities](#fy-2024-planned-activities-1)
     -   [FY 2025 Objectives](#fy-2025-objectives-1)
 * [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
@@ -53,6 +54,7 @@ April 2025
     -   [Architectural Barriers Act Cases](#architectural-barriers-act-cases)
 * Appendix D
     -   [Technical Assistance Data](#technical-assistance-data)
+    -   [Training Data](#training-data)
 
 * * *
 
