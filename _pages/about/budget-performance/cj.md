@@ -55,6 +55,27 @@ April 2025
 * Appendix D
     -   [Technical Assistance Data](#technical-assistance-data)
     -   [Training Data](#training-data)
+* Appendix E
+    -   Agency Performance Plan
+    -   Establish Technical Specifications for Accessible Design
+    -   	FY 2025: Rulemaking
+    -   	FY 2026: Rulemaking
+    -   	FY 2025: Codes and Standards
+    -   	FY 2026: Codes and Standards
+    -   Provide Education and Information on the Importance and Implementation of Accessible Design
+    -   	FY 2025: Training & Technical Assistance
+    -   	FY 2026: Training & Technical Assistance
+    -   Improve the Accessibility of the Federal Government
+    -   	FY 2025: ABA Enforcement and Awareness
+    -   	FY 2026: ABA Enforcement and Awareness
+    -   	FY 2025: Accessible Federal Information and Communication Technology
+    -   	FY 2026: Accessible Federal Information and Communication Technology
+    -   	FY 2025: Model Employer of Persons with Disabilities
+    -   	FY 2026: Model Employer of Persons with Disabilities
+    -   Promote Accessibility Throughout Society
+    -   	FY 2025
+    -   	FY 2026
+    -   Improve Agency Systems and Modernize Operations
 
 * * *
 
