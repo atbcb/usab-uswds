@@ -56,26 +56,26 @@ April 2025
     -   [Technical Assistance Data](#technical-assistance-data)
     -   [Training Data](#training-data)
 * Appendix E
-    -   Agency Performance Plan
-    -   Establish Technical Specifications for Accessible Design
-        -   FY 2025: Rulemaking
-        -   FY 2026: Rulemaking
-        -   FY 2025: Codes and Standards
-        -   FY 2026: Codes and Standards
-    -   Provide Education and Information on the Importance and Implementation of Accessible Design
-        -   FY 2025: Training & Technical Assistance
-        -   FY 2026: Training & Technical Assistance
-    -   Improve the Accessibility of the Federal Government
-        -   FY 2025: ABA Enforcement and Awareness
-        -   FY 2026: ABA Enforcement and Awareness
-        -   FY 2025: Accessible Federal Information and Communication Technology
-        -   FY 2026: Accessible Federal Information and Communication Technology
-        -   FY 2025: Model Employer of Persons with Disabilities
-        -   FY 2026: Model Employer of Persons with Disabilities
-    -   Promote Accessibility Throughout Society
-        -   FY 2025
-        -   FY 2026
-    -   Improve Agency Systems and Modernize Operations
+    -   [Agency Performance Plan](#agency-performance-plan)
+    -   [Establish Technical Specifications for Accessible Design](#establish-technical-specifications-for-accessible-design)
+        -   [FY 2025: Rulemaking](#fy-2025-rulemaking)
+        -   [FY 2026: Rulemaking](#fy-2026-rulemaking)
+        -   [FY 2025: Codes and Standards](#fy-2025-codes-and-standards)
+        -   [FY 2026: Codes and Standards](#fy-2026-codes-and-standards)
+    -   [Provide Education and Information on the Importance and Implementation of Accessible Design](#provide-education-and-information-on-the-importance-and-implementation-of-accessible-design)
+        -   [FY 2025: Training & Technical Assistance](#fy-2025-training-&-technical-assistance)
+        -   [FY 2026: Training & Technical Assistance](#fy-2025-training-&-technical-assistance)
+    -   [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government)
+        -   [FY 2025: ABA Enforcement and Awareness](#fy-2025-aba-enforcement-and-awareness)
+        -   [FY 2026: ABA Enforcement and Awareness](#fy-2026-aba-enforcement-and-awareness)
+        -   [FY 2025: Accessible Federal Information and Communication Technology](#fy-2025-accessible-federal-information-and-communication-technology)
+        -   [FY 2026: Accessible Federal Information and Communication Technology](#fy-2026-accessible-federal-information-and-communication-technology)
+        -   [FY 2025: Model Employer of Persons with Disabilities](#fy-2025-model-employer-of-persons-with-disabilities)
+        -   [FY 2026: Model Employer of Persons with Disabilities](#fy-2026-model-employer-of-persons-with-disabilities)
+    -   [Promote Accessibility Throughout Society](#promote-accessibility-throughout-society)
+        -   [FY 2025](#fy-2025)
+        -   [FY 2026](#fy-2026)
+    -   [Improve Agency Systems and Modernize Operations](#improve-agency-systems-and-modernize-operations)
 
 * * *
 
