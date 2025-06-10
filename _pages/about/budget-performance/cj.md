@@ -30,7 +30,7 @@ April 2025
     -   [FY 2026 Objectives](#fy-2026-objectives)
 * [Improve the Accessibility of the Federal Government](#improve-the-accessibility-of-the-federal-government)
     -   [FY 2024 Results: ABA Enforcement and Awareness](#fy-2024-results-aba-enforcement-and-awareness)
-    -   [FY 2025 Planned Activities: ABA Enforcement and Awareness](#fy-2025-planned-aba-enforcement-and-awarenesse)
+    -   [FY 2025 Planned Activities: ABA Enforcement and Awareness](#fy-2025-planned-aba-enforcement-and-awareness)
     -   [FY 2026 Objectives: ABA Enforcement and Awareness](#fy-2026-objectives-aba-enforcement-and-awareness)
     -   [FY 2024 Results: Accessible Federal Information and Communication Technology](#fy-2024-results-accessible-federal-information-and-communication-technology)
     -   [FY 2025 Planned Activities: Accessible Federal Information and Communication Technology](#fy-2025-planned-activities-accessible-federal-information-and-communication-technology)
