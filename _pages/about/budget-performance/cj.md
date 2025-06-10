@@ -1292,3 +1292,175 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
     </tr>
   </tbody>
 </table>
+
+## Appendix E
+
+### AGENCY PERFORMANCE PLAN
+
+The Board’s FY 2022-2026 Strategic Plan includes four goals and a stewardship objective:
+
+•	Establish technical specifications for accessible design
+•	Provide education and information on the importance and implementation of accessible design
+•	Improve the accessibility of the federal government 
+•	Promote accessibility throughout society
+•	Improve agency systems and modernize operations
+
+The Board established long- and short-range goals and annual objectives that describe the strategies it will implement to achieve the goals. 
+
+### ESTABLISH TECHNICAL SPECIFICATIONS FOR ACCESSIBLE DESIGN
+
+The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility. It has developed the following objectives for this program area:
+
+•	Develop and update technical specifications to achieve accessibility standards that will be enforceable under the ABA as to the ABA standard-setting agencies – The United States Postal Service (USPS), the General Services Administration (GSA), the Department of Defense (DOD), and the Department of Housing and Urban Development (HUD), and – that adopts them.
+•	Coordinate with standards and codes organizations to build effective industry accessibility standards
+•	Engage with the public, particularly underserved communities, to provide information about the development of accessible design
+•	Address accessibility of emerging technologies and design trends
+•	Collaborate with organizations to encourage research on accessibility
+
+#### FY 2025: Rulemaking
+
+Consistent with the administration’s deregulatory priorities, the Board plans to propose moving its rulemakings on self-service transaction machines, electric vehicle charging stations, transportation vehicles, and passenger vessels to long-term or inactive status on its Spring 2025 Regulatory Agenda.
+
+The Board plans to propose the following regulatory actions that it considers required by statute or outside the scope of E.O. 14192:
+
+Guidelines for Universal (or Adult) Changing Tables:
+The FAA Reauthorization Act of 2024 requires that mid-sized and large airports seeking certain federal funds, beginning in 2030, provide at least one universal changing table in each terminal building. The legislation directs the Access Board to issue comprehensive accessible design standards for universal changing tables, as well as standards addressing their privacy, accessibility, and sanitation, by May 2026. The Access Board intends to seek approval to publish an ANPRM seeking public input on the guidelines early in FY 2026. 
+
+The Board also proposes to issue direct final rules that would (1) update the agency’s procedures under Section 504 of the Rehabilitation Act with respect to non-discrimination on the basis of disability in its federally-conducted programs and activities, and Section 508 of the Rehabilitation Act, requiring that all information and communication technology procured, developed, maintained, or used by the Board be readily accessible to and usable by individuals with disabilities; and (2) update its regulations for handling requests under the Freedom of Information Act. As these regulations govern only agency organization, management, or personnel, they are not subject to the deregulatory requirements of E.O. 14192.
+
+#### FY 2026: Rulemaking
+
+In FY 2026, the Board aims to publish the following rulemaking documents, if approved:
+
+•	An ANPRM and perhaps an NPRM seeking information from the public on guidelines for universal changing tables at airports subject to certain requirements in the FAA Reauthorization Act
+•	A direct final rule setting forth Access Board obligations and procedures under Section 504 and 508 of the Rehabilitation Act
+•	A direct final rule on processing requests under the Freedom of Information Act
+
+#### FY 2025: Codes and Standards
+
+The Board will continue to work with private sector codes and standards organizations, and interagency work groups to harmonize the Board’s guidelines with model codes and standards domestically and internationally.   
+
+#### FY 2026: Codes and Standards
+
+The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility.   
+
+### PROVIDE EDUCATION AND INFORMATION ON THE IMPORTANCE AND IMPLEMENTATION OF ACCESSIBLE DESIGN
+
+The Board provides training and technical assistance on accessibility guidelines and standards to a wide variety of individuals in addition to both public and private entities, including architects, builders, designers, technology companies, manufacturers, people with disabilities, disabled veterans, state and local governments, and federal agencies. The Board’s long-range goal is to be known as a leading source of information on accessible design.
+
+The Board maintains the following objectives to provide education and information on the importance and implementation of accessible design:
+•	Provide training on accessible design and the Board’s guidelines and standards
+•	Provide technical assistance on the implementation of accessibility guidelines and standards
+•	Create guides, manuals, and animations to promote understanding of accessible design
+•	Use stakeholders’ feedback to improve information services
+•	Conduct and sponsor research on accessible design and technical innovations
+
+#### FY 2025: Training & Technical Assistance 
+
+Online Guides, Webinars, and Website
+The Board will continue developing materials for the online guides to the ADA and ABA accessibility standards, as new rules and regulations are published. Technical guides covering Chapter 7: Communication Elements and Features of the standards are in progress. These guides will address fire alarm systems, telephones, detectable warnings, assistive listening systems, ATMs and fare machines, and two-way communication systems. Future installments to the guides will be released and announced through Board email subscribers as they become available. 
+
+In FY 2025, the Board will continue to offer its webinar series for the built environment and information and communication technology. Which will reflect the updated guides, most recent rulemaking activities, and best practices. 
+
+Technical Assistance and Projects 
+The following technical assistance activities are planned for FY 2025:
+•	Develop and issue City of New Orleans accessibility report 
+•	Continue developing guides for the ADA and ABA Standards with the goal of completing the remaining guides for Chapter 7: Communication Elements and Features
+ 
+#### FY 2026: Training & Technical Assistance
+
+The Board will continue to improve its website, responding to information and training requests from a range of stakeholders (to include business, government, and individual consumers).  
+
+### IMPROVE THE ACCESSIBILITY OF THE FEDERAL GOVERNMENT
+
+The Board is committed to improving the accessibility of the federal government and has the following objectives in this program area:
+
+•	Improve the accessibility of federal buildings and facilities through enhanced awareness and robust enforcement of the Architectural Barriers Act
+•	Improve accessibility of federal information and communication technology through collaboration with other federal agencies
+•	Be a model employer of persons with disabilities 
+
+#### FY 2025: ABA Enforcement and Awareness
+
+The Board continues to investigate complaints under the ABA. Based on complaint receipts and closures to date in the current fiscal year, it expects to receive 300 new complaints, and close 325. Of the 325, the Board expects to close 101 following investigations resulting in the completion of corrective action, with an additional 30 investigations resulting in determinations that it lacked jurisdiction and 20 that the complaint allegations did not amount to a violation of the standards, as well as a single complaint where we are expecting the agency to issue a waiver. The Board expects to refer complainants to other federal agencies in 170 matters when it is clear—prior to the commencing of an investigation—that the allegations relate to a disability-related or civil rights law other than the ABA. 
+
+The Board continues providing periodic updates to complainants on the status of their complaints. It will continue refining program processes based on performance measures previously developed to better increase efficiency in the operation of the compliance and enforcement program. As a result of the increased ABA complaints in recent years, the Board developed metrics to better evaluate the compliance and enforcement program’s efficiency and effectiveness to ensure that it delivers the highest quality service to the public. During the current fiscal year, we implemented a requirement that complaints that raise possible accessibility concerns but that are not covered by the ABA (e.g., because they relate to non-federal facilities) be closed and complainants be informed of the proper entity to contact for assistance within an average of 15 business days from the date on which we receive such a complaint. We anticipate being able to exceed this goal during FY 2025 by closing these complaints within far a shorter timeframe. This allows the Board to direct its limited resources available for carrying out the ABA compliance and enforcement program to the cases raising the most significant ABA violations at the earliest possible time.
+
+#### FY 2026: ABA Enforcement and Awareness
+
+The Board will continue to provide effective and responsible customer service and increase efficiency in the operation of the compliance and enforcement program. We will evaluate existing goals for the program and implement additional metrics against which to evaluate the program’s success.
+
+#### FY 2025: Accessible Federal Information and Communication Technology 
+
+During FY 2025 the Board will contribute to the FY 2024 Section 508 Governmentwide Assessment by providing data analysis and recommendations to improve Section 508 compliance across government. As the assessment is conducted and reported annually, the Board will collaborate with GSA and OMB to develop assessment criteria for the FY 2025 governmentwide assessment. The Board and GSA will assist agencies that must respond to the assessment criteria by offering addressing their inquiries.
+
+The Board will further leverage its roles in co-chairing two subcommittees of the Federal Chief Information Officers Council (CIOC) Accessibility Community of Practice. Continuous efforts are underway to identify best practices in Section 508 that can be promoted for use at other agencies. The Board will support an agency’s efforts to promote their Section 508 conformant media player and share resources with other agencies. In addition, the Board will provide bi-monthly Section 508 best practices webinars and will co-sponsor the annual Interagency Accessibility Forum (IAAF) that educates federal employees on the latest developments in accessible information and communication technology.
+
+As a leader of the Section 508 ICT Testing Baseline Portfolio and the W3C Accessibility Conformance Testing (ACT) (international), the Board will continue to develop testing baselines for ICT covered by Section 508. To add to the Baselines for Web and Documents, the Board will collaborate with GSA to develop baselines for software and hardware. 
+
+The Board will continue its oversight and management of the funds provided by the CIOC Accessibility Community of Practice to enhance the Baseline Portfolio. The Board will allocate a significant portion of the remaining funds to develop test cases for the Alignment Framework for Baseline for Web. Additional tasks include improvements for the Baseline Alignment website and repository.
+
+Work will continue on the development of Baseline alignment tools, including test cases and reporting. Collaboration with the University of Maryland will continue in developing a hybrid test methodology for web content, which combines automated test tools and manual testing to ensure accurate and consistent test results for Section 508 conformance.
+
+The Board plans to continue its contributions to W3C WAI activities, including AG WG and Accessibility Conformance Testing Task Force (ACT TF).
+
+#### FY 2026: Accessible Federal Information and Communication Technology
+ 
+The Board plans to continue its collaborations with GSA, OMB, and other federal agencies in further promoting ICT accessibility in FY 2026. 
+
+The Board intends to expand the Section 508 ICT Testing Baseline Portfolio by releasing baselines for software and hardware. Additionally, the Board will identify test processes that align to the Baseline Portfolio. The collaborative project with the University of Maryland is expected to conclude with the development of a hybrid test methodology for web content. This methodology will combine automated test tools and manual testing to ensure accurate and consistent test results for Section 508 conformance, aligning with the Baseline for Web. 
+
+The Board will continue to support any new OMB directives to agencies regarding compliance with the Section 508 accessibility standards and will assist with agency reporting requirements.
+
+#### FY 2025: Model Employer of Persons with Disabilities
+	
+As a micro agency, the Board and its employment initiatives and goals are limited to its 29 staff positions, since the selection of Governing Board Members rests with the White House. Historically, the agency has had an exceptionally low turnover, oftentimes resulting in several years when the Board has had no vacancies. In a typical year, the Board may recruit for one or two positions. In these recruitment moments, the agency has an exemplary record of disability inclusion.
+
+To further this goal for FY 2025, the Board is continuing its efforts to ensure that leaders at all levels promote the vision for a model EEO workplace by taking actions to increase equity in the workforce and maintain an inclusive and accessible workplace. Additionally, the Board is improving the consistency of desired outcomes by strengthening policies and procedures and utilizing technology.
+
+The Board will partner with the U.S. Office of Personnel Management (OPM) to provide Federal Employee Viewpoint Survey (FEVS) support. As a follow-up to the 2024 FEVS, the Board requested OPM conduct two post-survey employee focus groups to gather in-depth qualitative information concerning issues identified based on the survey results. The goal of this effort is to assist the Board identifying key issues driving dissatisfaction, as well as possible solutions
+
+#### FY 2026: Model Employer of Persons with Disabilities
+
+The Board plans to continue its efforts and practices for hiring people with disabilities in FY 2026. As part of this effort, it will recruit, hire, and develop a high-performing workforce that reflects the various communities the Board serves by optimizing outreach.
+
+The Board continually seeks to improve its ability to prevent and address disability discrimination. Additionally, the Board is working towards providing workforce training in the next fiscal year, to include general EEO training for employees and management.
+
+### PROMOTE ACCESSIBILITY THROUGHOUT SOCIETY
+ 
+As noted above, the Board’s technical assistance and ABA enforcement program contribute to promoting accessibility in various segments of society. The Board also promotes accessibility in the public sphere in other ways, apprising various audiences about accessible design, disability-related issues, and its programs and services. The Board has two primary objectives in this program area:
+•	Identify and address inequities in accessibility faced by underserved communities
+•	Identify and work to address barriers to accessibility beyond those covered by the	 Board’s guidelines and standards
+
+#### FY 2025
+ 
+Thus far in FY 2025, the Board continues to promote awareness of its work, programs, and service. The Board also plans to execute the following activities in FY 2025: 
+ 
+5.	From October 2024 to April 2025, the Access Board engaged in various international accessibility efforts. In December, staff met with a delegation from the Central African Republic to discuss rulemaking processes, public engagement, and improving access to government facilities, highlighting the ABA. In March, the Executive Director attended the Zero Project Conference in Vienna, moderating a session on disability in civil service alongside international experts. In April, staff participated in the Global Disability Summit in Berlin, where the Executive Director led a panel discussion on bridging the digital divide and fostering an accessible digital future. At the summit, the Board engaged with delegations, organizations, and individuals from around the world to collaborate and strengthen global accessibility efforts.
+6.	In July 2025, the Board will host a town hall in New Orleans, Louisiana to learn about the state of accessibility in the region directly from residents, as well as to share information about the Board’s rulemaking agenda and services. The Board will meet with City of New Orleans officials to promote accessibility in local government services, as well as provide training directly to municipal staff.  The Board will also meet with various representatives from the local transit authority, the National Park Service (NPS), and local disability advocates to promote accessibility and increase awareness of the Access Board’s technical assistance services.
+7.	A pre-meeting visit to Providence, RI to plan and prepare for the May 2026 Board meeting will take place late in FY 2025. Planned meetings will take place with local and federal government leadership, accessibility focused organizations, and residents.
+8.	The October 2025 Board meeting will be virtual and largely focus on next steps and debriefing of the July out-of-town meeting.
+ 
+Outreach
+The Board will continue to undertake initiatives to enhance equity for historically underserved communities. As part of this effort, the Board finalized its Communication and Outreach Strategy and Plan in FY 2024, which included a particular focus on outreach activities that provide information on services and programs to underserved communities with high rates of disability and professionals serving those communities. The Board continues to establish and strengthen relationships with other federal agencies that own or lease federal facilities where in-person services are provided to underserved communities with high rates of disability. As noted above, the Board works with federal agencies to establish ABA compliance strategies aimed at proactively ensuring the accessibility of buildings and facilities in underserved communities through accessibility assessments and the remediation of architectural barriers. 
+ 
+#### FY 2026 
+ 
+The Board aims to strengthen relationships with existing stakeholders and audiences by continuing to reach out to professional associations, trade groups, federal agencies, and other organizations whose stakeholders can benefit from its services and programs. Additionally, the Board will continue to build relationships with other federal agencies who serve underserved communities, especially Tribal Nations. One of the goals of this work is to listen to and learn about accessibility and barriers in Tribal communities through attendance at Tribal conferences and gatherings, presentations to Tribal leadership and officials, and hosting listening sessions.
+ 
+The Board also aims to acquire new stakeholders and audiences, specifically those in underserved communities, through outreach, promotional materials development, and more Spanish-translated agency documents. These activities are included in the Board’s Communication and Outreach Strategy and Plan. Moreover, the Access Board developed a new series of one-page fact sheets for distribution at public events. Several fact sheets were developed, with each focusing on a specific subject matter, such as built environment accessibility, the Architectural Barriers Act, and an overview of the U.S. Access Board. Per the Board’s Communication and Outreach Strategy and Plan, the latter fact sheet was translated into Spanish and has been regularly distributed at public events over the past fiscal year, including the Board’s meeting in Los Angeles, CA, which has a significant Spanish-speaking population.
+ 
+At the July Board meeting, the Board voted for the 2026 out-of-town meeting and town hall to take place in Providence, Rhode Island. Possible events and meetings include a panel discussion on beach and outdoor area accessibility; an accessible art experience and panel discussion on disability in the arts at The Steel Yard; a visit to a state veterans’ home and discussion with veterans with disabilities; an “accessibility walk” to view accessibility issues and solutions in the public right-of-way; a visit to a cafe designed to be used by employees with disabilities; and a meeting with state officials to understand efforts to improve accessibility in Rhode Island. The 2026 out-of-town meeting and town hall will support the ongoing objectives of the Board. 
+ 
+FY 2026 Board meetings will take place in October 2025, January, May, and July 2026. The October and January meetings will be virtual. The out-of-town meeting in Providence, RI will take place in May. The July 2026 meeting will be held in-person in Washington, D.C. 
+
+### IMPROVE AGENCY SYSTEMS AND MODERNIZE OPERATIONS
+
+For FY 2023 through FY 2026, the Board added a stewardship objective to its strategic plan to improve agency systems and modernize operations. The Board has embarked on the creation of a multi-year Information Technology Strategic plan and roadmap to guide its current and future IT investments and objectives including software, hardware, data center operations, and the mandated cyber security initiatives. The Board has set the following objectives:
+
+•	Use data and technology to modernize and enhance operations and services.
+•	Use tools and internal systems to consolidate and retain agency knowledge.
+•	Update agency policies, procedures, and administrative regulations.
+•	Safeguard Board’s staff, assets, and data against cyber security vulnerabilities.
+•	Implement automation for improved efficiency and cost savings.
+
+The Modernizing Government Technology Act delivers a clear mandate to federal agencies to look for ways to increase efficiency and effectiveness and improve service to the public. The Board has a requirement to employ centralized identity management systems for agency users that can be integrated into applications and common platforms. Information Technology (IT) resources are critical in support of the Board’s strategic objective to improve agency systems and modernize operations. This objective includes using data and technology to enhance operations and services, using tools and internal systems to consolidate and retain agency knowledge, and updating agency policies, procedures, and administrative regulations. The Board plans to review the possible use of artificial intelligence (AI) to automate recurring tasks for cost savings and improved productivity. To further the goals of creating a safe technical environment, the Board will strenuously work towards improved vulnerability management and staying ahead of the potential cyber security threats. The overall goal of the Board, in accordance with recent and ongoing IT mandates, is to create a common environment for enterprise platform standards, processes, and governance, modernize legacy agency equipment, and secure and enhance the IT infrastructure. The IT appropriation provides resources for IT security enhancement modernization efforts, continued adoption of cloud-based computing solutions, consolidation of infrastructure and networks, and the modernization of legacy IT systems and applications. This funding level will also support the maintenance and enhancement of foundational capabilities that facilitate cloud migration and increase functionality.
