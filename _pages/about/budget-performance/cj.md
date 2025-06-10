@@ -56,7 +56,7 @@ April 2025
 
 * * *
 
-# Fiscal Year 2025 Budget Justification
+# Fiscal Year 2026 Budget Justification
 
 This document presents the U.S. Access Board&rsquo;s budget justification for fiscal year (FY) 2026. The Board is requesting a total budget authority of $9,955,000 (see [Appendix A](#appendix-a)).
 
@@ -1249,7 +1249,7 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
     <tr>
       <th scope="row">Technical Assistance (Calls and Faxes)</th>
       <td>4,582</td>
-      <td>4,352</td>
+      <td>5,352</td>
       <td>6,000</td>
       <td>5,500</td>
     </tr>
