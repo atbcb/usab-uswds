@@ -1299,11 +1299,11 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
 
 The Board’s FY 2022-2026 Strategic Plan includes four goals and a stewardship objective:
 
-•	Establish technical specifications for accessible design
-•	Provide education and information on the importance and implementation of accessible design
-•	Improve the accessibility of the federal government 
-•	Promote accessibility throughout society
-•	Improve agency systems and modernize operations
+* Establish technical specifications for accessible design
+* Provide education and information on the importance and implementation of accessible design
+* Improve the accessibility of the federal government
+* Promote accessibility throughout society
+* Improve agency systems and modernize operations
 
 The Board established long- and short-range goals and annual objectives that describe the strategies it will implement to achieve the goals. 
 
@@ -1311,11 +1311,11 @@ The Board established long- and short-range goals and annual objectives that des
 
 The Board will continue to develop and update accessibility guidelines and standards and work cooperatively with organizations that develop codes and standards affecting accessibility. It has developed the following objectives for this program area:
 
-•	Develop and update technical specifications to achieve accessibility standards that will be enforceable under the ABA as to the ABA standard-setting agencies – The United States Postal Service (USPS), the General Services Administration (GSA), the Department of Defense (DOD), and the Department of Housing and Urban Development (HUD), and – that adopts them.
-•	Coordinate with standards and codes organizations to build effective industry accessibility standards
-•	Engage with the public, particularly underserved communities, to provide information about the development of accessible design
-•	Address accessibility of emerging technologies and design trends
-•	Collaborate with organizations to encourage research on accessibility
+* Develop and update technical specifications to achieve accessibility standards that will be enforceable under the ABA as to the ABA standard-setting agencies – The United States Postal Service (USPS), the General Services Administration (GSA), the Department of Defense (DOD), and the Department of Housing and Urban Development (HUD), and – that adopts them.
+* Coordinate with standards and codes organizations to build effective industry accessibility standards
+* Engage with the public, particularly underserved communities, to provide information about the development of accessible design
+* Address accessibility of emerging technologies and design trends
+* Collaborate with organizations to encourage research on accessibility
 
 #### FY 2025: Rulemaking
 
@@ -1323,7 +1323,8 @@ Consistent with the administration’s deregulatory priorities, the Board plans 
 
 The Board plans to propose the following regulatory actions that it considers required by statute or outside the scope of E.O. 14192:
 
-Guidelines for Universal (or Adult) Changing Tables:
+##### Guidelines for Universal (or Adult) Changing Tables:
+
 The FAA Reauthorization Act of 2024 requires that mid-sized and large airports seeking certain federal funds, beginning in 2030, provide at least one universal changing table in each terminal building. The legislation directs the Access Board to issue comprehensive accessible design standards for universal changing tables, as well as standards addressing their privacy, accessibility, and sanitation, by May 2026. The Access Board intends to seek approval to publish an ANPRM seeking public input on the guidelines early in FY 2026. 
 
 The Board also proposes to issue direct final rules that would (1) update the agency’s procedures under Section 504 of the Rehabilitation Act with respect to non-discrimination on the basis of disability in its federally-conducted programs and activities, and Section 508 of the Rehabilitation Act, requiring that all information and communication technology procured, developed, maintained, or used by the Board be readily accessible to and usable by individuals with disabilities; and (2) update its regulations for handling requests under the Freedom of Information Act. As these regulations govern only agency organization, management, or personnel, they are not subject to the deregulatory requirements of E.O. 14192.
@@ -1332,9 +1333,9 @@ The Board also proposes to issue direct final rules that would (1) update the ag
 
 In FY 2026, the Board aims to publish the following rulemaking documents, if approved:
 
-•	An ANPRM and perhaps an NPRM seeking information from the public on guidelines for universal changing tables at airports subject to certain requirements in the FAA Reauthorization Act
-•	A direct final rule setting forth Access Board obligations and procedures under Section 504 and 508 of the Rehabilitation Act
-•	A direct final rule on processing requests under the Freedom of Information Act
+* An ANPRM and perhaps an NPRM seeking information from the public on guidelines for universal changing tables at airports subject to certain requirements in the FAA Reauthorization Act
+* A direct final rule setting forth Access Board obligations and procedures under Section 504 and 508 of the Rehabilitation Act
+* A direct final rule on processing requests under the Freedom of Information Act
 
 #### FY 2025: Codes and Standards
 
@@ -1349,23 +1350,27 @@ The Board will continue to develop and update accessibility guidelines and stand
 The Board provides training and technical assistance on accessibility guidelines and standards to a wide variety of individuals in addition to both public and private entities, including architects, builders, designers, technology companies, manufacturers, people with disabilities, disabled veterans, state and local governments, and federal agencies. The Board’s long-range goal is to be known as a leading source of information on accessible design.
 
 The Board maintains the following objectives to provide education and information on the importance and implementation of accessible design:
-•	Provide training on accessible design and the Board’s guidelines and standards
-•	Provide technical assistance on the implementation of accessibility guidelines and standards
-•	Create guides, manuals, and animations to promote understanding of accessible design
-•	Use stakeholders’ feedback to improve information services
-•	Conduct and sponsor research on accessible design and technical innovations
+
+* Provide training on accessible design and the Board’s guidelines and standards
+* Provide technical assistance on the implementation of accessibility guidelines and standards
+* Create guides, manuals, and animations to promote understanding of accessible design
+* Use stakeholders’ feedback to improve information services
+* Conduct and sponsor research on accessible design and technical innovations
 
 #### FY 2025: Training & Technical Assistance 
 
-Online Guides, Webinars, and Website
+##### Online Guides, Webinars, and Website
+
 The Board will continue developing materials for the online guides to the ADA and ABA accessibility standards, as new rules and regulations are published. Technical guides covering Chapter 7: Communication Elements and Features of the standards are in progress. These guides will address fire alarm systems, telephones, detectable warnings, assistive listening systems, ATMs and fare machines, and two-way communication systems. Future installments to the guides will be released and announced through Board email subscribers as they become available. 
 
 In FY 2025, the Board will continue to offer its webinar series for the built environment and information and communication technology. Which will reflect the updated guides, most recent rulemaking activities, and best practices. 
 
-Technical Assistance and Projects 
+##### Technical Assistance and Projects 
+
 The following technical assistance activities are planned for FY 2025:
-•	Develop and issue City of New Orleans accessibility report 
-•	Continue developing guides for the ADA and ABA Standards with the goal of completing the remaining guides for Chapter 7: Communication Elements and Features
+
+* Develop and issue City of New Orleans accessibility report
+* Continue developing guides for the ADA and ABA Standards with the goal of completing the remaining guides for Chapter 7: Communication Elements and Features
  
 #### FY 2026: Training & Technical Assistance
 
@@ -1375,9 +1380,9 @@ The Board will continue to improve its website, responding to information and tr
 
 The Board is committed to improving the accessibility of the federal government and has the following objectives in this program area:
 
-•	Improve the accessibility of federal buildings and facilities through enhanced awareness and robust enforcement of the Architectural Barriers Act
-•	Improve accessibility of federal information and communication technology through collaboration with other federal agencies
-•	Be a model employer of persons with disabilities 
+* Improve the accessibility of federal buildings and facilities through enhanced awareness and robust enforcement of the Architectural Barriers Act
+* Improve accessibility of federal information and communication technology through collaboration with other federal agencies
+* Be a model employer of persons with disabilities 
 
 #### FY 2025: ABA Enforcement and Awareness
 
@@ -1428,8 +1433,9 @@ The Board continually seeks to improve its ability to prevent and address disabi
 ### PROMOTE ACCESSIBILITY THROUGHOUT SOCIETY
  
 As noted above, the Board’s technical assistance and ABA enforcement program contribute to promoting accessibility in various segments of society. The Board also promotes accessibility in the public sphere in other ways, apprising various audiences about accessible design, disability-related issues, and its programs and services. The Board has two primary objectives in this program area:
-•	Identify and address inequities in accessibility faced by underserved communities
-•	Identify and work to address barriers to accessibility beyond those covered by the	 Board’s guidelines and standards
+
+* Identify and address inequities in accessibility faced by underserved communities
+* Identify and work to address barriers to accessibility beyond those covered by the Board’s guidelines and standards
 
 #### FY 2025
  
@@ -1440,7 +1446,8 @@ Thus far in FY 2025, the Board continues to promote awareness of its work, progr
 7.	A pre-meeting visit to Providence, RI to plan and prepare for the May 2026 Board meeting will take place late in FY 2025. Planned meetings will take place with local and federal government leadership, accessibility focused organizations, and residents.
 8.	The October 2025 Board meeting will be virtual and largely focus on next steps and debriefing of the July out-of-town meeting.
  
-Outreach
+##### Outreach
+
 The Board will continue to undertake initiatives to enhance equity for historically underserved communities. As part of this effort, the Board finalized its Communication and Outreach Strategy and Plan in FY 2024, which included a particular focus on outreach activities that provide information on services and programs to underserved communities with high rates of disability and professionals serving those communities. The Board continues to establish and strengthen relationships with other federal agencies that own or lease federal facilities where in-person services are provided to underserved communities with high rates of disability. As noted above, the Board works with federal agencies to establish ABA compliance strategies aimed at proactively ensuring the accessibility of buildings and facilities in underserved communities through accessibility assessments and the remediation of architectural barriers. 
  
 #### FY 2026 
@@ -1457,10 +1464,10 @@ FY 2026 Board meetings will take place in October 2025, January, May, and July 2
 
 For FY 2023 through FY 2026, the Board added a stewardship objective to its strategic plan to improve agency systems and modernize operations. The Board has embarked on the creation of a multi-year Information Technology Strategic plan and roadmap to guide its current and future IT investments and objectives including software, hardware, data center operations, and the mandated cyber security initiatives. The Board has set the following objectives:
 
-•	Use data and technology to modernize and enhance operations and services.
-•	Use tools and internal systems to consolidate and retain agency knowledge.
-•	Update agency policies, procedures, and administrative regulations.
-•	Safeguard Board’s staff, assets, and data against cyber security vulnerabilities.
-•	Implement automation for improved efficiency and cost savings.
+* Use data and technology to modernize and enhance operations and services.
+* Use tools and internal systems to consolidate and retain agency knowledge.
+* Update agency policies, procedures, and administrative regulations.
+* Safeguard Board’s staff, assets, and data against cyber security vulnerabilities.
+* Implement automation for improved efficiency and cost savings.
 
 The Modernizing Government Technology Act delivers a clear mandate to federal agencies to look for ways to increase efficiency and effectiveness and improve service to the public. The Board has a requirement to employ centralized identity management systems for agency users that can be integrated into applications and common platforms. Information Technology (IT) resources are critical in support of the Board’s strategic objective to improve agency systems and modernize operations. This objective includes using data and technology to enhance operations and services, using tools and internal systems to consolidate and retain agency knowledge, and updating agency policies, procedures, and administrative regulations. The Board plans to review the possible use of artificial intelligence (AI) to automate recurring tasks for cost savings and improved productivity. To further the goals of creating a safe technical environment, the Board will strenuously work towards improved vulnerability management and staying ahead of the potential cyber security threats. The overall goal of the Board, in accordance with recent and ongoing IT mandates, is to create a common environment for enterprise platform standards, processes, and governance, modernize legacy agency equipment, and secure and enhance the IT infrastructure. The IT appropriation provides resources for IT security enhancement modernization efforts, continued adoption of cloud-based computing solutions, consolidation of infrastructure and networks, and the modernization of legacy IT systems and applications. This funding level will also support the maintenance and enhancement of foundational capabilities that facilitate cloud migration and increase functionality.
