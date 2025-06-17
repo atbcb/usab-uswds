@@ -15,7 +15,7 @@ In the FAA Reauthorization Act of 2018, Congress directed the Access Board to co
 
 To examine the design, engineering, and safety requirements for equipping aircraft with securement mechanisms for wheelchairs, TRB empaneled a study committee of experts in aircraft interiors and safety engineering, accessibility, wheelchair design and crashworthiness, airline operations, and other disciplines.  The committee held numerous open and closed sessions throughout 2020 and 2021, which included presentations from:  disability advocates, manufacturers (of aircraft, wheelchairs, and wheelchair securement systems),  air carriers, and flight attendants. 
 
-Please visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on this project.  Question may also be directed to Mario Damiani of the Access Board at <events@access-board.gov> or to Anusha Jayasinghe of TRB at <ajayasinghe@nas.edu> or 202-334-2401. 
+Please visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on this project.  Question may also be directed to Juliet Shoultz of the Access Board at <shoultz@access-board.gov> or to Anusha Jayasinghe of TRB at <ajayasinghe@nas.edu> or 202-334-2401. 
 
 ### FAA Reauthorization Act of 2018 (Public Law 115-254) 
 
