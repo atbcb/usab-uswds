@@ -13,7 +13,7 @@ image: /images/uploads/zerocall26-graphic.png
 image_alt_text: "#ZeroCall26: accessibility, ICT, and crisis response. Nominate
   now! Zeroproject.org/zerocall26. Zero Project logo with text: for a world with
   zero barriers."
-featured: true
+featured: false
 ---
 The U.S. Access Board will be hosting a joint webinar with the Zero Project on **Tuesday, June 3, 2025, from 1:00 – 2:00 PM (ET)**, to provide an overview of the [Zero Project Awards 2026](https://zeroproject.org/research/zero-project-call-for-nominations-2026). Focusing on innovations in **Accessibility, ICT, and Crisis Response**, the Zero Project Call for Nominations 2026 opened today. The information webinar will be hosted over [Zoom for Government](https://www.zoomgov.com/j/1605541090) and is open to all members of the public; sign language interpreting and real time captioning will be provided.
 
