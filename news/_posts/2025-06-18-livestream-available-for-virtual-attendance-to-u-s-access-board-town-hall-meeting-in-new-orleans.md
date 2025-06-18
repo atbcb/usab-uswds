@@ -25,12 +25,12 @@ American Sign Language (ASL) interpreters and Communication Access Real-time Tra
 July 9, 2025\
 9:00 – 11:30 a.m. (CT)
 
-*In-Person Attendance Information*\
-New Orleans Marriott\
-Acadia and Bissonnet Ballrooms (3rd floor)\
-555 Canal Street\
-New Orleans, LA 70130\
-Registration: Provide full name and organization (if any) to [events@access-board.gov](mailto:events@access-board.gov)
+> *In-Person Attendance Information*\
+> New Orleans Marriott\
+> Acadia and Bissonnet Ballrooms (3rd floor)\
+> 555 Canal Street\
+> New Orleans, LA 70130\
+> Registration: Provide full name and organization (if any) to [events@access-board.gov](mailto:events@access-board.gov)
 
-*Virtual Attendance Information (listen-only)* \
-YouTube Livestream Link: <https://www.youtube.com/watch?v=w3tbOSkbvYw>
+> *Virtual Attendance Information (listen-only)*\
+> YouTube Livestream Link: <https://www.youtube.com/watch?v=w3tbOSkbvYw>
