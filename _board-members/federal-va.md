@@ -8,7 +8,7 @@ member: federal
 status: current
 image: /images/uploads/jessica-kaplan.png
 job-title: Associate Executive Director, Office of Resource Management
-department: Department of Veterans Affairs
+department: null
 agency: Department of Veterans Affairs
 ---
 Jessica L. Kaplan was appointed the Associate Executive Director of the Office of Resource Management for the Office of Construction and Facilities Management (CFM) on December 23, 2018. As the principal advisor to the Executive Director on financial management, logistics and human resources, she provides oversight of budget development and execution for VA’s Major Construction program and CFM working capital; creation and use of data management systems; other logistical needs; and all aspects of human resources, including recruiting, retention, rewarding and training to support CFM’s nationwide workforce.
