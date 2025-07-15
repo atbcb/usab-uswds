@@ -10,7 +10,7 @@ excerpt: The U.S. Access Board will hold a public town hall meeting on
   Louisiana . . .
 image: /images/uploads/new-orleans-skyline-border.jpg
 image_alt_text: Skyline of New Orleans with light seeping through the clouds.
-featured: true
+featured: false
 ---
 The U.S. Access Board will hold a public town hall meeting on **Wednesday, July 9** from **9:00 – 11:30 a.m. (CT)** at the New Orleans Marriott Hotel, 555 Canal Street, New Orleans, LA. Presidentially appointed Access Board Members and representatives from other federal member agencies will be present to hear from the local community about the state of accessibility in Louisiana. Representatives from the [Office of Governor Jeff Landry](https://gov.louisiana.gov/) and the [City of New Orleans](https://nola.gov/) will also be present.
 

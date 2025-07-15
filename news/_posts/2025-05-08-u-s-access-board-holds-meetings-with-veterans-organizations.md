@@ -9,7 +9,7 @@ excerpt: During the latest meeting of the U.S. Access Board, Public and Federal
   meetings at the Access Board’s office in Washington, DC . . .
 image: /images/uploads/WWI-group-photo.JPG
 image_alt_text: Access Board Members and staff stand in front of the WWI Memorial.
-featured: true
+featured: false
 ---
 During the [latest meeting](https://www.access-board.gov/news/2025/04/30/elver-ariza-silva-and-michael-brennan-elected-as-chair-and-vice-chair-to-u-s-access-board/) of the U.S. Access Board, Public and Federal Members, along with staff, attended various sessions throughout the week, several of which focused on veterans organizations and issues affecting veterans with disabilities.
 

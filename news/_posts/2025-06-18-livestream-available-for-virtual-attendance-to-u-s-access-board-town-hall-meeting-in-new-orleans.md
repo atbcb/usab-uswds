@@ -11,7 +11,7 @@ excerpt: Members of the public are welcome to virtually attend the U.S. Access
   listen to the meeting and not make public comments . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: An Access Board meeting appears on a laptop screen.
-featured: true
+featured: false
 ---
 Members of the public are welcome to virtually attend the U.S. Access Board’s in-person public town hall meeting on **Wednesday, July 9** from **9:00 – 11:30 a.m. (CT)** at the New Orleans Marriott, 555 Canal Street, New Orleans, LA. To ensure all can participate, the town hall meeting will be [broadcast live via YouTube ](https://www.youtube.com/watch?v=w3tbOSkbvYw)for virtual attendees. Virtual attendees will only be able to listen to the meeting and not make public comments. 
 
