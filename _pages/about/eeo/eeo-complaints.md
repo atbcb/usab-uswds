@@ -12,7 +12,7 @@ file-description: PDF version of USAB EEO Complaint Procedures
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; February 21, 2025 \
+Approval Date:&nbsp; July 17, 2025 \
 Version:&nbsp; Version 2.2
 
 ## 1. INTRODUCTION
@@ -70,7 +70,7 @@ Complaints of employment discrimination in violation of the EEO Laws shall be pr
 
 #### 6.2.1. EEO Director
 
-The Director of the Office of Technical and Information Services (OTIS) serves as EEO Director. However, if the complaint contains allegations against the OTIS Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
+The Chief of Staff serves as EEO Director. However, if the complaint contains allegations against the EEO Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
 
 #### 6.2.2. EEO Counselor, EEO Officer, and EEO Investigator
 
@@ -80,7 +80,7 @@ The Access Board contracts with trained, neutral third parties (i.e., other fede
 
 #### 6.3.1. Initiation of EEO Counselling
 
-The EEO process begins when an individual claiming to have been aggrieved, contacts an EEO Counselor. The employee must consult with an EEO Counselor prior to filing a complaint, to try to informally resolve the matter. The aggrieved person must contact an EEO Counselor within 45 days of the date of the incident alleged to be discriminatory (or in the case of a personnel action, within 45 days of the effective date of the action), unless the time period is extended in accordance with 29 C.F.R. § 1614.105(a)(2). Contact can be effectuated by contacting a person in the agency logically connected to the EEO Process and exhibiting intent to file an EEO complaint. The Access Board has contracted with the United States Postal Service’s (USPS) National EEO Investigative Services office to provide agency-wide EEO services. To initiate EEO counseling employees should email [UspsExtCounselMedReq@usps.gov](mailto:UspsExtCounselMedReq@usps.gov).
+The EEO process begins when an individual claiming to have been aggrieved, contacts an EEO Counselor. The employee must consult with an EEO Counselor prior to filing a complaint, to try to informally resolve the matter. The aggrieved person must contact an EEO Counselor within 45 days of the date of the incident alleged to be discriminatory (or in the case of a personnel action, within 45 days of the effective date of the action), unless the time period is extended in accordance with 29 C.F.R. §1614.105(a)(2). Contact can be effectuated by contacting a person in the agency logically connected to the EEO Process and exhibiting intent to file an EEO complaint. The Access Board contracts with the United States Postal Service’s National EEO Investigative Services Office for EEO services. To initiate EEO counseling, email [UspsExtCounselMedReq@usps.gov](mailto:UspsExtCounselMedReq@usps.gov).
 
 #### 6.3.2. EEO Counseling Process
 
@@ -244,12 +244,12 @@ Employees are not required to file an Equal Pay Act complaint through this admin
 This Access Board directive on EEO Complaint Procedures is effective upon signature by the Equal Employment Opportunity Director and the Executive Director, and remains in effect until rescinded, superseded, or reissued.
 
 Dru Gordon, Chief of Staff \
-Equal Employment Opportunity Director \
-/ s / &nbsp; Date: 2/21/25
+EEO Director \
+/ s / &nbsp; Date: 7/18/25
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 2/21/25
+/ s / &nbsp; Date: 7/18/25
 
 ## 9. REVISION HISTORY
 
@@ -258,6 +258,6 @@ The “Revision History” table below should be used to capture revisions or up
 | Date    | Revision Summary | Version <br /> Number | Author / Owner Name
 | :---    | :---             | :---:               | :---
 | 2/10/2025 | Minor edits to comply with Executive Order | 2.1 | OGC
-| 2/11/2025 | Addition of new EEO counseling email box | 2.2 | DSG
+| 7/17/2025 | Edits to update titles and EEO mailbox | 2.2 | EEO
 | &nbsp;  | &nbsp;           | &nbsp;              | &nbsp;
 {: .usa-table }
