@@ -70,7 +70,7 @@ Complaints of employment discrimination in violation of the EEO Laws shall be pr
 
 #### 6.2.1. EEO Director
 
-The Director of the Office of Technical and Information Services (OTIS) serves as EEO Director. However, if the complaint contains allegations against the OTIS Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
+The Chief of Staff serves as EEO Director. However, if the complaint contains allegations against the EEO Director, then the Executive Director will appoint a trained, neutral third party (i.e., contract with other federal agencies or private entities, or appoint a qualified Access Board employee) to provide this service.
 
 #### 6.2.2. EEO Counselor, EEO Officer, and EEO Investigator
 
