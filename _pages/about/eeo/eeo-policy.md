@@ -15,7 +15,7 @@ For more than fifty years, the Access Board has been dedicated to promoting equa
 
 Providing a fair and equitable workplace requires ensuring that no employee or applicant for employment is denied equal employment opportunity (EEO) because of race, color, religion, sex, parental status, national origin, age (over 40), physical or mental disability, genetic information (including family medical history), political affiliation, military service, or retaliation for participation in protected EEO activity.
 
-I expect all managers and supervisors to ensure that our employees and applicants are given equal opportunity in all personnel matters, including hiring, promotion, reassignment, training, career development opportunities, and awards. The Access Board provides reasonable accommodations for employees and applicants with disabilities, as well as for religious observances and practices.
+I expect all managers and supervisors to ensure that our employees and applicants are given equal opportunity in all personnel matters, including hiring, promotion, reassignment, training, career development opportunities, and awards. The Access Board provides reasonable accommodations for employees and applicants with disabilities, as well as for limitations related to, affected by, or arising out of pregnancy, childbirth, or related medical conditions and for religious observances and practices.
 
 Employees and applicants have the right to report incidents of discrimination or harassment without fear of retaliation. We will take swift and appropriate corrective and/or disciplinary action when any manager, supervisor, or other staff member is found to have engaged in discrimination, retaliation, or harassment – including sexual harassment – that is prohibited by Access Board policies, regardless of whether their actions also violate federal law.
 
@@ -25,4 +25,4 @@ Equal employment opportunity is not only the law, but a fundamentally sound busi
 
 Sachin Pavithran \
 Executive Director \
-/ s / &nbsp; Date: 2/21/25
+/ s / &nbsp; Date: 7/18/25
