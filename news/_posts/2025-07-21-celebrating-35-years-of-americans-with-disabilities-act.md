@@ -15,11 +15,11 @@ image_alt_text: President Bush signs the ADA in front of a fountain with four ot
 featured: true
 ---
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG" alt="A local resident speaks at the Access Board's town hall." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/ada-signing.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/ada-signing.jpg" alt="President Bush signs the ADA into law." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A local resident speaks at the Access Board's town hall.</em>
+    <em>President Bush signs the ADA into law.</em>
   </figcaption>
 </figure>
 
