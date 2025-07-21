@@ -75,6 +75,8 @@ Furthermore, Board staff also attended and presented at the [2025 National Title
 
 In April, Board staff attended the [3rd Global Disability Summit (GDS)](https://www.globaldisabilitysummit.org/) in Berlin, Germany, which was hosted by the governments of Germany and Jordan, along with the [International Disability Alliance (IDA)](https://www.internationaldisabilityalliance.org/). Executive Director Pavithran presented on a panel which addressed the topic of Building Connections, Bridging the Digital Divide: An Inclusive and Accessible Digital Future for All Persons with Disabilities. Additionally, Pavithran and Public Affairs Specialist **Amy Nieves** met with Member of German Parliament **Wilfred Oellers**.
 
+At the end of April, the Access Board held its annual in-person Board meeting in Washington, DC. During this meeting, the Board learned about the accessibility of the [World War I Memorial](https://www.nps.gov/wwim/index.htm) from the National Park Service, and visited the national headquarters of [Paralyzed Veterans of American (PVA)](https://pva.org/) to observe the accessibility of their facilities as well. More details on the week’s meetings can be found in the Board’s [news release](https://www.access-board.gov/news/2025/05/08/u-s-access-board-holds-meetings-with-veterans-organizations/).
+
 The following month in May, the Board again welcomed a delegation from Oman as part of the International Visitor Leadership Program. The conversation focused on the role of the ADA, the Architectural Barriers Act, and Section 508 of the [Rehabilitation Act](https://www.access-board.gov/about/law/ra.html), and their corresponding accessibility guidelines and standards.
 
 <figure class="img-right">
