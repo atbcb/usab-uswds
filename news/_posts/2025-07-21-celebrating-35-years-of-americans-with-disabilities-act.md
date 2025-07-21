@@ -31,10 +31,10 @@ Access Board staff continue to collaborate with the Administration on Community 
 
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/IVLP-Indonesia-group.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/IVLP-Indonesia-group.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/IVLP-Indonesia-group.jpg" alt="Access Board staff with a delegation from Indonesia." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A local resident speaks at the Access Board's town hall.</em>
+    <em>The Access Board met with a delegation from Indonesia.</em>
   </figcaption>
 </figure>
 
@@ -42,10 +42,10 @@ Throughout the past year, the Access Board convened with international represent
 
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/IVLP-CAR-group.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/IVLP-CAR-group.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/IVLP-CAR-group.jpg" alt="Access Board staff with a delegation from the Central African Republic." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A local resident speaks at the Access Board's town hall.</em>
+    <em>The Access Board met with a delegation from the Central African Republic.</em>
   </figcaption>
 </figure>
 
@@ -53,10 +53,10 @@ Later that month on December 19, Access Board staff provided a virtual training 
 
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/ZeroCon-Sachin-and-Stefan.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/ZeroCon-Sachin-and-Stefan.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/ZeroCon-Sachin-and-Stefan.jpg" alt="Executive Director Pavithran and Dr. Stefan Verhaegh on stage at the Zero Project Conference." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A local resident speaks at the Access Board's town hall.</em>
+    <em>Executive Director Pavithran and Dr. Stefan Verhaegh present at the Zero Project Conference.</em>
   </figcaption>
 </figure>
 
@@ -66,10 +66,10 @@ Furthermore, Board staff also attended and presented at the [2025 National Title
 
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/GDS-Sachin-and-Wilfred.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/GDS-Sachin-and-Wilfred.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/GDS-Sachin-and-Wilfred.jpg" alt="Executive Director Pavithran shakes hands with Member of German Parliament Wilfred Oellers." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A local resident speaks at the Access Board's town hall.</em>
+    <em>Executive Director Pavithran met with Member of German Parliament Wilfred Oellers.</em>
   </figcaption>
 </figure>
 
@@ -78,11 +78,11 @@ In April, Board staff attended the [3rd Global Disability Summit (GDS)](https://
 The following month in May, the Board again welcomed a delegation from Oman as part of the International Visitor Leadership Program. The conversation focused on the role of the ADA, the Architectural Barriers Act, and Section 508 of the [Rehabilitation Act](https://www.access-board.gov/about/law/ra.html), and their corresponding accessibility guidelines and standards.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG" alt="A local resident speaks at the Access Board's town hall." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/inAble-Sachin-on-stage.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/inAble-Sachin-on-stage.jpg" alt="Executive Director Pavithran standing on stage at the Inclusive Africa Conference." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>A local resident speaks at the Access Board's town hall.</em>
+    <em>Executive Director Pavithran presented at the Inclusive Africa Conference.</em>
   </figcaption>
 </figure>
 
