@@ -30,8 +30,8 @@ In October 2024, several Access Board staff attended and presented at the 2024 [
 Access Board staff continue to collaborate with the Administration on Community Living’s (ACL) [Older Americans Act Title VI grant program](https://olderindians.acl.gov/home#gsc.tab=0) that provides nutrition and other support to elders on tribal lands. ACL staff have identified disability access to ceremonial spaces as a key quality of life issue for older tribal members. The [National Congress of American Indians](https://www.ncai.org/) passed a resolution in 2023 encouraging tribes to enhance accessibility of ceremonial spaces and naming the Access Board as a resource for technical assistance. Moreover, in November, Board staff attended the Department of Health and Human Services (HHS) [Traditional Healing Summit](https://www.youtube.com/watch?v=NcrCzG6toWc) both virtually and in person. A roundtable session was held between tribal leaders, ACL leadership, and Board staff to discuss accessibility needs and potential collaborative solutions.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG" alt="A local resident speaks at the Access Board's town hall." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/IVLP-Indonesia-group.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/IVLP-Indonesia-group.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>A local resident speaks at the Access Board's town hall.</em>
@@ -41,8 +41,8 @@ Access Board staff continue to collaborate with the Administration on Community 
 Throughout the past year, the Access Board convened with international representatives from the Department of State’s [International Visitor Leadership Program (IVLP)](https://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp), a premier professional exchange program that brings together foreign leaders and American counterparts to engage on emerging issues, policy goals, and shared interests. In November, Board staff met with a delegation from Indonesia, and in December, met with a delegation from the Central African Republic. Both discussions focused on the Board’s rulemaking processes, public engagement, and ways to ensure that people with disabilities have access to government facilities. The delegates welcomed learning more about the ADA and the [Architectural Barriers Act](https://www.access-board.gov/about/law/aba.html) as they work toward ensuring access to all aspects of public life for people with disabilities in their respective nations.
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG" alt="A local resident speaks at the Access Board's town hall." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/IVLP-CAR-group.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/IVLP-CAR-group.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>A local resident speaks at the Access Board's town hall.</em>
@@ -52,8 +52,8 @@ Throughout the past year, the Access Board convened with international represent
 Later that month on December 19, Access Board staff provided a virtual training for the 1,100 business members of [New Orleans and Company](https://www.neworleans.com/) with a focus on public rights-of-way to support accessibility efforts as New Orleans prepared for the upcoming Super Bowl. The session included an overview of the Access Board and an invitation to attendees to the agency’s July 9, 2025 [town hall in the city](https://www.access-board.gov/news/2025/07/16/u-s-access-board-holds-town-hall-in-city-of-new-orleans/).
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG" alt="A local resident speaks at the Access Board's town hall." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/ZeroCon-Sachin-and-Stefan.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/ZeroCon-Sachin-and-Stefan.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>A local resident speaks at the Access Board's town hall.</em>
@@ -65,8 +65,8 @@ In March, Executive Director Pavithran attended the 2025 [Zero Project Conferenc
 Furthermore, Board staff also attended and presented at the [2025 National Title VI Training & Technical Assistance Conference](https://teya.swoogo.com/2025-national-title-vi-conference/6778707) in March. Sessions included discussions of caregiving for older Native Americans with disabilities, resources for older Native Americans, nutritional programs, fiscal training, and more.
 
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/Resident-speaks-at-New-Orleans-town-hall.JPG" alt="A local resident speaks at the Access Board's town hall." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/GDS-Sachin-and-Wilfred.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/GDS-Sachin-and-Wilfred.jpg" alt="A local resident speaks at the Access Board's town hall." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>A local resident speaks at the Access Board's town hall.</em>
