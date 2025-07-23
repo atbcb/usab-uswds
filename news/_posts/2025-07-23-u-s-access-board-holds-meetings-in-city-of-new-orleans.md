@@ -1,0 +1,31 @@
+---
+layout: post
+title: U.S. Access Board Holds Meetings in City of New Orleans
+date: 2025-07-23
+excerpt: Each year, the U.S. Access Board visits a city outside of Washington,
+  D.C. to learn about the state of accessibility around the country. During the
+  week of July 7th, the Access Board traveled to New Orleans for its 2025
+  out-of-town Board meeting. During various sessions throughout the week, the
+  Board heard from residents, advocates, and local government leaders regarding
+  key accessibility issues and successes in the region . . .
+image: /images/uploads/maddy-speaking-nola.jpg
+image_alt_text: A Board Member speaks into a microphone at a meeting.
+featured: true
+---
+Each year, the U.S. Access Board visits a city outside of Washington, D.C. to learn about the state of accessibility around the country. During the week of July 7th, the Access Board traveled to New Orleans for its 2025 out-of-town Board meeting. During various sessions throughout the week, the Board heard from residents, advocates, and local government leaders regarding key accessibility issues and successes in the region. A summary of these meetings follows below.
+
+On Monday, July 7th, Board staff, including Accessibility Specialists **Travis Saner** and **Juliet Shoultz,** along with Public Affairs Specialist **Amy Nieves**, conducted a training on the agency’s [Public Right-of-Way Accessibility Guidelines (PROWAG)](https://www.access-board.gov/prowag/) for the Louisiana State [Department of Transportation](https://dotd.la.gov/), [Jefferson Parish Transit](https://jptransit.org/), New Orleans [Department of Public Works](https://nola.gov/next/public-works/home/), and [Regional Transit Authority (RTA)](https://www.norta.com/) staff.
+
+The next day, on Tuesday, July 8th, Board Members and staff attended several meetings with local advocates and officials from the [State of Louisiana](https://www.louisiana.gov/) and the [City of New Orleans](https://nola.gov/). These meetings were held at the Louisiana State University (LSU) [Health Sciences Center New Orleans](https://www.lsuhsc.edu/). In its first meeting, the Board learned about the state of accessibility across Louisiana from the [Governor’s Office](https://gov.louisiana.gov/), [LA Developmental Disabilities Council (LaDDC)](https://laddc.org/), and [Disability Rights LA](https://disabilityrightsla.org/). Later, the Board met with LSU Health’s [Human Development Center](https://www.hdc.lsuhsc.edu/), which is the state’s University Center for Excellence in Developmental Disabilities (UCEDD). During this meeting, the Board learned about the center’s role as Louisiana’s UCEDD and about the Louisiana Leadership Education in Neurodevelopmental and Related Disabilities (LA LEND), which is a leadership training program for graduate students, individuals with developmental or neurodevelopmental disabilities, parents/guardians, and practicing professionals.
+
+During one of its final meetings at LSU, the Board attended a panel discussion with city leaders who support the city’s efforts to address accessibility under the Americans with Disabilities Act (ADA) for New Orleans residents with disabilities. Additionally, the Board met with city leaders from the Department of Public Works; the discussion included highlights of current public works accessibility priorities and projects. Finally, the Board met with RTA staff to observe the accessibility of the ferry that travels between Canal Street and Algiers Point across the Mississippi River.
+
+Following its [town hall meeting](https://www.access-board.gov/news/2025/07/16/u-s-access-board-holds-town-hall-in-city-of-new-orleans/) on Wednesday, July 9th, the Board observed the accessibility of the Canal Streetcar line, which is one of the light rail systems in New Orleans. This observation culminated in another meeting with RTA leadership at their headquarters in the city. The conversation focused on RTA’s current transit systems across New Orleans and the ways in which the organization is prioritizing accessibility.
+
+Finally, on Thursday, July 10th, the Board attended a series of meetings at the [New Orleans Jazz Museum](https://nolajazzmuseum.org/). First, the Board met with leadership from [Jean Lafitte National Historical Site and Preserve](https://www.nps.gov/jela/index.htm) and [New Orleans Jazz National Historical Park](https://www.nps.gov/jazz/index.htm), including Superintendent **Rebecca Lasell**. Board Members learned how NPS staff are addressing and increasing accessibility at each location to better serve park visitors with disabilities. Following this meeting, the Board observed the accessibility of the New Orleans Jazz Museum with leadership from the institution.
+
+Later in the afternoon on Thursday, the Board held a general accessibility meeting with local New Orleans residents. Representatives from the City of New Orleans and the [Split Second Foundation](https://www.splitsecondfoundation.org/) were also in attendance. Following a public jazz performance at the museum, the Board attended a panel discussion on the topic of addressing accessibility in the French Quarter with geographic information systems (GIS). The panel consisted of experts from [New Orleans & Company](https://www.neworleans.com/) and the city’s Department of Public Works.
+
+The Access Board greatly appreciates the engagement of city and state officials, local advocates and organizations, and community members during its visit to New Orleans. Moreover, the Board would like to acknowledge the efforts of **Eva Hurst**, the ADA Administrator for the City of New Orleans, for the critical role she played in helping to bring many of these meetings to fruition.
+
+The next meeting of the U.S. Access Board will take place virtually from October 27 – 29, 2025. [Visit](https://www.access-board.gov/) the Access Board’s website or [sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_1) for the free subscription to get notified of upcoming Board meetings, webinars, trainings, and other events.
