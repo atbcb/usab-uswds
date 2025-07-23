@@ -92,7 +92,7 @@ For more explanation on the application of the accessibility standards to public
 
 ### 3\. Review the Research Findings About Accessibility Issues for Play Surfaces
 ![A data collector records the findings from a playground in the research study where the rotational penetrometer is set up at the entry.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/3.JPG){: .img-right}
-From 2008 to 2012, the National Center on Accessibility at Indiana University-Bloomington, conducted a [longitudinal study](http://www.ncaonline.org/resources/articles/playground-surfacestudy-finalreport.shtml) on the accessibility of playground surfaces. The study was funded by the U.S. Access Board. The purpose of this study was to evaluate a variety of playground surfaces, their ability to meet accessibility requirements, their costs upon initial installation and maintenance issues over a 3-5 year period.
+From 2008 to 2012, the National Center on Accessibility at Indiana University-Bloomington, conducted a [longitudinal study](https://scholarworks.iu.edu/dspace/items/ae55499c-95fd-489a-8705-145ec4b03944) on the accessibility of playground surfaces. The study was funded by the U.S. Access Board. The purpose of this study was to evaluate a variety of playground surfaces, their ability to meet accessibility requirements, their costs upon initial installation and maintenance issues over a 3-5 year period.
 
 The research design for this study of playground surfaces began in 2005 with input from a national advisory committee. During the study, quantitative and qualitative data was collected through on-site inspections for a 3-5 year period. A national advisory committee provided feedback on the categories of surfaces to be evaluated, the criteria to be used for evaluation, the locations within each playground to be evaluated, data collection worksheets and on-site protocol. In addition, advisory committee members helped to expand the network for recruitment in the study and increase national awareness among playground owners.
 
@@ -130,7 +130,7 @@ The most valuable lesson to be learned from this longitudinal study is that ther
 6.  A playground surface with fewer accessibility deficiencies and a lower measurement for firmness and stability did not necessarily meet the safety standards for impact attenuation.
 7.  Surface cost for material cannot serve as an indicator or predictor of performance.
 
-The full report [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility: Final Report](http://www.ncaonline.org/resources/articles/playground-surfacestudy-finalreport.shtml) is available on the National Center on Accessibility web site: [www.ncaonline.org](http://www.ncaonline.org/).
+The full report [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility: Final Report](https://scholarworks.iu.edu/dspace/items/ae55499c-95fd-489a-8705-145ec4b03944) is available on the National Center on Accessibility web site.
 
 ##### Poured in Place Rubber (PIP)
 ![Two hard-back swings over a blue/green poured-in-place rubber surface.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/5.jpg) 
