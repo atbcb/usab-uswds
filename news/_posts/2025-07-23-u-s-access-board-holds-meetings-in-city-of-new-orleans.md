@@ -30,8 +30,8 @@ The next day, on Tuesday, July 8th, Board Members and staff attended several mee
 During one of its final meetings at LSU, the Board attended a panel discussion with city leaders who support the city’s efforts to address accessibility under the Americans with Disabilities Act (ADA) for New Orleans residents with disabilities. Additionally, the Board met with city leaders from the Department of Public Works; the discussion included highlights of current public works accessibility priorities and projects. Finally, the Board met with RTA staff to observe the accessibility of the ferry that travels between Canal Street and Algiers Point across the Mississippi River.
 
 <figure class="img-right">
-  <a href="{{ site.baseurl }}/images/uploads/maddy-speaking-nola.JPG">
-    <img src="{{ site.baseurl }}/images/uploads/maddy-speaking-nola.JPG" alt="Maddy Ruvolo speaks into a microphone." class="center">
+  <a href="{{ site.baseurl }}/images/uploads/maddy-speaking-nola.jpg">
+    <img src="{{ site.baseurl }}/images/uploads/maddy-speaking-nola.jpg" alt="Maddy Ruvolo speaks into a microphone." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Public Board Member Maddy Ruvolo speaks during a meeting with RTA.</em>
