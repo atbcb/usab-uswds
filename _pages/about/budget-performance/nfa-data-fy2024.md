@@ -2,28 +2,28 @@
 
 ### I. Complaint Activity (FY 2020 to FY 2024)
 
-| &nbsp;                     | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 | FY 2024 |
-| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Number of Complaints Filed |    0    |    0    |    0    |    1    |    1    |    0    |
-| Number of Complainants     |    0    |    0    |    0    |    1    |    1    |    0    |
-| Repeat Filers              |    0    |    0    |    0    |    0    |    0    |    0    |
+| &nbsp;                     | FY 2020 | FY 2021 | FY 2022 | FY 2023 | FY 2024 |
+| :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
+| Number of Complaints Filed |    0    |    0    |    1    |    1    |    0    |
+| Number of Complainants     |    0    |    0    |    1    |    1    |    0    |
+| Repeat Filers              |    0    |    0    |    0    |    0    |    0    |
 {: .usa-table }
 
 ### II. Complaints by Basis (FY 2020 to FY 2024)
 
-| &nbsp;              | FY 2019 | FY 2020 | FY 2021 | FY 2022 | FY 2023 | FY 2024 |
-| :---                | ---:    | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Race                |   0     |   0     |   0     |    0    |    1    |    0    |
-| Color               |   0     |   0     |   0     |    0    |    1    |    0    |
-| Religion            |   0     |   0     |   0     |    0    |    0    |    0    |
-| Reprisal            |   0     |   0     |   0     |    0    |    1    |    0    |
-| Sex                 |   0     |   0     |   0     |    0    |    0    |    0    |
-| National Origin     |   0     |   0     |   0     |    0    |    0    |    0    |
-| Equal Pay Act       |   0     |   0     |   0     |    0    |    0    |    0    |
-| Age                 |   0     |   0     |   0     |    0    |    0    |    0    |
-| Disability          |   0     |   0     |   0     |    1    |    1    |    0    |
-| Genetic Information |   0     |   0     |   0     |    0    |    0    |    0    |
-| Non-EEO Basis       |   0     |   0     |   0     |    0    |    0    |    0    |
+| &nbsp;              | FY 2020 | FY 2021 | FY 2022 | FY 2023 | FY 2024 |
+| :---                | ---:    | ---:    | ---:    | ---:    | ---:    |
+| Race                |   0     |   0     |    0    |    1    |    0    |
+| Color               |   0     |   0     |    0    |    1    |    0    |
+| Religion            |   0     |   0     |    0    |    0    |    0    |
+| Reprisal            |   0     |   0     |    0    |    1    |    0    |
+| Sex                 |   0     |   0     |    0    |    0    |    0    |
+| National Origin     |   0     |   0     |    0    |    0    |    0    |
+| Equal Pay Act       |   0     |   0     |    0    |    0    |    0    |
+| Age                 |   0     |   0     |    0    |    0    |    0    |
+| Disability          |   0     |   0     |    1    |    1    |    0    |
+| Genetic Information |   0     |   0     |    0    |    0    |    0    |
+| Non-EEO Basis       |   0     |   0     |    0    |    0    |    0    |
 {: .usa-table }
 
 ### III. Complaints by Issue (FY 2020 to FY 2024)
