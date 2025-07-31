@@ -32,7 +32,7 @@ During FY 2024, there were zero new cases filed against the Access Board in fede
 
 ### B. Reimbursement to the Judgement Fund
 
-During FY 2024 there were no federal district court discrimination cases which resulted in payment from the Judgment Fund on behalf of the Access Board 
+During FY 2024 there were no federal district court discrimination cases which resulted in payment from the Judgment Fund on behalf of the Access Board.
 
 ### C. Types of Disciplinary Actions
 
