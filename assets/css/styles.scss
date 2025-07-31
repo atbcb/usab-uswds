@@ -468,10 +468,13 @@ div.advisory p.last {
     color: #000 !important;
     background-color: #fff;
     page-break-after: avoid;
+    break-after: avoid;
     page-break-inside: avoid;
+    break-inside: avoid;
   }
-  table, figure, img, svg, a {
+  table, figure, img, svg, a, .no-break {
     page-break-inside: avoid;
+    break-inside: avoid;
   }
   //do not print
   footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip, #ta-box {
