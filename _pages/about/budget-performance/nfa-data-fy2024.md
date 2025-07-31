@@ -115,7 +115,7 @@
 | Non-EEO Basis       |    0         |    0         |    0         |    0         |    0         |
 {: .usa-table }
 
-## B. Findings After Hearing
+#### B. Findings After Hearing
 
 | &nbsp;              | FY 2019 (#%)s | FY 2020 | FY 2021 | FY 2022 | FY 2023 |
 | :---                | ---:          | ---:    | ---:    | ---:    | ---:    |
