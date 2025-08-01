@@ -38,7 +38,7 @@ Join us for an informative journey as we explore the world of accessibility laws
 
 [Susanna Laurin](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11142&ret=A%20Journey%20Through%20Global%20Accessibility%20Laws), Managing Director and Chair, **Funka Foundation**
 
-[Jessie Weber ](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11144&ret=A%20Journey%20Through%20Global%20Accessibility%20Laws), Managing Partner, **Brown, Goldstein & Levy, LLP**
+[Jamie Strawbridge](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11146&ret=A%20Journey%20Through%20Global%20Accessibility%20Laws), Attorney, **Brown, Goldstein & Levy**
 
 ### Privacy Statement
 
