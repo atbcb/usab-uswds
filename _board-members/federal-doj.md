@@ -7,7 +7,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/vacant.svg
+image: /images/uploads/harmeet-dhillon-doj.jpeg
 job-title: "Assistant Attorney General for Civil Rights"
 ---
 Harmeet K. Dhillon is the Assistant Attorney General for Civil Rights at the U.S. Department of Justice. She was nominated by President Donald Trump in December 2024. She was confirmed by the U.S. Senate on April 3, 2025, and sworn in as AAG by Attorney General Pam Bondi on April 7, 2025.
