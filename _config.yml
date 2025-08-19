@@ -531,7 +531,7 @@ exclude:
   # other development build tips: include_cached meta.html header.html in the base layout
 
 sass:
-  source_dir: _sass
+  # source_dir: _sass
   load_paths:
     - node_modules/uswds/dist/
   sourcemap: development

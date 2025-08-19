@@ -206,6 +206,11 @@ td ul.check {
 .usa-nav__primary a:not(.usa-button):hover{color: #005ea2 !important; text-decoration:none}
 }
 
+@media screen {
+  .print-only {
+    display: none;
+  }
+}
 @media screen and (max-width: 1024px) {
   .site-logo {
     max-height: 3rem;
@@ -468,11 +473,37 @@ div.advisory p.last {
     color: #000 !important;
     background-color: #fff;
     page-break-after: avoid;
+    break-after: avoid;
     page-break-inside: avoid;
+    break-inside: avoid;
   }
-  table, figure, img, svg, a {
+  table, figure, img, svg, a, .no-break {
     page-break-inside: avoid;
+    break-inside: avoid;
   }
+  //for print TOC
+  .print-toc table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+  }
+  .print-toc th, .print-toc td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+  }
+  .print-toc th {
+    background-color: #f0f0f0;
+  }
+  .print-toc caption {
+    font-size: 14pt;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+
+
+
   //do not print
   footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip, #ta-box {
     display: none !important;
@@ -503,6 +534,9 @@ div.advisory p.last {
   .star-logo-box{
     max-width: 2rem;
     height: auto;
+  }
+  .print-only {
+    display: block !important;
   }
 }
 //accordion alternative for EV TA
