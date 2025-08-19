@@ -18,11 +18,9 @@ Webinars are recorded, and past sessions are available in the [AO site archives]
 
 ## Section 508 Best Practices Webinar Series ##
 
-![CIO Council seal]({{ site.baseurl }}/images/cioc-logo.png){: .img-right .maxh-card}
-
 The [Section 508 Best Practices Webinar Series](https://www.accessibilityonline.org/cioc-508/schedule/) addresses a variety of issues associated with ensuring that federal agencies have the knowledge they need to meet their obligations under Section 508.&nbsp;
 The sessions are 90 minutes in length, and typically scheduled for the last Tuesday alternating months (1:30 Eastern).&nbsp;
-Real-time captioning and a Video Sign Language Interpreter are available for each session.&nbsp; This webinar series is offered in conjunction with the Chief Information Officers Council (CIOC) Accessibility Community of Practice (ACOP).
+Real-time captioning and a Video Sign Language Interpreter are available for each session.&nbsp;
 
 To register, visit [www.accessibilityonline.org/cioc-508](http://www.accessibilityonline.org/cioc-508/).&nbsp;
-Webinars are recorded, and past sessions are available in the [CIOC 508 BP site archives](https://www.accessibilityonline.org/cioc-508/archives/). 
+Webinars are recorded, and past sessions are available in the [508 BP site archives](https://www.accessibilityonline.org/cioc-508/archives/). 
