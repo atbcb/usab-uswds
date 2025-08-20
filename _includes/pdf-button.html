@@ -1,5 +1,10 @@
 <div class="pdf-button-container">            
-    <a class="usa-button pdf-button float-right" title="{{ include.file-description }}" href="{{ site.baseurl }}{{ include.file }}" target="_blank" rel="noreferrer">
+    <a class="usa-button pdf-button float-right" title="{{ include.file-description }}" href="{{ site.baseurl }}{{ include.file }}" target="_blank" rel="noreferrer" aria-describedby="cav">
     PDF
     </a> 
+    <p 
+<p id="cav" hidden>
+  The PDF is provided for printing of this accessible web page.
+</p>
+
 </div>
