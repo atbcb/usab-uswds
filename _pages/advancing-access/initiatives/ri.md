@@ -19,7 +19,7 @@ The Access Board takes on regulatory initiatives to develop accessibility guidel
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png){: .img-left }
 
-[Electric Vehicle Charging Stations]({{ site.baseurl }}/evse/) are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles and it is expected that the installation and use of Electric Vechicle (EV) charging stations will continue to expand.  In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/ta/tad/ev/) that addresses existing requirements and new recommendations for making EV charging stations accessible.
+[Electric Vehicle Charging Stations]({{ site.baseurl }}/evse/) are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles and it is expected that the installation and use of Electric Vechicle (EV) charging stations will continue to expand.  In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/tad/ev/) that addresses existing requirements and new recommendations for making EV charging stations accessible.
 
 ## Initiatives
 

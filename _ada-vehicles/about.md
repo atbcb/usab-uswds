@@ -4,7 +4,7 @@ permalink: /ada/vehicles/
 toc-group: ada-vehicles
 order-number: 0
 file: /files/vehicles/vehicle-guidelines.pdf
-file-description: PDF version of the ADAAG for Transportation Vehicles
+file-description: Print version of ADAAG for Transportation Vehicles
 redirect_from:
   - /guidelines-and-standards/transportation/vehicles/adaag-for-transportation-vehicles/
   - /guidelines-and-standards/transportation/vehicles/about-adaag-for-transportation-vehicles/
