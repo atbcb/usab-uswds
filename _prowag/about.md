@@ -3,7 +3,7 @@ title: About PROWAG
 order-number: 1
 permalink: /prowag/
 file: /files/prowag/2023-16149.pdf
-file-description: Public Right-of-Way Accessibility Guidelines as published in the Federal Register
+file-description: Print version of Public Right-of-Way Accessibility Guidelines as published in the Federal Register
 ---
 ## About the ADA and ABA Accessibility Guidelines for the Public Right-of-Way
 
