@@ -1,7 +1,7 @@
 ---
 name: federal-gsa
 last-name: Rigas
-full_name: Michael Rigas
+full_name: Michael J. Rigas
 chair: false
 vice-chair: false
 member: federal
