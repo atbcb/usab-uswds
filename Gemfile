@@ -1,9 +1,8 @@
 source "https://rubygems.org"
 ruby '3.3.4'
 
-
-gem "jekyll", "~> 4.4.1"
-gem "jekyll-sass-converter", "~> 2.2" # Ensures compatibility with SCSS processing in Jekyll 4.4.1.
+gem "jekyll", "~> 4.3.2"
+# gem "jekyll-sass-converter", "~> 2.2" # Ensures compatibility with SCSS processing in Jekyll 4.4.1.
 gem "sprockets", "~> 4"
 gem "autoprefixer-rails"
 
@@ -25,4 +24,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "kramdown-parser-gfm"
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
