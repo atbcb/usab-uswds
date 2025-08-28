@@ -111,9 +111,15 @@ GEM
     sass-embedded (1.91.0)
       google-protobuf (~> 4.31)
       rake (>= 13)
+    sass-embedded (1.91.0-aarch64-linux-android)
+      google-protobuf (~> 4.31)
     sass-embedded (1.91.0-aarch64-linux-gnu)
       google-protobuf (~> 4.31)
     sass-embedded (1.91.0-aarch64-linux-musl)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.91.0-aarch64-mingw-ucrt)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.91.0-arm-linux-androideabi)
       google-protobuf (~> 4.31)
     sass-embedded (1.91.0-arm-linux-gnueabihf)
       google-protobuf (~> 4.31)
@@ -121,7 +127,15 @@ GEM
       google-protobuf (~> 4.31)
     sass-embedded (1.91.0-arm64-darwin)
       google-protobuf (~> 4.31)
+    sass-embedded (1.91.0-riscv64-linux-android)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.91.0-riscv64-linux-gnu)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.91.0-riscv64-linux-musl)
+      google-protobuf (~> 4.31)
     sass-embedded (1.91.0-x86_64-darwin)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.91.0-x86_64-linux-android)
       google-protobuf (~> 4.31)
     sass-embedded (1.91.0-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
@@ -137,15 +151,24 @@ GEM
     webrick (1.9.1)
 
 PLATFORMS
+  aarch64-linux-android
   aarch64-linux-gnu
   aarch64-linux-musl
+  aarch64-mingw-ucrt
+  arm-linux-androideabi
   arm-linux-gnu
+  arm-linux-gnueabihf
   arm-linux-musl
+  arm-linux-musleabihf
   arm64-darwin
+  riscv64-linux-android
+  riscv64-linux-gnu
+  riscv64-linux-musl
   ruby
   x86-linux-gnu
   x86-linux-musl
   x86_64-darwin
+  x86_64-linux-android
   x86_64-linux-gnu
   x86_64-linux-musl
 
