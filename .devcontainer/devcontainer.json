@@ -1,0 +1,9 @@
+
+{
+  "name": "Ruby Dev Container",
+  "features": {
+    "ghcr.io/devcontainers/features/ruby:1": {
+      "version": "3.3.4"
+    }
+  }
+}

@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 ruby '3.3.4'
 
-gem "jekyll", "4.2.2"
+
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-sass-converter", "~> 2.2" # Ensures compatibility with SCSS processing in Jekyll 4.4.1.
 gem "sprockets", "~> 4"
 gem "autoprefixer-rails"
 
