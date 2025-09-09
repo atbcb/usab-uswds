@@ -10,7 +10,7 @@ excerpt: Each year, the U.S. Access Board visits a city outside of Washington,
   city residents regarding local accessibility concerns . . .
 image: /images/uploads/new-orleans-town-hall-crowd.jpg
 image_alt_text: The audience sits in attendance at the town hall.
-featured: true
+featured: false
 ---
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/Access-Board-with-LaToya-Cantrell.JPG">
