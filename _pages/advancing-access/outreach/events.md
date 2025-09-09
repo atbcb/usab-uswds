@@ -25,16 +25,16 @@ Dial in: (646) 828-7666
 Contact: <events@access-board.gov>
 
 _Agenda_\
-•	Introductory Remarks and Roll Call\
-•	Board vote on approval of draft April 2025 meeting minutes\
-•	Executive Director’s Report\
-•	New Orleans Out-of-Town Debrief\
-•	Presentation: Addressing Accessibility in the French Quarter (presented by the City of New Orleans and New Orleans & Company)\
-•	Standing Committee Reports\
-•	Election Assistance Commission\
-•	Federal Agency Updates\
-•	New Business\
-•	Adjourn
+* Introductory Remarks and Roll Call\
+* Board vote on approval of draft April 2025 meeting minutes\
+* Executive Director’s Report\
+* New Orleans Out-of-Town Debrief\
+* Presentation: Addressing Accessibility in the French Quarter (presented by the City of New Orleans and New Orleans & Company)\
+* Standing Committee Reports\
+* Election Assistance Commission\
+* Federal Agency Updates\
+* New Business\
+* Adjourn
 
 ### Public Events Archives
 
