@@ -16,12 +16,12 @@ The next meeting of the U.S. Access Board will take place virtually on **Wednesd
 
 Members of the public may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1615898135) or by phone (listen-only mode). **Please note that participation over Zoom will require the use of the passcode provided below.** For further information, contact Rose Marie Bunales at <events@access-board.gov>.
 
-**Meeting of the U.S. Access Board**
-October 29, 2025, 1:30 PM – 3:00 PM (ET)
-Zoom link: [https://www.zoomgov.com/j/1615898135](https://www.zoomgov.com/j/1615898135)
-Meeting ID: 161 589 8135
-Passcode: 472126
-Dial in: (646) 828-7666
+**Meeting of the U.S. Access Board**\
+October 29, 2025, 1:30 PM – 3:00 PM (ET)\
+Zoom link: [https://www.zoomgov.com/j/1615898135](https://www.zoomgov.com/j/1615898135)\
+Meeting ID: 161 589 8135\
+Passcode: 472126\
+Dial in: (646) 828-7666\
 Contact: <events@access-board.gov>
 
 _Agenda_
