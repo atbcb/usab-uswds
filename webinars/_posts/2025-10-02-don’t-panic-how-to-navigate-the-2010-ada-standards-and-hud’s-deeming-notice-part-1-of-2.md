@@ -2,7 +2,7 @@
 layout: post
 title: Don’t Panic! How to Navigate the 2010 ADA Standards and HUD’s Deeming
   Notice (Part 1 of 2)
-date: 2025-10-02
+date: 2025-10-09
 excerpt: Over the past 50 years, multiple Federal Laws have been established to
   ensure housing is accessible to people with disabilities. Two of these, the
   Rehabilitation Act of 1973 and the Americans with Disabilities Act, have
@@ -32,8 +32,8 @@ tags:
   - Building & Sites
   - ABA
 closed: false
-webinar-start: October 2, 2025 2:30 PM
-webinar-end: October 2, 2025 4:00 PM
+webinar-start: October 9, 2025 2:30 PM
+webinar-end: October 9, 2025 4:00 PM
 registration-link: https://www.accessibilityonline.org/ao/session?id=111185
 webinar: true
 ---
