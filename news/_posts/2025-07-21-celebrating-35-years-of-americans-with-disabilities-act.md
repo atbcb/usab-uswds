@@ -12,7 +12,7 @@ excerpt: July 26, 2025 marks 35 years since the Americans with Disabilities Act
   guidelines serve as . . .
 image: /images/uploads/ada-signing.jpg
 image_alt_text: President Bush signs the ADA in front of a fountain with four others.
-featured: true
+featured: false
 ---
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/ada-signing.jpg">
