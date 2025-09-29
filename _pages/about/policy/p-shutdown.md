@@ -35,33 +35,33 @@ A continuation of IT security operations necessary to maintain the integrity of 
 ### Brief summary of significant agency activities that will cease during a lapse:
 
 During a shut-down, the Access Board will not be conducting the following activities:
-- Complaint processing under the Architectural Barriers Act
-- Guidelines and standards development
-- Webinars
-- Training
-- Technical assistance
-- Website maintenance and updates
-- Processing FOIA requests
-- Board Meetings
-- Administrative work
+1. Complaint processing under the Architectural Barriers Act
+2. Guidelines and standards development
+3. Webinars
+4. Training
+5. Technical assistance
+6. Website maintenance and updates
+7. Processing FOIA requests
+8. Board Meetings
+9. Administrative work
 
 None of the information described above is expected to change should a lapse in appropriations extend for a prolonged period of time.
 
 ### In order to execute an orderly shutdown in the event of a lapse in appropriations, the following information is provided:
 
-- Director of Administration will notify building management of shutdown status.
-- Director of Administration will notify all agency personnel of shutdown status and will initiate action to issue furlough notices and other instructions as appropriate.
-- Chief Information Officer will ensure servers and other information technology equipment are secured.
+1. Director of Administration will notify building management of shutdown status.
+2. Director of Administration will notify all agency personnel of shutdown status and will initiate action to issue furlough notices and other instructions as appropriate.
+3. Chief Information Officer will ensure servers and other information technology equipment are secured.
 
 ### In order to ensure orderly operations are resumed once appropriations are restored, the following information is provided:
 
-- Agency personnel will be instructed to monitor news outlets regarding the status of the shutdown furlough and the specified day they are expected to return to work (normally the next scheduled workday after the furlough has ended).
-- Directors will perform accountability of employees.
-- Should employees have problems returning to work on the specified day, supervisors shall use available flexibilities (including annual leave, compensatory time off, or credit hours), to the extent possible, to accommodate such employees.
-- Director of Administration will notify building management of return to work.
-- Chief Information Officer will ensure servers and other information technology equipment is active and in normal operation.
-- Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify Executive Director and Leadership. Directors will then notify employees.
-- Procedures for resuming program activities, including steps to ensure appropriate oversight and disbursement of funds.
+1. Agency personnel will be instructed to monitor news outlets regarding the status of the shutdown furlough and the specified day they are expected to return to work (normally the next scheduled workday after the furlough has ended).
+2. Directors will perform accountability of employees.
+3. Should employees have problems returning to work on the specified day, supervisors shall use available flexibilities (including annual leave, compensatory time off, or credit hours), to the extent possible, to accommodate such employees.
+4. Director of Administration will notify building management of return to work.
+5. Chief Information Officer will ensure servers and other information technology equipment is active and in normal operation.
+6. Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify Executive Director and Leadership. Directors will then notify employees.
+7. Procedures for resuming program activities, including steps to ensure appropriate oversight and disbursement of funds.
 
 ### References
 
