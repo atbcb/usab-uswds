@@ -3,30 +3,7 @@ layout: post
 title: Don’t Panic! How to Navigate the 2010 ADA Standards and HUD’s Deeming
   Notice (Part 1 of 2)
 date: 2025-10-09
-excerpt: Over the past 50 years, multiple Federal Laws have been established to
-  ensure housing is accessible to people with disabilities. Two of these, the
-  Rehabilitation Act of 1973 and the Americans with Disabilities Act, have
-  similar objectives and are closely interrelated. A multifamily housing project
-  receiving federal financial assistance will likely have overlapping accessible
-  design requirements from both these mandates. But don’t panic! While at first
-  this can seem confusing and intimidating, there is a logical order and
-  application of the accessibility Standards set forth in the respective
-  statutes. Presenters from the U.S. Department of Housing and Urban Development
-  (HUD) will review general differences between the ADA and the Rehabilitation
-  Act, specifically HUD’s implementing section 504 regulations (504. The central
-  focus will be reconciling the 2010 ADA Standards’ requirements with those of
-  the Uniform Federal Accessibility Standards as required by the 504 through
-  HUD’s “Deeming Notice”. Key scope requirements will be highlighted and
-  critical differences between the various Standards discussed. The session will
-  focus in detail on HUD’s “deeming notice” that permits state and local
-  governments to align their housing efforts more closely with requirements of
-  the ADA Standards. The Architectural Barriers Act (ABA) relationship to the
-  Standards will also be succinctly reviewed with several key issues
-  highlighted. This is the first webinar session of a two-part series and will
-  focus on application and scoping concerns that lead to the technical
-  requirements. Real-time captioning provided along with video sign language
-  interpreters. Participants can ask questions in advance during the
-  registration process as well as ask questions during the live session.
+excerpt: Over the past 50 years, multiple Federal Laws have been established to ensure housing is accessible to people with disabilities. Two of these, the Rehabilitation Act of 1973 and the Americans with Disabilities Act, have similar objectives and are closely interrelated. A multifamily housing project receiving federal financial assistance will likely have overlapping accessible design requirements from both these mandates. But don’t panic! While at first this can seem confusing and intimidating, there is a logical order and application of the accessibility Standards set forth in the respective statutes. The presenter will review general differences between the ADA and the Rehabilitation Act, specifically HUD’s implementing section 504 regulations (504). The central focus will be reconciling the 2010 ADA Standards’ requirements with those of the Uniform Federal Accessibility Standards as required by the 504 through HUD’s “Deeming Notice”. Key scope requirements will be highlighted and critical differences between the various Standards discussed. The session will focus in detail on HUD’s “deeming notice” that permits state and local governments to align their housing efforts more closely with requirements of the ADA Standards. The Architectural Barriers Act (ABA) relationship to the Standards will also be succinctly reviewed with several key issues highlighted. This webinar will focus on application and scoping concerns that lead to the technical requirements. Real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 tags:
   - ADA
   - Building & Sites
@@ -37,7 +14,7 @@ webinar-end: October 9, 2025 4:00 PM
 registration-link: https://www.accessibilityonline.org/ao/session?id=111185
 webinar: true
 ---
-Over the past 50 years, multiple Federal Laws have been established to ensure housing is accessible to people with disabilities. Two of these, the Rehabilitation Act of 1973 and the Americans with Disabilities Act, have similar objectives and are closely interrelated. A multifamily housing project receiving federal financial assistance will likely have overlapping accessible design requirements from both these mandates. But don’t panic! While at first this can seem confusing and intimidating, there is a logical order and application of the accessibility Standards set forth in the respective statutes. Presenters from the U.S. Department of Housing and Urban Development (HUD) will review general differences between the ADA and the Rehabilitation Act, specifically HUD’s implementing section 504 regulations (504. The central focus will be reconciling the 2010 ADA Standards’ requirements with those of the Uniform Federal Accessibility Standards as required by the 504 through HUD’s “Deeming Notice”. Key scope requirements will be highlighted and critical differences between the various Standards discussed. The session will focus in detail on HUD’s “deeming notice” that permits state and local governments to align their housing efforts more closely with requirements of the ADA Standards. The Architectural Barriers Act (ABA) relationship to the Standards will also be succinctly reviewed with several key issues highlighted. This is the first webinar session of a two-part series and will focus on application and scoping concerns that lead to the technical requirements. Real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
+Over the past 50 years, multiple Federal Laws have been established to ensure housing is accessible to people with disabilities. Two of these, the Rehabilitation Act of 1973 and the Americans with Disabilities Act, have similar objectives and are closely interrelated. A multifamily housing project receiving federal financial assistance will likely have overlapping accessible design requirements from both these mandates. But don’t panic! While at first this can seem confusing and intimidating, there is a logical order and application of the accessibility Standards set forth in the respective statutes. The presenter will review general differences between the ADA and the Rehabilitation Act, specifically HUD’s implementing section 504 regulations (504). The central focus will be reconciling the 2010 ADA Standards’ requirements with those of the Uniform Federal Accessibility Standards as required by the 504 through HUD’s “Deeming Notice”. Key scope requirements will be highlighted and critical differences between the various Standards discussed. The session will focus in detail on HUD’s “deeming notice” that permits state and local governments to align their housing efforts more closely with requirements of the ADA Standards. The Architectural Barriers Act (ABA) relationship to the Standards will also be succinctly reviewed with several key issues highlighted. This webinar will focus on application and scoping concerns that lead to the technical requirements. Real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
 ### Continuing Education Recognition Available
 
@@ -52,9 +29,7 @@ Over the past 50 years, multiple Federal Laws have been established to ensure ho
 
 ### Speakers:
 
-[Rex Pace](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10680&ret=Don%E2%80%99t%20Panic!%20How%20to%20Navigate%20the%202010%20ADA%20Standards%20and%20HUD%E2%80%99s%20Deeming%20Notice%20(Part%201%20of%202)), Senior Advisory for Accessible Design, **U.S. Department of Housing and Urban Development (HUD)**
-
-[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11147&ret=Don%E2%80%99t%20Panic!%20How%20to%20Navigate%20the%202010%20ADA%20Standards%20and%20HUD%E2%80%99s%20Deeming%20Notice%20(Part%201%20of%202)), Program Analyst for Accessible Design, Compliance and Disability Rights Division , **U.S. Department of Housing and Urban Development (HUD)**
+[Bill Hecker](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11150&ret=Don%E2%80%99t%20Panic!%20How%20to%20Navigate%20the%202010%20ADA%20Standards%20and%20HUD%E2%80%99s%20Deeming%20Notice%20(Part%201%20of%202)), **Hecker Design**
 
 ### Privacy Statement
 
