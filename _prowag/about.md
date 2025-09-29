@@ -20,6 +20,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 - December 5, 2011 -- The Board issues notice [reopening proposed rule for public comment](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347).
 - July 26, 2011 -- The Board issues [notice of proposed rulemaking on Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way](https://www.federalregister.gov/documents/2011/07/26/2011-17721/accessibility-guidelines-for-pedestrian-facilities-in-the-public-right-of-way)
 - March 28, 2011 -- The Board issues notice of [proposed rule on Shared Use Path Accessibility Guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001).
+- August, 2007 -- Public Rights-of-Way Access Advisory Committee (PROWAAC) issues a [special report]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/).
 - November 23, 2005 -- The Board releases [revised draft guidelines](https://www.federalregister.gov/d/05-23161) for purposes of gathering information for a cost analysis.
 - June 17, 2002 -- The Board releases [draft guidelines](/prowag/draft-2002.html) for public comment.
 - January 10, 2001 -- The Public Rights-of-Way Access Advisory Committee submits its [report](/prowag/prowaac-report.html) to the Board.
@@ -29,7 +30,6 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 - [Final Regulatory Impact Analysis](https://www.regulations.gov/document/ATBCB-2011-0004-0610)
 - [Accessible Sidewalks Video Series]({{ site.baseurl }}/prowag/other/accessible-sidewalks-video-series/)
-- Public Rights-of-Way Access Advisory Committee (PROWAAC) Special Report on [Planning and Design for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/)
 - [Detectable Warnings Update]({{ site.baseurl }}/prowag/other/dw-update.html) (March 2014)
 - Department of Justice/Department of Transportation Joint Technical Assistance on the Title II of the Americans with Disabilities Act Requirements to Provide Curb Ramps when Streets, Roads, or Highways are Altered through Resurfacing [Statement](https://www.fhwa.dot.gov/civilrights/programs/ada/doj_fhwa_ta.cfm) and [Supplemental Q&A](https://www.ada.gov/doj-fhwa-ta-supplement-2015.html)
 - [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
