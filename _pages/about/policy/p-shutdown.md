@@ -62,20 +62,3 @@ None of the information described above is expected to change should a lapse in 
 5. Chief Information Officer will ensure servers and other information technology equipment is active and in normal operation.
 6. Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify Executive Director and Leadership. Directors will then notify employees.
 7. Procedures for resuming program activities, including steps to ensure appropriate oversight and disbursement of funds.
-
-### References
-
-- OMB Circular No. A-11, Section 124.2 (2015)
-- OMB Memo M-13-22, Planning for Agency Operations during a Potential Lapse in Appropriations (and attachments) (September 17, 2013)
-
-### Review
-
-This agency plan for a lapse in appropriations has been prepared and reviewed by the undersigned. It complies with guidance provided in the reference documents.
-
-Approved, September 25, 2025
-
-/s/
-
-Sachin Pavithran  
-Executive Director  
-U. S. Access Board
