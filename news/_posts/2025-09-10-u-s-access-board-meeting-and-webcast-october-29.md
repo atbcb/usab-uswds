@@ -10,7 +10,7 @@ excerpt: All are welcome to attend the next meeting of the U.S. Access Board,
   representatives from the City of New Orleans . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: A laptop screen shows a Board meeting in progress.
-featured: true
+featured: false
 ---
 All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on **Wednesday, October 29** from **1:30 – 3:00 PM (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran. Additionally, representatives from the City of New Orleans and New Orleans & Company will present on their efforts to advance accessibility for people with disabilities in the city’s French Quarter.
 
