@@ -29,17 +29,18 @@ Pursuant to Title III of the No FEAR Act and 29 CFR § 1614, federal agencies ar
 
 #### Fiscal Year 2025
 
-- [FY25 1st Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q1.xlsx) (.xlst)
-- [FY25 2nd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q2.xlsx) (.xlst)
-- [FY25 3rd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q3.xlsx) (.xlst)
+- [FY25 1st Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q1.xlsx) (.xlsx)
+- [FY25 2nd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q2.xlsx) (.xlsx)
+- [FY25 3rd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q3.xlsx) (.xlsx)
+- [FY25 4th Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2025q4.xlsx) (.xlsx)
 
 #### Fiscal Year 2024
 
-- [FY24 1st Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q1.xlsx) (.xlst)
-- [FY24 2nd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q2.xlsx) (.xlst)
-- [FY24 3rd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q3.xlsx) (.xlst)
-- [FY24 4th Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q4.xlsx) (.xlst)
+- [FY24 1st Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q1.xlsx) (.xlsx)
+- [FY24 2nd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q2.xlsx) (.xlsx)
+- [FY24 3rd Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q3.xlsx) (.xlsx)
+- [FY24 4th Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2024q4.xlsx) (.xlsx)
 
 #### Fiscal Year 2023
 
-- [FY23 Quarterly Reports]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2023.xlsx) (.xlst)
+- [FY23 Quarterly Reports]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2023.xlsx) (.xlsx)
