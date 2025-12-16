@@ -15,7 +15,7 @@ All are welcome to attend the next meeting of the U.S. Access Board, which will 
 
 Members of the public may attend the meeting through the [Zoom for Government platform](https://www.zoomgov.com/j/1618697374) or by phone (listen-only mode). Please note that participation over Zoom will require the use of the passcode provided below. For further information, contact the Access Board at [events@access-board.gov](mailto:events@access-board.gov).
 
-**[Meeting of the U.S. Access Board](<>)**\
+**Meeting of the U.S. Access Board**\
 January 28, 2026, 1:30 PM – 3:00 PM (ET)\
 Zoom link: <https://www.zoomgov.com/j/1618697374>\
 Meeting ID: 161 869 7374\
