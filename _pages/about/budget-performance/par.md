@@ -3,18 +3,15 @@ title: Performance and Accountability Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-banner-subtitle: Performance and Accountability Report, Fiscal Year 2024
+banner-subtitle: Performance and Accountability Report, Fiscal Year 2025
 permalink: /about/par.html
-file: usab-par-fy2024.pdf
-file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2024
 ---
-<button type="button" class="usa-button--outline" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
 ## Performance and Accountability Report, Independent Auditor's Report, and Financial Statements
 
-### For the Fiscal Years Ended <br /> September 30, 2024 and 2023
+### For the Fiscal Year Ended <br /> September 30, 2025
 
-#### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 13, 2024
+#### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> December  3, 2025
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -38,15 +35,11 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 ## Agency Head Message
 
-November 13, 2024
+December 3, 2025
 
-I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2022.&nbsp;
-This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities.&nbsp;
-Our agency has a proud history of serving the public through its programs focused on accessibility for people with disabilities. 
+I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2025. This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs focused on accessibility for people with disabilities.
 
-Fiscal Year 2023 was a year of continued success.&nbsp;
-The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government.&nbsp;
-We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities. 
+Fiscal Year 2025 was a year of continued success. The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the federal government. We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities. 
 
 Sincerely, 
 
@@ -58,32 +51,32 @@ Executive Director
 
 --- 
 
-{% include_relative par-fy2024/par-fy2024-10-mda.md %}
+{% include_relative par-fy2025/par-fy2025-10-mda.md %}
 
 --- 
 
 ## Performance Report
 
-{% include_relative par-fy2024/par-fy2024-21-goal1.md %}
+{% include_relative par-fy2025/par-fy2025-21-goal1.md %}
 
-{% include_relative par-fy2024/par-fy2024-22-goal2.md %}
+{% include_relative par-fy2025/par-fy2025-22-goal2.md %}
 
-{% include_relative par-fy2024/par-fy2024-23-goal3.md %}
+{% include_relative par-fy2025/par-fy2025-23-goal3.md %}
 
-{% include_relative par-fy2024/par-fy2024-24-goal4.md %}
+{% include_relative par-fy2025/par-fy2025-24-goal4.md %}
 
-{% include_relative par-fy2024/par-fy2024-25-so.md %}
+{% include_relative par-fy2025/par-fy2025-25-so.md %}
 
 --- 
 
 ## Independent Auditor's Report <br /> and <br /> Financial Statements
 
-### For the Fiscal Years Ended <br /> *September 30, 2024 and 2023*
+### For the Fiscal Year Ended <br /> *September 30, 2025
 
 ![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
 {: .img-grid }
 
-#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 13, 2024
+#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> December 3, 2025
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -91,7 +84,7 @@ Executive Director
 
 ![BC -- Brown & Company pencil header -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-header.png)
 
-{% include_relative par-fy2024/par-fy2024-30-iar.md %}
+{% include_relative par-fy2025/par-fy2025-30-iar.md %}
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -105,9 +98,9 @@ Executive Director
 
 ### Balance Sheet
 
-**As of September 30, 2024 and 2023 <br /> (In Dollars)**
+**As of September 30, 2025 <br /> (In Dollars)**
 
-{% include_relative par-fy2024/par-fy2024-41-bs.html %}
+{% include_relative par-fy2025/par-fy2025-41-bs.html %}
 
 The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
@@ -119,7 +112,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 **For the Years Ended September 30, 2024 and 2023 <br /> (In Dollars)**
 
-{% include_relative par-fy2024/par-fy2024-42-snc.html %}
+{% include_relative par-fy2025/par-fy2025-42-snc.html %}
 
 The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
@@ -129,9 +122,9 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ### Statement of Changes in Net Position
 
-**As of September 30, 2024 and 2023 <br /> (In Dollars)**
+**For The Fiscal Year Ended September 30, 2025 <br /> (In Dollars)**
 
-{% include_relative par-fy2024/par-fy2024-43-scnp.html %}
+{% include_relative par-fy2025/par-fy2025-43-scnp.html %}
 
 The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
@@ -141,9 +134,9 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ### Statement of Budgetary Resources
 
-**For the Years Ended September 30, 2024 and 2023 <br /> (In Dollars)**
+**For The Fiscal Year Ended September 30, 2025 <br /> (In Dollars)**
 
-{% include_relative par-fy2024/par-fy2024-44-sbr.html %}
+{% include_relative par-fy2025/par-fy2025-44-sbr.html %}
 
 The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
@@ -153,13 +146,13 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 ![photo of calculator, paper spreadsheet, and pen]({{ site.baseurl }}/images/notes-header.jpg)
 
-{% include_relative par-fy2024/par-fy2024-51-note1.md %}
+{% include_relative par-fy2025/par-fy2025-51-note1.md %}
 
 #### NOTE 2. FUND BALANCE WITH TREASURY
 
 Fund Balance with Treasury account balances as of September 30, 2024 and 2023, respectively, are shown below.
 
-{% include_relative par-fy2024/par-fy2024-52-note2.html %}
+{% include_relative par-fy2025/par-fy2025-52-note2.html %}
 
 No discrepancies exist between the Fund Balance reflected on the Balance Sheet and the balances in the Treasury accounts.
 
@@ -175,7 +168,7 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 Accounts receivable balances as of September 30, 2024 and 2023, respectively, were as follows.
 
-{% include_relative par-fy2024/par-fy2024-53-note3.html %}
+{% include_relative par-fy2025/par-fy2025-53-note3.html %}
 
 The accounts receivable is primarily made up of employee receivables and debt.  Historical experience has indicated that the majority of the receivables are collectible.  There are no material uncollectible accounts as of September 30, 2024 and 2023.
 
@@ -183,9 +176,9 @@ The accounts receivable is primarily made up of employee receivables and debt.  
 
 Schedule of Property, Plant and Equipment, Net as of September 30, 2024 and 2023:
 
-{% include_relative par-fy2024/par-fy2024-54-note4-24.html %}
+{% include_relative par-fy2025/par-fy2025-54-note4-24.html %}
 
-{% include_relative par-fy2024/par-fy2024-55-note4-23.html %}
+{% include_relative par-fy2025/par-fy2025-55-note4-23.html %}
 
 #### NOTE 5. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
@@ -196,7 +189,7 @@ Although future appropriations to fund these liabilities are likely and anticipa
 The deferrred lease liability amount represents the difference at year end between the sum of monthly cash disbursments paind to date for base rent and the sum of the average monthly rent calculated based on the term of the lease.&nbsp;
 This was due to a new lease agreement entered into that had rent abatement provisions.
 
-{% include_relative par-fy2024/par-fy2024-56-note5.html %}
+{% include_relative par-fy2025/par-fy2025-56-note5.html %}
 
 Unfunded leave represents a liability for earned leave and is reduced when leave is taken.&nbsp;
 The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.&nbsp;
@@ -209,11 +202,11 @@ Other liabilities account balances as of September 30, 2024 and 2023, were as fo
 
 ##### 2024
 
-{% include_relative par-fy2024/par-fy2024-57-note6-24.html %}
+{% include_relative par-fy2025/par-fy2025-57-note6-24.html %}
 
 ##### 2023
 
-{% include_relative par-fy2024/par-fy2024-58-note6-23.html %}
+{% include_relative par-fy2025/par-fy2025-58-note6-23.html %}
 
 #### NOTE 7. LEASES
 
@@ -290,11 +283,11 @@ The reconciliation of net outlays, presented on a budgetary basis, and the net c
 
 ##### Reconciliation of Net Costs to Net Outlays as September 30, 2024:
 
-{% include_relative par-fy2024/par-fy2024-61-note11-24.html %}
+{% include_relative par-fy2025/par-fy2025-61-note11-24.html %}
 
 ##### Reconciliation of Net Cost to Net Outlays, as September 30, 2023:
 
-{% include_relative par-fy2024/par-fy2024-62-note11-23.html %}
+{% include_relative par-fy2025/par-fy2025-62-note11-23.html %}
 
 --- 
 
