@@ -78,7 +78,7 @@ Table 2 provides data for ABA cases closed in FY 2025 by reason for case closure
 ##### Table 2: Reasons for ABA Case Closures (FY 2025)
 
 
-| Basis for ABA Case Closure                                     | # of Cases            | % of All <br/> Closed Cases |
+| Basis for ABA Case Closure                                     | # of Cases            | % of All <br/> Closed Cases  <br/> (FY 2025)|
 | :---                                                           | :---:                 | :---:                 |
 | Corrective action taken (accessibility barriers addressed)     | 100                   | 36.9%                 |
 | Investigation found no ABA jurisdiction                        | 17                    | 6.27%                 |
@@ -131,3 +131,16 @@ In FY 2024, the Access Board released a new Baseline for Electronic Documents an
 
 Related to the Baseline Portfolio, the Access Board assisted DHS with updates to the Trusted Tester methodology for web content to ensure alignment to the Baseline for Web. Contributions included review of updated test instructions, testing tool updates, training content, and resolution of issues submitted by testers. 
 
+#### Model Employer of People with Disabilities 
+
+The federal government, as the nation’s largest employer, has a special responsibility to lead by example in including people with disabilities in the workforce. The Access Board prides itself on its history of inclusiveness in employment. It is part of who the Access Board is as an agency, and the Access Board will continue this effort as it moves forward to be a model employer of people with disabilities (Objective 3.3). 
+
+In FY 2025, Access Board managers and supervisors received Equal Employment Opportunity (EEO) training to ensure they are well-prepared to manage EEO issues effectively. This training included the laws and policies related to EEO, how to manage employee interactions, and how to support the EEO complaint process. The EEO training will assist managers in making informed decisions about discrimination and accommodation requests and will equip them to manage any potential EEO-related issues that arise in the workplace. By training supervisors in EEO, the Access Board creates a more inclusive and respectful work environment, which is essential for maintaining a fair and equitable workplace for all employees. 
+
+The Access Board has conducted the annual self-assessment of Section 717 of the Civil Rights Act of 1964, and Section 501 of the Rehabilitation Act of 1973 programs against the six essential elements for a model EEO program as prescribed by Equal Employment Opportunity Management Directive 715. The agency has analyzed its workforce profiles and conducted barrier analyses aimed at detecting whether any management or personnel policy, procedure, or practice is operating to disadvantage any group based on race, national origin, sex, or disability. 
+
+The Access Board continues to develop an Equal Employment Opportunity (EEO) Awards Program that will recognize Access Board employees and senior leaders for their achievements, contributions, and efforts in supporting equal employment opportunities in the Access Board workplace. The EEO Awards Program is intended to acknowledge and encourage significant and continued efforts in promoting equal employment opportunity into everyday practice to make EEO a fundamental part of the Access Board workplace culture. 
+
+To facilitate the hiring, placement, and advancement of individuals with disabilities, the Access Board conducted a disability self-identification initiative which encouraged all employees to self-identify their disability status. Self-identification of disability status is essential for effective data collection and analysis of the Access Board’s hiring efforts. 
+
+The Access Board continues to maintain a file of “Schedule A” applicants that is reviewed prior to the posting of agency vacancies. Schedule A provides a means for agencies to hire qualified people with disabilities outside of the usual process for hiring into the competitive service. Individuals with disabilities may be hired into “excepted service” positions and then converted to the competitive service after having demonstrated successful job performance over a period of time. 

@@ -24,7 +24,9 @@ Transactions are recorded on both an accrual accounting basis and a budgetary ba
 
 ##### D. Fund Balance with Treasury
 
-Fund Balance with Treasury is an asset of a reporting entity and a liability of the General Fund. It is the aggregate amount of the Access Board’s funds with Treasury in expenditure and receipt accounts. Appropriated funds recorded in expenditure accounts are available to pay current liabilities and finance authorized purchases. The Access Board does not maintain bank accounts of its own, has no disbursing authority, and does not maintain cash held outside of Treasury. Funds are disbursed for the agency on demand. 
+Fund Balance with Treasury is an asset of a reporting entity and a liability of the General Fund. It is the aggregate amount of the Access Board’s funds with Treasury in expenditure and receipt accounts. Appropriated funds recorded in expenditure accounts are available to pay current liabilities and finance authorized purchases. 
+
+The Access Board does not maintain bank accounts of its own, has no disbursing authority, and does not maintain cash held outside of Treasury. Funds are disbursed for the agency on demand. 
 
 ##### E. Property, Equipment, and Software
 

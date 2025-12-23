@@ -101,21 +101,25 @@ The purpose of this report is solely to describe the scope of our consideration 
 
 In connection with our audits of USAB’s financial statements, we tested compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements consistent with our auditor’s responsibilities discussed below.
 
-##### Results of Our Tests for Compliance with Laws, Regulations, Contracts, and Grant Agreements 
+###### Results of Our Tests for Compliance with Laws, Regulations, Contracts, and Grant Agreements 
 
 Our tests for compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements disclosed no instances of noncompliance for fiscal year 2025 that would be reportable under U.S. generally accepted government auditing standards. However, the objective of our tests was not to provide an opinion on compliance with laws, regulations, contracts, and grant agreements applicable to USAB. Accordingly, we do not express such an opinion. 
 
-##### Basis for Results of Our Tests for Compliance with Laws, Regulations, Contracts, and Grant Agreements 
+###### Basis for Results of Our Tests for Compliance with Laws, Regulations, Contracts, and Grant Agreements 
 
 We performed our tests of compliance in accordance with U.S. generally accepted government auditing standards. 
 
-##### Responsibilities of Management for Compliance with Laws, Regulations, Contracts, and Grant Agreements 
+###### Responsibilities of Management for Compliance with Laws, Regulations, Contracts, and Grant Agreements 
 
 USAB management is responsible for complying with laws, regulations, contracts, and grant agreements applicable to USAB. 
 
-##### Auditor’s Responsibilities for Tests of Compliance with Laws, Regulations, Contracts, and Grant Agreements 
+###### Auditor’s Responsibilities for Tests of Compliance with Laws, Regulations, Contracts, and Grant Agreements 
 
-Our responsibility is to test compliance with selected provisions of laws, regulations, contracts, and grant agreements applicable to USAB that have a direct effect on the determination of material amounts and disclosures in USAB’s financial statements, and to perform certain other limited procedures. Accordingly, we did not test compliance with all provisions of laws, regulations, contracts, and grant agreements applicable to USAB. We caution that noncompliance may occur and not be detected by these tests. Intended Purpose of Report on Compliance with Laws, Regulations, Contracts, and Grant Agreements The purpose of this report is solely to describe the scope of our testing of compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements, and the results of that testing, and not to provide an opinion on compliance. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering compliance. Accordingly, this report on compliance with laws, regulations, contracts, and grant agreements is not suitable for any other purpose.
+Our responsibility is to test compliance with selected provisions of laws, regulations, contracts, and grant agreements applicable to USAB that have a direct effect on the determination of material amounts and disclosures in USAB’s financial statements, and to perform certain other limited procedures. Accordingly, we did not test compliance with all provisions of laws, regulations, contracts, and grant agreements applicable to USAB. We caution that noncompliance may occur and not be detected by these tests. 
+
+###### Intended Purpose of Report on Compliance with Laws, Regulations, Contracts, and Grant Agreements 
+
+The purpose of this report is solely to describe the scope of our testing of compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements, and the results of that testing, and not to provide an opinion on compliance. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering compliance. Accordingly, this report on compliance with laws, regulations, contracts, and grant agreements is not suitable for any other purpose.
 
 ![Brown and Company signature]({{ site.baseurl }}/images/bc-sig.jpg){: .img-left }
 
