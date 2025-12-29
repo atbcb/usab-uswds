@@ -9,7 +9,7 @@ excerpt: Join G3ict and the General Services Administration (GSA) at the
   will be sent to attendees closer to the event . . .
 image: /images/uploads/m-enabling-summit-logo.png
 image_alt_text: "M-Enabling Summit logo."
-featured: true
+featured: false
 ---
 Join G3ict and the General Services Administration (GSA) at the [M-Enabling Summit](https://www.m-enabling.com/event/a75cd7b0-6c94-4ad6-9f5c-05110c32b04d/m-enabling-summit) for a complimentary open session tailored for U.S. Federal Employees interested in how Artificial Intelligence (AI) is reshaping Section 508 program management. [Register now](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.surveymonkey.com%2Fr%2Fregistrationaia11y&data=05%7C02%7CO%27Keefe%40access-board.gov%7C64d07bb61e7e480c7fc608ddfac6dc01%7Cfc6093f5e55e4f93b2cf26d0822201c9%7C0%7C1%7C638942454210924668%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s9qgOVyETwI1ygGNX04NFbFRpqakXrKuE6fCJtIT2Hg%3D&reserved=0) for this exciting session; confirmation will be sent to attendees closer to the event.
 
