@@ -13,7 +13,7 @@ Figure 1 depicts the agency's organizational structure in FY 2025.
   <figcaption>
     Figure 1:&nbsp; U.S. Access Board Organizational Structure
   </figcaption>
-  <a href="{{ site.baseurl }}/images/usab-org_chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Org chart which graphically outlines eight component boxes.  Three in the top row are labeled Federal Board Members, Access Board Chair, and Public Board Members.  A single box in the second row is labeled Office of the Executive Directory (OED), and it connects to Access Board Chair.  The third row shows three Offices connecting to OED:  General Council (OGC), Administration (OA), and technology & Information Services (OTIS).  There is one item in a fourth row to the side, labeled ABA Compliance & Enforcement Program, which connects to OGC box."></a>
+  <a href="{{ site.baseurl }}/images/usab-org_chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Org chart which graphically outlines eight component boxes.  Three in the top row are labeled Federal Board Members, Access Board Chair, and Public Board Members.  A single box in the second row is labeled Office of the Executive Directory (OED), and it connects to Access Board Chair.  The third row shows four Offices connecting to OED:  General Council (OGC), Administration (OA), Technical & Information Services (OTIS), and Information Technology (OIT).  There is one item in a fourth row to the side, labeled ABA Compliance & Enforcement Program, which connects to OGC box."></a>
 </figure>
 
 ### Board Members
