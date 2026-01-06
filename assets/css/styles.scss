@@ -633,6 +633,29 @@ a.style-inherit:focus>div.gray-to-color {
   color: black;
 }
 
+
+/* High Contrast / Forced Colors override */
+@media (forced-colors: active) {
+  .toc-subnav .usa-accordion__button {
+    background-color: ButtonFace;
+    color: ButtonText;
+    border: 1px solid ButtonBorder;
+  }
+
+  .toc-subnav .usa-accordion__content {
+    background-color: Canvas;
+    color: CanvasText;
+  }
+
+  .toc-subnav .usa-sidenav a:hover {
+    background-color: Highlight;
+    color: HighlightText;
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
+  }
+}
+
+
 //filmstrip
 .filmstrip {
   background: repeating-linear-gradient(45deg, #ffe11a, #ffe11a 50%, #fd7400 50%, #fd7400);
