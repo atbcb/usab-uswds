@@ -43,7 +43,7 @@ Fiscal Year 2025 was a year of continued success. The Access Board continues to 
 
 Sincerely, 
 
-![Sachin Dev signature]({{ site.baseurl }}/images/sdp-sig.jpg)
+![Sachin Dev Pavithran signature]({{ site.baseurl }}/images/sdp-sig.jpg)
 {: .img-small }
 
 Sachin Dev Pavithran \
