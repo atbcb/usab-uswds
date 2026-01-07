@@ -1184,70 +1184,70 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
   </thead>
   <tbody>
     <tr>
-      <td>Complaints pending at start of the fiscal year</td>
+      <th scope="row">Complaints pending at start of the fiscal year</th>
       <td>127</td>
       <td>161</td>
       <td>192</td>
       <td>212</td>
     </tr>
     <tr>
-      <td>Complaints received during the fiscal year</td>
+      <th scope="row">Complaints received during the fiscal year</th>
       <td>201</td>
       <td>288</td>
       <td>300</td>
       <td>290</td>
     </tr>
     <tr>
-      <td>Total complaints closed during the fiscal year &hellip;</td>
+      <th scope="row">Total complaints closed during the fiscal year &hellip;</th>
       <td>197</td>
       <td>257</td>
       <td>325</td>
       <td>285</td>
     </tr>
     <tr>
-      <td>After our investigation resulted in completed corrective action</td>
+      <th scope="row">After our investigation resulted in completed corrective action</th>
       <td>54</td>
       <td>77</td>
       <td>101</td>
       <td>85</td>
     </tr>
     <tr>
-      <td>After our investigation resulted in a determination that we did not have jurisdiction</td>
+      <th scope="row">After our investigation resulted in a determination that we did not have jurisdiction</th>
       <td>22</td>
       <td>31</td>
       <td>30</td>
       <td>25</td>
     </tr>
     <tr>
-      <td>After our investigation resulted in a determination that there was no violation of the standards</td>
+      <th scope="row">After our investigation resulted in a determination that there was no violation of the standards</th>
       <td>17</td>
       <td>24</td>
       <td>20</td>
       <td>15</td>
     </tr>
     <tr>
-      <td>After the issuance of a waiver or modification by the standard-setting agency</td>
+      <th scope="row">After the issuance of a waiver or modification by the standard-setting agency</th>
       <td>1</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>After a referral absent an investigation</td>
+      <th scope="row">After a referral absent an investigation</th>
       <td>73</td>
       <td>124</td>
       <td>170</td>
       <td>140</td>
     </tr>
     <tr>
-      <td>For administrative reasons</td>
+      <th scope="row">For administrative reasons</th>
       <td>0&Dagger;</td>
       <td>0&Dagger;</td>
       <td>0&Dagger;</td>
       <td>0&Dagger;</td>
     </tr>
     <tr>
-      <td>Complaints pending at end of the fiscal year</td>
+      <th scope="row">Complaints pending at end of the fiscal year</th>
       <td>161</td>
       <td>192</td>
       <td>212</td>
@@ -1277,7 +1277,7 @@ As a result, the Board initiated rulemaking to cover shared use paths. In Septem
       <td>5,500</td>
     </tr>
     <tr>
-      <td>Website User Sessions</td>
+      <th scope="row">Website User Sessions</th>
       <td>1,256,718</td>
       <td>2,330,559</td>
       <td>2,600,000</td>
