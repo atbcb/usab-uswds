@@ -85,102 +85,127 @@ collections:
         }
       - {label: "Featured News", name: "featured", widget: "boolean", default: false}
       - { label: "Body", name: "body", widget: "markdown" }
-  - label: Webinars
-    name: webinars
-    folder: webinars/_posts/
+  - label: "Webinars"
+    name: "webinars"
+    folder: "webinars/_posts/"
     create: true
     slug: "{{date}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Webinar Date",
-          name: "date",
-          widget: "datetime",
-          format: "YYYY-MM-DD",
-          dateFormat: "MMMM D, YYYY",
-          timeFormat: false,
-        }
-      - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
-      - {
-          label: "Image",
-          name: "image",
-          widget: "image",
-          allow_multiple: false,
-          required: false,
-        }
-      - {
-          label: "Image Alternative Text",
-          name: "image_alt_text",
-          widget: "string",
-          required: false,
-        }
-      - {
-          label: "Presenters (USAB staff)",
-          name: "presenters",
-          widget: "relation",
-          collection: "staff",
-          searchFields: ["first_name", "last_name", "full_name"],
-          valueField: "name",
-          displayFields: ["name"],
-          multiple: true,
-          required: false,
-        }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "relation",
-          collection: "tags",
-          searchFields: ["name"],
-          valueField: "name",
-          displayFields: ["name"],
-          multiple: true,
-          required: false
-        }
-      - {
-          label: "Closed or Private Training",
-          name: "closed",
-          widget: "boolean",
-          default: false,
-          hint: "Is this a training for a specific group that is not open to the public?"
-        }
-      - {
-          label: "Webinar Start Time",
-          name: "webinar-start",
-          widget: "datetime",
-          format: "LLL",
-          timeFormat: "hh:mm a",
-          default: '',
-          required: false,
-        }
-      - {
-          label: "Webinar End Time",
-          name: "webinar-end",
-          widget: "datetime",
-          format: "LLL",
-          timeFormat: "hh:mm a",
-          required: false,
-        }
-      - {
-          label: "Registration Link",
-          name: "registration-link",
-          widget: "string",
-          required: false,
-        }
-      - {
-          label: "Recorded webinar video Link",
-          name: "video-link",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          name: "webinar",
-          widget: "hidden",
-          default: true
-        }
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Webinar Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        dateFormat: "MMMM D, YYYY"
+        timeFormat: false
+
+      - label: "Excerpt"
+        name: "excerpt"
+        widget: "string"
+        required: true
+
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+
+      - label: "Image Alternative Text"
+        name: "image_alt_text"
+        widget: "string"
+        required: false
+
+      # Updated presenters field (internal + external)
+      - label: "Presenters"
+        name: "presenters"
+        widget: "list"
+        typeKey: "type"
+        summary: "{{fields.type}}: {{fields.name | default: fields.staff}}"
+        types:
+          - label: "Internal (USAB staff)"
+            name: "internal"
+            widget: "object"
+            summary: "{{fields.staff}}"
+            fields:
+              - label: "Staff"
+                name: "staff"
+                widget: "relation"
+                collection: "staff"
+                searchFields: ["first_name", "last_name", "full_name"]
+                displayFields: ["full_name"]
+                valueField: "{{slug}}"
+
+          - label: "External presenter"
+            name: "external"
+            widget: "object"
+            summary: "{{fields.name}}"
+            fields:
+              - label: "Name"
+                name: "name"
+                widget: "string"
+              - label: "Link"
+                name: "url"
+                widget: "string"
+                required: false
+
+      - label: "Tags"
+        name: "tags"
+        widget: "relation"
+        collection: "tags"
+        searchFields: ["name"]
+        valueField: "name"
+        displayFields: ["name"]
+        multiple: true
+        required: false
+
+      - label: "Closed or Private Training"
+        name: "closed"
+        widget: "boolean"
+        default: false
+        hint: "Is this a training for a specific group that is not open to the public?"
+
+      - label: "Webinar Start Time"
+        name: "webinar-start"
+        widget: "datetime"
+        format: "LLL"
+        timeFormat: "hh:mm a"
+        default: ""
+        required: false
+
+      - label: "Webinar End Time"
+        name: "webinar-end"
+        widget: "datetime"
+        format: "LLL"
+        timeFormat: "hh:mm a"
+        required: false
+
+      - label: "Registration Link"
+        name: "registration-link"
+        widget: "string"
+        required: false
+
+      - label: "Recorded webinar video Link"
+        name: "video-link"
+        widget: "string"
+        required: false
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
+      - name: "webinar"
+        widget: "hidden"
+        default: true
   - label: Board Members
     name: board-members
     folder: _board-members/

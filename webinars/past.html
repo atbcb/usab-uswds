@@ -30,13 +30,64 @@ permalink: /webinars/past.html
             <br>
             <span><a href="{{ post.archive-link }}">Archive Link</a></span>
             {% endif %}
+
             {% if post.presenters %}
-            <br>
-            <span class="text-bold">Presenters: | </span>
-            {% for presenter in post.presenters %}
-               {% include staff.html staff=presenter %}
-            {% endfor %}
+              <br />
+              <span class="text-bold">Presenters: | </span>
+              {% for presenter in post.presenters %}
+                {% assign item = presenter %}
+
+                {% if item == nil %}
+                  {% continue %}
+                {% endif %}
+
+                {% if item.type %}
+                  {% case item.type %}
+
+                    {% when "internal" %}
+                      {% if item.staff %}
+                        {%- comment -%} Existing behavior for internal staff via include {%- endcomment -%}
+                        {% include staff.html staff=item.staff %}
+                      {% else %}
+                        {%- comment -%} Fallback if internal item is missing the slug {%- endcomment -%}
+                        <span class="text-bold" style="white-space: nowrap;">
+                          {{ item.name | escape }} |
+                        </span>
+                      {% endif %}
+
+                    {% when "external" %}
+                      {% assign ext_name = item.name | default: item.staff | strip %}
+                      {% assign ext_url  = item.url  | default: ""        | strip %}
+
+                      {% if ext_url != "" %}
+                        {% unless ext_url contains "://" %}
+                          {% assign ext_url = "https://" | append: ext_url %}
+                        {% endunless %}
+                        <span class="text-bold" style="white-space: nowrap;">
+                          <a class="usa-link text-no-underline" href="{{ ext_url | escape }}">
+                            {{ ext_name | escape }}
+                          </a> |
+                        </span>
+                      {% else %}
+                        <span class="text-bold" style="white-space: nowrap;">
+                          {{ ext_name | escape }} |
+                        </span>
+                      {% endif %}
+
+                    {% else %}
+                      {%- comment -%} Unknown type; show a reasonable fallback {%- endcomment -%}
+                      <span class="text-bold" style="white-space: nowrap;">
+                        {{ item.name | default: item.staff | escape }} |
+                      </span>
+                  {% endcase %}
+
+                {% else %}
+                  {%- comment -%} Legacy simple string item: treat it as a staff slug {%- endcomment -%}
+                  {% include staff.html staff=item %}
+                {% endif %}
+              {% endfor %}
             {% endif %}
+            
             {% if post.tags %}
             <br>
             {% for tag in post.tags %}
