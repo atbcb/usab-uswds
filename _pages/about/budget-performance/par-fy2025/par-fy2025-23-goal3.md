@@ -40,7 +40,46 @@ Presented in Table 1 are ABA caseload statistics for FY 2025, as well as compara
 | Complaints Pending (end of FY)   | 127     | 161     | 237*    | 290 (22.3% increase)|
 {: .par-prose }
 
-\* Best estimate based on available data.
+<table class="par-prose">
+    <tr>
+        <th>ABA Cases</th>
+        <th>FY <br/> 2022</th>
+        <th>FY <br/> 2023</th>
+        <th>FY <br/> 2024</th>
+        <th>FY <br/> 2025</th>
+    </tr>
+    <tr>
+        <th>Complaints Pending (start of FY)</th>
+        <td>83</td>
+        <td>127</td>
+        <td>161</td>
+        <td>237<span aria-labelledby="estimate">*</span></td>
+    </tr>
+    <tr>
+        <th>Complaints Received</th>
+        <td>241</td>
+        <td>201<span aria-labelledby="estimate">*</span></td>
+        <td>341</td>
+        <td>324 (4.9% decrease)</td>
+    </tr>
+    <tr>
+        <th>Complaints Closed (during FY)</th>
+        <td>197</td>
+        <td>167</td>
+        <td>265</td>
+        <td>271 (2.3% increase)</td>
+    </tr>
+    <tr>
+        <th>Complaints Pending (end of FY)</th>
+        <td>127</td>
+        <td>161</td>
+        <td>237*</td>
+        <td>290 (22.3% increase)</td>
+    </tr></table>
+    
+\* <span id="estimate">Best estimate based on available data.</span>
+
+
 
 In summary, the **100** ABA complaints closed in FY 2025 based on completed corrective action can be broken down into four broad categories by facility type:
 
