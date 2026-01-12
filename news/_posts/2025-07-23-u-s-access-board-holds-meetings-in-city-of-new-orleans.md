@@ -10,7 +10,7 @@ excerpt: Each year, the U.S. Access Board visits a city outside of Washington,
   key accessibility issues and successes in the region . . .
 image: /images/uploads/maddy-speaking-nola.jpg
 image_alt_text: A Board Member speaks into a microphone at a meeting.
-featured: true
+featured: false
 ---
 Each year, the U.S. Access Board visits a city outside of Washington, D.C. to learn about the state of accessibility around the country. During the week of July 7th, the Access Board traveled to New Orleans for its 2025 out-of-town Board meeting. During various sessions throughout the week, the Board heard from residents, advocates, and local government leaders regarding key accessibility issues and successes in the region. A summary of these meetings follows below.
 
