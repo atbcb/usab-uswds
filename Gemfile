@@ -23,4 +23,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "kramdown-parser-gfm"
 
-gem "webrick", "~> 1.8"
+# Web server used by `jekyll serve`; Jekyll 4.2.2 is known-stable with 1.7.x
+gem "webrick", "~> 1.7"
