@@ -14,6 +14,13 @@ excerpt: "NOTE TIME CHANGE: This session will begin at 12:30 pm Eastern Time.
   part of your digital accessibility strategy. Real-Time Captioning and Video
   Sign Language will be provided. Individuals may submit questions in advance of
   the session during the registration process."
+presenters:
+  - type: external
+    name: Jonathan Lazar
+    url: https://www.accessibilityonline.org/speakers/speaker.aspx?id=11148&ret=The%20Born-Accessible%20Design%20Approach:%20Cost-Effective,%20Inclusive,%20Compliant
+  - type: external
+    name: Kyle Shachmut
+    url: https://www.accessibilityonline.org/speakers/speaker.aspx?id=11149&ret=The%20Born-Accessible%20Design%20Approach:%20Cost-Effective,%20Inclusive,%20Compliant
 tags:
   - "508"
   - Communication & IT
