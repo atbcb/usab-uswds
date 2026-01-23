@@ -2,7 +2,7 @@
 <table class="par-money" id="tbs-2025-assets">
   <thead>
     <tr>
-      <th scope="colgroup" colspan="2" style="text-align:left">Assets</th>
+      <th scope="colgroup" colspan="2">Assets</th>
       <th scope="col">2025</th>
     </tr>
   </thead>
@@ -22,9 +22,11 @@
       <th scope="row">Total</th>
       <td>6,581,448</td>
     </tr>
+    </tbody>
   <!-- Other than Intragovernmental Assets -->
+  <tbody>
     <tr>
-      <th scope="rowgroup" rowspan="2">Other than Intragovernmental Assets:</th>
+      <th scope="rowgroup" rowspan="2">Other than Intragovernmental Assets</th>
       <th scope="row">Property, Plant, and Equipment, Net (<a href="#note-3-property-plant-and-equipment-net">Note 3</a>)</th>
       <td>149,909</td>
     </tr>
@@ -47,74 +49,73 @@
 <table class="par-money" id="tbs-2025-liabilities">
   <thead>
     <tr>
-      <th scope="colgroup" colspan="3" style="text-align:left">Liabilities</th>
+      <th scope="colgroup" colspan="3">Liabilities</th>
       <th scope="col">2025</th>
     </tr>
   </thead>
-
-  <!-- Intragovernmental Liabilities NEEDS ID and HEADERS--> 
+  <!-- Intragovernmental Liabilities --> 
   <tbody>
     <tr>
-      <th scope="rowgroup" rowspan="7">Intragovernmental Liabilities</th>
-      <th scope="rowgroup" rowspan="2">Accounts Payable</th>
-      <th scope="row">Accounts Payable</th>
-      <td>6,623</td>
+      <th rowspan="7" id="IL">Intragovernmental Liabilities</th>
+      <th rowspan="2" id="AP1">Accounts Payable</th>
+      <th id="AP2">Accounts Payable</th>
+      <td headers="IL AP1 AP2">$6,623</td>
     </tr>
     <tr>
-      <th scope="row">Total</th>
-      <td>6,623</td>
+      <th id= "APtotal">Total</th>
+      <td headers="IL AP1 APtotal">6,623</td>
     </tr>
     <tr>
-      <th scope="rowgroup" rowspan="4">Other Liabilities (<a href="#note-5-other-liabilities">Note 5</a>)</th>
+      <th rowspan="4" id="OL">Other Liabilities (<a href="#note-5-other-liabilities">Note 5</a>)</th>
       
-      <th scope="row">Other Liabilities (Without Reciprocals)</th>
-      <td>7,298</td>
+      <th id="OLwr">Other Liabilities (Without Reciprocals)</th>
+      <td headers="IL OL OLwr">7,298</td>
     </tr>
     <tr>
-      <th scope="row">Other Current Liabilities - Benefit Contributions Payable</th>
-      <td>26,114</td>
+      <th id="OCL">Other Current Liabilities - Benefit Contributions Payable</th>
+      <td headers="IL OL OCL">26,114</td>
     </tr>
     <tr>
-      <th scope="row">Other Liabilities - Reimbursable Activities</th>
-      <td>503,979</td>
+      <th id="OLra">Other Liabilities - Reimbursable Activities</th>
+      <td headers="IL OL OLra">503,979</td>
     </tr>
     <tr>
-      <th scope="row">Total</th>
-      <td>537,391</td>
+      <th id="OLtotal">Total</th>
+      <td headers="IL OL OLtotal">537,391</td>
     </tr>
     <tr>
-      <th scope="row" colspan="2">Total Intragovernmental Liabilities</th>
-      <td>544,014</td>
-    </tr>
-  <!-- Other than Intragovernmental Liabilities -->
-  
-    <tr>
-      <th scope="rowgroup" rowspan="5">Other than Intragovernmental Liabilities:</th>
-      <th scope="row" colspan="2">Accounts Payable</th>
-      <td>158,836</td>
-    </tr>
-    <tr>
-      <th scope="row" colspan="2">Federal Employee Salary, Leave, and Benefits Payable</th>
-      <td>455,857</td>
-    </tr>
-    <tr>
-      <th scope="row" colspan="2">Pension, Post-Employment, and Veterans Benefits Payable</th>
-      <td>6,272</td>
-    </tr>
-    <tr>
-      <th scope="row" colspan="2">Other Liabilities (<a href="#note-5-other-liabilities">Note 5</a>)</th>
-      <td>(1,828)</td>
-    </tr>
-    <tr>
-      <th scope="row" colspan="2">Total Other than Intragovernmental Liabilities</th>
-      <td>619,137</td>
+      <th colspan="2" id="TIL">Total Intragovernmental Liabilities</th>
+      <td headers="IL TIL">544,014</td>
     </tr>
   </tbody>
-
+  <!-- Other than Intragovernmental Liabilities -->
+  <tbody>
+    <tr>
+      <th rowspan="5" id="OIL">Other than Intragovernmental Liabilities</th>
+      <th colspan="2" id="AP3">Accounts Payable</th>
+      <td headers="OIL AP3">158,836</td>
+    </tr>
+    <tr>
+      <th colspan="2" id="FESLBP">Federal Employee Salary, Leave, and Benefits Payable</th>
+      <td headers="OIL FESLBP">455,857</td>
+    </tr>
+    <tr>
+      <th colspan="2" id="PPVBP">Pension, Post-Employment, and Veterans Benefits Payable</th>
+      <td headers="OIL PPVBP">6,272</td>
+    </tr>
+    <tr>
+      <th colspan="2" id="OLn5">Other Liabilities (<a href="#note-5-other-liabilities">Note 5</a>)</th>
+      <td headers="OIL OLn5">(1,828)</td>
+    </tr>
+    <tr>
+      <th colspan="2" id="TOIL">Total Other than Intragovernmental Liabilities</th>
+      <td headers="OIL TOIL">619,137</td>
+    </tr>
+  </tbody>
   <tfoot>
     <tr>
-      <th scope="row" colspan="3">Total Liabilities</th>
-      <td><strong>$1,163,151</strong></td>
+      <th colspan="3" id="TL">Total Liabilities</th>
+      <td headers="TL"><strong>$1,163,151</strong></td>
     </tr>
   </tfoot>
 </table>
@@ -125,35 +126,27 @@
 <table class="par-money" id="tbs-2025-net-position">
   <thead>
     <tr>
-      <th scope="col" style="text-align:left">Net Position:</th>
+      <th scope="colgroup" colspan="2">Net Position</th>
       <th scope="col">2025</th>
     </tr>
   </thead>
-
   <!-- Unexpended Appropriations -->
   <tbody>
     <tr>
-      <td scope="rowgroup">Unexpended Appropriations:</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td scope="row">&nbsp; Funds from Other than Dedicated Collections</td>
-      <td>$&nbsp;6,265,251</td>
+      <th scope="row">Unexpended Appropriations</th>
+      <th scope="row">Funds from Other than Dedicated Collections</th>
+      <td>$6,265,251</td>
     </tr>
   </tbody>
-
   <!-- Cumulative Results of Operations -->
   <tbody>
     <tr>
-      <td scope="rowgroup">Cumulative Results of Operations:</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td scope="row">&nbsp; Funds from Other than Dedicated Collections</td>
+      <th scope="row" rowspan="2">Cumulative Results of Operations</th>
+      <th scope="row">Funds from Other than Dedicated Collections</th>
       <td>(697,045)</td>
     </tr>
     <tr>
-      <td scope="row">Total Cumulative Results of Operations (Consolidated)</td>
+      <th scope="row">Total Cumulative Results of Operations (Consolidated)</th>
            <td>(697,045)</td>
     </tr>
   </tbody>
@@ -161,15 +154,15 @@
   <!-- Totals -->
   <tbody>
     <tr>
-      <th scope="row">Total Net Position</th>
-      <td>$&nbsp;5,568,206</td>
+      <th scope="row" colspan="2">Total Net Position</th>
+      <td><strong>$5,568,206</strong></td>
     </tr>
   </tbody>
 
   <tfoot>
     <tr>
-      <th scope="row">Total Liabilities and Net Position</th>
-      <td><strong>$&nbsp;6,731,357</strong></td>
+      <th scope="row" colspan="2">Total Liabilities and Net Position</th>
+      <td><strong>$6,731,357</strong></td>
     </tr>
   </tfoot>
 </table>
