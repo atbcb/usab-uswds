@@ -682,6 +682,7 @@ table.par, table.par-money, table.par-prose {
 	border: none;
 	border-collapse: collapse;
 	margin-bottom: 1em;
+  width:90%;
 }
 table.par caption, table.par-money caption, table.par-prose caption {
 	font-weight: bold;
@@ -694,6 +695,7 @@ table.par thead th, table.par-money thead th, table.par thead par-prose {
 table.par thead th, table.par-money thead th {
 	color: white;
 	background-color: color(primary);
+  text-align: left;
 }
 table.par th, table.par td, table.par-money th, table.par-money td {
 	border: thin solid color(primary);
@@ -703,6 +705,8 @@ table.par td {
 }
 table.par-money td {
 	text-align: right;
+  padding-left: 1em;
+	padding-right: 1em;
 }
 table.par tbody th, table.par tfoot th, table.par td:first-child, table.par-money tbody th, table.par-money tfoot th, table.par-money td:first-child {
 	text-align: left;

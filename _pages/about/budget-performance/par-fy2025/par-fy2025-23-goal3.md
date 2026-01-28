@@ -32,14 +32,44 @@ Presented in Table 1 are ABA caseload statistics for FY 2025, as well as compara
 
 ##### Table 1: ABA Caseload Statistics (FYs 2022-2025)
 
-| ABA Cases                        | FY <br/> 2022 | FY <br/> 2023 | FY <br/> 2024 | FY <br/> 2025             |
-| :---                             | :---:   | :---:   | :---:   | :---:               |
-| Complaints Pending (start of FY) | 83      | 127     | 161     | 237*                |
-| Complaints Received              | 241     | 201*    | 341     | 324 (4.9% decrease) |
-| Complaints Closed (during FY)    | 197     | 167     | 265     | 271 (2.3% increase) |
-| Complaints Pending (end of FY)   | 127     | 161     | 237*    | 290 (22.3% increase)|
-{: .par-prose }
-
+<table class="par-prose">
+    <thead><tr>
+        <th scope="col">ABA Cases</th>
+        <th>FY <br/> 2022</th>
+        <th>FY <br/> 2023</th>
+        <th>FY <br/> 2024</th>
+        <th>FY 2025</th>
+    </tr></thead>
+    <tbody><tr>
+        <th>Complaints Pending (start of FY)</th>
+        <td>83</td>
+        <td>127</td>
+        <td>161</td>
+        <td>237 <span aria-label="estimate">*</span></td>
+    </tr>
+    <tr>
+        <th>Complaints Received</th>
+        <td>241</td>
+        <td>201 <span aria-label="estimate">*</span></td>
+        <td>341</td>
+        <td>324 (4.9% decrease)</td>
+    </tr>
+    <tr>
+        <th>Complaints Closed (during FY)</th>
+        <td>197</td>
+        <td>167</td>
+        <td>265</td>
+        <td>271 (2.3% increase)</td>
+    </tr>
+    <tr>
+        <th>Complaints Pending (end of FY)</th>
+        <td>127</td>
+        <td>161</td>
+        <td>237 <span aria-label="estimate">*</span></td>
+        <td>290 (22.3% increase)</td>
+    </tr></tbody>
+</table>
+    
 \* Best estimate based on available data.
 
 In summary, the **100** ABA complaints closed in FY 2025 based on completed corrective action can be broken down into four broad categories by facility type:
@@ -77,17 +107,53 @@ Table 2 provides data for ABA cases closed in FY 2025 by reason for case closure
 
 ##### Table 2: Reasons for ABA Case Closures (FY 2025)
 
+<table class="par-prose">
+    <thead>
+        <tr>
+            <th scope="col">Basis for ABA Case Closure</th>
+            <th># of Cases</th>
+            <th>% of All <br> Closed Cases  <br> (FY 2025)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Corrective action taken (accessibility barriers addressed)</th>
+            <td>100</td>
+            <td>36.9%</td>
+        </tr>
+        <tr>
+            <th>Investigation found no ABA jurisdiction</th>
+            <td>17</td>
+            <td>6.27%</td>
+        </tr>
+        <tr>
+            <th>Investigation found no ABA violation</th>
+            <td>18</td>
+            <td>6.64%</td>
+        </tr>
+        <tr>
+            <th>Waiver/modification issued by standard-setting agency</th>
+            <td>1</td>
+            <td>0.37%</td>
+        </tr>
+        <tr>
+            <th>Referral to another federal agency</th>
+            <td>127</td>
+            <td>46.9%</td>
+        </tr>
+        <tr>
+            <th>Administrative Closure <span aria-label="cases closed for procedural reasons">*</span></th>
+            <td>8</td>
+            <td>2.95%</td>
+        </tr>   
+        <tr>
+            <th>Totals</th>
+            <td><strong>271</strong></td>
+            <td><strong>100%</strong></td>
+        </tr>
+    </tbody>
+</table>
 
-| Basis for ABA Case Closure                                     | # of Cases            | % of All <br/> Closed Cases  <br/> (FY 2025)|
-| :---                                                           | :---:                 | :---:                 |
-| Corrective action taken (accessibility barriers addressed)     | 100                   | 36.9%                 |
-| Investigation found no ABA jurisdiction                        | 17                    | 6.27%                 |
-| Investigation found no ABA violation                           | 18                    | 6.64%                 |
-| Waiver/modification issued by standard-setting agency          | 1                     | 0.37%                 |
-| Referral to another federal agency                             | 127                   | 46.9%                 |
-| Administrative Closure*                                        | 8                     | 2.95%                 |
-| **Totals**                                                     | **271**               | **100%**              |
-{: .par-prose }
 
 \* Administrative Closure refers to cases closed for procedural reasons.
 
@@ -97,17 +163,63 @@ Table 3 provides similar case closure data about the bases for ABA case closures
 
 ##### Table 3: Reasons for ABA Case Closures (FYs 2022 – 2025)
 
-| Basis for ABA Case Closure                                     | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
-| :---                                                           | :---:   | :---:   | :---:   | :---:   |
-| Corrective action taken (accessibility barriers addressed)     | 45      | 54      | 85      | 100     |
-| Investigation found no ABA jurisdiction                        | 8       | 22      | 27      | 17      |
-| Investigation found no ABA violation                           | 13      | 17      | 29      | 18      |
-| Waiver/modification issued by standard-setting agency          | 0       | 1       | 1       | 1       |
-| Referral to another federal agency                             | 72      | 73      | 123     | 127     |
-| Administrative closure‡                                        | 58      | 0       | n/a     | 8       |
-{: .par-prose }
+<table class="par-prose">
+    <thead>
+    <tr>
+    <th scope="col">Basis for ABA Case Closure</th>
+    <th scope="col">FY 2022</th>
+    <th scope="col">FY 2023</th>
+    <th scope="col">FY 2024</th>
+    <th scope="col">FY 2025</th>
+    </tr>
+    </thead>
+    <tbody><tr>
+    <th scope="row">Corrective action taken (accessibility barriers addressed)</th>
+    <td>45</td>
+    <td>54</td>
+    <td>85</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <th scope="row">Investigation found no ABA jurisdiction</th>
+    <td>8</td>
+    <td>22</td>
+    <td>27</td>
+    <td>17</td>
+    </tr>
+    <tr>
+    <th scope="row">Investigation found no ABA violation</th>
+    <td>13</td>
+    <td>17</td>
+    <td>29</td>
+    <td>18</td>
+    </tr>
+    <tr>
+    <th scope="row">Waiver/modification issued by standard-setting agency</th>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    </tr>
+    <tr>
+    <th scope="row">Referral to another federal agency</th>
+    <td>72</td>
+    <td>73</td>
+    <td>123</td>
+    <td>127</td>
+    </tr>
+    <tr>
+    <th scope="row">Administrative closure <span aria-labelledby="table3note">‡</span></th>
+    <td>58</td>
+    <td>0</td>
+    <td>n/a</td>
+    <td>8</td>
+    </tr>
+    </tbody>
+</table>
 
-‡ Note: The use of the “administrative closure” designation has varied over time. Prior to FY 2023, the Access Board used the “administrative closure” label for complaints that included unintelligible or “spam” filings and complaints that lacked sufficient details to discern the nature of the allegations. In FY 2023, the Board discontinued the practice of counting spam filings as complaints and ceased to use the “administrative closure” designation. However, during FY 2025, the Access Board resumed the “administrative closure” of cases, using that designation only for complaints stating potential ABA violations, but where was staff was unable to obtain sufficient information from the complainant or other sources to pursue resolution of the complaint. 
+
+<p><span id="table3note">‡ Note: The use of the “administrative closure” designation has varied over time.</span> Prior to FY 2023, the Access Board used the “administrative closure” label for complaints that included unintelligible or “spam” filings and complaints that lacked sufficient details to discern the nature of the allegations. In FY 2023, the Board discontinued the practice of counting spam filings as complaints and ceased to use the “administrative closure” designation. However, during FY 2025, the Access Board resumed the “administrative closure” of cases, using that designation only for complaints stating potential ABA violations, but where was staff was unable to obtain sufficient information from the complainant or other sources to pursue resolution of the complaint. </p>
 
 #### Raising Awareness of the ABA Compliance and Enforcement Program 
 
