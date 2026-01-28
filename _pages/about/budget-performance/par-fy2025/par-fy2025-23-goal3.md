@@ -145,7 +145,7 @@ Table 2 provides data for ABA cases closed in FY 2025 by reason for case closure
             <th>Administrative Closure <span aria-label="cases closed for procedural reasons">*</span></th>
             <td>8</td>
             <td>2.95%</td>
-        </tr>
+        </tr>   
         <tr>
             <th>Totals</th>
             <td><strong>271</strong></td>
@@ -166,50 +166,50 @@ Table 3 provides similar case closure data about the bases for ABA case closures
 <table class="par-prose">
     <thead>
     <tr>
-    <th>Basis for ABA Case Closure</th>
-    <th>FY 2022</th>
-    <th>FY 2023</th>
-    <th>FY 2024</th>
-    <th>FY 2025</th>
+    <th scope="col">Basis for ABA Case Closure</th>
+    <th scope="col">FY 2022</th>
+    <th scope="col">FY 2023</th>
+    <th scope="col">FY 2024</th>
+    <th scope="col">FY 2025</th>
     </tr>
     </thead>
     <tbody><tr>
-    <th>Corrective action taken (accessibility barriers addressed)</th>
+    <th scope="row">Corrective action taken (accessibility barriers addressed)</th>
     <td>45</td>
     <td>54</td>
     <td>85</td>
     <td>100</td>
     </tr>
     <tr>
-    <th>Investigation found no ABA jurisdiction</th>
+    <th scope="row">Investigation found no ABA jurisdiction</th>
     <td>8</td>
     <td>22</td>
     <td>27</td>
     <td>17</td>
     </tr>
     <tr>
-    <th>Investigation found no ABA violation</th>
+    <th scope="row">Investigation found no ABA violation</th>
     <td>13</td>
     <td>17</td>
     <td>29</td>
     <td>18</td>
     </tr>
     <tr>
-    <th>Waiver/modification issued by standard-setting agency</th>
+    <th scope="row">Waiver/modification issued by standard-setting agency</th>
     <td>0</td>
     <td>1</td>
     <td>1</td>
     <td>1</td>
     </tr>
     <tr>
-    <th>Referral to another federal agency</th>
+    <th scope="row">Referral to another federal agency</th>
     <td>72</td>
     <td>73</td>
     <td>123</td>
     <td>127</td>
     </tr>
     <tr>
-    <th>Administrative closure <span aria-labelledby="table3note">‡</span></th>
+    <th scope="row">Administrative closure <span aria-labelledby="table3note">‡</span></th>
     <td>58</td>
     <td>0</td>
     <td>n/a</td>

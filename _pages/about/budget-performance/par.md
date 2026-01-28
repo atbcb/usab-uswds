@@ -36,7 +36,6 @@ permalink: /about/par.html
     - [NOTE 3. PROPERTY, PLANT, AND EQUIPMENT, NET](#note-3-property-plant-and-equipment-net)
     - [NOTE 4. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES](#note-4-liabilities-not-covered-by-budgetary-resources)
     - [NOTE 5. OTHER LIABILITIES](#note-5-other-liabilities)
-      - [2025](#2025)
     - [NOTE 6. LEASES](#note-6-leases)
     - [NOTE 7. INTER-ENTITY COSTS](#note-7-inter-entity-costs)
     - [NOTE 8. UNDELIVERED ORDERS AT THE END OF THE PERIOD](#note-8-undelivered-orders-at-the-end-of-the-period)
@@ -193,8 +192,6 @@ Unfunded leave represents a liability for earned leave and is reduced when leave
 
 Other liabilities account balances as of September 30, 2025 were as follows:
 
-##### 2025
-
 {% include_relative par-fy2025/par-fy2025-55-note5.html %}
 
 
@@ -216,8 +213,8 @@ Below is a schedule of future payments for the term of the lease.
     <tbody>
         <tr>
             <th scope="row">2026</th>
-            <td>$ 744,516</td>
-            <td>$ 744,516</td>
+            <td>$744,516</td>
+            <td>$744,516</td>
         </tr>
         <tr>
             <th scope="row">2027</th>
@@ -253,8 +250,8 @@ Below is a schedule of future payments for the term of the lease.
     <tfoot>
         <tr>
             <th scope="row">Total</th>
-            <td>$ 9,187,603</td>
-            <td>$ 9,187,603</td>
+            <td>$9,187,603</td>
+            <td>$9,187,603</td>
         </tr>
     </tfoot>
 </table>
@@ -270,7 +267,7 @@ The assets and liabilities associated with such benefits are the responsibility 
 <table class="par-money">
     <thead>
         <tr>
-            <th scope="col">&nbsp;</th>
+            <td>&nbsp;</td>
             <th scope="col">2025</th>
         </tr>
     </thead>
@@ -304,9 +301,9 @@ Budgetary resources obligated for undelivered orders as of September 30, 2025 we
     <tbody>
         <tr>
             <th scope="row">Paid Undelivered Orders</th>
-            <td>$ 139,275</td>
-            <td>$ 0</td>
-            <td>$ 139,275</td>
+            <td>$139,275</td>
+            <td>$0</td>
+            <td>$139,275</td>
         </tr>
         <tr>
             <th scope="row">Unpaid Undelivered Orders</th>
@@ -318,9 +315,9 @@ Budgetary resources obligated for undelivered orders as of September 30, 2025 we
     <tfoot>
         <tr>
             <th scope="row">Total Undelivered Orders</th>
-            <td>$ 980,476</td>
-            <td>$ 1,799,475</td>
-            <td>$ 2,779,951</td>
+            <td>$980,476</td>
+            <td>$1,799,475</td>
+            <td>$2,779,951</td>
         </tr>
     </tfoot>
 </table>
@@ -335,27 +332,27 @@ Budget of the United States Government, with the “Actual” column completed f
 <table class="par-money">
     <thead>
         <tr>
-            <th scope="col">&nbsp;</th>
-            <th>Total Budgetary Resources</th>
-            <th>New Obligations &amp; Upward Adjustments (Total)</th>
-            <th>Net Outlays</th>
+            <td>&nbsp;</td>
+            <th scope="col">Total Budgetary Resources</th>
+            <th scope="col">New Obligations &amp; Upward Adjustments (Total)</th>
+            <th scope="col">Net Outlays</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Combined Statement of Budgetary Resources</th>
+            <th scope="row">Combined Statement of Budgetary Resources</th>
             <td>$12</td>
             <td>$9</td>
             <td>$9</td>
         </tr>
         <tr>
-            <th>Unobligated Balance Not Available</th>
+            <th scope="row">Unobligated Balance Not Available</th>
             <td>(2)</td>
             <td>0</td>
             <td>0</td>
         </tr>
         <tr>
-            <th>Difference Due to Rounding</th>
+            <th scope="row">Difference Due to Rounding</th>
             <td>0</td>
             <td>0</td>
             <td>1</td>
@@ -363,7 +360,7 @@ Budget of the United States Government, with the “Actual” column completed f
     </tbody>
     <tfoot>
         <tr>
-            <th>Budget of the U.S. Government</th>
+            <th scope="row">Budget of the U.S. Government</th>
             <td>$10</td>
             <td>$9</td>
             <td>$10</td>
