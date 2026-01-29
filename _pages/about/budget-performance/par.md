@@ -17,21 +17,31 @@ permalink: /about/par.html
 
 ### Table of Contents
 
+- [Performance and Accountability Report, Independent Auditor's Report, and Financial Statements](#performance-and-accountability-report-independent-auditors-report-and-financial-statements)
+  - [For the Fiscal Year Ended  September 30, 2025](#for-the-fiscal-year-ended--september-30-2025)
+    - [Prepared By  Brown \& Company CPAs and Management Consultants, PLLC  December  3, 2025](#prepared-by--brown--company-cpas-and-management-consultants-pllc--december--3-2025)
+  - [Table of Contents](#table-of-contents)
 - [Agency Head Message](#agency-head-message)
-  * [Management Discussion and Analysis](#management-discussion-and-analysis)
 - [Performance Report](#performance-report)
-  * [Goal #1: Establish technical specifications for accessible design](#goal-1-establish-technical-specifications-for-accessible-design)
-  * [Goal #2: Provide education and information on the importance and implementation of accessible design](#goal-2-provide-education-and-information-on-the-importance-and-implementation-of-accessible-design)
-  * [Goal #3: Improve the Accessibility of the Federal Government](#goal-3-improve-the-accessibility-of-the-federal-government)
-  * [Goal #4: Promote accessibility throughout society](#goal-4-promote-accessibility-throughout-society)
-  * [Stewardship Objective: Improve Agency Systems and Modernize Operations](#stewardship-objective-improve-agency-systems-and-modernize-operations)
-- [Financial Section](#independent-auditors-report--and--financial-statements)
-  * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report)
-  * [Balance Sheet](#balance-sheet)
-  * [Statement of Net Cost](#statement-of-net-cost)
-  * [Statement of Changes in Net Position](#statement-of-changes-in-net-position)
-  * [Statement of Budgetary Resources](#statement-of-budgetary-resources)
-  * [Notes to the Financial Statements](#notes-to-the-financial-statements)
+- [Independent Auditor's Report  and  Financial Statements](#independent-auditors-report--and--financial-statements)
+  - [For the Fiscal Year Ended  \*September 30, 2025](#for-the-fiscal-year-ended--september-30-2025-1)
+    - [Prepared by  Brown \& Company CPAs and Management Consultants, PLLC  December 3, 2025](#prepared-by--brown--company-cpas-and-management-consultants-pllc--december-3-2025)
+- [Financial Statements and Notes](#financial-statements-and-notes)
+  - [Balance Sheet](#balance-sheet)
+  - [Statement of Net Cost](#statement-of-net-cost)
+  - [Statement of Changes in Net Position](#statement-of-changes-in-net-position)
+  - [Statement of Budgetary Resources](#statement-of-budgetary-resources)
+  - [Notes to the Financial Statements](#notes-to-the-financial-statements)
+    - [NOTE 2. FUND BALANCE WITH TREASURY](#note-2-fund-balance-with-treasury)
+    - [NOTE 3. PROPERTY, PLANT, AND EQUIPMENT, NET](#note-3-property-plant-and-equipment-net)
+    - [NOTE 4. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES](#note-4-liabilities-not-covered-by-budgetary-resources)
+    - [NOTE 5. OTHER LIABILITIES](#note-5-other-liabilities)
+    - [NOTE 6. LEASES](#note-6-leases)
+    - [NOTE 7. INTER-ENTITY COSTS](#note-7-inter-entity-costs)
+    - [NOTE 8. UNDELIVERED ORDERS AT THE END OF THE PERIOD](#note-8-undelivered-orders-at-the-end-of-the-period)
+    - [NOTE 9. EXPLANATION OF DIFFERENCES BETWEEN THE STATEMENT OF BUDGETARY RESOURSES AND THE BUDGET OF THE U.S. GOVERNMENT](#note-9-explanation-of-differences-between-the-statement-of-budgetary-resourses-and-the-budget-of-the-us-government)
+    - [NOTE 10. RECONCILIATION OF NET OPERATING COST \& NET BUDGETARY OUTLAYS](#note-10-reconciliation-of-net-operating-cost--net-budgetary-outlays)
+- [End Notes](#end-notes)
 
 ## Agency Head Message
 
@@ -182,8 +192,6 @@ Unfunded leave represents a liability for earned leave and is reduced when leave
 
 Other liabilities account balances as of September 30, 2025 were as follows:
 
-##### 2025
-
 {% include_relative par-fy2025/par-fy2025-55-note5.html %}
 
 
@@ -194,18 +202,59 @@ The Access Board occupies office space under a lease agreement that is accounted
 
 Below is a schedule of future payments for the term of the lease.
 
-
-| Fiscal Year   | Office<br /> Space | Total<br /> Federal |
-| :---          | ---:               | ---:                |
-| 2026          | $ 744,516          | $ 744,516          |
-| 2027          |   765,199          |   765,199          |
-| 2028          |   778,774          |   778,774          |
-| 2029          |   788,946          |   788,946          |
-| 2030          |   799,424          |   799,424          |
-| 2031-2035     | 4,221,092          | 4,221,092          |
-| 2036-2040     | 1,089,652          | 1,089,652          |
-| **Total**     | **$ 9,187,603**    | **$ 9,187,603**    |
-{: .par-money }
+<table class="par-money">
+    <thead>
+        <tr>
+            <th scope="col">Fiscal Year</th>
+            <th scope="col">Office Space</th>
+            <th scope="col">Total Federal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">2026</th>
+            <td>$744,516</td>
+            <td>$744,516</td>
+        </tr>
+        <tr>
+            <th scope="row">2027</th>
+            <td>765,199</td>
+            <td>765,199</td>
+        </tr>
+        <tr>
+            <th scope="row">2028</th>
+            <td>778,774</td>
+            <td>778,774</td>
+        </tr>
+        <tr>
+            <th scope="row">2029</th>
+            <td>788,946</td>
+            <td>788,946</td>
+        </tr>
+        <tr>
+            <th scope="row">2030</th>
+            <td>799,424</td>
+            <td>799,424</td>
+        </tr>
+        <tr>
+            <th scope="row">2031-2035</th>
+            <td>4,221,092</td>
+            <td>4,221,092</td>
+        </tr>
+        <tr>
+            <th scope="row">2036-2040</th>
+            <td>1,089,652</td>
+            <td>1,089,652</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th scope="row">Total</th>
+            <td>$9,187,603</td>
+            <td>$9,187,603</td>
+        </tr>
+    </tfoot>
+</table>
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
 
@@ -215,25 +264,63 @@ The Access Board recognizes certain inter-entity costs for goods and services th
 
 The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM. For the fiscal year ended September 30, 2025, inter-entity costs were as follows: 
 
-
-| &nbsp;                              | 2025       |
-| :---                                | ---:       |
-| Office of Personnel Management      | $ 490,718  |
-| **Total Imputed Financing Sources** | **$ 490,718** |
-{: .par-money }
+<table class="par-money">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <th scope="col">2025</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Office of Personnel Management</th>
+            <td>$490,718</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th scope="row">Total Imputed Financing Sources</th>
+            <td>$490,718</td>
+        </tr>
+    </tfoot>
+</table>
 
 #### NOTE 8. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
 Budgetary resources obligated for undelivered orders as of September 30, 2025 were as follows:
 
-##### 2025
-
-| &nbsp;                       | Intragovernmental | Other than<br /> Intragovernmental | Total           |
-| :---                         | ---:              | ---:              | ---:            |
-| Paid Undelivered Orders      | $ 139,275         | $ -               | $ 139,275       |
-| Unpaid Undelivered Orders    |   841,201         | 1,799,475         | 2,640,676       |
-| **Total Undelivered Orders** | **$ 980,476**     | **$ 1,799,475**   | **$ 2,779,951** |
-{: .par-money }
+<table class="par-money">
+    <thead>
+        <tr>
+            <th scope="col">2025</th>
+            <th scope="col">Intragovernmental</th>
+            <th scope="col">Other than Intragovernmental</th>
+            <th scope="col">Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Paid Undelivered Orders</th>
+            <td>$139,275</td>
+            <td>$0</td>
+            <td>$139,275</td>
+        </tr>
+        <tr>
+            <th scope="row">Unpaid Undelivered Orders</th>
+            <td>841,201</td>
+            <td>1,799,475</td>
+            <td>2,640,676</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th scope="row">Total Undelivered Orders</th>
+            <td>$980,476</td>
+            <td>$1,799,475</td>
+            <td>$2,779,951</td>
+        </tr>
+    </tfoot>
+</table>
 
 #### NOTE 9. EXPLANATION OF DIFFERENCES BETWEEN THE STATEMENT OF BUDGETARY RESOURSES AND THE BUDGET OF THE U.S. GOVERNMENT
 
@@ -242,13 +329,44 @@ Budget of the United States Government, with the “Actual” column completed f
 
 (In Millions)
 
-| &nbsp; | Total<br />Budgetary<br /> Resources | New Obligations<br /> & Upward<br /> Adjustments <br />(Total) | Net <br /> Outlays |
-| :---                                      | ---:     | ---:    | ---:    |
-| Combined Statement of Budgetary Resources | $ 12     | $ 9     | $ 9     |
-| Unobligated Balance Not Available         | (2)      | -       | -       |
-| Difference Due to Rounding                | -        | -       | 1       |
-| **Budget of the U.S. Government**         | **$ 10** | **$ 9** | **$ 10** |
-{: .par-money }
+<table class="par-money">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <th scope="col">Total Budgetary Resources</th>
+            <th scope="col">New Obligations &amp; Upward Adjustments (Total)</th>
+            <th scope="col">Net Outlays</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Combined Statement of Budgetary Resources</th>
+            <td>$12</td>
+            <td>$9</td>
+            <td>$9</td>
+        </tr>
+        <tr>
+            <th scope="row">Unobligated Balance Not Available</th>
+            <td>(2)</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <th scope="row">Difference Due to Rounding</th>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th scope="row">Budget of the U.S. Government</th>
+            <td>$10</td>
+            <td>$9</td>
+            <td>$10</td>
+        </tr>
+    </tfoot>
+</table>
 
 #### NOTE 10. RECONCILIATION OF NET OPERATING COST & NET BUDGETARY OUTLAYS
 

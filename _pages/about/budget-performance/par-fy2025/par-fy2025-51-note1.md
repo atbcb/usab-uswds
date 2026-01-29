@@ -32,14 +32,36 @@ The Access Board does not maintain bank accounts of its own, has no disbursing a
 
 Property, equipment and software represent furniture, fixtures, equipment, and information technology hardware and software which are recorded at original acquisition cost and are depreciated or amortized using the straight-line method over their estimated useful lives. Major alterations and renovations are capitalized, while maintenance and repair costs are expensed as incurred. The Access Board’s capitalization threshold is $50,000 for individual purchases and $500,000 for bulk purchases. Property, equipment, and software acquisitions that do not meet the capitalization criteria are expensed upon receipt. Applicable standard governmental guidelines regulate the disposal and convertibility of agency property, equipment, and software. The useful life classifications for capitalized assets are as follows: 
 
-| Description            | Useful Life (years) |
-| :---                   | :---: |
-| Leasehold Improvements | 9 |
-| Office Furniture       | 5 |
-| Computer Equipment     | 3 |
-| Office Equipment       | 5 |
-| Software               | 5 |
-{: .par-prose }
+<table class="par-prose">
+    <thead>
+        <tr>
+            <th scope="col">Description</th>
+            <th scope="col">Useful Life (years)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Leasehold Improvements</th>
+            <td>9</td>
+        </tr>
+        <tr>
+            <th scope="row">Office Furniture</th>
+            <td>5</td>
+        </tr>
+        <tr>
+            <th scope="row">Computer Equipment</th>
+            <td>3</td>
+        </tr>
+        <tr>
+            <th scope="row">Office Equipment</th>
+            <td>5</td>
+        </tr>
+        <tr>
+            <th scope="row">Software</th>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### F. Advances and Prepaid Charges
 
