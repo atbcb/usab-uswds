@@ -88,6 +88,7 @@ If you have questions or concerns about the status or processing of your request
 ## FOIA Reporting
 
 - [Most recent FOIA Annual Report (HTML)]({{ site.baseurl }}/about/foia-report.html)
+- [FOIA Annual Report FY 2025 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2025.pdf)
 - [FOIA Annual Report FY 2024 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2024.pdf)
 - [FOIA Annual Report FY 2023 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2023.pdf)
 - [FOIA Annual Report FY 2022 (PDF)]({{ site.baseurl }}/foia/usab-foia-fy2022.pdf)
@@ -99,4 +100,4 @@ If you have questions or concerns about the status or processing of your request
 
 ---
 
-Updated Jan 2025
+Updated Jan 2026

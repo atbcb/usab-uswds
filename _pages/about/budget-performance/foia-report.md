@@ -5,7 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/foia-report.html
 ---
-# {{ page.title }} (FY 2024)
+# {{ page.title }} (FY 2025)
 
 ## Section I: Basic Information Regarding Report
 
@@ -22,7 +22,7 @@ Email:&nbsp; <foia@access-board.gov>
 Provide an electronic link for access to the report on the agency Web site:
 
 - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2024.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2024.xml) formats.
+- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2024.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2025.xml) formats.
 
 Explain how to obtain a copy of the report in paper form.
 
@@ -96,7 +96,7 @@ The following is a concise description of the nine FOIA exemptions referenced in
 
 | Statute | Type of Information Withheld | Case Citation | Agency / Component | Number of Times Relied upon by Agency / Component | Total Number of Times Relied upon by Agency Overall |
 | :--- | :--- | :--- | :--- | ---: | ---: |
-| 42 U.S.C. §§ 2000e 5(b), 2000e 8(e)   | Information pertaining to charges of unlawful employment practices; information obtained by the EEOC in investigating charges of unlawful employment practices  | Frito-Lay v. EEOC, 964 F. Supp. 236, 240-43 (W.D. Ky. 1997); Am. Centennial Ins. Co. v. EEOC, 722 F. Supp. 180, 184 (D.N.J. 1989).   | USAB |    1 |    1 |
+| 5 U.S.C. § 13109(a)(2)   | Confidential financial disclosure report pertaining to certain government employees  | Meyerhoff v. EPA, 958 F.2d 1498, 1500-02 (9th Cir. 1992); Boyd v. Exec. Off. for U.S. Att’ys, 161 F. Supp. 3d 1, 7 (D.D.C. 2015); Seife v. NIH, 874 F. Supp. 2d 248, 254 (S.D.N.Y. 2012).   | USAB |    2 |    2 |
 {: .usa-table }
 
 ## V. FOIA Requests
@@ -105,8 +105,8 @@ The following is a concise description of the nine FOIA exemptions referenced in
 
 | Agency / Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
 | :---           | ---: | ---: | ---: | ---: |
-| USAB           |   1  |  42  |  41  |   2  |
-| Agency Overall |   1  |  42  |  41  |   2  |
+| USAB           |   2  |  21  |  19  |   4  |
+| Agency Overall |   2  |  21  |  19  |   4  |
 {: .usa-table }
 
 ### B. Disposition of FOIA Requests
@@ -115,8 +115,8 @@ The following is a concise description of the nine FOIA exemptions referenced in
 
 | Agency / Component | Number of Full Grants | Number of Partial Grants / Partial Denials | Number of Full Denials Based on Exemptions | Number of Full Denials Based on Reasons other than Exemptions* | Total |
 | :---           | ---: | ---: | ---: | ---: | ---: |
-| USAB           |  9   |  6   |   2  |  24  | 41 |
-| Agency Overall |  9   |  6   |   2  |  24  | 41 |
+| USAB           |  7   |  8   |   0  |  4  | 19 |
+| Agency Overall |  7   |  8   |   0  |  4  | 19 |
 {: .usa-table }
 
 _*Number of Full Denials Based on Reasons Other than Exemptions._
@@ -138,7 +138,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: right">24</td>
+      <td style="text-align: right">4</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
@@ -149,7 +149,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: right">0</td>
     </tr>
     <tr>
-      <td style="text-align: right">24</td>
+      <td style="text-align: right">4</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
@@ -199,11 +199,11 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: left">USAB</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
+      <td style="text-align: right">2</td>
       <td style="text-align: right">1</td>
+      <td style="text-align: right">2</td>
+      <td style="text-align: right">7</td>
       <td style="text-align: right">1</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">4</td>
-      <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
@@ -216,11 +216,11 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
       <td style="text-align: left">Agency Overall</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
-      <td style="text-align: right">1</td>
-      <td style="text-align: right">1</td>
+      <td style="text-align: right">2</td>
       <td style="text-align: right">0</td>
-      <td style="text-align: right">4</td>
-      <td style="text-align: right">0</td>
+      <td style="text-align: right">2</td>
+      <td style="text-align: right">7</td>
+      <td style="text-align: right">1</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
       <td style="text-align: right">0</td>
@@ -415,8 +415,8 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 | Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
 | :---           | ---: | ---: | ---: | ---: |
-| USAB           |   15 |   26 |   <1 |   243 |
-| Agency Overall |    15 |   26 |   <1 |   243 |
+| USAB           |   21 |   32 |   5 |   92 |
+| Agency Overall |    21 |   32 |   5 |   92 |
 {: .usa-table }
 
 #### Complex
@@ -441,8 +441,8 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 | Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
 | :---           | ---: | ---: | ---: | ---: |
-| USAB           |   13 |   29 |   1 |  91 |
-| Agency Overall |   13 |   29 |   1 |  91 |
+| USAB           |   25 |   37 |   8 |  92 |
+| Agency Overall |   25 |   37 |   8 |  92 |
 {: .usa-table }
 
 #### Complex
@@ -450,7 +450,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |  N/A |  N/A |  N/A |  N/A |
-| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  0 |  0 |  N/A |  N/A |
 {: .usa-table }
 
 #### Expedited Process
@@ -458,7 +458,7 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | Agency / Component | Median Number of Days | Average Number of Days | Lowest Number of Days | Highest Number of Days |
 | :---           | ---: | ---: | ---: | ---: |
 | USAB           |  N/A |  N/A |  N/A |  N/A |
-| Agency Overall |  N/A |  N/A |  N/A |  N/A |
+| Agency Overall |  0 |  0 |  N/A |  N/A |
 {: .usa-table }
 
 ### C. Processed Requests - Response Time In Days Increment
@@ -494,37 +494,37 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     <tbody>
       <tr>
         <th scope="row"> USAB </th>
-        <td> 28 </td>
-        <td> 6 </td>
-        <td> 2 </td>
-        <td> 2 </td>
+        <td> 9 </td>
+        <td> 5 </td>
+        <td> 3 </td>
+        <td> 1 </td>
         <td> 1 </td>
         <td> 0 </td>
         <td> 0 </td>
-        <td> 2 </td>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
-        <td> 41 </td>
+        <td> 0 </td>
+        <td> 19 </td>
       </tr>
       <tr>
         <th scope="row">Agency Overall</th>
-        <td> 28 </td>
-        <td> 6 </td>
-        <td> 2 </td>
-        <td> 2 </td>
+        <td> 9 </td>
+        <td> 5 </td>
+        <td> 3 </td>
+        <td> 1 </td>
         <td> 1 </td>
         <td> 0 </td>
         <td> 0 </td>
-        <td> 2 </td>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
         <td> 0 </td>
-        <td> 41 </td>
+        <td> 0 </td>
+        <td> 19 </td>
       </tr>
     </tbody>
   </table>
@@ -670,8 +670,8 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 | Agency / Component | Number Pending | Median Number of Days | Average Number of Days |
 | :---               | ---:           | ---:                  | ---:                   |
-| USAB               |    2           |   6                  |   6                   |
-| Agency Overall     |    13           |   29                  |   1                   |
+| USAB               |    3           |   37                  |   77                   |
+| Agency Overall     |    3           |   37                  |   77                   |
 {: .usa-table }
 
 #### Complex
@@ -691,22 +691,22 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 | Agency Overall     |    0           |  N/A                  |  N/A                   |
 {: .usa-table }
 
-### E. Pending Requests = Ten Oldest Pending Requests
+### E. Pending Requests - Ten Oldest Pending Requests
 
 #### USAB
 
 |        | 10th Oldest Request |9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Request |
 | :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Date of Receipt        | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 2024-09-24  | 2024-09-24 |
-| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   4  |  4  |
+| Date of Receipt        | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 2025-09-25  | 2025-08-07  | 2024-12-30 |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   12  |   37  |  187  |
 {: .usa-table }
 
 #### Agency Overall
 
 |        | 10th Oldest Request |9th | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | Oldest Request |
 | :---                   | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Date of Receipt        | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 2024-09-24  | 2024-09-24 |
-| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |    4  |  4  |
+| Date of Receipt        | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | N/A  | 2025-09-25  | 2025-08-07  | 2024-12-30 |
+| Number of Days Pending |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   12  |    37  |  187  |
 {: .usa-table }
 
 ## VIII. Requests For Expedited Processing And Requests For Fee Waiver
@@ -721,10 +721,10 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 ### B. Requests for Fee Waiver
 
-| Agency / Component | Number Granated | Number Denied | Median Number of Days to Adjudicate | Average Number of Days to Adjudicate | Number Adjudicate within Ten Calendar Days |
-| :---               | ---: | ---:  | ---: | ---: | ---: |
-| USAB               |    0 |    0  |  N/A |  N/A |   0  |
-| Agency Overall     |    0 |    0  |  N/A |  N/A |   0  |
+| Agency / Component | Number Granated | Number Denied | Median Number of Days to Adjudicate | Average Number of Days to Adjudicate |
+| :---               | ---: | ---:  | ---: | ---: |
+| USAB               |    0 |    0  |  N/A |  N/A |
+| Agency Overall     |    0 |    0  |  N/A |  N/A |
 {: .usa-table }
 
 ## IX.  FOIA Personnel and Costs
@@ -830,12 +830,12 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
   <tbody>
     <tr>
       <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 2 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
       <td scope="row"> Agency Overall </td>
-      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 2 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
@@ -857,15 +857,15 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
     <tr>
       <td scope="row"> USAB </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 2 </td>
-      <td style="text-align: center;"> 2 </td>
+      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 1 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
       <td scope="row"> Agency Overall </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 2 </td>
-      <td style="text-align: center;"> 2 </td>
+      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 1 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
@@ -898,24 +898,24 @@ _*Number of Full Denials Based on Reasons Other than Exemptions._
 
 | Agency/Component | Number Received During Fiscal Year from Last Year's Annual Report | Number Received During Fiscal Year from Current Annual Report |
 | :---  | ---: | ---:  |
-| USAB | 20 | 42 |
-| Agency Overall | 20 | 42 |
+| USAB | 42 | 21 |
+| Agency Overall | 42 | 21 |
 {: .usa-table }
 
 #### Number of Requests Processed
 
 | Agency/Component | Number Received During Fiscal Year from Last Year's Annual Report | Number Received During Fiscal Year from Current Annual Report |
 | :---  | ---: | ---:  |
-| USAB | 19 | 41 |
-| Agency Overall | 19 | 41 |
+| USAB | 41 | 19 |
+| Agency Overall | 41 | 19 |
 {: .usa-table }
 
 #### (2). Comparison of Numbers of Requests From Previous and Current Annual Report - Backlogged Requests
 
 | Agency/Component | Number of Backlogged Requests as of End of the Fiscal Year from Previous Annual Report | Number of Backlogged Requests as of End of the Fiscal Year from Current Annual Report |
 | :---  | ---: | ---:  |
-| USAB | 1 | 0 |
-| Agency Overall | 1 | 0 |
+| USAB | 0 | 2 |
+| Agency Overall | 0 | 2 |
 {: .usa-table }
 
 ### E. Comparison of Administrative Appeals
