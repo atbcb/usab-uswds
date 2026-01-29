@@ -22,7 +22,7 @@ Email:&nbsp; <foia@access-board.gov>
 Provide an electronic link for access to the report on the agency Web site:
 
 - [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2024.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2024.xml) formats.
+- The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2024.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2025.xml) formats.
 
 Explain how to obtain a copy of the report in paper form.
 
