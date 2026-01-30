@@ -8,13 +8,13 @@ permalink: /about/policy/shutdown.html
 
 ## {{ page.title }}
 
-September 25, 2025
+January 26, 2026
 
 | Lapse Plan Summary Overview |  |
 | --- | :---: |
 | Estimated time (to nearest half day) required to complete shutdown activities: | 0.5 days |
-| Total number of agency employees expected to be on board before implementation of the plan: | 23 (and 12 SGEs) |
-| Total number of agency employees expected to be furloughed under the plan (unduplicated count): | 21 (and 12 SGEs) |
+| Total number of agency employees expected to be on board before implementation of the plan: | 22 (and 12 SGEs) |
+| Total number of agency employees expected to be furloughed under the plan (unduplicated count): | 17 (and 12 SGEs) |
 {: .usa-table }
 
 ### Total number of employees to be retained under the plan for each of the following categories (may include duplicated counts):
@@ -25,7 +25,7 @@ September 25, 2025
 | Necessary to perform activities expressly authorized by law: | 0 |
 | Necessary to perform activities necessarily implied by law: | 0 |
 | Necessary to the discharge of the President's constitutional duties and powers: | 0 |
-| Necessary to protect life and property: | 2 |
+| Necessary to protect life and property: | 5 |
 {: .usa-table }
 
 ### Brief summary of significant agency activities that will continue during a lapse:
@@ -60,5 +60,5 @@ None of the information described above is expected to change should a lapse in 
 3. Should employees have problems returning to work on the specified day, supervisors shall use available flexibilities (including annual leave, compensatory time off, or credit hours), to the extent possible, to accommodate such employees.
 4. Director of Administration will notify building management of return to work.
 5. Chief Information Officer will ensure servers and other information technology equipment is active and in normal operation.
-6. Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify Executive Director and Leadership. Directors will then notify employees.
+6. Upon receipt of notification concerning the enactment of an approved budget or a new Continuing Resolution, the Financial Program Manager will verify appropriations and notify Executive Director and Leadership. Directors will then notify employees.  
 7. Procedures for resuming program activities, including steps to ensure appropriate oversight and disbursement of funds.
