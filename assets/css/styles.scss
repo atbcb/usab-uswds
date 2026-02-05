@@ -555,7 +555,7 @@ div.advisory p.last {
     background: none !important;    /* removes icon */
     mask: none !important;          /* if icon uses mask */
     -webkit-mask: none !important;
-    //display: none !important;       /* hides the pseudo-element */
+    //display: none !important;       /* not having this causes vertical links! hides the pseudo-element */
     //Re-declare content so higher-specificity icon rules don't erase it 
     content: " (" attr(href) ")" !important;
     font-style: italic;
