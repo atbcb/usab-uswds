@@ -477,11 +477,12 @@ div.advisory p.last {
     page-break-inside: avoid;
     break-inside: avoid;
   }
+
   table, figure, img, svg, a, .no-break {
     page-break-inside: avoid;
     break-inside: avoid;
   }
-  //for print TOC
+  /*  for print TOC */
   .print-toc table {
     width: 100%;
     border-collapse: collapse;
@@ -501,74 +502,77 @@ div.advisory p.last {
     margin-bottom: 10px;
   }
 
-  //do not print
-  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip, #ta-box {
+  /* ===== Do not print ===== */
+  footer, nav, hr, button, .noprint, #toc, .usa-skipnav, .pdf-button-container, .anchorjs-link, .swiper-container, .filmstrip, #ta-box, .usa-button {
     display: none !important;
   }
 
-  //include URL after links
-  
-  //make sure links are inline for printing
-  a { display: inline !important; 
-    font: inherit;              /* normalize font family/size */
-    line-height: inherit;       /* match surrounding line height */
+ /* ===== Print URL after links (USWDS-safe) ===== */
+  /* Keep anchors inline so ::after behaves like text */
+  a {
+    display: inline !important;
+    font: inherit;
+    line-height: inherit;
     vertical-align: baseline !important;
     white-space: normal !important;
-
+    text-decoration: none; /* cleaner in print */
   }
 
-  //include full URL after all links
-  a::after {
-    content: "\00A0(" attr(href) ")" !important;
-    font-style: italic;
-    display: inline !important;            /* force inline-level pseudo-element */
-    font: inherit !important;              /* same font as link text */
-    line-height: inherit !important;       /* same line-height as link text */
-    vertical-align: baseline !important;   /* align with text baseline */
-    color: #000;                /* strong contrast on paper */
+  /* 1) External absolute links: show full href */
+  a[href^="http"]::after {
+    content: "\00A0(" attr(href) ")";
+    display: inline !important;
+    line-height: inherit !important;
+    vertical-align: baseline !important;
+    color: #000;
     white-space: normal !important;
-    overflow-wrap: anywhere !important;       /* wrap long URLs */
+    overflow-wrap: anywhere !important;
     word-break: break-word !important;
+    font-style: italic !important; 
+    font-weight: normal !important;
+  }
 
+  /* 2) Relative links: prepend your domain */
+  a[href^="/"]::after {
+    content: "\00A0(https://www.access-board.gov" attr(href) ")";
+    display: inline !important;
+    line-height: inherit !important;
+    vertical-align: baseline !important;
+    color: #000;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+    font-style: italic !important;
+    font-weight: normal;
   }
-  //include full URL after relative links
-    a[href^="/"]::after { 
-    content: " (https://www.access-board.gov" attr(href) ") " !important;
-    font-style: italic;
-  }
-  //don't print URL after home link in banner logo
+
+  /* Exclusions: in-page, mail, tel, javascript, and specific logo/home */
+  a[href^="#"]::after,
+  a[href^="mailto:"]::after,
+  a[href^="tel:"]::after,
+  a[href^="javascript:"]::after,
   a[title="Home"]::after {
     content: "" !important;
   }
 
-  //don't print URL after in-page, email, telephone, or javascript links
-  a[href^="#"]::after,
-  a[href^="mailto:"]::after,
-  a[href^="tel:"]::after,
-  a[href^="javascript:"]::after {
-    content: "";
-  }
-
-  //remove USWDS external link icon but keep URL
+  /* Remove USWDS external-link icon; let URL text render */
   .usa-link--external::after {
-    content: none !important;
-    background: none !important;    /* removes icon */
-    mask: none !important;          /* if icon uses mask */
+    position: static !important; /* prevent absolute positioning */
+    background: none !important;
     -webkit-mask: none !important;
-    //display: none !important;       /* not having this causes vertical links! hides the pseudo-element */
-    //Re-declare content so higher-specificity icon rules don't erase it 
-    content: " (" attr(href) ")" !important;
-    font-style: italic;
+    mask: none !important;
+    width: auto !important;
+    height: auto !important;
+    display: inline !important;
   }
 
-//fix overflow and text-overflow for print
-* {
+  /* Avoid clipped printed URLs due to global resets */
+  * {
     overflow: visible !important;
     text-overflow: clip !important;
   }
-
-
-  //expand accordion content
+   
+  //expand all accordion content
   .usa-accordion__content, .usa-accordion__button {
     display: block !important;
   }
@@ -584,7 +588,8 @@ div.advisory p.last {
   .print-only {
     display: block !important;
   }
-}
+} /* End print styles */
+
 //accordion alternative for EV TA
 details > summary {
   padding: 4px;
