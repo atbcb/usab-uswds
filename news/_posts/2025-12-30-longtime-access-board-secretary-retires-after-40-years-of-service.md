@@ -8,8 +8,8 @@ excerpt: After 40 years of public service, the majority of which was spent at
   the Steam Distribution Complex, a field office under the General Services
   Administration (GSA). After serving there for 18 months, Rose Marie began her
   time at the Access Board . . .
-image: /images/uploads/ab-seal.png
-image_alt_text: U.S. Access Board logo
+image: /images/uploads/Rose and Sachin retirement plaque.JPG
+image_alt_text: Rose Marie receives a retirement plaque from Executive Director Sachin Pavithran.
 featured: true
 ---
 After 40 years of public service, the majority of which was spent at the U.S. Access Board, the agency’s Executive Secretary Rose Marie S. Bunales has retired. Rose Marie began her federal career in 1985 as a Clerk-Typist at the Steam Distribution Complex, a field office under the General Services Administration (GSA). After serving there for 18 months, Rose Marie began her time at the Access Board, where she remained until the end of December 2025, making her the longest serving staff member in the history of the Access Board.
