@@ -12,7 +12,13 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The next meeting of the U.S. Access Board will take place from May 5 - 7, 2026, in Providence, RI. More details are forthcoming.
+The U.S. Access Board will hold a public town hall meeting on **Tuesday, May 5, 2026,** from **1:00 – 3:00 p.m. (ET)** at Bally’s Lincoln Event Center, 100 Twin River Rd, Lincoln, RI. Presidentially appointed Access Board Members and representatives from other federal member agencies will be present to hear from the local community about the state of accessibility in Rhode Island. For further information, contact <events@access-board.gov>.
+
+**U.S. Access Board Town Hall Meeting**\
+May 5, 2026, 1:00 – 3:00 p.m. (ET)\
+Bally’s Lincoln Event Center\
+100 Twin River Rd\
+Lincoln, RI 02865
 
 ## Future Board Meetings
 
