@@ -26,9 +26,9 @@ Public comments for the ANPRM are due by **April 20, 2026**. Individuals may sub
 * Email: [docket@access-board.gov](mailto:docket@access-board.gov). Include docket number **ATBCB-2026-0001** in the subject line of the message.
 * Mail: Include docket number **ATBCB-2026-0001** in the content of your letter.
 
-Office of Technical and Information Services\
-U.S. Access Board\
-1331 F Street NW, Suite 1000\
-Washington, DC 20004-1111
+    Office of Technical and Information Services\
+    U.S. Access Board\
+    1331 F Street NW, Suite 1000\
+    Washington, DC 20004-1111
 
 All interested individuals and organizations, including persons with disabilities, caregivers of disabled individuals, and manufacturers of universal changing tables, among others, are encouraged to comment. Please note that all comments received will be posted to the public docket [ATBCB-2026-0001](https://www.federalregister.gov/documents/2026/02/18/2026-03199/accessibility-standards-for-universal-changing-stations) on the Regulations.gov website, including any personal information provided. The public comment period is open until **April 20, 2026**.
