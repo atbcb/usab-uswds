@@ -127,15 +127,19 @@ Appendix A to Part 1192---Accessibility Guidelines for Buses, Over-the-Road Buse
 
 #### T101 Purpose 
 
-T101.1 Purpose. These Non-Rail Vehicle Guidelines, which consist of Chapters 1 through 7, contain scoping and technical requirements for new, used or remanufactured non-rail vehicles to ensure their accessibility to, and usability by, individuals with disabilities. The Non-Rail Vehicle Guidelines apply to the extent required by regulations issued by the Department of Transportation under the Americans with Disabilities Act, as amended (42 U.S.C. 12101 et seq.).
+##### T101.1 Purpose.
+These Non-Rail Vehicle Guidelines, which consist of Chapters 1 through 7, contain scoping and technical requirements for new, used or remanufactured non-rail vehicles to ensure their accessibility to, and usability by, individuals with disabilities. The Non-Rail Vehicle Guidelines apply to the extent required by regulations issued by the Department of Transportation under the Americans with Disabilities Act, as amended (42 U.S.C. 12101 et seq.).
 
 #### T102 Conventions
 
-T102.1 Calculation of Percentages. Where the determination of the required size or dimension of an element involves ratios or percentages, rounding down for values less than one half shall be permitted.
+##### T102.1 Calculation of Percentages.
+Where the determination of the required size or dimension of an element involves ratios or percentages, rounding down for values less than one half shall be permitted.
 
-T102.2 Units of Measurement. Measurements are stated in U.S. and metric customary units. The values stated in each system (U.S. and metric customary units) may not be exact equivalents, and each system shall be used independently of the other.
+##### T102.2 Units of Measurement.
+Measurements are stated in U.S. and metric customary units. The values stated in each system (U.S. and metric customary units) may not be exact equivalents, and each system shall be used independently of the other.
 
-T102.3 Vehicle Length. The length of non-rail vehicles shall be measured from standard bumper to standard bumper.
+##### T102.3 Vehicle Length.
+The length of non-rail vehicles shall be measured from standard bumper to standard bumper.
 
 #### T103 Definitions
 
