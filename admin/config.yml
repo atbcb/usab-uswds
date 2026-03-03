@@ -3,6 +3,7 @@ backend:
   name: github
   repo: atbcb/usab-uswds
   base_url: https://pages.cloud.gov
+  site_domain: pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
   branch: beta
