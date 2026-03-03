@@ -45,7 +45,7 @@ collections:
           widget: "datetime",
           format: "YYYY-MM-DD",
           date_format: "MMMM D, YYYY",
-          timeFormat: false,
+          time_format: false,
         }
       - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
       - {
