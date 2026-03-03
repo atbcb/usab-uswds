@@ -44,7 +44,7 @@ collections:
           name: "date",
           widget: "datetime",
           format: "YYYY-MM-DD",
-          dateFormat: "MMMM D, YYYY",
+          date_format: "MMMM D, YYYY",
           timeFormat: false,
         }
       - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
@@ -52,7 +52,7 @@ collections:
           label: "Image",
           name: "image",
           widget: "image",
-          allow_multiple: false,
+          multiple: false,
           required: false,
         }
       - {
@@ -66,9 +66,9 @@ collections:
           name: "authors",
           widget: "relation",
           collection: "staff",
-          searchFields: ["first_name", "last_name", "full_name"],
-          valueField: "name",
-          displayFields: ["name"],
+          search_fields: ["first_name", "last_name", "full_name"],
+          value_field: "name",
+          display_fields: ["name"],
           multiple: true,
           required: false,
         }
@@ -77,9 +77,9 @@ collections:
           name: "tags",
           widget: "relation",
           collection: "tags",
-          searchFields: ["name"],
-          valueField: "name",
-          displayFields: ["name"],
+          search_fields: ["name"],
+          value_field: "name",
+          display_fields: ["name"],
           multiple: true,
           required: false
         }
@@ -106,8 +106,8 @@ collections:
         name: "date"
         widget: "datetime"
         format: "YYYY-MM-DD"
-        dateFormat: "MMMM D, YYYY"
-        timeFormat: false
+        date_format: "MMMM D, YYYY"
+        time_format: false
 
       - label: "Excerpt"
         name: "excerpt"
@@ -117,7 +117,7 @@ collections:
       - label: "Image"
         name: "image"
         widget: "image"
-        allow_multiple: false
+        multiple: false
         required: false
 
       - label: "Image Alternative Text"
@@ -141,9 +141,9 @@ collections:
                 name: "staff"
                 widget: "relation"
                 collection: "staff"
-                searchFields: ["first_name", "last_name", "full_name"]
-                displayFields: ["full_name"]
-                valueField: "{{slug}}"
+                search_fields: ["first_name", "last_name", "full_name"]
+                display_fields: ["full_name"]
+                value_field: "{{slug}}"
 
           - label: "External presenter"
             name: "external"
@@ -162,9 +162,9 @@ collections:
         name: "tags"
         widget: "relation"
         collection: "tags"
-        searchFields: ["name"]
-        valueField: "name"
-        displayFields: ["name"]
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
         multiple: true
         required: false
 
@@ -178,7 +178,7 @@ collections:
         name: "webinar-start"
         widget: "datetime"
         format: "LLL"
-        timeFormat: "hh:mm a"
+        time_format: "hh:mm a"
         default: ""
         required: false
 
@@ -186,7 +186,7 @@ collections:
         name: "webinar-end"
         widget: "datetime"
         format: "LLL"
-        timeFormat: "hh:mm a"
+        time_format: "hh:mm a"
         required: false
 
       - label: "Registration Link"
@@ -285,7 +285,7 @@ collections:
           label: "Image",
           name: "image",
           widget: "image",
-          allow_multiple: false,
+          multiple: false,
           required: false,
         }
       - {
@@ -338,7 +338,7 @@ collections:
           label: "Image",
           name: "image",
           widget: "image",
-          allow_multiple: false,
+          multiple: false,
           required: false,
         }
       - { label: "Job Title", name: "job-title", widget: "string", required: false }
