@@ -9,7 +9,7 @@
   <title>Content Manager</title>
 </head>
 <body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
+  <!-- Include the script that builds the page and powers Sveltia CMS -->
   <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
   <script type="module">
     CMS.registerEditorComponent({
@@ -70,7 +70,7 @@
       ],
     });
   </script>
-  <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
+  <link href="{{site.baseurl}}/admin/config.yml" type="text/yaml" rel="cms-config-url">
   <style>
     img[alt="Logo"] {
       margin-left: 75px;
