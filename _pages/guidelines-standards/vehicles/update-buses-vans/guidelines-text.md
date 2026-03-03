@@ -355,7 +355,7 @@ Appendix A to Part 1192---Accessibility Guidelines for Buses, Over-the-Road Buse
 <h6 class="level-2">T215.2.4 Destination and Route Signs</h6>
 <p class="level-2">Where destination or route signs are provided on the exterior of non-rail vehicles, such signs shall be located at a minimum on the front and boarding sides of the vehicle. The signs shall be illuminated and comply with T702.</p>
 
-<h5 class="level-1">T215.3. Public Address and Stop Request Systems</h5>
+<h5 class="level-1">T215.3 Public Address and Stop Request Systems</h5>
 <p class="level-1">Large non-rail vehicles that operate in fixed route service with multiple designated stops shall provide public address and stop request systems in accordance with T215.3.</p>
 
 <h6 class="level-2">T215.3.1 Public Address Systems</h6>
