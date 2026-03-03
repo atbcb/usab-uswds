@@ -10,8 +10,8 @@
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="{{site.baseurl}}/assets/netlify-cms/netlify-cms.js"></script>
-  <script>
+  <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
+  <script type="module">
     CMS.registerEditorComponent({
       label: 'Image',
       id: 'image',
