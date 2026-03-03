@@ -280,8 +280,8 @@ Appendix A to Part 1192---Accessibility Guidelines for Buses, Over-the-Road Buse
 <h6 class="level-2">T208.2.2 Doorways on Two Sides of vehicle</h6>
 <p class="level-2">Where non-rail vehicles have doorways on two sides, a passenger access route shall connect each wheelchair space to doorways on both sides of the vehicle that provide a means of accessible boarding and alighting in accordance with T202.</p>
 
-<h6 class="level-1">T208.2.3 Deployment to Roadway</h6>
-<p class="level-1">A passenger access route shall connect each wheelchair space to a doorway providing a means of accessible boarding and alighting that can be deployed to the roadway in accordance with T202.</p>
+<h6 class="level-2">T208.2.3 Deployment to Roadway</h6>
+<p class="level-2">A passenger access route shall connect each wheelchair space to a doorway providing a means of accessible boarding and alighting that can be deployed to the roadway in accordance with T202.</p>
 </div>
 
 #### T209 Fare Collection Devices
