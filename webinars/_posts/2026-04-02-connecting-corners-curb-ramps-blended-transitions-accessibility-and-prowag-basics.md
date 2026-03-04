@@ -37,7 +37,7 @@ Curb ramps and blended transitions are critical connections in pedestrian access
 
 ### Speakers:
 
-[Melissa A. Anderson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10843&ret=Connecting%20Corners:%20Curb%20Ramps,%20Blended%20Transitions,%20Accessibility%20and%20PROWAG%20Basics), Geometric Design Engineer , **US DOT, Federal Highway Administration**
+[Melissa A. Anderson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10843&ret=Connecting%20Corners:%20Curb%20Ramps,%20Blended%20Transitions,%20Accessibility%20and%20PROWAG%20Basics), Geometric Design Engineer, **US DOT, Federal Highway Administration**
 
 [Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Connecting%20Corners:%20Curb%20Ramps,%20Blended%20Transitions,%20Accessibility%20and%20PROWAG%20Basics), Accessibility Specialist, **U.S. Access Board**
 
