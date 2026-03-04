@@ -10,7 +10,7 @@ tags: []
 featured: true
 ---
 
-The General Services Administration (GSA) has released its third annual report on federal compliance with Section 508 of the Rehabilitation Act. While the report highlights strengthened acquisition and procurement practices, the federal government continues to fall short of its legal and statutory obligations to ensure equal access for individuals with disabilities, including federal employees and members of the public.
+The General Services Administration (GSA) [has released its third annual report](https://www.section508.gov/manage/section-508-assessment/2025/message-from-gsa-administrator/) on federal compliance with Section 508 of the Rehabilitation Act. While the report highlights strengthened acquisition and procurement practices, the federal government continues to fall short of its legal and statutory obligations to ensure equal access for individuals with disabilities, including federal employees and members of the public.
 
 GSA is submitting the Fiscal Year (FY) 2025 Governmentwide Section 508 Assessment as mandated by [Public Law No. 117-328](https://www.congress.gov/bill/117th-congress/house-bill/2617/text) (codified at [29 U.S.C. § 794d-1](https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm)). GSA prepared this report, in consultation with the Office of Management and Budget (OMB) and the U.S. Access Board, and it addresses the report to the Senate Committees on Appropriations and Homeland Security and Governmental Affairs and the House Committees on Appropriations and Oversight and Government Reform.
 
