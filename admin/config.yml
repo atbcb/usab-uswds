@@ -62,28 +62,6 @@ collections:
           widget: "string",
           required: false,
         }
-      - {
-          label: "Authors (USAB staff)",
-          name: "authors",
-          widget: "relation",
-          collection: "staff",
-          search_fields: ["first_name", "last_name", "full_name"],
-          value_field: "name",
-          display_fields: ["name"],
-          multiple: true,
-          required: false,
-        }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "relation",
-          collection: "tags",
-          search_fields: ["name"],
-          value_field: "name",
-          display_fields: ["name"],
-          multiple: true,
-          required: false
-        }
       - {label: "Featured News", name: "featured", widget: "boolean", default: false}
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Webinars"
