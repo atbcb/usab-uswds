@@ -1,0 +1,23 @@
+---
+layout: post
+title: GSA Publishes Annual Governmentwide Section 508 Assessment
+date: 2026-03-04
+excerpt: The General Services Administration (GSA) has released its third annual report on federal compliance with Section 508 of the Rehabilitation Act. While the report highlights strengthened acquisition and procurement practices, the federal government continues to fall short of its legal and statutory obligations to ensure equal access for individuals with disabilities, including federal employees and members of the public . . .
+image: /images/uploads/gsa-logo.png
+image_alt_text: GSA logo.
+authors: []
+tags: []
+featured: true
+---
+
+The General Services Administration (GSA) has released its third annual report on federal compliance with Section 508 of the Rehabilitation Act. While the report highlights strengthened acquisition and procurement practices, the federal government continues to fall short of its legal and statutory obligations to ensure equal access for individuals with disabilities, including federal employees and members of the public.
+
+GSA is submitting the Fiscal Year (FY) 2025 Governmentwide Section 508 Assessment as mandated by [Public Law No. 117-328](https://www.congress.gov/bill/117th-congress/house-bill/2617/text) (codified at [29 U.S.C. § 794d-1](https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm)). GSA prepared this report, in consultation with the Office of Management and Budget (OMB) and the U.S. Access Board, and it addresses the report to the Senate Committees on Appropriations and Homeland Security and Governmental Affairs and the House Committees on Appropriations and Oversight and Government Reform.
+
+Enacted by Congress at the end of 2022, the Consolidated Appropriations Act, 2023, directed GSA, OMB, and USAB to work together to collect and evaluate federal agency data on information and communication technology (ICT) accessibility. The Board aided in the development of agency survey questions and conducted data analysis for the report. GSA and the Department of Justice (DOJ) will continue to issue separate annual and biennial reports on federal Section 508 implementation to Congress, including a public data file that contains all agency responses. To learn more, read the [assessment requirements](https://www.section508.gov/manage/section-508-assessment/) or contact the GSA Government-wide IT Accessibility Program at [section.508@gsa.gov](mailto:section.508@gsa.gov).
+
+Over [70 Million U.S. adults reported having a disability](https://www.cdc.gov/media/releases/2024/s0716-Adult-disability.html). With over [2.16 billion federal website visits in the past month](https://analytics.usa.gov/), it is essential for the government to provide high-quality digital products and services. This assessment builds on previous reports and takes a broad look at different factors to understand federal agencies compliance with Section 508 accessibility requirements, which lays the groundwork for future strategic planning and informed decision-making. With significant changes to the assessment criteria and shifts in the federal environment, FY 2025 establishes a new baseline for ICT accessibility throughout the federal government. GSA used responses from 212 agencies, parent agencies, and components to develop this assessment. More importantly, the agencies’ data will help GSA support them in pinpointing accessibility issues and identifying areas for improvement. This, in turn, will enhance the efficiency and accessibility of government technology and digital services.
+
+[Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology) requires access to electronic and information technology provided by the federal government. Federal agencies must ensure that this technology is accessible to employees and members of the public with disabilities, and applies to, but is not solely focused on, federal pages on the Internet or the World Wide Web. More information can be found on the [Section 508 website](https://www.section508.gov/).
+
+For questions on the Board’s standards for electronic and information technology issued under Section 508 of the Rehabilitation Act, please contact [508@access-board.gov](mailto:508@access-board.gov), or visit the [U.S. Access Board website](https://www.access-board.gov/). The Board also provides technical assistance on its accessibility guidelines and standards through its helpline at 1-202-272-0080, extension 3, and by email at [ta@access-board.gov](mailto:ta@access-board.gov).
