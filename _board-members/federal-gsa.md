@@ -2,7 +2,6 @@
 name: federal-gsa
 last-name: Lynch
 full_name: Michael Lynch
-pronouns: ''
 chair: false
 vice-chair: false
 member: federal
