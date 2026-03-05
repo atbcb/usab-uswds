@@ -845,3 +845,42 @@ table.layouttable tr td {
 .blue {
 	background-color: cyan;
 }
+
+//Custom indentation for text sections
+.text-indent {
+  .level-1 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+  }
+  .level-2 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 80px;
+    margin-inline-end: 80px;
+  }
+  .level-3 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 120px;
+    margin-inline-end: 120px;
+  }
+}
+
+//custom definition list
+dl.custom-dl {
+  dt {
+    font-weight: normal;
+    font-style: italic;
+  }
+}
+
+//custom table alignment
+table.custom-table tr th:last-of-type,
+table.custom-table tr td:last-of-type {
+  text-align: center;
+}

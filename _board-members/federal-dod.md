@@ -1,13 +1,14 @@
 ---
-last-name: "[Currently Vacant]"
-agency: Department of Defense
 name: federal-dod
-last-name: "[Currently Vacant]"
-full_name: "[Currently Vacant]"
+last-name: '[Currently Vacant]'
+full_name: '[Currently Vacant]'
 chair: false
 vice-chair: false
 member: federal
 status: current
+president: ''
 image: /images/uploads/vacant.svg
-job-title: ""
+job-title: ''
+department: ''
+agency: Department of Defense
 ---
