@@ -215,13 +215,6 @@ collections:
           required: true,
         }
       - {
-          label: "Pronouns",
-          name: "pronouns",
-          widget: "string",
-          hint: "Example:  he/him, she/her, they/them",
-          required: false,
-        }
-      - {
           label: "Chairperson",
           name: "chair",
           widget: "boolean",
@@ -307,13 +300,6 @@ collections:
       - { label: "Last Name", name: "last_name", widget: "string" }
       - { label: "Full Name", name: "full_name", widget: "string" }
       - {
-          label: "Pronouns",
-          name: "pronouns",
-          widget: "string",
-          hint: "Example:  he/him, she/her, they/them",
-          required: false,
-        }
-      - {
           label: "Image",
           name: "image",
           widget: "image",
@@ -323,7 +309,6 @@ collections:
       - { label: "Job Title", name: "job-title", widget: "string", required: false }
       - { label: "Office", name: "office", widget: "select", options: [Office of Executive Director, Office of General Counsel, Office of Information Technology, Office of Administration, Office of Technical and Information Services],
          }
-      - { label: "Agency", name: "agency", widget: "string", default: "United States Access Board", required: false }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
   - label: 504 contacts
     name: contacts-504
