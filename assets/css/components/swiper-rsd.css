@@ -98,39 +98,27 @@
 .swiper-button-prev, .swiper-button-next {
     color: white; 
     position: absolute;
-    top: 50%;
-    width: 27px; 
-    height: 44px; 
-    margin-top: -22px; 
+    top: 22px !important;
+    width: 50px; 
+    height: 100%;
+    padding: 0 10px;
+    background-color: #000;
     z-index: 10;
     cursor: pointer;
-    opacity: 0.85;
-    /* This shadow helps visibility on light images */
-    filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.8));
-    /* Removes the big black box */
-    background-color: transparent; 
+    opacity: 0.80;
 }
 
 .swiper-button-prev {
-    left: 10px;
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E");
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: center;
+    left: 0 !important;
 }
 
 .swiper-button-next {
-    right: 10px;
-    /* The transform line was removed here so the arrow stays pointing right! */
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E");
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: center;
+    right: 0 !important;
 }
 
 .swiper-button-prev:focus, .swiper-button-next:focus {
-    outline: 3px solid #73b3e7; /* Uses a nice blue to match your existing pagination bullets */
-    outline-offset: 3px;
+    outline: .25rem solid #2491ff;
+    outline-offset: -4px;
     border-radius: 2px;
 }
 
