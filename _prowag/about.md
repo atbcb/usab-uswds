@@ -13,6 +13,7 @@ The Access Board has published new guidelines under the Americans with Disabilit
 
 ### Background
 
+- December 18, 2024 -- Department of Transportation [issues final rule](https://www.federalregister.gov/documents/2024/12/18/2024-29990/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian) adopting PROWAG as part of its ADA standards for new construction and alterations of transit stops in the public right-of-way.
 - July 3, 2024 -- GSA OGP [Federal Management Regulation adopts PROWAG](https://www.federalregister.gov/d/2024-14424).
 - August 8, 2023 -- The Board [publishes final rule in the Federal Register](https://www.federalregister.gov/d/2023-16149).
 - February 13, 2013 -- The Board publishes a [Proposed Draft Accessibility Guidelines for the Public Right-of-Way]({{ site.baseurl }}/prowag/proposed/) in its rulemaking on public right-of-way.
