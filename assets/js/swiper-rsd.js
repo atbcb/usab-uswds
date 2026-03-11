@@ -1,5 +1,4 @@
-
-var mySwiper = new Swiper('.swiper-homepage', {
+var homepageSwiper = new Swiper('.swiper-homepage', {
   // Optional parameters
   direction: 'horizontal',
   loop: false,
@@ -24,26 +23,26 @@ var mySwiper = new Swiper('.swiper-homepage', {
 
   // If we need pagination
   pagination: {
-    el: '.swiper-pagination',
+    el: '.swiper-homepage .swiper-pagination',
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    nextEl: '.swiper-homepage .swiper-button-next',
+    prevEl: '.swiper-homepage .swiper-button-prev',
   },
 
   // And if we need scrollbar
   scrollbar: {
-    el: '.swiper-scrollbar',
+    el: '.swiper-homepage .swiper-scrollbar',
   },
 
   a11y: {
-    enabled: false
+    enabled: true
   }
 })
 
-var mySwiper = new Swiper('.swiper-single', {
+var singleSwiper = new Swiper('.swiper-single', {
   // Optional parameters
   direction: 'horizontal',
   loop: false,
@@ -55,28 +54,26 @@ var mySwiper = new Swiper('.swiper-single', {
 
   // If we need pagination
   pagination: {
-    el: '.swiper-pagination',
+    el: '.swiper-single .swiper-pagination',
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    nextEl: '.swiper-single .swiper-button-next',
+    prevEl: '.swiper-single .swiper-button-prev',
   },
 
   // And if we need scrollbar
   scrollbar: {
-    el: '.swiper-scrollbar',
+    el: '.swiper-single .swiper-scrollbar',
   },
 
   a11y: {
-    enabled: false
+    enabled: true
   }
 })
 
-
-
-var mySwiper = new Swiper('.swiper-hero-carousel', {
+var heroSwiper = new Swiper('.swiper-hero-carousel', {
   // Optional parameters
   direction: 'horizontal',
   loop: false,
@@ -88,28 +85,27 @@ var mySwiper = new Swiper('.swiper-hero-carousel', {
 
   // If we need pagination
   pagination: {
-    el: '.swiper-pagination',
+    el: '.swiper-hero-carousel .swiper-pagination',
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    nextEl: '.swiper-hero-carousel .swiper-button-next',
+    prevEl: '.swiper-hero-carousel .swiper-button-prev',
   },
 
   // And if we need scrollbar
   scrollbar: {
-    el: '.swiper-scrollbar',
+    el: '.swiper-hero-carousel .swiper-scrollbar',
   },
 
   a11y: {
-    enabled: false
+    enabled: true
   }
 })
-
 
 //try this effect
-var swiper = new Swiper(".hero-coverflow", {
+var coverflowSwiper = new Swiper(".hero-coverflow", {
   effect: "coverflow",
   grabCursor: true,
   centeredSlides: true,
@@ -122,6 +118,6 @@ var swiper = new Swiper(".hero-coverflow", {
     slideShadows: true,
   },
   pagination: {
-    el: ".swiper-pagination",
+    el: ".hero-coverflow .swiper-pagination",
   },
 });
