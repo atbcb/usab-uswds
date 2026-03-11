@@ -3,6 +3,7 @@ backend:
   name: github
   repo: atbcb/usab-uswds
   base_url: https://pages.cloud.gov
+  site_domain: pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
   branch: beta
@@ -44,15 +45,15 @@ collections:
           name: "date",
           widget: "datetime",
           format: "YYYY-MM-DD",
-          dateFormat: "MMMM D, YYYY",
-          timeFormat: false,
+          date_format: "MMMM D, YYYY",
+          time_format: false,
         }
       - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
       - {
           label: "Image",
           name: "image",
           widget: "image",
-          allow_multiple: false,
+          multiple: false,
           required: false,
         }
       - {
@@ -60,28 +61,6 @@ collections:
           name: "image_alt_text",
           widget: "string",
           required: false,
-        }
-      - {
-          label: "Authors (USAB staff)",
-          name: "authors",
-          widget: "relation",
-          collection: "staff",
-          searchFields: ["first_name", "last_name", "full_name"],
-          valueField: "name",
-          displayFields: ["name"],
-          multiple: true,
-          required: false,
-        }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "relation",
-          collection: "tags",
-          searchFields: ["name"],
-          valueField: "name",
-          displayFields: ["name"],
-          multiple: true,
-          required: false
         }
       - {label: "Featured News", name: "featured", widget: "boolean", default: false}
       - { label: "Body", name: "body", widget: "markdown" }
@@ -106,8 +85,8 @@ collections:
         name: "date"
         widget: "datetime"
         format: "YYYY-MM-DD"
-        dateFormat: "MMMM D, YYYY"
-        timeFormat: false
+        date_format: "MMMM D, YYYY"
+        time_format: false
 
       - label: "Excerpt"
         name: "excerpt"
@@ -117,7 +96,7 @@ collections:
       - label: "Image"
         name: "image"
         widget: "image"
-        allow_multiple: false
+        multiple: false
         required: false
 
       - label: "Image Alternative Text"
@@ -141,9 +120,9 @@ collections:
                 name: "staff"
                 widget: "relation"
                 collection: "staff"
-                searchFields: ["first_name", "last_name", "full_name"]
-                displayFields: ["full_name"]
-                valueField: "{{slug}}"
+                search_fields: ["first_name", "last_name", "full_name"]
+                display_fields: ["full_name"]
+                value_field: "{{slug}}"
 
           - label: "External presenter"
             name: "external"
@@ -162,9 +141,9 @@ collections:
         name: "tags"
         widget: "relation"
         collection: "tags"
-        searchFields: ["name"]
-        valueField: "name"
-        displayFields: ["name"]
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
         multiple: true
         required: false
 
@@ -178,7 +157,7 @@ collections:
         name: "webinar-start"
         widget: "datetime"
         format: "LLL"
-        timeFormat: "hh:mm a"
+        time_format: "hh:mm a"
         default: ""
         required: false
 
@@ -186,7 +165,7 @@ collections:
         name: "webinar-end"
         widget: "datetime"
         format: "LLL"
-        timeFormat: "hh:mm a"
+        time_format: "hh:mm a"
         required: false
 
       - label: "Registration Link"
@@ -236,13 +215,6 @@ collections:
           required: true,
         }
       - {
-          label: "Pronouns",
-          name: "pronouns",
-          widget: "string",
-          hint: "Example:  he/him, she/her, they/them",
-          required: false,
-        }
-      - {
           label: "Chairperson",
           name: "chair",
           widget: "boolean",
@@ -285,7 +257,7 @@ collections:
           label: "Image",
           name: "image",
           widget: "image",
-          allow_multiple: false,
+          multiple: false,
           required: false,
         }
       - {
@@ -328,23 +300,15 @@ collections:
       - { label: "Last Name", name: "last_name", widget: "string" }
       - { label: "Full Name", name: "full_name", widget: "string" }
       - {
-          label: "Pronouns",
-          name: "pronouns",
-          widget: "string",
-          hint: "Example:  he/him, she/her, they/them",
-          required: false,
-        }
-      - {
           label: "Image",
           name: "image",
           widget: "image",
-          allow_multiple: false,
+          multiple: false,
           required: false,
         }
       - { label: "Job Title", name: "job-title", widget: "string", required: false }
       - { label: "Office", name: "office", widget: "select", options: [Office of Executive Director, Office of General Counsel, Office of Information Technology, Office of Administration, Office of Technical and Information Services],
          }
-      - { label: "Agency", name: "agency", widget: "string", default: "United States Access Board", required: false }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
   - label: 504 contacts
     name: contacts-504
