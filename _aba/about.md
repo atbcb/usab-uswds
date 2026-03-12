@@ -15,7 +15,8 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 
 This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, and USPS:
 
-- [GSA, 41 CFR 102](https://www.ecfr.gov/current/title-41/subtitle-C/chapter-102)
+- [GSA Adoption of ABAAS](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update)
+- - [Addition of PROWAG](https://www.federalregister.gov/documents/2024/07/03/2024-14424/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public)
 - [DOD policy memorandum](dod-policy-memo.html)
 - [USPS, 39 CFR 254](https://www.ecfr.gov/current/title-39/part-254)
 
