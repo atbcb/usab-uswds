@@ -16,7 +16,7 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, and USPS:
 
 - [GSA adoption of ABAAS](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update)
- - [Addition of PROWAG](https://www.federalregister.gov/documents/2024/07/03/2024-14424/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public)
+  - [Addition of PROWAG](https://www.federalregister.gov/documents/2024/07/03/2024-14424/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public)
 - [DOD policy memorandum](dod-policy-memo.html)
 - [USPS, 39 CFR 254](https://www.ecfr.gov/current/title-39/part-254)
 
@@ -60,5 +60,9 @@ Figures in the ABA Standards are available for [download (zip file of figures in
 - September 26, 2013 -- The Board issues a [supplement to the ABA Accessibility Guidelines on outdoor developed areas](https://www.federalregister.gov/d/2013-22876), which become part of the ABA Standards sixty (60) days later.
 
 - May 7, 2014 -- The Board publishes a [supplement to the ADA and ABA Accessibility Guidelines on Emergency Transportable Housing](https://www.federalregister.gov/d/2014-10162) (ETH).&nbsp; On September 26, 2014, The Board issues a [correction to ETH final guidelines](https://www.federalregister.gov/d/2014-22984).
+
+- August 8, 2023 -- The Board publishes the [ADA and ABA Accessibility Guidelines for the Public Right-of-Way (PROWAG)](https://www.federalregister.gov/documents/2023/08/08/2023-16149/accessibility-guidelines-for-pedestrian-facilities-in-the-public-right-of-way).
+
+- July 3, 2024 -- [GSA adopts PROWAG](https://www.federalregister.gov/documents/2024/07/03/2024-14424/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public).
 
 ---
