@@ -201,7 +201,7 @@ td ul.check {
   @include u-text("secondary-darker");
 }
 
-//fix background color for hover on submenu items 
+//fix background color for hover on submenu items
 @media (max-width: 63.99em){
 .usa-nav__primary a:not(.usa-button):hover{color: #005ea2 !important; text-decoration:none}
 }
@@ -324,6 +324,9 @@ div.advisory p.last {
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
   border: thin inset;
+}
+.accessibility-border {
+  border: 2px solid #000000;
 }
 .img-top {
 	vertical-align: text-top;
@@ -528,7 +531,7 @@ div.advisory p.last {
     white-space: normal !important;
     overflow-wrap: anywhere !important;
     word-break: break-word !important;
-    font-style: italic !important; 
+    font-style: italic !important;
     font-weight: normal !important;
   }
 
@@ -571,7 +574,7 @@ div.advisory p.last {
     overflow: visible !important;
     text-overflow: clip !important;
   }
-   
+
   //expand all accordion content
   .usa-accordion__content, .usa-accordion__button {
     display: block !important;
@@ -597,7 +600,7 @@ details > summary {
   background-color: #eeeeee;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;	
+  cursor: pointer;
 }
 
 details > p {
