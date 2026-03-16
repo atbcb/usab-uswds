@@ -28,7 +28,6 @@ public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: /images/usab-seal.png
 
-
 collections:
   - label: News
     name: posts
@@ -62,7 +61,19 @@ collections:
           widget: "string",
           required: false,
         }
-      - {label: "Featured News", name: "featured", widget: "boolean", default: false}
+      - {
+          label: "Add border to image?",
+          name: "image-border",
+          widget: "boolean",
+          default: true,
+          hint: "Applies a black border for accessibility.",
+        }
+      - {
+          label: "Featured News",
+          name: "featured",
+          widget: "boolean",
+          default: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Webinars"
     name: "webinars"
@@ -249,7 +260,17 @@ collections:
           label: "Appointing Presidential Administration",
           name: "president",
           widget: "select",
-          options: ["Biden", "Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
+          options:
+            [
+              "Biden",
+              "Trump",
+              "Obama",
+              "Bush",
+              "Clinton",
+              "HW Bush",
+              "Reagan",
+              "Carter",
+            ],
           required: false,
           hint: "Which administration appointed this board member?  Click to select.",
         }
@@ -261,25 +282,39 @@ collections:
           required: false,
         }
       - {
-        label: "Job Title",
-        name: "job-title",
-        widget: "text",
-        required: false
+          label: "Job Title",
+          name: "job-title",
+          widget: "text",
+          required: false,
         }
       - {
-        label: "Department",
-        name: "department",
-        widget: "select",
-        options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
-        required: false,
-        hint: "Which department does this federal board member represent?  Click to select.",
+          label: "Department",
+          name: "department",
+          widget: "select",
+          options:
+            [
+              General Services Administration,
+              Department of Defense,
+              Department of Justice,
+              Department of Housing and Urban Development,
+              Department of Health and Human Services,
+              United States Postal Service,
+              Department of Labor,
+              Department of Education,
+              Department of Commerce,
+              Department of the Interior,
+              Department of Transportation,
+              Department of Veterans Affairs,
+            ],
+          required: false,
+          hint: "Which department does this federal board member represent?  Click to select.",
         }
       - {
-        label: "Component / Agency / Office / Unit",
-        name: "agency",
-        widget: "text",
-        hint: "Where does this federal member work at their department?  Spell out in full.  (Examples:  Administration for Community Living, Office of Disability Employment Policy)",
-        required: false
+          label: "Component / Agency / Office / Unit",
+          name: "agency",
+          widget: "text",
+          hint: "Where does this federal member work at their department?  Spell out in full.  (Examples:  Administration for Community Living, Office of Disability Employment Policy)",
+          required: false,
         }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
   - label: Staff
@@ -306,9 +341,25 @@ collections:
           multiple: false,
           required: false,
         }
-      - { label: "Job Title", name: "job-title", widget: "string", required: false }
-      - { label: "Office", name: "office", widget: "select", options: [Office of Executive Director, Office of General Counsel, Office of Information Technology, Office of Administration, Office of Technical and Information Services],
-         }
+      - {
+          label: "Job Title",
+          name: "job-title",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Office",
+          name: "office",
+          widget: "select",
+          options:
+            [
+              Office of Executive Director,
+              Office of General Counsel,
+              Office of Information Technology,
+              Office of Administration,
+              Office of Technical and Information Services,
+            ],
+        }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
   - label: 504 contacts
     name: contacts-504
@@ -331,98 +382,98 @@ collections:
           hint: "Example: Department of Health and Human Services",
         }
       - {
-        label: "504 contact name",
-        name: "contact",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: George Washington",
+          label: "504 contact name",
+          name: "contact",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: George Washington",
         }
       - {
-        label: "504 contact Job Title",
-        name: "job-title",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: HR Director",
+          label: "504 contact Job Title",
+          name: "job-title",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: HR Director",
         }
       - {
-        label: "Department / Agency / Office / Component / Unit",
-        name: "department",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: Office of Equal Opportunity",
+          label: "Department / Agency / Office / Component / Unit",
+          name: "department",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: Office of Equal Opportunity",
         }
       - {
-        label: "504 contact Email address",
-        name: "email",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: george.washington@agency.gov",
+          label: "504 contact Email address",
+          name: "email",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: george.washington@agency.gov",
         }
       - {
-        label: "504 contact phone number",
-        name: "phone",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: 202-123-4567",
+          label: "504 contact phone number",
+          name: "phone",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: 202-123-4567",
         }
       - {
-        label: "General phone number",
-        name: "phone-g",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: 800-555-1212",
+          label: "General phone number",
+          name: "phone-g",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: 800-555-1212",
         }
       - {
-        label: "TTY",
-        name: "tty",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: 123-456-7890",
+          label: "TTY",
+          name: "tty",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: 123-456-7890",
         }
       - {
-        label: "Fax",
-        name: "fax",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: 111-222-3333",
+          label: "Fax",
+          name: "fax",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: 111-222-3333",
         }
       - {
-        label: "General Email address",
-        name: "email-g",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: contact@agency.gov",
+          label: "General Email address",
+          name: "email-g",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: contact@agency.gov",
         }
       - {
-        label: "Web page with 504 specific information",
-        name: "website",
-        widget: "string",
-        default: "",
-        required: false,
-        hint: "Example: https://www.agency.gov/504.html",
+          label: "Web page with 504 specific information",
+          name: "website",
+          widget: "string",
+          default: "",
+          required: false,
+          hint: "Example: https://www.agency.gov/504.html",
         }
       - {
-        label: "Mailing address",
-        name: "address",
-        widget: "text",
-        default: "",
-        required: false,
+          label: "Mailing address",
+          name: "address",
+          widget: "text",
+          default: "",
+          required: false,
         }
       - {
-        label: "Notes",
-        name: "notes",
-        widget: "text",
-        default: "",
-        required: false,
+          label: "Notes",
+          name: "notes",
+          widget: "text",
+          default: "",
+          required: false,
         }
   - label: Tags
     name: tags

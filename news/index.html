@@ -12,37 +12,39 @@ pagination:
   <div class="grid-row">
     <div class="desktop:grid-col-12 usa-prose">
       <!-- This loops through the paginated posts -->
-       {% for post in paginator.posts %}
-       <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-         <h3 class="title">
-           <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-         </h3>
+      {% for post in paginator.posts %}
+      <div
+        class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest"
+      >
+        <h3 class="title">
+          <a
+            class="usa-link text-no-underline"
+            href="{{ site.baseurl }}{{ post.url }}"
+            >{{post.title}}</a
+          >
+        </h3>
         <div class="margin-bottom-2">
           <div class="text-bold margin-top-neg-105">
-          {% comment %}  By
-            {% for author in post.authors %}
-              {% include staff.html staff=author %}
-            {% endfor %}
-            · {% endcomment %}
-             {{ post.date | date: '%B %d, %Y' }}
+            {% comment %} By {% for author in post.authors %} {% include
+            staff.html staff=author %} {% endfor %} · {% endcomment %} {{
+            post.date | date: '%B %d, %Y' }}
           </div>
         </div>
         <div class="clearfix">
           {% if post.image %}
-          <img src="{{ site.baseurl }}{{ post.image }}"
-          class="img-right maxw-card-lg maxh-card-lg" alt="{{ post.image_alt_text }}">
-          {% endif %}
-          {% if post.excerpt %}
-          {{ post.excerpt }}
-              {% comment %} We default to using post.excerpt, but
-              you can also use post.content. If you use excerpt then you have to
-              make sure the content is on each post header {% endcomment %}
-          {% endif %}
+          <img
+            src="{{ site.baseurl }}{{ post.image }}"
+            class="img-right maxw-card-lg maxh-card-lg {% if post.image_border == true %} accessibility-border {% endif %}"
+            alt="{{ post.image_alt_text }}"
+          />
+          {% endif %} {% if post.excerpt %} {{ post.excerpt }} {% comment %} We
+          default to using post.excerpt, but you can also use post.content. If
+          you use excerpt then you have to make sure the content is on each post
+          header {% endcomment %} {% endif %}
         </div>
       </div>
-      {% endfor %}
-      {% include back-to-top.html %}
-      {% include links-pagination.html %}
+      {% endfor %} {% include back-to-top.html %} {% include
+      links-pagination.html %}
     </div>
   </div>
 </div>
