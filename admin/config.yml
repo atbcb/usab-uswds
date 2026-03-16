@@ -63,7 +63,7 @@ collections:
         }
       - {
           label: "Add border to image?",
-          name: "image-border",
+          name: "image_border",
           widget: "boolean",
           default: true,
           hint: "Applies a black border for accessibility.",
