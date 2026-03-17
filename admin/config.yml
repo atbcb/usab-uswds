@@ -1,4 +1,3 @@
-## Comment out when doing local development
 backend:
   name: github
   repo: atbcb/usab-uswds
@@ -10,17 +9,11 @@ backend:
   use_graphql: false
 
 ##
-## Uncomment when doing local development on Netlify CMS
-## Run `npx netlify-cms-proxy-server` to start working locally
-## In another terminal, start the app with `npm start`
-## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
-##
-
-# backend:
-#   name: git-gateway
-# local_backend: true
-
-##
+## Local development on Sveltia CMS:
+## 1. Start your local environment in the terminal with `npm start`
+## 2. Open your local site's /admin page in Google Chrome or Microsoft Edge
+## 3. On the login screen, click "Work with Local Repository" and select your local project folder
+## (No proxy server or local_backend configuration is needed for Sveltia!)
 ##
 
 media_folder: /images/uploads
@@ -63,7 +56,7 @@ collections:
         }
       - {
           label: "Add border to image?",
-          name: "image-border",
+          name: "image_border",
           widget: "boolean",
           default: true,
           hint: "Applies a black border for accessibility.",
