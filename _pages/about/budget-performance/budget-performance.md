@@ -10,7 +10,7 @@ permalink: /about/budget-performance/
 
 * [Strategic Plan FY 2022 - 2026]({{ site.baseurl }}/about/strategic-plan-fy2022.html)
 * [Performance and Accountability Report]({{ site.baseurl }}/about/par.html)
-* [Budget Justification (PDF)]({{ site.baseurl }}/files/usab-cbj-fy2027.pdf){:target="_blank"}
+* [Budget Justification & Agency Performance Plan]({{ site.baseurl }}/about/cj2027.html)
 * [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html)
 * [No FEAR Act Data]({{ site.baseurl }}/about/no-fear-data.html)
 * [Federal Employee Viewpoint Survey (FEVS)]({{ site.baseurl }}/about/fevs.html)
