@@ -5,7 +5,7 @@ backend:
   site_domain: pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
-  branch: beta
+  branch: content-drafts #this is the branch where updates will be made using Sveltia
   use_graphql: false
 
 ##
