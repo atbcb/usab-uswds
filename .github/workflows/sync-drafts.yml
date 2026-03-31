@@ -1,0 +1,46 @@
+name: Sync Beta to Content Drafts
+
+# ---------------------------------------------------------
+# 1. THE TRIGGER
+# Tells GitHub to run this script ONLY when new code
+# is pushed or successfully merged into the 'beta' branch.
+# ---------------------------------------------------------
+on:
+  push:
+    branches:
+      - beta
+
+# ---------------------------------------------------------
+# 2. THE PERMISSIONS
+# Explicitly grants the robot permission to push code
+# back into the repository.
+# ---------------------------------------------------------
+permissions:
+  contents: write
+
+# ---------------------------------------------------------
+# 3. THE EXECUTION
+# The step-by-step instructions the robot will follow.
+# ---------------------------------------------------------
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+    steps:
+      # Step A: Download the repository to the virtual server
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Downloads all branches and history so Git can merge
+
+      # Step B: Put on the robot nametag
+      - name: Configure Git Robot Identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step C: Execute the actual terminal commands
+      - name: Merge Beta into Content Drafts and Push
+        run: |
+          git checkout content-drafts
+          git merge origin/beta --no-edit
+          git push origin content-drafts
