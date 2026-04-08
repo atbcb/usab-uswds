@@ -22,5 +22,8 @@
     "uswds": "^2.14.0",
     "video.js": "^7.10.2",
     "videojs-youtube": "^2.6.1"
+  },
+  "overrides": {
+    "@xmldom/xmldom": ">=0.8.12"
   }
 }
