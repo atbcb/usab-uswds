@@ -293,8 +293,8 @@
 | :---                                          | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Total complaints from previous Fiscal Years   |    0    |    0    |    0    |    0    |    0    |
 | Total Complainants                            |    0    |    0    |    0    |    0    |    0    |
-| Number Complainants Pending                   |    1    |    0    |    0    |    0    |    0    |
-| Investigation                                 |    1    |    0    |    0    |    0    |    0    |
+| Number Complainants Pending                   |    0    |    0    |    0    |    0    |    0    |
+| Investigation                                 |    0    |    0    |    0    |    0    |    0    |
 | Hearing                                       |    0    |    0    |    0    |    0    |    0    |
 | Final Agency Action                           |    0    |    0    |    0    |    0    |    0    |
 | Appeal with EEOC Office of Federal Operations |    0    |    0    |    0    |    0    |    0    |
@@ -304,5 +304,5 @@
 
 | &nbsp;                                                              | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
 | :---                                                                | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Pending Completion Where Investigation Exceeds Required Time Frames |    1    |    0    |    0    |    0    |    0    |
+| Pending Completion Where Investigation Exceeds Required Time Frames |    0    |    0    |    0    |    0    |    0    |
 {: .usa-table }
