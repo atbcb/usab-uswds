@@ -21,14 +21,7 @@ webinar: true
 ---
 How does Customer Experience (CX) improve accessibility? How can agencies effectively support the needs of their customers? Nicshan Floyd, Deputy Director for Customer Experience at DHS and his team will discuss the importance of building human-centric products and services through customer experience best practices and accessibility guidelines. They will walk through key steps for design, cover the benefits of Customer Experience (CX) and talk about how to build accessible products. Sign Language and Real Time Captioning will be available. Questions for the presenter can be submitted during the registration process.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Nicshan Floyd](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11074&ret=Enhancing%20Accessibility%20Through%20Customer%20Experience), Deputy Executive Director, **Customer Experience Directorate, Department of Homeland Security**
 

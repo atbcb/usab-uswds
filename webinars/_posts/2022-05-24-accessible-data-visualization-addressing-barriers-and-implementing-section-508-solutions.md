@@ -31,14 +31,7 @@ webinar: true
 
 In the Digital Age, data visualizations have become more commonly developed to represent large data sets through graphics, charts, and other visuals. Federal agencies have used them to show patterns, trends, and outliers of data to inform members of the public, policy makers, and first-responders. This session will introduce the concept, development, tools, and benefits of data visualizations, including making them accessible. Presenters from the U.S. Department of Education, the Center for Disease Control, and the U.S. Census will discuss how their respective agencies use data visualizations to meet their missions. Presenters will also review some barriers, solutions, and implications to making accessible data visualizations. This session is intended for entry-level to intermediate audiences, but all are welcome to join. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Tamara Perry, JD, PhD](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10930&ret=Accessible%20Data%20Visualization:%20Addressing%20Barriers%20and%20Implementing%20Section%20508%20Solutions), Attorney, National Digital Access Team, **Office for Civil Rights, U.S. Department of Education**
 

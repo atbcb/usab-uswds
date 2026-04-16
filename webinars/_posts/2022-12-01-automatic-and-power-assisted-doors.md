@@ -29,23 +29,11 @@ webinar: true
 
 Entrances and doors are key components of access along routes and to buildings, rooms, and spaces. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Standards require automatic and power-assisted doors to comply with the standards when provided on accessible routes. The ADA and ABA Standards reference industry standards developed under protocols of the American National Standards Institute (ANSI) and published by the Builders Hardware Manufacturers Association (BHMA). This session will cover the scoping and technical requirements in the ADA and ABA Standards for entrances and doors when they are automatic or power-assisted. Presenters will review in detail the specifications in the ANSI/BHMA referenced standards that address operating characteristics, including opening speed, safety features, sensors and activation devices, labeling, among others. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**
 
 [John Cringole](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10958&ret=Automatic%20and%20Power-Assisted%20Doors) (retired), Horton Automatics
-
 
 [Jeff E. Dunham](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10959&ret=Automatic%20and%20Power-Assisted%20Doors), Manager Codes and Standards, **BEA Americas
 **

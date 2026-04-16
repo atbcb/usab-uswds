@@ -33,21 +33,11 @@ webinar: true
 
 This session is the first in a two-part review of the revised Section 508 Standards that apply to information and communication technology developed, procured, maintained, or used by federal agencies. Part I covers requirements in standards that apply to a federal agency’s public-facing content, including websites, publications, and social media sites. It will also address requirements for other types of electronic content, such as policy announcements, notices of benefits, templates or forms, educational or training materials, and intranets. Presenters from the U.S. Access Board will discuss relevant application, scoping, and technical provisions, as well as definitions and functional performance criteria. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can receive a participation certificate.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192), Accessibility Specialist/Information Technology Specialist, **U.S. Access Board**
 
-
-
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120), Senior Accessibility Specialist/Information Technology, **U.S. Access Board**
-
-
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512), Senior ICT Accessibility Specialist, **U.S. Access Board**
 

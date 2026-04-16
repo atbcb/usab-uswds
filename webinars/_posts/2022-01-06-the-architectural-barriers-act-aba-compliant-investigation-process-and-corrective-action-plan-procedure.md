@@ -35,18 +35,7 @@ webinar: true
 
 Have you encountered an inaccessible entrance or other barrier to access when visiting a local post office, federal office building, or national park? These and many other federal facilities are covered under the Architectural Barriers Act (ABA) of 1968, the first federal law to require facilities to be accessible to people with disabilities. The Access Board was created almost 50 years ago to enforce the ABA through the investigation of complaints. This webinar will feature the Access Board’s Senior Compliance Officer who will discuss the ABA complaint investigation process and corrective action plan procedure to address the barriers. Session attendees will also learn about the most common barriers to accessibility in complaints received under the ABA. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Mario Damiani](https://www.accessibilityonline.org/ao/speakers/10674/?ret=speakers), Senior Compliance Specialist, **U.S. Access Board**
 

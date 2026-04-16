@@ -34,12 +34,6 @@ NOTE CHANGE OF DATE: Session has been rescheduled to September 28, 2022 in obser
 
 Accessibility programs are essential to ensuring federal agencies are inclusive of employees with disabilities, especially within digital work environments. While there is no universal method for developing effective accessibility programs, some strategies and practices are more successful than others. In the creation of digital documents, agencies frequently produce large volumes through the collaboration of many authors across federal departments, offices, and units. This session will discuss some common features, work processes, and evaluation and implementation actions of successful document accessibility programs. Presenters from Internal Revenue Service (IRS) and Social Security Administration (SSA) will review the importance of scoping and protocols in work-plans, the methods to maximize the effects of centralized document services, the effectiveness of partnering with internal groups that produce large volumes of documents, and the approaches to maximize training efforts by targeted recruitment. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [Pierce Crowell](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10691&ret=Building%20a%20Successful%20Document%20Accessibility%20Program:%20Strategies,%20Methods,%20and%20Workplans%20for%20Inclusive%20Programs), 508 Program Manager, **Social Security Administration (SSA)**

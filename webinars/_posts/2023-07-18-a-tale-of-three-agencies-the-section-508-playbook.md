@@ -34,16 +34,8 @@ Participants may submit questions in advance of the webinar during the registrat
 Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
 
-
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
-
 ### Speakers
+
 [Brooke Aiken](https://www.accessibilityonline.org/cioc-508/speakers/10711/?ret=speakers), Section 508 Program Manager, Policy Audit Compliance & Risk Section (PACRS), Chief Information Officer Organization, **Federal Deposit Insurance Corporation**
 
 [Pierce Crowell (Invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10997&ret=A%20Tale%20of%20Two%20Agencies:%20The%20Section%20508%20Playbook), Section 508 Program Manager, Office of Systems, **Social Security Administration (SSA)**

@@ -25,26 +25,15 @@ webinar: true
 ---
 ### Description
 
-This webinar will address and clarify requirements for bathing facilities in the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards for transfer showers, roll-in showers, and bathtubs in transient lodging/hotels, residential dwelling units, and other locations, which ensure those with disabilities have the option to clean themselves unassisted. Presenters will review the accessibility requirements for different types of accessible bathing fixtures and their associated components, including shower and tub seats, grab bars, shower spray units and controls, and required clearances. 
- 
+This webinar will address and clarify requirements for bathing facilities in the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards for transfer showers, roll-in showers, and bathtubs in transient lodging/hotels, residential dwelling units, and other locations, which ensure those with disabilities have the option to clean themselves unassisted. Presenters will review the accessibility requirements for different types of accessible bathing fixtures and their associated components, including shower and tub seats, grab bars, shower spray units and controls, and required clearances.
+
 Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
-
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| L﻿A CES                      | 1.5              |
 
 ### Speakers
 
-**[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessible%20Signage)**, Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
+[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessible%20Signage), Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
 
-**[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Accessible%20Bathing%20Rooms)**, Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
+[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Accessible%20Bathing%20Rooms), Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
 
 ### Session Questions
 

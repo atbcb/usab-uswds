@@ -32,21 +32,11 @@ The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) A
 
 Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-
 ### Speakers
 
-**[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805)**, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805), Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
-**[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion)**, TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
+[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion), TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
 ### Session Questions
 

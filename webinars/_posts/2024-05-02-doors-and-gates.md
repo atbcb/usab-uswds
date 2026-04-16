@@ -28,18 +28,7 @@ webinar: true
 ---
 Doors and gates are a significant aspect of almost all accessible routes within a site connecting buildings, rooms, and spaces. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards address the many components to make a door accessible, including opening force, hardware, and maneuvering clearances. Access Board Accessibility Specialists will review the requirements for manual, automatic, and power-assisted doors, doorways, and gates as part of an accessible route. Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| L﻿A CES                     | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Doors%20and%20Gates), Accessibility Specialist, **US Access Board**
 

@@ -28,17 +28,6 @@ webinar: true
 ---
 This session will cover requirements in the ADA and ABA Accessibility Standards for medical care and long-term care facilities, including hospitals, rehabilitation centers, nursing homes, and other facilities. The presenters will review scoping and technical requirements for exam rooms, patient bedrooms, bathrooms, accessible routes, accessible parking, and other spaces and elements. They will also provide a brief overview on the Board’s voluntary Medical Diagnostic Equipment Standards.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**

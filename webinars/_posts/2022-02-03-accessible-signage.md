@@ -35,16 +35,6 @@ webinar: true
 
 What type of signs are covered by the ADA and ABA Standards? Which ones must be tactile? Are signs required where none are planned? These are just some of the questions that frequently come up when addressing access to signs under the ADA and ABA. The Access Board will soon issue a new technical bulletin on signs that clarifies scoping and technical requirements in the ADA and ABA Accessibility Standards for signs, answers common questions, and provides best practice recommendations. This session will review the new bulletin and requirements for tactile signs, directional and information signs, required accessibility symbols, and pictograms. Presenters will also explain ways to meet various provisions and common sources of confusion about accessible signage. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-
 ### Speakers
 
 [Phil Bratta](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10891), Technical Writer, **U.S. Access Board**

@@ -28,20 +28,13 @@ webinar: true
 ---
 Procurement and accessibility go together like peanut butter and jelly. Procurement is a fancy way of saying “personal shopper.” It may seem like a daunting process but with the right tools and attitude, it can be a fun experience. This webinar will provide an informative and consumable discussion on the acquisition lifecycle. In addition, there will be a particular emphasis on how accessibility fits into the lifecycle, stakeholder roles and responsibilities, and useful tools. Finally, the presenters will guide attendees through the process using a “real life scenario”, providing a foundation that can be applied to any information and communication technology (ICT) buy. Target audience is anyone involved and/or interested in accessibility, procurement, or both (i.e. everyone). Questions can be submitted in advance of the session or can be posed during the live webinar. The session will have captioning and video Sign Language Interpreter available. Questions for the speakers can be submitted in advance once you have registered for the session.
 
-### Continuing Education Recognition Available
+### Speakers
 
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
+[Robert Jolly](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11045&ret=Demystifying%20the%20Procurement%20Process), Product Manager and Accessibility Advocate, 10x Delivery Team, Technology Transformation Services, **General Services Administration (GSA)**
 
-### Speakers:
+[Justen Proctor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11044&ret=Demystifying%20the%20Procurement%20Process), Sr. Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
 
-**[Robert Jolly](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11045&ret=Demystifying%20the%20Procurement%20Process)**, Product Manager and Accessibility Advocate, 10x Delivery Team, Technology Transformation Services, **General Services Administration (GSA)**
-
-**[Justen Proctor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11044&ret=Demystifying%20the%20Procurement%20Process)**, Sr. Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
-
-**Danielle Wolz**, Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
+Danielle Wolz, Contracting Officer, Acquisition Division, Technology Transformation Services, **General Services Administration (GSA)**
 
 ### Privacy Statement
 

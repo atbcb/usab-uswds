@@ -52,21 +52,11 @@ There will also be discussion of the current WCAG3 draft under development, incl
 
 The presenters will address pre-submitted questions during the main presentation, and live questions as time permits. They are particularly interested in participant feedback on the WCAG3 approach and whether it addresses improvements desired by federal agencies.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192), Accessibility Specialist/Information Technology Specialist, **US Access Board**
 
-
-
 [Jeanne Spellman](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10884), Founder and Developer, **Spellman Consulting, LLC**
-
-
 
 ### Session Questions
 

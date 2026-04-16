@@ -44,13 +44,6 @@ This session is intended for entry-level to intermediate audiences, but all are 
 
 Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided. 
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120&ret=Returning%20to%20the%20Office%20%E2%80%93%20Accessible%20Hybrid%20meetings), Senior Accessibility Specialist,  Office of Technical and Information Services, **U.S. Access Board**

@@ -17,14 +17,7 @@ NOTICE: This webinar has been postponed. An announcement will be made as soon as
 
 Original description: Learn how you can design your own accessibility vendor monitoring program from the group up and the most effective ways to work with vendors to create the best digital experience possible. This session will go over everything from getting support from internal stakeholders to navigating discussions with vendors about digital accessibility. Human Generated Captioning and Sign Language Interpreters available. Individuals may submit questions in advance during the registration process. Questions will also be taken during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Chet J. Firth](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11004&ret=Mastering%20Acquisition:%20Training%20Agency%20Contracting%20Teams%20on%20508%20Compliance%20and%20Governance%20Enforcement), Senior Advisor, Section 508 Program Compliance, Risk and Remediation (CRR), **Office of Information and Technology (OIT), Department of Veterans Affairs**
 

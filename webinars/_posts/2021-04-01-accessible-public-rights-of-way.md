@@ -30,15 +30,6 @@ webinar: true
 ---
 Ensuring access to public streets and sidewalks can be a challenge since new guidelines for accessible public rights-of-way have not yet been finalized under the ADA. This webinar will review available resources in the interim, namely the guidelines that the Access Board previously proposed for public rights-of-way and shared use paths. Presenters will discuss common issues and solutions, as well as review proposed requirements for sidewalks and street crossings, curb ramps and blended transitions, detectable warnings, pedestrian signals, on-street parking, street furniture, transit stops, and other components of public rights-of-way and shared use paths. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| AIA HSW CES               | 1.5              |
-| Certificate of Attendance | 1.5              |
-| LA CES                    | 1.5              |
-
 ### Speakers
 
 [Juliet Shoultz](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10627&ret=Accessible%20Golf%20and%20Miniature%20Golf%20Facilities), Transportation Engineer, **Office of Technical and Information Services**

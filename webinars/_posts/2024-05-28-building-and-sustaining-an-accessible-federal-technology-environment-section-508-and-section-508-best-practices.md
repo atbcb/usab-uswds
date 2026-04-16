@@ -34,18 +34,11 @@ On December 21, 2023, the Office of Management and Budget (OMB) released “M-24
 
 The target audience is any federal agency employees involved in accessibility, including but not limited to those who ensure that agency ICT meets the technical standards set by the Access Board and deliver digital experiences and environments in which all people, regardless of ability, are able to navigate, understand, and engage with government digital services. Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
+### Speakers
 
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
+[Justin Grimes](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11057), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
 
-### Speakers:
-
-[**Justin Grimes**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11057), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
-
-[**Cassie Winters**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11056), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
+[Cassie Winters](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11056), Officer, Office of the Federal Chief Information, **Office of Management and Budget, Executive Office of the President**
 
 ### Privacy Statement
 
