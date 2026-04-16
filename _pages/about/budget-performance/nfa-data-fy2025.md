@@ -4,8 +4,8 @@
 
 | &nbsp;                     | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
 | :---                       | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Number of Complaints Filed |    0    |    0    |    1    |    1    |    0    |
-| Number of Complainants     |    0    |    0    |    1    |    1    |    0    |
+| Number of Complaints Filed |    0    |    1    |    1    |    0    |    0    |
+| Number of Complainants     |    0    |    1    |    1    |    0    |    0    |
 | Repeat Filers              |    0    |    0    |    0    |    0    |    0    |
 {: .usa-table }
 
@@ -13,15 +13,15 @@
 
 | &nbsp;              | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
 | :---                | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Race                |   0     |   0     |    0    |    1    |    0    |
-| Color               |   0     |   0     |    0    |    1    |    0    |
+| Race                |   0     |   0     |    1    |    0    |    0    |
+| Color               |   0     |   0     |    1    |    0    |    0    |
 | Religion            |   0     |   0     |    0    |    0    |    0    |
-| Reprisal            |   0     |   0     |    0    |    1    |    0    |
+| Reprisal            |   0     |   0     |    1    |    0    |    0    |
 | Sex                 |   0     |   0     |    0    |    0    |    0    |
 | National Origin     |   0     |   0     |    0    |    0    |    0    |
 | Equal Pay Act       |   0     |   0     |    0    |    0    |    0    |
 | Age                 |   0     |   0     |    0    |    0    |    0    |
-| Disability          |   0     |   0     |    1    |    1    |    0    |
+| Disability          |   0     |   1     |    1    |    0    |    0    |
 | Genetic Information |   0     |   0     |    0    |    0    |    0    |
 | Non-EEO Basis       |   0     |   0     |    0    |    0    |    0    |
 {: .usa-table }
@@ -31,8 +31,8 @@
 | &nbsp;                    | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
 | :---                      | ---:    | ---:    | ---:    | ---:    | ---:    |
 | Appointment / Hire        |   0     |    0    |    0    |    0    |    0    |
-| Assignment of Duties      |   0     |    0    |    0    |    1    |    0    |
-| Awards                    |   0     |    0    |    0    |    1    |    0    |
+| Assignment of Duties      |   0     |    0    |    1    |    0    |    0    |
+| Awards                    |   0     |    0    |    1    |    0    |    0    |
 | Conversion to Full-Time   |   0     |    0    |    0    |    0    |    0    |
 | Disciplinary Action       |   0     |    0    |    0    |    0    |    0    |
 | Demotion                  |   0     |    0    |    0    |    0    |    0    |
@@ -41,16 +41,16 @@
 | Suspension                |   0     |    0    |    0    |    0    |    0    |
 | Other                     |   0     |    0    |    0    |    0    |    0    |
 | Duty Hours                |   0     |    0    |    0    |    0    |    0    |
-| Evaluation Appraisal      |   0     |    0    |    0    |    1    |    0    |
+| Evaluation Appraisal      |   0     |    0    |    1    |    0    |    0    |
 | Examination / Test        |   0     |    0    |    0    |    0    |    0    |
-| Harassment (Non-Sexual)   |   0     |    0    |    0    |    0    |    0    |
+| Harassment (Non-Sexual)   |   0     |    0    |    1    |    0    |    0    |
 | Harassment (Sexual)       |   0     |    0    |    0    |    0    |    0    |
 | Medical Examination       |   0     |    0    |    0    |    0    |    0    |
 | Pay (Including Overtime)  |   0     |    0    |    0    |    0    |    0    |
 | Promotion / Non-Selection |   0     |    0    |    0    |    0    |    0    |
 | Reassignment (Denied)     |   0     |    0    |    0    |    0    |    0    |
 | Reassignment (Directed)   |   0     |    0    |    0    |    0    |    0    |
-| Reasonable Accommodation  |   0     |    0    |    1    |    1    |    0    |
+| Reasonable Accommodation  |   0     |    1    |    1    |    0    |    0    |
 | Reinstatement             |   0     |    0    |    0    |    0    |    0    |
 | Retirement                |   0     |    0    |    0    |    0    |    0    |
 | Termination               |   0     |    0    |    0    |    0    |    0    |
@@ -64,12 +64,12 @@
 
 | &nbsp;                                                                                                 | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
 | :---                                                                                                   | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Complaints Pending _(for any length of time)_ During Fiscal Year                                       |    0    |    0    |    1    |    1    |    0    |
-| Average Number of Days in Investigation Stage                                                          |    0    |    0    |  116    |  337    |    0    |
+| Complaints Pending _(for any length of time)_ During Fiscal Year                                       |    0    |    1    |    1    |    0    |    0    |
+| Average Number of Days in Investigation Stage                                                          |    0    |    116    |  337    |  0    |    0    |
 | Complaints pending _(for any length of time)_ during fiscal year where **hearing was requested**       |    0    |    0    |    0    |    0    |    0    |
 | Average number of days in final action stage                                                           |    0    |    0    |    0    |    0    |    0    |
-| Complaints pending _(for any length of time)_ during fiscal year where **hearing was _not_ requested** |    0    |    0    |    1    |    0    |    0    |
-| Average number of days in final action stage                                                           |    0    |    0    |   46    |    0    |    0    |
+| Complaints pending _(for any length of time)_ during fiscal year where **hearing was _not_ requested** |    0    |    1    |    0    |    0    |    0    |
+| Average number of days in final action stage                                                           |    0    |    46    |   0    |    0    |    0    |
 {: .usa-table }
 
 ### V. Complaints Dismissed by Agency (FY 2021 to FY 2025)
@@ -80,11 +80,11 @@
 | Average days pending prior to dismissal |   0     |   0     |   0     |   0     |   0     |
 {: .usa-table }
 
-### VI.Complaints Withdrawn by Complainants (FY 2021 to FY 2025)
+### VI. Complaints Withdrawn by Complainants (FY 2021 to FY 2025)
 
 | &nbsp;                                     | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
 | :---                                       | ---:    | ---:    | ---:    | ---:    | ---:    |
-| Total complaints withdrawn by Complainants |    0    |    0    |   1     |    1    |   0     |
+| Total complaints withdrawn by Complainants |    0    |    1    |   1     |    0    |   0     |
 {: .usa-table }
 
 ### VII. Total Final Actions Finding Discrimination (FY 2021 to FY 2025)
