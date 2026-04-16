@@ -32,15 +32,7 @@ webinar: true
 
 Technical questions can arise in applying the Section 508 Standards to the various types of information and communication technologies (ICT) that they cover in the federal sector. In this webinar, Section 508 Specialists at the U.S. Access Board and the General Services Administration (GSA) will provide answers to common questions about the 508 Standards. They will address use of the 508 Standards in ICT acquisitions, validating conformance with the standards, available Section 508 tools and resources, the 2021 revision of the Federal Acquisition Regulation, development of an ICT Testing Baseline portfolio, and other topics. This session is intended for entry-level to intermediate audiences, but all are welcome to join. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar.
 
-
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120), Senior Accessibility Specialist, **U.S. Access Board**
 

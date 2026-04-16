@@ -28,17 +28,6 @@ webinar: true
 ---
 Access to buildings begins with an accessible route and ground surfaces to ensure people who use mobility devices and canes can move from site arrival, frequently outdoors, to the entrance. This session will address the requirements for exterior routes and surfaces to ensure everyone has access within all spaces on a site. Access Board Accessibility Specialists will review the differences between accessible routes for building sites, outdoor recreation areas, trails, and beaches. Additionally, the presenters will share information on the concepts of stable, firm, and slip resistant surfaces in the outdoor environment. Playground surfaces will also be covered. Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Exterior%20Routes%20&%20Surfaces "Josh  Schorr"), U.S. Access Board, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services

@@ -34,17 +34,6 @@ webinar: true
 Splish splash! People with disabilities use swimming pools and spas for rehabilitation, exercise, rest, and relaxation. This session will review provisions in the ADA and ABA Accessibility Standards that address independent access to swimming pools and spas. U.S. Access Board staff will review application of the requirements to pools and spas, as well as the technical requirements for pool lifts, sloped entries, transfer steps, transfer walls, and accessible stairs. Additionally, they will address aquatic recreation facilities, such as lazy rivers, wave action pools, and water play components. Presenters will also clarify common sources of confusion about accessible swimming pools and spas. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**

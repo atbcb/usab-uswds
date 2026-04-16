@@ -27,17 +27,6 @@ webinar: true
 
 Historic buildings and facilities provide rich histories to learn about the past and help give a sense of place to people, including those with disabilities. This webinar session will provide an overview of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) accessibility requirements for historic buildings and facilities. The presenters will review ADA and ABA technical requirements and exemptions, best design practices, and recommendations for making historic sites and facilities accessible. Additionally, National Park Service staff will discuss agency approaches to providing facility and programmatic accessibility to a range historic buildings and facilities. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Ray Bloomer](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10952&ret=Accessing%20the%20Past:%20Accessibility%20in%20Historic%20Buildings%20and%20Facilities), Accessibility Specialist , **WASO, Accessibility Support Program, National Park Service**

@@ -31,18 +31,7 @@ webinar: true
 ---
 Accessible bus and van transportation requires that the vehicles and the infrastructure around transportation be accessible. This webinar will cover many aspects of ADA compliance for bus and van transportation. Presenters will provide insight and a comprehensive look at the updated ADA accessibility guidelines for buses and vans. Also, presenters will cover the technical requirements for accessible transportation facilities as addressed in the ADA Standards. With many transportation facilities in the public right-of-way, presenters will also go over the requirements for accessible transit stops and transit shelters as promulgated in the public right-of-way accessibility guidelines (PROWAG). Sign Language Interpreters available as well as human generated Real-Time Captioning. Individuals may submit questions for the presenters during the registration process as well as during the Q&A portion of the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Accessible%20Bus%20and%20Van%20Transportation), Accessibility Specialist, **U.S. Access Board**
 

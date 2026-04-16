@@ -45,13 +45,6 @@ Once agencies submitted their responses, GSA, OSTP, OMB and USAB analyzed and co
 
 Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120&ret=Highlights%20from%20the%20new%20Government-wide%20Section%20508%20Assessment), Senior Accessibility Specialist, **U.S. Access Board**

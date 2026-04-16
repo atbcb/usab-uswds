@@ -31,13 +31,6 @@ webinar: true
 
 Everyone needs access to digital information provided by the World Wide Web. However, many websites have subtle barriers that prevent people with disabilities from using content. Fortunately, accessibility is not difficult to implement, and most accessibility features do not require significant changes to the visual presentation. This session will review what web accessibility is, how people with disabilities use the web, how to quickly identify accessibility barriers, and what are some simple solutions. Access Board IT Specialist Bruce Bailey will also clarify common sources of confusion about web accessibility and provide key resources for learning more about website accessibility. Questions can be submitted in advance of the session or can be posed during the live webinar. This webinar will include video remote interpreting (VRI) and real-time captioning. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate** | **Credit hours** |
-| --------------- | ---------------- |
-| ACTCP           | 1.5              |
-| Certificate of Attendance          | 1.5
-
 ### Speakers
 
 [Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192&ret=An%20Introduction%20to%20Website%20Accessibility), IT Specialist, **U.S. Access Board**

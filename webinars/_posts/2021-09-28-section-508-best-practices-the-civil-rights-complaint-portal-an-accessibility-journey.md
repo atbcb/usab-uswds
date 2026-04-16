@@ -33,14 +33,8 @@ In this webinar, project team members from DOJ and 18F will review their collabo
 
 The presenters will address pre-submitted questions as well as respond to participants questions during the live webinar.
 
-### Continuing Education Recognition Available
+### Speakers
 
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP | 1.5              |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
 [Jacklynn Pham](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10887), User Researcher/Designer, **Previously with 18F, GSA**
 
 [Terri Youngblood](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10889), President and owner, Accessible Systems, Inc., **508 SME USDOJ**

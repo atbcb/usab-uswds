@@ -33,23 +33,13 @@ webinar: true
 ---
 ### Description
 
-The holidays may have passed, but shopping and eating out in the new year continue for many people, including those with disabilities. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards require retail spaces and restaurants to be accessible, from the accessible route at a site arrival point to public entrances to interior spaces of establishments. This webinar session will provide an overview of the ADA and ABA accessibility requirements for parking, entrances, queues and waiting lines, food service lines, dressing and fitting rooms, fixed dining surfaces, including bar seating, sales and service counters, and checkout aisles at retail spaces and restaurants. Additionally, Access Board Accessibility Specialists will address frequently asked questions about these spaces and their elements. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits. 
-
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
+The holidays may have passed, but shopping and eating out in the new year continue for many people, including those with disabilities. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards require retail spaces and restaurants to be accessible, from the accessible route at a site arrival point to public entrances to interior spaces of establishments. This webinar session will provide an overview of the ADA and ABA accessibility requirements for parking, entrances, queues and waiting lines, food service lines, dressing and fitting rooms, fixed dining surfaces, including bar seating, sales and service counters, and checkout aisles at retail spaces and restaurants. Additionally, Access Board Accessibility Specialists will address frequently asked questions about these spaces and their elements. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
 ### Speakers
 
-**[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Accessible%20Signage)**, Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
+[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Accessible%20Signage), Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
-**[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion)**, TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
+[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion), TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
 ### Session Questions
 

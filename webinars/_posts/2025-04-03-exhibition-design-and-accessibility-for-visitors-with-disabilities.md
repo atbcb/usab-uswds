@@ -22,15 +22,7 @@ webinar: true
 ---
 Understanding and applying accessible design standards to provide access to museums and their exhibits can be challenging. When making design decisions, requirements for usability and effective communication are intricately tied to the process and may in turn influence the approach taken to produce good design and ensure accessibility. Using examples, the intricate relationship among effective communication, modifications of practices and procedures, and the built environment will be explored in this webinar. Human generated real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | AIA CES                     | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Michelle Cook](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10547&ret=Exhibition%20Design%20and%20Accessibility%20for%20Visitors%20with%20Disabilities), Inclusive Design Specialist, **Smithsonian Institution**
 

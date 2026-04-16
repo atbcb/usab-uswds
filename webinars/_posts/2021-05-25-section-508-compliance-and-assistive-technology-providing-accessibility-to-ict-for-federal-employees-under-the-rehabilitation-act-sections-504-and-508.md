@@ -31,26 +31,16 @@ webinar: true
 ---
 ### Description
 
-This webinar will address how Section 504 and Section 508 of the Rehabilitation Act work together to provide access to information and communication technology (ICT) for federal employees with disabilities. Section 504 requires federal agencies to provide persons with disabilities an equal opportunity to participate in their programs and benefit from their services through the provision of reasonable accommodations, including assistive technology. Section 508 requires federal agencies to ensure that persons with disabilities (both employees and members of the public) have comparable access to and use of ICT. 
+This webinar will address how Section 504 and Section 508 of the Rehabilitation Act work together to provide access to information and communication technology (ICT) for federal employees with disabilities. Section 504 requires federal agencies to provide persons with disabilities an equal opportunity to participate in their programs and benefit from their services through the provision of reasonable accommodations, including assistive technology. Section 508 requires federal agencies to ensure that persons with disabilities (both employees and members of the public) have comparable access to and use of ICT.
 
 
 Assistive Technology experts from the U.S. Department of Agriculture’s TARGET Center and the General Services Administration’s Center for Information Technology Access (CITA) as well as an accessibility expert from the Federal Deposit Insurance Corporation will define and review real-life examples of the concepts of accessibility, assistive technology, and (reasonable) accommodations to demonstrate how these concepts interrelate in providing access in the federal workplace. They will also discuss barriers to information access and possible solutions to overcoming them. They will address both the pre-submitted and the live session questions.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Brooke Aiken](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10711), FDIC Section 508 Program Manager, Division of Information Technology, **Federal Deposit Insurance Corporation (FDIC)**
 
-
-
 [Alexander Koudry](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10513), Program Manager, Center for Information Technology Access (CITA), **General Services Administration (GSA)**
-
-
 
 [Paul Lloyd](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10869), Education Program Manager, USDA TARGET Center, **Department of Agriculture**
 

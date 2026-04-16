@@ -31,17 +31,7 @@ webinar: true
 
 Certain provisions in the ADA and ABA Accessibility Standards are prone to misinterpretation and generate many of the technical assistance inquiries the Access Board receives. This webinar will review and clarify common sources of confusion in the standards, including application of the standards in new construction and alterations, work and dining surfaces, toilet rooms, signs, accessible routes and ground surfaces, and other areas and elements. Session participants are encouraged to share their own areas of confusion and submit questions in advance of the session. This webinar will include video remote interpreting (VRI) and real-time captioning. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10008), Training and Technical Assistance Coordinator, Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 

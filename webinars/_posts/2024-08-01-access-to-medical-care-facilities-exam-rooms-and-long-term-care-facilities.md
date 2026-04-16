@@ -31,18 +31,7 @@ webinar: true
 ---
 Access to health facilities and equipment is a basic need. Whether it is a routine visit to the dentist, a problem appointment with the primary care physician or assistance with activities of daily living in a long-term care facility. Accessible medical facilities and equipment allow everyone, including people with disabilities, to actively participate in and manage their health. This presentation will address the Americans with Disabilities Act Accessibility Guidelines (ADAAG) for licensed medical care facilities including hospitals, rehabilitation, psychiatric and detoxification facilities, licensed long-term care and assisted living facilities, and facilities specializing in treating conditions that affect mobility. Design standards for medical diagnostic equipment will also be discussed. Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session during the registration process or may be posed during the live webinar.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Picture%20This!%20Identifying%20Non-Compliant%20Elements%20&%20Spaces "external link"), Accessibility Specialist, **U.S. Access Board**
 

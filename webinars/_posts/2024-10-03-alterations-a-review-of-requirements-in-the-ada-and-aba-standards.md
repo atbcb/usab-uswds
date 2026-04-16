@@ -28,17 +28,7 @@ webinar: true
 ---
 Determining what is required to be accessible when an existing facility is altered or expanded can be a challenge. This session will review how the 2010 ADA Accessibility Standards and the Architectural Barriers Act Accessibility Standards apply to planned alterations and additions. Presenters will clarify common sources of confusion, including what type of work constitutes an alteration, how the scope of work determines application, the exception for technical infeasibility, the provisions for primary function areas and accessible paths of travel, some exceptions specific to alterations, and the exceptions for historic facilities. This webinar will include video remote interpreting (VRI) and real-time captioning. Participants may submit questions in advance of the webinar during the registration process or may ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Alterations:%20A%20Review%20of%20Requirements%20in%20the%20ADA%20and%20ABA%20Standards), Accessibility Specialist, **US Access Board**
 

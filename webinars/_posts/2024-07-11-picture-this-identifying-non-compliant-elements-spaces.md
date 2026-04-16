@@ -30,18 +30,7 @@ webinar: true
 ---
 How often have you encountered an inaccessible element or space in your daily life? Recognizing that the biggest room in the house is the room for improvement, this presentation will be filled with visual imagery and description of scenarios that demonstrate real-life non-compliant elements and spaces, along with the applicable Standard or Guideline to further knowledge of best design practices. Examples provided in the presentation will cover relevant sections from the Architectural Barriers Act (ABA) Accessibility Standards, Americans with Disabilities Act (ADA) Accessibility Standards, and the Public Right-of-Way Accessibility Guidelines (PROWAG). Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session during the registration process or may be posed during the live webinar.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Picture%20This!%20Identifying%20Non-Compliant%20Elements%20&%20Spaces), Accessibility Specialist, **U.S. Access Board**
 

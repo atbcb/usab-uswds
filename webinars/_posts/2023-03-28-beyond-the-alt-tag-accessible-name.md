@@ -40,17 +40,10 @@ During this webinar, Access Board staff will describe how they employ these upda
 
 Target Audience: Open to all, but of noted interest for experienced web developers.
 
-### Continuing Education Recognition Available
+### Speakers
 
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
+[Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), IT Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
-### Speakers:
-
-[Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), IT Specialist, Office of Technical and Information Services, **U.S. Access Board**\
-\
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Senior ICT Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 [Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Beyond%20the%20Alt%20Tag:%20Accessible%20Name%C2%A0), Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**

@@ -23,14 +23,7 @@ webinar: true
 ---
 Join us for an informative journey as we explore the world of accessibility laws! We’ll travel across the globe to discover how different countries are promoting ICT accessibility through legislation. Our itinerary includes stops in the United States, Canada, and Europe, where we'll highlight Section 508, ADA Title II Web Accessibility, the Accessible Canada Act, and the European Accessibility Act. Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Nadine Charron](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11145&ret=A%20Journey%20Through%20Global%20Accessibility%20Laws), Executive Director of the Accessibility, Accommodation, and Adaptive Computer Technology Program, **Shared Services Canada**
 

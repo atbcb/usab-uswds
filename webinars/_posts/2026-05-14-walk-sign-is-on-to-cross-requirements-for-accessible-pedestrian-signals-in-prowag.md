@@ -2,7 +2,7 @@
 layout: post
 title: 'Walk Sign Is On to Cross: Requirements for Accessible Pedestrian Signals in PROWAG'
 date: 2026-05-14
-excerpt: When pedestrians approach an intersection to cross a street, they have a lot of readily available information—such as traffic lights, walk signals, and stop or yield signs—to let them know how vehicles and pedestrians are expected to behave at the street crossing. This information, however, is often not usable by pedestrians who are blind or who have low vision. Requirements for accessible pedestrian signals (APS) in the Public Right-of-Way Accessibility Guidelines (PROWAG) are designed to provide pedestrians who are blind or have low vision with more of this information so that crossing streets is safer and more efficient. In this webinar, the presenter will review requirements in the PROWAG for accessible pedestrian signals. These include requirements for providing audible indications to alert pedestrians who are blind to the presence of an APS, for push buttons or passive detection for activating the accessible features of APS, for accessible walk indications for devices with pedestrian signal heads, and requirements for audible indications for pedestrian activated warning devices. Registrants will be able to submit questions in advance during the registration process. Real-time captioning and sign language interpretation will be provided.
+excerpt: When pedestrians approach an intersection to cross a street, they have a lot of readily available information — such as traffic lights, walk signals, and stop or yield signs — to let them know how vehicles and pedestrians are expected to behave at the street crossing. This information, however, is often not usable by pedestrians who are blind or who have low vision. Requirements for accessible pedestrian signals (APS) in the Public Right-of-Way Accessibility Guidelines (PROWAG) are designed to provide pedestrians who are blind or have low vision with more of this information so that crossing streets is safer and more efficient. In this webinar, the presenter will review requirements in the PROWAG for accessible pedestrian signals. These include requirements for providing audible indications to alert pedestrians who are blind to the presence of an APS, for push buttons or passive detection for activating the accessible features of APS, for accessible walk indications for devices with pedestrian signal heads, and requirements for audible indications for pedestrian activated warning devices. Registrants will be able to submit questions in advance during the registration process. Real-time captioning and sign language interpretation will be provided.
 image: ''
 image_alt_text: ''
 presenters:
@@ -19,19 +19,9 @@ video-link: ''
 webinar: true
 ---
 
-When pedestrians approach an intersection to cross a street, they have a lot of readily available information—such as traffic lights, walk signals, and stop or yield signs—to let them know how vehicles and pedestrians are expected to behave at the street crossing. This information, however, is often not usable by pedestrians who are blind or who have low vision. Requirements for accessible pedestrian signals (APS) in the Public Right-of-Way Accessibility Guidelines (PROWAG) are designed to provide pedestrians who are blind or have low vision with more of this information so that crossing streets is safer and more efficient. In this webinar, the presenter will review requirements in the PROWAG for accessible pedestrian signals. These include requirements for providing audible indications to alert pedestrians who are blind to the presence of an APS, for push buttons or passive detection for activating the accessible features of APS, for accessible walk indications for devices with pedestrian signal heads, and requirements for audible indications for pedestrian activated warning devices. Registrants will be able to submit questions in advance during the registration process. Real-time captioning and sign language interpretation will be provided.
+When pedestrians approach an intersection to cross a street, they have a lot of readily available information — such as traffic lights, walk signals, and stop or yield signs — to let them know how vehicles and pedestrians are expected to behave at the street crossing. This information, however, is often not usable by pedestrians who are blind or who have low vision. Requirements for accessible pedestrian signals (APS) in the Public Right-of-Way Accessibility Guidelines (PROWAG) are designed to provide pedestrians who are blind or have low vision with more of this information so that crossing streets is safer and more efficient. In this webinar, the presenter will review requirements in the PROWAG for accessible pedestrian signals. These include requirements for providing audible indications to alert pedestrians who are blind to the presence of an APS, for push buttons or passive detection for activating the accessible features of APS, for accessible walk indications for devices with pedestrian signal heads, and requirements for audible indications for pedestrian activated warning devices. Registrants will be able to submit questions in advance during the registration process. Real-time captioning and sign language interpretation will be provided.
 
-### Continuing Education Recognition Available
-
-|  | **Certificate** | **Credit hours** |
-|  | ADA Coordinator Certification | 1.5 |
-|  | AIA CES | 1.5 |
-|  | California Architects Board | 1.5 |
-|  | Certificate of Attendance | 1.5 |
-|  | ICC | 1.5 |
-|  | LA CES | 1.5 |
-
-### Speakers:
+### Speakers
 
 [Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10819&ret=Walk%20Sign%20Is%20On%20to%20Cross:%20Requirements%20for%20Accessible%20Pedestrian%20Signals%20in%20PROWAG), Accessibility Specialist, **U.S. Access Board**
 

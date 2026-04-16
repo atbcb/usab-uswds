@@ -30,17 +30,6 @@ webinar: true
 
 Up and down, around and around! Amusement rides are enjoyed by many people, including those with disabilities. The 2010 ADA Standards for Accessible Design and the Architectural Barriers Act Accessibility Standards address accessibility for permanent amusement rides. For newly designed and constructed rides, scoping provisions provide the option to choose the type of access that is suitable for a particular ride or experience. Three options for providing accessibility onto a ride device include a wheelchair space on the ride, a ride seat designed for transfer, or a transfer device. This session will review the technical provisions for each type of access required on rides. Additionally, U.S. Access Board staff Bill Botten and Bobby Stinnette will address requirements for accessible routes, que lines, parking and passenger loading areas, signage, sales, and service counters. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**

@@ -32,18 +32,7 @@ webinar: true
 ---
 Have you previously attended our webinars or reached out with questions and training about accessibility? You might be surprised to learn that some questions may be outside the scope of the U.S. Access Board’s Office of Information and Technical Services (OTIS). Join us for this informative webinar where we’ll explore the U.S. Access Board’s crucial role in creating, training, and enforcing accessibility standards for everything from buildings and public spaces to transportation and information and communication technology. Plus, we’ll explain areas in which other federal agencies lead and enforce specific accessibility standards. Don’t miss out on this opportunity to understand the full landscape of accessibility! Human generated real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Alison Levy](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11112&ret=From%20Standards%20to%20Support:%20Understanding%20the%20Access%20Board%E2%80%99s%20Role%20in%20Accessibility), Director, Office of Technical and Information Services, **U.S. Access Board**
 

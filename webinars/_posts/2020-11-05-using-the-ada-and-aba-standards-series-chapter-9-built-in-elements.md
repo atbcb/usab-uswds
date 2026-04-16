@@ -20,17 +20,7 @@ webinar: true
 ---
 This session will review scoping and technical provisions for built-in elements in the ADA and ABA Accessibility Standards (Chapter 9). When errors are made in the design or construction of built-in elements, they can pose barriers to people with disabilities in accessing goods and services. This session will address the requirements for dining & work surfaces, benches, check-out aisles and sales & service counters. Presenters will address common sources of confusion and frequently asked questions about these provisions.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805), Accessibility Specialist, **U.S. Access Board**
 

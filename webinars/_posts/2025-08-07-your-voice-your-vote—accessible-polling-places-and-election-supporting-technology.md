@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Voice, Your Vote—Accessible Polling Places and Election Supporting
+title: Your Voice, Your Vote — Accessible Polling Places and Election Supporting
   Technology
 date: 2025-08-07
 excerpt: Join the U.S. Access Board and the U.S. Elections Assistance Commission (EAC) for a webinar on voting accessibility. The Help America Vote Act (HAVA) created the U.S. Elections Assistance Commission and the right for voters with disabilities to mark, cast and verify their ballots privately and independently. This webinar will cover data related to polling place accessibility during the 2024 election, including election-supporting technologies. Presenters will discuss standards related to both physical and digital accessibility of polling places. Additionally, presenters will demonstrate EAC accessibility web tools, research, and checklists designed to ensure polling place accessibility. Real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
@@ -19,16 +19,7 @@ webinar: true
 ---
 Join the U.S. Access Board and the U.S. Elections Assistance Commission (EAC) for a webinar on voting accessibility. The Help America Vote Act (HAVA) created the U.S. Elections Assistance Commission and the right for voters with disabilities to mark, cast and verify their ballots privately and independently. This webinar will cover data related to polling place accessibility during the 2024 election, including election-supporting technologies. Presenters will discuss standards related to both physical and digital accessibility of polling places. Additionally, presenters will demonstrate EAC accessibility web tools, research, and checklists designed to ensure polling place accessibility. Real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | AIA CES                   | 1.5              |
-|     | Certificate of Attendance | 1.5              |
-|     | ICC                       | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=Your%20Voice,%20Your%20Vote%E2%80%94Accessible%20Polling%20Places%20and%20Election%20Supporting%20Technology), Senior ICT Accessibility Specialist, **U.S. Access Board**
 

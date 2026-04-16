@@ -28,17 +28,7 @@ webinar: true
 ---
 With warm weather comes an increase in outdoor social activities including outdoor dining, retail, and community gatherings such as music festivals, street carnivals, parades and farmers markets. In this webinar, presenters will address the accessibility of outdoor dining, retail and other social gatherings that take place in the public right-of-way. The presentation will highlight provisions in the ADA Standards and PROWAG that pertain to making these outdoor experiences accessible for people with disabilities. Human generated real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Outdoor%20Dining,%20Retail,%20and%20Community%20Spaces), Accessibility Specialist, **U.S. Access Board**
 

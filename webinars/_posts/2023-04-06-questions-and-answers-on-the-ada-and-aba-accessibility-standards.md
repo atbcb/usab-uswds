@@ -42,22 +42,11 @@ Session participants are encouraged to share their own questions in advance of a
 
 **Accessibility:**  Video remote interpreting and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| AIA HSW CES               | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance | 1.5              |
-| ICC                       | 1.5              |
-| LA CES                    | 1.5              |
-
 ### Speakers
 
-**[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessible%20Signage)**, Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessible%20Signage), Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
-**[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion)**, TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
+[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10164&ret=Common%20Sources%20of%20Confusion), TA Coordinator and Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
 ### Session Questions
 

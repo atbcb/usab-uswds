@@ -30,18 +30,7 @@ webinar: true
 ---
 Join the U.S. Access Board and the National Park Service for a collaborative webinar on outdoor developed areas. This presentation will highlight provisions in the Architectural Barriers Act (ABA) Accessibility Standards that pertain to making camping facilities, picnic facilities and viewing areas accessible for people with disabilities. Accessible design scenarios implemented by the National Park Service will be discussed as well as operational challenges and best practices. Participants can ask questions in advance during the registration process as well as ask questions during the live session. Real-Time Captioning and Sign Language Interpretation will be provided.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Jeremy Buzzell](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10667&ret=Outdoor%20Adventures%20for%20All:%20Accessible%20Outdoor%20Developed%20Areas), Accessibility Support Program Manager, **National Park Service**
 

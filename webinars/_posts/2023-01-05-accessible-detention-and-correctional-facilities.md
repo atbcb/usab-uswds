@@ -32,16 +32,6 @@ webinar: true
 
 Unique security features can pose challenges to designing accessible detention and correctional facilities. This webinar session will provide an overview of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) accessibility requirements for detention and correctional facilities. The presenters will review both scoping and technical provisions addressing holding cells and housing cells with mobility and communication features, visiting areas, and medical care facilities. This session will highlight applicable provisions for these facilities along with some additional requirements established by the U.S. Department of Justice. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**

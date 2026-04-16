@@ -30,18 +30,7 @@ webinar: true
 ---
 Got a leased Federal facility? Then you don’t want to miss this webinar! The Architectural Barriers Act (ABA) requires that federal agencies and the US Postal Service (USPS) ensure that facilities they lease are accessible to people with disabilities. To meet this minimum level of accessibility, leased facilities must comply with a subset of requirements in the ABA Standards. These requirements address accessible routes, parking, toilet and bathing facilities, sales and service counters, joint use areas, fire alarms, and other elements and spaces. The presenter will review these requirements and explain how they apply to leased facilities. In addition, the requirement that alterations undertaken after the building has been leased must comply with any applicable requirements will be discussed. Real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10819&ret=Rocking%20Your%20Rentals%E2%80%94ABA%20Accessibility%20and%20Leased%20Facilities), Accessibility Specialist, **U.S. Access Board**
 

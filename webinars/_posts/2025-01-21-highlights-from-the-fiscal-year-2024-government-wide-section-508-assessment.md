@@ -28,13 +28,7 @@ webinar: true
 ---
 In late 2022, Congress enacted the Consolidated Appropriations Act, Section 752, requiring the General Services Administration (GSA), in consultation with the Office of Management and Budget (OMB), to report annually on the Section 508 compliance of the federal government and each federal agency. The presenters will review an overview of the 2024 report to Congress, including the assessment criteria, survey results, and a highlight of key recommendations. Per the Act, OMB, in coordination with the GSA, the U.S. Access Board, and the White House Office of Science and Technology Policy developed the assessment criteria. Measurements of Section 508 program maturity include staffing levels, task organization and complaint processes. Conformance questions collected performance metrics for web, videos, documents, and selected enterprise applications, among other information and communication technologies. Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [**Andrew Nielson**](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10823&ret=Highlights%20from%20the%20Fiscal%20Year%202024%20Government-wide%20Section%20508%20Assessment), Director of the Government-wide IT Accessibility Program, Office of Government-wide Policy, **General Services Administration**
 

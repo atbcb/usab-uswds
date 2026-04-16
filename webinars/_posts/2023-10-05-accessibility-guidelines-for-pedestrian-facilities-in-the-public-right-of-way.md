@@ -39,17 +39,6 @@ Pedestrians with disabilities throughout the United States continue to face majo
 
 Session registration is expected to reach capacity quickly. Once registration is full, the Board will provide an option for viewing the webinar via Live YouTube Stream. A link to the YouTube Live Stream will be sent to [Access Board e-subscribers](If you would like to receive news on the Access Board, please sign up for the free e-subscription at: https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_1). Continuing Education Credit will not be available for viewing via YouTube, and individuals will not be able to submit questions. The Board is working with the Great Lakes ADA Center to develop a series of "Self-Paced" training webinars covering the content of the PROWAG for credit. This opportunity will be announced when it becomes available.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| L﻿A CES                      | 1.5              |
-
 ### Speakers
 
 [Juliet Shoultz](https://www.accessibilityonline.org/ao/speakers/10627/?ret=speakers), Transportation Systems Engineer,  **Office of Technical and Information Services, U.S. Access Board**

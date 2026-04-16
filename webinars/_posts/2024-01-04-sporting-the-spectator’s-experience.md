@@ -29,22 +29,11 @@ webinar: true
 ---
 For thousands of years, people have been gathering at stadiums to watch sports. The Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Standards specify accessibility requirements for all spectators and enabling everyone to experience one of civilization’s oldest pastimes. The presenters of this webinar will cover the spectator’s experience at sporting events from a youth soccer game to the World Cup. Seating, assistive listening systems, ticketing/concessions, and access to areas of sport activity will all be addressed. Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| L﻿A CES                     | 1.5              |
-
 ### Speakers
 
-**[Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience)**, Accessibility Specialist, **U.S. Access Board**
+[Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience), Accessibility Specialist, **U.S. Access Board**
 
-**[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience)**, Accessibility Specialist, **U.S. Access Board**
+[Travis Saner](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11032&ret=Sporting:%20The%20Spectator%E2%80%99s%20Experience), Accessibility Specialist, **U.S. Access Board**
 
 ### Session Questions
 
