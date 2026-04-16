@@ -12,7 +12,7 @@ excerpt: The U.S. Access Board has published an Advance Notice of Proposed
   . . .
 image: /images/uploads/adult_changing_table.png
 image_alt_text: Adult changing table in a restroom.
-featured: true
+featured: false
 ---
 The U.S. Access Board has published an Advance Notice of Proposed Rulemaking (ANPRM) asking for public comment on its approach to developing technical standards for universal changing stations required to be provided by sponsors of medium and large hub airports seeking airport development project grants. The [FAA Reauthorization Act of 2024](https://www.faa.gov/about/reauthorization) requires the Access Board to issue these standards, and the ANPRM proposes multiple approaches to developing them.
 
