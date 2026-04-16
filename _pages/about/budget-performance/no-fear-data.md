@@ -18,6 +18,7 @@ For more detailed information on the No Fear Act, please read the Access Board's
 
 Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities.
 
+- [Fiscal Year 2025 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2025.html)
 - [Fiscal Year 2024 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2024.html)
 - [Fiscal Year 2023 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2023.html)
 - [Fiscal Year 2022 No FEAR Act Annual Report]({{ site.baseurl }}/about/no-fear-report-fy2022.html)
@@ -26,6 +27,10 @@ Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part
 ### {{ page.title }} Data
 
 Pursuant to Title III of the No FEAR Act and 29 CFR § 1614, federal agencies are required to post quarterly on their public Web sites certain summary statistical data relating to equal employment opportunity complaints filed against the respective agencies.  In compliance with this provision of the No FEAR Act, the Access Board posts statistical data, updated on a quarterly basis.
+
+#### Fiscal Year 2026
+
+- [FY26 1st Quarter]({{ site.baseurl }}/files/nfa/usab-nfa-data-fy2026q1.xlsx) (.xlsx)
 
 #### Fiscal Year 2025
 
