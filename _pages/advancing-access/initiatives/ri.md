@@ -19,7 +19,7 @@ The Access Board takes on regulatory initiatives to develop accessibility guidel
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station-small.png){: .img-left }
 
-[Electric Vehicle Charging Stations]({{ site.baseurl }}/evse/) are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles and it is expected that the installation and use of Electric Vechicle (EV) charging stations will continue to expand.  In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/tad/ev/) that addresses existing requirements and new recommendations for making EV charging stations accessible.
+[Electric Vehicle Charging Stations]({{ site.baseurl }}/evse/) are becoming commonplace with the rising production and use of electric and plug-in hybrid vehicles and it is expected that the installation and use of Electric Vehicle (EV) charging stations will continue to expand.  In partnership with the Department of Transportation, the Access Board issued a [technical assistance document]({{ site.baseurl }}/tad/ev/) that addresses existing requirements and new recommendations for making EV charging stations accessible.
 
 ## Initiatives
 
@@ -27,7 +27,7 @@ The Access Board takes on regulatory initiatives to develop accessibility guidel
 
 ![airplane departing]({{ site.baseurl }}/images/uploads/airplane-small.png){: .img-right }
 
-The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities.  Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks.  Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) to learn more about improving the usability and reliably of onboard wheelchairs on aircraft.
+The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities.  Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks.  Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) to learn more about improving the usability and reliability of onboard wheelchairs on aircraft.
 
 ### Artificial Intelligence
 
