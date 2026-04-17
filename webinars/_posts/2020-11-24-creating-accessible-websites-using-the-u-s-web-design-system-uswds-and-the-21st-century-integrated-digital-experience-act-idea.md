@@ -28,13 +28,7 @@ The 21st Century Integrated Digital Experience Act (IDEA) aims to improve the di
 
 Our presenters, Dan Williams, U.S. Web Design System, Technology Transformation Services (TTS) at the General Services Administration (GSA), and Ammie Farraj Feijoo, 21st Century IDEA Implementation Lead, Technology Transformation Services (TTS), U.S. General Services Administration (GSA) will describe the USWDS and how it may be used to make websites accessible. They will highlight common issues. They will also offer recommendations and best practices and identify available resources for making sure that the provisions of IDEA are met.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Ammie Farraj Feijoo](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10847), 21st Century IDEA Implementation Lead, Technology Transformation Services (TTS), **U.S. General Services Administration (GSA)**
 

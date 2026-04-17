@@ -27,17 +27,7 @@ webinar: true
 ---
 The Access Board, under the Patient Protection and Affordable Care Act, has published a final rule addressing accessibility standards for Medical Diagnostic Equipment (MDE). The standards provide design criteria for examination tables and chairs, weight scales, radiological and mammography equipment, and other diagnostic equipment that are accessible to people with disabilities. This session will provide an overview of this significant rulemaking. This webinar will include video remote interpreting (VRI) and real-time captioning. Participants may submit questions in advance of the webinar during the registration process or may ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Wendy Marshall](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11075&ret=Medical%20Diagnostic%20Equipment%20Final%20Rule), Attorney Advisor, **Office of General Counsel**
 

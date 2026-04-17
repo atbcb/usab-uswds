@@ -35,12 +35,6 @@ webinar: true
 
 On June 25, 2021, President Biden released Executive Order 14035 Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce to establish a government-wide initiative to promote diversity, equity, inclusion, and accessibility in all parts of the federal workforce. This session will focus on General Services Administration’s (GSA) “Executive Guide to Federal IT Accessibility,” which provides a broad overview of the benefits of accessibility and management practices for various phases of technology development and implementation lifecycles, and “Technology Accessibility Playbook,” which provides a framework and actions for the integration of strategic, business, and technology management practices to ensure information and communication technology (ICT) is accessible for people with disabilities. Presenters from GSA will also discuss other available resources, such as the government-wide DEIA Strategic Plan’s Accessibility Roadmap, GSA’s Government-wide Program Maturity Reporting (PMR), Accessibility Requirements Tool (ART) updates, ICT Testing Baseline for Web Accessibility, and others. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [Michael Horton](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10710&ret=ICT%20Guidance%20for%20Implementing%20Accessibility%20into%20DEIA%20Plans%20in%20the%20Federal%20WorkforceICT%20Guidance%20for%20Implementing%20Accessibility%20into%20DEIA%20Plans%20in%20the%20Federal%20Workforce), Accessible Design & Development Advisor Office of Government-wide Policy, **General Services Administration**

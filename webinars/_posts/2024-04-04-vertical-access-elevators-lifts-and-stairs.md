@@ -28,17 +28,6 @@ webinar: true
 ---
 Vertical access between different levels along accessible routes is a crucial aspect of accessibility. This session will address the Architectural Barriers Act (ABA) and Americans with Disabilities Act (ADA) requirements and clarify common sources of confusion when providing vertical access. Questions such as, “Does my building require an elevator?”, “When can I use a lift?”, or “When can I use a Limited Use Limited Application (LULA) elevator?” will be answered. Additionally, the presenters will review the scoping and technical requirements for elevators, platform lifts, and stairs. This session includes real-time captioning and video remote sign language interpreting. Individuals may submit questions in advance during the registration process. Questions will also be taken during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
 ### Speakers:
 
 [Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Vertical%20Access:%20Elevators,%20Lifts,%20and%20Stairs), Accessibility Specialist, **U.S. Access Board**

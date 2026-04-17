@@ -26,12 +26,6 @@ webinar: true
 
 Federal agencies are required to provide accessible information and communication technology (ICT) developed, maintained, used, and procured for people with disabilities under Section 508 of the Rehabilitation Act.  Many agencies develop training and testing programs to ensure that their employees know how to create, procure, use, and maintain accessible ICT. This session is intended for federal employees who are responsible for those training and testing programs. Presenters will discuss ways to establish and improve upon the foundation of such training and testing programs, including reviews of key elements for accessibility, important features for ICT testing, best methods for ensuring conformance, and effective resources and tools for evaluating website accessibility and resolving access issues. Questions can be submitted in advance of the session or can be posed during the live webinar. This webinar will include video remote interpreting (VRI) and real-time captioning.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [Rebecca Lovley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10965&ret=Strengthening%20and%20maturing%20accessibility%20training%20and%20testing%20programs%20within%20the%20federal%20government), IT Data and Policy, Section 508 PM, IT Testing COR, **Federal Communications Commission**

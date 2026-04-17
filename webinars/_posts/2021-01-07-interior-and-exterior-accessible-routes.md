@@ -30,17 +30,6 @@ webinar: true
 ---
 Under the ADA and ABA Accessibility Standards, an accessible route must connect to all accessible elements and spaces on a site. This session will provide an in-depth review of requirements for accessible routes and related issues such as overlapping clear space requirements and door maneuvering clearances. The session will also address exterior routes such as site arrival points, connections to transit stops and public streets and sidewalks, and unique accessible route exceptions permitted at recreation facilities. Presenters will highlight some of the more frequently asked questions and common source of confusion for accessible routes. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**

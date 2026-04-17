@@ -39,18 +39,7 @@ Crosswalks are a very important part of pedestrian circulation paths, enabling p
 
 Registration is now full for this session, but the webinar can still be watched via [YouTube livestream](https://www.youtube.com/watch?v=X4lp29SZjks). Please note that no continuing education credit is available for viewing the live session over YouTube.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-|     | SelfPaced AIA               | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Sarah Presley ](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10819&ret=Designing%20Accessible%20Crosswalks), Accessibility Specialist, **U.S. Access Board**
 

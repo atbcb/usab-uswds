@@ -29,18 +29,7 @@ webinar: true
 ---
 Building and life safety codes require that facilities provide accessible means of egress so that all people, including those with disabilities, can relocate and evacuate in a timely and safe manner. The 2010 ADA Accessibility Standards and the Architectural Barriers Act Accessibility Standards reference the International Building Code (IBC) for accessible means of egress. In this session, an International Code Council representative and Access Board staff will provide an overview of the minimum technical requirements for accessible means of egress in the IBC, including criteria for emergency evacuation for people with disabilities, evacuation planning, alarms, evacuation route inside and outside of the building, and signage. Human generated real-time captioning provided along with video sign language interpreters. Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Accessible%20Means%20of%20Egress), Training Coordinator, **U.S. Access Board**
 

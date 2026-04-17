@@ -38,17 +38,6 @@ webinar: true
 
 Sunshine and time on the water! Everyone enjoys boating and fishing with friends and family during the summer, including persons with disabilities. The 2010 Americans with Disabilities Act (ADA) Accessibility Standards and the Architectural Barriers Act (ABA) Accessibility Standards include scoping and technical provisions for recreational boating facilities and fishing piers and platforms. These standards cover municipal marinas, federal recreational boating facilities, private sector marinas and boating facilities, and facilities designed and constructed for fishing. This session will provide information on scoping and technical requirements for boat slips and technical provisions that apply to gangways connecting floating facilities, accessible routes connecting fixed facilities, clear space, handrail, and edge protection. Additionally, presenters will address associated elements and facilities that support recreational boating and fishing facilities. Questions can be submitted in advance of the session or can be posed during the live webinar. This webinar will include video remote interpreting (VRI) and real-time captioning. Webinar attendees can earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
 ### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**

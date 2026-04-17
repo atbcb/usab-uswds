@@ -32,23 +32,13 @@ When a disaster strikes, survivors may need to relocate to emergency housing, in
 
 Video remote interpreting and real-time captioning will be provided in this webinar. Questions can be submitted in advance of the session or may be posed during the live webinar. Participants can also earn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| L﻿A CES                     | 1.5              |
-
 ### Speakers
 
-**[Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Emergency%20Transportable%20Housing)**, Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+[Debra Martins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11035&ret=Emergency%20Transportable%20Housing), Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 
 
-**[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805)**, Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
+**[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805), Training Coordinator and Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 ### Session Questions
 

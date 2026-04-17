@@ -39,16 +39,10 @@ webinar: true
 
 President Biden's Executive Order to Advance Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce requires that federal workspaces must be fully accessible to employees with disabilities. This means that they must be designed and constructed to be accessible as required by the Architectural Barriers Act, which ensures access to federally funded facilities. Digital workspaces, including information and communication technology used by federal agencies, must be accessible as well under Section 508 of the Rehabilitation Act. This session will review accessibility requirements for employee work areas in the ABA Accessibility Standards (ABAAS), including provisions for accessible routes, parking, entrances, workspaces, break rooms, locker rooms, and other areas. Presenters will also review requirements in the Section 508 Standards for computers, telecommunications equipment, software, websites, information kiosks and transaction machines, and electronic documents. Questions can be submitted in advance of the session or can be posed during the live webinar. This webinar will include video remote interpreting (VRI) and real-time captioning.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
-[Bill Botten](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10008&ret=DEIA:%20%20What%20Does%20It%20Mean%20to%20Have%20Accessibility%20in%20the%20Federal%20Workplace?), Training Coordinator, Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**\
-\
+[Bill Botten](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10008&ret=DEIA:%20%20What%20Does%20It%20Mean%20to%20Have%20Accessibility%20in%20the%20Federal%20Workplace?), Training Coordinator, Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
+
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120&ret=DEIA:%20%20What%20Does%20It%20Mean%20to%20Have%20Accessibility%20in%20the%20Federal%20Workplace?), Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=DEIA:%20%20What%20Does%20It%20Mean%20to%20Have%20Accessibility%20in%20the%20Federal%20Workplace?), Senior ICT Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**

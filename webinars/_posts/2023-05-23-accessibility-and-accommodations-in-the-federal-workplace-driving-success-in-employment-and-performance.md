@@ -37,14 +37,6 @@ Would you describe your agency’s accessibility efforts as siloed or wholistic?
 
 Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
-
 ### Session Questions
 
 This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/18899/session/110879#questions)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.

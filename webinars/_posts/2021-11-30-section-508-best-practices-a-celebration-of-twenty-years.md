@@ -34,13 +34,6 @@ Invited speakers include David Capozzi, former Executive Director of the U.S. Ac
 
 To allow more time for the speakers, there will be no live question and answer session. Registrants may submit questions in advance.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [David Capozzi](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10906), Board Member, **United Spinal Association, Inc.**

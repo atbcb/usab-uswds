@@ -32,21 +32,11 @@ webinar: true
 
 This session is the second in a two-part review of the revised Section 508 Standards which apply to information and communication technology developed, procured, maintained, or used by federal agencies. Presenters from the U.S. Access Board will explain provisions in the standards for hardware and software. Requirements for hardware, such as computers, information kiosks, and multi-function copy machines address privacy, operable parts, communication, and other features. Software requirements cover interoperability with assistive technology, applications, and authoring tools. Requirements for support documentation and services will also be covered. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can receive a participation certificate.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192), Accessibility Specialist/Information Technology Specialist, **U.S. Access Board**
 
-
-
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120), Senior Accessibility Specialist/Information Technology, **U.S. Access Board**
-
-
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512), Senior ICT Accessibility Specialist, **U.S. Access Board**
 

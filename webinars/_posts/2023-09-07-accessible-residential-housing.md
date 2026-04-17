@@ -43,16 +43,6 @@ This session will have real-time captioning and sign language interpreters avail
 
 Individuals may submit questions in advance of the session when they register for the session.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| L﻿A CES                     | 1.5              |
-
 ### Speakers
 
 [Rex Pace](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10680&ret=Accessible%20Residential%20Housing), Senior Advisory for Accessible Design, **U.S. Department of housing and Urban Development**

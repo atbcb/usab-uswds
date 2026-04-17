@@ -27,22 +27,11 @@ webinar: true
 
 New trends in architectural design, including those that have emerged due to the pandemic, can enhance, or compromise, accessibility. Join Access Board Accessibility Specialists who will review recent design trends that affect accessibility such as touchless controls and dispensers, sidewalk dining areas, social stairs, high-top tables, and smart environments, among others. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can learn continuing education credits.
 
-### Continuing Education Recognition Available
-
-| **Certificate**             | **Credit hours** |
-| --------------------------- | ---------------- |
-| ACTCP                       | 1.5              |
-| AIA HSW CES                 | 1.5              |
-| California Architects Board | 1.5              |
-| Certificate of Attendance   | 1.5              |
-| ICC                         | 1.5              |
-| LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator, Senior Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
 
-[](https://www.accessibilityonline.org/ao/speakers/10627/?ret=speakers)[Juliet Shoultz](https://www.accessibilityonline.org/ao/speakers/10627/?ret=speakers), Transportation Engineer, **Office of Technical and Information Services**
+[Juliet Shoultz](https://www.accessibilityonline.org/ao/speakers/10627/?ret=speakers), Transportation Engineer, **Office of Technical and Information Services**
 
 ### Session Questions
 

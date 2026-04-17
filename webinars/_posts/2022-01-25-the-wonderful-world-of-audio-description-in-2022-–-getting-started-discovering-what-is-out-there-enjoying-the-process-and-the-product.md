@@ -36,14 +36,7 @@ Registration closes 24 hours before the start of the session. Instructions for a
 
 The Section 508 Best Practices Webinar Series provides helpful information and best practices for federal agencies in meeting their obligations under Section 508 of the Rehabilitation Act which ensures access to information and communication technology in the federal sector. This webinar series is made available by the Accessibility Community of Practice of the CIO Council in partnership with the U.S. Access Board.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| ACTCP                     | 1.5              |
-| Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Michele Hartley (invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10915), Media Accessibility Coordinator, **Harpers Ferry Center, National Park Service**
 

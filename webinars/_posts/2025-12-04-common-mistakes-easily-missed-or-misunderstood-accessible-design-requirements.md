@@ -33,18 +33,7 @@ Real-time captioning provided along with video sign language interpreters.
 
 Participants can ask questions in advance during the registration process as well as ask questions during the live session.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**             | **Credit hours** |
-| --- | --------------------------- | ---------------- |
-|     | ACTCP                       | 1.5              |
-|     | AIA HSW CES                 | 1.5              |
-|     | California Architects Board | 1.5              |
-|     | Certificate of Attendance   | 1.5              |
-|     | ICC                         | 1.5              |
-|     | LA CES                      | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805&ret=Common%20Mistakes:%20Easily%20Missed%20or%20Misunderstood%20Accessible%20Design%20Requirements), Technical Assistance Coordinator, **U.S. Access Board**
 

@@ -45,12 +45,6 @@ During this webinar, presenters will share the following information.
 
 This session is intended for entry-level to intermediate audiences, but all are welcome to join. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar.
 
-### Continuing Education Recognition Available
-
-| **Certificate**           | **Credit hours** |
-| ------------------------- | ---------------- |
-| Certificate of Attendance | 1.5              |
-
 ### Speakers
 
 [Kelley Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11017&ret=Maps%20for%20All%20%E2%80%93%20Building%20Accessible%20Maps), Section 508 Application Testing Team Lead, CTFL, CTFL-AT, Certified Trusted Tester, **Federal Aviation Administration**

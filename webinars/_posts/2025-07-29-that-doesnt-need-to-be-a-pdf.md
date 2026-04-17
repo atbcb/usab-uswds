@@ -21,14 +21,7 @@ webinar: true
 ---
 Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution. Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=That%20Doesn%27t%20Need%20to%20Be%20a%20PDF), Senior ICT Accessibility Specialist, **U.S. Access Board**
 

@@ -30,14 +30,7 @@ webinar: true
 ---
 The Revised Section 508 Standards include a requirement (503.4) where a digital product displays video with synchronized audio, the product shall provide user controls for closed captions and audio descriptions at the same menu level as the user controls for volume or program selection. The National Park Service (NPS) within the Department of the Interior (DOI) has developed an open-source media player which conforms with the Revised Section 508 Standard for user controls by ensuring that the caption control (CC) and audio description control (AD) buttons are visible along-side the other user controls. Over several years, the National Park Service has customized a media player which aims to be as accessible as possible. It supports multi-track audio and video, allowing a user to toggle between standard, described, and American Sign Language versions of a single video; it supports captioning in over 10 languages; and has been through several rounds of user testing with people who are blind / low vision. The code for this player is available on GitHub. Questions can be submitted in advance of the session or can be posed during the live webinar. Video Remote Interpreting (VRI) and real-time captioning will be provided.
 
-### Continuing Education Recognition Available
-
-|     | **Certificate**           | **Credit hours** |
-| --- | ------------------------- | ---------------- |
-|     | ACTCP                     | 1.5              |
-|     | Certificate of Attendance | 1.5              |
-
-### Speakers:
+### Speakers
 
 [Alex Lindeman](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11108&ret=The%20NPS.gov%20Media%20Player:%20An%20Accessible%20Option%20for%20All%20Government), IT Specialist, Section 508 Program Coordinator, **National Park Service**
 
