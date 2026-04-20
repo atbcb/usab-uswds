@@ -3,7 +3,7 @@ name: "tina-guenette "
 last-name: "Guenette "
 full_name: "Tina Guenette "
 chair: false
-vice-chair: false
+vice-chair: true
 member: public
 status: current
 president: Biden
