@@ -2,7 +2,7 @@
 name: elver-ariza-silva
 last-name: ariza-silva
 full_name: Elver Ariza-Silva
-chair: true
+chair: false
 vice-chair: false
 member: public
 status: current
