@@ -12,7 +12,7 @@ permalink: /enforcement/file-complaint.html
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/complaint-form/complaint-form-styles.css' | relative_url }}">
 </head>
-<body class="usa-js-loading">
+<body>
 
   <app-root>
     <div class="usa-alert usa-alert--info margin-y-4 margin-x-2 desktop:margin-x-10" role="status">
