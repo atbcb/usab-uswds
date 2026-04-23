@@ -9,7 +9,7 @@ permalink: /enforcement/file-complaint.html
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | U.S. Access Board</title>
-
+  <link rel="stylesheet" href="{{ '/assets/uswds/css/uswds.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/complaint-form/complaint-form-styles.css' | relative_url }}">
 </head>
 <body class="usa-js-loading">
