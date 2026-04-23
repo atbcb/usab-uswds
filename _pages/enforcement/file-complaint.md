@@ -3,7 +3,7 @@ layout: none
 title: File an ABA Complaint
 permalink: /enforcement/file-complaint.html
 ---
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
