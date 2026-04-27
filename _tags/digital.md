@@ -1,3 +1,6 @@
+
 ---
-name: digital
+title: digital
+slug: digital
 ---
+``
