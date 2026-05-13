@@ -6,7 +6,7 @@ excerpt: Members of the public are welcome to virtually attend the U.S. Access B
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: A Board meeting appears on a laptop.
 image_border: false
-featured: true
+featured: false
 ---
 
 Members of the public are welcome to virtually attend the U.S. Access Board’s in-person public town hall meeting on **Tuesday, May 5** from **1:00 – 3:00 p.m. (ET)** at Bally’s Lincoln Event Center, 100 Twin River Rd, Lincoln, RI. To ensure all can participate, the town hall meeting will be [broadcast live via YouTube ](https://www.youtube.com/live/zwPK4t7d_Ts?si=E3YUcRFHr_LhnWEs)for virtual attendees. Virtual attendees will only be able to listen to the meeting and not make public comments.
