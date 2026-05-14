@@ -26,16 +26,6 @@ webinar: true
 
 The complexity of the built environment poses numerous and evolving wayfinding and other accessibility challenges for pedestrians with vision disabilities. Tactile Walking Surface Indicators (TWSI) are one tool that can be used to improve accessibility and safety within public-rights-of-way. This webinar will cover existing requirements and will then aim to demonstrate the considerable research evidence that supports the recommendations for the design and use of TWSI that now appear in various reports and guidebooks. The webinar will also identify ongoing projects that document accessibility and safety challenges for pedestrians with vision disabilities; projects that also include efforts to provide evidence-based solutions. Registrants will be able to submit questions in advance during the registration process. Real-time captioning and sign language interpretation will be provided.
 
-### Continuing Education Recognition Available
-
-| **Certificate** | **Credit hours** |
-| ADA Coordinator Certification | 1.5 |
-| AIA CES | 1.5 |
-| California Architects Board | 1.5 |
-| Certificate of Attendance | 1.5 |
-| ICC | 1.5 |
-| LA CES | 1.5 |
-
 ### Speakers
 
 [Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Designing%20Streets%20for%20Everyone:%20Requirements,%20Research,%20and%20Guidance%20on%20the%20Use%20of%20Tactile%20Walking%20Surface%20Indicators%20for%20Pedestrians%20with%20Vision%20Disabilities), Accessibility Specialist, US Access Board
