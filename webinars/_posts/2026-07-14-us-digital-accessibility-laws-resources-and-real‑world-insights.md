@@ -26,12 +26,6 @@ webinar: true
 
 Join speakers from federal and state government agencies for a webinar on digital accessibility in the United States. This session will provide a review of U.S. accessibility laws, share helpful resources, and dive into implementation—covering lessons learned, best practices, and recommendations for the future. Registrants will be able to submit questions in advance during the registration process. Real-time captioning and sign language interpretation will be provided.
 
-### Certificates Available
-
-| **Certificate** | **Credit hours** |
-| ADA Coordinator Certification | 1.5 |
-| Certificate of Attendance | 1.5 |
-
 ### Speakers
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512&ret=US%20Digital%20Accessibility:%20Laws,%20Resources,%20and%20Real%E2%80%91World%20Insights), Senior ICT Accessibility Specialist, U.S. Access Board
