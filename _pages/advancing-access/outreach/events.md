@@ -12,13 +12,7 @@ permalink: /events/
 
 ## Public Events
 
-The U.S. Access Board will hold a public town hall meeting on **Tuesday, May 5, 2026,** from **1:00 – 3:00 p.m. (ET)** at Bally’s Lincoln Event Center, 100 Twin River Rd, Lincoln, RI. Presidentially appointed Access Board Members and representatives from other federal member agencies will be present to hear from the local community about the state of accessibility in Rhode Island. For further information, see the agency's [news release on the town hall](https://www.access-board.gov/news/2026/02/11/u-s-access-board-to-hold-town-hall-meeting-in-rhode-island/).
-
-**U.S. Access Board Town Hall Meeting**\
-May 5, 2026, 1:00 – 3:00 p.m. (ET)\
-Bally’s Lincoln Event Center\
-100 Twin River Rd\
-Lincoln, RI 02865
+The U.S. Access Board will hold its next Board meeting on July 29, 2026 at its offices in Washington, DC. More information is forthcoming.
 
 ### Public Events Archives
 
@@ -40,7 +34,6 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- May 5 - 7, 2026, In-person, Providence, RI
 - July 27 - 29, 2026, In-person, Washington, DC
 - October 26 - 28, 2026, Virtual
 - January 25 - 27, 2027, Virtual
@@ -50,6 +43,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ## Board Meeting Archives
 
+- [May 5, 2026](https://www.youtube.com/watch?v=zwPK4t7d_Ts)
 - [January 28, 2026](https://www.youtube.com/watch?v=czOJYb4pTvg&t=2866s)
 - [July 9, 2025](https://www.youtube.com/watch?v=w3tbOSkbvYw&t=3679s)
 - [April 30, 2025](https://www.youtube.com/watch?v=OVOau4Z9BGU&t=1753s)
