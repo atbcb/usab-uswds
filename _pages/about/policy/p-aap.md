@@ -64,21 +64,21 @@ _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specif
     <table class="usa-table">
       <thead class="text-center">
         <tr>
-          <th>Grade Level Cluster<br />(GS or Alternate Pay Planb)</th>
-          <th>Total</th>
-          <th>Reportable Disability Total</th>
-          <th>
+          <th scope="col">Grade Level Cluster<br />(GS or Alternate Pay Planb)</th>
+          <th scope="col">Total</th>
+          <th scope="col">Reportable Disability Total</th>
+          <th scope="col">
             Reportable Disability Percentage<br />(Numerical Goal 12 Percent)
           </th>
-          <th>Targeted Disability Total</th>
-          <th>
+          <th scope="col">Targeted Disability Total</th>
+          <th scope="col">
             Targeted Disability Percentage<br />(Numerical Goal 2 Percent)
           </th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Grades GS-11 to SES</td>
+          <th scope="row">Grades GS-11 to SES</th>
           <td>21</td>
           <td>8</td>
           <td>38.10</td>
@@ -86,7 +86,7 @@ _EEOC regulations (29 CFR §1614.203(d)(7)) require agencies to establish specif
           <td>23.81</td>
         </tr>
         <tr>
-          <td>Grades GS-1 to GS-10</td>
+          <th scope="row">Grades GS-1 to GS-10</th>
           <td>2</td>
           <td>0</td>
           <td>0.00</td>
@@ -1683,7 +1683,7 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
 
       <dl>
         <div class="grid-row grid-gap-2 border-bottom-1px border-base-lighter">
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Specific Workforce Data Table
           </dt>
           <dd class="tablet:grid-col-5">Workforce Data Table &mdash; B1</dd>
@@ -1691,7 +1691,7 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
         <div
           class="grid-row grid-gap-2 border-bottom-1px border-base-lighter margin-top-1"
         >
-          <dt class="tablet:grid-col-4 text-base">
+          <dt class="tablet:grid-col-4">
             <span class="text-bold"
               >Statement of Condition that was a Trigger for a Potential
               Barrier:</span
@@ -1717,13 +1717,13 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
         <div
           class="grid-row grid-gap-2 border-bottom-1px margin-top-1 border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Barrier Analysis Process Completed?
           </dt>
           <dd class="tablet:grid-col-5">Yes</dd>
         </div>
         <div class="grid-row grid-gap-2 margin-top-1">
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Barrier(s) Identified?
           </dt>
           <dd class="tablet:grid-col-5">No</dd>
@@ -1743,11 +1743,11 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
       </h4>
       <dl>
         <div class="grid-row grid-gap-2 border-bottom-1px border-base-lighter">
-          <dt class="tablet:grid-col-4 text-bold text-base">Barrier Name 1</dt>
+          <dt class="tablet:grid-col-4 text-bold">Barrier Name 1</dt>
           <dd class="tablet:grid-col-5">PWTD GS 1-10</dd>
         </div>
         <div class="grid-row grid-gap-2 margin-top-1">
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Description of Policy, Procedure, or Practice
           </dt>
           <dd class="tablet:grid-col-5">N/A</dd>
@@ -1762,19 +1762,19 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
       </h4>
       <dl>
         <div class="grid-row grid-gap-2 border-bottom-1px border-base-lighter">
-          <dt class="tablet:grid-col-4 text-bold text-base">Date Initiated</dt>
+          <dt class="tablet:grid-col-4 text-bold">Date Initiated</dt>
           <dd class="tablet:grid-col-5">03/06/2024</dd>
         </div>
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">Target Date</dt>
+          <dt class="tablet:grid-col-4 text-bold">Target Date</dt>
           <dd class="tablet:grid-col-5">01/15/2028</dd>
         </div>
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Sufficient Funding &amp; Staffing?
           </dt>
           <dd class="tablet:grid-col-5">Yes</dd>
@@ -1782,17 +1782,17 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">Date Modified</dt>
+          <dt class="tablet:grid-col-4 text-bold">Date Modified</dt>
           <dd class="tablet:grid-col-5"></dd>
         </div>
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">Date Completed</dt>
+          <dt class="tablet:grid-col-4 text-bold">Date Completed</dt>
           <dd class="tablet:grid-col-5"></dd>
         </div>
         <div class="grid-row grid-gap-2 margin-top-1">
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Objective Description
           </dt>
           <dd class="tablet:grid-col-5">
@@ -1817,17 +1817,17 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
       </h4>
       <dl>
         <div class="grid-row grid-gap-2 border-bottom-1px border-base-lighter">
-          <dt class="tablet:grid-col-4 text-bold text-base">Title</dt>
+          <dt class="tablet:grid-col-4 text-bold">Title</dt>
           <dd class="tablet:grid-col-5">Chief of Staff/EEO Director</dd>
         </div>
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">Name</dt>
+          <dt class="tablet:grid-col-4 text-bold">Name</dt>
           <dd class="tablet:grid-col-5">Drucilla Gordon</dd>
         </div>
         <div class="grid-row grid-gap-2 margin-top-1">
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Standards Address the Plan?
           </dt>
           <dd class="tablet:grid-col-5">Yes</dd>
@@ -1842,13 +1842,13 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
       </h4>
       <dl>
         <div class="grid-row grid-gap-2 border-bottom-1px border-base-lighter">
-          <dt class="tablet:grid-col-4 text-bold text-base">Target Date</dt>
+          <dt class="tablet:grid-col-4 text-bold">Target Date</dt>
           <dd class="tablet:grid-col-5">01/15/2025</dd>
         </div>
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Planned Activities
           </dt>
           <dd class="tablet:grid-col-5">
@@ -1858,7 +1858,7 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Sufficient Funding &amp; Staffing
           </dt>
           <dd class="tablet:grid-col-5">Yes</dd>
@@ -1866,15 +1866,15 @@ _Element D of MD-715 requires agencies to conduct a barrier analysis when a trig
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">Modified Date</dt>
+          <dt class="tablet:grid-col-4 text-bold">Modified Date</dt>
         </div>
         <div
           class="grid-row grid-gap-2 margin-top-1 border-bottom-1px border-base-lighter"
         >
-          <dt class="tablet:grid-col-4 text-bold text-base">Completion Date</dt>
+          <dt class="tablet:grid-col-4 text-bold">Completion Date</dt>
         </div>
         <div class="grid-row grid-gap-2 margin-top-1">
-          <dt class="tablet:grid-col-4 text-bold text-base">
+          <dt class="tablet:grid-col-4 text-bold">
             Report of Accomplishments
           </dt>
           <dd class="tablet:grid-col-5">N/A</dd>
