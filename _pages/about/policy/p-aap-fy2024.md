@@ -3,7 +3,7 @@ title: Affirmative Action Plan for the Recruitment, Hiring, Advancement, and Ret
 layout: page
 toc: sidenav.html
 banner-title: "About the U.S. Access Board"
-permalink: /about/aap.html
+permalink: /about/aap-fy2024.html
 ---
 ## {{ page.title }}
 
@@ -190,7 +190,7 @@ _The Access Board utilized Schedule A hiring authority to recruit recruit PWD an
 _The Director of Administration requests medical certification from the applicant, along with a resume and along with a brief explanation of what is required under the Schedule A hiring process and timeline._
 
 ##### 4. Has the agency provided training to all hiring managers on the use of hiring authorities that take disability into account (e.g., Schedule A)? If “yes”, describe the type(s) of training and frequency. If “no”, describe the agency’s plan to provide this training.
-    
+
 > Answer: Yes
 
 _This is training conducted annually during the monthly leadership meeting._
@@ -222,13 +222,13 @@ _N/A_
       <th colspan="2" scope="col">Targeted Disability</th>
     </tr>
     <tr>
-      <th scope="col">Permanent Workforce 
+      <th scope="col">Permanent Workforce
         (%) </th>
-      <th scope="col">Temporary Workforce 
+      <th scope="col">Temporary Workforce
         (%) </th>
-      <th scope="col">Permanent Workforce 
+      <th scope="col">Permanent Workforce
         (%) </th>
-      <th scope="col">Temporary Workforce 
+      <th scope="col">Temporary Workforce
         (%) </th>
     </tr>
   </thead>
@@ -310,7 +310,7 @@ _N/A_
 >> Answer: No
 >
 > b. Promotions for MCO (PWTD)
->> Answer: No   
+>> Answer: No
 
 _N/A_
 
@@ -321,7 +321,7 @@ Pursuant to 29 C.F.R. §1614.203(d)(1)(iii), agencies are required to provide su
 #### A. Advancement Program Plan
 
 Describe the agency’s plan to ensure PWD, including PWTD, have sufficient opportunities for advancement.
-    
+
 _All opportunities at the Access Board are open to Schedule A applicants. In addition, the Access Board accepts resumes from any Schedule A applicants and maintains a roster of qualified employees._
 
 #### B. Career Development Opportunites
@@ -505,7 +505,7 @@ _N/A_
 {: #t4cx .data .usa-table }
 
 ##### 3. If the agency has other types of employee recognition programs, are PWD and/or PWTD recognized disproportionately less than employees without disabilities? (The appropriate benchmark is the inclusion rate.) If “yes”, describe the employee recognition program and relevant data in the text box.
-    
+
 > a. Other Types of Recognition (PWD)
 >> Answer: N/A
 
@@ -579,7 +579,7 @@ _N/A_
 _N/A_
 
 #### 3. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-  
+
 > a. New Hires to SES (PWD)
 >> Answer: No
 
@@ -595,7 +595,7 @@ _N/A_
 _N/A_
 
 #### 4. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the new hires to the senior grade levels? For non-GS pay plans, please use the approximate senior grade levels. If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
-  
+
 > a. New Hires to SES (PWTD)
 >> Answer: No
 
@@ -672,7 +672,7 @@ _N/A_
 >> Answer: No
 
 _N/A_
- 
+
 ##### 8. Using the qualified applicant pool as the benchmark, does your agency have a trigger involving PWTD among the selectees for new hires to supervisory positions? If “yes”, describe the trigger(s) in the text box. Select “n/a” if the applicant data is not available for your agency, and describe your plan to provide the data in the text box.
 
 > a. New Hires for Executives (PWTD)
@@ -707,7 +707,7 @@ _N/A_
 >> Answer: No
 
 _N/A_
-        
+
 | Separations |Total # | Reportable Disabilities % | Without Reportable Disabilities % |
 | :---: | :---: | :---: | :---: |
 |Permanent Workforce: Reduction in Force|0|0.00|0.00|
@@ -719,7 +719,7 @@ _N/A_
 {: #t6a2 .data .usa-table }
 
 ##### 3. Using the inclusion rate as the benchmark, did the percentage of PWTD among voluntary and involuntary separations exceed that of persons without targeted disabilities? If “yes”, describe the trigger below.
-    
+
 > a. Voluntary Separations (PWDT)
 >> Answer: No
 
@@ -739,13 +739,13 @@ _N/A_
 {: #t6a3 .data .usa-table }
 
 ##### 4.  If a trigger exists involving the separation rate of PWD and/or PWTD, please explain why they left the agency using exit interview results and other data sources.
-    
+
 _N/A_
 
 #### B. Accessibility of Technology and Facilities
 
 Pursuant to 29 CFR §1614.203(d)(4), federal agencies are required to inform applicants and employees of their rights under Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. § 794(b), concerning the accessibility of agency technology, and the Architectural Barriers Act of 1968 (42 U.S.C. § 4151-4157), concerning the accessibility of agency facilities. In addition, agencies are required to inform individuals where to file complaints if other agencies are responsible for a violation.
-    
+
 ##### 1. Please provide the internet address on the agency’s public website for its notice explaining employees’ and applicants’ rights under Section 508 of the Rehabilitation Act, including a description of how to file a complaint.
 
 _https://www.access-board.gov/about/policy/accessibility.html_
@@ -770,7 +770,7 @@ _21 days_
 
 _The Access Board ensure all reasonable accommodations requests and approved requests are processed timely. Managers and supervisor are provide training during the monthly leadership meetings._
 
-#### D. Personal Assistance Services Allowing Employees to Participate in the Workplace    
+#### D. Personal Assistance Services Allowing Employees to Participate in the Workplace
 
 **Pursuant to 29 CFR §1614.203(d)(5), federal agencies, as an aspect of affirmative action, are required to provide personal assistance services (PAS) to employees who need them because of a targeted disability, unless doing so would impose an undue hardship on the agency.**
 
@@ -792,12 +792,12 @@ _The Access Board processing requests for PAS, timely providing approved service
 
 _N/A_
 
-#### B. EEO Complaint Data Involving Reasonable Accommodation    
+#### B. EEO Complaint Data Involving Reasonable Accommodation
 
 1.  During the last fiscal year, did a higher percentage of PWD file a formal EEO complaint alleging failure to provide a reasonable accommodation, as compared to the government-wide average?
 > Answer: No
 
-2.  During the last fiscal year, did any complaints alleging failure to provide reasonable accommodation result in a finding of discrimination or a settlement agreement?   
+2.  During the last fiscal year, did any complaints alleging failure to provide reasonable accommodation result in a finding of discrimination or a settlement agreement?
 > Answer: No
 
 3.  If the agency had one or more findings of discrimination involving the failure to provide a reasonable accommodation during the last fiscal year, please describe the corrective measures taken by the agency.
@@ -831,12 +831,12 @@ How was the condition recognized as a potential barrier?
 
 _A review of the Access Board's workforce data revealed the Access Board is not meeting the PWTD goal at the GS 1-10 grades. The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified._
 
-#### Statement of Barrier Groups:    
+#### Statement of Barrier Groups:
 
 ##### Barrier Group:
 
 People with Targeted Disabilities
- 
+
 ##### Barrier Analysis Process Completed?:
 
 Yes
@@ -864,14 +864,14 @@ _N/A_
 | 03/06/2024 | 01/15/2026 | Yes | &nbsp; | &nbsp; | Increase PWTD in grade cluster GS 1-10. |
 | &nbsp; | &nbsp; | &nbsp;| &nbsp; | &nbsp; | The Access Board only has 2 positions at the GS 1-10 grades. The Access Board will endeavor to fill these positions appropriately as they are vacated or create additional positions that meet PWTD criteria when additional needs for these types of positions are identified. |
 {: .usa-table }
-    
+
 #### Responsible Official(s)
 
 | Title | Name | Standards Address The Plan? |
 | :--- | :---  | :---: |
 | Chief of Staff / EEO Director | Drucilla Gordon | Yes |
 {: .usa-table }
-    
+
 #### Planned Activities Toward Completion of Objective
 
 | Target Date | Planned Activities | Sufficient Staffing & Funding? | Modified Date | Completion Date |
@@ -880,12 +880,12 @@ _N/A_
 {: .usa-table }
 
 #### Report of Accomplishments
-    
+
 | Fiscal Year |Accomplishment |
 | :--- | :---  |
 | &nbsp; | &nbsp; |
 {: .usa-table }
-    
+
 ##### 4. Please explain the factor(s) that prevented the agency from timely completing any of the planned activities.
 
 _Multiple retirements, and changes in agency leadership._

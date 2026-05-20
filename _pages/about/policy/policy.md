@@ -23,4 +23,4 @@ permalink: /about/policy/
 - [Privacy Policy and Program]({{ site.baseurl }}/about/policy/privacy.html)
 - [Reasonable Accommodation Procedures]({{ site.baseurl }}/about/policy/ra.html)
 - [Shutdown Plan]({{ site.baseurl }}/about/policy/shutdown.html)
-- [Vulnerability Disclosure Policy]({{ site.baseurl }}/vulnerability-disclosure-policy/)
+- [Vulnerability Disclosure Policy]({{ site.baseurl }}/about/vulnerability-disclosure-policy/)
