@@ -132,16 +132,16 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
     <table class="usa-table">
       <thead class="text-center">
         <tr>
-          <th>Disability Program Task</th>
-          <th>Total Full Time</th>
-          <th>Total Part Time</th>
-          <th>Total Collateral Duty</th>
-          <th>Responsible Official<br />(Name, Title, Office Email)</th>
+          <th scope="col">Disability Program Task</th>
+          <th scope="col">Total Full Time</th>
+          <th scope="col">Total Part Time</th>
+          <th scope="col">Total Collateral Duty</th>
+          <th scope="col">Responsible Official<br />(Name, Title, Office Email)</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Special Emphasis Program for PWD and PWTD</td>
+          <th scope="row">Special Emphasis Program for PWD and PWTD</th>
           <td>1</td>
           <td>0</td>
           <td>0</td>
@@ -150,14 +150,14 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           </td>
         </tr>
         <tr>
-          <td>Section 508 Compliance</td>
+          <th scope="row">Section 508 Compliance</th>
           <td>2</td>
           <td>0</td>
           <td>0</td>
           <td>Alison Levy, Director OTIS<br />Levy@access-board.gov</td>
         </tr>
         <tr>
-          <td>Processing applications from PWD and PWTD</td>
+          <th scope="row">Processing applications from PWD and PWTD</th>
           <td>2</td>
           <td>0</td>
           <td>0</td>
@@ -166,10 +166,10 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           </td>
         </tr>
         <tr>
-          <td>
+          <th  scope="row">
             Answering questions from the public about hiring<br />authorities
             that take disability into account
-          </td>
+          </th>
           <td>2</td>
           <td>0</td>
           <td>0</td>
@@ -178,10 +178,10 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           </td>
         </tr>
         <tr>
-          <td>
+          <th  scope="row">
             Processing reasonable accommodation requests from<br />applicants
             and employees
-          </td>
+          </th>
           <td>2</td>
           <td>0</td>
           <td>0</td>
@@ -190,7 +190,7 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           </td>
         </tr>
         <tr>
-          <td>Architectural Barriers Act Compliance</td>
+          <th scope="row">Architectural Barriers Act Compliance</th>
           <td>2</td>
           <td>0</td>
           <td>0</td>
@@ -332,25 +332,25 @@ _Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a p
     <table class="usa-table">
       <thead class="text-center">
         <tr>
-          <th>New Hires</th>
-          <th>Total (Number)</th>
-          <th>
+          <th scope="col">New Hires</th>
+          <th scope="col">Total (Number)</th>
+          <th scope="col">
             Reportable Disability<br />Permanent Workforce<br />(Percentage)
           </th>
-          <th>
+          <th scope="col">
             Reportable Disability<br />Temporary Workforce<br />(Percentage)
           </th>
-          <th>
+          <th scope="col">
             Targeted Disability<br />Permanent Workforce<br />(Percentage)
           </th>
-          <th>
+          <th scope="col">
             Targeted Disability<br />Temporary Workforce<br />(Percentage)
           </th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>% of Total Applicants</td>
+          <th scope="row">% of Total Applicants</th>
           <td></td>
           <td></td>
           <td></td>
@@ -358,7 +358,7 @@ _Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a p
           <td></td>
         </tr>
         <tr>
-          <td>% of Qualified Applicants</td>
+          <th scope="row">% of Qualified Applicants</th>
           <td></td>
           <td></td>
           <td></td>
@@ -366,7 +366,7 @@ _Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a p
           <td></td>
         </tr>
         <tr>
-          <td>% of New Hires</td>
+          <th scope="row">% of New Hires</th>
           <td></td>
           <td></td>
           <td></td>
@@ -394,15 +394,15 @@ _Pursuant to 29 C.F.R. §1614.203(d)(1)(i) and (ii), agencies must establish a p
     <table class="usa-table">
       <thead class="text-center">
         <tr>
-          <th>New Hires to Mission-Critical Occupations</th>
-          <th>Total<br />(Number)</th>
-          <th>Reportable Disability New Hires<br />(Percentage)</th>
-          <th>Targetable Disability New Hires<br />(Percentage)</th>
+          <th scope="col">New Hires to Mission-Critical Occupations</th>
+          <th scope="col">Total<br />(Number)</th>
+          <th scope="col">Reportable Disability New Hires<br />(Percentage)</th>
+          <th scope="col">Targetable Disability New Hires<br />(Percentage)</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Numerical Goal</td>
+          <th scope="row">Numerical Goal</th>
           <td>--</td>
           <td>12%</td>
           <td>2%</td>
