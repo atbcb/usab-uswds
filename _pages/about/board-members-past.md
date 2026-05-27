@@ -154,7 +154,7 @@ permalink: /about/members-past.html
 * Heather Dowdy (2022-present)
 * Stephanie L. Enyart (2023-present)
 * Mozhdeh Amelia Hamraie (2022-present)
-* Hannah Raissa Ibañez (2022-present)
+* Hannah Raissa Ibañez (2022-2025)
 * Carmen Daniels Jones (2023-2024)
 * Alexis Ander Kashar (2022-present)
 * KR Liu (2022-present)
