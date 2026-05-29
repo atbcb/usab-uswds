@@ -1,7 +1,7 @@
 ---
 layout: none
 title: File an ABA Complaint
-permalink: /enforcement/training-request.html
+permalink: /webinars/training-request.html
 ---
 
 <html lang="en">
