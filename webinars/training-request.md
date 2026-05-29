@@ -1,7 +1,7 @@
 ---
 layout: none
 title: Request Training or Travel
-permalink: /webinars/training-request.htmls
+permalink: /webinars/training-request.html
 ---
 
 <html lang="en">
