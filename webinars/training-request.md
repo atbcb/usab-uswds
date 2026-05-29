@@ -23,7 +23,6 @@ permalink: /webinars/training-request.html
     </div>
   </app-root>
 
-  <script src="{{ '/assets/training-request/training-form-polyfills.js' | relative_url }}" type="module"></script>
   <script src="{{ '/assets/training-request/training-form-scripts.js' | relative_url }}"></script>
   <script src="{{ '/assets/training-request/training-form-main.js' | relative_url }}" type="module"></script>
 
