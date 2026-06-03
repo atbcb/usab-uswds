@@ -22,8 +22,11 @@ Objects with leading edges more than 27 inches (685 mm) and less than 80 inches 
 EXCEPTION: Handrails shall be permitted to protrude 4 ½ inches (115 mm) maximum.
 
 <figure class="advisory">
-  <figcaption>Figure R402.2 Protrusion limits</figcaption>
-  <img src="./images/R402-2_protrusion_limits.png" alt="Elevation front view of person walking with cane and identified minimum vertical clearances and maximum protrusions from the wall." />
+  <img src="./images/R402-2_protrusion_limits.png" alt="Diagram showing a person walking with a cane, illustrating the vertical clearance and protrusion limits for objects mounted on a wall.">
+  <figcaption>
+    <span class="text-bold">Figure R402.2 Protrusion limits</span><br>
+    <span class="text-note">Note: Objects with leading edges more than 27 inches and not more than 80 inches above the walking surface shall not protrude more than 4 inches horizontally into the pedestrian circulation path.</span>
+  </figcaption>
 </figure>
 
 #### R402.3 Post-Mounted Objects
