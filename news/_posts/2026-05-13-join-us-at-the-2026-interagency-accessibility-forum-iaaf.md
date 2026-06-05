@@ -6,7 +6,7 @@ excerpt: 'This year’s annual Interagency Accessibility Forum (IAAF) will be he
 image: /images/uploads/iaaf-banner-2026.jpg
 image_alt_text: "Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board."
 image_border: true
-featured: true
+featured: false
 ---
 
 This year’s annual Interagency Accessibility Forum (IAAF) will be held in a hybrid format on May 21 and 22. The event will be built on the theme **Future-Ready Accessibility: Preparing Government for What’s Next,** and will take place at the GSA Headquarters building and over Zoom for Government. IAAF will feature a blend of presentations, workshops, and discussions led by accessibility professionals in the federal, private, and other sectors. Presentation topics include best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
