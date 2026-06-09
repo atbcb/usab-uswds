@@ -17,7 +17,7 @@ permalink: /ict/fria.html
   <a href="#_Toc377046505">1. Introduction: Update of the Section 508 Standards and the Section 255 Guidelines</a><br />
   <a href="#_Toc471376809">2. Framework to Evaluate the Revised ICT Standards and Guidelines</a><br />
   <a href="#_Toc471376810">3. Current Standards and Guidelines to Ensure Equal Access to ICT for People With Disabilities</a><br />
-  <a href="#_Toc471376811">3.1. Section 508 Standa_Toc471376814rds</a><br />
+  <a href="#_Toc471376811">3.1. Section 508 Standards</a><br />
   <a href="#_Toc471376812">3.2. Section 255 Guidelines</a><br />
   <a href="#_Toc471376813">3.3. W3C Consensus Standards</a><br />
   <a href="#_Toc471376814">3.4. Sections 501 and 504 of the Rehabilitation Act of 1973</a><br />
