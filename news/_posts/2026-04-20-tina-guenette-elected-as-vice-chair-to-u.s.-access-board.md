@@ -6,7 +6,7 @@ excerpt: The U.S. Access Board elected Public Board Member Tina Guenette as its 
 image: /images/uploads/tina-pedersen.jpg
 image_alt_text: Tina Guenette headshot.
 image_border: true
-featured: true
+featured: false
 ---
 
 The U.S. Access Board elected Public Board Member Tina Guenette as its new Vice-Chair. Guenette is an accessibility advocate and motivational speaker and was appointed to the Board in 2023. As the office of Chair of the Board is currently vacant, Guenette will serve as Acting Chair where required, including during the Board’s [upcoming town hall in Rhode Island](https://www.access-board.gov/news/2026/02/11/u-s-access-board-to-hold-town-hall-meeting-in-rhode-island/).
