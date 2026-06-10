@@ -1,0 +1,5 @@
+current directory: /workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/gems/sass-embedded-1.97.2/ext/sass
+/usr/local/rvm/rubies/ruby-3.1.4/bin/ruby -I/usr/local/rvm/rubies/ruby-3.1.4/lib/ruby/3.1.0 -rrubygems /workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/gems/rake-13.3.1/exe/rake RUBYARCHDIR\=/workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.97.2 RUBYLIBDIR\=/workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.97.2
+gem install --force --install-dir /workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.97.2/sass/ruby --no-document --ignore-dependencies --platform x86_64-linux-gnu --version 1.97.2 sass-embedded
+mv /workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.97.2/sass/ruby/gems/sass-embedded-1.97.2-x86_64-linux-gnu/lib/sass/dart-sass dart-sass
+rm -rf /workspaces/usab-uswds/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.97.2/sass/ruby
