@@ -3,8 +3,8 @@ layout: post
 title: Celebrating 25 Years of Section 508 Standards
 date: 2026-06-11
 excerpt: June 21, 2026, marks the 25th anniversary of the original enforcement date of the U.S. Access Board’s Section 508 Standards. Over the past quarter century, the standards have played a critical role in helping to ensure that Americans with disabilities have access to federal information and communication technology (ICT) . . .
-image: /images/uploads/Section 508 25th logo.png
-image_alt_text: Text overlaying the Access Board logo reads:25 years of the section 508 standards, 2001-2026.
+image: /images/uploads/Section-508-25th-anniversary-logo.png
+image_alt_text: Text overlaying the Access Board logo reads:25 years of section 508 standards, 2001-2026.
 image_border: false
 featured: true
 ---
