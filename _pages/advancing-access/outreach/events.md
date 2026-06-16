@@ -12,7 +12,40 @@ permalink: /events/
 
 ## Public Events
 
-The U.S. Access Board will hold its next Board meeting on July 29, 2026 at its offices in Washington, DC. More information is forthcoming.
+All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **Wednesday, July 29 from 1:30 – 3:00 PM (ET)**. The agenda for the meeting includes several Board votes, brief reports from standing Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
+
+Members of the public may attend and listen to the session through [Zoom for Government](https://www.zoomgov.com/j/1611432557 "external link"), by phone, [via livestream](https://www.youtube.com/watch?v=UAVRtCEbOTo), or in person at the Board’s Washington D.C. Conference Space. For further information, contact [events@access-board.gov](mailto:events@access-board.gov).
+
+**Public Meeting of the U.S. Access Board**\
+July 29, 2026 \
+1:30 – 3:00 PM (ET) 
+
+**_In-Person Attendance Information_**\
+U.S. Access Board Conference Space\
+1331 F Street NW \
+Suite 800 \
+Washington, D.C. 20004\
+_Note_: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
+
+**_Virtual Attendance Information_** \
+Meeting link: [https://www.zoomgov.com/j/1611432557](https://www.zoomgov.com/j/1611432557)\
+Meeting ID: 161 143 2557\
+Passcode: 426429\
+Dial in: 1-646-828-7666  \
+Contact: [events@access-board.gov](mailto:events@access-board.gov)\
+[Livestream link](https://www.youtube.com/watch?v=UAVRtCEbOTo)
+
+**_Agenda_**
+
+- Introductory Remarks and Roll Call
+- Board vote on approval of draft January 2026 meeting minutes
+- Board vote on location of 2028 and 2029 out-of-town Board meetings
+- Executive Director’s Report
+- Standing Committee Reports
+- Election Assistance Commission
+- Federal Agency Updates
+- New Business
+- Adjourn
 
 ### Public Events Archives
 
