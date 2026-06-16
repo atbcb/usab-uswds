@@ -1,3 +1,10 @@
+- title: Board Meeting on July 29
+  text: "All are welcome to attend the next meeting of the Access Board, which will take place on Wednesday, July 29 from 1:30 – 3:00 PM (ET) in Washington, DC and online."
+  image: /images/stock/hero-boardmeeting.jpeg
+  description: A group attends a Board meeting
+  linkto: /news/2026/06/16/u.s.-access-board-meeting-on-july-29/
+  linktext: Learn More
+
 - title: Technical Assistance
   text: "The Access Board provides confidential technical assistance on its accessibility guidelines and standards."
   image: /images/stock/hero-blue-world-crop.jpg
@@ -21,8 +28,8 @@
 
 - title: Public Events
   text: "Learn more about upcoming events and access archived event recordings of the Board."
-  image: /images/stock/hero-boardmeeting.jpeg
-  description: A group attends a Board meeting
+  image: /images/uploads/crosswalk-hero.png
+  description: A wheelchair user utilizes a crosswalk
   linkto: /events/
   linktext: Learn More
 
