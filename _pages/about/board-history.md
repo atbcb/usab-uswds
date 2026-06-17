@@ -4,6 +4,7 @@ layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/history.html
+in_page_nav: true
 ---
 
 # History of the U.S. Access Board
@@ -68,14 +69,14 @@ Later under the ADA, its continued use by state and local governments would be p
 ![photo of President George H W Bush signing the ADA]({{ site.baseurl }}/images/ada-signing.jpg){: .float-right }
 
 On July 26, 1990, President George Bush signed into law the Americans with Disabilities Act, a comprehensive measure to protect the rights of people with disabilities.&nbsp;
-The ADA bans discrimination based on disability in the private sector and the state and local government sectors and requires access to programs and services, facilities, transportation, employment, and communication. 
+The ADA bans discrimination based on disability in the private sector and the state and local government sectors and requires access to programs and services, facilities, transportation, employment, and communication.
 
 <q>In this extraordinary year,</q> said President Bush at a White House signing ceremony, <q>we have seen our own Declaration of Independence inspire the march of freedom &hellip; It is altogether fitting that the American people have once again given clear expression to our most basic ideals of freedom and equality.&nbsp;
 The Americans with Disabilities Act represents the full flowering of our own democratic principles.</q>
 
 Under the law, the Access Board was charged with developing accessibility guidelines for facilities and transportation systems.&nbsp;
 The Access Board also was given the responsibility to provide technical assistance and training on the guidelines and to conduct research to support and maintain the guidelines.&nbsp;
-This greatly expanded the Access Board’s mission, as its guidelines now addressed not only federally funded buildings, but also the wide range of facilities in the private and public sectors covered by the ADA. 
+This greatly expanded the Access Board’s mission, as its guidelines now addressed not only federally funded buildings, but also the wide range of facilities in the private and public sectors covered by the ADA.
 
 ## 1991 – Access Board Publishes the ADA Accessibility Guidelines (ADAAG)
 
@@ -84,7 +85,7 @@ This greatly expanded the Access Board’s mission, as its guidelines now addres
 The Access Board published the ADA Accessibility Guidelines (ADAAG) on the first anniversary of the ADA, July 26, 1991.&nbsp;
 Like UFAS, ADAAG contains detailed design requirements for accessibility in new construction and alterations.&nbsp;
 On the same day, the Department of Justice adopted ADAAG as the basis of its enforceable standards, which made compliance with the requirements mandatory under the ADA.&nbsp;
-The Access Board also implemented a toll-free hotline to handle questions on ADAAG and accessible design and instituted a program to provide training to the public. 
+The Access Board also implemented a toll-free hotline to handle questions on ADAAG and accessible design and instituted a program to provide training to the public.
 
 Several weeks later, the Access Board followed up with its ADA guidelines for transportation vehicles and facilities.&nbsp;
 Published on September 6, 1991, these guidelines address access to different modes of public transportation, including buses, vans, rail vehicles, automated guideway systems, and trams.&nbsp;
@@ -93,7 +94,7 @@ This document was identical to the earlier ADAAG, but included provisions for bu
 The Department of Transportation adopted the guidelines as its enforceable ADA standards for transportation systems.
 
 In following years, the Access Board supplemented ADAAG to specifically address state and local government facilities, including courthouses and prisons (1998), children’s environments (1998), and recreation facilities, including play areas (2000 - 2002).&nbsp;
-It also initiated rulemaking to address access to streets, sidewalks, trails, beaches, and picnic and camping areas.    
+It also initiated rulemaking to address access to streets, sidewalks, trails, beaches, and picnic and camping areas.
 
 ## 1996 – Access Board Gains New Responsibilities under the Telecommunications Act
 
