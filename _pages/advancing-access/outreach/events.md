@@ -70,7 +70,7 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 - July 27 - 29, 2026, In-person, Washington, DC
 - October 26 - 28, 2026, Virtual
 - January 25 - 27, 2027, Virtual
-- April 12 - 16, 2027, In-person, Nashville, TN
+- April 13 - 15, 2027, In-person, Nashville, TN
 - July 26 - 28, 2027, In-person, Washington, DC
 - October 25 - 27, 2027, Virtual
 

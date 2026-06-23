@@ -52,7 +52,7 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)\
 - July 27 - 29, 2026, In-person, Washington, DC
 - October 26 - 28, 2026, Virtual
 - January 25 - 27, 2027, Virtual
-- April 12 - 16, 2027, In-person, Nashville, TN
+- April 13 - 15, 2027, In-person, Nashville, TN
 - July 26 - 28, 2027, In-person, Washington, DC
 - October 25 - 27, 2027, Virtual
 
