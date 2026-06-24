@@ -12,26 +12,53 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-The U.S. Access Board will hold a public town hall meeting on **Tuesday, May 5, 2026,** from **1:00 – 3:00 p.m. (ET)** at Bally’s Lincoln Event Center, 100 Twin River Rd, Lincoln, RI. Presidentially appointed Access Board Members and representatives from other federal member agencies will be present to hear from the local community about the state of accessibility in Rhode Island. For further information, see the agency's [news release on the town hall](https://www.access-board.gov/news/2026/02/11/u-s-access-board-to-hold-town-hall-meeting-in-rhode-island/).
+All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **Wednesday, July 29 from 1:30 – 3:00 PM (ET)**. The agenda for the meeting includes several Board votes, brief reports from standing Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
 
-**U.S. Access Board Town Hall Meeting**\
-May 5, 2026, 1:00 – 3:00 p.m. (ET)\
-Bally’s Lincoln Event Center\
-100 Twin River Rd\
-Lincoln, RI 02865
+Members of the public may attend and listen to the session through [Zoom for Government](https://www.zoomgov.com/j/1611432557 "external link"), by phone, [via livestream](https://www.youtube.com/watch?v=UAVRtCEbOTo), or in person at the Board’s Washington D.C. Conference Space. For further information, contact [events@access-board.gov](mailto:events@access-board.gov).
+
+**Public Meeting of the U.S. Access Board**\
+July 29, 2026 \
+1:30 – 3:00 PM (ET) 
+
+**_In-Person Attendance Information_**\
+U.S. Access Board Conference Space\
+1331 F Street NW \
+Suite 800 \
+Washington, D.C. 20004\
+_Note_: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
+
+**_Virtual Attendance Information_** \
+Meeting link: [https://www.zoomgov.com/j/1611432557](https://www.zoomgov.com/j/1611432557)\
+Meeting ID: 161 143 2557\
+Passcode: 426429\
+Dial in: 1-646-828-7666  \
+Contact: [events@access-board.gov](mailto:events@access-board.gov)\
+[Livestream link](https://www.youtube.com/watch?v=UAVRtCEbOTo)
+
+**_Agenda_**
+
+- Introductory Remarks and Roll Call
+- Board vote on approval of draft January 2026 meeting minutes
+- Board vote on location of 2028 and 2029 out-of-town Board meetings
+- Executive Director’s Report
+- Standing Committee Reports
+- Election Assistance Commission
+- Federal Agency Updates
+- New Business
+- Adjourn
 
 ## Future Board Meetings
 
-- May 5 - 7, 2026, In-person, Providence, RI
 - July 27 - 29, 2026, In-person, Washington, DC
 - October 26 - 28, 2026, Virtual
 - January 25 - 27, 2027, Virtual
-- April 12 - 16, 2027, In-person, Nashville, TN
+- April 13 - 15, 2027, In-person, Nashville, TN
 - July 26 - 28, 2027, In-person, Washington, DC
 - October 25 - 27, 2027, Virtual
 
 ## Board Meeting Archives
 
+- [May 5, 2026](https://www.youtube.com/watch?v=zwPK4t7d_Ts)
 - [January 28, 2026](https://www.youtube.com/watch?v=czOJYb4pTvg&t=2866s)
 - [July 9, 2025](https://www.youtube.com/watch?v=w3tbOSkbvYw&t=3679s)
 - [April 30, 2025](https://www.youtube.com/watch?v=OVOau4Z9BGU&t=1753s)
