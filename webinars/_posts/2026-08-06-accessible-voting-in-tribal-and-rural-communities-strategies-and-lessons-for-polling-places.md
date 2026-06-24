@@ -28,8 +28,8 @@ Join the United States Access Board and The Native American Disability Law Cente
 
 ### Speakers
 
-- [Hoskie Benally, Community and Government Liaison, Native American Disability Law Center](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11179&ret=Accessible%20Voting%20in%20Tribal%20and%20Rural%20Communities:%20Strategies%20and%20Lessons%20for%20Polling%20Places)
-- [Austin Moore, Staff Attorney, Native American Disability Law Center](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11180&ret=Accessible%20Voting%20in%20Tribal%20and%20Rural%20Communities:%20Strategies%20and%20Lessons%20for%20Polling%20Places)
+- [Hoskie Benally, Community and Government Liaison, NADLC](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11179&ret=Accessible%20Voting%20in%20Tribal%20and%20Rural%20Communities:%20Strategies%20and%20Lessons%20for%20Polling%20Places)
+- [Austin Moore, Staff Attorney, NADLC](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11180&ret=Accessible%20Voting%20in%20Tribal%20and%20Rural%20Communities:%20Strategies%20and%20Lessons%20for%20Polling%20Places)
 - [Amy Nieves, Public Affairs Specialist, U.S. Access Board](https://www.accessibilityonline.org/speakers/speaker.aspx?id=11099&ret=Accessible%20Voting%20in%20Tribal%20and%20Rural%20Communities:%20Strategies%20and%20Lessons%20for%20Polling%20Places)
 
 ### Privacy Statement
