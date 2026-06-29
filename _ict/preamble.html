@@ -2422,38 +2422,38 @@ version: original
     <thead>
       <tr>
         <td id="r1_c1blank">&nbsp;</td>
-        <th colspan="2" scope="colgroup" id="lnbs">Low Net Benefit Scenario</th>
-        <th colspan="2" scope="colgroup" id="es">Expected Scenario</th>
-        <th colspan="2" scope="colgroup" id="hnbs">High Net Benefit Scenario</th>
+        <th colspan="2" id="lnbs">Low Net Benefit Scenario</th>
+        <th colspan="2" id="es">Expected Scenario</th>
+        <th colspan="2" id="hnbs">High Net Benefit Scenario</th>
       </tr>
       <tr>
         <td id="r2_c1blank">&nbsp;</td>
-        <th id="lnbs7">7%<br />
+        <th id="lnbs7" headers="lnbs">7%<br />
           Discount<br />
           Rate</th>
-        <th id="lnbs3">3%<br />
+        <th id="lnbs3" headers="lnbs">3%<br />
           Discount<br />
           Rate</th>
-        <th id="es7">7%<br />
+        <th id="es7" headers="es">7%<br />
           Discount<br />
           Rate</th>
-        <th id="es3">3%<br />
+        <th id="es3" headers="es">3%<br />
           Discount<br />
           Rate</th>
-        <th id="hnbs7">7%<br />
+        <th id="hnbs7" headers="hnbs">7%<br />
           Discount<br />
           Rate</th>
-        <th id="hnbs3">3%<br />
+        <th id="hnbs3" headers="hnbs">3%<br />
           Discount<br />
           Rate</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th colspan="7" scope="colgroup" id="mib">Monetized Incremental Benefits</th>
+        <th colspan="7" id="mib">Monetized Incremental Benefits</th>
       </tr>
       <tr>
-        <th id="bf">Benefits to Federal agencies from increased productivity by Federal employees with addressable disabilities </th>
+        <th id="bf" headers="mib">Benefits to Federal agencies from increased productivity by Federal employees with addressable disabilities </th>
         <td headers="mib bf lnbs lnbs7">$18.2</td>
         <td headers="mib bf lnbs lnbs3">$19.3</td>
         <td headers="mib bf es es7">$47.7</td>
@@ -2462,7 +2462,7 @@ version: original
         <td headers="mib bf hnbs hnbs3">$160.9</td>
       </tr>
       <tr>
-        <th id="bi">Benefits to individuals with addressable disabilities from improved Federal Web site accessibility</th>
+        <th id="bi" headers="mib">Benefits to individuals with addressable disabilities from improved Federal Web site accessibility</th>
         <td headers="mib bi lnbs lnbs7">$2.8 </td>
         <td headers="mib bi lnbs lnbs3">$3.0</td>
         <td headers="mib bi es es7">$2.8</td>
@@ -2471,7 +2471,7 @@ version: original
         <td headers="mib bi hnbs hnbs3">$3.0</td>
       </tr>
       <tr>
-        <th id="bfa">Benefits to Federal agencies from reduced call volumes</th>
+        <th id="bfa" headers="mib">Benefits to Federal agencies from reduced call volumes</th>
         <td headers="mib bfa lnbs lnbs7">$10.9</td>
         <td headers="mib bfa lnbs lnbs3">$11.7</td>
         <td headers="mib bfa es es7">$21.9</td>
@@ -2480,7 +2480,7 @@ version: original
         <td headers="mib bfa hnbs hnbs3">$35.1</td>
       </tr>
       <tr>
-        <th id="ta">TOTAL Annualized Value of Monetized Incremental Benefits</th>
+        <th id="ta" headers="mib">TOTAL Annualized Value of Monetized Incremental Benefits</th>
         <td headers="mib ta lnbs lnbs7"><strong>$32.0</strong></td>
         <td headers="mib ta lnbs lnbs3"><strong>$34.0</strong></td>
         <td headers="mib ta es es7"><strong>$72.4</strong></td>
@@ -2491,10 +2491,10 @@ version: original
     </tbody>
     <tbody>
       <tr>
-        <th colspan="7" scope="colgroup" id="mic">Monetized Incremental Costs</th>
+        <th colspan="7" id="mic">Monetized Incremental Costs</th>
       </tr>
       <tr>
-        <th id="cf">Costs to Federal agencies, contractors, and vendors:</th>
+        <th id="cf" headers="mic">Costs to Federal agencies, contractors, and vendors:</th>
         <td headers="mic cf lnbs lnbs7">$276.2</td>
         <td headers="mic cf lnbs lnbs3">$287.4</td>
         <td headers="mic cf es es7">$122.8</td>
@@ -2503,7 +2503,7 @@ version: original
         <td headers="mic cf hnbs hnbs3">$117.2</td>
       </tr>
       <tr>
-        <th id="ih">(a) In-house</th>
+        <th id="ih" headers="mic">(a) In-house</th>
         <td headers="mic ih lnbs lnbs7">$150.1</td>
         <td headers="mic ih lnbs lnbs3">$156.2</td>
         <td headers="mic ih es es7">$93.8</td>
@@ -2512,7 +2512,7 @@ version: original
         <td headers="mic ih hnbs hnbs3">$63.5</td>
       </tr>
       <tr>
-        <th id="pi">(b) Procured ICT</th>
+        <th id="pi" headers="mic">(b) Procured ICT</th>
         <td headers="mic pi lnbs lnbs7">$126.1</td>
         <td headers="mic pi lnbs lnbs3">$131.2</td>
         <td headers="mic pi es es7">$79.0</td>
@@ -2521,7 +2521,7 @@ version: original
         <td headers="mic pi hnbs hnbs3">$53.7</td>
       </tr>
       <tr>
-        <th id="ct">Costs to tele&shy;com&shy;munica&shy;tions equipment and CPE manufacturers for accessible Web sites and support
+        <th id="ct" headers="mic">Costs to tele&shy;com&shy;munica&shy;tions equipment and CPE manufacturers for accessible Web sites and support
           documentation</th>
         <td headers="mic ct lnbs lnbs7">$9.5</td>
         <td headers="mic ct lnbs lnbs3">$9.6</td>
@@ -2531,7 +2531,7 @@ version: original
         <td headers="mic ct hnbs hnbs3">$9.6</td>
       </tr>
       <tr>
-        <th id="tav">TOTAL Annualized Value of Monetized Incremental Costs</th>
+        <th id="tav" headers="mic">TOTAL Annualized Value of Monetized Incremental Costs</th>
         <td headers="mic tav lnbs lnbs7"><strong>$285.7</strong></td>
         <td headers="mic tav lnbs lnbs3"><strong>$296.9</strong></td>
         <td headers="mic tav es es7"><strong>$182.4</strong></td>
@@ -2749,30 +2749,30 @@ version: original
     </caption>
     <thead>
       <tr>
-        <th>NAICS code</th>
-        <th>Industry title</th>
-        <th>SBA small business size standard</th>
-        <th>Number of firms</th>
-        <th>Number of small firms</th>
+        <th scope="col">NAICS code</th>
+        <th scope="col">Industry title</th>
+        <th scope="col">SBA small business size standard</th>
+        <th scope="col">Number of firms</th>
+        <th scope="col">Number of small firms</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th>334111</th>
+        <th scope="row">334111</th>
         <td>Electronic Computer Manufacturing</td>
         <td>1,250 or fewer employees</td>
         <td>382</td>
         <td>365</td>
       </tr>
       <tr>
-        <th>334210</th>
+        <th scope="row">334210</th>
         <td>Telephone Apparatus Manufacturing</td>
         <td>1,250 or fewer employees</td>
         <td>249</td>
         <td>231</td>
       </tr>
       <tr>
-        <th>334220</th>
+        <th scope="row">334220</th>
         <td>Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</td>
         <td>1,250 or fewer employees</td>
         <td>748</td>
@@ -3131,28 +3131,28 @@ version: original
     </thead>
     <tbody>
       <tr>
-        <th>Section 602.2</th>
+        <th scope="row">Section 602.2</th>
         <td>1,379</td>
         <td>6</td>
         <td>1.5</td>
         <td>12,411</td>
       </tr>
       <tr>
-        <th>Section 602.3</th>
+        <th scope="row">Section 602.3</th>
         <td>1,379</td>
         <td>95% of 6</td>
         <td>300</td>
         <td>2,358,090</td>
       </tr>
       <tr>
-        <th>Section 602.4</th>
+        <th scope="row">Section 602.4</th>
         <td>1,379</td>
         <td>5% of 6</td>
         <td>25</td>
         <td>25 10,343</td>
       </tr>
       <tr>
-        <th>Section 603</th>
+        <th scope="row">Section 603</th>
         <td>1,379</td>
         <td>6</td>
         <td>.5</td>
