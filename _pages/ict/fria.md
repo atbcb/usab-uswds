@@ -138,7 +138,7 @@ permalink: /ict/fria.html
   <a href="#_Toc471376927">Table E-1. Annual Value of Incremental Monetized Benefits, 2018–2027 (Millions)</a><br />
   <a href="#_Toc471376928">Table E-2. Annual Value of Incremental Monetized Costs, 2018–2027 (Millions)</a></p>
 <hr />
-<h3> <a id="_Toc377046499">Executive Summary</a></h3>
+<h3> <a id="_Toc471376807">Executive Summary</a></h3>
 <p>The U.S. Architectural and Transportation Barriers Compliance Board (hereafter the &quot;Access Board&quot;) is the Federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology. Section 508 of the Rehabilitation Act of 1973, as amended in 1998, is intended to ensure that people with various types of disabilities have equal access to information and communication technology (ICT). In 2000, the Access Board developed and adopted standards to support the implementation of Section 508. The current Section 508 standards contain six sections of requirements that apply to Web sites and applications, software applications and operating systems, telecommunications products, video and multimedia products, &quot;self-contained, closed products&quot; (such as multifunction copiers), and desktop and portable computers. The current standards also apply to electronic content, including documents, audio, video, and multimedia. Section 508 is specifically applicable to Federal Government agencies, but the standards are also relevant for Government contractors and vendors of ICT products, services, and content.<a id="_ftnref1" href="#_ftn1">[1]</a></p>
 <p>Section 255 of the Communications Act of 1934, as amended, requires telecommunication equipment to be accessible to and usable by individuals with disabilities where &quot;readily achievable&quot;. The Access Board is statutorily responsible for developing accessibility guidelines for telecommunication equipment and customer premise equipment (CPE) and for reviewing and updating the guidelines periodically.&nbsp; The Federal Communications Commission (FCC), is, however, solely responsible for issuing implementing regulations and enforcing Section 255.&nbsp; The FCC is not bound to adopt the Access Board's guidelines as its own or to use them as minimum standards.&nbsp; In 1998, the Access Board published Section 255 guidelines.</p>
 <h4>ES.1. The Final Rule</h4>
@@ -190,7 +190,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Benefits from increased Federal employee productivity</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from increased Federal employee productivity</p></th>
       <td><p style="text-align: right;">$18.2</p></td>
       <td><p style="text-align: right;">$19.3</p></td>
       <td><p style="text-align: right;">$47.7</p></td>
@@ -199,7 +199,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$160.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with addressable disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with addressable disabilities</p></th>
       <td><p style="text-align: right;">$2.8</p></td>
       <td><p style="text-align: right;">$3.0</p></td>
       <td><p style="text-align: right;">$2.8</p></td>
@@ -208,7 +208,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$3.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits to Federal agencies from reduced call volumes</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to Federal agencies from reduced call volumes</p></th>
       <td><p style="text-align: right;">$10.9</p></td>
       <td><p style="text-align: right;">$11.7</p></td>
       <td><p style="text-align: right;">$21.9</p></td>
@@ -228,7 +228,7 @@ permalink: /ict/fria.html
   </tbody>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">In-house ICT costs</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">In-house ICT costs</p></th>
       <td><p style="text-align: right;">$150.1</p></td>
       <td><p style="text-align: right;">$156.2</p></td>
       <td><p style="text-align: right;">$93.8</p></td>
@@ -237,7 +237,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$63.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Procured ICT costs</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Procured ICT costs</p></th>
       <td><p style="text-align: right;">$126.1</p></td>
       <td><p style="text-align: right;">$131.2</p></td>
       <td><p style="text-align: right;">$79.0</p></td>
@@ -246,7 +246,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$53.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Costs of telecommunications manufacturer product support Web site and content development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Costs of telecommunications manufacturer product support Web site and content development</p></th>
       <td><p style="text-align: right;">$9.5</p></td>
       <td><p style="text-align: right;">$9.6</p></td>
       <td><p style="text-align: right;">$9.5</p></td>
@@ -362,7 +362,7 @@ permalink: /ict/fria.html
 <h4><a id="_Toc269480744">ES.6. Conclusion</a></h4>
 <p>This evaluation indicates that the monetized costs of the final rule exceed the monetized benefits. The annualized costs for the revised Section 508 standards, net of the annualized benefits, represent about 9 percent of current annual Section 508 compliance costs. It is important to note, however, that there are potentially substantial compliance costs as well as significant benefits to people with disabilities, Federal agencies, contractors, and vendors for which adequate data were not available to develop monetized estimates. Indeed, the benefits of the final rule include important but inherently unquantifiable national values that are explicitly recognized in Executive Order 13563, including greater social equity, human dignity, and fairness.</p>
 <p>Considering all monetized and qualitative benefits and costs together, the Access Board and Econometrica have made a determination that the benefits of the final rule of the Section 508 standards and Section 255 guidelines justify the costs.</p>
-<h3> <a id="_Toc377046505">1. Introduction: Update of the Section 508 Standards and the Section 255 Guidelines</a></h3>
+<h3> <a id="_Toc471376808">1. Introduction: Update of the Section 508 Standards and the Section 255 Guidelines</a></h3>
 <p> <a id="_Toc377046506">The Access Board is an independent Federal agency devoted to accessibility for people with disabilities. The Access Board develops and maintains design criteria for the built environment, transit vehicles, telecommunications equipment, and electronic and information technologies. </a></p>
 <p>Section 508 of the Rehabilitation Act (as amended) requires that when Federal agencies develop, procure, maintain, or use electronic and information technologies, they must ensure that the electronic and information technologies allow Federal employees with disabilities to have access to and use of information and data that is comparable to the access to and use of information and data by Federal employees who do not have disabilities, unless doing so would impose an undue burden on the agency. Section 508 also requires that members of the public with disabilities who are seeking information or services from a Federal agency have access to and use of information and data that is comparable to that provided to the members of the public without disabilities, unless it would impose an undue burden on the agency.</p>
 <p>The Access Board was required to develop and publish technical and functional performance criteria to implement Section 508. In 2000, the Board published standards that apply to Web sites and applications; software applications and operating systems; computers, peripherals, and &quot;self-contained, closed products&quot;; and electronic content, including documents, audio, video, and multimedia. Federal agencies are required to comply with the Section 508 standards and to incorporate them into the procurement requirements for ICT products, professional services, and content procured from contractors and vendors.<a id="_ftnref8" href="#_ftn8">[8]</a> The term &quot;information and communication technology&quot; is used throughout the preamble and final rule to broadly encompass electronic and information technology covered by Section 508, as well as telecommunications products, interconnected VoIP products, and CPE covered by Section 255. Examples of ICT include computers, information kiosks and transaction machines, telecommunications equipment, multifunction office machines, software, Web sites, and electronic documents.</p>
@@ -388,7 +388,7 @@ permalink: /ict/fria.html
 </ul>
 <p>A similar approach could be followed to characterize and evaluate the societal impact of the revised Section 255 guidelines. However, we could not locate adequate data to develop quantitative estimates of the impact of many provisions in the revised Section 255 guidelines.</p>
 <p>The rapid evolution of ICT devices, platforms, applications, and consensus standards complicates evaluation of the revised regulatory requirements. Therefore, the benefits and costs of the revised standards and guidelines ultimately depend not only on technologies that are currently available to achieve compliance, but also on emerging technologies that may provide better or more cost-effective options to ensure equal access to ICT for people with disabilities in the future.</p>
-<h3> 3. Current Standards and Guidelines to Ensure Equal Access to ICT for People With Disabilities</h3>
+<h3 id="_Toc471376810"> 3. Current Standards and Guidelines to Ensure Equal Access to ICT for People With Disabilities</h3>
 <p>The Access Board, DOJ, and the FCC each have defined responsibilities relating to the development and/or implementation of current Federal standards and guidelines designed to ensure equal access to ICT for people with disabilities.<a id="_ftnref15" href="#_ftn15">[15]</a> In addition to the current Section 508 standards and Section 255 guidelines, Federal, State, and local government agencies, private for-profit and nonprofit entities, employers, and employees may be required to comply with other ICT-related accessibility obligations under Section 501 or 504 of the Rehabilitation Act of 1973. The FCC has also recently adopted or proposed requirements to implement accessibility regulations covering some telecommunications services and video programming mandated by the Twenty-First Century Communications and Video Accessibility Act (CVAA) of 2010.</p>
 <p>Many State and local governments, public university systems, and libraries have also adopted (or, in some cases, have been required to adopt) policies or standards related to ICT accessibility. These standards typically reference or are partly based on requirements in the current Section 508 standards. In contrast, U.S. corporations and foreign governments seeking to ensure equal access to Web content and applications have typically done so by either referencing or adapting the WCAG 2.0 Conformance Requirements and Success Criteria.</p>
 <h4 id="_Toc471376811">3.1. Section 508 Standards</h4>
@@ -415,13 +415,13 @@ permalink: /ict/fria.html
 </ul>
 <p>WCAG 2.0 applies broadly to more advanced technologies than WCAG 1.0. It is easier to use and understand and is more precisely testable with automated testing and human evaluation. The performance criteria specified in each section of WCAG 2.0 are widely regarded to be operationally achievable, measurable, and potentially enforceable.<a id="_ftnref24" href="#_ftn24">[24]</a> In contrast, elements of both WCAG 1.0 and the current Section 508 standards that address some of the same accessibility issues are difficult to measure and evaluate consistently.</p>
 <p>In February 2014, the European Telecommunications Standards Institute (ETSI) published a new standard—EN 301 549—that uses the WCAG 2.0 Level A and Level AA Success Criteria as the basis to evaluate accessibility for all covered Web and non-Web electronic content.<a id="_ftnref25" href="#_ftn25">[25]</a> Foreign government Web site accessibility requirements are also typically defined by reference to, or are largely based on, WCAG 2.0. Australia, Canada, Hong Kong, and New Zealand Government sites are or will be required to meet the WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. France and Germany have national standards that are based on but not identical to WCAG 2.0 (Level AA), while United Kingdom Government Web sites are required to comply with either WCAG 1.0 or 2.0 at the AA level.<a id="_ftnref26" href="#_ftn26">[26]</a></p>
-<h4> 3.4. Sections 501 and 504 of the Rehabilitation Act of 1973</h4>
+<h4 id="_Toc471376814"> 3.4. Sections 501 and 504 of the Rehabilitation Act of 1973</h4>
 <p>Federal agencies and recipients of funding are subject to additional obligations to accommodate employees and ensure access for programs and activities under other parts of the Rehabilitation Act of 1973. Section 501 requires affirmative action and prohibits discrimination in employment by Federal agencies of the Executive branch of Government. Federal agencies are required to provide reasonable accommodation for Federal employees with disabilities, including provision of accessible ICT and electronic content, unless doing so would cause undue hardship.<a id="_ftnref27" href="#_ftn27">[27]</a></p>
 <p>Section 504 requires that qualified individuals with disabilities must not be excluded from, denied access to, or subjected to discrimination under any program or activity that either receives Federal financial assistance or is conducted by any Executive agency or the U.S. Postal Service (USPS). Each Federal agency has its own Section 504 regulations that apply to its own programs, and agencies that provide financial assistance have regulations that cover entities receiving Federal aid. Employees must be provided with reasonable accommodations, as well as access to participation in all programs, facilitated communication for people with hearing or vision disabilities, and accessible construction and alterations.<a id="_ftnref28" href="#_ftn28">[28]</a></p>
 <p>It is important to note that Federal agency compliance with the Section 508 standards does not ensure that it has fully discharged its obligations to employees or the public under Section 501 or Section 504. For example, the applicable Department of Health and Human Services guidance notes in part:</p>
 <p>An agency may, in some instances, be able to meet its Section 504 obligation to provide equal opportunity to persons with disabilities and ensure effective communication by making information available in a Section 508-compliant form on its external-facing website or intranet(s). However, in other cases, in order to meet its Section 504 obligation, an agency may need to provide an appropriate auxiliary aid to an individual with a disability, regardless of whether information on its website meets accessibility requirements under Section 508.<a id="_ftnref29" href="#_ftn29">[29]</a></p>
 <h3 id="_Toc471376815">4. An Overview of the Revised 508 Standards and 255 Guidelines</h3>
-<h4> 4.1. Need for Revision of Current Standards and Guidelines</h4>
+<h4 id="_Toc471376816"> 4.1. Need for Revision of Current Standards and Guidelines</h4>
 <p>The requirements in the current Section 508 standards and Section 255 guidelines are product or technology specific rather than being based on the functionality of the ICT. During the past 15 years, previously distinct technologies have converged, and users are increasingly able to perform the same tasks using devices and software that are subject to different accessibility requirements. In addition, some newer technologies (e.g., JavaScript menus on Web sites, mobile phone interfaces) can pose accessibility issues that did not exist at the time the current standards were published. Inter-device and platform interoperability and compatibility have become more important as the numbers and capabilities of ICT products, applications, and content have proliferated. Businesses and foreign governments have adopted new or revised accessibility requirements that reference, or are based on, voluntary consensus standards for electronic applications, content, and devices to address the challenges posed by convergence and need for interoperability.</p>
 <p>In addition, Federal agencies have had to develop additional requirements and guidance for ICT professionals, contracting personnel, and other employees and contractors with Section 508 compliance responsibilities because many of the provisions of the current standards are not measurable or testable. To address the inefficiencies that resulted from each agency needing to develop supplemental requirements, guidance, and testing protocols, the Federal Government has undertaken several ICT initiatives that support uniform cross-agency ICT requirements, compliance guidance, and evaluations of products and services. Consequently, the policies and practices that many Federal agencies now used to measure accessibility have evolved significantly from those specifically set forth in the published requirements.</p>
 <p>The Access Board final rule updates and unifies the current Section 508 standards and 255 guidelines, largely by recognizing and leveraging voluntary consensus standards and current ICT industry practices. By doing so, the Federal Government and telecommunications manufacturers will be able to ensure the accessibility of ICT covered under the Section 508 standards or Section 255 guidelines using a set of functionality-based requirements that is harmonized with those already established in other sectors.</p>
@@ -503,7 +503,7 @@ permalink: /ict/fria.html
 <h5>4.3.2. Application of WCAG 2.0 to Non-Web ICT</h5>
 <p>In addition to electronic documents, hardware, software (including firmware, platforms, and applications), and ICT support documentation and services continue to be covered under the revised standards. Telecommunications equipment will be required to comply with the applicable WCAG 2.0-based requirements to the extent that the revised Section 255 guidelines are included in regulations issued by the Federal Communications Commission under section 255 of the Communications Act of 1934.</p>
 <p>The final rule also incorporates technical specifications in addition to the WCAG 2.0 based requirements that are specifically applicable to software, hardware, and telecommunications equipment. Further information about individual WCAG 2.0 standards and the additional requirements for software, hardware, and telecommunications equipment is provided in Appendix A.</p>
-<h4> 4.4. Major New Requirement Areas in the Revised Standards and Guidelines</h4>
+<h4 id="_Toc471376819"> 4.4. Major New Requirement Areas in the Revised Standards and Guidelines</h4>
 <p>We identified 10 areas in which the revised requirements represent potentially significant changes from current ICT standards and guidelines:</p>
 <ol>
   <li>Applying WCAG 2.0 to software and applications.</li>
@@ -573,11 +573,11 @@ permalink: /ict/fria.html
 </ul>
 <h5>4.4.10. Online Product and Service User Support</h5>
 <p>The final rule also includes revised requirements for ICT support documentation and services; these are listed in Table A-4 of Appendix A. Federal agencies must currently ensure that the electronic content published or posted on Federal Government Web sites complies with the current Section 508 standards. However, the support sections of telecommunications manufacturer Web sites are not currently required to be accessible.</p>
-<h4> 4.5. Scope of Revised ICT Standards and Guidelines: What Entities Will Have to Comply?</h4>
+<h4 id="_Toc471376820"> 4.5. Scope of Revised ICT Standards and Guidelines: What Entities Will Have to Comply?</h4>
 <p>Section 508 specifically applies to most Federal departments and agencies, as well as the USPS.<a id="_ftnref54" href="#_ftn54">[54]</a> A limited number of exemptions (the Government Accountability Office, the Federal Election Commission, and Government-owned, contractor-operated facilities) from Section 508 requirements have been retained under the Access Board proposal. The revised standards and guidelines also retain the present exemption for national security information, although it should be noted that this provision does not provide a blanket exemption for ICT developed or used by the U.S. Department of Defense (DOD), Homeland Security (DHS), and the national intelligence agencies.<a id="_ftnref55" href="#_ftn55">[55]</a></p>
 <p>The rule requirements also apply to ICT procured from Federal contractors and vendors.<a id="_ftnref56" href="#_ftn56">[56]</a> Some of these entities may already be producing products and services that are fully or partly compliant with the requirements in WCAG 2.0.</p>
 <p>Many State and local governments, public university systems, health care and social service organizations, and other entities that receive Federal funding have ICT accessibility policies that are either based on the Section 508 standards or reference them in their entirety. These policies are diverse in content and implementation, so it is difficult to assess the &quot;downstream&quot; impact of the revised ICT standards and guidelines on these entities.<a id="_ftnref57" href="#_ftn57">[57]</a>U.S. and foreign telecommunications equipment manufacturers whose products are sold in the U.S. market continue to be covered by the Section 255 guidelines under the final rule.</p>
-<h3> 5. Significant Changes from the Preliminary Regulatory Impact Analysis to the Final Regulatory Impact Analysis</h3>
+<h3 id="_Toc471376821"> 5. Significant Changes from the Preliminary Regulatory Impact Analysis to the Final Regulatory Impact Analysis</h3>
 <p>In response to comments and because of the availability of certain updated data, this final regulatory impact analysis (FRIA) differs from the PRIA in several significant ways:</p>
 <ul>
   <li>Benefits of the Final Rule:
@@ -601,10 +601,10 @@ permalink: /ict/fria.html
   </li>
 </ul>
 <p>Additionally, three scenarios of incremental benefits and costs are presented in their respective sections illustrating incremental benefits and costs of the rule using alternative parameters that are not based on published estimates (i.e., are assumptions made). These three scenarios include: a low net benefit (using parameters resulting which result in lower benefits and higher costs), an expected (consisting of expected values for assumed parameters), and a high net benefit (using parameters which result in higher benefits and lower costs). Where applicable, tables and text have additional columns corresponding to these scenarios, and parameters with sensitivity ranges have been noted in the text as such, and tables will show different values corresponding to the appropriate scenario.</p>
-<h3 style="text-align: left;"> 6. Incremental Benefits of the Final Rule</h3>
+<h3 id="_Toc471376822"> 6. Incremental Benefits of the Final Rule</h3>
 <p>The revised Section 508 standards are intended to expand and improve access to ICT functionality for Federal employees with disabilities and members of the public with disabilities who are seeking information or data from a Federal agency.<a id="_ftnref58" href="#_ftn58">[58]</a> Both of these groups of people are afforded additional protections under other parts of the Rehabilitation Act of 1973. Section 501 requires accommodations for disabled Federal employees. Section 504 requires any program or activity receiving Federal financial assistance to ensure that individuals with disabilities are able to participate. Section 508 requirements act in part to ensure that these guarantees of access extend to electronic information and ICT functionality.</p>
 <p>The revised Section 255 guidelines are intended to expand and improve the accessibility of telecommunications equipment to people with hearing, vision, learning, and fine motor skill disabilities.</p>
-<h4> 6.1. Types of Addressable Disabilities and Number of Potential Beneficiaries</h4>
+<h4 id="_Toc471376823"> 6.1. Types of Addressable Disabilities and Number of Potential Beneficiaries</h4>
 <p>The functional performance criteria in Section 302 of the final rule identify nine types of physical disabilities and limitations that can be potentially addressed by ICT accessibility standards and guidelines. A Census Bureau report entitled &quot;Americans with Disabilities: 2010&quot; provides the following population estimates among individuals 15 years and older:<a id="_ftnref59" href="#_ftn59">[59]</a></p>
 <ul>
   <li>Without vision (about 2 million people had severe difficulty seeing in 2010).</li>
@@ -634,7 +634,7 @@ permalink: /ict/fria.html
   <li>More universal adoption of the technical standards for ICT with two-way voice communication referenced above will improve the ability of Federal employees and other people who are able to address hearing limitations with the use of a hearing aid. Improvements in the volume and clarity of voice communications and speech output from machines will increase comprehension, reduce requests for repetition, and decrease the potential for mishearing and misunderstanding of voice communications and speech output.<a id="_ftnref62" href="#_ftn62">[62]</a></li>
 </ul>
 <p>In addition, State and local governments, international organizations, and U.S. and foreign private-sector entities may benefit from more broad-based adoption of WCAG 2.0-based standards for Web-related and non-Web-related forms of ICT.</p>
-<h4> 6.2. Benefits for Federal Employees With Disabilities</h4>
+<h4 id="_Toc471376824"> 6.2. Benefits for Federal Employees With Disabilities</h4>
 <p>Federal Government employees who have addressable disabilities will benefit from revised ICT accessibility standards that allow them to be more productive and capable employees. As discussed in the previous section, the extent to which specific Federal employees could benefit from the revised Section 508 standards will depend on the nature of their jobs and the type and severity of their disabilities, as well as on the extent to which the revised Section 508 standards improve the accessibility of various forms of ICT, relative to the level achieved by the current requirements. In general, however, Federal employees with specific types of disabilities could be expected to benefit from adoption of the provisions in the revised requirements referenced in Section 6.1 for people with the same types of disabilities (i.e., without vision, with limited vision, without perception of color, with cognitive, language, and learning disabilities, users of assistive technology, or with motor skill limitations).<a id="_ftnref63" href="#_ftn63">[63]</a></p>
 <p>We were not able to identify research studies that could be used to isolate the overall impact of ICT on Federal employee productivity or any that systematically relate specific ICT accessibility improvements to the productivity of Federal or private employees with various types of addressable disabilities. In the absence of such data, the <em>average</em> benefit per Federal employee with an addressable disability was estimated as follows:</p>
 <ul>
@@ -678,43 +678,43 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Average Federal employee salary*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average Federal employee salary*</p></th>
       <td><p style="text-align: right;">$80,266</p></td>
       <td><p style="text-align: right;">$80,266</p></td>
       <td><p style="text-align: right;">$80,266</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Number of hours in FTE year</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Number of hours in FTE year</p></th>
       <td><p style="text-align: right;">2,080</p></td>
       <td><p style="text-align: right;">2,080</p></td>
       <td><p style="text-align: right;">2,080</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average hourly wage for Federal employee</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average hourly wage for Federal employee</p></th>
       <td><p style="text-align: right;">$38.59</p></td>
       <td><p style="text-align: right;">$38.59</p></td>
       <td><p style="text-align: right;">$38.59</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average number of working hours**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average number of working hours**</p></th>
       <td><p style="text-align: right;">1,760</p></td>
       <td><p style="text-align: right;">1,760</p></td>
       <td><p style="text-align: right;">1,760</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Leave-adjustment multiplier</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Leave-adjustment multiplier</p></th>
       <td><p style="text-align: right;">1.18</p></td>
       <td><p style="text-align: right;">1.18</p></td>
       <td><p style="text-align: right;">1.18</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hourly wage adjusted for leave</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hourly wage adjusted for leave</p></th>
       <td><p style="text-align: right;">$45.61</p></td>
       <td><p style="text-align: right;">$45.61</p></td>
       <td><p style="text-align: right;">$45.61</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefit multiplier***</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefit multiplier***</p></th>
       <td><p style="text-align: right;">1.30</p></td>
       <td><p style="text-align: right;">1.30</p></td>
       <td><p style="text-align: right;">1.30</p></td>
@@ -726,19 +726,19 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$59.29</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average number of working hours</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average number of working hours</p></th>
       <td><p style="text-align: right;">1,760</p></td>
       <td><p style="text-align: right;">1,760</p></td>
       <td><p style="text-align: right;">1,760</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Assumed percent increase in productivity for an employee with a non-vision disability</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Assumed percent increase in productivity for an employee with a non-vision disability</p></th>
       <td><p style="text-align: right;">0.5%</p></td>
       <td><p style="text-align: right;">1%</p></td>
       <td><p style="text-align: right;">2.0%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hour-equivalent of increased productivity for an employee with a non-vision disability</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hour-equivalent of increased productivity for an employee with a non-vision disability</p></th>
       <td style="text-align: right;"><strong>8.8</strong></td>
       <td><p style="text-align: right;">17.6</p></td>
       <td style="text-align: right;"><strong>35.2</strong></td>
@@ -750,13 +750,13 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$2,087</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Assumed percent increase in productivity for an employee with a vision disability</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Assumed percent increase in productivity for an employee with a vision disability</p></th>
       <td><p style="text-align: right;">0.8%</p></td>
       <td><p style="text-align: right;">3%</p></td>
       <td><p style="text-align: right;">13.0%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hour-equivalent of increased productivity for an employee with a vision disability</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hour-equivalent of increased productivity for an employee with a vision disability</p></th>
       <td style="text-align: right;"><strong>14.1</strong></td>
       <td><p style="text-align: right;">52.8</p></td>
       <td style="text-align: right;"><strong>228.8</strong></td>
@@ -785,19 +785,19 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Civilian employees with addressable disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Civilian employees with addressable disabilities</p></th>
       <td><p style="text-align: right;">9,486</p></td>
       <td><p style="text-align: right;">27,814</p></td>
       <td><p style="text-align: right;">37,300</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Total Federal civilian workforce</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total Federal civilian workforce</p></th>
       <td><p style="text-align: right;">2,108,639</p></td>
       <td><p style="text-align: right;">2,108,639</p></td>
       <td><p style="text-align: right;">2,108,639</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percentage of total civilian workforce</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percentage of total civilian workforce</p></th>
       <td><p style="text-align: right;">0.4%</p></td>
       <td><p style="text-align: right;">1.3%</p></td>
       <td><p style="text-align: right;">1.8%</p></td>
@@ -835,7 +835,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Federal employees with vision disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Federal employees with vision disabilities</p></th>
       <td><p style="text-align: right;">9,486</p></td>
       <td><p style="text-align: right;">94,860</p></td>
       <td><p style="text-align: right;">9,486</p></td>
@@ -844,7 +844,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">94,860</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Value of annual increase in productivity per employee*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Value of annual increase in productivity per employee*</p></th>
       <td><p style="text-align: right;">$278</p></td>
       <td><p style="text-align: right;">$751</p></td>
       <td><p style="text-align: right;">$1,043</p></td>
@@ -853,7 +853,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$12,208</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Federal employees with other addressable disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Federal employees with other addressable disabilities</p></th>
       <td><p style="text-align: right;">27,814</p></td>
       <td><p style="text-align: right;">278,140</p></td>
       <td><p style="text-align: right;">27,814</p></td>
@@ -862,7 +862,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">278,140</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Value of annual increase in productivity per employee**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Value of annual increase in productivity per employee**</p></th>
       <td><p style="text-align: right;">$174</p></td>
       <td><p style="text-align: right;">$470</p></td>
       <td><p style="text-align: right;">$348</p></td>
@@ -882,7 +882,7 @@ permalink: /ict/fria.html
   </tbody>
   <tbody class="odd">
     <tr>
-      <td>Present value of benefits in 2017 (millions)***</td>
+      <th scope="row" style="font-weight: normal !important; text-align: left;">Present value of benefits in 2017 (millions)***</th>
       <td>&nbsp;</td>
       <td style="text-align: right;">$128.1</td>
       <td>&nbsp;</td>
@@ -900,7 +900,7 @@ permalink: /ict/fria.html
   <li>Productivity benefits for Federal Government contractor and vendor employees were not estimated and included in this analysis.<a id="_ftnref73" href="#_ftn73">[73]</a></li>
 </ul>
 <p>In addition, some State and local government employees with addressable disabilities may benefit indirectly from the final rule. For example, State and local government employees often need to work with Federal agency information and participate in or assist citizens with Federal Government-related electronic transactions. However, an estimate of these benefits was not developed for this regulatory evaluation.</p>
-<h4> 6.3. Benefits for Citizens and Other Residents With Disabilities</h4>
+<h4 id="_Toc471376825"> 6.3. Benefits for Citizens and Other Residents With Disabilities</h4>
 <p>The Internet has become an important vehicle through which Americans who are online seek information or conduct transactions with Federal, State, and local government agencies. A 2010 Pew Internet and American Life study found that 82 percent of adult Internet users looked for information or completed a transaction on a government Web site—including both Federal and non-Federal Government Web sites—in the most recent 12 months. Table 4 summarizes the Pew survey findings on commonly cited reasons for visiting government Web sites.<a id="_ftnref74" href="#_ftn74">[74]</a> (However, persons with disabilities may use or require these services at a greater rate than the general public if such persons are more likely to search for specific accessibility information on the web than in other areas; in which case the figures in the table may be underestimates of their usage.)</p>
 <table id="_Toc471376866" class="data">
   <caption>
@@ -919,35 +919,35 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Looked for information about a public policy or issue</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Looked for information about a public policy or issue</p></th>
       <td><p style="text-align: center;">48%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Looked up what services an agency provides</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Looked up what services an agency provides</p></th>
       <td><p style="text-align: center;">46%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Downloaded government forms</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Downloaded government forms</p></th>
       <td><p style="text-align: center;">41%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Researched official government documents or statistics</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Researched official government documents or statistics</p></th>
       <td><p style="text-align: center;">35%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Sought recreational or tourist information agency</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Sought recreational or tourist information agency</p></th>
       <td><p style="text-align: center;">30%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Sought advice or information about a health or safety issue</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Sought advice or information about a health or safety issue</p></th>
       <td><p style="text-align: center;">25%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Sought information about or applied for government benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Sought information about or applied for government benefits</p></th>
       <td><p style="text-align: center;">23%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Sought information about how to apply for a government job</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Sought information about how to apply for a government job</p></th>
       <td><p style="text-align: center;">19%</p></td>
     </tr>
   </tbody>
@@ -985,27 +985,27 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Average number of visits to Federal Government Web sites annually</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average number of visits to Federal Government Web sites annually</p></th>
       <td><p style="text-align: center;">15</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average minutes spent per Federal Government Web site visit</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average minutes spent per Federal Government Web site visit</p></th>
       <td><p style="text-align: center;">4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Time spent on Federal Government Web sites annually (hours)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Time spent on Federal Government Web sites annually (hours)</p></th>
       <td><p style="text-align: center;">1.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percent of time lost on inaccessible Web sites*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percent of time lost on inaccessible Web sites*</p></th>
       <td><p style="text-align: center;">18%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Estimated percent improvement in accessibility from revised 508 standards</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Estimated percent improvement in accessibility from revised 508 standards</p></th>
       <td><p style="text-align: center;">20%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percent of total time on Federal Government Web sites saved from accessibility improvement</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percent of total time on Federal Government Web sites saved from accessibility improvement</p></th>
       <td><p style="text-align: center;">3.6%</p></td>
     </tr>
     <tr>
@@ -1042,12 +1042,12 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">People with vision disabilities online who visit Federal Government Web sites, age 15–64</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with vision disabilities online who visit Federal Government Web sites, age 15–64</p></th>
       <td><p style="text-align: right;">2,173,680</p></td>
       <td><p style="text-align: right;">23,656,045</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">People with vision disabilities online who visit Federal Government Web sites, age 65 and over</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with vision disabilities online who visit Federal Government Web sites, age 65 and over</p></td>
       <td><p style="text-align: right;">1,483,377</p></td>
       <td><p style="text-align: right;">21,330,381</p></td>
     </tr>
@@ -1057,7 +1057,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>44,986,426</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average annual hours saved from accessibility improvement*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average annual hours saved from accessibility improvement*</p></th>
       <td><p style="text-align: right;">0.012</p></td>
       <td><p style="text-align: right;">0.033</p></td>
     </tr>
@@ -1094,12 +1094,12 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Total hours saved by people with vision disabilities online who visit Federal Government Web sites (from Table 6)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total hours saved by people with vision disabilities online who visit Federal Government Web sites (from Table 6)</p></th>
       <td><p style="text-align: right;">43,885</p></td>
       <td><p style="text-align: right;">1,485,851</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Value of time saved per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Value of time saved per hour</p></th>
       <td><p style="text-align: right;">$10</p></td>
       <td><p style="text-align: right;">$10</p></td>
     </tr>
@@ -1109,7 +1109,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$14,858,510</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value of benefits in 2017 (millions)*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value of benefits in 2017 (millions)*</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: right;">$9.23</p></td>
     </tr>
@@ -1146,12 +1146,12 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">People with other addressable disabilities online who visit Federal Government Web sites, age 15–64*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with other addressable disabilities online who visit Federal Government Web sites, age 15–64*</p></th>
       <td><p style="text-align: right;">7,917,406</p></td>
       <td><p style="text-align: right;">86,164,733</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">People with other addressable disabilities online who visit Federal Government Web sites, age 65 and over*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with other addressable disabilities online who visit Federal Government Web sites, age 65 and over*</p></th>
       <td><p style="text-align: right;">4,530,049</p></td>
       <td><p style="text-align: right;">65,140,345</p></td>
     </tr>
@@ -1161,7 +1161,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>151,305,077</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average annual hours saved from accessibility improvement*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average annual hours saved from accessibility improvement*</p></th>
       <td><p style="text-align: right;">0.004</p></td>
       <td><p style="text-align: right;">0.011</p></td>
     </tr>
@@ -1191,12 +1191,12 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Total hours saved by people with other addressable disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total hours saved by people with other addressable disabilities</p></th>
       <td><p style="text-align: right;">49,790</p></td>
       <td><p style="text-align: right;">1,664,150</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Value of time saved per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Value of time saved per hour</p></th>
       <td><p style="text-align: right;">$10</p></td>
       <td><p style="text-align: right;">$10</p></td>
     </tr>
@@ -1206,7 +1206,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$16,641,502</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value of benefits in 2015 (millions)***</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value of benefits in 2015 (millions)***</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: right;">$10.35</p></td>
     </tr>
@@ -1264,7 +1264,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Adults with vision disabilities online who visit Federal Government Web sites</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Adults with vision disabilities online who visit Federal Government Web sites</p></th>
       <td><p style="text-align: right;">3,657,056</p></td>
       <td><p style="text-align: right;">44,986,426</p></td>
       <td><p style="text-align: right;">3,657,056</p></td>
@@ -1273,7 +1273,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">44,986,426</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Adults with other addressable disabilities online who visit Federal Government Web sites</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Adults with other addressable disabilities online who visit Federal Government Web sites</p></th>
       <td><p style="text-align: right;">12,447,455</p></td>
       <td><p style="text-align: right;">151,305,077</p></td>
       <td><p style="text-align: right;">12,447,455</p></td>
@@ -1282,7 +1282,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">151,305,077</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Assumed annual number of calls per person</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Assumed annual number of calls per person</p></th>
       <td><p style="text-align: right;">1</p></td>
       <td><p style="text-align: right;">1</p></td>
       <td><p style="text-align: right;">2</p></td>
@@ -1291,7 +1291,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">3</p></td>
     </tr>
     <tr>
-      <td><p>Percentage reduction in calls from improved Web site accessibility*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>Percentage reduction in calls from improved Web site accessibility*</p></th>
       <td><p style="text-align: right;">7%</p></td>
       <td><p style="text-align: right;">18%</p></td>
       <td><p style="text-align: right;">7%</p></td>
@@ -1300,7 +1300,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">18%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Total reduction in calls</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total reduction in calls</p></th>
       <td style="text-align: right;"><strong>1,073,634</strong></td>
       <td style="text-align: right;"><strong>35,990,565</strong></td>
       <td style="text-align: right;"><strong>2,147,268</strong></td>
@@ -1309,7 +1309,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>107,971,696</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Cost savings per avoided call</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Cost savings per avoided call</p></th>
       <td><p style="text-align: right;">$3.43</p></td>
       <td><p style="text-align: right;">$3.43</p></td>
       <td><p style="text-align: right;">$3.43</p></td>
@@ -1327,7 +1327,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$370,342,918</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value of benefits in 2017 (millions)**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value of benefits in 2017 (millions)**</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: right;">$76.8</p></td>
       <td>&nbsp;</td>
@@ -1358,7 +1358,7 @@ permalink: /ict/fria.html
   <li>Reference to a universal set of standards that expands the training and support resources available to employees and contractors.</li>
   <li>Increased variety and capability of authoring tools used to produce accessible content.</li>
 </ul>
-<h4><a id="_Toc461728807">6.7. Summary of Benefits</a></h4>
+<h4><a id="_Toc471376829">6.7. Summary of Benefits</a></h4>
 <p>The benefits monetized in this analysis include benefits to Federal employees with vision and other addressable disabilities from increased productivity, benefits to citizens and other residents with vision and other addressable disabilities from time savings from more accessible Federal government web sites, and benefits to Federal agencies from public calls to Federal agencies avoided from more accessible web sites.</p>
 <p>The value of the monetized benefits estimated in this assessment was calculated over a 10-year analysis period (assumed to be from 2018 through 2027) and converted into annualized values using 7-percent and 3-percent discount rates. These estimates are presented in Table 11.<a id="_ftnref99" href="#_ftn99">[99]</a> These estimates do not include benefits from increased employment of people with Section 508-addressable disabilities, nor do they include benefits from being able to substitute for calls, mail, and in-person visits online or the value of cost savings from avoided office visits and mail correspondence.</p>
 <table id="_Toc471376873" class="data">
@@ -1391,7 +1391,7 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Benefits to Federal employees*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to Federal employees*</p></th>
       <td><p style="text-align: right;">$18.2</p></td>
       <td><p style="text-align: right;">$19.3</p></td>
       <td><p style="text-align: right;">$47.7</p></td>
@@ -1400,7 +1400,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$160.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits to people with addressable disabilities**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to people with addressable disabilities**</p></th>
       <td><p style="text-align: right;">$2.8</p></td>
       <td><p style="text-align: right;">$3.0</p></td>
       <td><p style="text-align: right;">$2.8</p></td>
@@ -1409,7 +1409,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$3.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits to Federal agencies***</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to Federal agencies***</p></th>
       <td><p style="text-align: right;">$10.9</p></td>
       <td><p style="text-align: right;">$11.7</p></td>
       <td><p style="text-align: right;">$21.9</p></td>
@@ -1489,7 +1489,7 @@ permalink: /ict/fria.html
 </ul>
 <p>The in-house cost estimates for the five categories are presented in Section 7.1. The aggregate estimate of in-house costs was then used in conjunction with data on Federal ICT budgets and procurement to develop an estimate of the current costs incurred by Federal contractors and vendors to make and sell Section 508-compliant ICT products, services, and content to the Federal Government (see Section 7.2). In developing the baseline costs related to implementing Section 255 guidelines, we reviewed available data to develop an estimate of the current annual costs for telecommunications manufacturers to produce accessible product documentation and support materials (see Section 7.3). Finally, the aggregate baseline costs of complying with the Section 508 standards and Section 255 guidelines are presented in Section 7.4.</p>
 <p>It should be noted by the reader that Federal Agencies achieve greater Section 508 compliance with the equivalent dollar amounts as time goes on: as Agencies gain more experience, we expect compliance to improve over time. These baseline costs assume this is the case for entities impacted by the final rule, and as such, the incremental costs of the final rule outlined in subsequent sections of this FRIA reflect solely the impacts of the final rule.</p>
-<h4> 7.1. Federal Agency In-House Baseline Costs</h4>
+<h4 id="_Toc471376831"> 7.1. Federal Agency In-House Baseline Costs</h4>
 <h5>7.1.1. Section 508 Policy Development and Implementation for Federal Agencies</h5>
 <p>All but the smallest agencies have Section 508 offices. Section 508 offices most frequently evaluate Web site accessibility, provide training, create or repair electronic documents, and assist acquisition officials to prepare Section 508 language in ICT contracts. However, these offices typically have relatively modest staffing and budget resources, as indicated in the 2012 DOJ report. Baseline cost estimates based on the DOJ survey data (see Appendix C) are presented in Table 13.<a id="_ftnref103" href="#_ftn103">[103]</a></p>
 <table id="_Toc471376875" class="data">
@@ -1512,31 +1512,31 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Very large</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Very large</p></th>
       <td><p style="text-align: right;">&gt;25,000</p></td>
       <td><p style="text-align: right;">178</p></td>
       <td><p style="text-align: right;">$557,584</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Large</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Large</p></th>
       <td><p style="text-align: right;">10,000–25,000</p></td>
       <td><p style="text-align: right;">68</p></td>
       <td><p style="text-align: right;">$208,305</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Medium</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Medium</p></th>
       <td><p style="text-align: right;">1,000–10,000</p></td>
       <td><p style="text-align: right;">18</p></td>
       <td><p style="text-align: right;">$76,000</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Small</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Small</p></th>
       <td><p style="text-align: right;">100–1,000</p></td>
       <td><p style="text-align: right;">28</p></td>
       <td><p style="text-align: right;">$13,698</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Very small</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Very small</p></th>
       <td><p style="text-align: right;">&lt;100</p></td>
       <td><p style="text-align: right;">26</p></td>
       <td><p style="text-align: right;">$0</p></td>
@@ -1584,27 +1584,27 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="2" scope="rowgroup">Number of employees requiring training</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">IT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">IT</p></th>
       <td><p style="text-align: right;">82,801</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Document/content producer</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Document/content producer</p></th>
       <td><p style="text-align: right;">5,271</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting</p></th>
       <td><p style="text-align: right;">41,376</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other selected occupations</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other selected occupations</p></th>
       <td><p style="text-align: right;">69,043</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Total number of employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total number of employees</p></th>
       <td><p style="text-align: right;">198,491</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Direct expense per employee</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Direct expense per employee</p></th>
       <td><p style="text-align: right;">$100</p></td>
     </tr>
     <tr>
@@ -1617,19 +1617,19 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="2" scope="rowgroup">Average hourly wage</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">IT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">IT</p></th>
       <td><p style="text-align: right;">$46.95</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Document/content producer</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Document/content producer</p></th>
       <td><p style="text-align: right;">$40.50</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting</p></th>
       <td><p style="text-align: right;">$41.15</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other selected occupations</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other selected occupations</p></th>
       <td><p style="text-align: right;">$43.10</p></td>
     </tr>
   </tbody>
@@ -1638,19 +1638,19 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="2" scope="rowgroup">Value of trainee time</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">IT (2 hours each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">IT (2 hours each)</p></th>
       <td><p style="text-align: right;">$7,775,762</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Document/content producer</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Document/content producer</p></th>
       <td><p style="text-align: right;">$426,963</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting (1 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting (1 hour each)</p></th>
       <td><p style="text-align: right;">$1,702,720</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other selected occupations (1 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other selected occupations (1 hour each)</p></th>
       <td><p style="text-align: right;">$2,975,849</p></td>
     </tr>
     <tr>
@@ -1658,7 +1658,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$12,881,294</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multiplier to account for benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multiplier to account for benefits</p></th>
       <td><p style="text-align: right;">1.54</p></td>
     </tr>
     <tr>
@@ -1708,14 +1708,14 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Number of employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Number of employees</p></th>
       <td style="text-align: right;">24,460</td>
       <td style="text-align: right;">2,730</td>
       <td style="text-align: right;">1,109</td>
       <td style="text-align: right;">28,300</td>
     </tr>
     <tr>
-      <td>FTE work hours per year*</td>
+      <th scope="row" style="font-weight: normal !important; text-alight:left;">FTE work hours per year*</th>
       <td style="text-align: right;">43,050,341</td>
       <td style="text-align: right;">4,805,009</td>
       <td style="text-align: right;">1,951,840</td>
@@ -1729,21 +1729,21 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>2,490,360</strong></td>
     </tr>
     <tr>
-      <td>Average annual salary</td>
+      <th scope="row" style="font-weight: normal !important; text-align:left">Average annual salary</th>
       <td style="text-align: right;">$104,425</td>
       <td style="text-align: right;">$86,090</td>
       <td style="text-align: right;">$86,009</td>
       <td style="text-align: right;">$101,935</td>
     </tr>
     <tr>
-      <td>Direct cost per hour</td>
+      <th scope="row" style="font-weight: normal !important; text-align:left;">Direct cost per hour</th>
       <td style="text-align: right;">$50.20</td>
       <td style="text-align: right;">$41.39</td>
       <td style="text-align: right;">$41.35</td>
       <td style="text-align: right;">$49.01</td>
     </tr>
     <tr>
-      <td>Loaded cost per hour</td>
+      <th scope="row" style="font-weight: normal !important; text-align:left;">Loaded cost per hour</th>
       <td style="text-align: right;">$77.54</td>
       <td style="text-align: right;">$63.92</td>
       <td style="text-align: right;">$63.86</td>
@@ -1787,28 +1787,28 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Hours per year for incorporating accessibility into software, web, and audiovisual media (from Table 3)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hours per year for incorporating accessibility into software, web, and audiovisual media (from Table 3)</p></th>
       <td><p style="text-align: right;">2,152,517</p></td>
       <td><p style="text-align: right;">240,250</p></td>
       <td><p style="text-align: right;">97,592</p></td>
       <td><p style="text-align: right;">2,490,360</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percentage hours for 508-compliance testing and evaluation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percentage hours for 508-compliance testing and evaluation</p></th>
       <td><p style="text-align: right;">25%</p></td>
       <td><p style="text-align: right;">25%</p></td>
       <td><p style="text-align: right;">25%</p></td>
       <td><p style="text-align: right;">25%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">508-compliance testing and evaluation hours per year</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">508-compliance testing and evaluation hours per year</p></th>
       <td><p style="text-align: right;">538,129</p></td>
       <td><p style="text-align: right;">60,063</p></td>
       <td><p style="text-align: right;">24,398</p></td>
       <td><p style="text-align: right;">622,590</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Loaded hourly wage rate</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Loaded hourly wage rate</p></th>
       <td><p style="text-align: right;">$77.54</p></td>
       <td><p style="text-align: right;">$63.92</p></td>
       <td><p style="text-align: right;">$63.86</p></td>
@@ -1865,31 +1865,31 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Number of Federal IT/document/content employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Number of Federal IT/document/content employees</p></th>
       <td><p style="text-align: right;">88,072</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average work hours per year</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average work hours per year</p></th>
       <td><p style="text-align: right;">1,760</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percent of time spent on content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percent of time spent on content creation</p></th>
       <td><p style="text-align: right;">2%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hours spent on content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hours spent on content creation</p></th>
       <td><p style="text-align: right;">3,100,134</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Direct cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Direct cost per hour</p></th>
       <td><p style="text-align: right;">$46.57</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multiplier to account for benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multiplier to account for benefits</p></th>
       <td><p style="text-align: right;">1.54</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Loaded cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Loaded cost per hour</p></th>
       <td><p style="text-align: right;">$71.72</p></td>
     </tr>
     <tr>
@@ -1897,31 +1897,31 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$222,326,674</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Number of contracting and other Federal employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Number of contracting and other Federal employees</p></th>
       <td><p style="text-align: right;">110,419</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average work hours per year</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average work hours per year</p></th>
       <td><p style="text-align: right;">1,760</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percent of time spent on content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percent of time spent on content creation</p></th>
       <td><p style="text-align: right;">0.2%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hours spent on content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hours spent on content creation</p></th>
       <td><p style="text-align: right;">388,675</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Direct cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Direct cost per hour</p></th>
       <td><p style="text-align: right;">$42.37</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multiplier to account for benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multiplier to account for benefits</p></th>
       <td><p style="text-align: right;">1.54</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Loaded cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Loaded cost per hour</p></th>
       <td><p style="text-align: right;">$65.25</p></td>
     </tr>
     <tr>
@@ -1949,23 +1949,23 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Policy development and implementation (from Table 13)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Policy development and implementation (from Table 13)</p></th>
       <td><p style="text-align: right;">$115.2</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Employee training (from Table 14)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Employee training (from Table 14)</p></th>
       <td><p style="text-align: right;">$39.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software, Web, and audiovisual development (from Table 15)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software, Web, and audiovisual development (from Table 15)</p></th>
       <td><p style="text-align: right;">$188.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software, Web sites, and audiovisual media evaluation (from Table 16)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software, Web sites, and audiovisual media evaluation (from Table 16)</p></th>
       <td><p style="text-align: right;">$47.1</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Electronic document creation (from Table 17)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Electronic document creation (from Table 17)</p></th>
       <td><p style="text-align: right;">$247.7</p></td>
     </tr>
     <tr>
@@ -1975,7 +1975,7 @@ permalink: /ict/fria.html
   </tbody>
 </table>
 <p>Overall, we estimate that Federal agencies incur costs of approximately $638.2 million annually to ensure that ICT developed, maintained, or used in house complies with the current Section 508 standards. However, this estimate does not include the costs associated with procurement of compliant ICT products, services, and content from Federal contractors and vendors. The costs associated with purchasing compliant ICT are estimated in Section 7.2.</p>
-<h4> <a id="_Toc377046530">7.2. Baseline Cost Estimates for Procured ICT</a></h4>
+<h4 id="_Toc471376832">7.2. Baseline Cost Estimates for Procured ICT</h4>
 <p>Federal agencies must also procure Section 508-compliant ICT hardware, software, services, and content from Federal contractors and vendors.<a id="_ftnref119" href="#_ftn119">[119]</a> In contrast to the costs that Federal agencies incur to produce compliant ICT, the costs associated with compliant ICT produced by Federal contractors and vendors cannot be directly calculated:</p>
 <ul>
   <li>Adequate data on the size and characteristics of the Federal contractor workforce are not available.</li>
@@ -2010,27 +2010,27 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Federal ICT spending (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Federal ICT spending (millions)</p></th>
       <td><p style="text-align: right;">$88.71</p></td>
       <td><p style="text-align: right;">$120.00</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">High estimate of Federal ICT purchases (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">High estimate of Federal ICT purchases (millions)</p></th>
       <td><p style="text-align: right;">$51.23</p></td>
       <td><p style="text-align: right;">$51.23</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Low estimate of Federal ICT purchases (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Low estimate of Federal ICT purchases (millions)</p></th>
       <td><p style="text-align: right;">$41.67</p></td>
       <td><p style="text-align: right;">$41.67</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">High estimate of Federal ICT purchase share</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">High estimate of Federal ICT purchase share</p></th>
       <td><p style="text-align: right;">58%</p></td>
       <td><p style="text-align: right;">43%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Low estimate of Federal ICT purchase share</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Low estimate of Federal ICT purchase share</p></th>
       <td><p style="text-align: right;">47%</p></td>
       <td><p style="text-align: right;">35%</p></td>
     </tr>
@@ -2056,19 +2056,19 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Baseline compliance cost for in-house ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline compliance cost for in-house ICT</p></th>
       <td><p style="text-align: right;">$638.21</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Share of total spending on procured ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Share of total spending on procured ICT</p></th>
       <td><p style="text-align: right;">46%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Share of total spending on in-house ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Share of total spending on in-house ICT</p></th>
       <td><p style="text-align: right;">54%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Ratio of procured to in-house ICT spending</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Ratio of procured to in-house ICT spending</p></th>
       <td><p style="text-align: right;">0.836</p></td>
     </tr>
     <tr>
@@ -2080,7 +2080,7 @@ permalink: /ict/fria.html
 <p>Baseline compliance costs for procured ICT were estimated at $533.6 million in 2015, which include current costs to Federal Agencies to procure ICT products (e.g., hardware and software) and services.<a id="_ftnref122" href="#_ftn122">[122]</a></p>
 <p>It is important to note that this aggregate estimate of compliance costs for procured ICT does not depend on the extent to which contractors or vendors are able to pass on some or all of these costs in the form of higher prices charged to Federal agencies for compliant ICT products and services, because higher purchase costs and lower contractor profits both represent social costs of the current Section 508 standards.<a id="_ftnref123" href="#_ftn123">[123]</a></p>
 <p>Total baseline Section 508 compliance costs for agency-developed and procured ICT are estimated at about $1.2 billion annually. This amount represents about 2 percent of annual Federal ICT spending, which is in the range between $88 billion and $120 billion, depending on what products and services are included in the total.</p>
-<h4> <a id="_Toc377046531">7.3. Baseline Cost Estimates for Complying With Current Section 255 Guidelines</a></h4>
+<h4 id="_Toc471376833">7.3. Baseline Cost Estimates for Complying With Current Section 255 Guidelines</h4>
 <p>Telecommunications equipment manufacturers incur costs to comply with the current Section 255 guidelines. Engineering, management, and marketing employee time is required to evaluate the accessibility and usability of manufacturers' products from the earliest stages of design through the entire lifecycle of production and subsequent improvements, modifications, and updates. Manufacturers also incur costs to develop and provide user guides, installation guides, and product support in alternative formats.</p>
 <p>Census data indicate that there were 501 U.S. communications equipment manufacturers (NAICS code 334111, 334210, and 334220) with 105,868 employees in 2012.<a id="_ftnref124" href="#_ftn124">[124]</a> However, there are three reasons why these estimates may not adequately represent the numbers of firms and employees with Section 255 compliance responsibilities:</p>
 <ul>
@@ -2110,7 +2110,7 @@ permalink: /ict/fria.html
   <li>The fully loaded wage rate of $44.28/hour ($34.06 times the benefit multiplier of 1.3) was used to value employee time.</li>
 </ul>
 <p>Baseline costs for telecommunications equipment manufacturers to conform to the current Section 255 guidelines relating to product documentation and user support are estimated to be $106 million annually (= 2.4 million hours * $34.06 * 1.3 benefit multiplier).</p>
-<h4> <a id="_Toc269480776">7.4. Summary of Baseline Section 508 and Section 255 Compliance Costs</a></h4>
+<h4 id="_Toc471376834">7.4. Summary of Baseline Section 508 and Section 255 Compliance Costs</h4>
 <p>Collectively, quantifiable costs to comply with the current Section 508 standards and Section 255 guidelines are estimated at $1.3 billion annually (see Table 21).</p>
 <table id="_Toc471376883" class="data">
   <caption>
@@ -2124,15 +2124,15 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Baseline compliance cost for in-house ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline compliance cost for in-house ICT</p></th>
       <td><p style="text-align: right;">$0.638</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Baseline compliance cost for procured ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline compliance cost for procured ICT</p></th>
       <td><p style="text-align: right;">$0.534</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Baseline compliance costs to conform with Section 255 product documentation and user support guidelines</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline compliance costs to conform with Section 255 product documentation and user support guidelines</p></th>
       <td><p style="text-align: right;">$0.106</p></td>
     </tr>
     <tr>
@@ -2141,8 +2141,8 @@ permalink: /ict/fria.html
     </tr>
   </tbody>
 </table>
-<h3><a id="_Ref460573929">8. Factors Affecting Future Compliance Costs Under the Current ICT Standards and Guidelines</a></h3>
-<h4> <a id="_Toc377046533">8.1. Factors Affecting Federal Agency Section 508 Compliance Costs</a></h4>
+<h3 id="_Toc471376835">8. Factors Affecting Future Compliance Costs Under the Current ICT Standards and Guidelines</h3>
+<h4 id="_Toc471376836">8.1. Factors Affecting Federal Agency Section 508 Compliance Costs</h4>
 <p>There are several factors that will collectively lead to changes in Federal agency compliance costs in the next few years, even if the updates to the current Section 508 standards are not adopted. Recent Federal Government initiatives are focusing attention and resources on measuring and improving agency Section 508 compliance, while IT budget constraints have both limited available resources and prompted efforts to use them more efficiently:</p>
 <ul>
   <li>In 2013, OMB released a strategic plan for addressing current Section 508 compliance shortfalls.<a id="_ftnref128" href="#_ftn128">[128]</a> Agencies are now required to provide semiannual reports on progress made in achieving these goals. At a minimum, this initiative is likely to increase the short-term costs associated with policy development, implementation, and employee training. Some agencies will also come under pressure to improve compliance for various forms of covered ICT.</li>
@@ -2162,38 +2162,38 @@ permalink: /ict/fria.html
   </li>
 </ul>
 <p>Some of these initiatives have incorporated the adoption and use of WCAG 2.0-based standards, particularly in the areas of Web/software testing and electronic document creation and repair. However, it is reasonable to expect that there will still be substantial transition costs associated with switching to the revised ICT standards, even for agencies that have had adequate capabilities and resources available to achieve and maintain substantial compliance with the current Section 508 requirements.</p>
-<h4> <a id="_Toc377046534">8.2. Factors Affecting Telecommunications Manufacturer Costs to Comply With the Section 255 Guidelines</a></h4>
+<h4 id="_Toc471376837">8.2. Factors Affecting Telecommunications Manufacturer Costs to Comply With the Section 255 Guidelines</h4>
 <p>Since the current Section 255 guidelines were published, the telecommunications equipment sector (especially smartphones and other wireless communications devices) has been characterized by the rapid evolution of devices, platforms, applications, and consensus standards. We assume that this pace of innovation will continue whether or not the revised ICT standards and guidelines are finalized.</p>
 <p>Similarly, the international adoption of increasingly harmonized standards for document accessibility can be expected to increase the availability of software features and templates that could reduce the amount of time required for telecommunications equipment manufacturers to prepare accessible electronic documentation and Web support materials.</p>
-<h3><a id="_Ref460567251">9. Major New Requirements in the Final Rule</a></h3>
+<h3 id="_Toc471376838">9. Major New Requirements in the Final Rule</h3>
 <p>Many aspects of the revised Section 508 requirements are not likely to entail measurable increases in compliance costs.<a id="_ftnref133" href="#_ftn133">[133]</a> In some areas, references to WCAG 2.0 will provide more specific objective checkpoints that could be used to test and evaluate compliance with requirements that already exist in the current standards. For example, the current Section 508 requirement &quot;A text equivalent for every non-text element shall be provided&quot; will be augmented by specific WCAG 2.0 provisions applicable to controls, input, and time-based media. This increase in specificity is likely to increase the extent of testing and evaluation required to establish that covered ICT is compliant, but it is also likely to reduce long-term costs for agencies and vendors that already attempt to produce compliant content and products. The revised standards may also make it easier for developers to identify and remediate noncompliant content and products.</p>
 <p>However, some of the revised standards represent expansions of or additions to current Section 508 requirements. Revisions to the current Section 508 standards and Section 255 guidelines were identified and discussed in Section 4.4. In this section, we present information on current agency and industry practices and assess the extent to which these practices largely conform to the revised standards or, alternatively, indicate that significant work will be required to achieve compliance.</p>
 <p>It should be noted that the final rule includes a so-called &quot;safe harbor&quot; provision that exempts existing (i.e., &quot;legacy&quot;) ICT from having to modify or upgrade to conform to the Revised 508 Standards so long as such ICT complies with the existing 508 regulations and is not &quot;altered&quot; after the compliance date (which is one year after publication of the final rule).&nbsp; &quot;Alterations&quot; consist of changes that materially affect the accessibility or usability of the covered hardware, software, or content (i.e., changes that affect interoperability, the user interface, or access to information or data).&nbsp; Importantly, the safe harbor provision in the Revised 508 Standards operates on an element-by-element basis; that is, each portion or component of the existing ICT is examined independently to assess the applicability of the safe harbor exemption.&nbsp; For example, assume a federal agency is making changes to the footer portion of its existing website through a content management system (CMS) two years from now.&nbsp; The new footer would need to conform to new requirements in the Revised 508 Standards, including WCAG 2.0 SC 1.4.3 for low contrast, but other existing page content managed through the CMS would not to be upgraded or revised (so long as otherwise compliant with the existing 508 Standards).</p>
-<h4> <a id="_Toc377046536">9.1. Area 1: Applying WCAG 2.0 to Software and Applications</a></h4>
+<h4 id="_Toc471376839">9.1. Area 1: Applying WCAG 2.0 to Software and Applications</h4>
 <p>Several major software vendors currently provide users with extensive online assistance on producing accessible content. These accessibility resources are typically oriented to providing generalized accessibility support rather than assisting developers and content creators to comply with a specific set of accessibility standards such as the current Section 508 standards. We also anticipate that these resources will be revised to support the revised Section 508 standards.</p>
 <p>However, additional resources for software development, coding, and evaluation will be required to ensure that software platforms, toolkits, and applications comply with the entire set of WCAG 2.0-based requirements, particularly those that do not have analogues or predecessors in the current Section 508 standards. Some of the associated costs can be expected to decrease over time as developers become more familiar with the revised standards, but the revised standards will increase the number and specificity of software accessibility requirements that need to be addressed on a continuing basis.</p>
 <p>In addition, software developers (both Federal and contractor employees) will require additional training, and government evaluation, testing, and acquisition protocols will need to be revised. We expect that most of the costs associated with these activities will be incurred on a one-time basis. These costs are estimated in Sections 10.1.2, 10.1.3, and 10.1.4.</p>
-<h4> <a id="_Toc377046537">9.2. Area 2: Accessibility Features Within Software Applications and Operating Systems</a></h4>
+<h4 id="_Toc471376840">9.2. Area 2: Accessibility Features Within Software Applications and Operating Systems</h4>
 <p>Federal agencies could comply with this requirement by developing or purchasing applications and operating systems that provide the required APIs. It is not clear that this will increase software development or acquisition costs because accessible applications, platforms, and systems are readily available in the current marketplace.<a id="_ftnref134" href="#_ftn134">[134]</a>&nbsp; APIs that address accessibility issues are a standard feature of the most popular operating systems (e.g., Microsoft Windows, Apple OS X and iOS) as well as the popular development tools (e.g., Microsoft Visual Studio, Apple Xcode, IBM Eclipse).</p>
-<h4> <a id="_Ref346715508">9.3. Area 3: Authoring Tools</a></h4>
+<h4 id="_Toc471376841">9.3. Area 3: Authoring Tools</h4>
 <p>Vendors who develop and market authoring tools will incur significant costs to design and implement the capabilities required by the revised standards. However, the significant limitations in current software are already being widely addressed by voluntary or de facto standards developed by leading ICT companies, trade associations, or third-party standards organizations. In addition, Web site authoring tools, user agents, applications, and content are increasingly required to support creation and maintenance of WCAG 2.0-compliant (or equivalent) Web sites for for-profit and nonprofit entities, as well as for most foreign governments in developed countries.</p>
 <p>We expect that authoring tools will increasingly incorporate features to produce and maintain accessible content even if the current Section 508 standards are not revised. The revised requirements do not appear to extend past the boundaries of other existing or emerging standards and therefore may not result in identifiable incremental costs.<a id="_ftnref135" href="#_ftn135">[135]</a></p>
-<h4> <a id="_Toc377046539">9.4. Area 4: </a>Assistive Technology</h4>
+<h4 id="_Toc471376842">9.4. Area 4: Assistive Technology</h4>
 <p>The revised standards include a provision that will require software that functions as AT to use standard platform accessibility services. Our research indicates that most current-generation AT software already makes use of standard APIs, so the impact of these requirements may be limited to accelerating the phase-out or replacement of legacy AT equipment and applications.<a id="_ftnref136" href="#_ftn136">[136]</a> Consequently, no identifiable costs were estimated for Federal agencies to comply with this revised requirement.</p>
-<h4> <a id="_Toc377046540">9.5. Area 5: Electronic Content and Data</a></h4>
+<h4 id="_Toc471376843">9.5. Area 5: Electronic Content and Data</h4>
 <p>The amount of time required for individual authors and editors to produce WCAG 2.0-compliant documents and other forms of electronic content will depend in large part on the availability, cost, and usability of agency, vendor, and third-party compliance guidance (particularly in the form of &quot;how to&quot; materials, product templates, and other support). It will also depend on the extent to which employees producing or editing covered content receive sufficient training and have access to adequate support resources.<a id="_ftnref137" href="#_ftn137">[137]</a> These costs are estimated in Section 10.1.5.</p>
-<h4> <a id="_Toc377046541">9.6. Area 6: Color and Contrast Settings</a></h4>
+<h4 id="_Toc471376844">9.6. Area 6: Color and Contrast Settings</h4>
 <p>The adoption of testable requirements will increase the time required to evaluate software, Web sites, and audiovisual media but also simplify the evaluation and reduce the need to make subjective judgments about compliance.<a id="_ftnref138" href="#_ftn138">[138]</a> For example, the revised requirement for a specific minimum contrast ratio requirement could increase the number of instances in which selected images, graphics, and backgrounds in applications and content must be altered to achieve compliance. However, the time required to change color contrast is typically minimal, and developers will be able to accommodate these requirements in newly developed content and applications without additional time and effort.</p>
 <p>Consequently, no specific estimates of Federal agency costs associated with complying with the revised requirements in this area were developed. Instead, the impact of these revised requirements is embedded in the overall cost estimates developed for software, Web, and multimedia development and evaluation (Sections 10.1.3 and 10.1.4) and electronic content (Sections 10.1.5).</p>
-<h4> <a id="_Toc377046542">9.7. Area 7: Audio Controls on Web Pages</a></h4>
+<h4 id="_Toc471376845">9.7. Area 7: Audio Controls on Web Pages</h4>
 <p>Web developers and site administrators will have to evaluate current and newly developed audiovisual content and applications to ensure that they comply with the revised requirement. However, many Web sites and software applications currently comply with this standard, and the changes required to make noncomplying ICT meet this standard can be accomplished with relatively little developer time and effort. In many cases, the following advice will be sufficient:<a id="_ftnref139" href="#_ftn139">[139]</a></p>
 <p>Rather than setting videos and other multimedia with sound to start playing when your web page loads, allow your users to start the media. Otherwise, the sound will interfere with content read by screen readers and refreshable Braille displays.</p>
 <p>In Web and software applications, compliance is achieved by specifying one option on the default settings rather than another. Both are currently in use, and switching from one to the other does not require a measurable amount of programming time or effort. Consequently, no specific estimates of Federal agency costs associated with complying with this revised requirement were developed.</p>
-<h4> <a id="_Toc377046543">9.8. Area 8: User Controls for Captions and Video Description</a></h4>
+<h4 id="_Toc471376846">9.8. Area 8: User Controls for Captions and Video Description</h4>
 <p><a id="_Toc377046544">We have not been able to identify adequate data and information that can be used to quantify the potential impact of the revised standards in this area.</a></p>
-<h4> 9.9. Section 508 Hardware and Equipment Costs</h4>
+<h4 id="_Toc471376847"> 9.9. Section 508 Hardware and Equipment Costs</h4>
 <p>We have not been able to locate adequate data to characterize the extent to which Federal agencies are currently able to purchase specific categories of accessible telecommunications equipment, video and multimedia products, &quot;self-contained closed products,&quot; and computers (the four categories of hardware specifically covered by the current standards).<a id="_ftnref140" href="#_ftn140">[140]</a> Consequently, we are not able to estimate the baseline level of purchases of Section 508-compliant hardware and the incremental costs associated with purchasing hardware that incorporates the required accessibility features.</p>
-<h4> <a id="_Toc411501827">9.10. Section 255 Electronic Documentation and Support Costs</a></h4>
+<h4 id="_Toc471376848">9.10. Section 255 Electronic Documentation and Support Costs</h4>
 <p>To ascertain the extent to which product documentation and support content on telecommunications manufacturer Web sites are currently accessible to people with disabilities, Econometrica identified and briefly reviewed the product support pages of 25 leading telecommunications equipment manufacturer Web sites.<a id="_ftnref141" href="#_ftn141">[141]</a> Each manufacturer Web site was reviewed to determine if product support information could be readily accessed from the home page by means of a direct link or a JavaScript menu. Where a landing page for the product support section could be identified, that page was evaluated for the subset of accessibility issues that can be identified using the WebAIM.org WAVE checker.<a id="_ftnref142" href="#_ftn142">[142]</a></p>
 <p>It is explicitly noted that the number of accessibility errors detected by the WAVE checker may not be indicative of the actual degree to which the structure and content of the support home page is accessible, and different types of errors can require widely varying degrees of effort to repair. With this disclaimer, the results of this review are presented in Table 22.</p>
 <table id="_Toc471376884" class="data">
@@ -2218,127 +2218,127 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;"><a href="http://support.alcatelonetouch.com/usa/">Alcatel</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://support.alcatelonetouch.com/usa/">Alcatel</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">22</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.apple.com/support/">Apple Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.apple.com/support/">Apple Inc.</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.usa.canon.com/cusa/support">Canon USA</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.usa.canon.com/cusa/support">Canon USA</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">27</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.cisco.com/cisco/web/support/index.html">Cisco Systems, Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.cisco.com/cisco/web/support/index.html">Cisco Systems, Inc.</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">12</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.ericsson.com/us">Ericsson, Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.ericsson.com/us">Ericsson, Inc.</a></p></th>
       <td><p style="text-align: center;">No</p></td>
       <td><p style="text-align: center;">N/A</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www8.hp.com/us/en/support.html">Hewlett-Packard Company</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www8.hp.com/us/en/support.html">Hewlett-Packard Company</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">16</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.htc.com/us/support/">HTC Corporation</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.htc.com/us/support/">HTC Corporation</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">16</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.kyocera-wireless.com/support/">Kyocera Wireless Corporation</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.kyocera-wireless.com/support/">Kyocera Wireless Corporation</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">36</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.lg.com/us/support">LG Electronics MobileComm U.S.A., Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.lg.com/us/support">LG Electronics MobileComm U.S.A., Inc.</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">2</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www3.alcatel-lucent.com/wps/portal/support">Lucent</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www3.alcatel-lucent.com/wps/portal/support">Lucent</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://support.microsoft.com/">Microsoft Corporation</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://support.microsoft.com/">Microsoft Corporation</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">2</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.mitel.com/">Mitel Networks, Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.mitel.com/">Mitel Networks, Inc.</a></p></th>
       <td><p style="text-align: center;">No</p></td>
       <td><p style="text-align: center;">N/A</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.motorola.com/us/home">Motorola Mobility</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.motorola.com/us/home">Motorola Mobility</a></p></th>
       <td><p style="text-align: center;">No</p></td>
       <td><p style="text-align: center;">N/A</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.necam.com/Support/">NEC Corporation of America</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.necam.com/Support/">NEC Corporation of America</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">18</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.nokia.com/us-en/support/">Nokia</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.nokia.com/us-en/support/">Nokia</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://shop.panasonic.com/support/">Panasonic Corporation of North America</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://shop.panasonic.com/support/">Panasonic Corporation of North America</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.radioshack.com/home/index.jsp">RadioShack Corporation</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.radioshack.com/home/index.jsp">RadioShack Corporation</a></p></th>
       <td><p style="text-align: center;">No</p></td>
       <td><p style="text-align: center;">N/A</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://us.blackberry.com/support.html?lid=us:bb:Support&amp;lpos=us:bb:Support">Research in Motion Limited/RIM</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://us.blackberry.com/support.html?lid=us:bb:Support&amp;lpos=us:bb:Support">Research in Motion Limited/RIM</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.samsung.com/us/sta/">Samsung Telecommunications America</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.samsung.com/us/sta/">Samsung Telecommunications America</a></p></th>
       <td><p style="text-align: center;">No</p></td>
       <td><p style="text-align: center;">N/A</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.sharpusa.com/CustomerSupport.aspx">Sharp Electronics</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.sharpusa.com/CustomerSupport.aspx">Sharp Electronics</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">21</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="https://support.skype.com/en/">Skype Communications Sarl</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="https://support.skype.com/en/">Skype Communications Sarl</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">2</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.sonymobile.com/us/support/">Sony Mobile Communications (USA), Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.sonymobile.com/us/support/">Sony Mobile Communications (USA), Inc.</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.toshiba.com/tai/support.jsp">Toshiba America Information Systems, Inc.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.toshiba.com/tai/support.jsp">Toshiba America Information Systems, Inc.</a></p></th>
       <td><p style="text-align: center;">Yes</p></td>
       <td><p style="text-align: center;">5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.uniden.com/page/faqs">Uniden America Corporation</a></p></td>
-      <td><p style="text-align: center;">Menu***</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.uniden.com/page/faqs">Uniden America Corporation</a></p></td>
+      <td><p style="text-align: center;">Menu***</p></th>
       <td><p style="text-align: center;">1</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;"><a href="http://www.vtechphones.com/">VTech Telecommunications, Ltd.</a></p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;"><a href="http://www.vtechphones.com/">VTech Telecommunications, Ltd.</a></p></th>
       <td><p style="text-align: center;">Menu***</p></td>
       <td><p style="text-align: center;">31</p></td>
     </tr>
@@ -2346,13 +2346,13 @@ permalink: /ict/fria.html
 </table>
 <p>This review indicated that about half of the support pages reviewed (11 of 20) had fewer than 10 errors identified by the WAVE checker. This group includes the support home pages of several leading mobile phone manufacturers, including Apple, Nokia, and Research in Motion, as well as those of cordless handset manufacturers such as Uniden. These pages generally appear to require relatively modest revisions to improve accessibility.</p>
 <p>Another 9 pages had more extensive accessibility issues, some of which could potentially limit the ability of users with vision disabilities to be able to locate and review material on specific products or issues of concern. The Web sites of the remaining five manufacturers do not provide a clear link to the support services section on the home page, which may further complicate users' ability to locate and review product documentation and other support content.</p>
-<h3> <a id="_Toc460605732">10. Incremental Cost Estimates of the Final Rule</a></h3>
+<h3 id="_Toc471376849">10. Incremental Cost Estimates of the Final Rule</h3>
 <p>Ideally, this regulatory evaluation would include estimates of the incremental costs associated with meeting each of the revised accessibility standards. However, the increase in compliance costs attributable to specific provisions depends on the extent of current compliance with the revised requirement across affected entities and various types of ICT products, software, services, and content.</p>
 <p>Our interviews with agency representatives indicated that there is substantial diversity in current compliance—whether measured against the current Section 508 standards or those in the final rule—within and among agencies, agency components, and types of ICT. In addition, the amount of effort and cost that will be incurred to ensure that some form of ICT complies with a specific provision in the revised standards depends on the extent to which it already complies with other provisions in the revised requirements. Consequently, it is not possible to develop estimates of the potential increases in costs from separately implementing each of the individual provisions included in the final rule.</p>
 <p>This section estimates the incremental compliance costs for complying with this final rule to Federal Agencies and other covered parties complying with the current Section 508 standards (but for which are not already using the WCAG 2.0 standards) for the 16 new Success Criteria that have equivalent provisions in the ICT final rule. (Incremental costs for complying with this final rule to Agencies already complying with the WCAG 2.0 standards in their entirety are effectively zero.)</p>
 <p>The approach used to estimate incremental compliance costs in this analysis was to evaluate the potential impact of the revised requirements (particularly those discussed in Section 9) on each of the five compliance cost components (e.g., policy development, training) included in the baseline cost estimates developed and presented in Section 6. The sum of these component estimates were used to develop overall estimates of the projected increases in costs for in-house and procured ICT.</p>
 <p>We were also unable to develop quantitative estimates of the costs that telecommunications manufacturers would incur to comply with the final rule of the current Section 255 guidelines, with the exception of the requirement to provide accessible support documentation and services.</p>
-<h4> <a id="_Toc411501830">10.1. Federal Agency Incremental Costs for In-House ICT</a></h4>
+<h4 id="_Toc471376850">10.1. Federal Agency Incremental Costs for In-House ICT</h4>
 <h5><a id="_Ref460605642">10.1.1. Section 508 Policy Development and Implementation</a></h5>
 <p>The final rule will require revisions to current agency Section 508 policies, guidelines, information dissemination, and compliance monitoring practices. We expect that agencies will incur a substantial one-time fixed cost associated with adoption of revised standards:</p>
 <ul>
@@ -2382,13 +2382,13 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Baseline costs (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline costs (millions)</p></th>
       <td><p style="text-align: right;">$115.2</p></td>
       <td><p style="text-align: right;">$115.2</p></td>
       <td><p style="text-align: right;">$115.2</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (initial)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (initial)</p></th>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">50%</p></td>
       <td><p style="text-align: right;">25%</p></td>
@@ -2400,7 +2400,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$28.8</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (recurring)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (recurring)</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
       <td><p style="text-align: right;">0%</p></td>
@@ -2445,13 +2445,13 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Current employees' training costs (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Current employees' training costs (millions)</p></th>
       <td><p style="text-align: right;">$39.7</p></td>
       <td><p style="text-align: right;">$39.74</p></td>
       <td><p style="text-align: right;">$39.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (one time only)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (one time only)</p></th>
       <td><p style="text-align: right;">200%</p></td>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">50%</p></td>
@@ -2463,7 +2463,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$19.9</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (recurring training)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (recurring training)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
@@ -2510,31 +2510,31 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Administrative</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Administrative</p></th>
       <td><p style="text-align: right;">560,919</p></td>
       <td><p style="text-align: right;">18%</p></td>
       <td><p style="text-align: right;">100,965</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Clerical</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Clerical</p></th>
       <td><p style="text-align: right;">58,543</p></td>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">58,543</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Professional</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Professional</p></th>
       <td><p style="text-align: right;">363,706</p></td>
       <td><p style="text-align: right;">76%</p></td>
       <td><p style="text-align: right;">276,417</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other White Collar</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other White Collar</p></th>
       <td><p style="text-align: right;">4,082</p></td>
       <td><p style="text-align: right;">16%</p></td>
       <td><p style="text-align: right;">653</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Technical</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Technical</p></th>
       <td><p style="text-align: right;">184,403</p></td>
       <td><p style="text-align: right;">6%</p></td>
       <td><p style="text-align: right;">11,064</p></td>
@@ -2567,43 +2567,43 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="4" scope="rowgroup">Additional employees with possible new Section 508 responsibilities</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Administrative</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Administrative</p></th>
       <td><p style="text-align: right;">100,965</p></td>
       <td><p style="text-align: right;">100,965</p></td>
       <td><p style="text-align: right;">100,965</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Clerical</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Clerical</p></th>
       <td><p style="text-align: right;">276,417</p></td>
       <td><p style="text-align: right;">276,417</p></td>
       <td><p style="text-align: right;">276,417</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Professional</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Professional</p></th>
       <td><p style="text-align: right;">11,064</p></td>
       <td><p style="text-align: right;">11,064</p></td>
       <td><p style="text-align: right;">11,064</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other White Collar</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other White Collar</p></th>
       <td><p style="text-align: right;">58,543</p></td>
       <td><p style="text-align: right;">58,543</p></td>
       <td><p style="text-align: right;">58,543</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Technical</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Technical</p></th>
       <td><p style="text-align: right;">653</p></td>
       <td><p style="text-align: right;">653</p></td>
       <td><p style="text-align: right;">653</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Total number of employees needing training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total number of employees needing training</p></th>
       <td><p style="text-align: right;">447,642</p></td>
       <td><p style="text-align: right;">447,642</p></td>
       <td><p style="text-align: right;">447,642</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Direct expense per employee</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Direct expense per employee</p></th>
       <td><p style="text-align: right;">$0</p></td>
       <td><p style="text-align: right;">$0</p></td>
       <td><p style="text-align: right;">$0</p></td>
@@ -2620,31 +2620,31 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="4" scope="row">Average hourly wage</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Administrative</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Administrative</p></th>
       <td><p style="text-align: right;">$43.33</p></td>
       <td><p style="text-align: right;">$43.33</p></td>
       <td><p style="text-align: right;">$43.33</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Clerical</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Clerical</p></th>
       <td><p style="text-align: right;">$50.85</p></td>
       <td><p style="text-align: right;">$50.85</p></td>
       <td><p style="text-align: right;">$50.85</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Professional</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Professional</p></th>
       <td><p style="text-align: right;">$23.82</p></td>
       <td><p style="text-align: right;">$23.82</p></td>
       <td><p style="text-align: right;">$23.82</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other White Collar</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other White Collar</p></th>
       <td><p style="text-align: right;">$18.50</p></td>
       <td><p style="text-align: right;">$18.50</p></td>
       <td><p style="text-align: right;">$18.50</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Technical</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Technical</p></th>
       <td><p style="text-align: right;">$28.77</p></td>
       <td><p style="text-align: right;">$28.77</p></td>
       <td><p style="text-align: right;">$28.77</p></td>
@@ -2655,43 +2655,43 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="4" scope="row">Value of trainee time</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Administrative (1.37 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Administrative (1.37 hour each)</p></th>
       <td><p style="text-align: right;">$5,993,610</p></td>
       <td><p style="text-align: right;">$5,993,610</p></td>
       <td><p style="text-align: right;">$5,993,610</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Clerical (1.37 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Clerical (1.37 hour each)</p></th>
       <td><p style="text-align: right;">$19,255,289</p></td>
       <td><p style="text-align: right;">$19,255,289</p></td>
       <td><p style="text-align: right;">$19,255,289</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Professional (1.37 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Professional (1.37 hour each)</p></th>
       <td><p style="text-align: right;">$361,068</p></td>
       <td><p style="text-align: right;">$361,068</p></td>
       <td><p style="text-align: right;">$361,068</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other White Collar (1.37 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other White Collar (1.37 hour each)</p></th>
       <td><p style="text-align: right;">$1,483,742</p></td>
       <td><p style="text-align: right;">$1,483,742</p></td>
       <td><p style="text-align: right;">$1,483,742</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Technical (1.37 hour each)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Technical (1.37 hour each)</p></th>
       <td><p style="text-align: right;">$25,739</p></td>
       <td><p style="text-align: right;">$25,739</p></td>
       <td><p style="text-align: right;">$25,739</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Indirect cost of trainee time</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Indirect cost of trainee time</p></th>
       <td><p style="text-align: right;">$27,119,448</p></td>
       <td><p style="text-align: right;">$27,119,448</p></td>
       <td><p style="text-align: right;">$27,119,448</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multiplier to account for benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multiplier to account for benefits</p></th>
       <td><p style="text-align: right;">1.54</p></td>
       <td><p style="text-align: right;">1.54</p></td>
       <td><p style="text-align: right;">1.54</p></td>
@@ -2711,7 +2711,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$41,763,950</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (one time only)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (one time only)</p></th>
       <td><p style="text-align: right;">200%</p></td>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">50%</p></td>
@@ -2723,7 +2723,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$20,881,975</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (recurring)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (recurring)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
@@ -2757,13 +2757,13 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Current employees' training costs (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Current employees' training costs (millions)</p></th>
       <td><p style="text-align: right;">$39.7</p></td>
       <td><p style="text-align: right;">$39.7</p></td>
       <td><p style="text-align: right;">$39.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Training costs for additional employees (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Training costs for additional employees (millions)</p></th>
       <td><p style="text-align: right;">$41.8</p></td>
       <td><p style="text-align: right;">$41.7</p></td>
       <td><p style="text-align: right;">$41.8</p></td>
@@ -2775,7 +2775,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$81.5</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (one time only)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (one time only)</p></th>
       <td><p style="text-align: right;">200%</p></td>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">50%</p></td>
@@ -2787,7 +2787,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$40.8</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (recurring training)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (recurring training)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
@@ -2846,7 +2846,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Baseline costs (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline costs (millions)</p></th>
       <td><p style="text-align: right;">$166.9</p></td>
       <td><p style="text-align: right;">$15.4</p></td>
       <td><p style="text-align: right;">$6.2</p></td>
@@ -2855,7 +2855,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$188.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (initial)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (initial)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">20%</p></td>
@@ -2873,7 +2873,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$18.8</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (recurring)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (recurring)</p></th>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">10%</p></td>
@@ -2928,7 +2928,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Baseline costs (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Baseline costs (millions)</p></th>
       <td><p style="text-align: right;">$41.7</p></td>
       <td><p style="text-align: right;">$3.8</p></td>
       <td><p style="text-align: right;">$1.6</p></td>
@@ -2937,7 +2937,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$47.1</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (initial)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (initial)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">20%</p></td>
@@ -2955,7 +2955,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$4.7</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Projected increase (recurring)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Projected increase (recurring)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">20%</p></td>
@@ -3004,13 +3004,13 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p>Baseline costs (millions) (from Table 17)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>Baseline costs (millions) (from Table 17)</p></th>
       <td><p style="text-align: right;">$247.7</p></td>
       <td><p style="text-align: right;">$247.7</p></td>
       <td><p style="text-align: right;">$247.7</p></td>
     </tr>
     <tr>
-      <td><p>Projected increase (initial)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>Projected increase (initial)</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
@@ -3022,7 +3022,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$12.4</strong></td>
     </tr>
     <tr>
-      <td><p>Projected increase (recurring)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>Projected increase (recurring)</p></th>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
       <td><p style="text-align: right;">0%</p></td>
@@ -3048,31 +3048,31 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Number of additional federal employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Number of additional federal employees</p></th>
       <td><p style="text-align: right;">447,642</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average work hours per year</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average work hours per year</p></th>
       <td><p style="text-align: right;">1,760</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percent of time spent on document creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percent of time spent on document creation</p></th>
       <td><p style="text-align: right;">0.1%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hours spent on document creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hours spent on document creation</p></th>
       <td><p style="text-align: right;">787,850</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Direct cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Direct cost per hour</p></th>
       <td><p style="text-align: right;">$44.22</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multiplier to account for benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multiplier to account for benefits</p></th>
       <td><p style="text-align: right;">1.54</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Loaded cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Loaded cost per hour</p></th>
       <td><p style="text-align: right;">$68.10</p></td>
     </tr>
     <tr>
@@ -3101,13 +3101,13 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Initial cost increase for current employees (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Initial cost increase for current employees (millions)</p></th>
       <td><p style="text-align: right;">$49.5</p></td>
       <td><p style="text-align: right;">$24.8</p></td>
       <td><p style="text-align: right;">$12.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Initial cost increase for additional employees (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Initial cost increase for additional employees (millions)</p></th>
       <td><p style="text-align: right;">$53.7</p></td>
       <td><p style="text-align: right;">$53.7</p></td>
       <td><p style="text-align: right;">$53.7</p></td>
@@ -3119,13 +3119,13 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$66.0</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Recurring cost increase for current employees (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Recurring cost increase for current employees (millions)</p></th>
       <td><p style="text-align: right;">$24.8</p></td>
       <td><p style="text-align: right;">$12.4</p></td>
       <td><p style="text-align: right;">$0.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Recurring cost increase for additional employees (millions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Recurring cost increase for additional employees (millions)</p></th>
       <td><p style="text-align: right;">$53.7</p></td>
       <td><p style="text-align: right;">$53.7</p></td>
       <td><p style="text-align: right;">$53.7</p></td>
@@ -3180,7 +3180,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Policy development and implementation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Policy development and implementation</p></th>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">50%</p></td>
       <td><p style="text-align: right;">25%</p></td>
@@ -3189,7 +3189,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">1%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Employee training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Employee training</p></th>
       <td><p style="text-align: right;">200%</p></td>
       <td><p style="text-align: right;">100%</p></td>
       <td><p style="text-align: right;">50%</p></td>
@@ -3198,7 +3198,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">5%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software, Web, and audiovisual development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software, Web, and audiovisual development</p></th>
       <td><p style="text-align: right;">40%</p></td>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
@@ -3207,7 +3207,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">5%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software, Web sites, and audiovisual media evaluation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software, Web sites, and audiovisual media evaluation</p></th>
       <td><p style="text-align: right;">40%</p></td>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
@@ -3216,7 +3216,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">10%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Electronic document creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Electronic document creation</p></th>
       <td><p style="text-align: right;">20%</p></td>
       <td><p style="text-align: right;">10%</p></td>
       <td><p style="text-align: right;">5%</p></td>
@@ -3261,7 +3261,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Policy development/implementation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Policy development/implementation</p></th>
       <td><p style="text-align: right;">$115.2</p></td>
       <td><p style="text-align: right;">$57.6</p></td>
       <td><p style="text-align: right;">$28.8</p></td>
@@ -3270,7 +3270,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$0.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Employee training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Employee training</p></th>
       <td><p style="text-align: right;">$163.0</p></td>
       <td><p style="text-align: right;">$81.5</p></td>
       <td><p style="text-align: right;">$40.8</p></td>
@@ -3279,7 +3279,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$4.1</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual development</p></th>
       <td><p style="text-align: right;">$75.4</p></td>
       <td><p style="text-align: right;">$37.7</p></td>
       <td><p style="text-align: right;">$18.8</p></td>
@@ -3288,7 +3288,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$9.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual evaluation/testing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual evaluation/testing</p></th>
       <td><p style="text-align: right;">$18.8</p></td>
       <td><p style="text-align: right;">$9.4</p></td>
       <td><p style="text-align: right;">$4.7</p></td>
@@ -3297,7 +3297,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$4.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Electronic document creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Electronic document creation</p></th>
       <td><p style="text-align: right;">$103.2</p></td>
       <td><p style="text-align: right;">$78.4</p></td>
       <td><p style="text-align: right;">$66.0</p></td>
@@ -3315,7 +3315,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$71.9</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percentage of annual baseline costs for in-house ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percentage of annual baseline costs for in-house ICT</p></th>
       <td><p style="text-align: right;">75%</p></td>
       <td><p style="text-align: right;">41%</p></td>
       <td><p style="text-align: right;">25%</p></td>
@@ -3355,7 +3355,7 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Policy development/implementation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Policy development/implementation</p></th>
       <td><p style="text-align: right;">$127.4</p></td>
       <td><p style="text-align: right;">$62.9</p></td>
       <td><p style="text-align: right;">$18.3</p></td>
@@ -3364,7 +3364,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$23.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Employee training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Employee training</p></th>
       <td><p style="text-align: right;">$180.4</p></td>
       <td><p style="text-align: right;">$89.1</p></td>
       <td><p style="text-align: right;">$44.2</p></td>
@@ -3373,7 +3373,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$56.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual media development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual media development</p></th>
       <td><p style="text-align: right;">$221.6</p></td>
       <td><p style="text-align: right;">$109.4</p></td>
       <td><p style="text-align: right;">$54.4</p></td>
@@ -3382,7 +3382,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$69.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual media evaluation/testing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual media evaluation/testing</p></th>
       <td><p style="text-align: right;">$98.6</p></td>
       <td><p style="text-align: right;">$48.7</p></td>
       <td><p style="text-align: right;">$24.2</p></td>
@@ -3391,7 +3391,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$30.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Electronic document and other content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Electronic document and other content creation</p></th>
       <td><p style="text-align: right;">$426.3</p></td>
       <td><p style="text-align: right;">$349.1</p></td>
       <td><p style="text-align: right;">$283.2</p></td>
@@ -3413,7 +3413,7 @@ permalink: /ict/fria.html
 <p>The present value of monetized incremental costs expected to result from implementation of the final rule of the Section 508 standards during the 10-year analysis period is estimated at $659.2 million (sensitivity analysis range of $424.3 million to $1.1 billion) using a 7-percent discount rate and $838.9 million (sensitivity analysis range of $542.1 million to $1.3 billion) using a 3-percent discount rate.</p>
 <p>The estimates in Table 35 and the analysis presented in this section indicate that Federal agencies will incur substantial costs to implement and comply with the revised ICT accessibility standards.</p>
 <p>As noted above, data were not available to quantify some categories of the costs discussed in this section. This is especially true for the costs that may be incurred to ensure that ICT procured by the Federal Government meets the revised accessibility standards.</p>
-<h4> <a id="_Toc377046553">10.2. Estimated Cost Increases Associated With Procured ICT</a></h4>
+<h4 id="_Toc471376851">10.2. Estimated Cost Increases Associated With Procured ICT</h4>
 <p>With one exception below (for braille instruction costs), the costs agencies incur to purchase compliant ICT were not directly calculated. Similarly, adequate data are not available to estimate the increase in costs to purchase ICT products, services, and content that will comply with the revised Section 508 standards from Federal contractors and vendors.</p>
 <p>However, an estimate of incremental compliance costs associated with procured ICT (excepting braille instruction costs) can be developed as follows:</p>
 <ul>
@@ -3434,7 +3434,7 @@ permalink: /ict/fria.html
 <ul>
   <li>&quot;With 135,000 employees in 80 countries, P&amp;G prints and copies millions of documents annually. In early 2008, those documents came from 45,000 individual devices—copiers, printers, scanners and fax machines—that were shared by just four employees each, on average.&quot; (Source: <a href="http://www.computerworld.com/article/2550560/computer-hardware/taming-the-printer-chaos.html">http://www.computerworld.com/article/2550560/computer-hardware/<br />
     taming-the-printer-chaos.html</a>.)</li>
-  <li>&quot;The answer is surprisingly low but then that is probably because the print volume analysed was high. Studies say that the answer to how many printers per user is 4.4. This means that for every 4.4 users, you're going to need one printer machine. Needless to say, this is a highly standardised and generalised rule that, in all likelihood, doesn't even apply to your business setup.&quot; (Source: <a href="http://blog.inkjetwholesale.com.au/buying-guide/how-many-printers-per-user-do-you-need-in-your-office/">http://blog.inkjetwholesale.com.au/buying-guide/how-many-printers-per-user-do-you-need-in-your-office/</a>.)</li>
+  <li>&quot;The answer is surprisingly low but then that is probably because the print volume analysed was high. Studies say that the answer to how many printers per user is 4.4. This means that for every 4.4 users, you're going to need one printer machine. Needless to say, this is a highly standardised and generalised rule that, in all likelihood, doesn't even apply to your business setup.&quot; (Source, updated June 2026: <a href="https://www.inkhub.com.au/blogs/articles/how-many-printers-per-user-do-you-need-in-your-office">Source, updated June 2026: https://www.inkhub.com.au/blogs/articles/how-many-printers-per-user-do-you-need-in-your-office</a>.)</li>
 </ul>
 <p>Using a label installation time estimate of 6 minutes (or 0.1 hours) for a worker in standard occupation classification (SOC) 49-2094 &quot;Electrical and Electronics Repairers, Commercial and Industrial Equipment,&quot; the cost of installation per label is computed to be $3.54 ($35.43 cost per hour * 0.1 hours).<a id="_ftnref156" href="#_ftn156">[156]</a> Thereby, total costs per installed label are estimated to be $6.04 ($3.54 + $2.50).</p>
 <p>We assume that, given an average 5-year lifecycle of impacted hardware,<a id="_ftnref157" href="#_ftn157">[157]</a> one-fifth of all impacted hardware will be replaced annually and therefore replacement hardware will be labeled appropriately. Applying the $6.04 per installed label value to the 100,000 machines needing labels per year, the braille provision will result in annual costs of $604,250 ($250,000 in braille labels per year + $354,250 installation time costs per year).</p>
@@ -3451,19 +3451,19 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Cost per braille label</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Cost per braille label</p></th>
       <td><p style="text-align: right;">$2.50</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Number of Federal employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Number of Federal employees</p></th>
       <td><p style="text-align: right;">2,000,000</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Average pieces of hardware per employee</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Average pieces of hardware per employee</p></th>
       <td><p style="text-align: right;">0.25</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Pieces of hardware requiring braille labels per year</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Pieces of hardware requiring braille labels per year</p></th>
       <td><p style="text-align: right;">100,000</p></td>
     </tr>
     <tr>
@@ -3471,23 +3471,23 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$250,000</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Installation time per braille label (hours)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Installation time per braille label (hours)</p></th>
       <td><p style="text-align: right;">0.10</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Direct labor cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Direct labor cost per hour</p></th>
       <td><p style="text-align: right;">$27.25</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multiplier for benefits</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multiplier for benefits</p></th>
       <td><p style="text-align: right;">1.30</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Loaded labor cost per hour</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Loaded labor cost per hour</p></th>
       <td><p style="text-align: right;">$35.43</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Installation time costs per braille label</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Installation time costs per braille label</p></th>
       <td><p style="text-align: right;">$3.54</p></td>
     </tr>
     <tr>
@@ -3536,7 +3536,7 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Policy development/implementation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Policy development/implementation</p></th>
       <td><p style="text-align: right;">$96.3</p></td>
       <td><p style="text-align: right;">$48.1</p></td>
       <td><p style="text-align: right;">$24.1</p></td>
@@ -3545,7 +3545,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$0.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Employee training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Employee training</p></th>
       <td><p style="text-align: right;">$136.3</p></td>
       <td><p style="text-align: right;">$68.1</p></td>
       <td><p style="text-align: right;">$34.1</p></td>
@@ -3554,7 +3554,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$3.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual media development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual media development</p></th>
       <td><p style="text-align: right;">$63.0</p></td>
       <td><p style="text-align: right;">$31.5</p></td>
       <td><p style="text-align: right;">$15.8</p></td>
@@ -3563,7 +3563,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$7.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual media evaluation/testing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual media evaluation/testing</p></th>
       <td><p style="text-align: right;">$15.8</p></td>
       <td><p style="text-align: right;">$7.9</p></td>
       <td><p style="text-align: right;">$3.9</p></td>
@@ -3572,7 +3572,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$3.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Electronic document and other content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Electronic document and other content creation</p></th>
       <td><p style="text-align: right;">$86.3</p></td>
       <td><p style="text-align: right;">$65.6</p></td>
       <td><p style="text-align: right;">$55.2</p></td>
@@ -3581,7 +3581,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$44.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Braille instructions</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Braille instructions</p></th>
       <td><p style="text-align: right;">$0.6</p></td>
       <td><p style="text-align: right;">$0.6</p></td>
       <td><p style="text-align: right;">$0.6</p></td>
@@ -3630,7 +3630,7 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Policy development/implementation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Policy development/implementation</p></th>
       <td><p style="text-align: right;">$106.5</p></td>
       <td><p style="text-align: right;">$52.6</p></td>
       <td><p style="text-align: right;">$15.3</p></td>
@@ -3639,7 +3639,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$19.6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Employee training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Employee training</p></th>
       <td><p style="text-align: right;">$150.8</p></td>
       <td><p style="text-align: right;">$74.5</p></td>
       <td><p style="text-align: right;">$37.0</p></td>
@@ -3648,7 +3648,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$47.3</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual media development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual media development</p></th>
       <td><p style="text-align: right;">$185.3</p></td>
       <td><p style="text-align: right;">$91.5</p></td>
       <td><p style="text-align: right;">$45.5</p></td>
@@ -3657,7 +3657,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$58.1</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Software/Web/audiovisual media evaluation/testing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Software/Web/audiovisual media evaluation/testing</p></th>
       <td><p style="text-align: right;">$82.4</p></td>
       <td><p style="text-align: right;">$40.7</p></td>
       <td><p style="text-align: right;">$20.2</p></td>
@@ -3666,7 +3666,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$25.8</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Electronic document and other content creation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Electronic document and other content creation</p></th>
       <td><p style="text-align: right;">$356.4</p></td>
       <td><p style="text-align: right;">$291.9</p></td>
       <td><p style="text-align: right;">$236.8</p></td>
@@ -3675,7 +3675,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$302.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Braille instructions</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Braille instructions</p></th>
       <td><p style="text-align: right;">$4.0</p></td>
       <td><p style="text-align: right;">$4.0</p></td>
       <td><p style="text-align: right;">$4.0</p></td>
@@ -3696,7 +3696,7 @@ permalink: /ict/fria.html
 </table>
 <p>The present value of the increased costs during the 10-year analysis period associated with procured ICT is estimated at $555.1 million (sensitivity analysis range of $358.7 million to $885.4 million) using a 7-percent discount rate and $706.4 million (sensitivity analysis range of $458.2 million to $1.1 billion) using a 3-percent discount rate.</p>
 <p>As noted in Section 7.2, this estimate of projected cost increases does not depend on the extent to which contractors or vendors are able to pass on some or all of these costs in the form of higher prices charged to Federal agencies for compliant ICT products and services, as both higher purchase costs and lower contractor profits represent social costs of the revised Section 508 standards.</p>
-<h4> <a id="_Toc377046554">10.3. Compliance Costs Associated With Revised Section 255 </a>Guidelines</h4>
+<h4 id="_Toc471376852">10.3. Compliance Costs Associated With Revised Section 255 Guidelines</h4>
 <h5>10.3.1. Conformance Costs for Manufacturers' Web Sites and Content</h5>
 <p>Telecommunications equipment manufacturers could incur significant incremental costs to make product support Web site content and the electronic documentation furnished on these sites and through other channels comply with the WCAG 2.0 Level A and Level AA and PDF/UA-1 standards. Based on the review discussed in Section 9.10, several of the largest telecommunications manufacturers appear to have relatively accessible support sections of their public-facing Web sites. However, many others will need to undertake a substantial effort to make the product support sections of their Web sites and the content made available therein accessible. Costs for manufacturers with Section 255 obligations to ensure that their product documentation and support services conform to the revised guidelines were estimated as follows:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the 2012 Statistics of U.S. Business, there were 249 telephone apparatus manufacturers (NAICS 33421), 748 radio and television broadcasting and wireless communications equipment manufacturers (NAICS 33422), and 382 electronic computer manufacturers (NAICS 334111). For this assessment, we assumed that firms with 20 or more employees have Section 255 obligations under the current FCC regulations. About 36 percent of the firms (482) in this sector had 20 or more employees.<a id="_ftnref158" href="#_ftn158">[158]</a> Firms with fewer than 20 employees are less likely than larger firms to provide electronic customer support on their Web sites—in many case because they serve as partners or suppliers to larger firms that offer this support.</p>
@@ -3740,7 +3740,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>501</strong></td>
     </tr>
     <tr>
-      <td><p>Average one-time repair cost per firm</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>Average one-time repair cost per firm</p></th>
       <td><p style="text-align: right;">$125,000</p></td>
       <td><p style="text-align: right;">$25,000</p></td>
       <td><p style="text-align: right;">$68,313</p></td>
@@ -3752,7 +3752,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$34,225,000</strong></td>
     </tr>
     <tr>
-      <td><p>Average annual per-firm maintenance cost**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>Average annual per-firm maintenance cost**</p></th>
       <td><p style="text-align: right;">$25,000</p></td>
       <td><p style="text-align: right;">$5,000</p></td>
       <td><p style="text-align: right;">$13,663</p></td>
@@ -3764,18 +3764,18 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$6,845,000</strong></td>
     </tr>
     <tr>
-      <td colspan="3"><p>Total Web site accessibility costs, 2018–2027</p></td>
+      <th scope="row" style="font-weight: normal !important;" colspan="3"><p>Total Web site accessibility costs, 2018–2027</p></th>
       <td style="text-align: right;"><strong>$88,985,000</strong></td>
     </tr>
     <tr>
-      <td colspan="3"><p>Present value of costs in 2017 (millions)***</p></td>
+      <th scope="row" style="font-weight: normal !important;" colspan="3"><p>Present value of costs in 2017 (millions)***</p></th>
       <td style="text-align: right;">$70.37</td>
     </tr>
   </tbody>
 </table>
 <p>The costs for manufacturers to comply with the revised Section 255 guidelines relating to electronic product documentation and support are estimated at $34.2 million from 2018 to 2019 and $89.0 million over the 10-year analysis period.</p>
 <p>Telecommunications equipment manufacturers may incur additional costs to provide accessible support services, but the extent of these potential cost increases could not be quantified.</p>
-<h4> 10.4.&nbsp; Summary of Monetized and Unquantified Incremental Costs of the Final Rule</h4>
+<h4 id="_Toc471376853"> 10.4. Summary of Monetized and Unquantified Incremental Costs of the Final Rule</h4>
 <p>Finally, the costs estimated for in-house ICT (Section 10.1.6), procured ICT (Section 10.2), and telecommunications manufacturers (Sections 10.3) were converted to an annualized basis using discount rates of 7 percent and 3 percent. The annualized costs estimated for the final rule are summarized in Table 40.</p>
 <table id="_Toc471376902" class="data">
   <caption>
@@ -3791,7 +3791,7 @@ permalink: /ict/fria.html
   </colgroup>
   <thead>
     <tr>
-      <th rowspan="2" scope="colgroup">Monetized Benefits and Costs</th>
+      <th rowspan="2" scope="col">Monetized Benefits and Costs</th>
       <th colspan="2" scope="colgroup">High Cost Scenario</th>
       <th colspan="2" scope="colgroup">Expected Scenario</th>
       <th colspan="2" scope="colgroup">Low Cost Scenario</th>
@@ -3807,7 +3807,7 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Annualized in-house ICT cost</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized in-house ICT cost</p></th>
       <td><p style="text-align: right;">$150.1</p></td>
       <td><p style="text-align: right;">$156.2</p></td>
       <td><p style="text-align: right;">$93.8</p></td>
@@ -3816,7 +3816,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$63.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized cost for procured ICT</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized cost for procured ICT</p></th>
       <td><p style="text-align: right;">$126.1</p></td>
       <td><p style="text-align: right;">$131.2</p></td>
       <td><p style="text-align: right;">$79.0</p></td>
@@ -3825,7 +3825,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$53.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized costs of telecommunications manufacturer product support Web site and content development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized costs of telecommunications manufacturer product support Web site and content development</p></th>
       <td><p style="text-align: right;">$9.5</p></td>
       <td><p style="text-align: right;">$9.6</p></td>
       <td><p style="text-align: right;">$9.5</p></td>
@@ -3915,7 +3915,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Benefits from increased Federal employee productivity</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from increased Federal employee productivity</p></th>
       <td><p style="text-align: right;">$18.2</p></td>
       <td><p style="text-align: right;">$19.3</p></td>
       <td><p style="text-align: right;">$47.7</p></td>
@@ -3924,7 +3924,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$160.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with addressable disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with addressable disabilities</p></th>
       <td><p style="text-align: right;">$2.8</p></td>
       <td><p style="text-align: right;">$3.0</p></td>
       <td><p style="text-align: right;">$2.8</p></td>
@@ -3933,7 +3933,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$3.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits to Federal agencies from reduced call volumes</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to Federal agencies from reduced call volumes</p></th>
       <td><p style="text-align: right;">$10.9</p></td>
       <td><p style="text-align: right;">$11.7</p></td>
       <td><p style="text-align: right;">$21.9</p></td>
@@ -3951,7 +3951,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$199.0</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">In-house ICT costs</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">In-house ICT costs</p></th>
       <td><p style="text-align: right;">$150.1</p></td>
       <td><p style="text-align: right;">$156.2</p></td>
       <td><p style="text-align: right;">$93.8</p></td>
@@ -3960,7 +3960,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$63.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Procured ICT costs</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Procured ICT costs</p></th>
       <td><p style="text-align: right;">$126.1</p></td>
       <td><p style="text-align: right;">$131.2</p></td>
       <td><p style="text-align: right;">$79.0</p></td>
@@ -3969,7 +3969,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$53.7</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Costs of telecommunications manufacturer product support Web site and content development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Costs of telecommunications manufacturer product support Web site and content development</p></th>
       <td><p style="text-align: right;">$9.5</p></td>
       <td><p style="text-align: right;">$9.6</p></td>
       <td><p style="text-align: right;">$9.5</p></td>
@@ -3991,7 +3991,7 @@ permalink: /ict/fria.html
 <p>It is important to note, however, that there are important benefits to people with disabilities, Federal agencies, contractors, and vendors for which adequate data were not available to develop monetized estimates. In addition, the benefits of the final rule include important, but inherently unquantifiable, national values that are explicitly recognized in Executive Order 13563, including greater social equity, human dignity, and fairness. There are also potentially significant costs that could not be quantified with the available information.</p>
 <p>The Access Board and Econometrica have made a determination that the costs of the update of the Section 508 standards and Section 255 guidelines are justified by the benefits.</p>
 <p>&nbsp;</p>
-<h3> <a id="_Toc377046562">Appendix A: ICT Accessibility Standards</a></h3>
+<h3 id="_Toc471376855">Appendix A: ICT Accessibility Standards</h3>
 <p>W3C finalized the WCAG 1.0 recommendations in May 1999. Shortly thereafter, the Access Board published the current Section 508 standards, which include accessibility requirements for Web sites and other forms of ICT. The W3C standards were revised when the WCAG 2.0 recommendations were published in December 2008. This appendix provides additional information on the evolution of these standards and the areas in which they differ from one another. Additional information is provided on the revised requirements for software, hardware, and telecommunications equipment, including references to applicable current Federal and consensus standards.</p>
 <h4> <a id="_Toc379458137">WCAG 1.0 Recommendations</a></h4>
 <p>WCAG 1.0 has three priority levels (1 through 3) that correspond to the A, AA, and AAA levels in WCAG 2.0. A substantial portion of the current Section 508 standards for Web sites, and in many instances other forms of ICT, was adopted from the WCAG 1.0 recommendations. A Section 508-compliant Web site could require additional remediation in a few areas (including audio description, dynamic updating of text equivalents, and use of clear language) to meet the WCAG 1.0 Priority 1 recommendations.</p>
@@ -4328,7 +4328,7 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="4" scope="rowgroup">502 Interoperability With Assistive Technology</th>
     </tr>
     <tr>
-      <td>502.2</td>
+      <td><p>502.2</p></td>
       <td>Documented Accessibility Features</td>
       <td>1194.21(b)</td>
       <td>Applications shall not disrupt or disable activated features of other products or operating systems that are identified as accessibility features, where those features are developed and documented according to industry standards.</td>
@@ -4709,7 +4709,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: left;">Requires at least one mode of operation to be doable with one hand without grasping, pinching, or twisting of the wrist. Also, limits the force required to activate operable parts to be 5 lbs. (22.2 N) maximum.</p></td>
     </tr>
     <tr>
-      <td>407.7
+      <td><p>407.7</p>
         <p><em>*The requirements in this section are not applicable to components of telecommunications and customer premises equipment. (C204.1 Exception)</em></p></td>
       <td><p style="text-align: left;">Tickets, Fare Cards, and Keycards</p></td>
       <td><p style="text-align: left;">New</p></td>
@@ -4718,7 +4718,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: left;">Requires the orientation of keys, tickets, and cards to be tactilely discernable, if their orientation is important to further use.</p></td>
     </tr>
     <tr>
-      <td>407.8
+      <td><p>407.8</p>
         <p><em>*The requirements in this section and subsequent subsections are not applicable to components of telecommunications and customer premises equipment. (C204.1 Exception)</em></p></td>
       <td><p style="text-align: left;">Reach Height</p></td>
       <td><p style="text-align: left;">1194.25(j)</p></td>
@@ -5123,7 +5123,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">301 General, 302 Functional Performance Criteria</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">301 General, 302 Functional Performance Criteria</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5134,7 +5134,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.1 Without Vision</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.1 Without Vision</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5145,7 +5145,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.2 With Limited Vision</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.2 With Limited Vision</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5156,7 +5156,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.3 Without Perception of Color</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.3 Without Perception of Color</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5167,7 +5167,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.4 Without Hearing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.4 Without Hearing</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5178,7 +5178,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.5 With Limited Hearing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.5 With Limited Hearing</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5189,7 +5189,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.6 Without Speech</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.6 Without Speech</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5200,7 +5200,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.7 With Limited Manipulation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.7 With Limited Manipulation</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5211,7 +5211,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.8 With Limited Reach and Strength</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.8 With Limited Reach and Strength</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5222,7 +5222,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">302.9 With Limited Language, Cognitive, and Learning Abilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">302.9 With Limited Language, Cognitive, and Learning Abilities</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5233,7 +5233,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402 Closed Functionality, 402.1 General, 402.2 Speech-Output Enabled</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402 Closed Functionality, 402.1 General, 402.2 Speech-Output Enabled</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5244,7 +5244,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.2.1 Information Displayed On-Screen</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.2.1 Information Displayed On-Screen</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5255,7 +5255,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.2.2 Transactional Outputs</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.2.2 Transactional Outputs</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5266,7 +5266,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.2.3 Speech Delivery Type and Coordination</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.2.3 Speech Delivery Type and Coordination</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5277,7 +5277,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.2.4 User Control</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.2.4 User Control</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5288,7 +5288,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.2.5 Braille Instructions</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.2.5 Braille Instructions</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5299,7 +5299,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.3 Volume</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.3 Volume</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5310,7 +5310,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.3.1 Private Listening</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.3.1 Private Listening</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5321,7 +5321,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.3.2 Non-Private Listening</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.3.2 Non-Private Listening</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5332,7 +5332,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.4 Characters on Display Screens</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.4 Characters on Display Screens</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5343,7 +5343,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">402.5 Characters on Variable Message Signs</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">402.5 Characters on Variable Message Signs</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5354,7 +5354,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">403 Biometrics, 403.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">403 Biometrics, 403.1 General</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5365,7 +5365,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">404 Preservation of Information Provided for Accessibility, 404.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">404 Preservation of Information Provided for Accessibility, 404.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5376,7 +5376,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">405 Privacy, 405.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">405 Privacy, 405.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5387,7 +5387,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">406 Standard Connections, 406.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">406 Standard Connections, 406.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5398,7 +5398,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: center;">X</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407 Operable Parts, 407.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407 Operable Parts, 407.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5409,7 +5409,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.2 Contrast</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.2 Contrast</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5420,7 +5420,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.3 Input Controls (and sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.3 Input Controls (and sub-provisions)</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5431,7 +5431,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.4 Key Repeat</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.4 Key Repeat</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5442,7 +5442,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.5 Timed Response</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.5 Timed Response</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5453,7 +5453,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.6 Operation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.6 Operation</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5464,7 +5464,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.7 Keys, Tickets, and Fare Cards</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.7 Keys, Tickets, and Fare Cards</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5475,7 +5475,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">407.8 Reach Height (and sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">407.8 Reach Height (and sub-provisions)</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5486,7 +5486,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">408 Display Screens, 408.1 General, 408.2 Visibility</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">408 Display Screens, 408.1 General, 408.2 Visibility</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5497,7 +5497,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">408.3 Flashing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">408.3 Flashing</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5508,7 +5508,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">409 Status Indicators, 409.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">409 Status Indicators, 409.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5519,7 +5519,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">410 Color Coding, 410.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">410 Color Coding, 410.1 General</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5530,7 +5530,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">411 Audible Signals, 411.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">411 Audible Signals, 411.1 General</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5541,7 +5541,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412 ICT With Two-Way Voice Communication, 412.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412 ICT With Two-Way Voice Communication, 412.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5552,7 +5552,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412.2 Volume Gain</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412.2 Volume Gain</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5563,7 +5563,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412.3 Interference Reduction and Magnetic Coupling (and sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412.3 Interference Reduction and Magnetic Coupling (and sub-provisions)</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5574,7 +5574,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412.4 Digitally Encoded Speech</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412.4 Digitally Encoded Speech</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5585,7 +5585,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412.5 Real-Time Text Functionality (Reserved)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412.5 Real-Time Text Functionality (Reserved)</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">-</p></td>
@@ -5596,7 +5596,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412.6 Caller ID</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412.6 Caller ID</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5607,7 +5607,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">412.7 Video Communication</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">412.7 Video Communication</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5618,7 +5618,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">413 Caption Processing Technologies, 411.1 General (includes sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">413 Caption Processing Technologies, 411.1 General (includes sub-provisions)</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5629,7 +5629,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">414 Audio Description Processing Technology, 412.1 General (includes sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">414 Audio Description Processing Technology, 412.1 General (includes sub-provisions)</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5640,7 +5640,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">415 User Controls for Captions and Audio Description, 413.1 General (and sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">415 User Controls for Captions and Audio Description, 413.1 General (and sub-provisions)</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5651,7 +5651,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">502 Interoperability With Assistive Technology, 502.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">502 Interoperability With Assistive Technology, 502.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5662,7 +5662,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">502.2 Documented Accessibility Features (and sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">502.2 Documented Accessibility Features (and sub-provisions)</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5673,7 +5673,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">502.3 Accessibility Services (and sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">502.3 Accessibility Services (and sub-provisions)</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5684,7 +5684,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">502.4 Platform Accessibility Features</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">502.4 Platform Accessibility Features</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5695,7 +5695,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">A. Section 9.3.3 Enable sequential entry of multiple (chorded) keystrokes</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">A. Section 9.3.3 Enable sequential entry of multiple (chorded) keystrokes</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5706,7 +5706,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">B. Section 9.3.4 Provide adjustment of delay before key acceptance</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">B. Section 9.3.4 Provide adjustment of delay before key acceptance</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5717,7 +5717,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">C. Section 9.3.5 Provide adjustment of same-key double-strike acceptance</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">C. Section 9.3.5 Provide adjustment of same-key double-strike acceptance</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5728,7 +5728,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">D. Section 10.6.7 Allow users to choose visual alternative for audio output</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">D. Section 10.6.7 Allow users to choose visual alternative for audio output</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5739,7 +5739,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">E. Section 10.6.8 Synchronize audio equivalents for visual events</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">E. Section 10.6.8 Synchronize audio equivalents for visual events</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5750,7 +5750,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">F. Section 10.6.9 Provide speech output services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">F. Section 10.6.9 Provide speech output services</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5761,7 +5761,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">G. Section 10.7.1 Display any captions provided</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">G. Section 10.7.1 Display any captions provided</p></th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5772,7 +5772,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">503 Applications, 503.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">503 Applications, 503.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5783,7 +5783,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">503.2 User Preferences</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">503.2 User Preferences</p></th>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5794,7 +5794,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">503.3 Alternative User Interfaces</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">503.3 Alternative User Interfaces</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -5805,7 +5805,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">503.4 User Controls for Captions and Audio Description (includes sub-provisions)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">503.4 User Controls for Captions and Audio Description (includes sub-provisions)</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5816,7 +5816,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">504 Authoring Tools, 504.1 General</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">504 Authoring Tools, 504.1 General</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5827,7 +5827,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">504.2 Content Creation or Editing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">504.2 Content Creation or Editing</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5838,7 +5838,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">504.2.1 Preservation of Information Provided for Accessibility in Format Conversion</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">504.2.1 Preservation of Information Provided for Accessibility in Format Conversion</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
       <td><p style="text-align: center;">X</p></td>
@@ -5849,7 +5849,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">504.2.2 PDF Export</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">504.2.2 PDF Export</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td>&nbsp;</td>
@@ -5860,7 +5860,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">504.3 Prompts</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">504.3 Prompts</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5871,7 +5871,7 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">504.4 Templates</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">504.4 Templates</p></th>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
       <td><p style="text-align: center;">X</p></td>
@@ -5884,7 +5884,7 @@ permalink: /ict/fria.html
   </tbody>
 </table>
 <p>&nbsp;</p>
-<h3> <a id="_Toc377046567">Appendix B: Data on People With Disabilities</a></h3>
+<h3 id="_Toc471376856">Appendix B: Data on People With Disabilities</h3>
 <p>This section provides information on people with disabilities who could potentially benefit from this update of the current Section 508 standards and Section 255 guidelines.</p>
 <h4> <a id="_Ref355611351">B.1. Extent and Severity of Disabilities in the U.S. Population</a></h4>
 <p>Information on the extent and severity of disabilities in the U.S. population is available from a variety of Government data sources. The 2010 SIPP included a special section on functional disabilities that was used to develop estimates of the proportion of the U.S. civilian non-institutional population in selected age groups who have hearing, vision, or ambulatory disabilities. Additional questions provide data on use of hearing aids and wheelchairs.<a id="_ftnref167" href="#_ftn167">[167]</a> These data can be used to develop estimates of the numbers of people with disabilities that could be addressed by ICT accessibility standards. These data were used to develop estimates of the population of people with disabilities who would potentially benefit from various revised ICT standards (people with &quot;addressable disabilities&quot;). Selected results from the 2010 SIPP data are presented in Table B-1.<a id="_ftnref168" href="#_ftn168">[168]</a></p>
@@ -5930,7 +5930,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>3.3%</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Severe</p></th>
       <td><p style="text-align: right;">960,000</p></td>
       <td><p style="text-align: right;">0.5%</p></td>
       <td><p style="text-align: right;">1,050,000</p></td>
@@ -5939,7 +5939,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">0.8%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Not severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Not severe</p></th>
       <td><p style="text-align: right;">3,336,000</p></td>
       <td><p style="text-align: right;">1.6%</p></td>
       <td><p style="text-align: right;">2,731,000</p></td>
@@ -5959,7 +5959,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;"><strong>4.5%</strong></p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Severe</p></th>
       <td><p style="text-align: right;">430,000</p></td>
       <td><p style="text-align: right;">0.2%</p></td>
       <td><p style="text-align: right;">666,000</p></td>
@@ -5968,7 +5968,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">0.5%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Not severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Not severe</p></th>
       <td><p style="text-align: right;">2,990,000</p></td>
       <td><p style="text-align: right;">1.5%</p></td>
       <td><p style="text-align: right;">3,485,000</p></td>
@@ -5977,7 +5977,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">2.7%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Corrected with hearing aid*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Corrected with hearing aid*</p></th>
       <td><p style="text-align: right;">888,000</p></td>
       <td><p style="text-align: right;">0.4%</p></td>
       <td><p style="text-align: right;">2,491,000</p></td>
@@ -5997,7 +5997,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>1.2%</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Severe</p></th>
       <td><p style="text-align: right;">365,000</p></td>
       <td><p style="text-align: right;">0.2%</p></td>
       <td><p style="text-align: right;">158,000</p></td>
@@ -6006,7 +6006,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">0.2%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Not severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Not severe</p></th>
       <td><p style="text-align: right;">1,610,000</p></td>
       <td><p style="text-align: right;">0.8%</p></td>
       <td><p style="text-align: right;">685,000</p></td>
@@ -6026,7 +6026,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;"><strong>-1.5%</strong></p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Severe</p></th>
       <td><p style="text-align: right;">-172,000</p></td>
       <td><p style="text-align: right;">-0.1%</p></td>
       <td><p style="text-align: right;">-169,000</p></td>
@@ -6035,7 +6035,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">-0.1%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Not severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Not severe</p></th>
       <td><p style="text-align: right;">-1,503,000</p></td>
       <td><p style="text-align: right;">-0.7%</p></td>
       <td><p style="text-align: right;">-1,698,000</p></td>
@@ -6066,7 +6066,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>2.8%</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Severe</p></th>
       <td><p style="text-align: right;">559,000</p></td>
       <td><p style="text-align: right;">0.3%</p></td>
       <td><p style="text-align: right;">334,000</p></td>
@@ -6075,7 +6075,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">0.4%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Not severe</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Not severe</p></th>
       <td><p style="text-align: right;">3,278,000</p></td>
       <td><p style="text-align: right;">1.6%</p></td>
       <td><p style="text-align: right;">2,541,000</p></td>
@@ -6095,7 +6095,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;"><strong>2.1%</strong></p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Learning disability</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Learning disability</p></th>
       <td><p style="text-align: right;">3,610,000</p></td>
       <td><p style="text-align: right;">1.8%</p></td>
       <td><p style="text-align: right;">286,000</p></td>
@@ -6104,7 +6104,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">1.6%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Intellectual disability</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Intellectual disability</p></th>
       <td><p style="text-align: right;">1,193,000</p></td>
       <td><p style="text-align: right;">0.6%</p></td>
       <td><p style="text-align: right;">76,000</p></td>
@@ -6176,31 +6176,31 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">U.S. population</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">U.S. population</p></th>
       <td><p style="text-align: right;">203,083,000</p></td>
       <td><p style="text-align: right;">38,599,000</p></td>
       <td><p style="text-align: right;">241,682,000</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">U.S. population online</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">U.S. population online</p></th>
       <td><p style="text-align: right;">133,037,850</p></td>
       <td><p style="text-align: right;">12,248,050</p></td>
       <td><p style="text-align: right;">145,285,900</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Percent of U.S. population online</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Percent of U.S. population online</p></th>
       <td><p style="text-align: right;">65.5%</p></td>
       <td><p style="text-align: right;">31.7%</p></td>
       <td><p style="text-align: right;">60.1%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">People with addressable disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with addressable disabilities</p></th>
       <td><p style="text-align: right;">19,166,000</p></td>
       <td><p style="text-align: right;">14,651,00&nbsp;</p></td>
       <td><p style="text-align: right;">33,817,000</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Estimated percentage of people with addressable disabilities online</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Estimated percentage of people with addressable disabilities online</p></th>
       <td><p style="text-align: right;">52.4%</p></td>
       <td><p style="text-align: right;">22.2%</p></td>
       <td><p style="text-align: right;">39.3%</p></td>
@@ -6212,13 +6212,13 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>&nbsp;13,298,669</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">People with vision disabilities online</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with vision disabilities online</p></th>
       <td><p style="text-align: right;">2,250,893</p></td>
       <td><p style="text-align: right;">840,060</p></td>
       <td><p style="text-align: right;">3,090,953</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">People with other addressable disabilities online</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">People with other addressable disabilities online</p></th>
       <td><p style="text-align: right;">7,793,487</p></td>
       <td><p style="text-align: right;">2,414,229</p></td>
       <td><p style="text-align: right;">10,207,716</p></td>
@@ -6256,62 +6256,62 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Speech impediments*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Speech impediments*</p></th>
       <td><p style="text-align: right;">1,097</p></td>
       <td><p style="text-align: right;">1,097</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Hearing*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Hearing*</p></th>
       <td><p style="text-align: right;">15,686</p></td>
       <td><p style="text-align: right;">15,686</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Vision*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Vision*</p></th>
       <td><p style="text-align: right;">9,486</p></td>
       <td><p style="text-align: right;">9,486</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Missing extremities**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Missing extremities**</p></th>
       <td><p style="text-align: right;">1,445</p></td>
       <td><p style="text-align: right;">1,267</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Non-paralytic orthopedic impairments**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Non-paralytic orthopedic impairments**</p></th>
       <td><p style="text-align: right;">34,627</p></td>
       <td><p style="text-align: right;">3,683</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Partial paralysis**</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Partial paralysis**</p></th>
       <td><p style="text-align: right;">4,871</p></td>
       <td><p style="text-align: right;">3,919</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Complete paralysis*</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Complete paralysis*</p></th>
       <td><p style="text-align: right;">1,143</p></td>
       <td><p style="text-align: right;">1,143</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Convulsive disorders</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Convulsive disorders</p></th>
       <td><p style="text-align: right;">2,541</p></td>
       <td><p style="text-align: right;">0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Mental retardation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Mental retardation</p></th>
       <td><p style="text-align: right;">1,019</p></td>
       <td><p style="text-align: right;">1,019</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Mental illness</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Mental illness</p></th>
       <td><p style="text-align: right;">5,399</p></td>
       <td><p style="text-align: right;">0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Other disabilities***</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Other disabilities***</p></th>
       <td><p style="text-align: right;">50,048</p></td>
       <td><p style="text-align: right;">0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Disability not listed</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Disability not listed</p></th>
       <td><p style="text-align: right;">17,673</p></td>
       <td><p style="text-align: right;">0</p></td>
     </tr>
@@ -6330,7 +6330,7 @@ permalink: /ict/fria.html
 <p>About 37,000 Federal civilian employees in 2010 reported having speech, hearing, vision, paralysis, fine motor skill, or cognitive limitations that are potentially addressed by the current and revised ICT accessibility requirements. In addition, some Federal employees who did not report having a disability may have single or multiple disabilities that make it difficult to use inaccessible ICT.</p>
 <p>Employees of Federal Government contractors perform a substantial and increasing share of Federal agency work. However, data are not available on the number of these employees or the prevalence of various types of disabilities in the Federal contractor workforce.<a id="_ftnref176" href="#_ftn176">[176]</a></p>
 <p>&nbsp;</p>
-<h3> <a id="_Toc411501846">Appendix C: 2012 DOJ Report on Section 508 Compliance Rates and Expenditures</a></h3>
+<h3 id="_Toc471376857">Appendix C: 2012 DOJ Report on Section 508 Compliance Rates and Expenditures</h3>
 <p>DOJ published a comprehensive report on Federal Government Section 508 compliance activities and achievements in 2012.<a id="_ftnref177" href="#_ftn177">[177]</a> The report provides data that can be used to develop overall estimates of current compliance rates and costs based on survey data collected from Federal agencies. Important results from the survey are presented and discussed in this appendix.</p>
 <p>The DOJ survey requested data in four areas:</p>
 <ul>
@@ -6363,35 +6363,35 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">(a)&nbsp;Assist acquisition officials to prepare Section 508 language in IT contracts</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(a)&nbsp;Assist acquisition officials to prepare Section 508 language in IT contracts</p></th>
       <td><p style="text-align: center;">65%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(b)&nbsp;Assist developers to design software that complies with Section 508</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(b)&nbsp;Assist developers to design software that complies with Section 508</p></th>
       <td><p style="text-align: center;">66%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(c)&nbsp;Create or repair electronic documents to comply with Section 508</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(c)&nbsp;Create or repair electronic documents to comply with Section 508</p></th>
       <td><p style="text-align: center;">70%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(d)&nbsp;Evaluate Web sites</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(d)&nbsp;Evaluate Web sites</p></th>
       <td><p style="text-align: center;">81%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(e)&nbsp;Evaluate software</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(e)&nbsp;Evaluate software</p></th>
       <td><p style="text-align: center;">65%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(f)&nbsp;Evaluate hardware</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(f)&nbsp;Evaluate hardware</p></th>
       <td><p style="text-align: center;">41%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(g)&nbsp;Provide training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(g)&nbsp;Provide training</p></th>
       <td><p style="text-align: center;">52%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(h)&nbsp;Provide alternate formats</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(h)&nbsp;Provide alternate formats</p></th>
       <td><p style="text-align: center;">50%</p></td>
     </tr>
   </tbody>
@@ -6410,15 +6410,15 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">(a) Yes, software was developed in house</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(a) Yes, software was developed in house</p></th>
       <td><p style="text-align: center;">52%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(b) Yes, but development was limited to contractors</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(b) Yes, but development was limited to contractors</p></th>
       <td><p style="text-align: center;">23%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(c) No</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(c) No</p></th>
       <td><p style="text-align: center;">25%</p></td>
     </tr>
   </tbody>
@@ -6437,15 +6437,15 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">(a) Yes, video or multimedia production was developed in house</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(a) Yes, video or multimedia production was developed in house</p></th>
       <td><p style="text-align: center;">52%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(b) Yes, but the production was limited to contractors</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(b) Yes, but the production was limited to contractors</p></th>
       <td><p style="text-align: center;">18%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(c) No, all productions were procured, or we do not create any video or multimedia productions</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(c) No, all productions were procured, or we do not create any video or multimedia productions</p></th>
       <td><p style="text-align: center;">29%</p></td>
     </tr>
   </tbody>
@@ -6464,35 +6464,35 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">(3)&nbsp;Section 508 coordinators</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(3)&nbsp;Section 508 coordinators</p></th>
       <td><p style="text-align: center;">4.2</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(4)&nbsp;&quot;Requiring officials&quot; (program managers, contracting officer's representatives, etc.)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(4)&nbsp;&quot;Requiring officials&quot; (program managers, contracting officer's representatives, etc.)</p></th>
       <td><p style="text-align: center;">0.8</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(5)&nbsp;Acquisition workforce (contracting officers, contract specialists, etc.)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(5)&nbsp;Acquisition workforce (contracting officers, contract specialists, etc.)</p></th>
       <td><p style="text-align: center;">0.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(6)&nbsp;Purchase cardholders</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(6)&nbsp;Purchase cardholders</p></th>
       <td><p style="text-align: center;">0.8</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(7)&nbsp;Web site developers</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(7)&nbsp;Web site developers</p></th>
       <td><p style="text-align: center;">1.6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(8)&nbsp;Video and multimedia developers</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(8)&nbsp;Video and multimedia developers</p></th>
       <td><p style="text-align: center;">1.0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(9)&nbsp;IT help desk staff</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(9)&nbsp;IT help desk staff</p></th>
       <td><p style="text-align: center;">0.6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(10)&nbsp;Other employees</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(10)&nbsp;Other employees</p></th>
       <td><p style="text-align: center;">0.7</p></td>
     </tr>
   </tbody>
@@ -6510,23 +6510,23 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">(a)&nbsp;Section 508 universe (www.section508.gov)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(a)&nbsp;Section 508 universe (www.section508.gov)</p></th>
       <td><p style="text-align: center;">52%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(b)&nbsp;Other online training</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(b)&nbsp;Other online training</p></th>
       <td><p style="text-align: center;">67%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(c)&nbsp;Classroom instruction</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(c)&nbsp;Classroom instruction</p></th>
       <td><p style="text-align: center;">54%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(d)&nbsp;Conferences and seminars</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(d)&nbsp;Conferences and seminars</p></th>
       <td><p style="text-align: center;">55%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">(e)&nbsp;Other</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">(e)&nbsp;Other</p></th>
       <td><p style="text-align: center;">41%</p></td>
     </tr>
   </tbody>
@@ -6546,27 +6546,27 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p>(a)&nbsp;Testing done in house</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>(a)&nbsp;Testing done in house</p></th>
       <td><p style="text-align: center;">46%</p></td>
     </tr>
     <tr>
-      <td><p>(b)&nbsp;Testing done by a third party</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>(b)&nbsp;Testing done by a third party</p></th>
       <td><p style="text-align: center;">25%</p></td>
     </tr>
     <tr>
-      <td><p>(c)&nbsp;Review of material submitted</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>(c)&nbsp;Review of material submitted</p></th>
       <td><p style="text-align: center;">60%</p></td>
     </tr>
     <tr>
-      <td><p>(d)&nbsp;Special acceptance provisions</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>(d)&nbsp;Special acceptance provisions</p></th>
       <td><p style="text-align: center;">12%</p></td>
     </tr>
     <tr>
-      <td><p>(e)&nbsp;No evaluation</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>(e)&nbsp;No evaluation</p></th>
       <td><p style="text-align: center;">18%</p></td>
     </tr>
     <tr>
-      <td><p>(f)&nbsp;Other</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p>(f)&nbsp;Other</p></th>
       <td><p style="text-align: center;">13%</p></td>
     </tr>
   </tbody>
@@ -6585,35 +6585,35 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Portable document files</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Portable document files</p></th>
       <td><p style="text-align: center;">96%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Multimedia content</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Multimedia content</p></th>
       <td><p style="text-align: center;">77%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">JavaScript or other scripts</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">JavaScript or other scripts</p></th>
       <td><p style="text-align: center;">75%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Word processing files</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Word processing files</p></th>
       <td><p style="text-align: center;">74%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Microsoft PowerPoint</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Microsoft PowerPoint</p></th>
       <td><p style="text-align: center;">67%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Data tables</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Data tables</p></th>
       <td><p style="text-align: center;">67%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Spreadsheet files</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Spreadsheet files</p></th>
       <td><p style="text-align: center;">65%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Flash content</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Flash content</p></th>
       <td><p style="text-align: center;">58%</p></td>
     </tr>
   </tbody>
@@ -6631,27 +6631,27 @@ permalink: /ict/fria.html
   </thead>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Routine automated and manual evaluations</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Routine automated and manual evaluations</p></th>
       <td><p style="text-align: center;">28%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Routine automated evaluations</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Routine automated evaluations</p></th>
       <td><p style="text-align: center;">6%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Routine manual evaluations</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Routine manual evaluations</p></th>
       <td><p style="text-align: center;">24%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Evaluate only when notified</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Evaluate only when notified</p></th>
       <td><p style="text-align: center;">22%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">No, but a timetable has been established to do so</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">No, but a timetable has been established to do so</p></th>
       <td><p style="text-align: center;">9%</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">No, and there were no plans to do so</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">No, and there were no plans to do so</p></th>
       <td><p style="text-align: center;">12%</p></td>
     </tr>
   </tbody>
@@ -6813,7 +6813,7 @@ permalink: /ict/fria.html
   </tbody>
 </table>
 <p>&nbsp;</p>
-<h3> Appendix D: Data on Affected Entities, Products, Services, and Employees</h3>
+<h3 id="_Toc471376858"> Appendix D: Data on Affected Entities, Products, Services, and Employees</h3>
 <p>This section provides a description and statistical profile of Federal Government ICT expenditures, purchases, and employment, as well as data on the overall sales of private firms in ICT-related sectors. These statistics provide baseline data for assessing the numbers and types of entities, employees, and expenditures that may be affected by adoption of the rule standards and guidelines.</p>
 <h4>D.1. Federal Agency ICT Budgets</h4>
 <p>Federal purchases of hardware, software, services, and content must be made in conformance with the current Section 508 standards. These purchases account for a substantial share of overall agency IT budgets, which must be compiled and reported annually to OMB. Table D-1 shows that the overall Federal Government IT budget has remained essentially flat since 2015.</p>
@@ -6836,13 +6836,13 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Major Civilian Agencies</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Major Civilian Agencies</p></th>
       <td><p style="text-align: right;">$49,968</p></td>
       <td><p style="text-align: right;">$50,725</p></td>
       <td><p style="text-align: right;">$51,299</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">DOD</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">DOD</p></th>
       <td><p style="text-align: right;">$36,727</p></td>
       <td><p style="text-align: right;">$37,987</p></td>
       <td><p style="text-align: right;">$38,551</p></td>
@@ -6881,42 +6881,42 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">Computer and electronic product manufacturing</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334111 Electronic computers</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334111 Electronic computers</p></th>
       <td><p style="text-align: right;">25,873</p></td>
       <td><p style="text-align: right;">$2,130</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334112 Computer storage devices</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334112 Computer storage devices</p></th>
       <td><p style="text-align: right;">2,627</p></td>
       <td><p style="text-align: right;">$106</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334113 Computer terminals</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334113 Computer terminals</p></th>
       <td><p style="text-align: right;">90</p></td>
       <td><p style="text-align: right;">$6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334119 Other computer peripheral equipment</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334119 Other computer peripheral equipment</p></th>
       <td><p style="text-align: right;">1,994</p></td>
       <td><p style="text-align: right;">$131</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334210 Telephone apparatus</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334210 Telephone apparatus</p></th>
       <td><p style="text-align: right;">7,145</p></td>
       <td><p style="text-align: right;">$1,258</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment</p></th>
       <td><p style="text-align: right;">16,096</p></td>
       <td><p style="text-align: right;">$2,867</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334290 Other communications equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334290 Other communications equipment manufacturing</p></th>
       <td><p style="text-align: right;">9,695</p></td>
       <td><p style="text-align: right;">$1,840</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334310 Audio and video equipment</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334310 Audio and video equipment</p></th>
       <td><p style="text-align: right;">3,774</p></td>
       <td><p style="text-align: right;">$130</p></td>
     </tr>
@@ -6931,52 +6931,52 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">Information services</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">511210 Software publishers</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">511210 Software publishers</p></th>
       <td><p style="text-align: right;">16,703</p></td>
       <td><p style="text-align: right;">$1,698</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">514210/518210 Data processing, hosting, and related services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">514210/518210 Data processing, hosting, and related services</p></th>
       <td><p style="text-align: right;">5,937</p></td>
       <td><p style="text-align: right;">$2,087</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">516110/519130 Internet publishing, broadcasting, and Web search portals</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">516110/519130 Internet publishing, broadcasting, and Web search portals</p></th>
       <td><p style="text-align: right;">3,220</p></td>
       <td><p style="text-align: right;">$132</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">518111 Internet service providers and Web search portals</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">518111 Internet service providers and Web search portals</p></th>
       <td><p style="text-align: right;">466</p></td>
       <td><p style="text-align: right;">$72</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">5121 Motion picture and video industries</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">5121 Motion picture and video industries</p></th>
       <td><p style="text-align: right;">1,422</p></td>
       <td><p style="text-align: right;">$55</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">5122 Sound recording industries</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">5122 Sound recording industries</p></th>
       <td><p style="text-align: right;">193</p></td>
       <td><p style="text-align: right;">$46</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">5141 Information services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">5141 Information services</p></th>
       <td><p style="text-align: right;">2</p></td>
       <td><p style="text-align: right;">$0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">513 Telecommunications services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">513 Telecommunications services</p></th>
       <td><p style="text-align: right;">119</p></td>
       <td><p style="text-align: right;">$4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">515 Broadcasting/cable services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">515 Broadcasting/cable services</p></th>
       <td><p style="text-align: right;">3,216</p></td>
       <td><p style="text-align: right;">$34</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">517 Telecommunications services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">517 Telecommunications services</p></th>
       <td><p style="text-align: right;">45,541</p></td>
       <td><p style="text-align: right;">$5,431</p></td>
     </tr>
@@ -6991,7 +6991,7 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">Office equipment rental and leasing</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">532420 Office equipment rental and leasing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">532420 Office equipment rental and leasing</p></th>
       <td><p style="text-align: right;">5,046</p></td>
       <td><p style="text-align: right;">$417</p></td>
     </tr>
@@ -7006,17 +7006,17 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">Computer systems design and related services</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">541511 Custom computer programming services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">541511 Custom computer programming services</p></th>
       <td><p style="text-align: right;">18,794</p></td>
       <td><p style="text-align: right;">$4,772</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">541512 Computer systems design services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">541512 Computer systems design services</p></th>
       <td><p style="text-align: right;">24,712</p></td>
       <td><p style="text-align: right;">$15,683</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">541519 Other computer-related services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">541519 Other computer-related services</p></th>
       <td><p style="text-align: right;">62,050</p></td>
       <td><p style="text-align: right;">$12,335</p></td>
     </tr>
@@ -7058,7 +7058,7 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">IT-related occupations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Information Technology (2200)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Information Technology (2200)</p></th>
       <td><p style="text-align: right;">82,801</p></td>
       <td><p style="text-align: right;">$97,665</p></td>
     </tr>
@@ -7073,17 +7073,17 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="row">Contracting-related occupations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting (1102)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting (1102)</p></th>
       <td><p style="text-align: right;">36,971</p></td>
       <td><p style="text-align: right;">$90,013</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Purchasing (1105)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Purchasing (1105)</p></th>
       <td><p style="text-align: right;">3,051</p></td>
       <td><p style="text-align: right;">$49,145</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Procurement technician (1106)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Procurement technician (1106)</p></th>
       <td><p style="text-align: right;">1,354</p></td>
       <td><p style="text-align: right;">$47,153</p></td>
     </tr>
@@ -7098,27 +7098,27 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">Document/content producer occupations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Audiovisual production (1071)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Audiovisual production (1071)</p></th>
       <td><p style="text-align: right;">1,109</p></td>
       <td><p style="text-align: right;">$86,009</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Writing and editing (1082)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Writing and editing (1082)</p></th>
       <td><p style="text-align: right;">1,204</p></td>
       <td><p style="text-align: right;">$92,118</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Technical writing and editing (1083)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Technical writing and editing (1083)</p></th>
       <td><p style="text-align: right;">1,151</p></td>
       <td><p style="text-align: right;">$83,328</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Visual information (1084)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Visual information (1084)</p></th>
       <td><p style="text-align: right;">1,686</p></td>
       <td><p style="text-align: right;">$80,608</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Editorial assistance (1085)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Editorial assistance (1085)</p></th>
       <td><p style="text-align: right;">121</p></td>
       <td><p style="text-align: right;">$49,027</p></td>
     </tr>
@@ -7133,52 +7133,52 @@ permalink: /ict/fria.html
       <th style="text-align: left;" colspan="3" scope="rowgroup">Other occupations likely to have Section 508 compliance obligations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Program management (0340)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Program management (0340)</p></th>
       <td><p style="text-align: right;">15,433</p></td>
       <td><p style="text-align: right;">$132,410</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Administrative officer (0341)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Administrative officer (0341)</p></th>
       <td><p style="text-align: right;">9,165</p></td>
       <td><p style="text-align: right;">$81,755</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">EEO compliance (0360)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">EEO compliance (0360)</p></th>
       <td><p style="text-align: right;">1,295</p></td>
       <td><p style="text-align: right;">$97,566</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">EEO assistance (0361)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">EEO assistance (0361)</p></th>
       <td><p style="text-align: right;">248</p></td>
       <td><p style="text-align: right;">$49,986</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Human resource management (0201)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Human resource management (0201)</p></th>
       <td><p style="text-align: right;">28,624</p></td>
       <td><p style="text-align: right;">$85,732</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Human resource assistance (0203)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Human resource assistance (0203)</p></th>
       <td><p style="text-align: right;">10,976</p></td>
       <td><p style="text-align: right;">$43,823</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Mediation (0241)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Mediation (0241)</p></th>
       <td><p style="text-align: right;">184</p></td>
       <td><p style="text-align: right;">$121,017</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Training (0243)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Training (0243)</p></th>
       <td><p style="text-align: right;">87</p></td>
       <td><p style="text-align: right;">$95,386</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Labor management relations (0244)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Labor management relations (0244)</p></th>
       <td><p style="text-align: right;">257</p></td>
       <td><p style="text-align: right;">$110,313</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">EEO (0260)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">EEO (0260)</p></th>
       <td><p style="text-align: right;">2,774</p></td>
       <td><p style="text-align: right;">$95,293</p></td>
     </tr>
@@ -7195,12 +7195,12 @@ permalink: /ict/fria.html
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">IT percentage of total</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">IT percentage of total</p></th>
       <td><p style="text-align: right;">42%</p></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting percentage of total</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting percentage of total</p></th>
       <td><p style="text-align: right;">21%</p></td>
       <td>&nbsp;</td>
     </tr>
@@ -7228,43 +7228,43 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">334111 Electronic computer manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334111 Electronic computer manufacturing</p></th>
       <td><p style="text-align: right;">360</p></td>
       <td><p style="text-align: right;">18,785</p></td>
       <td><p style="text-align: right;">$9,665</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334112 Computer storage device manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334112 Computer storage device manufacturing</p></th>
       <td><p style="text-align: right;">105</p></td>
       <td><p style="text-align: right;">15,641</p></td>
       <td><p style="text-align: right;">$11,069</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334118 Computer terminal and other computer peripheral equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334118 Computer terminal and other computer peripheral equipment manufacturing</p></th>
       <td><p style="text-align: right;">611</p></td>
       <td><p style="text-align: right;">24,238</p></td>
       <td><p style="text-align: right;">$11,412</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334210 Telephone apparatus manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334210 Telephone apparatus manufacturing</p></th>
       <td><p style="text-align: right;">251</p></td>
       <td><p style="text-align: right;">17,989</p></td>
       <td><p style="text-align: right;">$8,142</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment manufacturing</p></th>
       <td><p style="text-align: right;">753</p></td>
       <td><p style="text-align: right;">67,868</p></td>
       <td><p style="text-align: right;">$27,412</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334290 Other communications equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334290 Other communications equipment manufacturing</p></th>
       <td><p style="text-align: right;">363</p></td>
       <td><p style="text-align: right;">14,910</p></td>
       <td><p style="text-align: right;">$5,020</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334310 Audio and video equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334310 Audio and video equipment manufacturing</p></th>
       <td><p style="text-align: right;">457</p></td>
       <td><p style="text-align: right;">9,559</p></td>
       <td><p style="text-align: right;">$2,925</p></td>
@@ -7418,7 +7418,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Benefits from increased Federal employee productivity</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from increased Federal employee productivity</p></th>
       <td><p style="text-align: right;">$19.6</p></td>
       <td><p style="text-align: right;">$39.1</p></td>
       <td><p style="text-align: right;">$58.7</p></td>
@@ -7432,7 +7432,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$528.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with vision disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with vision disabilities</p></th>
       <td><p style="text-align: right;">$0.9</p></td>
       <td><p style="text-align: right;">$2.0</p></td>
       <td><p style="text-align: right;">$3.1</p></td>
@@ -7446,7 +7446,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$31.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits to Federal Agencies from reduced call volumes</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to Federal Agencies from reduced call volumes</p></th>
       <td><p style="text-align: right;">$7.4</p></td>
       <td><p style="text-align: right;">$15.4</p></td>
       <td><p style="text-align: right;">$24.1</p></td>
@@ -7474,8 +7474,8 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$806.9</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$24.3</p></td>
       <td><p style="text-align: right;">$46.1</p></td>
       <td><p style="text-align: right;">$65.5</p></td>
@@ -7489,8 +7489,8 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$508.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$26.3</p></td>
       <td><p style="text-align: right;">$51.7</p></td>
       <td><p style="text-align: right;">$76.3</p></td>
@@ -7504,8 +7504,8 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$656.8</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized value <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized value <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$72.4</p></td>
       <td><p style="text-align: right;">$72.4</p></td>
       <td><p style="text-align: right;">$72.4</p></td>
@@ -7519,8 +7519,8 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$72.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized value <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized value <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$77.0</p></td>
       <td><p style="text-align: right;">$77.0</p></td>
       <td><p style="text-align: right;">$77.0</p></td>
@@ -7563,7 +7563,7 @@ permalink: /ict/fria.html
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Total in-house ICT cost</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total in-house ICT cost</p></th>
       <td style="text-align: right;"><strong>$87.3</strong></td>
       <td style="text-align: right;"><strong>$87.3</strong></td>
       <td style="text-align: right;"><strong>$87.3</strong></td>
@@ -7577,7 +7577,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$1,019.5</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Procured ICT cost</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Procured ICT cost</p></th>
       <td><p style="text-align: right;">$73.6</p></td>
       <td><p style="text-align: right;">$73.6</p></td>
       <td><p style="text-align: right;">$73.6</p></td>
@@ -7591,7 +7591,7 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$858.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Manufacturers Web site and content development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Manufacturers Web site and content development</p></th>
       <td><p style="text-align: right;">$13.7</p></td>
       <td><p style="text-align: right;">$16.0</p></td>
       <td><p style="text-align: right;">$18.3</p></td>
@@ -7619,7 +7619,7 @@ permalink: /ict/fria.html
       <td style="text-align: right;"><strong>$1,973.8</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
           (7% discount rate)</p></td>
       <td><p style="text-align: right;">$152.5</p></td>
       <td><p style="text-align: right;">$144.4</p></td>
@@ -7634,8 +7634,8 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$1,281.3</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$164.6</p></td>
       <td><p style="text-align: right;">$161.9</p></td>
       <td><p style="text-align: right;">$159.2</p></td>
@@ -7649,8 +7649,8 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$1,626.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized cost <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized cost <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$182.4</p></td>
       <td><p style="text-align: right;">$182.4</p></td>
       <td><p style="text-align: right;">$182.4</p></td>
@@ -7664,8 +7664,8 @@ permalink: /ict/fria.html
       <td><p style="text-align: right;">$182.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized cost <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized cost <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$190.7</p></td>
       <td><p style="text-align: right;">$190.7</p></td>
       <td><p style="text-align: right;">$190.7</p></td>
@@ -7891,13 +7891,13 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Major Civilian Agencies</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Major Civilian Agencies</p></th>
       <td><p style="text-align: right;">$49,968</p></td>
       <td><p style="text-align: right;">$50,725</p></td>
       <td><p style="text-align: right;">$51,299</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">DOD</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">DOD</p></th>
       <td><p style="text-align: right;">$36,727</p></td>
       <td><p style="text-align: right;">$37,987</p></td>
       <td><p style="text-align: right;">$38,551</p></td>
@@ -7936,42 +7936,42 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">Computer and electronic product manufacturing</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334111 Electronic computers</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334111 Electronic computers</p></th>
       <td><p style="text-align: right;">25,873</p></td>
       <td><p style="text-align: right;">$2,130</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334112 Computer storage devices</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334112 Computer storage devices</p></th>
       <td><p style="text-align: right;">2,627</p></td>
       <td><p style="text-align: right;">$106</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334113 Computer terminals</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334113 Computer terminals</p></th>
       <td><p style="text-align: right;">90</p></td>
       <td><p style="text-align: right;">$6</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334119 Other computer peripheral equipment</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334119 Other computer peripheral equipment</p></th>
       <td><p style="text-align: right;">1,994</p></td>
       <td><p style="text-align: right;">$131</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334210 Telephone apparatus</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334210 Telephone apparatus</p></th>
       <td><p style="text-align: right;">7,145</p></td>
       <td><p style="text-align: right;">$1,258</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment</p></th>
       <td><p style="text-align: right;">16,096</p></td>
       <td><p style="text-align: right;">$2,867</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334290 Other communications equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334290 Other communications equipment manufacturing</p></th>
       <td><p style="text-align: right;">9,695</p></td>
       <td><p style="text-align: right;">$1,840</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334310 Audio and video equipment</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334310 Audio and video equipment</p></th>
       <td><p style="text-align: right;">3,774</p></td>
       <td><p style="text-align: right;">$130</p></td>
     </tr>
@@ -7986,52 +7986,52 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">Information services</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">511210 Software publishers</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">511210 Software publishers</p></th>
       <td><p style="text-align: right;">16,703</p></td>
       <td><p style="text-align: right;">$1,698</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">514210/518210 Data processing, hosting, and related services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">514210/518210 Data processing, hosting, and related services</p></th>
       <td><p style="text-align: right;">5,937</p></td>
       <td><p style="text-align: right;">$2,087</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">516110/519130 Internet publishing, broadcasting, and Web search portals</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">516110/519130 Internet publishing, broadcasting, and Web search portals</p></th>
       <td><p style="text-align: right;">3,220</p></td>
       <td><p style="text-align: right;">$132</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">518111 Internet service providers and Web search portals</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">518111 Internet service providers and Web search portals</p></th>
       <td><p style="text-align: right;">466</p></td>
       <td><p style="text-align: right;">$72</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">5121 Motion picture and video industries</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">5121 Motion picture and video industries</p></th>
       <td><p style="text-align: right;">1,422</p></td>
       <td><p style="text-align: right;">$55</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">5122 Sound recording industries</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">5122 Sound recording industries</p></th>
       <td><p style="text-align: right;">193</p></td>
       <td><p style="text-align: right;">$46</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">5141 Information services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">5141 Information services</p></th>
       <td><p style="text-align: right;">2</p></td>
       <td><p style="text-align: right;">$0</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">513 Telecommunications services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">513 Telecommunications services</p></th>
       <td><p style="text-align: right;">119</p></td>
       <td><p style="text-align: right;">$4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">515 Broadcasting/cable services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">515 Broadcasting/cable services</p></th>
       <td><p style="text-align: right;">3,216</p></td>
       <td><p style="text-align: right;">$34</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">517 Telecommunications services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">517 Telecommunications services</p></th>
       <td><p style="text-align: right;">45,541</p></td>
       <td><p style="text-align: right;">$5,431</p></td>
     </tr>
@@ -8046,7 +8046,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">Office equipment rental and leasing</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">532420 Office equipment rental and leasing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">532420 Office equipment rental and leasing</p></th>
       <td><p style="text-align: right;">5,046</p></td>
       <td><p style="text-align: right;">$417</p></td>
     </tr>
@@ -8061,17 +8061,17 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">Computer systems design and related services</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">541511 Custom computer programming services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">541511 Custom computer programming services</p></th>
       <td><p style="text-align: right;">18,794</p></td>
       <td><p style="text-align: right;">$4,772</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">541512 Computer systems design services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">541512 Computer systems design services</p></th>
       <td><p style="text-align: right;">24,712</p></td>
       <td><p style="text-align: right;">$15,683</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">541519 Other computer-related services</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">541519 Other computer-related services</p></th>
       <td><p style="text-align: right;">62,050</p></td>
       <td><p style="text-align: right;">$12,335</p></td>
     </tr>
@@ -8113,7 +8113,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">IT-related occupations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Information Technology (2200)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Information Technology (2200)</p></th>
       <td><p style="text-align: right;">82,801</p></td>
       <td><p style="text-align: right;">$97,665</p></td>
     </tr>
@@ -8128,17 +8128,17 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="row">Contracting-related occupations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting (1102)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting (1102)</p></th>
       <td><p style="text-align: right;">36,971</p></td>
       <td><p style="text-align: right;">$90,013</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Purchasing (1105)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Purchasing (1105)</p></th>
       <td><p style="text-align: right;">3,051</p></td>
       <td><p style="text-align: right;">$49,145</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Procurement technician (1106)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Procurement technician (1106)</p></th>
       <td><p style="text-align: right;">1,354</p></td>
       <td><p style="text-align: right;">$47,153</p></td>
     </tr>
@@ -8153,27 +8153,27 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">Document/content producer occupations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Audiovisual production (1071)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Audiovisual production (1071)</p></th>
       <td><p style="text-align: right;">1,109</p></td>
       <td><p style="text-align: right;">$86,009</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Writing and editing (1082)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Writing and editing (1082)</p></th>
       <td><p style="text-align: right;">1,204</p></td>
       <td><p style="text-align: right;">$92,118</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Technical writing and editing (1083)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Technical writing and editing (1083)</p></th>
       <td><p style="text-align: right;">1,151</p></td>
       <td><p style="text-align: right;">$83,328</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Visual information (1084)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Visual information (1084)</p></th>
       <td><p style="text-align: right;">1,686</p></td>
       <td><p style="text-align: right;">$80,608</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Editorial assistance (1085)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Editorial assistance (1085)</p></th>
       <td><p style="text-align: right;">121</p></td>
       <td><p style="text-align: right;">$49,027</p></td>
     </tr>
@@ -8188,52 +8188,52 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <th style="text-align: left;" colspan="3" scope="rowgroup">Other occupations likely to have Section 508 compliance obligations</th>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Program management (0340)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Program management (0340)</p></th>
       <td><p style="text-align: right;">15,433</p></td>
       <td><p style="text-align: right;">$132,410</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Administrative officer (0341)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Administrative officer (0341)</p></th>
       <td><p style="text-align: right;">9,165</p></td>
       <td><p style="text-align: right;">$81,755</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">EEO compliance (0360)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">EEO compliance (0360)</p></th>
       <td><p style="text-align: right;">1,295</p></td>
       <td><p style="text-align: right;">$97,566</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">EEO assistance (0361)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">EEO assistance (0361)</p></th>
       <td><p style="text-align: right;">248</p></td>
       <td><p style="text-align: right;">$49,986</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Human resource management (0201)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Human resource management (0201)</p></th>
       <td><p style="text-align: right;">28,624</p></td>
       <td><p style="text-align: right;">$85,732</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Human resource assistance (0203)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Human resource assistance (0203)</p></th>
       <td><p style="text-align: right;">10,976</p></td>
       <td><p style="text-align: right;">$43,823</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Mediation (0241)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Mediation (0241)</p></th>
       <td><p style="text-align: right;">184</p></td>
       <td><p style="text-align: right;">$121,017</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Training (0243)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Training (0243)</p></th>
       <td><p style="text-align: right;">87</p></td>
       <td><p style="text-align: right;">$95,386</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Labor management relations (0244)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Labor management relations (0244)</p></th>
       <td><p style="text-align: right;">257</p></td>
       <td><p style="text-align: right;">$110,313</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">EEO (0260)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">EEO (0260)</p></th>
       <td><p style="text-align: right;">2,774</p></td>
       <td><p style="text-align: right;">$95,293</p></td>
     </tr>
@@ -8250,12 +8250,12 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">IT percentage of total</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">IT percentage of total</p></th>
       <td><p style="text-align: right;">42%</p></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Contracting percentage of total</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Contracting percentage of total</p></th>
       <td><p style="text-align: right;">21%</p></td>
       <td>&nbsp;</td>
     </tr>
@@ -8283,43 +8283,43 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">334111 Electronic computer manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334111 Electronic computer manufacturing</p></th>
       <td><p style="text-align: right;">360</p></td>
       <td><p style="text-align: right;">18,785</p></td>
       <td><p style="text-align: right;">$9,665</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334112 Computer storage device manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334112 Computer storage device manufacturing</p></th>
       <td><p style="text-align: right;">105</p></td>
       <td><p style="text-align: right;">15,641</p></td>
       <td><p style="text-align: right;">$11,069</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334118 Computer terminal and other computer peripheral equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334118 Computer terminal and other computer peripheral equipment manufacturing</p></th>
       <td><p style="text-align: right;">611</p></td>
       <td><p style="text-align: right;">24,238</p></td>
       <td><p style="text-align: right;">$11,412</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334210 Telephone apparatus manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334210 Telephone apparatus manufacturing</p></th>
       <td><p style="text-align: right;">251</p></td>
       <td><p style="text-align: right;">17,989</p></td>
       <td><p style="text-align: right;">$8,142</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334220 Radio and television broadcasting and wireless communications equipment manufacturing</p></th>
       <td><p style="text-align: right;">753</p></td>
       <td><p style="text-align: right;">67,868</p></td>
       <td><p style="text-align: right;">$27,412</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334290 Other communications equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334290 Other communications equipment manufacturing</p></th>
       <td><p style="text-align: right;">363</p></td>
       <td><p style="text-align: right;">14,910</p></td>
       <td><p style="text-align: right;">$5,020</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">334310 Audio and video equipment manufacturing</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">334310 Audio and video equipment manufacturing</p></th>
       <td><p style="text-align: right;">457</p></td>
       <td><p style="text-align: right;">9,559</p></td>
       <td><p style="text-align: right;">$2,925</p></td>
@@ -8473,7 +8473,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Benefits from increased Federal employee productivity</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from increased Federal employee productivity</p></th>
       <td><p style="text-align: right;">$19.6</p></td>
       <td><p style="text-align: right;">$39.1</p></td>
       <td><p style="text-align: right;">$58.7</p></td>
@@ -8487,7 +8487,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$528.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with vision disabilities</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits from improved Federal Government Web site accessibility to people with vision disabilities</p></th>
       <td><p style="text-align: right;">$0.9</p></td>
       <td><p style="text-align: right;">$2.0</p></td>
       <td><p style="text-align: right;">$3.1</p></td>
@@ -8501,7 +8501,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$31.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Benefits to Federal Agencies from reduced call volumes</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Benefits to Federal Agencies from reduced call volumes</p></th>
       <td><p style="text-align: right;">$7.4</p></td>
       <td><p style="text-align: right;">$15.4</p></td>
       <td><p style="text-align: right;">$24.1</p></td>
@@ -8529,8 +8529,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td style="text-align: right;"><strong>$806.9</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$24.3</p></td>
       <td><p style="text-align: right;">$46.1</p></td>
       <td><p style="text-align: right;">$65.5</p></td>
@@ -8544,8 +8544,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$508.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$26.3</p></td>
       <td><p style="text-align: right;">$51.7</p></td>
       <td><p style="text-align: right;">$76.3</p></td>
@@ -8559,8 +8559,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$656.8</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized value <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized value <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$72.4</p></td>
       <td><p style="text-align: right;">$72.4</p></td>
       <td><p style="text-align: right;">$72.4</p></td>
@@ -8574,8 +8574,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$72.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized value <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized value <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$77.0</p></td>
       <td><p style="text-align: right;">$77.0</p></td>
       <td><p style="text-align: right;">$77.0</p></td>
@@ -8618,7 +8618,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
   </tfoot>
   <tbody class="odd">
     <tr>
-      <td><p style="text-align: left;">Total in-house ICT cost</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Total in-house ICT cost</p></th>
       <td style="text-align: right;"><strong>$87.3</strong></td>
       <td style="text-align: right;"><strong>$87.3</strong></td>
       <td style="text-align: right;"><strong>$87.3</strong></td>
@@ -8632,7 +8632,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td style="text-align: right;"><strong>$1,019.5</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Procured ICT cost</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Procured ICT cost</p></th>
       <td><p style="text-align: right;">$73.6</p></td>
       <td><p style="text-align: right;">$73.6</p></td>
       <td><p style="text-align: right;">$73.6</p></td>
@@ -8646,7 +8646,7 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$858.5</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Manufacturers Web site and content development</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Manufacturers Web site and content development</p></th>
       <td><p style="text-align: right;">$13.7</p></td>
       <td><p style="text-align: right;">$16.0</p></td>
       <td><p style="text-align: right;">$18.3</p></td>
@@ -8674,8 +8674,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td style="text-align: right;"><strong>$1,973.8</strong></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$152.5</p></td>
       <td><p style="text-align: right;">$144.4</p></td>
       <td><p style="text-align: right;">$136.7</p></td>
@@ -8689,8 +8689,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$1,281.3</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Present value in 2017 <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Present value in 2017 <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$164.6</p></td>
       <td><p style="text-align: right;">$161.9</p></td>
       <td><p style="text-align: right;">$159.2</p></td>
@@ -8704,8 +8704,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$1,626.9</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized cost <br />
-          (7% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized cost <br />
+          (7% discount rate)</p></th>
       <td><p style="text-align: right;">$182.4</p></td>
       <td><p style="text-align: right;">$182.4</p></td>
       <td><p style="text-align: right;">$182.4</p></td>
@@ -8719,8 +8719,8 @@ be compiled and reported annually to OMB. Table D-1 shows that the overall Feder
       <td><p style="text-align: right;">$182.4</p></td>
     </tr>
     <tr>
-      <td><p style="text-align: left;">Annualized cost <br />
-          (3% discount rate)</p></td>
+      <th scope="row" style="font-weight: normal !important;"><p style="text-align: left;">Annualized cost <br />
+          (3% discount rate)</p></th>
       <td><p style="text-align: right;">$190.7</p></td>
       <td><p style="text-align: right;">$190.7</p></td>
       <td><p style="text-align: right;">$190.7</p></td>
