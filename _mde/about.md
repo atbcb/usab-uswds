@@ -2,8 +2,6 @@
 title: About MDE
 order-number: 0
 permalink: /mde/
-file: /files/mde/mde-rule.pdf
-file-description: Print version of Standards for Accessible Medical Diagnostic Equipment as published in the Federal Register
 ---
 ## About the Accessibility Standards for Medical Diagnostic Equipment
 
