@@ -40,6 +40,7 @@ Contact: [events@access-board.gov](mailto:events@access-board.gov)\
 - Introductory Remarks and Roll Call
 - Board vote on approval of draft January 2026 meeting minutes
 - Board vote on location of 2028 and 2029 out-of-town Board meetings
+- Board vote on NPRM to update the Access Board’s FOIA regulation
 - Agency Update Report
 - Standing Committee Reports
 - Election Assistance Commission
