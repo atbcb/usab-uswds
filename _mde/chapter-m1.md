@@ -38,36 +38,37 @@ Measurements are stated in U.S. customary and metric units. The values stated in
 
 For the purpose of the MDE Standards, the following terms have the indicated meaning:
 
+<dl>
+  <dt><strong>End Transfer Surface</strong></dt>
+  <dd>A transfer surface located at one end of an examination surface that allows patient transfer at the end and one adjoining side of the examination surface.</dd>
 
-End Transfer Surface
-: A transfer surface located at one end of an examination surface that allows patient transfer at the end and one adjoining side of the examination surface.
+  <dt><strong>Enforcing Authority</strong></dt>
+  <dd>An agency or other governmental entity that adopts the MDE Standards as mandatory requirements for entities subject to its jurisdiction. Enforcing authorities may include, but are not limited to the United States Departments of Justice and Health and Human Services.</dd>
 
-Enforcing Authority
-: An agency or other governmental entity that adopts the MDE Standards as mandatory requirements for entities subject to its jurisdiction. Enforcing authorities may include, but are not limited to the United States Departments of Justice and Health and Human Services.
+  <dt><strong>Examination Chair</strong></dt>
+  <dd>Diagnostic equipment with a seat in which a patient typically is positioned with buttocks approximately parallel to the ground and shins approximately perpendicular to the ground. Examination chairs typically have back support and may recline to properly position the patient during examination. Such chairs may also have footrests or stirrups. Examination chairs include, but are not limited to, equipment used for dental, ophthalmic, podiatric, gynecological, urological, and ear, nose, and throat examinations.</dd>
 
-Examination Chair
-: Diagnostic equipment with a seat in which a patient typically is positioned with buttocks approximately parallel to the ground and shins approximately perpendicular to the ground. Examination chairs typically have back support and may recline to properly position the patient during examination. Such chairs may also have footrests or stirrups. Examination chairs include, but are not limited to, equipment used for dental, ophthalmic, podiatric, gynecological, urological, and ear, nose, and throat examinations.
+  <dt><strong>Imaging bed</strong></dt>
+  <dd>A component of diagnostic scanning equipment that accommodates patients in supine, prone, or side-lying positions.</dd>
 
-Imaging bed
-: A component of diagnostic scanning equipment that accommodates patients in supine, prone, or side-lying positions.
+  <dt><strong>Imaging equipment with bores</strong></dt>
+  <dd>Diagnostic scanning equipment using magnets, x-rays, or detectors into which a patient and the table on which the patient lies is inserted into the equipment through a cylindrical opening (bore) in order to achieve the positioning accuracy needed during the scan. Such equipment includes, but is not limited to, computerized axial tomography (CT or CAT), positron emission tomography (PET), and nuclear medicine (NM) scanning equipment or a combination thereof.</dd>
 
-Imaging equipment with bores
-: Diagnostic scanning equipment using magnets, x-rays, or detectors into which a patient and the table on which the patient lies is inserted into the equipment through a cylindrical opening (bore) in order to achieve the positioning accuracy needed during the scan. Such equipment includes, but is not limited to, computerized axial tomography (CT or CAT), positron emission tomography (PET), and nuclear medicine (NM) scanning equipment or a combination thereof. 
+  <dt><strong>Medical Diagnostic Equipment (Diagnostic Equipment)</strong></dt>
+  <dd>Equipment used in, or in conjunction with, medical settings by health care providers for diagnostic purposes.</dd>
 
-Medical Diagnostic Equipment (Diagnostic Equipment)
-: Equipment used in, or in conjunction with, medical settings by health care providers for diagnostic purposes.
+  <dt><strong>Operable Parts</strong></dt>
+  <dd>Components of diagnostic equipment that are used by the patient to activate, deactivate, or adjust the equipment.</dd>
 
-Operable Parts
-: Components of diagnostic equipment that are used by the patient to activate, deactivate, or adjust the equipment.
+  <dt><strong>Side Transfer Surface</strong></dt>
+  <dd>A transfer surface located within the length of the examination surface that allows patient transfer on two opposing sides of the examination surface.</dd>
 
-Side Transfer Surface
-: A transfer surface located within the length of the examination surface that allows patient transfer on two opposing sides of the examination surface.
+  <dt><strong>Transfer Surface</strong></dt>
+  <dd>Part of diagnostic equipment onto which patients who use mobility devices or aids transfer when moving onto and off of the equipment.</dd>
 
-Transfer Surface
-: Part of diagnostic equipment onto which patients who use mobility devices or aids transfer when moving onto and off of the equipment.
-
-Wheelchair Space
-: Space for a single wheelchair and its occupant.
+  <dt><strong>Wheelchair Space</strong></dt>
+  <dd>Space for a single wheelchair and its occupant.</dd>
+</dl>
 
 #### M102.2 Undefined Terms
 
@@ -76,6 +77,3 @@ Terms not defined in M102.1 or in regulations or policies issued by an enforcing
 #### M102.3 Interchangeability
 
 Words, terms, and phrases used in the singular include the plural and those used in the plural include the singular.
-
-
-
