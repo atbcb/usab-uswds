@@ -40,13 +40,21 @@ EXCEPTION:  The sloping portions of handrails serving *stairs* and *ramps* shal
 Where objects are mounted on a single post or pylon and the objects are more than 27 inches (685 mm) and less than 80 inches (2030 mm) above the walking surface, the objects shall not protrude into the *pedestrian circulation path* more than 4 inches (100 mm) measured horizontally from the post or pylon or more than 4 inches (100mm) measured horizontally from the outside edge of the base where the base height is 2 ½ inches (64 mm) minimum.
 
 <div class="advisory">
-  <figure>
-    <figcaption>Figure R402.3.1(a) Objects mounted on single post or pylon</figcaption>
-    <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of narrow sign with a bottom edge between twenty seven and eighty inches above the ground that does not extend more than four inches beyond the mounting post." />
+  <figure class="advisory">
+    <figcaption id="fig-R402-3-1-a">
+      <span class="text-bold">Figure R402.3.1(a) Objects mounted on single post or pylon</span>
+    </figcaption>
+    <img src="./images/R402-3-1-a_objects_mounted_on_single_post_or_pylon.png"
+        alt="Elevation view of a narrow rectangular object mounted on a single post. The bottom edge of the object is located between 27 and 80 inches above the ground, and it protrudes horizontally a maximum of 4 inches from either side of the post."
+        aria-labelledby="fig-R402-3-1-a" />
   </figure>
-  <figure>
-    <figcaption>Figure R402.3.1(b) Objects mounted on single post or pylon</figcaption>
-    <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png" alt="Elevation view of large diamond shaped sign with the side corners between twenty seven and eighty inches above the ground with the post mounted in a base.  The side corners of the sign do not extend more than four inches beyond the base." />
+  <figure class="advisory">
+    <figcaption id="fig-R402-3-1-b">
+      <span class="text-bold">Figure R402.3.1(b) Objects mounted on single post or pylon</span>
+    </figcaption>
+    <img src="./images/R402-3-1-b_objects_mounted_on_single_post_or_pylon.png"
+        alt="Elevation view of a diamond-shaped sign mounted on a single post with a base. The widest points of the sign are located between 27 and 80 inches above the ground and protrude horizontally a maximum of 4 inches beyond the outside edge of the base. The base has a minimum height of 2.5 inches."
+        aria-labelledby="fig-R402-3-1-b" />
   </figure>
 </div>
 
@@ -57,8 +65,12 @@ Where objects are mounted between posts or pylons and the clear distance between
 EXCEPTION: Objects mounted with the lowest edge greater than 27 inches (685 mm) and less than 80 inches (2030 mm) above the walking surface are permitted if a barrier with its lowest edge at 27 inches (685 mm) maximum above the walking surface is provided between the posts or pylons.
 
 <figure class="advisory">
-  <figcaption>Figure R402.3.2 Objects mounted between posts or pylons</figcaption>
-  <img src="./images/R402-3-2_objects_mounted_between_posts_or_pylons.png" alt="Two signs mounted between posts separated by more than twelve inches.  The low sign bottom edge is less than twenty-seven inches above the ground. The high sign bottom edge is more than eighty inches above the ground." />
+  <figcaption id="fig-R402-3-2">
+    <span class="text-bold">Figure R402.3.2 Objects mounted between posts or pylons</span>
+  </figcaption>
+  <img src="./images/R402-3-2_objects_mounted_between_posts_or_pylons.png"
+       alt="Elevation view of two examples of objects mounted between posts where the clear distance between the posts is greater than 12 inches. On the left, the object's lowest edge is a maximum of 27 inches above the ground. On the right, the object's lowest edge is a minimum of 80 inches above the ground."
+       aria-labelledby="fig-R402-3-2" />
 </figure>
 
 #### R402.4 Vertical Clearance
@@ -66,8 +78,12 @@ EXCEPTION: Objects mounted with the lowest edge greater than 27 inches (685 mm) 
 Vertical clearance shall be 80 inches (2030 mm) high minimum. Guards or other barriers to prohibit *pedestrian* travel shall be provided where the vertical clearance is less than 80 inches (2030 mm) high above the walking surface. The lowest edge of the guard or barrier shall be located 27 inches (685 mm) maximum above the walking surface.
 
 <figure class="advisory">
-  <figcaption>Figure R402.4 Vertical Clearance</figcaption>
-  <img src="./images/R402-4_vertical_clearance.png" alt="Elevation view of person approaching underside of staircase with barrier rail preventing the person from proceeding where the vertical clearance is less than eighty inches." />
+  <figcaption id="fig-R402-4">
+    <span class="text-bold">Figure R402.4 Vertical Clearance</span>
+  </figcaption>
+  <img src="./images/R402-4_vertical_clearance.png"
+       alt="Elevation view of a person using a white cane approaching the underside of an ascending staircase. A barrier is placed under the stairs to prevent travel where the overhead vertical clearance drops below a minimum of 80 inches. The lowest edge of the barrier is a maximum of 27 inches above the ground, making it detectable by the cane."
+       aria-labelledby="fig-R402-4" />
 </figure>
 
 #### R402.5 Required Clear Width
