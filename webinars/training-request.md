@@ -1,6 +1,6 @@
 ---
 layout: none
-title: Request Training or Travel
+title: External Training Request
 permalink: /webinars/training-request.html
 ---
 
