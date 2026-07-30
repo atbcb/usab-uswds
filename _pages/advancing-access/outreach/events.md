@@ -12,41 +12,7 @@ permalink: /events/
 
 ## Public Events
 
-All are welcome to attend the public session of the next meeting of the U.S. Access Board, which will be open to the public and take place on **Wednesday, July 29 from 1:30 – 3:00 PM (ET)**. The agenda for the meeting includes several Board votes, brief reports from standing Board committees, federal agency updates, and a report by Executive Director Sachin Pavithran.
-
-Members of the public may attend and listen to the session through [Zoom for Government](https://www.zoomgov.com/j/1611432557 "external link"), by phone, [via livestream](https://www.youtube.com/watch?v=UAVRtCEbOTo), or in person at the Board’s Washington D.C. Conference Space. For further information, contact [events@access-board.gov](mailto:events@access-board.gov).
-
-**Public Meeting of the U.S. Access Board**\
-July 29, 2026 \
-1:30 – 3:00 PM (ET) 
-
-**_In-Person Attendance Information_**\
-U.S. Access Board Conference Space\
-1331 F Street NW \
-Suite 800 \
-Washington, D.C. 20004\
-_Note_: For the comfort of all participants and to promote a [fragrance-free environment](https://www.access-board.gov/about/policy/ffe.html), attendees are requested not to use perfume, cologne, or other fragrances.
-
-**_Virtual Attendance Information_** \
-Meeting link: [https://www.zoomgov.com/j/1611432557](https://www.zoomgov.com/j/1611432557)\
-Meeting ID: 161 143 2557\
-Passcode: 426429\
-Dial in: 1-646-828-7666  \
-Contact: [events@access-board.gov](mailto:events@access-board.gov)\
-[Livestream link](https://www.youtube.com/watch?v=UAVRtCEbOTo)
-
-**_Agenda_**
-
-- Introductory Remarks and Roll Call
-- Board vote on approval of draft January 2026 meeting minutes
-- Board vote on location of 2028 and 2029 out-of-town Board meetings
-- Board vote on NPRM to update the Access Board’s FOIA regulation
-- Agency Update Report
-- Standing Committee Reports
-- Election Assistance Commission
-- Federal Agency Updates
-- New Business
-- Adjourn
+The next meeting of the U.S. Access Board will be held in a virtual format on October 28, 2026. More information is forthcoming.
 
 ### Public Events Archives
 
@@ -68,15 +34,23 @@ Members of the Access Board meet quarterly. At the Board meetings, a public sess
 
 ### Future Board Meetings
 
-- July 27 - 29, 2026, In-person, Washington, DC
 - October 26 - 28, 2026, Virtual
 - January 25 - 27, 2027, Virtual
 - April 13 - 15, 2027, In-person, Nashville, TN
 - July 26 - 28, 2027, In-person, Washington, DC
 - October 25 - 27, 2027, Virtual
+- January 24 - 26, 2028, Virtual
+- April 25 - 27, 2028, In-person, Boise and Sun Valley, ID
+- July 24 - 26, 2028, In-person, Washington, DC
+- October 23 - 25, 2028, Virtual
+- January 29 - 31, 2029, Virtual
+- April 24 - 26, 2029, In-person, Charlotte, NC
+- July 23 - 25, 2029, In-person, Washington, DC
+- October 22 - 24, 2029, Virtual
 
 ## Board Meeting Archives
 
+- [July 29, 2026](https://www.youtube.com/watch?v=UAVRtCEbOTo)
 - [May 5, 2026](https://www.youtube.com/watch?v=zwPK4t7d_Ts)
 - [January 28, 2026](https://www.youtube.com/watch?v=czOJYb4pTvg&t=2866s)
 - [July 9, 2025](https://www.youtube.com/watch?v=w3tbOSkbvYw&t=3679s)
