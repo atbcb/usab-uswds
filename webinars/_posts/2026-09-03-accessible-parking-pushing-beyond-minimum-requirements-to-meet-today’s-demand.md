@@ -23,9 +23,6 @@ video-link: ''
 webinar: true
 ---
 
-Thursday, September 3, 2026
-2:30 PM - 4:00 PM Eastern Time Zone
-
 ### Description
 
 While the 2010 ADA Accessibility Standards and Architectural Barriers Act define the minimum number of accessible parking spaces and their design, data from state agencies and community reporting make clear that policy change is required to address a nationwide crisis of accessible parking availability. This session will review the minimum design requirements for accessible parking and potential solutions to address the needs of those who require it. Presenters will propose improvements that can be made at a state or local government level, including the need to increase the proportion of accessible spaces relative to all parking, educating the public to help make people aware of accessible parking and who needs it, and steps that can improve enforcement and ensure those who need parking can access it.
