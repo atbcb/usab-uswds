@@ -23,10 +23,6 @@ video-link: ''
 webinar: true
 ---
 
-## Accessible Parking: Pushing Beyond Minimum Requirements to Meet Today’s Demand
-
-### 
-
 Thursday, September 3, 2026
 2:30 PM - 4:00 PM Eastern Time Zone
 
