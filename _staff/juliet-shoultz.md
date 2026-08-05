@@ -3,7 +3,7 @@ name: juliet-shoultz
 first_name: Juliet
 last_name: Shoultz
 full_name: Juliet Shoultz
-image: /images/uploads/juliet-shoultz-director-square.png.jpg
+image: /images/uploads/juliet-shoultz-director-square.jpg
 job-title: Director
 office: Office of Technical and Information Services
 agency: ''
