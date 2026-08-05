@@ -3,7 +3,7 @@ name: mannan-dasti
 first_name: Mannan
 last_name: Dasti
 full_name: Mannan Dasti
-image: /images/uploads/mannan-dasti.jpeg
+image: /images/uploads/mannan-dasti.jpg
 job-title: Chief Information Officer
 agency: ""
 director: true
