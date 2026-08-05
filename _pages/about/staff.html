@@ -26,7 +26,7 @@ title: Access Board Staff
   {% assign oit = site.staff | where: "office", "Office of Information Technology" | sort: "last_name" %}
 
   <!-- Office of Executive Director -->
-  <div class="">
+  <div class="margin-bottom-4">
     {% for person in oed %}
       {% if person.director == true %}
       <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -91,7 +91,7 @@ title: Access Board Staff
   <br class="page-break" />
 
   <!-- Office of General Counsel -->
-  <div class="">
+  <div class="margin-bottom-4">
     {% for person in ogc %}
       {% if person.director == true %}
       <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -156,7 +156,7 @@ title: Access Board Staff
   <br class="page-break" />
 
   <!-- Office of Administration -->
-  <div class="">
+  <div class="margin-bottom-4">
     {% for person in oa %}
       {% if person.director == true %}
       <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -221,7 +221,7 @@ title: Access Board Staff
   <br class="page-break" />
 
   <!-- Office of Information Technology -->
-  <div class="">
+  <div class="margin-bottom-4">
     {% for person in oit %}
       {% if person.director == true %}
       <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -286,7 +286,7 @@ title: Access Board Staff
   <br class="page-break" />
 
   <!-- Office of Technical and Information Services -->
-  <div class="">
+  <div class="margin-bottom-4">
     {% for person in otis %}
       {% if person.director == true %}
       <h2 class="site-preview-heading">{{ person.office }}</h2>
