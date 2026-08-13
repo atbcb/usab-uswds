@@ -817,10 +817,30 @@ banner-subtitle: ""
   </p>
   <ul>
     <li>
-      <a
-        href="https://usa-accessboard.box.com/s/muxcrgqooh16q44aqbiq27da76okuway"
-        >Program 1: Pedestrians Who Use Wheelchairs</a
+      <!-- The crossorigin attribute is strictly required for pulling VTT files from a different domain (Azure) -->
+      <video
+        controls
+        crossorigin="anonymous"
+        style="max-width: 640px; height: auto"
       >
+        <!-- 1. The Video File -->
+        <source
+          src="https://usabpublicblobtest.blob.core.windows.net/public-website-assets/TestVideo.mp4"
+          type="video/mp4"
+        />
+
+        <!-- 2. The Captions File -->
+        <track
+          src="https://usabpublicblobtest.blob.core.windows.net/public-website-assets/Test.vtt"
+          kind="captions"
+          srclang="en"
+          label="English"
+          default
+        />
+
+        <!-- Fallback text for very old browsers -->
+        Your browser does not support the video tag.
+      </video>
     </li>
     <li>
       <a
