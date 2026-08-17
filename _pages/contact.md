@@ -18,7 +18,7 @@ Email:  <info@access-board.gov>
 
 If you have questions on these accessibility guidelines and standards call or email:
 
-- 202-272-0080, extension 3 (voice)
+- 202-272-0080 (voice)
 - <ta@access-board.gov>
 
 *Technical assistance is available 10:00 -- 4:00 ET weekdays.*
