@@ -2,7 +2,7 @@
 title: Contact Us
 layout: page-right-sidenav
 right-sidenav: sidenav-subscribe-social.html
-datafile: contact 
+datafile: contact
 sidenav: false
 permalink: /contact/
 ---
@@ -18,10 +18,15 @@ Email:  <info@access-board.gov>
 
 If you have questions on these accessibility guidelines and standards call or email:
 
-- 202-272-0080, extension 3 (voice)
+- 202-272-0080 (voice)
 - <ta@access-board.gov>
 
 *Technical assistance is available 10:00 -- 4:00 ET weekdays.*
+
+## Training
+
+To request virtual or in-person trainig, complete the [Training Request Form]({{ site.baseurl }}/webinars/training-request.html).
+For more information on the Board's training program contact the Training Coordinator at <training@access-board.gov>
 
 ## E-mail Directory
 
@@ -46,7 +51,7 @@ If you have questions on these accessibility guidelines and standards call or em
 
 ## Phone Directory
 
-***Voice:***  **202-272-0080** or **800-872-2253**  
+***Voice:***  **202-272-0080** or **800-872-2253**
 ***tty:***  **202-272-0082** or **800-993-2822**
 
 |Executive Director's Office | &nbsp; | &nbsp; |
