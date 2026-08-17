@@ -25,7 +25,7 @@ If you have questions on these accessibility guidelines and standards call or em
 
 ## Training
 
-To request virtual or in-person trainig, complete the [Training Request Form](/webinars/training-request.html).
+To request virtual or in-person trainig, complete the [Training Request Form]({{ site.baseurl }}/webinars/training-request.html).
 For more information on the Board's training program contact the Training Coordinator at <training@access-board.gov>
 
 ## E-mail Directory
