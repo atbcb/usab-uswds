@@ -12,6 +12,13 @@
   linkto: /webinars/
   linktext: Learn More
 
+  title: Training
+  text: "The Access Board provides virtual and in-person training on its accessibility guidelines and standards"
+  image: /images/stock/hero-external-training.jpeg
+  description: training banner
+  linkto: /webinars/training-request.html
+  linktext: Learn More
+
 - title: File an ABA Complaint
   text: "Learn how to file an Architectural Barriers Act (ABA) complaint with the Access Board."
   image: /images/stock/hero-abacomplaint.jpeg
