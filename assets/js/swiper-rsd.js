@@ -1,6 +1,6 @@
-var homepageSwiper = new Swiper('.swiper-homepage', {
+var homepageSwiper = new Swiper(".swiper-homepage", {
   // Optional parameters
-  direction: 'horizontal',
+  direction: "horizontal",
   loop: false,
   slidesPerView: 1,
   spaceBetween: 30,
@@ -9,13 +9,13 @@ var homepageSwiper = new Swiper('.swiper-homepage', {
     // when window width is >= 640px
     640: {
       slidesPerView: 3,
-      spaceBetween: 30
+      spaceBetween: 30,
     },
     // when window width is >=  1024px
     1024: {
       slidesPerView: 5,
-      spaceBetween: 30
-    }
+      spaceBetween: 30,
+    },
   },
   keyboard: {
     enabled: true,
@@ -23,28 +23,28 @@ var homepageSwiper = new Swiper('.swiper-homepage', {
 
   // If we need pagination
   pagination: {
-    el: '.swiper-homepage .swiper-pagination',
+    el: ".swiper-homepage .swiper-pagination",
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-homepage .swiper-button-next',
-    prevEl: '.swiper-homepage .swiper-button-prev',
+    nextEl: ".swiper-homepage .swiper-button-next",
+    prevEl: ".swiper-homepage .swiper-button-prev",
   },
 
   // And if we need scrollbar
   scrollbar: {
-    el: '.swiper-homepage .swiper-scrollbar',
+    el: ".swiper-homepage .swiper-scrollbar",
   },
 
   a11y: {
-    enabled: true
-  }
-})
+    enabled: true,
+  },
+});
 
-var singleSwiper = new Swiper('.swiper-single', {
+var singleSwiper = new Swiper(".swiper-single", {
   // Optional parameters
-  direction: 'horizontal',
+  direction: "horizontal",
   loop: false,
   slidesPerView: 1,
   spaceBetween: 30,
@@ -54,55 +54,62 @@ var singleSwiper = new Swiper('.swiper-single', {
 
   // If we need pagination
   pagination: {
-    el: '.swiper-single .swiper-pagination',
+    el: ".swiper-single .swiper-pagination",
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-single .swiper-button-next',
-    prevEl: '.swiper-single .swiper-button-prev',
+    nextEl: ".swiper-single .swiper-button-next",
+    prevEl: ".swiper-single .swiper-button-prev",
   },
 
   // And if we need scrollbar
   scrollbar: {
-    el: '.swiper-single .swiper-scrollbar',
+    el: ".swiper-single .swiper-scrollbar",
   },
 
   a11y: {
-    enabled: true
-  }
-})
+    enabled: true,
+  },
+});
 
-var heroSwiper = new Swiper('.swiper-hero-carousel', {
+var heroSwiper = new Swiper(".swiper-hero-carousel", {
   // Optional parameters
-  direction: 'horizontal',
-  loop: false,
+  direction: "horizontal",
+  loop: true, // Changed to true so it repeats endlessly
   slidesPerView: 1,
   spaceBetween: 30,
   keyboard: {
     enabled: true,
   },
 
+  // NEW: Autoplay settings
+  autoplay: {
+    delay: 5000, // 5000 milliseconds = 5 seconds per slide
+    pauseOnMouseEnter: true, // Pauses when the user hovers over it
+    disableOnInteraction: true, // Stops autoplaying if the user clicks the arrows or pagination
+  },
+
   // If we need pagination
   pagination: {
-    el: '.swiper-hero-carousel .swiper-pagination',
+    el: ".swiper-hero-carousel .swiper-pagination",
   },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-hero-carousel .swiper-button-next',
-    prevEl: '.swiper-hero-carousel .swiper-button-prev',
+    nextEl: ".swiper-hero-carousel .swiper-button-next",
+    prevEl: ".swiper-hero-carousel .swiper-button-prev",
   },
 
   // And if we need scrollbar
   scrollbar: {
-    el: '.swiper-hero-carousel .swiper-scrollbar',
+    el: ".swiper-hero-carousel .swiper-scrollbar",
   },
 
   a11y: {
-    enabled: true
-  }
-})
+    enabled: true,
+  },
+});
 
 //try this effect
 var coverflowSwiper = new Swiper(".hero-coverflow", {
