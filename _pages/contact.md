@@ -25,7 +25,7 @@ If you have questions on these accessibility guidelines and standards call or em
 
 ## Training
 
-To request virtual or in-person trainig, complete the [Training Request Form]({{ site.baseurl }}/webinars/training-request.html).
+To request virtual or in-person training, complete the [Training Request Form]({{ site.baseurl }}/webinars/training-request.html).
 For more information on the Board's training program contact the Training Coordinator at <training@access-board.gov>
 
 ## E-mail Directory
@@ -37,7 +37,7 @@ For more information on the Board's training program contact the Training Coordi
 | <enforce@access-board.gov> | filing a complaint about facility access under the Architectural Barriers Act |
 | <espanol@access-board.gov> | Spanish-language questions |
 | <events@access-board.gov> | questions about upcoming Board meetings and other events |
-| <foia@access-board.gov>    | submitting a request under the Freedom Of Information Act |
+| <foia@access-board.gov>    | submitting a request under the Freedom of Information Act |
 | <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
 | <mde@access-board.gov> | questions about medical diagnostic equipment |
 | <news@access-board.gov> | media inquiries, public affairs, outreach, or subscriptions to the Board's e-news |
