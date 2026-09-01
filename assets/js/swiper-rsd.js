@@ -83,13 +83,6 @@ var heroSwiper = new Swiper(".swiper-hero-carousel", {
     enabled: true,
   },
 
-  // NEW: Autoplay settings
-  autoplay: {
-    delay: 5000, // 5000 milliseconds = 5 seconds per slide
-    pauseOnMouseEnter: true, // Pauses when the user hovers over it
-    disableOnInteraction: true, // Stops autoplaying if the user clicks the arrows or pagination
-  },
-
   // If we need pagination
   pagination: {
     el: ".swiper-hero-carousel .swiper-pagination",
