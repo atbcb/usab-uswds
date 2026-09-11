@@ -45,19 +45,33 @@
             );
         },
         toPreview: function (opts, getAsset, fields) {
-          var alt = opts.alt;
-          var image = opts.image;
-          var title = opts.title;
-          var _fields;
+          var alt = opts.alt || "";
+          var image = opts.image || "";
+          var title = opts.title || "";
+          var src = image; // Default to the raw image path
 
-          var imageField =
-            (_fields = fields) === null || _fields === void 0
-              ? void 0
-              : _fields.find(function (f) {
-                  return f.get("widget") === "image";
-                });
-          var src = getAsset(image, imageField);
-          return "<img src={src || ''} alt={alt || ''} title={title || ''} />;";
+          // Only try to use getAsset if Sveltia actually provides it as a function
+          if (typeof getAsset === "function") {
+            var _fields;
+            var imageField =
+              (_fields = fields) === null || _fields === void 0
+                ? void 0
+                : _fields.find(function (f) {
+                    return f.get("widget") === "image";
+                  });
+            src = getAsset(image, imageField) || image;
+          }
+
+          // Return standard HTML string concatenation
+          return (
+            '<img src="' +
+            src +
+            '" alt="' +
+            alt +
+            '" title="' +
+            title +
+            '" style="max-width: 100%; height: auto;" />'
+          );
         },
         pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
         fields: [
