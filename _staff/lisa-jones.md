@@ -3,7 +3,6 @@ name: lisa-jones
 first_name: Lisa
 last_name: Jones
 full_name: Lisa Jones
-image: ''
 job-title: Executive Assistant
 office: Office of Executive Director
 ---
