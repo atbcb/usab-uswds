@@ -26,6 +26,10 @@ Welcome to the Access Board's Freedom of Information Act (FOIA) page.&nbsp; We h
 
 The Freedom of Information Act (5 U.S.C. § 552) provides a right of access to the public of government records.&nbsp; The Act also allows the government to withhold certain information in responding to those requests in nine exemptions, including for national security, deliberative process and attorney client, and confidential business information, to name a few.
 
+### 2026 Revision of FOIA Regulations
+
+On September 23, 2026, the Access Board published a final rule updating its regulations under the Freedom of Information Act (FOIA). The final rule can be found at [91 FR 60308](https://www.federalregister.gov/documents/2026/09/23/2026-19448/revision-of-freedom-of-information-act-regulations). The rule streamlines the language of several procedural provisions; updates procedures consistent with current technology; incorporates changes required by amendments to the FOIA under the OPEN Government Act of 2007 and the FOIA Improvement Act of 2016 and developments in case law; and conforms to Department of Justice guidelines for agency FOIA regulations. Information on this page, including the questions and answers, will be updated to reflect the issuance of the new rule.
+
 ## Frequently Asked Questions
 
 ### 1. What does FOIA do?
