@@ -7,10 +7,10 @@ image: ''
 image_alt_text: ''
 presenters:
   - type: external
-    name: Elisha Luyeho, Lead Specialist, Airport Accessibility Compliance Review Program Office of Civil Rights/ Federal Aviation Administration, U.S. Department of Transportation
+    name: Elisha Luyeho, Federal Aviation Administration, U.S. DOT
     url: https://www.accessibilityonline.org/speakers/speaker.aspx?id=11116&ret=Accessibility%20and%20Air%20Travel
   - type: external
-    name: Tracey Hall, Operations Manager External Civil Rights Branch, Transportation Security Administration
+    name: Tracey Hall, Transportation Security Administration
     url: https://www.accessibilityonline.org/speakers/speaker.aspx?id=11189&ret=Accessibility%20and%20Air%20Travel
 tags:
   - ADA
