@@ -4,7 +4,7 @@ first_name: Mannan
 last_name: Dasti
 full_name: Mannan Dasti
 image: /images/uploads/mannan-dasti.jpg
-job-title: Director
+job-title: Director/CIO
 office: Office of Information Technology
 agency: ''
 director: true
