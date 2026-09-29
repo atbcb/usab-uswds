@@ -9,4 +9,4 @@ office: Office of General Counsel
 agency: ''
 ---
 
-Frances Spiegel serves as an Attorney Advisor in the Office of General Counsel at the Access Board.
+Frances Spiegel serves as an Attorney Advisor in the Office of General Counsel at the U.S. Access Board.
