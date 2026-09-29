@@ -10,7 +10,7 @@ agency: ''
 director: true
 ---
 
-Juliet Shoultz serves as the Director of the Office of Technical and Information Services at the Access Board. In this role, Shoultz leads the Access Board’s team of subject matter experts in developing accessible design guidelines and standards, providing technical assistance, and delivering training on access to the built environment, transportation vehicles, public right-of-way, information and communication technology, and medical diagnostic equipment under the Americans with Disabilities Act of 1990 (ADA) and other laws.
+Juliet Shoultz serves as the Director of the Office of Technical and Information Services at the U.S. Access Board. In this role, Shoultz leads the Access Board’s team of subject matter experts in developing accessible design guidelines and standards, providing technical assistance, and delivering training on access to the built environment, transportation vehicles, public right-of-way, information and communication technology, and medical diagnostic equipment under the Americans with Disabilities Act of 1990 (ADA) and other laws.
 
 Shoultz worked most recently as the Board’s Transportation Systems Engineer. In that role, she served as lead technical staff on accessible transportation, with a portfolio that included accessible transportation in the public right-of-way, transportation vehicles, electric vehicle charging stations as well as accessible passenger vessels and other emerging technologies in transportation.
 
