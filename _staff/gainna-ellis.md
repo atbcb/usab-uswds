@@ -3,7 +3,6 @@ name: gainna-ellis
 first_name: Gainna
 last_name: Ellis
 full_name: Gainna Ellis
-image: ''
 job-title: Administrative Staff Specialist
 office: Office of Administration
 agency: ''
