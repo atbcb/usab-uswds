@@ -10,6 +10,6 @@ agency: ''
 director: true
 ---
 
-India Thomas has over twenty-five years of accounting, audit, budget, financial management, and organization operations experience. She also brings years of project management, change-management, and contracting experience. India has eighteen years of progressive federal government experience in a highly visible political environment.
+India Thomas serves as the Director of the Office of Administration at the U.S. Access Board. Thomas has over twenty-five years of accounting, audit, budget, financial management, and organization operations experience. She also brings years of project management, change-management, and contracting experience. Thomas has eighteen years of progressive federal government experience in a highly visible political environment.
 
-As the Director of the Office of Administration, India is responsible for managing, administering, and leading all administrative, budget, human capital, resource management, contracting, procurement, and financial activities for the agency. She develops and implements strategies to align resources and improve effective and efficient processes to advance the agency’s mission.
+As the Director of the Office of Administration, Thomas is responsible for managing, administering, and leading all administrative, budget, human capital, resource management, contracting, procurement, and financial activities for the agency. She develops and implements strategies to align resources and improve effective and efficient processes to advance the agency’s mission.
