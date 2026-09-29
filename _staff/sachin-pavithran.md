@@ -1,12 +1,13 @@
 ---
-name: "sachin-pavithran "
+name: sachin-pavithran
 first_name: Sachin
-last_name: "Dev Pavithran "
-full_name: "Sachin Dev Pavithran "
+last_name: Dev Pavithran
+full_name: Sachin Dev Pavithran
 image: /images/uploads/sachin-pavithran.png
 job-title: Executive Director
 office: Office of Executive Director
-agency: ""
+agency: ''
 director: true
 ---
-Dr. Sachin Dev Pavithran is the Executive Director of the Access Board. In this role, Pavithran oversees the daily operations of the agency and supports the development of rules and voluntary guidelines in the areas of transportation, information and communication technology, the built environment, and outdoor recreation. With over 25 years of direct involvement in development, testing, and training for assistive technology, Pavithran has given lectures and training in accessible information technology for individuals and groups, as well as assisted in the evaluation of products related to web accessibility and design. Pavithran also has extensive experience working with the higher education community in providing access to instructional materials to facilitate transitioning from K – 12 to post-secondary education into the workforce. Pavithran has presented and provided training in the U.S. and worldwide, including in Africa, Asia, Europe, Latin America, and the Middle East.
+
+Dr. Sachin Dev Pavithran is the Executive Director of the U.S. Access Board. In this role, Pavithran oversees the daily operations of the agency and supports the development of rules and voluntary guidelines in the areas of transportation, information and communication technology, the built environment, and outdoor recreation. With over 25 years of direct involvement in development, testing, and training for assistive technology, Pavithran has given lectures and training in accessible information technology for individuals and groups, as well as assisted in the evaluation of products related to web accessibility and design. Pavithran also has extensive experience working with the higher education community in providing access to instructional materials to facilitate transitioning from K – 12 to post-secondary education into the workforce. Pavithran has presented and provided training in the U.S. and worldwide, including in Africa, Asia, Europe, Latin America, and the Middle East.
