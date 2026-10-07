@@ -3,12 +3,12 @@ title: About the ICT Accessibility 508 Standards and 255 Guidelines
 version: original
 file: /files/ict/ict-final-rule.pdf
 ---
-These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
+These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
 
 Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp; The statute also charges the Access Board with providing Technical Assistance on Section 508, which is provided through [webinars]({{ site.baseurl }}/webinars/), [trainings]({{ site.baseurl }}/training/), and in close collaboration with GSA and materials available from [Section508.gov](https://www.section508.gov).
 
-Section 508 requires access to ICT developed, procured, maintained, or used by federal agencies.&nbsp; 
-Examples include computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.&nbsp; 
+Section 508 requires access to ICT developed, procured, maintained, or used by federal agencies.&nbsp;
+Examples include computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.&nbsp;
 The Section 508 Standards, which are part of the Federal Acquisition Regulation, ensure access for people with physical, sensory, or cognitive disabilities.
 
 The Section 255 Guidelines cover telecommunications equipment and customer-premises equipment --- such as telephones, cell phones, routers, set-top boxes, and computers with modems, interconnected Voice over Internet Protocol products, and software integral to the operation of telecommunications function of such equipment.
@@ -19,7 +19,7 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 * January 18, 2017 -- The Board issues the [final rule](https://federalregister.gov/d/2017-00395), [docket ATBCB-2015-0002-014](https://www.regulations.gov/document/ATBCB-2015-0002-0144).
 * February 27, 2015 -- The Board [ICT proposed rule](https://federalregister.gov/d/2015-03467) for public comment, [docket ATBCB-2015-0002](https://www.regulations.gov/docket/ATBCB-2015-0002).
 * December 8, 2011 -- The Board issues a [revised draft proposed rule](https://federalregister.gov/d/2011-31462) for public comment, [docket ATBCB-2011-0007](https://www.regulations.gov/docket/ATBCB-2011-0007).
-* March 22, 2010 -- The Board releases a [draft proposed rule](https://federalregister.gov/d/2010-6245) for public comment, [docket ATBCB-2010-0001](https://www.regulations.gov/docket/ATBCB-2010-0001).
+* March 22, 2010 -- The Board releases an [advance notice of proposed rulemaking](https://federalregister.gov/d/2010-6245) for public comment, [docket ATBCB-2010-0001](https://www.regulations.gov/docket/ATBCB-2010-0001).
 * April 3, 2008 -- The Advisory Committee presents its final report to the Board.
 * July 6, 2006 -- The [Board organizes TEITAC](https://federalregister.gov/d/E6-10562), the Telecommunications and Electronic and Information Technology Advisory Committee, to assist in updating the Section 508 Standards and Telecommunications Act Guidelines.
 * December 21, 2000 -- The Board issues the [original Section 508 Standards](https://federalregister.gov/d/00-32017).
