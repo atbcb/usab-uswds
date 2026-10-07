@@ -417,11 +417,11 @@ EXCEPTIONS: 1. When *detectable warning surfaces* are cut to fit, center-to-cent
 
 <div class="advisory">
   <figure>
-    <figcaption>Figure R305.1.4(a) Surface size, perpendicular curb ramp</figcaption>
+    <figcaption>Figure R305.1.4(a) Surface size, curb ramp with flared sides</figcaption>
     <img src="./images/R305-1-4-a_surface_size.png" alt="Plan view of perpendicular curb ramp with flared sides and the detectable warning surface identified with minimum depth and width." />
   </figure>
   <figure>
-    <figcaption>Figure R305.1.4(b) Surface size, minimum parallel curb ramp</figcaption>
+    <figcaption>Figure R305.1.4(b) Surface size, curb ramp with returned sides</figcaption>
     <img src="./images/R305-1-4-b_surface_size.png" alt="Plan view of parallel curb ramps with the detectable warning surface identified with minimum depth and width." />
   </figure>
 </div>
