@@ -15,7 +15,8 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 
 This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, and USPS:
 
-- [GSA adoption of ABAAS](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update)
+- [GSA Core Building Standards](https://www.gsa.gov/real-estate/core-building-standards-for-the-public-buildings-service)
+  - [GSA adoption of ABAAS](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update)
   - [Addition of PROWAG](https://www.federalregister.gov/documents/2024/07/03/2024-14424/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public)
 - [DOD policy memorandum](dod-policy-memo.html)
 - [USPS, 39 CFR 254](https://www.ecfr.gov/current/title-39/part-254)
@@ -64,5 +65,7 @@ Figures in the ABA Standards are available for [download (zip file of figures in
 - August 8, 2023 -- The Board publishes the [ADA and ABA Accessibility Guidelines for the Public Right-of-Way (PROWAG)](https://www.federalregister.gov/documents/2023/08/08/2023-16149/accessibility-guidelines-for-pedestrian-facilities-in-the-public-right-of-way).
 
 - July 3, 2024 -- [GSA adopts PROWAG](https://www.federalregister.gov/documents/2024/07/03/2024-14424/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public).
+
+- September 21, 2026 -- [GSA moves location of ABAAS from CFR to Core Building Standards](https://www.gsa.gov/system/files/2026%20PBS%20Core%20Building%20Standards%20%28CBS%29%20with%20memorandum_0.pdf).
 
 ---
