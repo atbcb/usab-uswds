@@ -32,7 +32,6 @@ _Agenda_
 - Board vote on approval of draft July 2026 meeting minutes
 - Agency Update
 - Standing Committee Reports
-- Election Assistance Commission
 - Federal Agency Updates
 - New Business
 - Adjourn
