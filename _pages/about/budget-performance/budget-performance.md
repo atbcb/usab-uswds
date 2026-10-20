@@ -8,7 +8,7 @@ permalink: /about/budget-performance/
 
 # {{ page.title }} of the Access Board
 
-* [Strategic Plan FY 2022 - 2026]({{ site.baseurl }}/about/strategic-plan-fy2022.html)
+* [Strategic Plan FY 2027 - 2030]({{ site.baseurl }}/about/strategic-plan-fy2027.html)
 * [Performance and Accountability Report]({{ site.baseurl }}/about/par.html)
 * [Budget Justification & Agency Performance Plan]({{ site.baseurl }}/about/cj2027.html)
 * [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html)
