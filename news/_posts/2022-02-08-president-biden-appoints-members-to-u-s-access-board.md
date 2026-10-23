@@ -24,7 +24,7 @@ With fifteen years of experience developing and demonstrating accessible technol
 
 **Mozhdeh Amelia Hamraie**
 
-Dr. Aimi Hamraie (they/them) is a disabled designer and scholar, with expertise in architectural and digital media accessibility. They are the author of *Building Access: Universal Design and the Politics of Disability* (University of Minnesota Press, 2017), a history of the Universal Design movement and accessibility standards in the United States. Hamraie works as Associate Professor of Medicine, Health, & Society and American Studies at Vanderbilt University.
+Dr. Aimi Hamraie is a disabled designer and scholar, with expertise in architectural and digital media accessibility. Hamraie is the author of *Building Access: Universal Design and the Politics of Disability* (University of Minnesota Press, 2017), a history of the Universal Design movement and accessibility standards in the United States. Hamraie works as Associate Professor of Medicine, Health, & Society and American Studies at Vanderbilt University.
 
 **Hannah Raissa Ibañez**
 
