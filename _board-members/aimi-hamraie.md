@@ -1,5 +1,5 @@
 ---
-name: lichen-hamraie
+name: aimi-hamraie
 last-name: hamraie
 full_name: Dr. Lichen Hamraie
 chair: false
