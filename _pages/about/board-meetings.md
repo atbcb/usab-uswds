@@ -12,33 +12,10 @@ permalink: /about/meetings.html
 
 ## Next Board Meeting
 
-All are welcome to attend the next meeting of the U.S. Access Board, which will be open to the public and take place virtually on **Wednesday, October 28** from **1:30 – 3:00 PM (ET)**. The agenda for the meeting includes remarks from Acting Chair and Vice-Chair Tina Guenette, brief reports from Board committees, federal agency updates, and an Agency Update from Access Board staff.
-
-Additionally, the Access Board is pleased to be joined by representatives from the [National Council on Disability](https://www.ncd.gov/), who will be speaking about their shared mission of advancing accessibility for all Americans.
-
-Members of the public may attend the meeting through the [Zoom for Government platform](https://www.zoomgov.com/j/1654292527) or by phone (listen-only mode). Please note that participation over Zoom will require the use of the passcode provided below. For further information, contact the Access Board at [events@access-board.gov](mailto:events@access-board.gov).
-
-**Meeting of the U.S. Access Board**\
-October 28, 2026, 1:30 PM – 3:00 PM (ET)\
-Zoom link: [https://www.zoomgov.com/j/1654292527](https://www.zoomgov.com/j/1654292527)\
-Meeting ID: 165 429 2527\
-Passcode: 978981\
-Dial in: (646) 828-7666\
-Livestream: [https://www.youtube.com/@u.s.accessboard7394/streams](https://www.youtube.com/@u.s.accessboard7394/streams)\
-Contact: [events@access-board.gov](mailto:events@access-board.gov)
-
-_Agenda_
-- Introductory Remarks and Roll Call
-- Board vote on approval of draft July 2026 meeting minutes
-- Agency Update
-- Standing Committee Reports
-- Federal Agency Updates
-- New Business
-- Adjourn
+The next meeting of the U.S. Access Board is scheduled for Wednesday, January 27, 2027. More details are forthcoming.
 
 ## Future Board Meetings
 
-- October 26 - 28, 2026, Virtual
 - January 25 - 27, 2027, Virtual
 - April 13 - 15, 2027, In-person, Nashville, TN
 - July 26 - 28, 2027, In-person, Washington, DC
@@ -54,6 +31,7 @@ _Agenda_
 
 ## Board Meeting Archives
 
+- [October 28, 2026](https://www.youtube.com/watch?v=r51_yjH4u3o)
 - [July 29, 2026](https://www.youtube.com/watch?v=UAVRtCEbOTo)
 - [May 5, 2026](https://www.youtube.com/watch?v=zwPK4t7d_Ts)
 - [January 28, 2026](https://www.youtube.com/watch?v=czOJYb4pTvg&t=2866s)
