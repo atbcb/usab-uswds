@@ -162,7 +162,7 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           <td>0</td>
           <td>0</td>
           <td>
-            India Thomas, Director of Administration<br />Thomas@access-board.gov
+            Drucilla Gordon, Chief of Staff/EEO Dir<br />Gordon@access-board.gov
           </td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           <td>0</td>
           <td>0</td>
           <td>
-            India Thomas, Director of Administration<br />Thomas@access-board.gov
+            Drucilla Gordon, Chief of Staff/EEO Dir<br />Gordon@access-board.gov
           </td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ _Pursuant to 29 C.F.R. § 1614.203(d)(1), agencies must ensure sufficient staff,
           <td>0</td>
           <td>0</td>
           <td>
-            India Thomas, Director of Administration<br />Thomas@access-board.gov
+            Drucilla Gordon, Chief of Staff/EEO Dir<br />Gordon@access-board.gov
           </td>
         </tr>
         <tr>
