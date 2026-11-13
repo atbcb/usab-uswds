@@ -10,7 +10,7 @@ permalink: /about/policy/
 
 - [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html)
 - [Affirmative Action Plan]({{ site.baseurl }}/about/aap.html)
-- [Anti-Harassment Policy]({{ site.baseurl }}/about/anti-harassment.html)
+- [Anti-Harassment Policy]({{ site.baseurl }}/about/policy/anti-harassment.html)
 - [Equal Employment Opportunity Policy Statement]({{ site.baseurl }}/about/eeo-policy.html)
 - [Equal Employment Opportunity Complaint Procedures]({{ site.baseurl }}/about/eeo-complaints.html)
 - [Fragrance-Free Environment]({{ site.baseurl }}/about/policy/ffe.html)
@@ -21,6 +21,7 @@ permalink: /about/policy/
 - [Personal Assistance Services Policy]({{ site.baseurl }}/about/policy/pas.html)
 - [Plain Language (PWA)]({{ site.baseurl }}/about/policy/plain.html)
 - [Privacy Policy and Program]({{ site.baseurl }}/about/policy/privacy.html)
+- [Procedures for Providing Reasonable Accommodations for Pregnancy, Childbirth and Related Medical Conditions]({{ site.baseurl }}/about/policy/pregnancy-childbirth-policy.html)
 - [Reasonable Accommodation Procedures]({{ site.baseurl }}/about/policy/ra.html)
 - [Shutdown Plan]({{ site.baseurl }}/about/policy/shutdown.html)
 - [Vulnerability Disclosure Policy]({{ site.baseurl }}/about/vulnerability-disclosure-policy/)
