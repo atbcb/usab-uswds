@@ -3,7 +3,7 @@ title: Anti-Harassment Policy
 layout: page
 toc: sidenav.html
 banner-title: "About the U.S. Access Board <br /> Equal Employment Opportunity Program"
-permalink: /about/anti-harassment.html
+permalink: /about/policy/anti-harassment.html
 file: usab-anti-harassment-policy.pdf
 file-description: PDF version of USAB Anti-Harassment Policy
 ---
@@ -12,14 +12,14 @@ file-description: PDF version of USAB Anti-Harassment Policy
 # {{ page.title }}
 
 Equal Employment Opportunity Program \
-Approval Date:&nbsp; February 7, 2025 \
-Version:&nbsp; Version 2.1
+Approval Date:  November 10, 2026 \
+Version:  Version 2.2
 
 ## 1. PURPOSE
 
-This document makes minor revisions to the policy issued in October 22 (1) to conform to recently issued executive orders; (2) to delete a repeated reference in the “Authorities” section to 29 C.F.R. Part 1614; (3) to clarify in this introduction that harassment based on genetic information is prohibited; and (4) to substitute Dru Gordon as EEO Director in place of Alison Levy. Harassment is a form of employment discrimination that violates Title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Americans with Disabilities Act of 1990, and Title II of the Genetic Information Nondiscrimination Act. The U.S. Access Board (Access Board or Board) is committed to maintaining a work environment free from harassment.
+The purpose of this Policy is to prevent harassing conduct from occurring in the workplace, and to correct such conduct when it does occur before it becomes severe or pervasive. The conduct covered by this Anti-Harassment Policy is broader than the legal definition of unlawful harassment and includes hostile or abusive conduct based on race, color, religion, sex, national origin, age, disability, genetic information, or pregnancy, childbirth, or related medical conditions, even if such conduct does not rise to the level of illegality.
 
-The purpose of this Policy is to prevent harassing conduct from occurring in the workplace, and to correct such conduct when it does occur before it becomes severe or pervasive. The conduct covered by this Anti-Harassment Policy is broader than the legal definition of unlawful harassment and includes hostile or abusive conduct based on race, color, religion, sex, national origin, age, disability, retaliation, genetic information (including family medical history), marital status, parental status, or political affiliation, even if such conduct does not rise to the level of illegality. The purpose of this policy is to prevent and eliminate harassment in the workplace by supervisors, co-workers, and contractors or other third parties, and to take all necessary steps to avoid harm to an employee who is subject to unwelcome conduct based on any of the abovementioned protected characteristics.
+This policy is to prevent and eliminate harassment in the workplace by supervisors, co-workers, and contractors or other third parties, and to take all necessary steps to avoid harm to an employee who is subject to unwelcome conduct based on any of the abovementioned protected characteristics. The Access Board will not take any adverse action against employees or applicants who request a reasonable accommodation for known limitations of their disability or their pregnancy, childbirth, or related medical conditions.
 
 ## 2. APPLICABILITY
 
@@ -27,19 +27,21 @@ This policy applies to all Access Board employees, public board members, former 
 
 ## 3. AUTHORITIES
 
-- [29 C.F.R. §1614](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614).
+- [29 C.F.R. §1614(a)](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1614).
 - Title VII of the Civil Rights Act ([42 U.S.C. §2000e et seq.](https://uscode.house.gov/view.xhtml?req=(title%3A42%20section%3A2000e-2%20edition%3Aprelim))).
 - Age Discrimination in Employment Act ([29 U.S.C. §621 et seq.](https://uscode.house.gov/view.xhtml?path=/prelim%40title29/chapter14&edition=prelim)).
 - Section 501 of the Rehabilitation Act ([29 U.S.C. §791.](https://www.govinfo.gov/content/pkg/USCODE-2010-title29/pdf/USCODE-2010-title29-chap16-subchapV.pdf)).
 - Title II of the Genetic Information Nondiscrimination Act ([42 U.S.C. 2000ff](https://uscode.house.gov/view.xhtml?path=/prelim%40title42/chapter21F&edition=prelim)).
 - Civil Service Reform Act ([5 U.S.C. §2302(b)(10)](https://www.govinfo.gov/content/pkg/USCODE-2013-title5/pdf/USCODE-2013-title5-partIII-subpartA-chap23-sec2302.pdf)).
+- Pregnant Workers Fairness Act of 2022, 42 U.S.C. 2000gg.
+- EEOC Regulations Implementing the PWFA, 29 C.F.R. Part 1636.
 - EEOC Management Directive 715.
 
 ## 4. HARASSING CONDUCT
 
 ### 4.1. HARASSING CONDUCT.
 
-Harassment or harassing conduct includes unwelcome verbal or physical conduct that is based on an individual’s race, color, religion, sex, national origin, age, disability, genetic information (including family medical history), marital or parental status, political affiliation, or retaliation for opposing conduct made unlawful under the EEO laws or for participating in the EEO process (collectively referred to as “protected characteristics), even if such conduct does not rise to the level of unlawful harassment that violates EEO laws. Unlawful harassment, in turn, is harassing conduct that is based on one or more protected characteristics and where: (1) enduring the offensive conduct becomes a condition of continued employment; or (2) the conduct is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive. Even though a single utterance or act typically does not rise to the level of unlawful harassment, it may nonetheless constitute harassing conduct covered under, and prohibited by, this Policy.
+Harassment or harassing conduct includes unwelcome verbal or physical conduct that is based on an individual’s race, color, religion, sex, national origin, age, disability, genetic information, or pregnancy, childbirth, or related medical conditions, or retaliation for opposing conduct made unlawful under the EEO laws or for participating in the EEO process (collectively referred to as “protected characteristics), even if such conduct does not rise to the level of unlawful harassment that violates EEO laws. Unlawful harassment, in turn, is harassing conduct that is based on one or more protected characteristics and where: (1) enduring the offensive conduct becomes a condition of continued employment; or (2) the conduct is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive. Even though a single utterance or act typically does not rise to the level of unlawful harassment, it may nonetheless constitute harassing conduct covered under, and prohibited by, this Policy.
 
 #### 4.1.1. Types of harassing conduct.
 
@@ -47,7 +49,7 @@ Harassing conduct can take many forms. It may be verbal or physical. It can take
 
 #### 4.1.2. Retaliatory harassment.
 
-Retaliatory harassment may be unlawful even if it is not severe or pervasive enough to create a hostile work environment, as long as it might deter a reasonable person from asserting EEO rights. It is a violation of this Policy to retaliate against employees who engage in protected activity. Protected activity includes reporting harassing conduct, discrimination, or retaliation; filing a claim of harassment; providing evidence in any investigation; or intervening to protect others who may have suffered harassing conduct, discrimination, or retaliation.
+Retaliatory harassment may be unlawful even if it is not severe or pervasive enough to create a hostile work environment, as long as it might deter a reasonable person from asserting EEO rights. It is a violation of this Policy to retaliate against employees who engage in protected activity. Protected activity includes reporting harassing conduct, discrimination, or retaliation; filing a claim of harassment; providing evidence in any investigation; or intervening to protect others who may have suffered harassing conduct, discrimination, or retaliation. The Access Board will not take any adverse action against employees or applicants who use request a reasonable accommodation for known limitations of their disability or their pregnancy, childbirth, or related medical conditions.
 
 ### 4.2. CONDUCT NOT CONSIDERED HARASSING CONDUCT.
 
@@ -87,10 +89,10 @@ The U.S. Access Board does not permit harassing conduct by anyone in the workpla
 
 The U.S. Access Board has determined that the most effective way to limit harassing conduct is to treat it as misconduct, regardless of whether it rises to the level of unlawful harassment. Unlawful harassment (also referred to as a hostile work environment) claim usually requires a showing of a pattern of offensive conduct. The Access Board will not wait for such a pattern to emerge. Rather, the agency will act proactively to stop the harassing conduct before it can become sufficiently severe or pervasive to constitute unlawful harassment.
 
-Additionally, the agency will not tolerate retaliation against any employee for reporting harassing conduct, or for cooperating or assisting in any harassment inquiry conducted by the agency. Allegations of such retaliation shall be handled pursuant to the procedures in this policy.
+Additionally, the agency will not tolerate retaliation against any employee for reporting harassing conduct, or for cooperating or assisting in any harassment inquiry conducted by the agency. The Access Board will not take any adverse action against employees or applicants who use request a reasonable accommodation for known limitations of their disability or pregnancy, childbirth, or related medical conditions. Allegations of such retaliation shall be handled pursuant to the procedures in this policy.
 
 ## 7. PROCEDURES
-   
+
 ### 7.1. REPORTING WORKPLACE HARASSMENT. {#reporting}
 
 This policy provides multiple avenues through which any person to whom this policy applies may report harassing conduct. Access Board employees, supervisors, contractors, or applicants for employment who believe they have been subject to harassing conduct in the workplace, or who have observed workplace harassment, should report these incidents to any of the following agency officials: their first-line supervisor; another supervisor; the EEO Director; the General Counsel; or the Executive Director. Reports of alleged harassing conduct can be made in-person, by telephone, by an online communication platform (e.g., Microsoft Teams), or via email.
@@ -101,11 +103,11 @@ Supervisors or other agency officials who observe or receive reports of allegedl
 
 #### 7.2.1. Resolution of Complaints Without Investigation.
 
-The General Counsel shall work with the appropriate supervisor to promptly determine whether an investigation is necessary, or if the matter can be dealt with in a more informal manner. For example, situations in which the conduct is clear, and the supervisor can correct the behavior with verbal counseling, or the conduct does not fall within the purview of this policy may not necessitate initiating an investigation. If the allegation is settled without initiating an investigation, then the supervisor shall document the incident and actions taken and provide the written report to the General Counsel to be maintained in accordance with [Section 7.3.5](#recording) of this Policy.
+Within 10 calendar days of notification of all harassment allegations, the General Counsel shall work with the appropriate supervisor to promptly determine whether an investigation is necessary, or if the matter can be dealt with in a more informal manner. For example, situations in which the conduct is clear, and the supervisor can correct the behavior with verbal counseling, or the conduct does not fall within the purview of this policy may not necessitate initiating an investigation. If the allegation is settled without initiating an investigation, then the supervisor shall document the incident and actions taken and provide the written report to the General Counsel to be maintained in accordance with [Section 7.3.5](#recording) of this Policy.
 
 #### 7.2.2. Initiating an Investigation.
 
-The General Counsel shall refer for investigation any complaint of harassing conduct that he or she believes warrants one. The Access Board has contracted with the United States Postal Service’s National EEO Investigative Services to provide agency-wide EEO services and investigations into harassing conduct.
+Within 10 calendar days of notification of all harassment allegations, the General Counsel shall refer for investigation any complaint of harassing conduct that he or she believes warrants one. The Access Board has contracted with the United States Postal Service’s National EEO Investigative Services to provide agency-wide EEO services and investigations into harassing conduct.
 
 #### 7.2.3. Informing the Alleged Victim.
 
@@ -125,7 +127,7 @@ The Executive Director shall determine, what, if any, interim action is necessar
 
 #### 7.2.6. Investigation Policy.
 
-Investigations shall be completed as quickly as practicable. The complainant may request an update about the status of the investigation at any time. All investigations must be prompt, thorough, and fair. A report of alleged harassing conduct shall not be presumed true, and an alleged harasser shall not be presumed to have engaged in harassing conduct unless and until a complete investigation determines that harassing conduct occurred. The investigator shall determine the scope of the investigation, which is a fact- specific determination made on a case-by-case basis.
+Investigations shall begin within 10 calendar days of notification of all harassment allegations. The complainant may request an update about the status of the investigation at any time. All investigations must be prompt, thorough, and fair. A report of alleged harassing conduct shall not be presumed true, and an alleged harasser shall not be presumed to have engaged in harassing conduct unless and until a complete investigation determines that harassing conduct occurred. The investigator shall determine the scope of the investigation, which is a fact- specific determination made on a case-by-case basis.
 
 #### 7.2.7. Conducting the Investigation.
 
@@ -160,21 +162,21 @@ The Executive Director, in consultation with the harasser’s direct supervisor 
 
 Examples of types of proportionate preventive and/or corrective action for harassing behavior include, but are not limited to:
 
-1. _Counseling_. An employee shall be counseled for harassing conduct consistent with thisPolicy and applicable conduct rules. After counseling has been imposed, the conduct ofthe counseled employee shall be monitored to ensure that the conduct does not continue.
-2. _Discipline_. For the most serious harassing conduct, corrective action shall includedisciplinary action applicable to violations of conduct standards, such as suspension,demotion, or termination. Corrective action shall be in proportion to the seriousness ofthe harassing conduct.
-3. _Training_. Training, for specific individuals, units, or agency-wide, may be appropriate incertain circumstances. For example, training for specific individuals who do not know howto respond to harassing conduct may be appropriate; training for a particular unit oragency-wide is likely appropriate if more than one employee in a unit or throughout theagency has engaged in harassing conduct, or if there is other evidence that employees donot know what conduct is appropriate and permissible.
+1. _Counseling_. An employee shall be counseled for harassing conduct consistent with this Policy and applicable conduct rules. After counseling has been imposed, the conduct of the counseled employee shall be monitored to ensure that the conduct does not continue.
+2. _Discipline_. For the most serious harassing conduct, corrective action shall include disciplinary action applicable to violations of conduct standards, such as suspension, demotion, or termination. Corrective action shall be in proportion to the seriousness of the harassing conduct.
+3. _Training_. Training, for specific individuals, units, or agency-wide, may be appropriate in certain circumstances. For example, training for specific individuals who do not know how to respond to harassing conduct may be appropriate; training for a particular unit or agency-wide is likely appropriate if more than one employee in a unit or throughout the agency has engaged in harassing conduct, or if there is other evidence that employees do not know what conduct is appropriate and permissible.
 
 #### 7.3.3. Management Official’s Failure to Perform Obligations Under Policy.
 
-Appropriate corrective action, up to and including removal, shall be taken against any management official who fails to perform his/her obligations as set forth in this Policy regarding harassing conduct that the official knew or should have known about. Conversely, appropriate positive reinforcement, up to and including awards and positive feedback on performance appraisals, shall be provided to any management official who responds to harassing conduct in an exemplary manner. 7.3.4. Monitoring. After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 7.3.5. Recording. Once corrective and/or preventative action is implemented, the investigation report described in [Section 7.2.9](#written) shall be amended to describe the action taken. 7.4. INFORMING THE PARTIES. Throughout the investigative process, the General Counsel shall be the point of contact for the alleged victim and alleged harasser regarding the status of the investigation. Once complete, the alleged victim and alleged harasser shall be informed of the outcome of the investigation, in writing, along with any corrective or preventative action taken.
+Appropriate corrective action, up to and including removal, shall be taken against any management official who fails to perform his/her obligations as set forth in this Policy regarding harassing conduct that the official knew or should have known about. Conversely, appropriate positive reinforcement, up to and including awards and positive feedback on performance appraisals, shall be provided to any management official who responds to harassing conduct in an exemplary manner.
 
 #### 7.3.4. Monitoring.
 
-After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry. 
+After instituting corrective action, the supervisor and Executive Director shall monitor the situation to prevent further incidents of harassment or retaliation against individuals who have reported harassment or participated in the inquiry.
 
 #### 7.3.5. Recording. {#recording}
 
-Once corrective and/or preventative action is implemented, the investigation report described in [Section 7.2.9](#written) shall be amended to describe the action taken.
+Once corrective and/or preventative action is implemented, the investigation report described in [Section 8.2.9](#written) shall be amended to describe the action taken.
 
 ### 7.4. INFORMING THE PARTIES.
 
@@ -202,26 +204,27 @@ Copies of this policy shall be distributed to all Access Board staff and posted 
 
 This Anti-Harassment Policy is intended to supplement, not replace or supersede, other complaint processes that permit employees to pursue complaints of alleged harassment. As such, the procedures in this Policy are separate and apart from the Equal Employment Opportunity (EEO) complaint process, the Merit Systems Protection Board (MSPB) appeal process, or any other statutory complaint process that provides remedial relief for allegations of harassment that violate federal law. Further, because the purpose of this policy is to prevent and correct harassing conduct before it becomes severe or pervasive, any supervisor who is notified of an allegation of harassment must follow the procedures set forth in this Policy, even if the complaining employee also files an EEO complaint, an MSPB appeal, or other like charge regarding the alleged incident. The Access Board’s liability for alleged harassment may depend on how quickly and thoroughly it addresses the (mis)conduct of which it becomes aware.
 
-Reporting harassment under this policy does not satisfy or delay the applicable time limits for initiating an EEO complaint, an MSPB appeal, or other statutory complaint process. For example, in the case of an EEO complaint, an employee who has made a report of harassment under this Policy, but also wishes to pursue a claim of discriminatory harassment through the EEO process, must also contact an EEO counselor within 45 days of the most recent incident of alleged harassment or personnel action, if applicable. For more information on how to file an EEO complaint, see the USAB EEO Policies and Procedures.
+Reporting harassment under this policy does not satisfy or delay the applicable time limits for initiating an EEO complaint, an MSPB appeal, or other statutory complaint process. For example, in the case of an EEO complaint, an employee who has made a report of harassment under this Policy, but also wishes to pursue a claim of discriminatory harassment through the EEO process, must also contact an EEO counselor within 45 days of the most recent incident of alleged harassment or personnel action, if applicable. For more information on how to file an EEO complaint, see USAB EEO Policies and Procedures.
 
 ## 10. APPROVALS
 
 This Anti-Harassment Policy is effective upon signature by the Equal Employment Opportunity Director and the Executive Director, and remains in effect until rescinded, superseded, or reissued.
 
+Drucilla Gordon \
+EEO Director \
+/ s /   Date: 2026.11.10
+
+Sachin Pavithran \
+Executive Director \
+/ s /   Date: 2026.11.10
+
 ## 11. REVISION HISTORY
 
 The “Revision History” table below should be used to capture revisions or updates to this Anti-Harassment Policy. All columns are mandatory.
 
-Dru Gordon, Chief of Staff \
-Equal Employment Opportunity Director \
-/ s / &nbsp; Date: 2/11/25
-
-Sachin Pavithran \
-Executive Director \
-/ s / &nbsp; Date: 2/11/25
-
 | Date    | Revision Summary | Version <br /> Number | Author / Owner Name
 | :---    | :---             | :---:               | :---
-| 2/7/2025 | Minor edits to comply with Executive Order | 2.1 | OGC
-| &nbsp;  | &nbsp;           | &nbsp;              | &nbsp;
+| 2/7/2025 | Minor edits to comply with Executive Order | 2.1 | C. Kuczynski
+| 11/9/26 | Edits to comply with EEOC Guidance | 2.2 | D. Gordon
+|    |             |                |  
 {: .usa-table }
