@@ -23,7 +23,7 @@ The U.S. Access Board will hold a public town hall meeting on **Wednesday, Septe
 
 Registrants who wish to make in-person oral comments during the town hall meeting must indicate their request to speak on the registration form and specify the topic of their comment. Public commenters will be allotted two minutes to make their comments.
 
-This town hall meeting is open to the public, but registration is required **by September 7, 2022**, and seats are limited. To register, complete the [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14). Registration for the town hall meeting is the eighth option on the second page of the form. For assistance with registration, please contact the Mid-Atlantic ADA Center at 1-301-217-0124. 
+This town hall meeting is open to the public, but registration is required **by September 7, 2022**, and seats are limited. For assistance with registration, please contact the Mid-Atlantic ADA Center at 1-301-217-0124. 
 
 American Sign Language (ASL) interpreters and Communication Access Real-time Transcription (CART) services will be provided. The Access Board has a fragrance-free environment policy and requests that all attendees refrain from wearing perfume, cologne, and other fragrances and use unscented personal care products. Requests for reasonable accommodations must be submitted on the registration form **by August 22, 2022**. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
 
@@ -31,11 +31,10 @@ American Sign Language (ASL) interpreters and Communication Access Real-time Tra
 > September 14, 2022, 1:30 – 3:30 p.m., followed by networking reception 3:45 – 5:00 p.m. \
 > Liberty Resources, Inc. \
 > 112 N. 8th St. \
-> Philadelphia, PA 19107 
-> [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14) (the town hall meeting is the eighth option on the second page of the form) \
+> Philadelphia, PA 19107 \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
-The Board will also provide free presentations, training, and hands-on workshops on **September 13 and 14** in Philadelphia. Access Board Accessibility Specialists, staff from U.S. Department of Education’s National Digital Access Team, and staff from the Mid-Atlantic ADA Center will cover accessibility and accessible design related to the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards, historic buildings and facilities, information and communication technology, and digital environments. Seats are limited for each session, and registration is required via the [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14). Requests for reasonable accommodations must be submitted on the registration form **by August 22, 2022**. Information on the sessions is below.  
+The Board will also provide free presentations, training, and hands-on workshops on **September 13 and 14** in Philadelphia. Access Board Accessibility Specialists, staff from U.S. Department of Education’s National Digital Access Team, and staff from the Mid-Atlantic ADA Center will cover accessibility and accessible design related to the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards, historic buildings and facilities, information and communication technology, and digital environments. Seats are limited for each session, and registration is required. Requests for reasonable accommodations must be submitted **by August 22, 2022**. Information on the sessions is below.  
 
 ### Accessibility Training in Philadelphia
 #### Tuesday, September 13
